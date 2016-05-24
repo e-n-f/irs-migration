@@ -1,0 +1,529 @@
+"1993 - 1994 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Alaska,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+2,13,0,1,Ak,"Aleutians East Borough (Total Migrant)",126,249,3602
+2,13,2,20,Ak,"Anchorage Borough",29,59,904
+2,13,63,20,XX,"Same State",22,44,602
+2,13,63,21,XX,"Same Region, Diff. State",63,112,1587
+2,13,63,22,XX,"Different Region",12,34,509
+2,13,63,50,Ak,"County Non-Migrant",483,1101,14210
+2,16,0,1,Ak,"Aleutians West (Total Migrant)",1282,2762,36115
+2,16,57,5,FR,"APO / FPO Zip Code",107,170,2100
+2,16,6,73,Ca,"San Diego",83,204,1958
+2,16,2,20,Ak,"Anchorage Borough",61,119,1910
+2,16,53,33,Wa,King,58,109,1519
+2,16,15,3,Hi,Honolulu,43,95,1178
+2,16,53,35,Wa,Kitsap,33,93,1071
+2,16,53,29,Wa,Island,27,59,608
+2,16,53,53,Wa,Pierce,24,33,494
+2,16,51,810,Va,"Virginia Beach city",22,60,625
+2,16,6,111,Ca,Ventura,19,55,451
+2,16,53,61,Wa,Snohomish,17,41,645
+2,16,12,33,Fl,Escambia,15,41,639
+2,16,24,3,Md,"Anne Arundel",11,26,283
+2,16,6,77,Ca,"San Joaquin",11,17,246
+2,16,57,7,FR,"Foreign / Virgin Islands",10,27,361
+2,16,53,63,Wa,Spokane,10,13,149
+2,16,6,1,Ca,Alameda,10,23,318
+2,16,4,13,Az,Maricopa,10,19,251
+2,16,63,10,XX,"Same State",58,127,2358
+2,16,63,11,XX,"Region 1: Northeast",61,130,1701
+2,16,63,12,XX,"Region 2: Midwest",110,260,3134
+2,16,63,13,XX,"Region 3: South",235,526,6956
+2,16,63,14,XX,"Region 4: West",247,515,7160
+2,16,63,50,Ak,"County Non-Migrant",1549,3516,61953
+2,20,0,1,Ak,"Anchorage Borough (Total Migrant)",8526,18461,284694
+2,20,2,170,Ak,"Matanuska-Susitna Boroug",683,1566,25075
+2,20,53,33,Wa,King,385,654,13876
+2,20,2,122,Ak,"Kenai Peninsula Borough",340,676,12450
+2,20,2,90,Ak,"Fairbanks North Star Bor",253,493,7080
+2,20,4,13,Az,Maricopa,174,340,5863
+2,20,53,53,Wa,Pierce,122,247,4352
+2,20,32,3,Nv,Clark,109,235,3723
+2,20,8,41,Co,"El Paso",107,267,3025
+2,20,57,5,FR,"APO / FPO Zip Code",101,245,2717
+2,20,6,37,Ca,"Los Angeles",85,145,3096
+2,20,2,261,Ak,Valdez-Cordova,77,147,2753
+2,20,37,51,NC,Cumberland,77,232,1807
+2,20,48,29,Tx,Bexar,74,174,2361
+2,20,41,51,Or,Multnomah,71,106,1611
+2,20,53,61,Wa,Snohomish,69,135,2150
+2,20,53,63,Wa,Spokane,68,133,2151
+2,20,2,150,Ak,"Kodiak Island Borough",66,101,1602
+2,20,2,110,Ak,"Juneau Borough",64,128,2159
+2,20,48,201,Tx,Harris,59,148,7658
+2,20,48,27,Tx,Bell,58,161,1372
+2,20,15,3,Hi,Honolulu,58,106,1768
+2,20,6,73,Ca,"San Diego",56,104,1433
+2,20,4,19,Az,Pima,56,101,1289
+2,20,2,50,Ak,Bethel,49,99,1177
+2,20,57,1,FR,"Foreign / Overseas",48,95,3332
+2,20,41,39,Or,Lane,46,74,841
+2,20,41,67,Or,Washington,46,89,1581
+2,20,2,180,Ak,Nome,43,77,1051
+2,20,16,1,Id,Ada,40,89,2058
+2,20,32,31,Nv,Washoe,39,76,1501
+2,20,47,125,Tn,Montgomery,39,108,917
+2,20,35,1,NM,Bernalillo,37,86,1091
+2,20,53,67,Wa,Thurston,37,79,840
+2,20,53,11,Wa,Clark,36,76,1100
+2,20,41,5,Or,Clackamas,34,75,1374
+2,20,6,59,Ca,Orange,34,64,1939
+2,20,2,185,Ak,"North Slope Borough",34,60,1331
+2,20,2,188,Ak,"Northwest Arctic",33,76,1110
+2,20,12,91,Fl,Okaloosa,33,92,1027
+2,20,6,65,Ca,Riverside,33,78,770
+2,20,53,73,Wa,Whatcom,32,57,1789
+2,20,6,75,Ca,"San Francisco",32,41,720
+2,20,17,31,Il,Cook,31,64,1209
+2,20,2,16,Ak,"Aleutians West",30,45,759
+2,20,41,47,Or,Marion,30,61,787
+2,20,12,57,Fl,Hillsborough,30,63,959
+2,20,36,45,NY,Jefferson,30,93,746
+2,20,8,31,Co,Denver,30,49,994
+2,20,21,47,Ky,Christian,30,64,486
+2,20,47,157,Tn,Shelby,29,58,1914
+2,20,4,3,Az,Cochise,28,81,712
+2,20,24,33,Md,"Prince George's",27,64,666
+2,20,6,71,Ca,"San Bernardino",27,61,405
+2,20,8,5,Co,Arapahoe,27,59,1313
+2,20,6,85,Ca,"Santa Clara",26,51,566
+2,20,40,31,Ok,Comanche,26,98,717
+2,20,6,67,Ca,Sacramento,26,56,625
+2,20,8,59,Co,Jefferson,25,58,1650
+2,20,13,179,Ga,Liberty,25,75,570
+2,20,53,35,Wa,Kitsap,25,55,1319
+2,20,51,59,Va,Fairfax,24,66,1102
+2,20,49,35,Ut,"Salt Lake",24,52,983
+2,20,53,77,Wa,Yakima,23,41,508
+2,20,41,29,Or,Jackson,23,47,684
+2,20,2,240,Ak,"Southeast Fairbanks",22,46,523
+2,20,48,453,Tx,Travis,22,31,807
+2,20,49,49,Ut,Utah,21,74,912
+2,20,6,29,Ca,Kern,21,53,843
+2,20,13,215,Ga,Muscogee,21,69,615
+2,20,8,69,Co,Larimer,20,32,659
+2,20,48,113,Tx,Dallas,20,39,952
+2,20,6,95,Ca,Solano,20,58,583
+2,20,2,70,Ak,Dillingham,20,41,648
+2,20,8,13,Co,Boulder,19,27,410
+2,20,6,83,Ca,"Santa Barbara",19,41,344
+2,20,27,53,Mn,Hennepin,19,23,500
+2,20,40,109,Ok,Oklahoma,19,42,597
+2,20,2,290,Ak,Yukon-Koyukuk,18,30,449
+2,20,11,1,DC,"Wash.,D.C.",18,21,372
+2,20,48,439,Tx,Tarrant,18,48,866
+2,20,2,130,Ak,"Ketchikan Gateway Boroug",17,40,424
+2,20,30,29,Mt,Flathead,17,27,747
+2,20,30,13,Mt,Cascade,17,49,523
+2,20,45,19,SC,Charleston,17,35,498
+2,20,48,85,Tx,Collin,17,59,2333
+2,20,30,63,Mt,Missoula,17,28,515
+2,20,6,53,Ca,Monterey,16,30,294
+2,20,17,163,Il,"St. Clair",16,50,570
+2,20,12,5,Fl,Bay,16,35,535
+2,20,16,39,Id,Elmore,16,46,536
+2,20,46,103,SD,Pennington,16,46,481
+2,20,15,1,Hi,Hawaii,16,33,426
+2,20,13,245,Ga,Richmond,16,40,379
+2,20,12,95,Fl,Orange,16,25,233
+2,20,5,119,Ar,Pulaski,16,42,455
+2,20,48,441,Tx,Taylor,16,45,337
+2,20,37,191,NC,Wayne,16,46,333
+2,20,21,93,Ky,Hardin,16,56,448
+2,20,41,17,Or,Deschutes,16,27,651
+2,20,36,61,NY,"New York",16,18,502
+2,20,12,25,Fl,Dade,15,31,269
+2,20,6,111,Ca,Ventura,15,23,760
+2,20,35,35,NM,Otero,15,51,435
+2,20,48,141,Tx,"El Paso",15,37,407
+2,20,22,115,La,Vernon,15,41,417
+2,20,12,103,Fl,Pinellas,15,29,298
+2,20,40,27,Ok,Cleveland,15,37,526
+2,20,45,79,SC,Richland,15,39,418
+2,20,8,77,Co,Mesa,15,32,519
+2,20,51,199,Va,York,15,54,619
+2,20,6,13,Ca,"Contra Costa",14,34,521
+2,20,10,1,De,Kent,14,45,455
+2,20,6,89,Ca,Shasta,14,30,442
+2,20,53,5,Wa,Benton,14,25,509
+2,20,51,650,Va,"Hampton city",14,39,345
+2,20,6,1,Ca,Alameda,14,16,368
+2,20,24,3,Md,"Anne Arundel",13,36,288
+2,20,1,101,Al,Montgomery,13,40,583
+2,20,48,485,Tx,Wichita,13,40,374
+2,20,38,35,ND,"Grand Forks",13,34,286
+2,20,16,55,Id,Kootenai,13,33,484
+2,20,20,91,Ks,Johnson,13,34,845
+2,20,8,1,Co,Adams,13,33,492
+2,20,48,355,Tx,Nueces,12,33,866
+2,20,2,220,Ak,"Sitka Borough",12,25,357
+2,20,36,65,NY,Oneida,12,33,264
+2,20,4,25,Az,Yavapai,12,17,319
+2,20,41,7,Or,Clatsop,12,28,332
+2,20,17,43,Il,"Du Page",12,29,647
+2,20,30,31,Mt,Gallatin,12,23,180
+2,20,12,11,Fl,Broward,12,23,430
+2,20,35,9,NM,Curry,12,30,248
+2,20,2,60,Ak,"Bristol Bay Borough",12,21,412
+2,20,24,31,Md,Montgomery,12,21,407
+2,20,6,81,Ca,"San Mateo",12,15,322
+2,20,53,9,Wa,Clallam,12,24,437
+2,20,53,57,Wa,Skagit,12,25,881
+2,20,47,37,Tn,Davidson,12,23,433
+2,20,41,33,Or,Josephine,12,21,314
+2,20,48,99,Tx,Coryell,11,48,296
+2,20,8,123,Co,Weld,11,16,448
+2,20,51,153,Va,"Prince William",11,41,467
+2,20,53,29,Wa,Island,11,23,431
+2,20,12,105,Fl,Polk,11,29,305
+2,20,2,270,Ak,"Wade Hampton",11,18,239
+2,20,18,97,In,Marion,11,36,367
+2,20,1,15,Al,Calhoun,11,33,342
+2,20,48,491,Tx,Williamson,11,29,486
+2,20,13,121,Ga,Fulton,10,20,403
+2,20,4,15,Az,Mohave,10,16,295
+2,20,9,3,Ct,Hartford,10,19,321
+2,20,36,19,NY,Clinton,10,17,162
+2,20,13,67,Ga,Cobb,10,23,305
+2,20,39,113,Oh,Montgomery,10,23,420
+2,20,39,151,Oh,Stark,10,22,515
+2,20,41,3,Or,Benton,10,12,132
+2,20,29,101,Mo,Johnson,10,34,237
+2,20,29,77,Mo,Greene,10,21,210
+2,20,13,51,Ga,Chatham,10,16,192
+2,20,22,15,La,Bossier,10,22,158
+2,20,6,19,Ca,Fresno,10,21,201
+2,20,56,21,Wy,Laramie,10,27,374
+2,20,35,13,NM,"Dona Ana",10,19,353
+2,20,6,61,Ca,Placer,10,16,504
+2,20,1,73,Al,Jefferson,10,21,181
+2,20,53,7,Wa,Chelan,10,19,716
+2,20,30,111,Mt,Yellowstone,10,20,352
+2,20,2,164,Ak,"Lake And Peninsula Borou",10,22,106
+2,20,63,10,XX,"Same State",44,77,1110
+2,20,63,11,XX,"Region 1: Northeast",321,606,9069
+2,20,63,12,XX,"Region 2: Midwest",637,1413,16916
+2,20,63,13,XX,"Region 3: South",965,2368,34029
+2,20,63,14,XX,"Region 4: West",567,1162,18649
+2,20,63,50,Ak,"County Non-Migrant",79763,177512,3613016
+2,50,0,1,Ak,"Bethel (Total Migrant)",249,528,9804
+2,50,2,20,Ak,"Anchorage Borough",70,141,2300
+2,50,2,90,Ak,"Fairbanks North Star Bor",16,44,975
+2,50,2,180,Ak,Nome,10,20,246
+2,50,63,20,XX,"Same State",64,141,2620
+2,50,63,21,XX,"Same Region, Diff. State",46,92,1727
+2,50,63,22,XX,"Different Region",43,90,1936
+2,50,63,50,Ak,"County Non-Migrant",3595,9663,87043
+2,60,0,1,Ak,"Bristol Bay Borough (Total Migrant)",176,353,4542
+2,60,2,20,Ak,"Anchorage Borough",22,42,561
+2,60,57,5,FR,"APO / FPO Zip Code",10,16,198
+2,60,63,10,XX,"Same State",21,52,794
+2,60,63,11,XX,"Region 1: Northeast",10,15,320
+2,60,63,12,XX,"Region 2: Midwest",19,42,490
+2,60,63,13,XX,"Region 3: South",44,92,1000
+2,60,63,14,XX,"Region 4: West",50,94,1179
+2,60,63,50,Ak,"County Non-Migrant",399,902,14852
+2,68,0,1,Ak,"Denali Borough (Total Migrant)",112,171,2341
+2,68,2,20,Ak,"Anchorage Borough",13,19,309
+2,68,2,90,Ak,"Fairbanks North Star Bor",12,23,381
+2,68,8,41,Co,"El Paso",11,19,248
+2,68,63,20,XX,"Same State",11,23,267
+2,68,63,21,XX,"Same Region, Diff. State",30,39,492
+2,68,63,22,XX,"Different Region",35,48,644
+2,68,63,50,Ak,"County Non-Migrant",490,1114,22716
+2,70,0,1,Ak,"Dillingham (Total Migrant)",117,270,4016
+2,70,2,20,Ak,"Anchorage Borough",40,94,1334
+2,70,2,50,Ak,Bethel,10,29,216
+2,70,63,20,XX,"Same State",36,84,1503
+2,70,63,21,XX,"Same Region, Diff. State",17,34,590
+2,70,63,22,XX,"Different Region",14,29,373
+2,70,63,50,Ak,"County Non-Migrant",1079,2829,33738
+2,90,0,1,Ak,"Fairbanks North Star Bor (Total Migrant)",3615,8073,93429
+2,90,2,20,Ak,"Anchorage Borough",339,644,10867
+2,90,57,5,FR,"APO / FPO Zip Code",63,127,1571
+2,90,53,33,Wa,King,63,91,1626
+2,90,47,125,Tn,Montgomery,60,185,1486
+2,90,37,51,NC,Cumberland,58,156,1579
+2,90,48,27,Tx,Bell,58,169,1322
+2,90,2,290,Ak,Yukon-Koyukuk,52,114,1136
+2,90,8,41,Co,"El Paso",49,143,1329
+2,90,4,13,Az,Maricopa,47,96,1517
+2,90,2,122,Ak,"Kenai Peninsula Borough",45,99,1421
+2,90,2,240,Ak,"Southeast Fairbanks",43,108,1247
+2,90,2,110,Ak,"Juneau Borough",39,68,1288
+2,90,2,170,Ak,"Matanuska-Susitna Boroug",38,81,1293
+2,90,53,53,Wa,Pierce,37,84,841
+2,90,48,29,Tx,Bexar,32,91,747
+2,90,21,47,Ky,Christian,28,59,471
+2,90,1,45,Al,Dale,26,75,741
+2,90,2,50,Ak,Bethel,23,39,673
+2,90,2,185,Ak,"North Slope Borough",23,47,773
+2,90,32,3,Nv,Clark,23,47,549
+2,90,48,141,Tx,"El Paso",22,70,502
+2,90,13,179,Ga,Liberty,22,59,479
+2,90,13,215,Ga,Muscogee,21,57,440
+2,90,6,37,Ca,"Los Angeles",21,35,276
+2,90,2,68,Ak,"Denali Borough",20,40,806
+2,90,51,700,Va,"Newport News city",20,51,546
+2,90,2,261,Ak,Valdez-Cordova,20,34,558
+2,90,15,3,Hi,Honolulu,20,44,541
+2,90,53,63,Wa,Spokane,19,50,698
+2,90,4,19,Az,Pima,19,41,584
+2,90,22,115,La,Vernon,19,64,485
+2,90,41,51,Or,Multnomah,18,33,429
+2,90,40,31,Ok,Comanche,18,46,463
+2,90,48,113,Tx,Dallas,18,40,398
+2,90,35,1,NM,Bernalillo,17,27,381
+2,90,51,59,Va,Fairfax,17,56,742
+2,90,6,95,Ca,Solano,16,36,371
+2,90,36,45,NY,Jefferson,16,46,406
+2,90,53,67,Wa,Thurston,16,42,582
+2,90,12,91,Fl,Okaloosa,16,44,525
+2,90,20,61,Ks,Geary,16,49,365
+2,90,20,161,Ks,Riley,15,46,349
+2,90,45,79,SC,Richland,15,42,417
+2,90,13,51,Ga,Chatham,14,28,237
+2,90,21,93,Ky,Hardin,13,40,403
+2,90,6,73,Ca,"San Diego",13,14,180
+2,90,48,99,Tx,Coryell,13,41,307
+2,90,6,71,Ca,"San Bernardino",13,42,340
+2,90,53,11,Wa,Clark,13,25,512
+2,90,41,39,Or,Lane,13,19,269
+2,90,29,169,Mo,Pulaski,13,45,304
+2,90,57,1,FR,"Foreign / Overseas",12,13,406
+2,90,48,485,Tx,Wichita,12,35,346
+2,90,6,85,Ca,"Santa Clara",11,21,226
+2,90,2,188,Ak,"Northwest Arctic",11,17,302
+2,90,2,180,Ak,Nome,11,20,243
+2,90,5,119,Ar,Pulaski,11,39,342
+2,90,53,35,Wa,Kitsap,11,22,281
+2,90,8,1,Co,Adams,11,25,278
+2,90,31,153,Ne,Sarpy,11,29,374
+2,90,49,11,Ut,Davis,11,31,302
+2,90,8,5,Co,Arapahoe,10,22,350
+2,90,6,65,Ca,Riverside,10,14,288
+2,90,30,13,Mt,Cascade,10,29,225
+2,90,40,109,Ok,Oklahoma,10,26,263
+2,90,6,67,Ca,Sacramento,10,19,245
+2,90,2,220,Ak,"Sitka Borough",10,21,207
+2,90,45,85,SC,Sumter,10,24,229
+2,90,49,35,Ut,"Salt Lake",10,23,303
+2,90,48,453,Tx,Travis,10,15,113
+2,90,63,10,XX,"Same State",39,74,1110
+2,90,63,11,XX,"Region 1: Northeast",211,417,4384
+2,90,63,12,XX,"Region 2: Midwest",395,863,8304
+2,90,63,13,XX,"Region 3: South",634,1488,16079
+2,90,63,14,XX,"Region 4: West",462,957,11857
+2,90,63,50,Ak,"County Non-Migrant",25332,59569,965191
+2,100,0,1,Ak,"Haines Borough (Total Migrant)",78,144,1479
+2,100,2,110,Ak,"Juneau Borough",12,23,257
+2,100,63,20,XX,"Same State",18,35,370
+2,100,63,21,XX,"Same Region, Diff. State",38,62,580
+2,100,63,22,XX,"Different Region",10,24,272
+2,100,63,50,Ak,"County Non-Migrant",770,1745,23544
+2,110,0,1,Ak,"Juneau Borough (Total Migrant)",1048,2140,34710
+2,110,2,20,Ak,"Anchorage Borough",119,227,4383
+2,110,53,33,Wa,King,74,149,2431
+2,110,2,231,Ak,Skagway-Yakutat-Angoon,29,54,777
+2,110,2,90,Ak,"Fairbanks North Star Bor",27,43,762
+2,110,2,170,Ak,"Matanuska-Susitna Boroug",24,56,899
+2,110,2,220,Ak,"Sitka Borough",20,41,635
+2,110,2,130,Ak,"Ketchikan Gateway Boroug",19,32,539
+2,110,53,53,Wa,Pierce,18,31,448
+2,110,2,122,Ak,"Kenai Peninsula Borough",18,54,807
+2,110,2,100,Ak,"Haines Borough",17,37,530
+2,110,53,61,Wa,Snohomish,16,37,536
+2,110,53,73,Wa,Whatcom,16,26,718
+2,110,41,39,Or,Lane,14,22,270
+2,110,2,280,Ak,Wrangell-Petersburg,14,21,350
+2,110,2,261,Ak,Valdez-Cordova,13,26,373
+2,110,41,67,Or,Washington,13,22,259
+2,110,4,13,Az,Maricopa,12,27,368
+2,110,6,73,Ca,"San Diego",11,18,231
+2,110,41,51,Or,Multnomah,11,12,206
+2,110,32,1,Nv,Churchill,10,39,683
+2,110,15,3,Hi,Honolulu,10,22,247
+2,110,63,10,XX,"Same State",27,51,930
+2,110,63,11,XX,"Region 1: Northeast",27,51,744
+2,110,63,12,XX,"Region 2: Midwest",66,128,2224
+2,110,63,13,XX,"Region 3: South",85,178,2888
+2,110,63,14,XX,"Region 4: West",327,714,11091
+2,110,63,15,XX,Foreign,11,22,381
+2,110,63,50,Ak,"County Non-Migrant",10103,21933,465429
+2,122,0,1,Ak,"Kenai Peninsula Borough (Total Migrant)",1245,2387,31944
+2,122,2,20,Ak,"Anchorage Borough",288,505,8533
+2,122,2,170,Ak,"Matanuska-Susitna Boroug",53,142,1544
+2,122,2,90,Ak,"Fairbanks North Star Bor",46,86,938
+2,122,53,33,Wa,King,21,37,403
+2,122,4,13,Az,Maricopa,21,37,326
+2,122,2,261,Ak,Valdez-Cordova,20,36,515
+2,122,2,150,Ak,"Kodiak Island Borough",16,45,445
+2,122,41,47,Or,Marion,15,45,299
+2,122,2,110,Ak,"Juneau Borough",14,27,383
+2,122,16,1,Id,Ada,11,24,211
+2,122,2,220,Ak,"Sitka Borough",10,22,326
+2,122,63,10,XX,"Same State",65,101,1728
+2,122,63,11,XX,"Region 1: Northeast",28,46,557
+2,122,63,12,XX,"Region 2: Midwest",113,242,2912
+2,122,63,13,XX,"Region 3: South",134,266,3599
+2,122,63,14,XX,"Region 4: West",378,713,9009
+2,122,63,15,XX,Foreign,12,13,216
+2,122,63,50,Ak,"County Non-Migrant",13674,32830,519297
+2,130,0,1,Ak,"Ketchikan Gateway Boroug (Total Migrant)",582,1216,17929
+2,130,2,201,Ak,"Prince of Wales-Outer Ke",48,119,1732
+2,130,2,20,Ak,"Anchorage Borough",41,83,1189
+2,130,2,110,Ak,"Juneau Borough",32,60,806
+2,130,53,33,Wa,King,28,51,718
+2,130,2,280,Ak,Wrangell-Petersburg,17,33,368
+2,130,53,61,Wa,Snohomish,14,32,343
+2,130,2,220,Ak,"Sitka Borough",11,32,344
+2,130,4,13,Az,Maricopa,11,20,176
+2,130,2,90,Ak,"Fairbanks North Star Bor",10,19,193
+2,130,41,39,Or,Lane,10,21,293
+2,130,2,150,Ak,"Kodiak Island Borough",10,23,305
+2,130,63,10,XX,"Same State",25,56,904
+2,130,63,11,XX,"Region 1: Northeast",18,42,563
+2,130,63,12,XX,"Region 2: Midwest",22,37,435
+2,130,63,13,XX,"Region 3: South",50,129,1390
+2,130,63,14,XX,"Region 4: West",235,459,8170
+2,130,63,50,Ak,"County Non-Migrant",5006,11146,216383
+2,150,0,1,Ak,"Kodiak Island Borough (Total Migrant)",686,1545,18408
+2,150,2,20,Ak,"Anchorage Borough",79,143,2102
+2,150,53,33,Wa,King,32,63,874
+2,150,6,37,Ca,"Los Angeles",20,48,353
+2,150,37,139,NC,Pasquotank,20,65,534
+2,150,12,103,Fl,Pinellas,14,32,397
+2,150,2,110,Ak,"Juneau Borough",11,26,410
+2,150,41,11,Or,Coos,11,36,309
+2,150,2,170,Ak,"Matanuska-Susitna Boroug",10,21,453
+2,150,2,122,Ak,"Kenai Peninsula Borough",10,20,332
+2,150,63,10,XX,"Same State",39,100,1060
+2,150,63,11,XX,"Region 1: Northeast",34,80,891
+2,150,63,12,XX,"Region 2: Midwest",46,104,1130
+2,150,63,13,XX,"Region 3: South",117,262,3049
+2,150,63,14,XX,"Region 4: West",229,517,6171
+2,150,63,15,XX,Foreign,14,28,343
+2,150,63,50,Ak,"County Non-Migrant",4325,10736,157464
+2,164,0,1,Ak,"Lake And Peninsula Borou (Total Migrant)",53,105,1475
+2,164,63,30,XX,"Suppress All Flows",53,105,1475
+2,164,63,50,Ak,"County Non-Migrant",372,984,8237
+2,170,0,1,Ak,"Matanuska-Susitna Boroug (Total Migrant)",1175,2402,34388
+2,170,2,20,Ak,"Anchorage Borough",404,746,12844
+2,170,2,122,Ak,"Kenai Peninsula Borough",45,98,1226
+2,170,2,90,Ak,"Fairbanks North Star Bor",33,63,679
+2,170,53,33,Wa,King,27,37,467
+2,170,4,13,Az,Maricopa,20,47,499
+2,170,2,261,Ak,Valdez-Cordova,18,39,523
+2,170,53,61,Wa,Snohomish,12,28,287
+2,170,32,3,Nv,Clark,11,26,773
+2,170,63,10,XX,"Same State",79,157,2037
+2,170,63,11,XX,"Region 1: Northeast",20,30,474
+2,170,63,12,XX,"Region 2: Midwest",89,203,2258
+2,170,63,13,XX,"Region 3: South",149,330,5130
+2,170,63,14,XX,"Region 4: West",258,581,7076
+2,170,63,15,XX,Foreign,10,17,115
+2,170,63,50,Ak,"County Non-Migrant",12597,31768,498437
+2,180,0,1,Ak,"Nome (Total Migrant)",181,363,5936
+2,180,2,20,Ak,"Anchorage Borough",39,91,1228
+2,180,2,90,Ak,"Fairbanks North Star Bor",20,49,822
+2,180,2,170,Ak,"Matanuska-Susitna Boroug",11,19,381
+2,180,63,20,XX,"Same State",35,78,1294
+2,180,63,21,XX,"Same Region, Diff. State",32,59,989
+2,180,63,22,XX,"Different Region",44,67,1222
+2,180,63,50,Ak,"County Non-Migrant",2221,5581,64791
+2,185,0,1,Ak,"North Slope Borough (Total Migrant)",195,396,9633
+2,185,2,20,Ak,"Anchorage Borough",53,109,2726
+2,185,2,90,Ak,"Fairbanks North Star Bor",28,55,1142
+2,185,63,20,XX,"Same State",29,55,1654
+2,185,63,21,XX,"Same Region, Diff. State",56,118,2568
+2,185,63,22,XX,"Different Region",29,59,1543
+2,185,63,50,Ak,"County Non-Migrant",1958,4791,89801
+2,188,0,1,Ak,"Northwest Arctic (Total Migrant)",143,277,4672
+2,188,2,20,Ak,"Anchorage Borough",47,89,1337
+2,188,2,90,Ak,"Fairbanks North Star Bor",11,15,318
+2,188,63,20,XX,"Same State",33,71,1375
+2,188,63,21,XX,"Same Region, Diff. State",34,68,1093
+2,188,63,22,XX,"Different Region",18,34,549
+2,188,63,50,Ak,"County Non-Migrant",1505,4090,46190
+2,201,0,1,Ak,"Prince of Wales-Outer Ke (Total Migrant)",202,457,6156
+2,201,2,130,Ak,"Ketchikan Gateway Boroug",31,74,1082
+2,201,2,20,Ak,"Anchorage Borough",12,27,277
+2,201,2,280,Ak,Wrangell-Petersburg,11,28,373
+2,201,63,20,XX,"Same State",36,75,1217
+2,201,63,21,XX,"Same Region, Diff. State",88,195,2411
+2,201,63,22,XX,"Different Region",24,58,796
+2,201,63,50,Ak,"County Non-Migrant",1567,3782,50684
+2,220,0,1,Ak,"Sitka Borough (Total Migrant)",458,1007,15470
+2,220,2,110,Ak,"Juneau Borough",42,63,1133
+2,220,53,33,Wa,King,22,45,635
+2,220,2,20,Ak,"Anchorage Borough",22,58,748
+2,220,2,122,Ak,"Kenai Peninsula Borough",16,49,822
+2,220,2,130,Ak,"Ketchikan Gateway Boroug",14,27,726
+2,220,2,280,Ak,Wrangell-Petersburg,12,38,483
+2,220,63,10,XX,"Same State",40,92,1374
+2,220,63,11,XX,"Region 1: Northeast",32,58,750
+2,220,63,12,XX,"Region 2: Midwest",39,83,1173
+2,220,63,13,XX,"Region 3: South",35,85,1438
+2,220,63,14,XX,"Region 4: West",184,409,6188
+2,220,63,50,Ak,"County Non-Migrant",3028,6903,124872
+2,231,0,1,Ak,"Skagway-Yakutat-Angoon (Total Migrant)",133,230,2943
+2,231,2,110,Ak,"Juneau Borough",30,58,657
+2,231,63,20,XX,"Same State",33,56,836
+2,231,63,21,XX,"Same Region, Diff. State",57,97,1230
+2,231,63,22,XX,"Different Region",13,19,220
+2,231,63,50,Ak,"County Non-Migrant",1128,2537,35955
+2,240,0,1,Ak,"Southeast Fairbanks (Total Migrant)",339,816,7901
+2,240,2,90,Ak,"Fairbanks North Star Bor",48,97,1207
+2,240,2,20,Ak,"Anchorage Borough",27,51,514
+2,240,48,27,Tx,Bell,12,29,225
+2,240,63,10,XX,"Same State",25,54,718
+2,240,63,11,XX,"Region 1: Northeast",22,63,437
+2,240,63,12,XX,"Region 2: Midwest",40,109,866
+2,240,63,13,XX,"Region 3: South",110,280,2464
+2,240,63,14,XX,"Region 4: West",55,133,1470
+2,240,63,50,Ak,"County Non-Migrant",1703,4364,49447
+2,261,0,1,Ak,"Valdez-Cordova (Total Migrant)",472,902,14703
+2,261,2,20,Ak,"Anchorage Borough",112,204,4181
+2,261,2,122,Ak,"Kenai Peninsula Borough",21,48,734
+2,261,2,170,Ak,"Matanuska-Susitna Boroug",18,35,556
+2,261,53,33,Wa,King,16,34,437
+2,261,2,90,Ak,"Fairbanks North Star Bor",15,28,415
+2,261,2,110,Ak,"Juneau Borough",13,20,552
+2,261,63,10,XX,"Same State",27,60,1045
+2,261,63,11,XX,"Region 1: Northeast",35,67,767
+2,261,63,12,XX,"Region 2: Midwest",26,59,716
+2,261,63,13,XX,"Region 3: South",50,93,1842
+2,261,63,14,XX,"Region 4: West",139,254,3458
+2,261,63,50,Ak,"County Non-Migrant",3188,7385,130444
+2,270,0,1,Ak,"Wade Hampton (Total Migrant)",73,161,1885
+2,270,2,20,Ak,"Anchorage Borough",21,43,398
+2,270,2,50,Ak,Bethel,21,54,443
+2,270,63,30,XX,"Suppress All Flows",31,64,1044
+2,270,63,50,Ak,"County Non-Migrant",1299,3791,21820
+2,280,0,1,Ak,"Wrangell-Petersburg (Total Migrant)",247,487,5707
+2,280,2,110,Ak,"Juneau Borough",25,57,565
+2,280,53,33,Wa,King,14,20,257
+2,280,2,130,Ak,"Ketchikan Gateway Boroug",13,24,402
+2,280,2,201,Ak,"Prince of Wales-Outer Ke",10,25,290
+2,280,2,90,Ak,"Fairbanks North Star Bor",10,22,253
+2,280,2,20,Ak,"Anchorage Borough",10,13,172
+2,280,63,20,XX,"Same State",25,48,645
+2,280,63,21,XX,"Same Region, Diff. State",105,207,2444
+2,280,63,22,XX,"Different Region",35,71,679
+2,280,63,50,Ak,"County Non-Migrant",2379,5366,83249
+2,290,0,1,Ak,"Yukon-Koyukuk (Total Migrant)",297,550,7501
+2,290,2,90,Ak,"Fairbanks North Star Bor",85,153,2129
+2,290,2,20,Ak,"Anchorage Borough",29,54,627
+2,290,2,170,Ak,"Matanuska-Susitna Boroug",13,39,484
+2,290,57,5,FR,"APO / FPO Zip Code",13,16,178
+2,290,2,122,Ak,"Kenai Peninsula Borough",10,23,428
+2,290,63,20,XX,"Same State",30,71,846
+2,290,63,21,XX,"Same Region, Diff. State",48,87,1195
+2,290,63,22,XX,"Different Region",69,107,1614
+2,290,63,50,Ak,"County Non-Migrant",1612,3915,36228

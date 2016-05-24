@@ -1,0 +1,319 @@
+"1993 - 1994 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Vermont,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+50,1,0,1,Vt,"Addison (Total Migrant)",769,1419,20060
+50,1,50,7,Vt,Chittenden,240,403,5336
+50,1,50,21,Vt,Rutland,66,128,1348
+50,1,50,27,Vt,Windsor,20,47,560
+50,1,50,11,Vt,Franklin,18,34,370
+50,1,36,31,NY,Essex,16,30,319
+50,1,50,23,Vt,Washington,15,31,458
+50,1,50,15,Vt,Lamoille,10,14,180
+50,1,63,10,XX,"Same State",26,54,511
+50,1,63,11,XX,"Region 1: Northeast",204,365,6668
+50,1,63,12,XX,"Region 2: Midwest",27,52,642
+50,1,63,13,XX,"Region 3: South",68,168,1876
+50,1,63,14,XX,"Region 4: West",47,77,1194
+50,1,63,15,XX,Foreign,12,16,598
+50,1,63,50,Vt,"County Non-Migrant",11302,25772,354158
+50,3,0,1,Vt,"Bennington (Total Migrant)",847,1523,25269
+50,3,25,3,Ma,Berkshire,55,120,1468
+50,3,50,21,Vt,Rutland,51,92,1271
+50,3,36,115,NY,Washington,40,82,707
+50,3,50,25,Vt,Windham,40,75,953
+50,3,36,83,NY,Rensselaer,37,73,763
+50,3,50,7,Vt,Chittenden,29,41,613
+50,3,57,1,FR,"Foreign / Overseas",24,30,905
+50,3,9,3,Ct,Hartford,19,26,806
+50,3,36,59,NY,Nassau,16,37,1329
+50,3,50,27,Vt,Windsor,15,27,405
+50,3,25,17,Ma,Middlesex,13,21,407
+50,3,36,1,NY,Albany,13,15,327
+50,3,25,13,Ma,Hampden,11,18,234
+50,3,36,119,NY,Westchester,10,16,593
+50,3,63,10,XX,"Same State",23,42,461
+50,3,63,11,XX,"Region 1: Northeast",259,452,9009
+50,3,63,12,XX,"Region 2: Midwest",39,76,1305
+50,3,63,13,XX,"Region 3: South",95,187,2447
+50,3,63,14,XX,"Region 4: West",58,93,1266
+50,3,63,50,Vt,"County Non-Migrant",12856,27957,414691
+50,5,0,1,Vt,"Caledonia (Total Migrant)",554,1047,10677
+50,5,50,23,Vt,Washington,48,97,983
+50,5,50,19,Vt,Orleans,46,95,687
+50,5,50,9,Vt,Essex,42,75,603
+50,5,33,9,NH,Grafton,35,70,456
+50,5,50,15,Vt,Lamoille,27,41,484
+50,5,50,7,Vt,Chittenden,26,33,449
+50,5,50,17,Vt,Orange,24,51,336
+50,5,9,3,Ct,Hartford,16,44,504
+50,5,57,1,FR,"Foreign / Overseas",15,15,47
+50,5,50,27,Vt,Windsor,11,17,171
+50,5,63,10,XX,"Same State",17,29,350
+50,5,63,11,XX,"Region 1: Northeast",130,237,3166
+50,5,63,12,XX,"Region 2: Midwest",21,51,463
+50,5,63,13,XX,"Region 3: South",46,90,1078
+50,5,63,14,XX,"Region 4: West",50,102,900
+50,5,63,50,Vt,"County Non-Migrant",9605,21959,260411
+50,7,0,1,Vt,"Chittenden (Total Migrant)",4105,7015,127714
+50,7,50,11,Vt,Franklin,262,490,6717
+50,7,36,27,NY,Dutchess,250,693,17051
+50,7,50,23,Vt,Washington,229,366,7022
+50,7,50,1,Vt,Addison,228,383,5558
+50,7,57,1,FR,"Foreign / Overseas",131,145,1512
+50,7,50,21,Vt,Rutland,108,163,2850
+50,7,50,13,Vt,"Grand Isle",107,174,2725
+50,7,50,15,Vt,Lamoille,104,161,2678
+50,7,25,17,Ma,Middlesex,87,127,2382
+50,7,50,27,Vt,Windsor,84,118,1381
+50,7,36,71,NY,Orange,61,131,3060
+50,7,50,19,Vt,Orleans,54,71,839
+50,7,36,111,NY,Ulster,51,139,2984
+50,7,50,5,Vt,Caledonia,48,64,771
+50,7,50,25,Vt,Windham,46,51,567
+50,7,9,1,Ct,Fairfield,44,79,2479
+50,7,33,11,NH,Hillsborough,43,97,1677
+50,7,50,3,Vt,Bennington,37,53,735
+50,7,33,9,NH,Grafton,36,50,896
+50,7,25,9,Ma,Essex,34,53,803
+50,7,9,3,Ct,Hartford,33,50,1311
+50,7,36,7,NY,Broome,33,124,2728
+50,7,36,19,NY,Clinton,33,54,774
+50,7,36,119,NY,Westchester,32,60,1923
+50,7,9,9,Ct,"New Haven",31,49,821
+50,7,25,21,Ma,Norfolk,29,38,971
+50,7,6,37,Ca,"Los Angeles",28,46,1023
+50,7,25,25,Ma,Suffolk,27,34,719
+50,7,36,61,NY,"New York",26,46,1209
+50,7,6,73,Ca,"San Diego",26,49,586
+50,7,36,91,NY,Saratoga,26,46,1016
+50,7,50,17,Vt,Orange,25,30,374
+50,7,6,75,Ca,"San Francisco",25,27,363
+50,7,53,33,Wa,King,24,31,327
+50,7,33,15,NH,Rockingham,23,33,763
+50,7,36,67,NY,Onondaga,23,41,553
+50,7,23,5,Me,Cumberland,23,26,262
+50,7,25,27,Ma,Worcester,22,33,769
+50,7,34,3,NJ,Bergen,22,26,449
+50,7,25,13,Ma,Hampden,21,25,498
+50,7,36,47,NY,Kings,21,34,666
+50,7,57,5,FR,"APO / FPO Zip Code",19,33,388
+50,7,36,103,NY,Suffolk,18,26,468
+50,7,36,55,NY,Monroe,17,26,502
+50,7,33,13,NH,Merrimack,17,38,494
+50,7,11,1,DC,"Wash.,D.C.",17,24,600
+50,7,9,11,Ct,"New London",15,19,441
+50,7,36,59,NY,Nassau,15,36,699
+50,7,36,31,NY,Essex,15,17,199
+50,7,36,29,NY,Erie,15,21,455
+50,7,17,31,Il,Cook,15,21,1026
+50,7,24,31,Md,Montgomery,13,23,466
+50,7,25,23,Ma,Plymouth,12,24,354
+50,7,23,19,Me,Penobscot,12,20,288
+50,7,12,95,Fl,Orange,12,21,497
+50,7,51,59,Va,Fairfax,11,20,527
+50,7,42,101,Pa,Philadelphia,11,11,215
+50,7,6,59,Ca,Orange,11,19,475
+50,7,25,1,Ma,Barnstable,11,16,218
+50,7,50,9,Vt,Essex,10,15,189
+50,7,25,15,Ma,Hampshire,10,14,313
+50,7,34,39,NJ,Union,10,11,276
+50,7,36,1,NY,Albany,10,14,323
+50,7,36,81,NY,Queens,10,14,211
+50,7,36,83,NY,Rensselaer,10,20,217
+50,7,34,27,NJ,Morris,10,16,270
+50,7,42,3,Pa,Allegheny,10,24,423
+50,7,27,53,Mn,Hennepin,10,10,152
+50,7,63,11,XX,"Region 1: Northeast",396,652,12329
+50,7,63,12,XX,"Region 2: Midwest",175,301,6108
+50,7,63,13,XX,"Region 3: South",353,629,9599
+50,7,63,14,XX,"Region 4: West",238,370,6200
+50,7,63,50,Vt,"County Non-Migrant",49111,104960,1903772
+50,9,0,1,Vt,"Essex (Total Migrant)",159,307,3175
+50,9,33,7,NH,Coos,37,78,820
+50,9,50,5,Vt,Caledonia,29,53,604
+50,9,63,20,XX,"Same State",24,36,490
+50,9,63,21,XX,"Same Region, Diff. State",46,88,854
+50,9,63,22,XX,"Different Region",23,52,407
+50,9,63,50,Vt,"County Non-Migrant",2047,4867,48297
+50,11,0,1,Vt,"Franklin (Total Migrant)",774,1568,20046
+50,11,50,7,Vt,Chittenden,340,694,8861
+50,11,50,15,Vt,Lamoille,45,101,1226
+50,11,50,13,Vt,"Grand Isle",19,44,319
+50,11,50,23,Vt,Washington,17,34,338
+50,11,50,19,Vt,Orleans,15,32,197
+50,11,36,27,NY,Dutchess,12,43,698
+50,11,50,21,Vt,Rutland,11,24,150
+50,11,50,1,Vt,Addison,11,23,197
+50,11,57,5,FR,"APO / FPO Zip Code",10,13,196
+50,11,63,10,XX,"Same State",20,34,265
+50,11,63,11,XX,"Region 1: Northeast",141,279,4216
+50,11,63,12,XX,"Region 2: Midwest",14,21,401
+50,11,63,13,XX,"Region 3: South",81,157,2017
+50,11,63,14,XX,"Region 4: West",38,69,965
+50,11,63,50,Vt,"County Non-Migrant",13720,32581,405116
+50,13,0,1,Vt,"Grand Isle (Total Migrant)",222,417,5880
+50,13,50,7,Vt,Chittenden,100,186,2839
+50,13,50,11,Vt,Franklin,28,46,582
+50,13,63,20,XX,"Same State",28,70,795
+50,13,63,21,XX,"Same Region, Diff. State",38,65,1084
+50,13,63,22,XX,"Different Region",28,50,580
+50,13,63,50,Vt,"County Non-Migrant",2006,4621,66230
+50,15,0,1,Vt,"Lamoille (Total Migrant)",607,1049,15604
+50,15,50,7,Vt,Chittenden,122,222,3280
+50,15,50,23,Vt,Washington,70,113,1334
+50,15,50,11,Vt,Franklin,33,63,608
+50,15,50,19,Vt,Orleans,20,43,401
+50,15,50,5,Vt,Caledonia,17,35,336
+50,15,25,17,Ma,Middlesex,15,19,367
+50,15,50,25,Vt,Windham,10,18,160
+50,15,9,1,Ct,Fairfield,10,16,945
+50,15,63,20,XX,"Same State",32,49,728
+50,15,63,21,XX,"Same Region, Diff. State",175,288,4827
+50,15,63,22,XX,"Different Region",103,183,2618
+50,15,63,50,Vt,"County Non-Migrant",7454,16346,230571
+50,17,0,1,Vt,"Orange (Total Migrant)",728,1386,18881
+50,17,50,23,Vt,Washington,180,319,3978
+50,17,50,27,Vt,Windsor,116,240,2976
+50,17,33,9,NH,Grafton,74,125,1843
+50,17,50,5,Vt,Caledonia,24,46,457
+50,17,50,7,Vt,Chittenden,22,32,455
+50,17,33,19,NH,Sullivan,12,19,119
+50,17,9,3,Ct,Hartford,11,26,764
+50,17,63,10,XX,"Same State",29,50,562
+50,17,63,11,XX,"Region 1: Northeast",157,304,4445
+50,17,63,12,XX,"Region 2: Midwest",16,47,1065
+50,17,63,13,XX,"Region 3: South",53,110,1484
+50,17,63,14,XX,"Region 4: West",34,68,733
+50,17,63,50,Vt,"County Non-Migrant",8794,20432,258140
+50,19,0,1,Vt,"Orleans (Total Migrant)",400,792,9185
+50,19,50,5,Vt,Caledonia,49,104,1187
+50,19,50,7,Vt,Chittenden,32,49,666
+50,19,50,15,Vt,Lamoille,23,46,485
+50,19,50,23,Vt,Washington,17,37,525
+50,19,50,9,Vt,Essex,16,36,329
+50,19,50,11,Vt,Franklin,12,23,196
+50,19,50,25,Vt,Windham,11,17,136
+50,19,63,10,XX,"Same State",20,40,485
+50,19,63,11,XX,"Region 1: Northeast",98,186,2461
+50,19,63,12,XX,"Region 2: Midwest",16,37,348
+50,19,63,13,XX,"Region 3: South",62,121,1190
+50,19,63,14,XX,"Region 4: West",32,62,867
+50,19,63,15,XX,Foreign,12,34,310
+50,19,63,50,Vt,"County Non-Migrant",8448,19555,206726
+50,21,0,1,Vt,"Rutland (Total Migrant)",1070,1907,27346
+50,21,50,1,Vt,Addison,94,190,1750
+50,21,50,27,Vt,Windsor,75,139,1716
+50,21,50,7,Vt,Chittenden,53,86,1113
+50,21,50,3,Vt,Bennington,50,95,1087
+50,21,36,115,NY,Washington,47,100,755
+50,21,9,9,Ct,"New Haven",19,26,592
+50,21,25,17,Ma,Middlesex,19,34,669
+50,21,50,25,Vt,Windham,19,30,318
+50,21,9,3,Ct,Hartford,17,22,421
+50,21,36,103,NY,Suffolk,17,28,362
+50,21,33,9,NH,Grafton,16,17,301
+50,21,9,1,Ct,Fairfield,14,19,447
+50,21,50,17,Vt,Orange,13,24,259
+50,21,36,119,NY,Westchester,13,23,561
+50,21,33,11,NH,Hillsborough,12,25,224
+50,21,25,27,Ma,Worcester,11,18,228
+50,21,57,1,FR,"Foreign / Overseas",11,29,673
+50,21,57,5,FR,"APO / FPO Zip Code",11,16,249
+50,21,25,1,Ma,Barnstable,10,13,131
+50,21,36,59,NY,Nassau,10,17,324
+50,21,25,13,Ma,Hampden,10,19,240
+50,21,63,10,XX,"Same State",26,53,638
+50,21,63,11,XX,"Region 1: Northeast",283,469,7526
+50,21,63,12,XX,"Region 2: Midwest",32,66,1350
+50,21,63,13,XX,"Region 3: South",122,230,4222
+50,21,63,14,XX,"Region 4: West",66,119,1190
+50,21,63,50,Vt,"County Non-Migrant",22428,48064,673244
+50,23,0,1,Vt,"Washington (Total Migrant)",1356,2269,33719
+50,23,50,7,Vt,Chittenden,206,340,4800
+50,23,50,17,Vt,Orange,150,265,3218
+50,23,50,15,Vt,Lamoille,74,115,1536
+50,23,25,17,Ma,Middlesex,35,54,829
+50,23,50,27,Vt,Windsor,35,53,795
+50,23,50,5,Vt,Caledonia,32,68,779
+50,23,50,21,Vt,Rutland,28,39,603
+50,23,57,1,FR,"Foreign / Overseas",24,44,1199
+50,23,50,11,Vt,Franklin,20,37,426
+50,23,50,1,Vt,Addison,17,25,345
+50,23,50,19,Vt,Orleans,16,35,348
+50,23,9,1,Ct,Fairfield,16,21,224
+50,23,25,9,Ma,Essex,14,30,480
+50,23,57,5,FR,"APO / FPO Zip Code",13,29,314
+50,23,9,3,Ct,Hartford,13,26,467
+50,23,50,3,Vt,Bennington,13,18,216
+50,23,36,61,NY,"New York",11,15,376
+50,23,9,9,Ct,"New Haven",11,16,363
+50,23,50,25,Vt,Windham,10,20,309
+50,23,25,23,Ma,Plymouth,10,19,167
+50,23,63,30,XX,"Suppress All Flows",608,1000,15925
+50,23,63,50,Vt,"County Non-Migrant",20481,44533,659798
+50,25,0,1,Vt,"Windham (Total Migrant)",1198,2044,29984
+50,25,33,5,NH,Cheshire,129,240,2511
+50,25,50,27,Vt,Windsor,97,212,2038
+50,25,25,11,Ma,Franklin,47,73,964
+50,25,50,7,Vt,Chittenden,41,61,773
+50,25,50,3,Vt,Bennington,40,72,994
+50,25,9,3,Ct,Hartford,37,55,1130
+50,25,25,15,Ma,Hampshire,28,50,601
+50,25,57,1,FR,"Foreign / Overseas",21,27,516
+50,25,25,17,Ma,Middlesex,21,37,669
+50,25,9,1,Ct,Fairfield,20,41,1055
+50,25,33,19,NH,Sullivan,19,29,280
+50,25,50,21,Vt,Rutland,19,36,297
+50,25,25,13,Ma,Hampden,19,29,407
+50,25,36,61,NY,"New York",16,21,1705
+50,25,9,9,Ct,"New Haven",16,32,303
+50,25,36,119,NY,Westchester,14,26,876
+50,25,25,27,Ma,Worcester,13,17,313
+50,25,33,11,NH,Hillsborough,13,28,269
+50,25,25,23,Ma,Plymouth,12,20,262
+50,25,12,99,Fl,"Palm Beach",10,15,224
+50,25,25,25,Ma,Suffolk,10,12,276
+50,25,25,1,Ma,Barnstable,10,11,135
+50,25,63,10,XX,"Same State",34,57,752
+50,25,63,11,XX,"Region 1: Northeast",259,407,6673
+50,25,63,12,XX,"Region 2: Midwest",47,77,986
+50,25,63,13,XX,"Region 3: South",116,218,3124
+50,25,63,14,XX,"Region 4: West",90,141,1851
+50,25,63,50,Vt,"County Non-Migrant",15850,33758,480972
+50,27,0,1,Vt,"Windsor (Total Migrant)",1567,2823,45506
+50,27,33,9,NH,Grafton,187,330,5107
+50,27,50,17,Vt,Orange,114,235,2862
+50,27,50,25,Vt,Windham,93,166,1862
+50,27,33,19,NH,Sullivan,87,162,2057
+50,27,50,21,Vt,Rutland,74,127,1886
+50,27,50,7,Vt,Chittenden,46,67,872
+50,27,25,17,Ma,Middlesex,38,68,1402
+50,27,9,1,Ct,Fairfield,28,50,1394
+50,27,50,23,Vt,Washington,26,36,528
+50,27,9,3,Ct,Hartford,23,43,1381
+50,27,33,5,NH,Cheshire,22,42,439
+50,27,9,9,Ct,"New Haven",21,38,479
+50,27,50,1,Vt,Addison,20,35,352
+50,27,50,3,Vt,Bennington,18,40,428
+50,27,25,27,Ma,Worcester,15,36,588
+50,27,36,61,NY,"New York",14,18,871
+50,27,33,11,NH,Hillsborough,13,21,413
+50,27,57,5,FR,"APO / FPO Zip Code",12,19,191
+50,27,25,15,Ma,Hampshire,12,26,461
+50,27,25,9,Ma,Essex,11,20,508
+50,27,25,21,Ma,Norfolk,10,15,310
+50,27,50,5,Vt,Caledonia,10,16,197
+50,27,25,25,Ma,Suffolk,10,14,354
+50,27,25,13,Ma,Hampden,10,23,479
+50,27,63,10,XX,"Same State",32,56,745
+50,27,63,11,XX,"Region 1: Northeast",267,458,9130
+50,27,63,12,XX,"Region 2: Midwest",65,131,1797
+50,27,63,13,XX,"Region 3: South",159,293,4920
+50,27,63,14,XX,"Region 4: West",119,223,3354
+50,27,63,15,XX,Foreign,11,15,139
+50,27,63,50,Vt,"County Non-Migrant",19737,42784,641663

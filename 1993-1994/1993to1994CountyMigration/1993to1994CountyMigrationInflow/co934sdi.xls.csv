@@ -1,0 +1,647 @@
+"1993 - 1994 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+SouthDakota,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+46,3,0,1,SD,"Aurora (Total Migrant)",49,107,978
+46,3,46,35,SD,Davison,10,18,214
+46,3,63,30,XX,"Suppress All Flows",39,89,764
+46,3,63,50,SD,"County Non-Migrant",1046,2571,22880
+46,5,0,1,SD,"Beadle (Total Migrant)",423,890,9436
+46,5,46,99,SD,Minnehaha,37,80,611
+46,5,46,77,SD,Kingsbury,18,38,355
+46,5,46,35,SD,Davison,18,38,393
+46,5,46,115,SD,Spink,16,32,306
+46,5,46,29,SD,Codington,14,30,330
+46,5,46,103,SD,Pennington,13,31,524
+46,5,46,73,SD,Jerauld,13,43,213
+46,5,63,20,XX,"Same State",108,210,2266
+46,5,63,21,XX,"Same Region, Diff. State",103,209,2421
+46,5,63,22,XX,"Different Region",83,179,2017
+46,5,63,50,SD,"County Non-Migrant",6329,14598,174652
+46,7,0,1,SD,"Bennett (Total Migrant)",83,188,1259
+46,7,63,20,XX,"Same State",38,83,632
+46,7,63,21,XX,"Same Region, Diff. State",28,59,370
+46,7,63,22,XX,"Different Region",17,46,257
+46,7,63,50,SD,"County Non-Migrant",832,2035,19108
+46,9,0,1,SD,"Bon Homme (Total Migrant)",141,276,2373
+46,9,46,135,SD,Yankton,29,59,525
+46,9,46,99,SD,Minnehaha,12,20,117
+46,9,46,23,SD,"Charles Mix",12,24,213
+46,9,46,67,SD,Hutchinson,10,20,209
+46,9,63,20,XX,"Same State",42,84,648
+46,9,63,21,XX,"Same Region, Diff. State",19,36,279
+46,9,63,22,XX,"Different Region",17,33,382
+46,9,63,50,SD,"County Non-Migrant",2306,5588,55869
+46,11,0,1,SD,"Brookings (Total Migrant)",898,1529,15170
+46,11,46,99,SD,Minnehaha,86,148,1414
+46,11,57,1,FR,"Foreign / Overseas",59,60,257
+46,11,46,13,SD,Brown,23,37,358
+46,11,27,53,Mn,Hennepin,22,34,480
+46,11,46,5,SD,Beadle,22,35,255
+46,11,46,101,SD,Moody,21,29,285
+46,11,46,77,SD,Kingsbury,20,50,380
+46,11,46,29,SD,Codington,16,30,232
+46,11,46,103,SD,Pennington,16,25,186
+46,11,46,79,SD,Lake,16,29,218
+46,11,46,65,SD,Hughes,15,18,196
+46,11,46,39,SD,Deuel,14,25,181
+46,11,46,35,SD,Davison,13,24,219
+46,11,46,57,SD,Hamlin,12,27,273
+46,11,27,81,Mn,Lincoln,11,20,161
+46,11,46,27,SD,Clay,11,18,204
+46,11,63,10,XX,"Same State",120,185,1525
+46,11,63,11,XX,"Region 1: Northeast",15,33,371
+46,11,63,12,XX,"Region 2: Midwest",249,447,5078
+46,11,63,13,XX,"Region 3: South",58,110,1174
+46,11,63,14,XX,"Region 4: West",79,145,1723
+46,11,63,50,SD,"County Non-Migrant",7848,18285,248982
+46,13,0,1,SD,"Brown (Total Migrant)",906,1679,18689
+46,13,46,115,SD,Spink,45,94,764
+46,13,46,99,SD,Minnehaha,44,83,1042
+46,13,46,45,SD,Edmunds,41,75,806
+46,13,46,29,SD,Codington,30,51,482
+46,13,46,65,SD,Hughes,30,47,476
+46,13,38,17,ND,Cass,26,43,506
+46,13,46,103,SD,Pennington,20,38,496
+46,13,46,37,SD,Day,19,39,314
+46,13,46,89,SD,McPherson,19,31,328
+46,13,46,129,SD,Walworth,19,29,353
+46,13,46,91,SD,Marshall,19,32,382
+46,13,46,5,SD,Beadle,18,32,456
+46,13,46,11,SD,Brookings,13,20,226
+46,13,27,53,Mn,Hennepin,12,20,209
+46,13,46,107,SD,Potter,12,14,178
+46,13,46,49,SD,Faulk,11,19,212
+46,13,38,21,ND,Dickey,10,16,176
+46,13,63,20,XX,"Same State",118,218,1750
+46,13,63,21,XX,"Same Region, Diff. State",208,399,5204
+46,13,63,22,XX,"Different Region",192,379,4329
+46,13,63,50,SD,"County Non-Migrant",12733,28873,427408
+46,15,0,1,SD,"Brule (Total Migrant)",138,261,3209
+46,15,46,85,SD,Lyman,16,38,300
+46,15,46,99,SD,Minnehaha,10,19,169
+46,15,63,20,XX,"Same State",66,122,1249
+46,15,63,21,XX,"Same Region, Diff. State",19,33,603
+46,15,63,22,XX,"Different Region",27,49,888
+46,15,63,50,SD,"County Non-Migrant",1829,4404,48214
+46,17,0,1,SD,"Buffalo (Total Migrant)",37,95,650
+46,17,63,30,XX,"Suppress All Flows",37,95,650
+46,17,63,50,SD,"County Non-Migrant",385,1142,6805
+46,19,0,1,SD,"Butte (Total Migrant)",321,722,5824
+46,19,46,81,SD,Lawrence,59,131,1140
+46,19,46,103,SD,Pennington,24,51,379
+46,19,46,93,SD,Meade,20,50,372
+46,19,63,10,XX,"Same State",53,109,857
+46,19,63,11,XX,"Region 1: Northeast",17,43,300
+46,19,63,12,XX,"Region 2: Midwest",33,73,644
+46,19,63,13,XX,"Region 3: South",32,56,499
+46,19,63,14,XX,"Region 4: West",83,209,1633
+46,19,63,50,SD,"County Non-Migrant",2738,6696,67246
+46,21,0,1,SD,"Campbell (Total Migrant)",20,39,411
+46,21,63,30,XX,"Suppress All Flows",20,39,411
+46,21,63,50,SD,"County Non-Migrant",671,1632,13712
+46,23,0,1,SD,"Charles Mix (Total Migrant)",165,410,2953
+46,23,46,99,SD,Minnehaha,16,32,246
+46,23,46,43,SD,Douglas,14,39,221
+46,23,46,35,SD,Davison,11,19,148
+46,23,63,20,XX,"Same State",69,176,1382
+46,23,63,21,XX,"Same Region, Diff. State",30,81,591
+46,23,63,22,XX,"Different Region",25,63,365
+46,23,63,50,SD,"County Non-Migrant",3041,7640,73884
+46,25,0,1,SD,"Clark (Total Migrant)",88,200,1773
+46,25,46,29,SD,Codington,22,55,402
+46,25,63,20,XX,"Same State",34,64,641
+46,25,63,21,XX,"Same Region, Diff. State",16,37,344
+46,25,63,22,XX,"Different Region",16,44,386
+46,25,63,50,SD,"County Non-Migrant",1455,3398,34373
+46,27,0,1,SD,"Clay (Total Migrant)",612,978,9768
+46,27,46,99,SD,Minnehaha,69,102,1089
+46,27,46,135,SD,Yankton,33,63,646
+46,27,57,1,FR,"Foreign / Overseas",31,35,197
+46,27,19,193,Ia,Woodbury,26,38,413
+46,27,46,127,SD,Union,21,32,306
+46,27,46,103,SD,Pennington,17,28,173
+46,27,31,109,Ne,Lancaster,14,20,247
+46,27,19,149,Ia,Plymouth,12,18,169
+46,27,46,11,SD,Brookings,10,20,88
+46,27,63,10,XX,"Same State",119,191,1466
+46,27,63,11,XX,"Region 1: Northeast",15,35,309
+46,27,63,12,XX,"Region 2: Midwest",148,223,2538
+46,27,63,13,XX,"Region 3: South",37,71,987
+46,27,63,14,XX,"Region 4: West",60,102,1140
+46,27,63,50,SD,"County Non-Migrant",3636,8188,107967
+46,29,0,1,SD,"Codington (Total Migrant)",729,1522,15196
+46,29,46,99,SD,Minnehaha,46,91,988
+46,29,46,13,SD,Brown,45,90,695
+46,29,46,57,SD,Hamlin,34,61,703
+46,29,46,51,SD,Grant,33,70,560
+46,29,46,109,SD,Roberts,32,80,511
+46,29,46,25,SD,Clark,27,57,515
+46,29,46,11,SD,Brookings,26,49,492
+46,29,46,39,SD,Deuel,23,51,353
+46,29,46,37,SD,Day,17,30,320
+46,29,27,53,Mn,Hennepin,13,19,217
+46,29,46,65,SD,Hughes,11,25,175
+46,29,38,17,ND,Cass,10,17,150
+46,29,46,115,SD,Spink,10,12,88
+46,29,63,10,XX,"Same State",111,186,1742
+46,29,63,11,XX,"Region 1: Northeast",13,36,297
+46,29,63,12,XX,"Region 2: Midwest",150,376,4251
+46,29,63,13,XX,"Region 3: South",41,80,874
+46,29,63,14,XX,"Region 4: West",87,192,2265
+46,29,63,50,SD,"County Non-Migrant",8303,19753,256659
+46,31,0,1,SD,"Corson (Total Migrant)",69,135,1071
+46,31,46,129,SD,Walworth,10,18,109
+46,31,63,20,XX,"Same State",22,39,381
+46,31,63,21,XX,"Same Region, Diff. State",17,35,241
+46,31,63,22,XX,"Different Region",20,43,340
+46,31,63,50,SD,"County Non-Migrant",975,2639,19477
+46,33,0,1,SD,"Custer (Total Migrant)",281,619,7274
+46,33,46,103,SD,Pennington,49,123,836
+46,33,46,93,SD,Meade,18,34,459
+46,33,46,47,SD,"Fall River",16,45,322
+46,33,46,81,SD,Lawrence,11,26,315
+46,33,63,10,XX,"Same State",45,100,1055
+46,33,63,11,XX,"Region 1: Northeast",14,31,365
+46,33,63,12,XX,"Region 2: Midwest",52,106,1268
+46,33,63,13,XX,"Region 3: South",22,41,1012
+46,33,63,14,XX,"Region 4: West",54,113,1642
+46,33,63,50,SD,"County Non-Migrant",2255,5174,57300
+46,35,0,1,SD,"Davison (Total Migrant)",479,948,9980
+46,35,46,99,SD,Minnehaha,53,91,1010
+46,35,46,61,SD,Hanson,26,58,452
+46,35,46,103,SD,Pennington,19,30,250
+46,35,46,3,SD,Aurora,18,39,478
+46,35,46,5,SD,Beadle,16,25,220
+46,35,46,67,SD,Hutchinson,16,32,258
+46,35,46,43,SD,Douglas,13,24,201
+46,35,46,111,SD,Sanborn,12,31,161
+46,35,46,15,SD,Brule,12,21,189
+46,35,46,123,SD,Tripp,10,16,99
+46,35,63,10,XX,"Same State",104,199,1659
+46,35,63,11,XX,"Region 1: Northeast",11,22,447
+46,35,63,12,XX,"Region 2: Midwest",86,176,2917
+46,35,63,13,XX,"Region 3: South",24,45,412
+46,35,63,14,XX,"Region 4: West",59,139,1227
+46,35,63,50,SD,"County Non-Migrant",5919,13931,191854
+46,37,0,1,SD,"Day (Total Migrant)",127,262,2417
+46,37,46,29,SD,Codington,14,26,218
+46,37,46,13,SD,Brown,13,25,198
+46,37,63,20,XX,"Same State",49,102,816
+46,37,63,21,XX,"Same Region, Diff. State",31,69,680
+46,37,63,22,XX,"Different Region",20,40,505
+46,37,63,50,SD,"County Non-Migrant",2386,5584,53276
+46,39,0,1,SD,"Deuel (Total Migrant)",103,207,2203
+46,39,46,29,SD,Codington,14,31,260
+46,39,46,11,SD,Brookings,10,19,195
+46,39,63,20,XX,"Same State",31,63,833
+46,39,63,21,XX,"Same Region, Diff. State",31,60,595
+46,39,63,22,XX,"Different Region",17,34,320
+46,39,63,50,SD,"County Non-Migrant",1577,3812,33377
+46,41,0,1,SD,"Dewey (Total Migrant)",111,250,2085
+46,41,46,137,SD,Ziebach,12,39,150
+46,41,63,20,XX,"Same State",54,128,918
+46,41,63,21,XX,"Same Region, Diff. State",22,37,410
+46,41,63,22,XX,"Different Region",23,46,607
+46,41,63,50,SD,"County Non-Migrant",1443,4000,28212
+46,43,0,1,SD,"Douglas (Total Migrant)",49,113,872
+46,43,63,30,XX,"Suppress All Flows",49,113,872
+46,43,63,50,SD,"County Non-Migrant",1078,2777,23740
+46,45,0,1,SD,"Edmunds (Total Migrant)",87,182,3717
+46,45,46,13,SD,Brown,36,77,2637
+46,45,63,30,XX,"Suppress All Flows",51,105,1080
+46,45,63,50,SD,"County Non-Migrant",1558,3743,39826
+46,47,0,1,SD,"Fall River (Total Migrant)",252,565,5033
+46,47,46,103,SD,Pennington,19,37,276
+46,47,46,33,SD,Custer,16,22,229
+46,47,46,93,SD,Meade,10,20,165
+46,47,63,20,XX,"Same State",37,92,801
+46,47,63,21,XX,"Same Region, Diff. State",61,161,1302
+46,47,63,22,XX,"Different Region",109,233,2260
+46,47,63,50,SD,"County Non-Migrant",2296,5138,60592
+46,49,0,1,SD,"Faulk (Total Migrant)",42,92,797
+46,49,46,13,SD,Brown,10,23,222
+46,49,63,30,XX,"Suppress All Flows",32,69,575
+46,49,63,50,SD,"County Non-Migrant",885,2095,22032
+46,51,0,1,SD,"Grant (Total Migrant)",145,310,3338
+46,51,46,109,SD,Roberts,15,36,298
+46,51,46,29,SD,Codington,14,17,129
+46,51,27,11,Mn,"Big Stone",10,26,323
+46,51,63,20,XX,"Same State",37,79,858
+46,51,63,21,XX,"Same Region, Diff. State",42,98,1014
+46,51,63,22,XX,"Different Region",27,54,716
+46,51,63,50,SD,"County Non-Migrant",2896,7146,78713
+46,53,0,1,SD,"Gregory (Total Migrant)",78,170,1831
+46,53,46,123,SD,Tripp,12,32,178
+46,53,63,20,XX,"Same State",24,47,521
+46,53,63,21,XX,"Same Region, Diff. State",21,49,427
+46,53,63,22,XX,"Different Region",21,42,705
+46,53,63,50,SD,"County Non-Migrant",1733,4150,35998
+46,55,0,1,SD,"Haakon (Total Migrant)",47,102,919
+46,55,63,30,XX,"Suppress All Flows",47,102,919
+46,55,63,50,SD,"County Non-Migrant",932,2451,23753
+46,57,0,1,SD,"Hamlin (Total Migrant)",124,297,2516
+46,57,46,29,SD,Codington,35,74,633
+46,57,46,11,SD,Brookings,17,25,237
+46,57,63,20,XX,"Same State",31,82,854
+46,57,63,21,XX,"Same Region, Diff. State",16,45,365
+46,57,63,22,XX,"Different Region",25,71,427
+46,57,63,50,SD,"County Non-Migrant",1605,4110,38570
+46,59,0,1,SD,"Hand (Total Migrant)",73,172,1592
+46,59,63,30,XX,"Suppress All Flows",73,172,1592
+46,59,63,50,SD,"County Non-Migrant",1451,3417,34237
+46,61,0,1,SD,"Hanson (Total Migrant)",56,136,1317
+46,61,46,35,SD,Davison,16,38,385
+46,61,46,99,SD,Minnehaha,10,22,176
+46,61,63,30,XX,"Suppress All Flows",30,76,756
+46,61,63,50,SD,"County Non-Migrant",901,2203,22867
+46,63,0,1,SD,"Harding (Total Migrant)",32,64,577
+46,63,63,30,XX,"Suppress All Flows",32,64,577
+46,63,63,50,SD,"County Non-Migrant",481,1255,11016
+46,65,0,1,SD,"Hughes (Total Migrant)",507,989,11398
+46,65,46,99,SD,Minnehaha,50,93,1346
+46,65,46,117,SD,Stanley,37,65,705
+46,65,46,103,SD,Pennington,28,69,572
+46,65,46,13,SD,Brown,20,35,556
+46,65,46,119,SD,Sully,16,22,228
+46,65,46,93,SD,Meade,14,27,214
+46,65,46,35,SD,Davison,12,19,189
+46,65,46,81,SD,Lawrence,11,21,160
+46,65,46,5,SD,Beadle,10,14,135
+46,65,46,27,SD,Clay,10,14,134
+46,65,63,20,XX,"Same State",130,248,2696
+46,65,63,21,XX,"Same Region, Diff. State",83,178,2435
+46,65,63,22,XX,"Different Region",86,184,2028
+46,65,63,50,SD,"County Non-Migrant",5568,13022,188756
+46,67,0,1,SD,"Hutchinson (Total Migrant)",136,301,3036
+46,67,46,9,SD,"Bon Homme",14,25,193
+46,67,46,35,SD,Davison,14,32,347
+46,67,46,99,SD,Minnehaha,12,28,268
+46,67,46,125,SD,Turner,12,29,283
+46,67,63,20,XX,"Same State",55,126,1353
+46,67,63,21,XX,"Same Region, Diff. State",14,29,289
+46,67,63,22,XX,"Different Region",15,32,303
+46,67,63,50,SD,"County Non-Migrant",2865,6619,68888
+46,69,0,1,SD,"Hyde (Total Migrant)",35,78,619
+46,69,63,30,XX,"Suppress All Flows",35,78,619
+46,69,63,50,SD,"County Non-Migrant",582,1389,13137
+46,71,0,1,SD,"Jackson (Total Migrant)",64,145,1199
+46,71,46,103,SD,Pennington,10,15,88
+46,71,63,20,XX,"Same State",29,72,485
+46,71,63,21,XX,"Same Region, Diff. State",14,33,469
+46,71,63,22,XX,"Different Region",11,25,157
+46,71,63,50,SD,"County Non-Migrant",736,1931,15131
+46,73,0,1,SD,"Jerauld (Total Migrant)",34,78,786
+46,73,46,5,SD,Beadle,12,22,331
+46,73,63,30,XX,"Suppress All Flows",22,56,455
+46,73,63,50,SD,"County Non-Migrant",801,1899,16828
+46,75,0,1,SD,"Jones (Total Migrant)",29,72,502
+46,75,63,30,XX,"Suppress All Flows",29,72,502
+46,75,63,50,SD,"County Non-Migrant",476,1079,12375
+46,77,0,1,SD,"Kingsbury (Total Migrant)",118,230,2409
+46,77,46,5,SD,Beadle,15,35,274
+46,77,46,11,SD,Brookings,14,29,305
+46,77,46,99,SD,Minnehaha,11,18,216
+46,77,63,20,XX,"Same State",46,83,915
+46,77,63,21,XX,"Same Region, Diff. State",18,35,430
+46,77,63,22,XX,"Different Region",14,30,269
+46,77,63,50,SD,"County Non-Migrant",2035,4837,51017
+46,79,0,1,SD,"Lake (Total Migrant)",288,573,6371
+46,79,46,99,SD,Minnehaha,71,141,1668
+46,79,46,11,SD,Brookings,22,38,411
+46,79,46,77,SD,Kingsbury,11,18,158
+46,79,46,101,SD,Moody,10,20,156
+46,79,46,97,SD,Miner,10,18,135
+46,79,63,10,XX,"Same State",67,128,1120
+46,79,63,11,XX,"Region 1: Northeast",10,17,99
+46,79,63,12,XX,"Region 2: Midwest",40,90,815
+46,79,63,13,XX,"Region 3: South",13,35,548
+46,79,63,14,XX,"Region 4: West",34,68,1261
+46,79,63,50,SD,"County Non-Migrant",3448,8300,97776
+46,81,0,1,SD,"Lawrence (Total Migrant)",934,1731,21057
+46,81,46,103,SD,Pennington,121,224,4442
+46,81,46,93,SD,Meade,85,167,1612
+46,81,46,19,SD,Butte,66,119,1225
+46,81,46,99,SD,Minnehaha,33,55,626
+46,81,56,5,Wy,Campbell,26,51,554
+46,81,46,65,SD,Hughes,22,46,369
+46,81,56,11,Wy,Crook,14,29,218
+46,81,46,33,SD,Custer,14,25,194
+46,81,46,13,SD,Brown,13,22,236
+46,81,27,53,Mn,Hennepin,11,12,132
+46,81,63,10,XX,"Same State",109,211,1989
+46,81,63,11,XX,"Region 1: Northeast",18,36,409
+46,81,63,12,XX,"Region 2: Midwest",114,219,2342
+46,81,63,13,XX,"Region 3: South",51,103,1596
+46,81,63,14,XX,"Region 4: West",237,412,5113
+46,81,63,50,SD,"County Non-Migrant",7271,16662,218952
+46,83,0,1,SD,"Lincoln (Total Migrant)",503,1079,16445
+46,83,46,99,SD,Minnehaha,250,553,7171
+46,83,46,125,SD,Turner,17,35,482
+46,83,46,27,SD,Clay,14,33,364
+46,83,46,127,SD,Union,11,26,223
+46,83,63,20,XX,"Same State",60,93,975
+46,83,63,21,XX,"Same Region, Diff. State",93,211,2518
+46,83,63,22,XX,"Different Region",58,128,4712
+46,83,63,50,SD,"County Non-Migrant",5101,12738,159048
+46,85,0,1,SD,"Lyman (Total Migrant)",94,186,1417
+46,85,46,15,SD,Brule,16,36,305
+46,85,63,20,XX,"Same State",50,95,692
+46,85,63,21,XX,"Same Region, Diff. State",10,18,130
+46,85,63,22,XX,"Different Region",18,37,290
+46,85,63,50,SD,"County Non-Migrant",1203,2997,28782
+46,87,0,1,SD,"McCook (Total Migrant)",141,317,3196
+46,87,46,99,SD,Minnehaha,54,112,1211
+46,87,63,20,XX,"Same State",46,117,956
+46,87,63,21,XX,"Same Region, Diff. State",18,36,301
+46,87,63,22,XX,"Different Region",23,52,728
+46,87,63,50,SD,"County Non-Migrant",1981,4903,48260
+46,89,0,1,SD,"McPherson (Total Migrant)",36,88,667
+46,89,63,30,XX,"Suppress All Flows",36,88,667
+46,89,63,50,SD,"County Non-Migrant",884,1993,20333
+46,91,0,1,SD,"Marshall (Total Migrant)",91,173,1711
+46,91,46,13,SD,Brown,10,20,138
+46,91,63,20,XX,"Same State",36,74,606
+46,91,63,21,XX,"Same Region, Diff. State",32,60,680
+46,91,63,22,XX,"Different Region",13,19,287
+46,91,63,50,SD,"County Non-Migrant",1545,3659,38687
+46,93,0,1,SD,"Meade (Total Migrant)",1517,3385,33010
+46,93,46,103,SD,Pennington,491,1151,10790
+46,93,46,81,SD,Lawrence,106,199,1895
+46,93,57,5,FR,"APO / FPO Zip Code",72,190,1531
+46,93,46,19,SD,Butte,28,58,520
+46,93,46,99,SD,Minnehaha,24,47,739
+46,93,38,35,ND,"Grand Forks",12,35,359
+46,93,4,13,Az,Maricopa,11,18,243
+46,93,12,57,Fl,Hillsborough,10,29,375
+46,93,63,10,XX,"Same State",132,269,2492
+46,93,63,11,XX,"Region 1: Northeast",60,123,1305
+46,93,63,12,XX,"Region 2: Midwest",154,342,3559
+46,93,63,13,XX,"Region 3: South",159,365,3678
+46,93,63,14,XX,"Region 4: West",258,559,5524
+46,93,63,50,SD,"County Non-Migrant",9048,22148,246022
+46,95,0,1,SD,"Mellette (Total Migrant)",45,92,729
+46,95,63,30,XX,"Suppress All Flows",45,92,729
+46,95,63,50,SD,"County Non-Migrant",577,1412,11564
+46,97,0,1,SD,"Miner (Total Migrant)",45,104,703
+46,97,46,79,SD,Lake,10,24,212
+46,97,63,30,XX,"Suppress All Flows",35,80,491
+46,97,63,50,SD,"County Non-Migrant",1009,2463,22222
+46,99,0,1,SD,"Minnehaha (Total Migrant)",4228,7969,108631
+46,99,46,83,SD,Lincoln,219,399,5195
+46,99,46,11,SD,Brookings,143,242,2669
+46,99,19,193,Ia,Woodbury,120,211,2921
+46,99,46,27,SD,Clay,101,173,1750
+46,99,46,103,SD,Pennington,91,200,2240
+46,99,27,53,Mn,Hennepin,85,161,2600
+46,99,46,79,SD,Lake,80,131,1736
+46,99,46,135,SD,Yankton,79,138,1417
+46,99,46,13,SD,Brown,78,127,2183
+46,99,46,35,SD,Davison,77,121,1219
+46,99,27,105,Mn,Nobles,74,129,1097
+46,99,46,125,SD,Turner,70,110,1406
+46,99,46,101,SD,Moody,60,117,1102
+46,99,31,55,Ne,Douglas,58,109,2004
+46,99,19,119,Ia,Lyon,57,90,1013
+46,99,46,127,SD,Union,53,94,1432
+46,99,46,65,SD,Hughes,53,106,1435
+46,99,19,153,Ia,Polk,49,117,2185
+46,99,46,29,SD,Codington,48,77,730
+46,99,19,167,Ia,Sioux,47,74,1223
+46,99,38,17,ND,Cass,46,94,1445
+46,99,27,133,Mn,Rock,42,77,697
+46,99,6,37,Ca,"Los Angeles",40,83,854
+46,99,4,13,Az,Maricopa,37,60,784
+46,99,27,83,Mn,Lyon,37,61,2963
+46,99,46,87,SD,McCook,32,56,633
+46,99,27,123,Mn,Ramsey,29,51,690
+46,99,46,93,SD,Meade,29,48,488
+46,99,46,5,SD,Beadle,29,49,636
+46,99,46,23,SD,"Charles Mix",28,49,429
+46,99,6,73,Ca,"San Diego",28,57,733
+46,99,31,43,Ne,Dakota,27,55,819
+46,99,27,37,Mn,Dakota,26,65,1097
+46,99,27,117,Mn,Pipestone,26,47,506
+46,99,57,5,FR,"APO / FPO Zip Code",24,38,526
+46,99,46,81,SD,Lawrence,24,32,291
+46,99,8,31,Co,Denver,22,40,1746
+46,99,31,109,Ne,Lancaster,21,37,713
+46,99,53,33,Wa,King,21,38,800
+46,99,6,59,Ca,Orange,20,31,600
+46,99,27,3,Mn,Anoka,19,40,667
+46,99,57,1,FR,"Foreign / Overseas",19,31,377
+46,99,38,35,ND,"Grand Forks",18,41,383
+46,99,46,51,SD,Grant,18,33,415
+46,99,32,3,Nv,Clark,18,37,383
+46,99,19,59,Ia,Dickinson,18,27,398
+46,99,8,5,Co,Arapahoe,18,46,575
+46,99,46,67,SD,Hutchinson,17,25,255
+46,99,27,109,Mn,Olmsted,17,28,486
+46,99,17,31,Il,Cook,17,34,946
+46,99,38,15,ND,Burleigh,16,31,481
+46,99,27,13,Mn,"Blue Earth",16,22,397
+46,99,46,9,SD,"Bon Homme",15,25,275
+46,99,46,61,SD,Hanson,14,17,294
+46,99,19,141,Ia,O'Brien,13,17,165
+46,99,8,59,Co,Jefferson,13,32,644
+46,99,27,27,Mn,Clay,13,28,611
+46,99,6,71,Ca,"San Bernardino",12,24,206
+46,99,46,15,SD,Brule,12,21,207
+46,99,46,97,SD,Miner,12,17,177
+46,99,19,155,Ia,Pottawattamie,11,20,291
+46,99,29,95,Mo,Jackson,11,17,267
+46,99,17,43,Il,"Du Page",11,20,349
+46,99,6,67,Ca,Sacramento,11,18,312
+46,99,8,41,Co,"El Paso",11,24,228
+46,99,46,115,SD,Spink,11,16,175
+46,99,27,33,Mn,Cottonwood,11,17,140
+46,99,19,103,Ia,Johnson,10,24,507
+46,99,27,63,Mn,Jackson,10,10,125
+46,99,19,21,Ia,"Buena Vista",10,27,227
+46,99,55,25,Wi,Dane,10,25,524
+46,99,63,10,XX,"Same State",183,298,3173
+46,99,63,11,XX,"Region 1: Northeast",82,175,3415
+46,99,63,12,XX,"Region 2: Midwest",704,1418,19781
+46,99,63,13,XX,"Region 3: South",296,629,8430
+46,99,63,14,XX,"Region 4: West",301,661,7338
+46,99,63,50,SD,"County Non-Migrant",49689,111627,1784117
+46,101,0,1,SD,"Moody (Total Migrant)",148,285,3062
+46,101,46,99,SD,Minnehaha,50,107,1002
+46,101,46,11,SD,Brookings,18,30,295
+46,101,63,20,XX,"Same State",26,44,411
+46,101,63,21,XX,"Same Region, Diff. State",31,53,627
+46,101,63,22,XX,"Different Region",23,51,727
+46,101,63,50,SD,"County Non-Migrant",2247,5587,57218
+46,103,0,1,SD,"Pennington (Total Migrant)",3469,7094,78904
+46,103,46,93,SD,Meade,508,1127,10939
+46,103,46,81,SD,Lawrence,132,232,2282
+46,103,57,5,FR,"APO / FPO Zip Code",102,251,2353
+46,103,46,99,SD,Minnehaha,91,175,2900
+46,103,46,33,SD,Custer,55,108,865
+46,103,4,13,Az,Maricopa,46,85,1111
+46,103,57,1,FR,"Foreign / Overseas",43,53,175
+46,103,46,47,SD,"Fall River",42,79,690
+46,103,46,65,SD,Hughes,39,71,989
+46,103,56,5,Wy,Campbell,35,58,968
+46,103,8,41,Co,"El Paso",34,72,716
+46,103,46,113,SD,Shannon,33,87,546
+46,103,46,13,SD,Brown,31,60,563
+46,103,27,53,Mn,Hennepin,27,39,1594
+46,103,46,19,SD,Butte,27,52,479
+46,103,6,37,Ca,"Los Angeles",27,51,484
+46,103,8,5,Co,Arapahoe,26,52,517
+46,103,8,31,Co,Denver,26,46,479
+46,103,6,73,Ca,"San Diego",25,54,495
+46,103,8,59,Co,Jefferson,25,54,726
+46,103,23,3,Me,Aroostook,24,67,630
+46,103,38,15,ND,Burleigh,23,45,607
+46,103,46,11,SD,Brookings,23,30,249
+46,103,8,1,Co,Adams,22,43,468
+46,103,56,21,Wy,Laramie,20,45,638
+46,103,46,27,SD,Clay,20,37,309
+46,103,38,101,ND,Ward,20,46,459
+46,103,31,55,Ne,Douglas,19,40,652
+46,103,38,35,ND,"Grand Forks",19,44,647
+46,103,46,35,SD,Davison,18,42,539
+46,103,38,89,ND,Stark,17,33,305
+46,103,32,3,Nv,Clark,17,42,428
+46,103,46,23,SD,"Charles Mix",16,30,305
+46,103,38,17,ND,Cass,16,33,567
+46,103,2,20,Ak,"Anchorage Borough",16,46,481
+46,103,46,5,SD,Beadle,16,29,252
+46,103,31,161,Ne,Sheridan,15,25,96
+46,103,6,71,Ca,"San Bernardino",15,29,239
+46,103,6,67,Ca,Sacramento,15,37,394
+46,103,56,25,Wy,Natrona,14,33,308
+46,103,31,45,Ne,Dawes,14,24,239
+46,103,6,65,Ca,Riverside,14,29,350
+46,103,31,153,Ne,Sarpy,14,41,469
+46,103,30,111,Mt,Yellowstone,14,30,285
+46,103,53,33,Wa,King,14,25,202
+46,103,4,19,Az,Pima,14,36,839
+46,103,8,69,Co,Larimer,13,30,174
+46,103,6,59,Ca,Orange,13,22,355
+46,103,19,193,Ia,Woodbury,13,30,308
+46,103,35,1,NM,Bernalillo,13,33,500
+46,103,56,33,Wy,Sheridan,12,28,207
+46,103,12,5,Fl,Bay,12,35,275
+46,103,31,109,Ne,Lancaster,12,21,171
+46,103,48,29,Tx,Bexar,12,28,322
+46,103,46,129,SD,Walworth,12,17,154
+46,103,46,121,SD,Todd,12,25,237
+46,103,46,29,SD,Codington,11,28,253
+46,103,27,123,Mn,Ramsey,11,21,265
+46,103,38,59,ND,Morton,11,21,258
+46,103,53,53,Wa,Pierce,10,16,104
+46,103,46,41,SD,Dewey,10,19,133
+46,103,46,71,SD,Jackson,10,24,298
+46,103,48,439,Tx,Tarrant,10,28,360
+46,103,46,55,SD,Haakon,10,22,244
+46,103,63,10,XX,"Same State",142,226,2235
+46,103,63,11,XX,"Region 1: Northeast",105,216,2194
+46,103,63,12,XX,"Region 2: Midwest",490,973,10893
+46,103,63,13,XX,"Region 3: South",357,757,9867
+46,103,63,14,XX,"Region 4: West",345,707,8269
+46,103,63,50,SD,"County Non-Migrant",26579,61275,879391
+46,105,0,1,SD,"Perkins (Total Migrant)",80,183,1498
+46,105,46,93,SD,Meade,10,22,88
+46,105,63,20,XX,"Same State",32,77,539
+46,105,63,21,XX,"Same Region, Diff. State",23,49,404
+46,105,63,22,XX,"Different Region",15,35,467
+46,105,63,50,SD,"County Non-Migrant",1495,3498,36826
+46,107,0,1,SD,"Potter (Total Migrant)",64,148,1990
+46,107,63,30,XX,"Suppress All Flows",64,148,1990
+46,107,63,50,SD,"County Non-Migrant",1153,2781,30242
+46,109,0,1,SD,"Roberts (Total Migrant)",173,358,3311
+46,109,46,29,SD,Codington,17,36,214
+46,109,46,91,SD,Marshall,10,20,172
+46,109,63,20,XX,"Same State",53,111,1103
+46,109,63,21,XX,"Same Region, Diff. State",64,130,1322
+46,109,63,22,XX,"Different Region",29,61,500
+46,109,63,50,SD,"County Non-Migrant",3220,7719,67450
+46,111,0,1,SD,"Sanborn (Total Migrant)",50,105,1030
+46,111,46,35,SD,Davison,13,31,212
+46,111,63,30,XX,"Suppress All Flows",37,74,818
+46,111,63,50,SD,"County Non-Migrant",996,2471,24471
+46,113,0,1,SD,"Shannon (Total Migrant)",170,382,2673
+46,113,46,103,SD,Pennington,29,70,284
+46,113,31,161,Ne,Sheridan,12,29,119
+46,113,63,20,XX,"Same State",39,99,634
+46,113,63,21,XX,"Same Region, Diff. State",31,60,366
+46,113,63,22,XX,"Different Region",59,124,1270
+46,113,63,50,SD,"County Non-Migrant",1960,6295,35170
+46,115,0,1,SD,"Spink (Total Migrant)",149,323,2719
+46,115,46,13,SD,Brown,22,46,453
+46,115,63,20,XX,"Same State",68,158,1214
+46,115,63,21,XX,"Same Region, Diff. State",23,40,367
+46,115,63,22,XX,"Different Region",36,79,685
+46,115,63,50,SD,"County Non-Migrant",2689,6257,69211
+46,117,0,1,SD,"Stanley (Total Migrant)",119,271,2841
+46,117,46,65,SD,Hughes,52,112,1292
+46,117,63,20,XX,"Same State",47,117,1096
+46,117,63,21,XX,"Same Region, Diff. State",10,17,166
+46,117,63,22,XX,"Different Region",10,25,287
+46,117,63,50,SD,"County Non-Migrant",921,2113,25957
+46,119,0,1,SD,"Sully (Total Migrant)",36,79,784
+46,119,63,30,XX,"Suppress All Flows",36,79,784
+46,119,63,50,SD,"County Non-Migrant",642,1525,18322
+46,121,0,1,SD,"Todd (Total Migrant)",120,274,2439
+46,121,63,20,XX,"Same State",48,113,790
+46,121,63,21,XX,"Same Region, Diff. State",33,67,663
+46,121,63,22,XX,"Different Region",39,94,986
+46,121,63,50,SD,"County Non-Migrant",1466,4225,27817
+46,123,0,1,SD,"Tripp (Total Migrant)",122,259,2456
+46,123,46,53,SD,Gregory,17,34,263
+46,123,63,20,XX,"Same State",55,114,1049
+46,123,63,21,XX,"Same Region, Diff. State",27,55,658
+46,123,63,22,XX,"Different Region",23,56,486
+46,123,63,50,SD,"County Non-Migrant",2344,5652,55478
+46,125,0,1,SD,"Turner (Total Migrant)",218,491,5108
+46,125,46,99,SD,Minnehaha,76,153,1749
+46,125,46,83,SD,Lincoln,20,59,539
+46,125,46,135,SD,Yankton,14,36,341
+46,125,63,20,XX,"Same State",47,112,1030
+46,125,63,21,XX,"Same Region, Diff. State",26,61,637
+46,125,63,22,XX,"Different Region",35,70,812
+46,125,63,50,SD,"County Non-Migrant",3028,7386,77146
+46,127,0,1,SD,"Union (Total Migrant)",529,1104,23943
+46,127,19,193,Ia,Woodbury,175,336,9814
+46,127,46,99,SD,Minnehaha,42,84,1455
+46,127,46,27,SD,Clay,22,43,551
+46,127,31,43,Ne,Dakota,19,36,700
+46,127,19,149,Ia,Plymouth,18,35,671
+46,127,46,83,SD,Lincoln,13,34,266
+46,127,19,167,Ia,Sioux,11,23,523
+46,127,63,20,XX,"Same State",45,102,1430
+46,127,63,21,XX,"Same Region, Diff. State",104,225,4085
+46,127,63,22,XX,"Different Region",80,186,4448
+46,127,63,50,SD,"County Non-Migrant",3574,8515,135567
+46,129,0,1,SD,"Walworth (Total Migrant)",188,425,3794
+46,129,46,31,SD,Corson,14,41,261
+46,129,46,41,SD,Dewey,12,36,170
+46,129,46,13,SD,Brown,11,26,206
+46,129,63,20,XX,"Same State",56,120,1219
+46,129,63,21,XX,"Same Region, Diff. State",51,104,1035
+46,129,63,22,XX,"Different Region",44,98,903
+46,129,63,50,SD,"County Non-Migrant",2081,4858,53519
+46,135,0,1,SD,"Yankton (Total Migrant)",549,1088,12230
+46,135,46,99,SD,Minnehaha,40,71,819
+46,135,46,27,SD,Clay,39,71,631
+46,135,46,9,SD,"Bon Homme",34,74,558
+46,135,31,27,Ne,Cedar,29,38,417
+46,135,31,119,Ne,Madison,14,25,148
+46,135,31,107,Ne,Knox,13,19,217
+46,135,46,13,SD,Brown,10,17,214
+46,135,63,10,XX,"Same State",107,208,2562
+46,135,63,11,XX,"Region 1: Northeast",15,33,297
+46,135,63,12,XX,"Region 2: Midwest",156,308,3627
+46,135,63,13,XX,"Region 3: South",31,70,1021
+46,135,63,14,XX,"Region 4: West",61,154,1719
+46,135,63,50,SD,"County Non-Migrant",6618,15533,207072
+46,137,0,1,SD,"Ziebach (Total Migrant)",44,97,673
+46,137,63,30,XX,"Suppress All Flows",44,97,673
+46,137,63,50,SD,"County Non-Migrant",454,1318,8983

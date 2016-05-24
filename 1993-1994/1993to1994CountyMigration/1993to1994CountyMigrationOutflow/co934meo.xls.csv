@@ -1,0 +1,543 @@
+"1993 - 1994 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Maine,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+23,1,0,1,Me,"Androscoggin (Total Migrant)",2145,4048,49302
+23,1,23,5,Me,Cumberland,465,813,12404
+23,1,23,11,Me,Kennebec,210,417,4675
+23,1,23,17,Me,Oxford,199,400,4369
+23,1,23,7,Me,Franklin,97,200,1859
+23,1,23,23,Me,Sagadahoc,88,198,2009
+23,1,23,19,Me,Penobscot,58,99,1137
+23,1,23,31,Me,York,46,87,1001
+23,1,25,17,Ma,Middlesex,37,45,939
+23,1,23,3,Me,Aroostook,23,39,417
+23,1,57,5,FR,"APO / FPO Zip Code",22,35,333
+23,1,25,25,Ma,Suffolk,22,23,294
+23,1,23,13,Me,Knox,19,33,335
+23,1,23,15,Me,Lincoln,17,31,352
+23,1,33,15,NH,Rockingham,17,24,392
+23,1,25,21,Ma,Norfolk,16,26,272
+23,1,23,25,Me,Somerset,15,34,311
+23,1,33,11,NH,Hillsborough,14,24,409
+23,1,4,13,Az,Maricopa,14,21,332
+23,1,6,73,Ca,"San Diego",14,24,258
+23,1,51,810,Va,"Virginia Beach city",13,25,232
+23,1,9,3,Ct,Hartford,13,20,291
+23,1,33,17,NH,Strafford,13,24,291
+23,1,12,103,Fl,Pinellas,12,19,210
+23,1,25,27,Ma,Worcester,10,16,227
+23,1,23,27,Me,Waldo,10,17,282
+23,1,63,10,XX,"Same State",19,36,402
+23,1,63,11,XX,"Region 1: Northeast",183,350,4662
+23,1,63,12,XX,"Region 2: Midwest",65,158,1848
+23,1,63,13,XX,"Region 3: South",304,598,6663
+23,1,63,14,XX,"Region 4: West",97,183,1664
+23,1,63,15,XX,Foreign,13,29,432
+23,1,63,50,Me,"County Non-Migrant",34349,76948,1039757
+23,3,0,1,Me,"Aroostook (Total Migrant)",2530,5807,58710
+23,3,23,19,Me,Penobscot,208,378,4091
+23,3,23,5,Me,Cumberland,116,156,2317
+23,3,57,5,FR,"APO / FPO Zip Code",64,128,1315
+23,3,12,91,Fl,Okaloosa,50,132,1112
+23,3,23,31,Me,York,48,99,1012
+23,3,38,101,ND,Ward,41,130,1008
+23,3,29,101,Mo,Johnson,40,140,1055
+23,3,53,63,Wa,Spokane,40,102,1054
+23,3,23,11,Me,Kennebec,37,65,718
+23,3,23,29,Me,Washington,36,79,776
+23,3,32,3,Nv,Clark,34,86,751
+23,3,48,441,Tx,Taylor,32,98,866
+23,3,20,173,Ks,Sedgwick,28,69,765
+23,3,25,17,Ma,Middlesex,27,44,675
+23,3,23,1,Me,Androscoggin,27,48,472
+23,3,9,3,Ct,Hartford,25,46,376
+23,3,57,1,FR,"Foreign / Overseas",24,54,433
+23,3,46,103,SD,Pennington,24,67,630
+23,3,45,85,SC,Sumter,23,63,512
+23,3,6,47,Ca,Merced,22,60,604
+23,3,48,29,Tx,Bexar,22,54,637
+23,3,4,19,Az,Pima,22,46,399
+23,3,6,29,Ca,Kern,22,71,524
+23,3,22,15,La,Bossier,21,62,604
+23,3,36,65,NY,Oneida,21,52,772
+23,3,30,13,Mt,Cascade,20,63,605
+23,3,49,11,Ut,Davis,19,68,450
+23,3,35,9,NM,Curry,18,55,431
+23,3,25,27,Ma,Worcester,18,40,384
+23,3,23,23,Me,Sagadahoc,17,36,512
+23,3,35,35,NM,Otero,17,46,442
+23,3,33,15,NH,Rockingham,17,26,361
+23,3,40,109,Ok,Oklahoma,17,50,427
+23,3,23,25,Me,Somerset,17,31,429
+23,3,36,19,NY,Clinton,16,50,606
+23,3,38,35,ND,"Grand Forks",16,43,374
+23,3,31,153,Ne,Sarpy,16,51,433
+23,3,16,39,Id,Elmore,16,54,396
+23,3,23,9,Me,Hancock,16,23,206
+23,3,23,7,Me,Franklin,16,30,305
+23,3,8,41,Co,"El Paso",15,36,390
+23,3,10,1,De,Kent,15,41,407
+23,3,37,191,NC,Wayne,14,35,266
+23,3,6,115,Ca,Yuba,14,46,302
+23,3,6,95,Ca,Solano,14,38,366
+23,3,51,700,Va,"Newport News city",13,36,405
+23,3,4,13,Az,Maricopa,13,36,282
+23,3,40,65,Ok,Jackson,12,28,376
+23,3,48,303,Tx,Lubbock,12,31,418
+23,3,51,650,Va,"Hampton city",12,41,380
+23,3,26,103,Mi,Marquette,11,35,217
+23,3,37,51,NC,Cumberland,11,27,221
+23,3,33,11,NH,Hillsborough,11,17,192
+23,3,24,33,Md,"Prince George's",11,28,307
+23,3,6,65,Ca,Riverside,11,37,350
+23,3,53,53,Wa,Pierce,11,29,216
+23,3,2,20,Ak,"Anchorage Borough",10,27,274
+23,3,12,5,Fl,Bay,10,26,198
+23,3,15,3,Hi,Honolulu,10,22,201
+23,3,25,25,Ma,Suffolk,10,13,112
+23,3,13,153,Ga,Houston,10,33,361
+23,3,33,17,NH,Strafford,10,13,157
+23,3,5,119,Ar,Pulaski,10,28,296
+23,3,63,10,XX,"Same State",35,72,779
+23,3,63,11,XX,"Region 1: Northeast",229,473,4502
+23,3,63,12,XX,"Region 2: Midwest",158,391,3997
+23,3,63,13,XX,"Region 3: South",399,887,9838
+23,3,63,14,XX,"Region 4: West",129,286,3061
+23,3,63,50,Me,"County Non-Migrant",26886,62498,688163
+23,5,0,1,Me,"Cumberland (Total Migrant)",6335,11068,169622
+23,5,23,31,Me,York,983,1763,25152
+23,5,23,23,Me,Sagadahoc,407,769,10143
+23,5,23,1,Me,Androscoggin,375,699,9060
+23,5,23,17,Me,Oxford,177,287,3448
+23,5,23,11,Me,Kennebec,166,269,4078
+23,5,25,17,Ma,Middlesex,158,208,3895
+23,5,23,19,Me,Penobscot,154,234,3082
+23,5,57,5,FR,"APO / FPO Zip Code",119,196,2323
+23,5,33,15,NH,Rockingham,98,153,3303
+23,5,25,25,Ma,Suffolk,95,120,3112
+23,5,25,9,Ma,Essex,84,136,2697
+23,5,23,15,Me,Lincoln,77,124,1796
+23,5,25,21,Ma,Norfolk,59,90,2030
+23,5,33,11,NH,Hillsborough,58,92,1412
+23,5,6,73,Ca,"San Diego",55,141,1290
+23,5,23,13,Me,Knox,52,77,1002
+23,5,23,3,Me,Aroostook,51,82,1134
+23,5,23,7,Me,Franklin,45,82,764
+23,5,23,9,Me,Hancock,44,72,957
+23,5,33,17,NH,Strafford,42,66,1082
+23,5,36,61,NY,"New York",41,43,1613
+23,5,51,810,Va,"Virginia Beach city",40,104,857
+23,5,12,103,Fl,Pinellas,39,65,796
+23,5,25,27,Ma,Worcester,37,66,1210
+23,5,4,13,Az,Maricopa,36,67,782
+23,5,12,99,Fl,"Palm Beach",35,59,1386
+23,5,6,75,Ca,"San Francisco",34,35,449
+23,5,12,31,Fl,Duval,33,79,747
+23,5,51,59,Va,Fairfax,32,74,1348
+23,5,23,25,Me,Somerset,31,53,653
+23,5,12,19,Fl,Clay,28,78,934
+23,5,12,11,Fl,Broward,28,41,829
+23,5,57,1,FR,"Foreign / Overseas",28,54,1247
+23,5,6,37,Ca,"Los Angeles",27,38,753
+23,5,15,3,Hi,Honolulu,27,59,532
+23,5,33,3,NH,Carroll,27,37,433
+23,5,12,115,Fl,Sarasota,26,43,695
+23,5,53,33,Wa,King,26,33,723
+23,5,11,1,DC,"Wash.,D.C.",25,27,451
+23,5,9,3,Ct,Hartford,25,45,1215
+23,5,33,13,NH,Merrimack,24,40,558
+23,5,9,9,Ct,"New Haven",24,34,1445
+23,5,50,7,Vt,Chittenden,23,26,262
+23,5,4,19,Az,Pima,23,37,464
+23,5,23,27,Me,Waldo,22,32,351
+23,5,17,31,Il,Cook,21,24,576
+23,5,6,59,Ca,Orange,21,30,687
+23,5,37,133,NC,Onslow,21,27,316
+23,5,23,29,Me,Washington,21,48,324
+23,5,49,35,Ut,"Salt Lake",20,39,415
+23,5,33,9,NH,Grafton,19,31,505
+23,5,12,25,Fl,Dade,19,33,494
+23,5,36,47,NY,Kings,19,21,228
+23,5,12,127,Fl,Volusia,19,29,415
+23,5,41,51,Or,Multnomah,18,26,434
+23,5,9,11,Ct,"New London",18,33,464
+23,5,36,91,NY,Saratoga,17,29,717
+23,5,24,31,Md,Montgomery,17,26,500
+23,5,36,1,NY,Albany,17,29,710
+23,5,8,13,Co,Boulder,17,17,158
+23,5,12,9,Fl,Brevard,17,29,385
+23,5,12,95,Fl,Orange,17,32,472
+23,5,42,101,Pa,Philadelphia,16,21,483
+23,5,32,3,Nv,Clark,16,30,288
+23,5,13,121,Ga,Fulton,16,23,542
+23,5,37,119,NC,Mecklenburg,16,29,406
+23,5,48,453,Tx,Travis,15,26,696
+23,5,27,53,Mn,Hennepin,15,21,452
+23,5,44,7,RI,Providence,15,22,300
+23,5,37,183,NC,Wake,14,24,382
+23,5,9,1,Ct,Fairfield,14,23,315
+23,5,12,57,Fl,Hillsborough,14,22,431
+23,5,44,5,RI,Newport,14,27,355
+23,5,36,103,NY,Suffolk,13,25,379
+23,5,42,17,Pa,Bucks,13,27,388
+23,5,12,71,Fl,Lee,13,19,407
+23,5,6,1,Ca,Alameda,13,22,626
+23,5,36,67,NY,Onondaga,13,22,457
+23,5,25,5,Ma,Bristol,13,29,491
+23,5,42,3,Pa,Allegheny,12,18,243
+23,5,12,83,Fl,Marion,12,23,178
+23,5,48,439,Tx,Tarrant,12,30,660
+23,5,24,3,Md,"Anne Arundel",12,21,473
+23,5,9,13,Ct,Tolland,12,19,283
+23,5,23,21,Me,Piscataquis,12,18,246
+23,5,48,113,Tx,Dallas,12,26,446
+23,5,12,87,Fl,Monroe,12,19,1503
+23,5,25,1,Ma,Barnstable,11,22,357
+23,5,36,119,NY,Westchester,11,16,287
+23,5,51,153,Va,"Prince William",11,24,309
+23,5,48,29,Tx,Bexar,11,15,194
+23,5,24,510,Md,"Baltimore city",11,17,200
+23,5,13,89,Ga,"De Kalb",11,21,269
+23,5,12,15,Fl,Charlotte,11,15,517
+23,5,35,1,NM,Bernalillo,11,18,166
+23,5,8,41,Co,"El Paso",11,27,198
+23,5,47,157,Tn,Shelby,11,29,272
+23,5,24,37,Md,"St. Mary's",11,27,364
+23,5,25,3,Ma,Berkshire,10,17,185
+23,5,55,25,Wi,Dane,10,17,271
+23,5,39,61,Oh,Hamilton,10,13,257
+23,5,12,69,Fl,Lake,10,17,240
+23,5,2,20,Ak,"Anchorage Borough",10,14,183
+23,5,48,201,Tx,Harris,10,13,146
+23,5,12,21,Fl,Collier,10,23,531
+23,5,25,15,Ma,Hampshire,10,19,204
+23,5,25,23,Ma,Plymouth,10,18,406
+23,5,36,29,NY,Erie,10,19,792
+23,5,47,37,Tn,Davidson,10,11,120
+23,5,63,11,XX,"Region 1: Northeast",342,609,9883
+23,5,63,12,XX,"Region 2: Midwest",243,497,7645
+23,5,63,13,XX,"Region 3: South",568,1097,17711
+23,5,63,14,XX,"Region 4: West",254,435,6192
+23,5,63,50,Me,"County Non-Migrant",90084,189766,3352017
+23,7,0,1,Me,"Franklin (Total Migrant)",647,1121,13542
+23,7,23,1,Me,Androscoggin,92,172,1747
+23,7,23,5,Me,Cumberland,79,128,1453
+23,7,23,11,Me,Kennebec,51,82,916
+23,7,23,17,Me,Oxford,40,82,800
+23,7,23,25,Me,Somerset,39,85,855
+23,7,23,19,Me,Penobscot,22,42,446
+23,7,25,17,Ma,Middlesex,17,20,336
+23,7,23,31,Me,York,14,25,255
+23,7,23,3,Me,Aroostook,13,17,165
+23,7,63,10,XX,"Same State",33,52,685
+23,7,63,11,XX,"Region 1: Northeast",97,154,3207
+23,7,63,12,XX,"Region 2: Midwest",20,38,450
+23,7,63,13,XX,"Region 3: South",78,147,1387
+23,7,63,14,XX,"Region 4: West",52,77,840
+23,7,63,50,Me,"County Non-Migrant",9734,22280,269903
+23,9,0,1,Me,"Hancock (Total Migrant)",1083,1952,22207
+23,9,23,19,Me,Penobscot,240,446,4673
+23,9,23,5,Me,Cumberland,50,78,839
+23,9,23,29,Me,Washington,39,78,944
+23,9,57,5,FR,"APO / FPO Zip Code",31,53,611
+23,9,23,27,Me,Waldo,30,58,496
+23,9,23,11,Me,Kennebec,18,28,433
+23,9,12,99,Fl,"Palm Beach",18,25,268
+23,9,25,17,Ma,Middlesex,18,24,354
+23,9,23,31,Me,York,16,20,172
+23,9,23,13,Me,Knox,13,20,201
+23,9,9,11,Ct,"New London",11,23,220
+23,9,25,25,Ma,Suffolk,10,14,138
+23,9,63,10,XX,"Same State",51,99,908
+23,9,63,11,XX,"Region 1: Northeast",163,298,3501
+23,9,63,12,XX,"Region 2: Midwest",55,114,1764
+23,9,63,13,XX,"Region 3: South",226,409,4887
+23,9,63,14,XX,"Region 4: West",94,165,1798
+23,9,63,50,Me,"County Non-Migrant",17459,38132,499969
+23,11,0,1,Me,"Kennebec (Total Migrant)",2262,4036,55173
+23,11,23,25,Me,Somerset,283,546,6118
+23,11,23,5,Me,Cumberland,263,402,6676
+23,11,23,1,Me,Androscoggin,167,318,3436
+23,11,23,15,Me,Lincoln,90,164,2278
+23,11,23,19,Me,Penobscot,88,139,1952
+23,11,23,23,Me,Sagadahoc,86,162,2096
+23,11,23,27,Me,Waldo,70,158,1954
+23,11,23,7,Me,Franklin,61,124,1325
+23,11,23,13,Me,Knox,49,85,1241
+23,11,23,31,Me,York,45,79,1279
+23,11,25,17,Ma,Middlesex,41,49,693
+23,11,33,11,NH,Hillsborough,29,40,516
+23,11,25,25,Ma,Suffolk,27,34,552
+23,11,23,3,Me,Aroostook,19,34,279
+23,11,57,5,FR,"APO / FPO Zip Code",19,31,259
+23,11,12,103,Fl,Pinellas,18,29,357
+23,11,23,9,Me,Hancock,18,31,398
+23,11,25,21,Ma,Norfolk,17,27,273
+23,11,25,27,Ma,Worcester,16,32,435
+23,11,23,29,Me,Washington,16,27,835
+23,11,33,15,NH,Rockingham,15,35,862
+23,11,25,9,Ma,Essex,14,23,286
+23,11,12,101,Fl,Pasco,13,31,291
+23,11,4,13,Az,Maricopa,13,28,229
+23,11,23,17,Me,Oxford,12,22,655
+23,11,9,3,Ct,Hartford,11,16,292
+23,11,6,73,Ca,"San Diego",11,18,145
+23,11,12,71,Fl,Lee,11,18,156
+23,11,25,1,Ma,Barnstable,10,14,310
+23,11,63,30,XX,"Suppress All Flows",730,1320,18995
+23,11,63,50,Me,"County Non-Migrant",40465,90721,1284738
+23,13,0,1,Me,"Knox (Total Migrant)",787,1384,15915
+23,13,23,27,Me,Waldo,85,161,1910
+23,13,23,5,Me,Cumberland,80,112,1833
+23,13,23,15,Me,Lincoln,71,139,1335
+23,13,23,11,Me,Kennebec,41,75,680
+23,13,23,19,Me,Penobscot,35,58,493
+23,13,23,9,Me,Hancock,23,46,351
+23,13,23,31,Me,York,15,29,318
+23,13,23,23,Me,Sagadahoc,13,20,282
+23,13,25,17,Ma,Middlesex,11,14,252
+23,13,23,25,Me,Somerset,10,19,203
+23,13,63,10,XX,"Same State",28,60,643
+23,13,63,11,XX,"Region 1: Northeast",139,259,2950
+23,13,63,12,XX,"Region 2: Midwest",34,60,595
+23,13,63,13,XX,"Region 3: South",126,212,2589
+23,13,63,14,XX,"Region 4: West",63,106,1323
+23,13,63,15,XX,Foreign,13,14,158
+23,13,63,50,Me,"County Non-Migrant",13214,28682,372610
+23,15,0,1,Me,"Lincoln (Total Migrant)",719,1276,17755
+23,15,23,5,Me,Cumberland,90,137,1928
+23,15,23,11,Me,Kennebec,84,162,2141
+23,15,23,23,Me,Sagadahoc,79,161,1929
+23,15,23,13,Me,Knox,63,115,1181
+23,15,23,19,Me,Penobscot,18,38,314
+23,15,23,1,Me,Androscoggin,17,35,411
+23,15,23,31,Me,York,14,25,256
+23,15,23,27,Me,Waldo,14,27,213
+23,15,25,17,Ma,Middlesex,13,14,330
+23,15,63,10,XX,"Same State",34,61,766
+23,15,63,11,XX,"Region 1: Northeast",104,159,3027
+23,15,63,12,XX,"Region 2: Midwest",22,42,451
+23,15,63,13,XX,"Region 3: South",105,190,3299
+23,15,63,14,XX,"Region 4: West",52,89,1043
+23,15,63,15,XX,Foreign,10,21,466
+23,15,63,50,Me,"County Non-Migrant",11192,24841,334123
+23,17,0,1,Me,"Oxford (Total Migrant)",1092,1973,21973
+23,17,23,5,Me,Cumberland,208,365,4355
+23,17,23,1,Me,Androscoggin,187,354,3579
+23,17,23,31,Me,York,60,102,1033
+23,17,23,7,Me,Franklin,46,78,812
+23,17,33,3,NH,Carroll,42,70,542
+23,17,23,11,Me,Kennebec,25,47,499
+23,17,23,19,Me,Penobscot,22,38,473
+23,17,33,11,NH,Hillsborough,16,30,252
+23,17,33,7,NH,Coos,15,36,321
+23,17,25,9,Ma,Essex,15,25,338
+23,17,23,25,Me,Somerset,12,19,188
+23,17,23,3,Me,Aroostook,12,18,132
+23,17,25,25,Ma,Suffolk,11,23,167
+23,17,33,15,NH,Rockingham,11,19,240
+23,17,57,5,FR,"APO / FPO Zip Code",10,11,169
+23,17,23,13,Me,Knox,10,27,220
+23,17,63,10,XX,"Same State",26,51,538
+23,17,63,11,XX,"Region 1: Northeast",129,226,3044
+23,17,63,12,XX,"Region 2: Midwest",23,51,666
+23,17,63,13,XX,"Region 3: South",145,273,3034
+23,17,63,14,XX,"Region 4: West",67,110,1371
+23,17,63,50,Me,"County Non-Migrant",17408,39324,461564
+23,19,0,1,Me,"Penobscot (Total Migrant)",2857,4943,65758
+23,19,23,5,Me,Cumberland,232,369,6124
+23,19,23,9,Me,Hancock,208,369,5190
+23,19,23,27,Me,Waldo,143,272,3704
+23,19,23,25,Me,Somerset,133,259,2414
+23,19,23,11,Me,Kennebec,130,209,2690
+23,19,23,3,Me,Aroostook,98,194,1761
+23,19,23,21,Me,Piscataquis,90,153,1683
+23,19,23,31,Me,York,89,157,2042
+23,19,23,29,Me,Washington,53,110,900
+23,19,25,17,Ma,Middlesex,52,61,962
+23,19,23,1,Me,Androscoggin,48,89,771
+23,19,33,11,NH,Hillsborough,37,61,949
+23,19,23,13,Me,Knox,35,52,599
+23,19,33,15,NH,Rockingham,32,55,731
+23,19,57,5,FR,"APO / FPO Zip Code",30,38,375
+23,19,12,103,Fl,Pinellas,28,42,464
+23,19,23,23,Me,Sagadahoc,26,39,494
+23,19,23,7,Me,Franklin,25,45,445
+23,19,25,25,Ma,Suffolk,25,27,383
+23,19,23,17,Me,Oxford,22,35,285
+23,19,4,13,Az,Maricopa,21,34,487
+23,19,57,1,FR,"Foreign / Overseas",20,25,228
+23,19,12,99,Fl,"Palm Beach",19,29,628
+23,19,25,9,Ma,Essex,19,28,409
+23,19,9,9,Ct,"New Haven",19,23,352
+23,19,23,15,Me,Lincoln,18,42,489
+23,19,25,27,Ma,Worcester,17,28,340
+23,19,33,13,NH,Merrimack,14,26,267
+23,19,35,1,NM,Bernalillo,13,21,433
+23,19,33,17,NH,Strafford,13,16,282
+23,19,25,21,Ma,Norfolk,12,13,238
+23,19,50,7,Vt,Chittenden,12,20,288
+23,19,12,95,Fl,Orange,12,14,133
+23,19,12,11,Fl,Broward,11,18,3174
+23,19,12,105,Fl,Polk,11,22,85
+23,19,6,37,Ca,"Los Angeles",10,14,96
+23,19,44,7,RI,Providence,10,14,204
+23,19,12,101,Fl,Pasco,10,20,178
+23,19,12,9,Fl,Brevard,10,13,185
+23,19,25,1,Ma,Barnstable,10,16,168
+23,19,63,11,XX,"Region 1: Northeast",300,520,6879
+23,19,63,12,XX,"Region 2: Midwest",131,258,3275
+23,19,63,13,XX,"Region 3: South",451,784,10751
+23,19,63,14,XX,"Region 4: West",158,309,3223
+23,19,63,50,Me,"County Non-Migrant",48368,108208,1467623
+23,21,0,1,Me,"Piscataquis (Total Migrant)",429,800,9487
+23,21,23,19,Me,Penobscot,124,233,2437
+23,21,23,25,Me,Somerset,25,55,428
+23,21,23,5,Me,Cumberland,19,26,235
+23,21,23,11,Me,Kennebec,11,21,179
+23,21,23,9,Me,Hancock,11,23,175
+23,21,23,31,Me,York,10,21,187
+23,21,63,20,XX,"Same State",38,65,1234
+23,21,63,21,XX,"Same Region, Diff. State",83,161,1995
+23,21,63,22,XX,"Different Region",108,195,2617
+23,21,63,50,Me,"County Non-Migrant",6145,14113,151066
+23,23,0,1,Me,"Sagadahoc (Total Migrant)",1370,2828,35122
+23,23,23,5,Me,Cumberland,407,763,10151
+23,23,23,11,Me,Kennebec,94,191,2692
+23,23,23,1,Me,Androscoggin,92,207,2559
+23,23,57,5,FR,"APO / FPO Zip Code",81,128,1723
+23,23,23,15,Me,Lincoln,80,152,1794
+23,23,6,73,Ca,"San Diego",46,130,1266
+23,23,15,3,Hi,Honolulu,30,79,735
+23,23,23,19,Me,Penobscot,20,37,375
+23,23,51,810,Va,"Virginia Beach city",17,51,519
+23,23,12,19,Fl,Clay,14,37,375
+23,23,23,31,Me,York,13,28,461
+23,23,25,17,Ma,Middlesex,11,19,383
+23,23,51,59,Va,Fairfax,11,30,447
+23,23,12,31,Fl,Duval,11,28,420
+23,23,63,10,XX,"Same State",40,93,1094
+23,23,63,11,XX,"Region 1: Northeast",135,271,3594
+23,23,63,12,XX,"Region 2: Midwest",43,107,1209
+23,23,63,13,XX,"Region 3: South",170,366,4342
+23,23,63,14,XX,"Region 4: West",55,111,983
+23,23,63,50,Me,"County Non-Migrant",11055,25525,362926
+23,25,0,1,Me,"Somerset (Total Migrant)",1061,1930,20068
+23,25,23,11,Me,Kennebec,296,551,6268
+23,25,23,19,Me,Penobscot,129,261,2276
+23,25,23,5,Me,Cumberland,58,96,1005
+23,25,23,7,Me,Franklin,55,127,1140
+23,25,23,27,Me,Waldo,32,68,555
+23,25,23,1,Me,Androscoggin,23,52,805
+23,25,23,21,Me,Piscataquis,17,34,304
+23,25,25,17,Ma,Middlesex,14,16,188
+23,25,23,17,Me,Oxford,14,26,294
+23,25,23,9,Me,Hancock,13,23,333
+23,25,57,5,FR,"APO / FPO Zip Code",12,12,117
+23,25,23,3,Me,Aroostook,11,16,165
+23,25,12,103,Fl,Pinellas,11,19,232
+23,25,23,13,Me,Knox,10,20,175
+23,25,23,31,Me,York,10,18,176
+23,25,63,10,XX,"Same State",16,19,293
+23,25,63,11,XX,"Region 1: Northeast",139,227,2139
+23,25,63,12,XX,"Region 2: Midwest",25,43,452
+23,25,63,13,XX,"Region 3: South",125,220,2144
+23,25,63,14,XX,"Region 4: West",51,82,1007
+23,25,63,50,Me,"County Non-Migrant",16038,37126,431162
+23,27,0,1,Me,"Waldo (Total Migrant)",716,1316,13757
+23,27,23,19,Me,Penobscot,165,338,3575
+23,27,23,11,Me,Kennebec,75,138,1243
+23,27,23,13,Me,Knox,72,140,1344
+23,27,23,9,Me,Hancock,41,82,720
+23,27,23,5,Me,Cumberland,33,43,611
+23,27,23,25,Me,Somerset,30,59,435
+23,27,23,31,Me,York,15,26,207
+23,27,23,7,Me,Franklin,11,20,200
+23,27,63,10,XX,"Same State",31,67,582
+23,27,63,11,XX,"Region 1: Northeast",98,146,1781
+23,27,63,12,XX,"Region 2: Midwest",17,32,209
+23,27,63,13,XX,"Region 3: South",93,169,2214
+23,27,63,14,XX,"Region 4: West",35,56,636
+23,27,63,50,Me,"County Non-Migrant",10896,24834,276023
+23,29,0,1,Me,"Washington (Total Migrant)",655,1262,12185
+23,29,23,19,Me,Penobscot,85,157,1630
+23,29,23,9,Me,Hancock,52,90,739
+23,29,23,5,Me,Cumberland,43,72,589
+23,29,23,3,Me,Aroostook,36,80,757
+23,29,23,11,Me,Kennebec,17,27,290
+23,29,57,5,FR,"APO / FPO Zip Code",13,23,198
+23,29,23,25,Me,Somerset,13,19,229
+23,29,23,1,Me,Androscoggin,11,25,190
+23,29,23,31,Me,York,10,14,132
+23,29,23,13,Me,Knox,10,18,367
+23,29,63,10,XX,"Same State",25,45,413
+23,29,63,11,XX,"Region 1: Northeast",139,271,2682
+23,29,63,12,XX,"Region 2: Midwest",32,68,466
+23,29,63,13,XX,"Region 3: South",130,280,2737
+23,29,63,14,XX,"Region 4: West",39,73,766
+23,29,63,50,Me,"County Non-Migrant",11402,25853,255792
+23,31,0,1,Me,"York (Total Migrant)",4004,7280,170893
+23,31,23,5,Me,Cumberland,949,1698,23825
+23,31,33,17,NH,Strafford,420,733,8846
+23,31,33,15,NH,Rockingham,277,469,8702
+23,31,25,17,Ma,Middlesex,96,129,1899
+23,31,23,17,Me,Oxford,88,211,1930
+23,31,23,19,Me,Penobscot,72,126,1486
+23,31,33,11,NH,Hillsborough,56,83,1414
+23,31,25,9,Ma,Essex,55,113,1700
+23,31,9,11,Ct,"New London",51,132,1163
+23,31,23,11,Me,Kennebec,47,87,1116
+23,31,25,25,Ma,Suffolk,46,50,1119
+23,31,23,1,Me,Androscoggin,45,93,896
+23,31,33,3,NH,Carroll,39,69,742
+23,31,57,5,FR,"APO / FPO Zip Code",39,70,653
+23,31,25,27,Ma,Worcester,33,52,817
+23,31,33,13,NH,Merrimack,28,40,551
+23,31,25,21,Ma,Norfolk,28,37,603
+23,31,23,7,Me,Franklin,28,48,635
+23,31,23,9,Me,Hancock,23,41,507
+23,31,23,3,Me,Aroostook,23,46,474
+23,31,23,23,Me,Sagadahoc,22,47,688
+23,31,12,21,Fl,Collier,22,37,393
+23,31,4,13,Az,Maricopa,21,28,453
+23,31,12,103,Fl,Pinellas,20,37,566
+23,31,51,810,Va,"Virginia Beach city",19,52,550
+23,31,23,25,Me,Somerset,19,33,404
+23,31,12,11,Fl,Broward,19,31,769
+23,31,12,127,Fl,Volusia,17,28,338
+23,31,9,3,Ct,Hartford,17,24,337
+23,31,33,1,NH,Belknap,16,30,327
+23,31,12,31,Fl,Duval,15,29,456
+23,31,12,99,Fl,"Palm Beach",15,26,527
+23,31,25,23,Ma,Plymouth,14,18,298
+23,31,23,29,Me,Washington,14,20,193
+23,31,9,9,Ct,"New Haven",14,29,428
+23,31,13,39,Ga,Camden,14,36,664
+23,31,23,13,Me,Knox,14,28,219
+23,31,12,71,Fl,Lee,13,22,307
+23,31,33,9,NH,Grafton,13,23,630
+23,31,4,19,Az,Pima,12,16,165
+23,31,25,13,Ma,Hampden,12,15,225
+23,31,6,73,Ca,"San Diego",12,22,257
+23,31,6,37,Ca,"Los Angeles",12,23,496
+23,31,23,15,Me,Lincoln,12,32,256
+23,31,36,71,NY,Orange,11,17,341
+23,31,12,9,Fl,Brevard,11,20,126
+23,31,6,75,Ca,"San Francisco",11,13,78
+23,31,48,27,Tx,Bell,10,20,135
+23,31,25,5,Ma,Bristol,10,17,183
+23,31,25,1,Ma,Barnstable,10,23,186
+23,31,44,5,RI,Newport,10,19,290
+23,31,12,81,Fl,Manatee,10,17,210
+23,31,57,1,FR,"Foreign / Overseas",10,16,274
+23,31,63,10,XX,"Same State",15,32,253
+23,31,63,11,XX,"Region 1: Northeast",290,551,80204
+23,31,63,12,XX,"Region 2: Midwest",131,293,3806
+23,31,63,13,XX,"Region 3: South",461,915,11721
+23,31,63,14,XX,"Region 4: West",193,314,4062
+23,31,63,50,Me,"County Non-Migrant",60039,134862,928931

@@ -1,0 +1,457 @@
+"1993 - 1994 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+NewHampshire,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+33,1,0,1,NH,"Belknap (Total Migrant)",1556,3012,45393
+33,1,33,13,NH,Merrimack,345,712,7773
+33,1,33,11,NH,Hillsborough,119,223,3297
+33,1,33,9,NH,Grafton,119,224,2476
+33,1,25,17,Ma,Middlesex,101,184,4054
+33,1,33,15,NH,Rockingham,88,170,2796
+33,1,33,17,NH,Strafford,66,130,1586
+33,1,33,3,NH,Carroll,60,129,1465
+33,1,25,9,Ma,Essex,40,72,1200
+33,1,25,21,Ma,Norfolk,24,39,827
+33,1,23,31,Me,York,16,30,327
+33,1,25,23,Ma,Plymouth,16,28,1075
+33,1,25,27,Ma,Worcester,16,34,1555
+33,1,25,25,Ma,Suffolk,16,24,410
+33,1,9,9,Ct,"New Haven",14,30,627
+33,1,33,7,NH,Coos,14,23,307
+33,1,4,13,Az,Maricopa,12,25,551
+33,1,6,37,Ca,"Los Angeles",12,19,243
+33,1,33,5,NH,Cheshire,11,21,361
+33,1,36,103,NY,Suffolk,10,16,304
+33,1,63,30,XX,"Suppress All Flows",457,879,14159
+33,1,63,50,NH,"County Non-Migrant",18263,39973,598960
+33,3,0,1,NH,"Carroll (Total Migrant)",1236,2267,40697
+33,3,33,17,NH,Strafford,121,255,2694
+33,3,25,17,Ma,Middlesex,78,145,2659
+33,3,33,1,NH,Belknap,73,155,1847
+33,3,25,9,Ma,Essex,70,110,1910
+33,3,33,15,NH,Rockingham,67,124,1567
+33,3,33,11,NH,Hillsborough,54,94,1472
+33,3,23,17,Me,Oxford,42,70,542
+33,3,23,31,Me,York,39,69,742
+33,3,33,7,NH,Coos,30,46,468
+33,3,23,5,Me,Cumberland,27,37,433
+33,3,25,21,Ma,Norfolk,25,45,1039
+33,3,33,13,NH,Merrimack,24,40,458
+33,3,33,9,NH,Grafton,23,35,360
+33,3,25,23,Ma,Plymouth,21,42,818
+33,3,25,27,Ma,Worcester,18,43,1804
+33,3,25,5,Ma,Bristol,17,26,283
+33,3,25,25,Ma,Suffolk,16,24,560
+33,3,9,3,Ct,Hartford,15,24,1166
+33,3,44,7,RI,Providence,13,25,366
+33,3,9,9,Ct,"New Haven",13,34,631
+33,3,9,1,Ct,Fairfield,11,23,1918
+33,3,6,37,Ca,"Los Angeles",10,19,521
+33,3,9,11,Ct,"New London",10,23,317
+33,3,63,30,XX,"Suppress All Flows",419,759,16122
+33,3,63,50,NH,"County Non-Migrant",14590,30958,463621
+33,5,0,1,NH,"Cheshire (Total Migrant)",1573,2848,42838
+33,5,33,11,NH,Hillsborough,232,451,6294
+33,5,50,25,Vt,Windham,154,271,3715
+33,5,25,27,Ma,Worcester,68,113,1490
+33,5,33,19,NH,Sullivan,68,114,1475
+33,5,25,17,Ma,Middlesex,62,99,2145
+33,5,33,15,NH,Rockingham,48,83,898
+33,5,33,13,NH,Merrimack,43,67,721
+33,5,25,11,Ma,Franklin,42,72,876
+33,5,9,1,Ct,Fairfield,27,44,1230
+33,5,33,9,NH,Grafton,26,36,564
+33,5,9,3,Ct,Hartford,24,42,766
+33,5,50,27,Vt,Windsor,22,44,411
+33,5,25,25,Ma,Suffolk,21,22,457
+33,5,25,13,Ma,Hampden,20,36,632
+33,5,25,15,Ma,Hampshire,17,30,390
+33,5,33,17,NH,Strafford,17,26,262
+33,5,12,99,Fl,"Palm Beach",13,28,253
+33,5,50,7,Vt,Chittenden,12,24,500
+33,5,34,3,NJ,Bergen,11,17,396
+33,5,9,9,Ct,"New Haven",10,22,330
+33,5,25,9,Ma,Essex,10,19,257
+33,5,63,10,XX,"Same State",24,42,613
+33,5,63,11,XX,"Region 1: Northeast",266,495,8757
+33,5,63,12,XX,"Region 2: Midwest",62,127,2293
+33,5,63,13,XX,"Region 3: South",167,319,4456
+33,5,63,14,XX,"Region 4: West",94,182,2207
+33,5,63,15,XX,Foreign,13,23,450
+33,5,63,50,NH,"County Non-Migrant",24819,54775,846015
+33,7,0,1,NH,"Coos (Total Migrant)",555,1018,12488
+33,7,33,9,NH,Grafton,63,126,1294
+33,7,33,11,NH,Hillsborough,41,78,997
+33,7,50,9,Vt,Essex,25,50,509
+33,7,33,3,NH,Carroll,23,41,389
+33,7,25,17,Ma,Middlesex,21,34,585
+33,7,33,13,NH,Merrimack,21,32,293
+33,7,33,15,NH,Rockingham,18,24,426
+33,7,23,17,Me,Oxford,15,36,321
+33,7,33,17,NH,Strafford,13,19,203
+33,7,50,5,Vt,Caledonia,11,28,195
+33,7,63,10,XX,"Same State",17,29,251
+33,7,63,11,XX,"Region 1: Northeast",165,285,4035
+33,7,63,12,XX,"Region 2: Midwest",23,55,752
+33,7,63,13,XX,"Region 3: South",56,92,1103
+33,7,63,14,XX,"Region 4: West",32,59,672
+33,7,63,15,XX,Foreign,11,30,463
+33,7,63,50,NH,"County Non-Migrant",12273,27303,336849
+33,9,0,1,NH,"Grafton (Total Migrant)",2628,4619,79417
+33,9,50,27,Vt,Windsor,189,355,5503
+33,9,33,19,NH,Sullivan,132,251,4400
+33,9,57,1,FR,"Foreign / Overseas",120,145,997
+33,9,33,11,NH,Hillsborough,118,196,3100
+33,9,25,17,Ma,Middlesex,115,191,4509
+33,9,33,1,NH,Belknap,113,210,2618
+33,9,33,13,NH,Merrimack,111,225,2314
+33,9,50,17,Vt,Orange,85,173,2164
+33,9,33,7,NH,Coos,83,135,2047
+33,9,33,15,NH,Rockingham,68,115,1926
+33,9,25,25,Ma,Suffolk,42,61,1375
+33,9,50,5,Vt,Caledonia,41,68,851
+33,9,25,21,Ma,Norfolk,40,61,1315
+33,9,25,9,Ma,Essex,39,75,1197
+33,9,33,17,NH,Strafford,39,60,787
+33,9,6,37,Ca,"Los Angeles",34,52,963
+33,9,9,3,Ct,Hartford,29,56,1141
+33,9,33,5,NH,Cheshire,27,48,556
+33,9,9,1,Ct,Fairfield,25,56,2206
+33,9,44,7,RI,Providence,25,38,623
+33,9,25,23,Ma,Plymouth,22,31,309
+33,9,25,27,Ma,Worcester,22,36,686
+33,9,33,3,NH,Carroll,22,30,1245
+33,9,36,61,NY,"New York",20,31,1386
+33,9,23,5,Me,Cumberland,19,31,505
+33,9,50,23,Vt,Washington,19,36,448
+33,9,50,7,Vt,Chittenden,17,31,336
+33,9,25,5,Ma,Bristol,17,32,748
+33,9,17,31,Il,Cook,14,36,960
+33,9,23,31,Me,York,13,23,630
+33,9,9,11,Ct,"New London",13,24,459
+33,9,6,73,Ca,"San Diego",13,20,275
+33,9,57,5,FR,"APO / FPO Zip Code",12,26,477
+33,9,36,103,NY,Suffolk,12,18,524
+33,9,50,19,Vt,Orleans,12,20,133
+33,9,6,85,Ca,"Santa Clara",11,19,617
+33,9,36,119,NY,Westchester,11,18,1186
+33,9,25,1,Ma,Barnstable,11,17,255
+33,9,53,33,Wa,King,11,20,244
+33,9,12,99,Fl,"Palm Beach",10,18,280
+33,9,24,31,Md,Montgomery,10,17,290
+33,9,50,21,Vt,Rutland,10,16,161
+33,9,6,59,Ca,Orange,10,20,250
+33,9,63,11,XX,"Region 1: Northeast",333,566,12395
+33,9,63,12,XX,"Region 2: Midwest",98,205,3303
+33,9,63,13,XX,"Region 3: South",252,462,7052
+33,9,63,14,XX,"Region 4: West",139,245,3671
+33,9,63,50,NH,"County Non-Migrant",26785,57941,942020
+33,11,0,1,NH,"Hillsborough (Total Migrant)",8813,16171,283636
+33,11,25,17,Ma,Middlesex,1560,2972,54442
+33,11,33,15,NH,Rockingham,1318,2323,39914
+33,11,33,13,NH,Merrimack,844,1451,22227
+33,11,25,9,Ma,Essex,335,616,11005
+33,11,33,5,NH,Cheshire,274,466,6606
+33,11,25,27,Ma,Worcester,233,423,7753
+33,11,25,25,Ma,Suffolk,179,286,5426
+33,11,25,21,Ma,Norfolk,146,270,5652
+33,11,33,17,NH,Strafford,126,209,3322
+33,11,33,1,NH,Belknap,96,158,2302
+33,11,33,9,NH,Grafton,92,154,2060
+33,11,57,1,FR,"Foreign / Overseas",74,131,3599
+33,11,9,3,Ct,Hartford,73,124,3285
+33,11,57,5,FR,"APO / FPO Zip Code",71,145,1984
+33,11,25,23,Ma,Plymouth,65,118,2196
+33,11,23,5,Me,Cumberland,58,92,1412
+33,11,23,31,Me,York,56,83,1414
+33,11,33,7,NH,Coos,55,95,1182
+33,11,33,19,NH,Sullivan,52,95,1160
+33,11,44,7,RI,Providence,50,93,2157
+33,11,50,7,Vt,Chittenden,49,95,1478
+33,11,6,37,Ca,"Los Angeles",48,96,2007
+33,11,9,9,Ct,"New Haven",43,79,1556
+33,11,9,1,Ct,Fairfield,41,67,2292
+33,11,6,73,Ca,"San Diego",41,81,1526
+33,11,33,3,NH,Carroll,41,80,1389
+33,11,25,5,Ma,Bristol,39,68,1398
+33,11,23,19,Me,Penobscot,37,61,949
+33,11,4,13,Az,Maricopa,35,60,1042
+33,11,25,1,Ma,Barnstable,34,51,956
+33,11,25,13,Ma,Hampden,33,59,1508
+33,11,12,11,Fl,Broward,33,52,934
+33,11,36,103,NY,Suffolk,32,65,1979
+33,11,36,59,NY,Nassau,29,53,958
+33,11,12,99,Fl,"Palm Beach",29,49,659
+33,11,23,11,Me,Kennebec,29,40,516
+33,11,17,31,Il,Cook,28,50,1553
+33,11,12,103,Fl,Pinellas,27,47,734
+33,11,6,59,Ca,Orange,24,58,1307
+33,11,36,81,NY,Queens,23,44,573
+33,11,9,11,Ct,"New London",21,36,670
+33,11,51,59,Va,Fairfax,21,58,973
+33,11,12,115,Fl,Sarasota,20,33,368
+33,11,36,29,NY,Erie,19,31,741
+33,11,9,13,Ct,Tolland,19,32,807
+33,11,53,33,Wa,King,19,30,443
+33,11,48,113,Tx,Dallas,19,29,698
+33,11,12,9,Fl,Brevard,18,30,393
+33,11,50,27,Vt,Windsor,18,36,442
+33,11,44,5,RI,Newport,18,32,686
+33,11,34,3,NJ,Bergen,18,33,781
+33,11,36,61,NY,"New York",18,19,460
+33,11,12,57,Fl,Hillsborough,18,30,369
+33,11,12,95,Fl,Orange,18,38,498
+33,11,36,67,NY,Onondaga,18,48,1343
+33,11,42,3,Pa,Allegheny,17,30,694
+33,11,36,55,NY,Monroe,17,27,687
+33,11,44,9,RI,Washington,17,42,682
+33,11,25,15,Ma,Hampshire,17,37,641
+33,11,6,65,Ca,Riverside,16,22,364
+33,11,48,201,Tx,Harris,16,38,525
+33,11,9,7,Ct,Middlesex,16,39,891
+33,11,23,17,Me,Oxford,16,30,252
+33,11,37,51,NC,Cumberland,15,34,352
+33,11,6,85,Ca,"Santa Clara",15,26,612
+33,11,36,119,NY,Westchester,15,25,594
+33,11,12,71,Fl,Lee,15,27,285
+33,11,23,1,Me,Androscoggin,14,24,409
+33,11,36,1,NY,Albany,14,19,371
+33,11,8,41,Co,"El Paso",14,32,481
+33,11,44,3,RI,Kent,14,19,541
+33,11,15,3,Hi,Honolulu,14,38,541
+33,11,42,17,Pa,Bucks,14,31,920
+33,11,48,439,Tx,Tarrant,13,30,1184
+33,11,24,31,Md,Montgomery,13,18,393
+33,11,9,5,Ct,Litchfield,13,19,374
+33,11,11,1,DC,"Wash.,D.C.",13,18,447
+33,11,4,19,Az,Pima,13,34,198
+33,11,36,91,NY,Saratoga,13,17,405
+33,11,34,27,NJ,Morris,13,30,934
+33,11,36,27,NY,Dutchess,13,25,602
+33,11,34,5,NJ,Burlington,13,23,364
+33,11,50,23,Vt,Washington,12,18,603
+33,11,6,71,Ca,"San Bernardino",12,22,603
+33,11,9,15,Ct,Windham,12,24,276
+33,11,50,21,Vt,Rutland,12,21,236
+33,11,39,49,Oh,Franklin,12,20,437
+33,11,12,31,Fl,Duval,12,23,258
+33,11,42,91,Pa,Montgomery,12,23,485
+33,11,50,25,Vt,Windham,12,15,154
+33,11,26,125,Mi,Oakland,11,24,717
+33,11,37,119,NC,Mecklenburg,11,27,448
+33,11,12,127,Fl,Volusia,11,15,206
+33,11,12,97,Fl,Osceola,11,22,225
+33,11,23,3,Me,Aroostook,11,17,192
+33,11,12,101,Fl,Pasco,11,27,396
+33,11,12,21,Fl,Collier,11,17,300
+33,11,29,189,Mo,"St. Louis",11,25,562
+33,11,25,3,Ma,Berkshire,11,21,427
+33,11,37,133,NC,Onslow,10,18,146
+33,11,34,23,NJ,Middlesex,10,18,414
+33,11,36,47,NY,Kings,10,20,347
+33,11,36,7,NY,Broome,10,16,217
+33,11,36,65,NY,Oneida,10,24,468
+33,11,6,97,Ca,Sonoma,10,21,431
+33,11,10,3,De,"New Castle",10,17,536
+33,11,51,810,Va,"Virginia Beach city",10,18,224
+33,11,13,135,Ga,Gwinnett,10,16,333
+33,11,12,25,Fl,Dade,10,19,322
+33,11,42,29,Pa,Chester,10,29,823
+33,11,48,453,Tx,Travis,10,17,324
+33,11,26,163,Mi,Wayne,10,26,698
+33,11,50,17,Vt,Orange,10,20,270
+33,11,63,11,XX,"Region 1: Northeast",371,698,10562
+33,11,63,12,XX,"Region 2: Midwest",251,528,10514
+33,11,63,13,XX,"Region 3: South",494,1011,13766
+33,11,63,14,XX,"Region 4: West",235,466,7889
+33,11,63,50,NH,"County Non-Migrant",124097,277453,5058959
+33,13,0,1,NH,"Merrimack (Total Migrant)",3606,6581,98973
+33,13,33,11,NH,Hillsborough,908,1689,25598
+33,13,33,1,NH,Belknap,497,982,12116
+33,13,33,15,NH,Rockingham,266,485,6439
+33,13,33,9,NH,Grafton,124,209,2968
+33,13,25,17,Ma,Middlesex,94,167,3125
+33,13,33,19,NH,Sullivan,91,172,2303
+33,13,33,17,NH,Strafford,64,104,1508
+33,13,25,9,Ma,Essex,63,123,1609
+33,13,33,5,NH,Cheshire,44,80,1473
+33,13,33,7,NH,Coos,40,75,856
+33,13,25,25,Ma,Suffolk,38,50,1030
+33,13,25,21,Ma,Norfolk,35,54,1705
+33,13,33,3,NH,Carroll,34,52,768
+33,13,57,1,FR,"Foreign / Overseas",34,51,925
+33,13,9,3,Ct,Hartford,30,52,990
+33,13,23,31,Me,York,28,40,551
+33,13,9,1,Ct,Fairfield,25,45,1621
+33,13,25,27,Ma,Worcester,25,41,742
+33,13,23,5,Me,Cumberland,24,40,558
+33,13,25,5,Ma,Bristol,22,43,521
+33,13,9,9,Ct,"New Haven",21,49,882
+33,13,25,23,Ma,Plymouth,21,42,729
+33,13,57,5,FR,"APO / FPO Zip Code",18,34,476
+33,13,50,7,Vt,Chittenden,17,26,393
+33,13,6,73,Ca,"San Diego",16,30,548
+33,13,12,103,Fl,Pinellas,16,20,294
+33,13,44,7,RI,Providence,15,26,505
+33,13,23,19,Me,Penobscot,14,26,267
+33,13,4,13,Az,Maricopa,14,23,270
+33,13,6,37,Ca,"Los Angeles",13,19,297
+33,13,36,103,NY,Suffolk,12,19,436
+33,13,36,59,NY,Nassau,12,17,420
+33,13,36,61,NY,"New York",12,18,307
+33,13,50,17,Vt,Orange,11,18,163
+33,13,53,33,Wa,King,11,19,363
+33,13,25,13,Ma,Hampden,11,21,202
+33,13,50,27,Vt,Windsor,11,23,507
+33,13,9,5,Ct,Litchfield,10,13,177
+33,13,44,3,RI,Kent,10,24,427
+33,13,63,11,XX,"Region 1: Northeast",337,618,10337
+33,13,63,12,XX,"Region 2: Midwest",80,152,2449
+33,13,63,13,XX,"Region 3: South",295,539,7856
+33,13,63,14,XX,"Region 4: West",143,251,3262
+33,13,63,50,NH,"County Non-Migrant",42999,95926,1601679
+33,15,0,1,NH,"Rockingham (Total Migrant)",8427,15613,300469
+33,15,25,9,Ma,Essex,1708,3313,59578
+33,15,33,11,NH,Hillsborough,1252,2236,42477
+33,15,25,17,Ma,Middlesex,957,1860,36819
+33,15,33,17,NH,Strafford,760,1228,20899
+33,15,23,31,Me,York,277,469,8702
+33,15,33,13,NH,Merrimack,255,489,7717
+33,15,25,25,Ma,Suffolk,182,321,5784
+33,15,25,21,Ma,Norfolk,127,235,6466
+33,15,23,5,Me,Cumberland,98,153,3303
+33,15,25,27,Ma,Worcester,87,165,3277
+33,15,33,3,NH,Carroll,71,134,3198
+33,15,25,23,Ma,Plymouth,69,129,2406
+33,15,33,9,NH,Grafton,62,101,1265
+33,15,33,1,NH,Belknap,61,121,1660
+33,15,9,3,Ct,Hartford,57,99,4652
+33,15,33,5,NH,Cheshire,43,64,1025
+33,15,9,1,Ct,Fairfield,42,83,2637
+33,15,57,1,FR,"Foreign / Overseas",38,63,2432
+33,15,6,37,Ca,"Los Angeles",38,57,1399
+33,15,44,7,RI,Providence,35,64,976
+33,15,12,11,Fl,Broward,34,63,1205
+33,15,9,11,Ct,"New London",32,61,815
+33,15,23,19,Me,Penobscot,32,55,731
+33,15,4,13,Az,Maricopa,32,66,1445
+33,15,57,5,FR,"APO / FPO Zip Code",32,73,1095
+33,15,25,5,Ma,Bristol,31,65,1141
+33,15,17,31,Il,Cook,30,51,1591
+33,15,6,73,Ca,"San Diego",29,52,646
+33,15,50,7,Vt,Chittenden,27,57,1517
+33,15,12,99,Fl,"Palm Beach",26,44,734
+33,15,25,13,Ma,Hampden,26,45,887
+33,15,12,103,Fl,Pinellas,25,49,934
+33,15,9,9,Ct,"New Haven",24,38,904
+33,15,36,61,NY,"New York",22,35,1215
+33,15,6,59,Ca,Orange,22,42,1262
+33,15,25,1,Ma,Barnstable,21,32,402
+33,15,33,7,NH,Coos,21,34,511
+33,15,42,3,Pa,Allegheny,17,30,983
+33,15,33,19,NH,Sullivan,17,29,527
+33,15,23,3,Me,Aroostook,17,26,361
+33,15,23,1,Me,Androscoggin,17,24,392
+33,15,51,59,Va,Fairfax,16,42,1092
+33,15,12,95,Fl,Orange,16,23,338
+33,15,36,71,NY,Orange,16,59,1321
+33,15,36,55,NY,Monroe,15,27,409
+33,15,36,119,NY,Westchester,15,25,1304
+33,15,23,11,Me,Kennebec,15,35,862
+33,15,25,15,Ma,Hampshire,15,26,493
+33,15,25,3,Ma,Berkshire,14,25,361
+33,15,36,103,NY,Suffolk,14,28,478
+33,15,34,3,NJ,Bergen,14,31,1081
+33,15,36,47,NY,Kings,13,23,421
+33,15,12,25,Fl,Dade,13,22,238
+33,15,36,59,NY,Nassau,13,21,633
+33,15,36,1,NY,Albany,13,19,288
+33,15,36,91,NY,Saratoga,12,23,475
+33,15,12,71,Fl,Lee,12,21,572
+33,15,9,13,Ct,Tolland,12,17,312
+33,15,42,91,Pa,Montgomery,12,20,472
+33,15,6,75,Ca,"San Francisco",12,24,652
+33,15,24,3,Md,"Anne Arundel",11,26,720
+33,15,44,3,RI,Kent,11,25,449
+33,15,6,85,Ca,"Santa Clara",11,22,615
+33,15,42,17,Pa,Bucks,11,20,721
+33,15,12,127,Fl,Volusia,11,20,370
+33,15,23,17,Me,Oxford,11,19,240
+33,15,24,33,Md,"Prince George's",10,26,236
+33,15,36,29,NY,Erie,10,19,422
+33,15,48,113,Tx,Dallas,10,15,524
+33,15,12,105,Fl,Polk,10,14,175
+33,15,12,57,Fl,Hillsborough,10,14,137
+33,15,6,67,Ca,Sacramento,10,24,376
+33,15,53,33,Wa,King,10,19,295
+33,15,37,183,NC,Wake,10,31,865
+33,15,50,27,Vt,Windsor,10,15,226
+33,15,12,31,Fl,Duval,10,16,265
+33,15,15,3,Hi,Honolulu,10,24,292
+33,15,34,27,NJ,Morris,10,22,600
+33,15,36,67,NY,Onondaga,10,20,568
+33,15,63,11,XX,"Region 1: Northeast",361,724,16580
+33,15,63,12,XX,"Region 2: Midwest",220,447,8718
+33,15,63,13,XX,"Region 3: South",440,828,14036
+33,15,63,14,XX,"Region 4: West",195,357,5267
+33,15,63,50,NH,"County Non-Migrant",91635,206211,3836315
+33,17,0,1,NH,"Strafford (Total Migrant)",3195,5383,76657
+33,17,33,15,NH,Rockingham,848,1438,23449
+33,17,23,31,Me,York,420,733,8846
+33,17,33,11,NH,Hillsborough,169,238,3893
+33,17,33,3,NH,Carroll,131,226,2746
+33,17,25,9,Ma,Essex,101,202,2427
+33,17,25,17,Ma,Middlesex,96,155,2494
+33,17,33,13,NH,Merrimack,81,132,1686
+33,17,33,1,NH,Belknap,75,124,1404
+33,17,23,5,Me,Cumberland,42,66,1082
+33,17,33,9,NH,Grafton,40,56,563
+33,17,25,21,Ma,Norfolk,34,52,765
+33,17,57,1,FR,"Foreign / Overseas",34,36,457
+33,17,33,5,NH,Cheshire,34,49,482
+33,17,25,25,Ma,Suffolk,30,48,857
+33,17,33,7,NH,Coos,26,34,439
+33,17,25,27,Ma,Worcester,23,43,597
+33,17,9,3,Ct,Hartford,20,34,635
+33,17,25,23,Ma,Plymouth,16,31,246
+33,17,12,95,Fl,Orange,15,27,201
+33,17,33,19,NH,Sullivan,14,22,251
+33,17,23,19,Me,Penobscot,13,16,282
+33,17,23,1,Me,Androscoggin,13,24,291
+33,17,9,11,Ct,"New London",13,29,503
+33,17,6,37,Ca,"Los Angeles",12,24,249
+33,17,44,7,RI,Providence,12,18,240
+33,17,57,5,FR,"APO / FPO Zip Code",11,19,310
+33,17,23,3,Me,Aroostook,10,13,157
+33,17,12,103,Fl,Pinellas,10,19,101
+33,17,6,73,Ca,"San Diego",10,26,394
+33,17,63,11,XX,"Region 1: Northeast",342,560,7852
+33,17,63,12,XX,"Region 2: Midwest",83,150,1660
+33,17,63,13,XX,"Region 3: South",261,455,6528
+33,17,63,14,XX,"Region 4: West",156,284,4570
+33,17,63,50,NH,"County Non-Migrant",35320,77164,1195695
+33,19,0,1,NH,"Sullivan (Total Migrant)",1000,1885,34845
+33,19,33,9,NH,Grafton,110,190,3454
+33,19,50,27,Vt,Windsor,106,194,2157
+33,19,33,5,NH,Cheshire,86,159,1928
+33,19,33,13,NH,Merrimack,66,130,1715
+33,19,33,11,NH,Hillsborough,47,87,1395
+33,19,50,25,Vt,Windham,29,64,596
+33,19,25,17,Ma,Middlesex,26,46,908
+33,19,9,3,Ct,Hartford,20,32,4096
+33,19,9,9,Ct,"New Haven",16,40,437
+33,19,25,9,Ma,Essex,15,24,433
+33,19,9,1,Ct,Fairfield,14,22,466
+33,19,57,5,FR,"APO / FPO Zip Code",12,21,234
+33,19,33,15,NH,Rockingham,11,17,352
+33,19,33,1,NH,Belknap,10,22,243
+33,19,63,10,XX,"Same State",17,41,428
+33,19,63,11,XX,"Region 1: Northeast",224,417,10248
+33,19,63,12,XX,"Region 2: Midwest",23,47,835
+33,19,63,13,XX,"Region 3: South",120,257,3596
+33,19,63,14,XX,"Region 4: West",48,75,1324
+33,19,63,50,NH,"County Non-Migrant",13771,30391,438070

@@ -1,0 +1,748 @@
+"1993 - 1994 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Montana,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+30,1,0,1,Mt,"Beaverhead (Total Migrant)",318,681,6798
+30,1,30,93,Mt,"Silver Bow",18,49,401
+30,1,30,31,Mt,Gallatin,15,25,176
+30,1,30,57,Mt,Madison,14,31,184
+30,1,30,63,Mt,Missoula,12,22,288
+30,1,30,49,Mt,"Lewis and Clark",11,19,150
+30,1,30,29,Mt,Flathead,11,17,165
+30,1,63,10,XX,"Same State",53,129,843
+30,1,63,11,XX,"Region 1: Northeast",12,20,370
+30,1,63,12,XX,"Region 2: Midwest",28,59,492
+30,1,63,13,XX,"Region 3: South",20,45,411
+30,1,63,14,XX,"Region 4: West",124,265,3318
+30,1,63,50,Mt,"County Non-Migrant",2596,6180,67363
+30,3,0,1,Mt,"Big Horn (Total Migrant)",218,545,3992
+30,3,30,111,Mt,Yellowstone,44,120,715
+30,3,30,87,Mt,Rosebud,12,35,204
+30,3,56,33,Wy,Sheridan,10,23,115
+30,3,63,20,XX,"Same State",39,104,766
+30,3,63,21,XX,"Same Region, Diff. State",67,149,1282
+30,3,63,22,XX,"Different Region",46,114,910
+30,3,63,50,Mt,"County Non-Migrant",3018,8506,71297
+30,5,0,1,Mt,"Blaine (Total Migrant)",126,311,2253
+30,5,30,41,Mt,Hill,24,76,589
+30,5,63,20,XX,"Same State",54,132,754
+30,5,63,21,XX,"Same Region, Diff. State",29,66,585
+30,5,63,22,XX,"Different Region",19,37,325
+30,5,63,50,Mt,"County Non-Migrant",2080,5241,47470
+30,7,0,1,Mt,"Broadwater (Total Migrant)",134,312,3558
+30,7,30,49,Mt,"Lewis and Clark",24,55,494
+30,7,30,31,Mt,Gallatin,16,43,243
+30,7,63,20,XX,"Same State",39,93,841
+30,7,63,21,XX,"Same Region, Diff. State",33,78,710
+30,7,63,22,XX,"Different Region",22,43,1270
+30,7,63,50,Mt,"County Non-Migrant",1068,2613,26963
+30,9,0,1,Mt,"Carbon (Total Migrant)",341,738,8535
+30,9,30,111,Mt,Yellowstone,92,216,2682
+30,9,30,31,Mt,Gallatin,12,20,140
+30,9,30,95,Mt,Stillwater,10,23,320
+30,9,63,10,XX,"Same State",56,128,1148
+30,9,63,11,XX,"Region 1: Northeast",10,22,374
+30,9,63,12,XX,"Region 2: Midwest",33,62,898
+30,9,63,13,XX,"Region 3: South",21,43,566
+30,9,63,14,XX,"Region 4: West",107,224,2407
+30,9,63,50,Mt,"County Non-Migrant",2657,6154,68738
+30,11,0,1,Mt,"Carter (Total Migrant)",26,58,525
+30,11,63,30,XX,"Suppress All Flows",26,58,525
+30,11,63,50,Mt,"County Non-Migrant",483,1165,10941
+30,13,0,1,Mt,"Cascade (Total Migrant)",2704,5864,60133
+30,13,57,5,FR,"APO / FPO Zip Code",210,538,4629
+30,13,30,63,Mt,Missoula,88,158,1477
+30,13,30,111,Mt,Yellowstone,88,184,2206
+30,13,30,49,Mt,"Lewis and Clark",74,143,1143
+30,13,30,41,Mt,Hill,56,111,1074
+30,13,53,33,Wa,King,50,83,1105
+30,13,30,31,Mt,Gallatin,46,81,812
+30,13,30,99,Mt,Teton,36,77,587
+30,13,6,37,Ca,"Los Angeles",34,62,725
+30,13,4,13,Az,Maricopa,30,69,1119
+30,13,30,29,Mt,Flathead,30,62,597
+30,13,30,15,Mt,Chouteau,29,62,863
+30,13,53,63,Wa,Spokane,29,69,721
+30,13,8,41,Co,"El Paso",28,65,654
+30,13,18,103,In,Miami,26,76,744
+30,13,53,53,Wa,Pierce,25,63,483
+30,13,6,73,Ca,"San Diego",24,51,927
+30,13,6,83,Ca,"Santa Barbara",24,81,790
+30,13,30,93,Mt,"Silver Bow",23,45,391
+30,13,48,439,Tx,Tarrant,22,54,419
+30,13,32,3,Nv,Clark,22,46,452
+30,13,6,71,Ca,"San Bernardino",21,52,536
+30,13,30,35,Mt,Glacier,21,67,294
+30,13,23,3,Me,Aroostook,20,63,605
+30,13,35,1,NM,Bernalillo,20,66,423
+30,13,30,27,Mt,Fergus,18,29,185
+30,13,2,20,Ak,"Anchorage Borough",17,49,523
+30,13,6,67,Ca,Sacramento,17,50,433
+30,13,30,73,Mt,Pondera,17,35,512
+30,13,28,47,Ms,Harrison,17,28,204
+30,13,46,103,SD,Pennington,15,38,390
+30,13,48,29,Tx,Bexar,15,36,420
+30,13,26,103,Mi,Marquette,15,51,288
+30,13,30,47,Mt,Lake,15,23,163
+30,13,6,1,Ca,Alameda,14,31,338
+30,13,30,45,Mt,"Judith Basin",14,31,305
+30,13,17,19,Il,Champaign,14,40,290
+30,13,48,201,Tx,Harris,14,23,270
+30,13,48,453,Tx,Travis,14,38,369
+30,13,26,69,Mi,Iosco,13,39,266
+30,13,53,61,Wa,Snohomish,13,24,378
+30,13,32,31,Nv,Washoe,11,17,240
+30,13,6,59,Ca,Orange,11,30,328
+30,13,6,65,Ca,Riverside,11,20,252
+30,13,41,51,Or,Multnomah,11,21,214
+30,13,15,3,Hi,Honolulu,11,28,226
+30,13,16,1,Id,Ada,11,17,149
+30,13,2,90,Ak,"Fairbanks North Star Bor",10,29,225
+30,13,30,81,Mt,Ravalli,10,24,133
+30,13,49,35,Ut,"Salt Lake",10,27,276
+30,13,46,93,SD,Meade,10,28,252
+30,13,53,77,Wa,Yakima,10,18,241
+30,13,63,10,XX,"Same State",122,246,2628
+30,13,63,11,XX,"Region 1: Northeast",147,265,3477
+30,13,63,12,XX,"Region 2: Midwest",297,544,6247
+30,13,63,13,XX,"Region 3: South",350,774,7865
+30,13,63,14,XX,"Region 4: West",354,783,8270
+30,13,63,50,Mt,"County Non-Migrant",27200,61786,797303
+30,15,0,1,Mt,"Chouteau (Total Migrant)",130,296,2755
+30,15,30,13,Mt,Cascade,30,68,597
+30,15,63,20,XX,"Same State",57,135,1311
+30,15,63,21,XX,"Same Region, Diff. State",28,59,364
+30,15,63,22,XX,"Different Region",15,34,483
+30,15,63,50,Mt,"County Non-Migrant",1760,4261,50069
+30,17,0,1,Mt,"Custer (Total Migrant)",323,708,6134
+30,17,30,111,Mt,Yellowstone,27,61,612
+30,17,30,87,Mt,Rosebud,18,50,268
+30,17,30,21,Mt,Dawson,12,21,278
+30,17,63,20,XX,"Same State",104,222,1688
+30,17,63,21,XX,"Same Region, Diff. State",81,166,1528
+30,17,63,22,XX,"Different Region",81,188,1760
+30,17,63,50,Mt,"County Non-Migrant",3865,8931,109788
+30,19,0,1,Mt,"Daniels (Total Migrant)",46,98,859
+30,19,63,20,XX,"Same State",24,56,497
+30,19,63,21,XX,"Same Region, Diff. State",10,22,258
+30,19,63,22,XX,"Different Region",12,20,104
+30,19,63,50,Mt,"County Non-Migrant",824,1920,24391
+30,21,0,1,Mt,"Dawson (Total Migrant)",210,464,4332
+30,21,30,111,Mt,Yellowstone,18,36,340
+30,21,30,31,Mt,Gallatin,11,24,157
+30,21,30,83,Mt,Richland,10,21,214
+30,21,63,20,XX,"Same State",67,154,1198
+30,21,63,21,XX,"Same Region, Diff. State",48,101,1089
+30,21,63,22,XX,"Different Region",56,128,1334
+30,21,63,50,Mt,"County Non-Migrant",3004,7252,86653
+30,23,0,1,Mt,"Deer Lodge (Total Migrant)",214,464,4445
+30,23,30,77,Mt,Powell,16,28,406
+30,23,30,93,Mt,"Silver Bow",16,34,271
+30,23,30,63,Mt,Missoula,11,26,258
+30,23,30,49,Mt,"Lewis and Clark",10,16,152
+30,23,30,111,Mt,Yellowstone,10,15,130
+30,23,63,20,XX,"Same State",32,82,619
+30,23,63,21,XX,"Same Region, Diff. State",73,160,1549
+30,23,63,22,XX,"Different Region",46,103,1060
+30,23,63,50,Mt,"County Non-Migrant",3026,6597,79069
+30,25,0,1,Mt,"Fallon (Total Migrant)",75,194,1590
+30,25,63,20,XX,"Same State",33,73,522
+30,25,63,21,XX,"Same Region, Diff. State",17,52,479
+30,25,63,22,XX,"Different Region",25,69,589
+30,25,63,50,Mt,"County Non-Migrant",1008,2554,26609
+30,27,0,1,Mt,"Fergus (Total Migrant)",308,678,6238
+30,27,30,111,Mt,Yellowstone,19,45,424
+30,27,30,13,Mt,Cascade,17,33,243
+30,27,30,63,Mt,Missoula,15,22,188
+30,27,30,45,Mt,"Judith Basin",13,30,248
+30,27,30,31,Mt,Gallatin,12,18,178
+30,27,63,10,XX,"Same State",89,203,1932
+30,27,63,11,XX,"Region 1: Northeast",11,23,181
+30,27,63,12,XX,"Region 2: Midwest",26,67,422
+30,27,63,13,XX,"Region 3: South",19,39,296
+30,27,63,14,XX,"Region 4: West",87,198,2126
+30,27,63,50,Mt,"County Non-Migrant",4109,9593,100079
+30,29,0,1,Mt,"Flathead (Total Migrant)",2218,4576,57697
+30,29,30,63,Mt,Missoula,129,242,2501
+30,29,53,33,Wa,King,76,134,2161
+30,29,53,63,Wa,Spokane,64,124,1713
+30,29,30,53,Mt,Lincoln,61,161,1254
+30,29,6,37,Ca,"Los Angeles",53,101,2112
+30,29,6,73,Ca,"San Diego",52,119,2056
+30,29,30,47,Mt,Lake,51,111,1211
+30,29,30,13,Mt,Cascade,49,105,1068
+30,29,30,31,Mt,Gallatin,44,93,879
+30,29,4,13,Az,Maricopa,42,86,926
+30,29,30,111,Mt,Yellowstone,41,89,953
+30,29,53,53,Wa,Pierce,32,72,979
+30,29,6,65,Ca,Riverside,30,69,732
+30,29,53,61,Wa,Snohomish,30,63,1276
+30,29,6,59,Ca,Orange,26,60,962
+30,29,30,49,Mt,"Lewis and Clark",25,49,721
+30,29,30,41,Mt,Hill,18,35,499
+30,29,32,3,Nv,Clark,18,33,430
+30,29,2,20,Ak,"Anchorage Borough",17,27,747
+30,29,6,13,Ca,"Contra Costa",17,41,823
+30,29,6,1,Ca,Alameda,16,29,427
+30,29,30,81,Mt,Ravalli,16,30,451
+30,29,49,35,Ut,"Salt Lake",16,31,360
+30,29,53,11,Wa,Clark,15,43,259
+30,29,6,71,Ca,"San Bernardino",15,28,402
+30,29,16,55,Id,Kootenai,15,31,316
+30,29,41,51,Or,Multnomah,15,27,433
+30,29,6,111,Ca,Ventura,15,37,462
+30,29,57,5,FR,"APO / FPO Zip Code",15,25,346
+30,29,8,31,Co,Denver,14,24,332
+30,29,30,89,Mt,Sanders,14,22,257
+30,29,32,31,Nv,Washoe,14,29,287
+30,29,30,35,Mt,Glacier,13,22,235
+30,29,30,93,Mt,"Silver Bow",13,20,374
+30,29,8,13,Co,Boulder,12,18,232
+30,29,16,1,Id,Ada,11,30,229
+30,29,53,35,Wa,Kitsap,11,22,283
+30,29,6,67,Ca,Sacramento,11,23,324
+30,29,6,77,Ca,"San Joaquin",11,18,192
+30,29,57,1,FR,"Foreign / Overseas",11,25,497
+30,29,6,61,Ca,Placer,11,24,349
+30,29,27,53,Mn,Hennepin,11,17,368
+30,29,6,85,Ca,"Santa Clara",11,16,375
+30,29,6,53,Ca,Monterey,10,23,537
+30,29,41,39,Or,Lane,10,19,240
+30,29,41,67,Or,Washington,10,20,341
+30,29,63,10,XX,"Same State",91,197,2248
+30,29,63,11,XX,"Region 1: Northeast",102,169,2295
+30,29,63,12,XX,"Region 2: Midwest",192,380,4131
+30,29,63,13,XX,"Region 3: South",173,374,5155
+30,29,63,14,XX,"Region 4: West",449,989,10957
+30,29,63,50,Mt,"County Non-Migrant",22037,51523,668506
+30,31,0,1,Mt,"Gallatin (Total Migrant)",2696,4642,57374
+30,31,30,111,Mt,Yellowstone,112,192,2013
+30,31,30,49,Mt,"Lewis and Clark",97,158,1495
+30,31,30,63,Mt,Missoula,93,157,1728
+30,31,57,1,FR,"Foreign / Overseas",89,92,311
+30,31,30,67,Mt,Park,77,151,1327
+30,31,30,13,Mt,Cascade,73,128,1269
+30,31,30,29,Mt,Flathead,71,128,1194
+30,31,53,33,Wa,King,52,87,1661
+30,31,30,93,Mt,"Silver Bow",41,70,694
+30,31,6,37,Ca,"Los Angeles",34,63,1298
+30,31,6,73,Ca,"San Diego",34,63,1144
+30,31,4,13,Az,Maricopa,29,47,658
+30,31,56,39,Wy,Teton,27,37,409
+30,31,30,57,Mt,Madison,25,55,447
+30,31,6,59,Ca,Orange,24,44,643
+30,31,27,53,Mn,Hennepin,22,33,635
+30,31,53,63,Wa,Spokane,22,38,334
+30,31,53,61,Wa,Snohomish,22,45,669
+30,31,30,27,Mt,Fergus,21,37,369
+30,31,30,41,Mt,Hill,20,36,494
+30,31,30,43,Mt,Jefferson,20,33,234
+30,31,8,13,Co,Boulder,19,35,458
+30,31,30,1,Mt,Beaverhead,19,28,252
+30,31,56,29,Wy,Park,19,26,198
+30,31,30,7,Mt,Broadwater,16,23,202
+30,31,30,81,Mt,Ravalli,16,28,237
+30,31,57,5,FR,"APO / FPO Zip Code",16,36,385
+30,31,30,47,Mt,Lake,15,27,136
+30,31,8,59,Co,Jefferson,14,27,252
+30,31,6,65,Ca,Riverside,14,31,311
+30,31,6,71,Ca,"San Bernardino",14,38,353
+30,31,53,53,Wa,Pierce,13,22,234
+30,31,30,53,Mt,Lincoln,13,18,153
+30,31,6,13,Ca,"Contra Costa",13,24,373
+30,31,16,1,Id,Ada,13,30,373
+30,31,8,5,Co,Arapahoe,12,19,226
+30,31,2,20,Ak,"Anchorage Borough",12,23,180
+30,31,49,35,Ut,"Salt Lake",12,27,289
+30,31,41,39,Or,Lane,11,21,137
+30,31,8,69,Co,Larimer,11,19,267
+30,31,25,17,Ma,Middlesex,11,17,215
+30,31,35,49,NM,"Santa Fe",11,13,265
+30,31,8,31,Co,Denver,11,18,250
+30,31,30,35,Mt,Glacier,10,17,91
+30,31,6,67,Ca,Sacramento,10,17,401
+30,31,6,111,Ca,Ventura,10,19,230
+30,31,30,101,Mt,Toole,10,18,237
+30,31,56,25,Wy,Natrona,10,14,174
+30,31,41,51,Or,Multnomah,10,19,168
+30,31,63,10,XX,"Same State",152,259,2346
+30,31,63,11,XX,"Region 1: Northeast",169,244,4274
+30,31,63,12,XX,"Region 2: Midwest",313,545,8681
+30,31,63,13,XX,"Region 3: South",230,399,5791
+30,31,63,14,XX,"Region 4: West",462,847,10209
+30,31,63,50,Mt,"County Non-Migrant",17926,39140,543533
+30,33,0,1,Mt,"Garfield (Total Migrant)",24,51,305
+30,33,63,30,XX,"Suppress All Flows",24,51,305
+30,33,63,50,Mt,"County Non-Migrant",448,1085,9648
+30,35,0,1,Mt,"Glacier (Total Migrant)",255,566,4321
+30,35,30,13,Mt,Cascade,19,47,176
+30,35,30,63,Mt,Missoula,15,38,183
+30,35,30,101,Mt,Toole,11,28,298
+30,35,30,29,Mt,Flathead,10,23,158
+30,35,30,73,Mt,Pondera,10,21,157
+30,35,63,20,XX,"Same State",59,136,1298
+30,35,63,21,XX,"Same Region, Diff. State",84,161,1223
+30,35,63,22,XX,"Different Region",47,112,828
+30,35,63,50,Mt,"County Non-Migrant",3685,9241,80188
+30,37,0,1,Mt,"Golden Valley (Total Migrant)",31,63,513
+30,37,63,30,XX,"Suppress All Flows",31,63,513
+30,37,63,50,Mt,"County Non-Migrant",381,770,7553
+30,39,0,1,Mt,"Granite (Total Migrant)",99,206,1880
+30,39,30,63,Mt,Missoula,11,23,200
+30,39,63,20,XX,"Same State",35,82,632
+30,39,63,21,XX,"Same Region, Diff. State",33,64,637
+30,39,63,22,XX,"Different Region",20,37,411
+30,39,63,50,Mt,"County Non-Migrant",959,2196,21749
+30,41,0,1,Mt,"Hill (Total Migrant)",425,891,7391
+30,41,30,13,Mt,Cascade,44,91,634
+30,41,30,5,Mt,Blaine,37,77,500
+30,41,30,111,Mt,Yellowstone,21,44,414
+30,41,30,63,Mt,Missoula,21,43,369
+30,41,30,29,Mt,Flathead,20,41,313
+30,41,30,31,Mt,Gallatin,13,25,170
+30,41,30,15,Mt,Chouteau,12,14,142
+30,41,30,101,Mt,Toole,12,31,164
+30,41,30,71,Mt,Phillips,12,20,177
+30,41,30,35,Mt,Glacier,11,22,202
+30,41,63,10,XX,"Same State",69,155,961
+30,41,63,11,XX,"Region 1: Northeast",10,22,219
+30,41,63,12,XX,"Region 2: Midwest",38,98,1019
+30,41,63,13,XX,"Region 3: South",15,29,334
+30,41,63,14,XX,"Region 4: West",90,179,1773
+30,41,63,50,Mt,"County Non-Migrant",5623,13382,163626
+30,43,0,1,Mt,"Jefferson (Total Migrant)",384,867,11430
+30,43,30,49,Mt,"Lewis and Clark",121,302,4557
+30,43,30,93,Mt,"Silver Bow",33,72,905
+30,43,30,111,Mt,Yellowstone,13,34,284
+30,43,30,31,Mt,Gallatin,12,24,299
+30,43,30,13,Mt,Cascade,11,24,239
+30,43,63,10,XX,"Same State",47,98,1105
+30,43,63,11,XX,"Region 1: Northeast",10,22,220
+30,43,63,12,XX,"Region 2: Midwest",33,76,805
+30,43,63,13,XX,"Region 3: South",16,37,490
+30,43,63,14,XX,"Region 4: West",88,178,2526
+30,43,63,50,Mt,"County Non-Migrant",2596,6634,86937
+30,45,0,1,Mt,"Judith Basin (Total Migrant)",61,128,1072
+30,45,30,13,Mt,Cascade,11,16,110
+30,45,63,30,XX,"Suppress All Flows",50,112,962
+30,45,63,50,Mt,"County Non-Migrant",790,1726,17350
+30,47,0,1,Mt,"Lake (Total Migrant)",706,1452,17109
+30,47,30,63,Mt,Missoula,115,209,2401
+30,47,30,29,Mt,Flathead,61,136,1501
+30,47,30,31,Mt,Gallatin,21,45,332
+30,47,30,89,Mt,Sanders,20,46,328
+30,47,53,63,Wa,Spokane,18,34,282
+30,47,53,33,Wa,King,17,31,448
+30,47,6,37,Ca,"Los Angeles",14,31,310
+30,47,30,81,Mt,Ravalli,13,22,191
+30,47,6,73,Ca,"San Diego",11,24,405
+30,47,30,111,Mt,Yellowstone,11,23,329
+30,47,30,93,Mt,"Silver Bow",10,15,298
+30,47,63,10,XX,"Same State",85,175,1651
+30,47,63,11,XX,"Region 1: Northeast",13,27,439
+30,47,63,12,XX,"Region 2: Midwest",43,94,896
+30,47,63,13,XX,"Region 3: South",47,117,1965
+30,47,63,14,XX,"Region 4: West",207,423,5333
+30,47,63,50,Mt,"County Non-Migrant",6328,15215,154057
+30,49,0,1,Mt,"Lewis and Clark (Total Migrant)",1576,3151,38690
+30,49,30,63,Mt,Missoula,112,221,2070
+30,49,30,13,Mt,Cascade,98,192,2812
+30,49,30,31,Mt,Gallatin,85,145,1567
+30,49,30,43,Mt,Jefferson,85,168,3547
+30,49,30,111,Mt,Yellowstone,69,135,1591
+30,49,30,93,Mt,"Silver Bow",48,81,978
+30,49,53,33,Wa,King,42,71,1109
+30,49,30,29,Mt,Flathead,37,73,580
+30,49,30,7,Mt,Broadwater,27,55,555
+30,49,53,63,Wa,Spokane,26,47,642
+30,49,6,37,Ca,"Los Angeles",22,39,934
+30,49,4,13,Az,Maricopa,18,30,699
+30,49,30,41,Mt,Hill,17,40,307
+30,49,30,77,Mt,Powell,16,30,266
+30,49,6,73,Ca,"San Diego",15,37,445
+30,49,57,1,FR,"Foreign / Overseas",15,20,340
+30,49,53,61,Wa,Snohomish,14,26,254
+30,49,30,81,Mt,Ravalli,13,24,350
+30,49,49,35,Ut,"Salt Lake",13,27,436
+30,49,30,47,Mt,Lake,12,29,245
+30,49,53,53,Wa,Pierce,12,23,336
+30,49,30,67,Mt,Park,10,13,158
+30,49,30,1,Mt,Beaverhead,10,16,166
+30,49,57,5,FR,"APO / FPO Zip Code",10,17,159
+30,49,63,10,XX,"Same State",107,209,2131
+30,49,63,11,XX,"Region 1: Northeast",37,69,1093
+30,49,63,12,XX,"Region 2: Midwest",157,342,3654
+30,49,63,13,XX,"Region 3: South",103,218,2641
+30,49,63,14,XX,"Region 4: West",346,754,8625
+30,49,63,50,Mt,"County Non-Migrant",17761,39965,555680
+30,51,0,1,Mt,"Liberty (Total Migrant)",35,67,600
+30,51,63,30,XX,"Suppress All Flows",35,67,600
+30,51,63,50,Mt,"County Non-Migrant",910,2000,23725
+30,53,0,1,Mt,"Lincoln (Total Migrant)",498,1159,10113
+30,53,30,29,Mt,Flathead,50,113,913
+30,53,30,63,Mt,Missoula,19,36,240
+30,53,53,33,Wa,King,16,35,340
+30,53,53,63,Wa,Spokane,13,27,235
+30,53,63,10,XX,"Same State",66,157,1435
+30,53,63,11,XX,"Region 1: Northeast",21,47,402
+30,53,63,12,XX,"Region 2: Midwest",41,107,915
+30,53,63,13,XX,"Region 3: South",35,82,752
+30,53,63,14,XX,"Region 4: West",237,555,4881
+30,53,63,50,Mt,"County Non-Migrant",5296,13223,139391
+30,55,0,1,Mt,"McCone (Total Migrant)",39,79,744
+30,55,63,30,XX,"Suppress All Flows",39,79,744
+30,55,63,50,Mt,"County Non-Migrant",683,1616,17672
+30,57,0,1,Mt,"Madison (Total Migrant)",238,535,6768
+30,57,30,31,Mt,Gallatin,34,75,693
+30,57,30,1,Mt,Beaverhead,14,38,494
+30,57,30,93,Mt,"Silver Bow",12,25,237
+30,57,63,20,XX,"Same State",48,126,962
+30,57,63,21,XX,"Same Region, Diff. State",88,193,3066
+30,57,63,22,XX,"Different Region",42,78,1316
+30,57,63,50,Mt,"County Non-Migrant",1738,3974,39847
+30,59,0,1,Mt,"Meagher (Total Migrant)",56,152,1032
+30,59,63,30,XX,"Suppress All Flows",56,152,1032
+30,59,63,50,Mt,"County Non-Migrant",643,1353,13586
+30,61,0,1,Mt,"Mineral (Total Migrant)",154,321,3377
+30,61,30,63,Mt,Missoula,40,97,781
+30,61,63,20,XX,"Same State",29,60,528
+30,61,63,21,XX,"Same Region, Diff. State",60,119,1643
+30,61,63,22,XX,"Different Region",25,45,425
+30,61,63,50,Mt,"County Non-Migrant",1125,2756,29062
+30,63,0,1,Mt,"Missoula (Total Migrant)",3200,5555,64133
+30,63,30,81,Mt,Ravalli,171,324,3166
+30,63,53,33,Wa,King,127,208,3485
+30,63,30,49,Mt,"Lewis and Clark",99,160,1708
+30,63,30,111,Mt,Yellowstone,96,157,1834
+30,63,30,29,Mt,Flathead,90,142,1199
+30,63,30,47,Mt,Lake,90,175,1408
+30,63,30,13,Mt,Cascade,89,148,1368
+30,63,57,1,FR,"Foreign / Overseas",73,86,580
+30,63,53,63,Wa,Spokane,70,146,1659
+30,63,6,37,Ca,"Los Angeles",64,112,1628
+30,63,30,31,Mt,Gallatin,64,87,685
+30,63,30,93,Mt,"Silver Bow",49,79,949
+30,63,6,73,Ca,"San Diego",48,81,1066
+30,63,30,53,Mt,Lincoln,37,63,909
+30,63,30,61,Mt,Mineral,36,73,705
+30,63,4,13,Az,Maricopa,29,54,609
+30,63,30,89,Mt,Sanders,29,51,413
+30,63,27,53,Mn,Hennepin,26,39,592
+30,63,53,61,Wa,Snohomish,26,58,1129
+30,63,30,41,Mt,Hill,24,48,510
+30,63,17,31,Il,Cook,24,37,772
+30,63,6,67,Ca,Sacramento,23,53,623
+30,63,6,59,Ca,Orange,23,49,787
+30,63,53,53,Wa,Pierce,23,47,541
+30,63,8,13,Co,Boulder,20,29,332
+30,63,41,51,Or,Multnomah,19,35,337
+30,63,32,3,Nv,Clark,19,36,299
+30,63,30,43,Mt,Jefferson,19,35,425
+30,63,49,35,Ut,"Salt Lake",19,41,507
+30,63,57,5,FR,"APO / FPO Zip Code",18,29,377
+30,63,6,85,Ca,"Santa Clara",18,31,441
+30,63,2,20,Ak,"Anchorage Borough",17,28,515
+30,63,41,67,Or,Washington,16,28,248
+30,63,6,65,Ca,Riverside,16,35,342
+30,63,30,35,Mt,Glacier,16,32,327
+30,63,30,77,Mt,Powell,15,24,257
+30,63,30,1,Mt,Beaverhead,14,23,181
+30,63,6,71,Ca,"San Bernardino",14,30,423
+30,63,30,27,Mt,Fergus,14,23,322
+30,63,6,1,Ca,Alameda,14,19,268
+30,63,16,55,Id,Kootenai,14,22,171
+30,63,8,41,Co,"El Paso",13,24,309
+30,63,41,39,Or,Lane,13,17,147
+30,63,8,5,Co,Arapahoe,13,27,474
+30,63,36,61,NY,"New York",12,13,388
+30,63,15,3,Hi,Honolulu,12,21,255
+30,63,30,67,Mt,Park,12,15,89
+30,63,41,5,Or,Clackamas,12,22,519
+30,63,48,113,Tx,Dallas,11,13,275
+30,63,55,25,Wi,Dane,11,16,255
+30,63,53,35,Wa,Kitsap,11,24,281
+30,63,6,87,Ca,"Santa Cruz",10,11,100
+30,63,24,31,Md,Montgomery,10,13,129
+30,63,6,13,Ca,"Contra Costa",10,14,223
+30,63,56,39,Wy,Teton,10,15,197
+30,63,17,43,Il,"Du Page",10,15,241
+30,63,6,75,Ca,"San Francisco",10,10,192
+30,63,27,123,Mn,Ramsey,10,15,172
+30,63,63,10,XX,"Same State",122,203,2352
+30,63,63,11,XX,"Region 1: Northeast",133,178,2055
+30,63,63,12,XX,"Region 2: Midwest",286,494,5082
+30,63,63,13,XX,"Region 3: South",252,453,5100
+30,63,63,14,XX,"Region 4: West",505,965,11201
+30,63,63,50,Mt,"County Non-Migrant",27633,59950,855570
+30,65,0,1,Mt,"Musselshell (Total Migrant)",183,470,3989
+30,65,30,111,Mt,Yellowstone,39,86,789
+30,65,63,10,XX,"Same State",43,115,809
+30,65,63,11,XX,"Region 1: Northeast",10,20,208
+30,65,63,12,XX,"Region 2: Midwest",13,44,448
+30,65,63,13,XX,"Region 3: South",12,35,340
+30,65,63,14,XX,"Region 4: West",66,170,1395
+30,65,63,50,Mt,"County Non-Migrant",1263,2845,26266
+30,67,0,1,Mt,"Park (Total Migrant)",550,1112,13037
+30,67,30,31,Mt,Gallatin,85,174,1544
+30,67,30,13,Mt,Cascade,20,49,407
+30,67,30,111,Mt,Yellowstone,19,41,410
+30,67,30,97,Mt,"Sweet Grass",12,26,188
+30,67,6,37,Ca,"Los Angeles",11,21,919
+30,67,53,33,Wa,King,10,23,316
+30,67,56,29,Wy,Park,10,19,241
+30,67,63,10,XX,"Same State",74,154,1424
+30,67,63,11,XX,"Region 1: Northeast",34,73,1003
+30,67,63,12,XX,"Region 2: Midwest",85,137,1728
+30,67,63,13,XX,"Region 3: South",48,88,1016
+30,67,63,14,XX,"Region 4: West",142,307,3841
+30,67,63,50,Mt,"County Non-Migrant",4819,10652,115350
+30,69,0,1,Mt,"Petroleum (Total Migrant)",15,29,282
+30,69,63,30,XX,"Suppress All Flows",15,29,282
+30,69,63,50,Mt,"County Non-Migrant",146,333,2694
+30,71,0,1,Mt,"Phillips (Total Migrant)",88,190,1957
+30,71,63,20,XX,"Same State",52,105,1039
+30,71,63,21,XX,"Same Region, Diff. State",23,56,625
+30,71,63,22,XX,"Different Region",13,29,293
+30,71,63,50,Mt,"County Non-Migrant",1640,3940,40583
+30,73,0,1,Mt,"Pondera (Total Migrant)",161,386,3248
+30,73,30,13,Mt,Cascade,28,61,533
+30,73,30,35,Mt,Glacier,15,35,215
+30,73,30,99,Mt,Teton,12,22,70
+30,73,30,101,Mt,Toole,10,26,259
+30,73,63,20,XX,"Same State",52,119,1066
+30,73,63,21,XX,"Same Region, Diff. State",26,75,615
+30,73,63,22,XX,"Different Region",18,48,490
+30,73,63,50,Mt,"County Non-Migrant",2222,5195,54035
+30,75,0,1,Mt,"Powder River (Total Migrant)",43,101,975
+30,75,63,30,XX,"Suppress All Flows",43,101,975
+30,75,63,50,Mt,"County Non-Migrant",560,1368,12614
+30,77,0,1,Mt,"Powell (Total Migrant)",172,357,3284
+30,77,30,49,Mt,"Lewis and Clark",17,35,309
+30,77,30,63,Mt,Missoula,17,25,177
+30,77,30,23,Mt,"Deer Lodge",13,32,229
+30,77,63,20,XX,"Same State",49,94,651
+30,77,63,21,XX,"Same Region, Diff. State",52,110,953
+30,77,63,22,XX,"Different Region",24,61,965
+30,77,63,50,Mt,"County Non-Migrant",1906,4421,48368
+30,79,0,1,Mt,"Prairie (Total Migrant)",38,87,717
+30,79,63,30,XX,"Suppress All Flows",38,87,717
+30,79,63,50,Mt,"County Non-Migrant",435,999,10600
+30,81,0,1,Mt,"Ravalli (Total Migrant)",1335,2943,35488
+30,81,30,63,Mt,Missoula,254,549,6981
+30,81,53,33,Wa,King,43,87,1445
+30,81,6,37,Ca,"Los Angeles",35,72,1287
+30,81,6,73,Ca,"San Diego",35,81,875
+30,81,53,61,Wa,Snohomish,19,48,1003
+30,81,53,53,Wa,Pierce,19,35,522
+30,81,32,3,Nv,Clark,18,35,484
+30,81,49,35,Ut,"Salt Lake",17,37,384
+30,81,6,85,Ca,"Santa Clara",15,39,721
+30,81,41,5,Or,Clackamas,14,26,426
+30,81,6,59,Ca,Orange,13,39,555
+30,81,30,111,Mt,Yellowstone,12,19,240
+30,81,30,49,Mt,"Lewis and Clark",12,23,164
+30,81,4,13,Az,Maricopa,11,26,281
+30,81,53,63,Wa,Spokane,11,30,389
+30,81,30,29,Mt,Flathead,10,22,195
+30,81,6,111,Ca,Ventura,10,21,370
+30,81,6,77,Ca,"San Joaquin",10,29,157
+30,81,30,1,Mt,Beaverhead,10,18,116
+30,81,63,10,XX,"Same State",84,179,1844
+30,81,63,11,XX,"Region 1: Northeast",39,79,1080
+30,81,63,12,XX,"Region 2: Midwest",108,266,3036
+30,81,63,13,XX,"Region 3: South",77,167,2686
+30,81,63,14,XX,"Region 4: West",447,993,9961
+30,81,63,15,XX,Foreign,12,23,286
+30,81,63,50,Mt,"County Non-Migrant",8865,20832,224444
+30,83,0,1,Mt,"Richland (Total Migrant)",195,437,4398
+30,83,38,105,ND,Williams,15,39,280
+30,83,30,111,Mt,Yellowstone,12,29,229
+30,83,63,20,XX,"Same State",65,163,1300
+30,83,63,21,XX,"Same Region, Diff. State",39,83,1011
+30,83,63,22,XX,"Different Region",64,123,1578
+30,83,63,50,Mt,"County Non-Migrant",3369,8481,97450
+30,85,0,1,Mt,"Roosevelt (Total Migrant)",201,498,3661
+30,85,30,111,Mt,Yellowstone,18,44,213
+30,85,30,105,Mt,Valley,16,43,300
+30,85,63,20,XX,"Same State",60,154,992
+30,85,63,21,XX,"Same Region, Diff. State",37,95,831
+30,85,63,22,XX,"Different Region",70,162,1325
+30,85,63,50,Mt,"County Non-Migrant",3162,8219,77748
+30,87,0,1,Mt,"Rosebud (Total Migrant)",270,687,6032
+30,87,30,111,Mt,Yellowstone,39,101,821
+30,87,30,17,Mt,Custer,17,38,317
+30,87,30,3,Mt,"Big Horn",16,53,296
+30,87,63,10,XX,"Same State",64,153,1430
+30,87,63,11,XX,"Region 1: Northeast",13,25,189
+30,87,63,12,XX,"Region 2: Midwest",31,76,742
+30,87,63,13,XX,"Region 3: South",24,61,613
+30,87,63,14,XX,"Region 4: West",66,180,1624
+30,87,63,50,Mt,"County Non-Migrant",3121,8591,102377
+30,89,0,1,Mt,"Sanders (Total Migrant)",373,854,7896
+30,89,30,63,Mt,Missoula,24,39,349
+30,89,53,33,Wa,King,22,48,444
+30,89,30,47,Mt,Lake,17,45,394
+30,89,30,29,Mt,Flathead,16,32,182
+30,89,63,10,XX,"Same State",53,114,957
+30,89,63,11,XX,"Region 1: Northeast",12,25,397
+30,89,63,12,XX,"Region 2: Midwest",26,59,422
+30,89,63,13,XX,"Region 3: South",21,59,425
+30,89,63,14,XX,"Region 4: West",182,433,4326
+30,89,63,50,Mt,"County Non-Migrant",2682,6401,56297
+30,91,0,1,Mt,"Sheridan (Total Migrant)",76,144,1263
+30,91,63,20,XX,"Same State",37,58,459
+30,91,63,21,XX,"Same Region, Diff. State",23,52,503
+30,91,63,22,XX,"Different Region",16,34,301
+30,91,63,50,Mt,"County Non-Migrant",1640,3833,45941
+30,93,0,1,Mt,"Silver Bow (Total Migrant)",761,1527,16452
+30,93,30,63,Mt,Missoula,50,85,698
+30,93,30,43,Mt,Jefferson,34,70,560
+30,93,30,23,Mt,"Deer Lodge",33,68,618
+30,93,30,31,Mt,Gallatin,30,55,624
+30,93,30,111,Mt,Yellowstone,30,56,568
+30,93,30,49,Mt,"Lewis and Clark",24,41,570
+30,93,53,33,Wa,King,21,34,1066
+30,93,30,13,Mt,Cascade,18,42,462
+30,93,30,1,Mt,Beaverhead,15,33,248
+30,93,6,73,Ca,"San Diego",14,23,352
+30,93,6,59,Ca,Orange,12,21,336
+30,93,53,63,Wa,Spokane,12,28,136
+30,93,57,1,FR,"Foreign / Overseas",11,13,34
+30,93,30,29,Mt,Flathead,10,19,192
+30,93,32,7,Nv,Elko,10,22,301
+30,93,30,77,Mt,Powell,10,19,158
+30,93,63,10,XX,"Same State",64,111,1175
+30,93,63,11,XX,"Region 1: Northeast",34,66,921
+30,93,63,12,XX,"Region 2: Midwest",48,98,1038
+30,93,63,13,XX,"Region 3: South",48,96,1196
+30,93,63,14,XX,"Region 4: West",233,527,5199
+30,93,63,50,Mt,"County Non-Migrant",11366,25334,334133
+30,95,0,1,Mt,"Stillwater (Total Migrant)",282,637,6869
+30,95,30,111,Mt,Yellowstone,87,189,2047
+30,95,30,9,Mt,Carbon,11,24,309
+30,95,30,31,Mt,Gallatin,10,18,114
+30,95,63,20,XX,"Same State",48,115,946
+30,95,63,21,XX,"Same Region, Diff. State",74,181,1877
+30,95,63,22,XX,"Different Region",52,110,1576
+30,95,63,50,Mt,"County Non-Migrant",2265,5516,73825
+30,97,0,1,Mt,"Sweet Grass (Total Migrant)",96,191,2031
+30,97,30,67,Mt,Park,10,26,218
+30,97,63,20,XX,"Same State",33,65,554
+30,97,63,21,XX,"Same Region, Diff. State",31,65,959
+30,97,63,22,XX,"Different Region",22,35,300
+30,97,63,50,Mt,"County Non-Migrant",1032,2353,24855
+30,99,0,1,Mt,"Teton (Total Migrant)",137,352,2712
+30,99,30,13,Mt,Cascade,38,94,948
+30,99,30,49,Mt,"Lewis and Clark",12,31,20
+30,99,63,20,XX,"Same State",41,107,705
+30,99,63,21,XX,"Same Region, Diff. State",28,75,577
+30,99,63,22,XX,"Different Region",18,45,462
+30,99,63,50,Mt,"County Non-Migrant",2248,5191,53333
+30,101,0,1,Mt,"Toole (Total Migrant)",113,249,2096
+30,101,30,13,Mt,Cascade,12,30,253
+30,101,63,20,XX,"Same State",54,113,888
+30,101,63,21,XX,"Same Region, Diff. State",28,65,474
+30,101,63,22,XX,"Different Region",19,41,481
+30,101,63,50,Mt,"County Non-Migrant",1842,4168,48831
+30,103,0,1,Mt,"Treasure (Total Migrant)",17,39,249
+30,103,63,30,XX,"Suppress All Flows",17,39,249
+30,103,63,50,Mt,"County Non-Migrant",295,714,6438
+30,105,0,1,Mt,"Valley (Total Migrant)",172,380,4233
+30,105,63,20,XX,"Same State",67,160,1723
+30,105,63,21,XX,"Same Region, Diff. State",52,117,1392
+30,105,63,22,XX,"Different Region",53,103,1118
+30,105,63,50,Mt,"County Non-Migrant",2795,6563,77336
+30,107,0,1,Mt,"Wheatland (Total Migrant)",89,205,1672
+30,107,30,111,Mt,Yellowstone,15,31,216
+30,107,63,30,XX,"Suppress All Flows",74,174,1456
+30,107,63,50,Mt,"County Non-Migrant",898,1803,16500
+30,109,0,1,Mt,"Wibaux (Total Migrant)",25,44,358
+30,109,63,30,XX,"Suppress All Flows",25,44,358
+30,109,63,50,Mt,"County Non-Migrant",372,877,8636
+30,111,0,1,Mt,"Yellowstone (Total Migrant)",3345,6707,80868
+30,111,30,31,Mt,Gallatin,158,271,2355
+30,111,30,13,Mt,Cascade,99,196,2676
+30,111,30,87,Mt,Rosebud,86,170,1712
+30,111,30,9,Mt,Carbon,86,190,1882
+30,111,30,63,Mt,Missoula,80,134,1410
+30,111,30,49,Mt,"Lewis and Clark",69,135,1491
+30,111,53,33,Wa,King,64,93,1314
+30,111,30,95,Mt,Stillwater,61,106,1210
+30,111,4,13,Az,Maricopa,55,130,1696
+30,111,56,29,Wy,Park,54,122,787
+30,111,30,3,Mt,"Big Horn",49,106,871
+30,111,6,37,Ca,"Los Angeles",44,86,1333
+30,111,30,17,Mt,Custer,44,81,806
+30,111,30,41,Mt,Hill,42,85,1051
+30,111,30,65,Mt,Musselshell,41,67,712
+30,111,6,73,Ca,"San Diego",40,82,901
+30,111,53,61,Wa,Snohomish,38,70,803
+30,111,56,33,Wy,Sheridan,37,78,922
+30,111,30,21,Mt,Dawson,33,46,506
+30,111,8,59,Co,Jefferson,32,56,1197
+30,111,30,29,Mt,Flathead,32,63,633
+30,111,30,93,Mt,"Silver Bow",31,70,657
+30,111,57,5,FR,"APO / FPO Zip Code",31,58,538
+30,111,30,27,Mt,Fergus,30,47,422
+30,111,53,63,Wa,Spokane,30,58,645
+30,111,8,5,Co,Arapahoe,30,66,1563
+30,111,56,25,Wy,Natrona,30,52,691
+30,111,30,83,Mt,Richland,28,66,581
+30,111,8,31,Co,Denver,24,41,503
+30,111,30,67,Mt,Park,24,47,399
+30,111,6,71,Ca,"San Bernardino",23,58,834
+30,111,49,35,Ut,"Salt Lake",23,48,868
+30,111,30,85,Mt,Roosevelt,21,42,309
+30,111,41,51,Or,Multnomah,21,39,384
+30,111,56,3,Wy,"Big Horn",20,32,432
+30,111,8,1,Co,Adams,20,46,627
+30,111,6,59,Ca,Orange,19,39,874
+30,111,8,41,Co,"El Paso",19,38,292
+30,111,56,21,Wy,Laramie,18,48,490
+30,111,32,3,Nv,Clark,17,30,291
+30,111,40,71,Ok,Kay,16,54,1101
+30,111,56,13,Wy,Fremont,16,33,322
+30,111,48,201,Tx,Harris,16,42,808
+30,111,16,1,Id,Ada,16,37,426
+30,111,6,1,Ca,Alameda,16,29,501
+30,111,30,105,Mt,Valley,15,32,331
+30,111,53,53,Wa,Pierce,15,40,271
+30,111,30,1,Mt,Beaverhead,15,31,226
+30,111,27,53,Mn,Hennepin,15,26,473
+30,111,30,37,Mt,"Golden Valley",14,22,169
+30,111,30,35,Mt,Glacier,13,32,201
+30,111,30,97,Mt,"Sweet Grass",13,21,209
+30,111,30,81,Mt,Ravalli,13,25,274
+30,111,32,31,Nv,Washoe,13,22,309
+30,111,56,5,Wy,Campbell,13,35,273
+30,111,56,1,Wy,Albany,12,20,243
+30,111,41,67,Or,Washington,12,24,309
+30,111,6,65,Ca,Riverside,12,27,388
+30,111,57,1,FR,"Foreign / Overseas",12,16,118
+30,111,30,71,Mt,Phillips,12,17,114
+30,111,38,15,ND,Burleigh,11,32,283
+30,111,30,91,Mt,Sheridan,11,20,179
+30,111,4,19,Az,Pima,11,23,281
+30,111,56,19,Wy,Johnson,11,22,158
+30,111,38,89,ND,Stark,11,14,157
+30,111,56,37,Wy,Sweetwater,11,29,210
+30,111,6,85,Ca,"Santa Clara",11,23,368
+30,111,2,20,Ak,"Anchorage Borough",10,20,352
+30,111,30,107,Mt,Wheatland,10,18,556
+30,111,35,1,NM,Bernalillo,10,18,300
+30,111,46,99,SD,Minnehaha,10,18,286
+30,111,6,67,Ca,Sacramento,10,20,255
+30,111,38,17,ND,Cass,10,21,266
+30,111,8,69,Co,Larimer,10,19,282
+30,111,30,23,Mt,"Deer Lodge",10,14,171
+30,111,30,75,Mt,"Powder River",10,13,109
+30,111,63,10,XX,"Same State",124,223,1961
+30,111,63,11,XX,"Region 1: Northeast",78,162,2935
+30,111,63,12,XX,"Region 2: Midwest",314,641,8614
+30,111,63,13,XX,"Region 3: South",269,633,8081
+30,111,63,14,XX,"Region 4: West",411,847,10330
+30,111,63,50,Mt,"County Non-Migrant",41356,92952,1387802

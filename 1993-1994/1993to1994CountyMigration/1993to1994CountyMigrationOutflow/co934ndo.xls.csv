@@ -1,0 +1,534 @@
+"1993 - 1994 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+NorthDakota,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+38,1,0,1,ND,"Adams (Total Migrant)",67,125,1148
+38,1,38,89,ND,Stark,10,18,115
+38,1,63,20,XX,"Same State",22,46,410
+38,1,63,21,XX,"Same Region, Diff. State",24,44,398
+38,1,63,22,XX,"Different Region",11,17,225
+38,1,63,50,ND,"County Non-Migrant",1036,2416,26826
+38,3,0,1,ND,"Barnes (Total Migrant)",277,535,5317
+38,3,38,17,ND,Cass,66,110,1235
+38,3,38,93,ND,Stutsman,22,45,388
+38,3,38,35,ND,"Grand Forks",12,22,156
+38,3,38,15,ND,Burleigh,11,15,284
+38,3,38,77,ND,Richland,10,22,144
+38,3,63,20,XX,"Same State",62,147,1227
+38,3,63,21,XX,"Same Region, Diff. State",48,95,882
+38,3,63,22,XX,"Different Region",46,79,1001
+38,3,63,50,ND,"County Non-Migrant",4220,9673,120902
+38,5,0,1,ND,"Benson (Total Migrant)",142,297,2036
+38,5,38,71,ND,Ramsey,40,85,703
+38,5,38,35,ND,"Grand Forks",14,29,157
+38,5,38,17,ND,Cass,12,22,147
+38,5,63,20,XX,"Same State",39,95,606
+38,5,63,21,XX,"Same Region, Diff. State",18,35,190
+38,5,63,22,XX,"Different Region",19,31,233
+38,5,63,50,ND,"County Non-Migrant",2144,5334,47277
+38,9,0,1,ND,"Bottineau (Total Migrant)",207,350,3463
+38,9,38,101,ND,Ward,43,65,649
+38,9,38,17,ND,Cass,19,29,248
+38,9,63,20,XX,"Same State",57,116,1120
+38,9,63,21,XX,"Same Region, Diff. State",36,57,758
+38,9,63,22,XX,"Different Region",52,83,688
+38,9,63,50,ND,"County Non-Migrant",2844,6642,81050
+38,11,0,1,ND,"Bowman (Total Migrant)",98,195,2422
+38,11,38,89,ND,Stark,14,33,630
+38,11,63,20,XX,"Same State",32,63,656
+38,11,63,21,XX,"Same Region, Diff. State",21,41,524
+38,11,63,22,XX,"Different Region",31,58,612
+38,11,63,50,ND,"County Non-Migrant",1566,3820,43203
+38,13,0,1,ND,"Burke (Total Migrant)",77,151,1660
+38,13,38,101,ND,Ward,14,27,228
+38,13,63,20,XX,"Same State",29,58,741
+38,13,63,21,XX,"Same Region, Diff. State",14,27,279
+38,13,63,22,XX,"Different Region",20,39,412
+38,13,63,50,ND,"County Non-Migrant",1083,2498,30003
+38,15,0,1,ND,"Burleigh (Total Migrant)",1721,3203,39427
+38,15,38,59,ND,Morton,323,610,7035
+38,15,38,17,ND,Cass,177,264,4129
+38,15,38,35,ND,"Grand Forks",67,110,1159
+38,15,38,101,ND,Ward,55,120,1088
+38,15,27,53,Mn,Hennepin,54,69,1255
+38,15,38,89,ND,Stark,40,74,602
+38,15,38,55,ND,McLean,26,56,661
+38,15,4,13,Az,Maricopa,25,36,464
+38,15,38,57,ND,Mercer,24,52,626
+38,15,46,103,SD,Pennington,23,45,607
+38,15,38,93,ND,Stutsman,22,44,518
+38,15,27,123,Mn,Ramsey,18,27,362
+38,15,38,29,ND,Emmons,16,26,330
+38,15,46,99,SD,Minnehaha,16,31,481
+38,15,38,85,ND,Sioux,14,31,208
+38,15,38,105,ND,Williams,14,28,196
+38,15,38,71,ND,Ramsey,14,27,285
+38,15,38,79,ND,Rolette,13,34,129
+38,15,27,27,Mn,Clay,12,20,218
+38,15,27,37,Mn,Dakota,12,24,539
+38,15,30,111,Mt,Yellowstone,11,32,283
+38,15,38,43,ND,Kidder,10,21,185
+38,15,38,77,ND,Richland,10,20,192
+38,15,38,3,ND,Barnes,10,18,199
+38,15,53,33,Wa,King,10,16,138
+38,15,63,10,XX,"Same State",120,238,2908
+38,15,63,11,XX,"Region 1: Northeast",18,38,751
+38,15,63,12,XX,"Region 2: Midwest",235,472,5997
+38,15,63,13,XX,"Region 3: South",99,202,2437
+38,15,63,14,XX,"Region 4: West",222,401,5254
+38,15,63,15,XX,Foreign,11,17,191
+38,15,63,50,ND,"County Non-Migrant",22851,53098,828340
+38,17,0,1,ND,"Cass (Total Migrant)",3350,6141,88236
+38,17,27,27,Mn,Clay,459,909,10895
+38,17,27,53,Mn,Hennepin,243,349,6003
+38,17,38,35,ND,"Grand Forks",133,250,2594
+38,17,38,15,ND,Burleigh,115,197,2531
+38,17,38,77,ND,Richland,98,195,2040
+38,17,27,5,Mn,Becker,94,199,4054
+38,17,27,111,Mn,"Otter Tail",73,143,1704
+38,17,27,37,Mn,Dakota,70,124,1616
+38,17,27,123,Mn,Ramsey,66,85,1342
+38,17,4,13,Az,Maricopa,65,125,2091
+38,17,38,101,ND,Ward,49,77,911
+38,17,46,99,SD,Minnehaha,46,94,1445
+38,17,38,93,ND,Stutsman,41,66,681
+38,17,38,3,ND,Barnes,39,72,757
+38,17,27,145,Mn,Stearns,37,61,645
+38,17,27,3,Mn,Anoka,32,62,783
+38,17,27,109,Mn,Olmsted,26,46,625
+38,17,46,13,SD,Brown,26,43,506
+38,17,38,73,ND,Ransom,24,61,552
+38,17,27,107,Mn,Norman,21,43,420
+38,17,38,97,ND,Traill,21,47,554
+38,17,27,119,Mn,Polk,20,30,508
+38,17,8,41,Co,"El Paso",19,30,464
+38,17,8,31,Co,Denver,19,23,306
+38,17,6,73,Ca,"San Diego",17,29,146
+38,17,38,59,ND,Morton,16,22,258
+38,17,46,103,SD,Pennington,16,33,567
+38,17,27,137,Mn,"St. Louis",16,23,401
+38,17,32,3,Nv,Clark,16,17,884
+38,17,19,153,Ia,Polk,16,40,670
+38,17,27,167,Mn,Wilkin,16,26,244
+38,17,27,163,Mn,Washington,16,36,1240
+38,17,27,67,Mn,Kandiyohi,15,25,290
+38,17,17,31,Il,Cook,15,21,450
+38,17,53,33,Wa,King,15,21,258
+38,17,48,439,Tx,Tarrant,15,31,732
+38,17,6,37,Ca,"Los Angeles",15,22,393
+38,17,27,57,Mn,Hubbard,14,27,197
+38,17,38,89,ND,Stark,14,23,251
+38,17,31,55,Ne,Douglas,14,33,600
+38,17,55,25,Wi,Dane,13,21,282
+38,17,53,61,Wa,Snohomish,13,22,172
+38,17,38,105,ND,Williams,13,25,281
+38,17,49,35,Ut,"Salt Lake",12,14,168
+38,17,38,71,ND,Ramsey,12,27,367
+38,17,8,59,Co,Jefferson,11,16,248
+38,17,4,19,Az,Pima,11,18,300
+38,17,38,69,ND,Pierce,11,17,155
+38,17,27,41,Mn,Douglas,11,23,192
+38,17,57,5,FR,"APO / FPO Zip Code",11,21,163
+38,17,38,63,ND,Nelson,11,22,197
+38,17,38,81,ND,Sargent,11,23,264
+38,17,48,113,Tx,Dallas,10,15,130
+38,17,46,29,SD,Codington,10,17,150
+38,17,30,111,Mt,Yellowstone,10,21,266
+38,17,57,1,FR,"Foreign / Overseas",10,16,261
+38,17,38,55,ND,McLean,10,17,130
+38,17,27,113,Mn,Pennington,10,20,229
+38,17,63,10,XX,"Same State",117,205,2163
+38,17,63,11,XX,"Region 1: Northeast",48,73,913
+38,17,63,12,XX,"Region 2: Midwest",477,936,12457
+38,17,63,13,XX,"Region 3: South",194,389,9322
+38,17,63,14,XX,"Region 4: West",232,423,7818
+38,17,63,50,ND,"County Non-Migrant",38331,84406,1413747
+38,19,0,1,ND,"Cavalier (Total Migrant)",116,215,2384
+38,19,38,35,ND,"Grand Forks",20,31,423
+38,19,38,71,ND,Ramsey,12,24,250
+38,19,63,20,XX,"Same State",45,78,792
+38,19,63,21,XX,"Same Region, Diff. State",24,52,526
+38,19,63,22,XX,"Different Region",15,30,393
+38,19,63,50,ND,"County Non-Migrant",2183,5155,69166
+38,21,0,1,ND,"Dickey (Total Migrant)",157,348,2560
+38,21,46,13,SD,Brown,10,16,176
+38,21,63,20,XX,"Same State",44,94,917
+38,21,63,21,XX,"Same Region, Diff. State",64,140,894
+38,21,63,22,XX,"Different Region",39,98,573
+38,21,63,50,ND,"County Non-Migrant",1974,4673,52691
+38,23,0,1,ND,"Divide (Total Migrant)",51,89,1262
+38,23,38,105,ND,Williams,11,24,466
+38,23,63,30,XX,"Suppress All Flows",40,65,796
+38,23,63,50,ND,"County Non-Migrant",1009,2188,30078
+38,25,0,1,ND,"Dunn (Total Migrant)",70,128,1141
+38,25,38,89,ND,Stark,18,30,231
+38,25,63,30,XX,"Suppress All Flows",52,98,910
+38,25,63,50,ND,"County Non-Migrant",1098,2739,24037
+38,27,0,1,ND,"Eddy (Total Migrant)",74,133,1132
+38,27,38,17,ND,Cass,16,18,282
+38,27,63,20,XX,"Same State",35,70,571
+38,27,63,21,XX,"Same Region, Diff. State",11,24,162
+38,27,63,22,XX,"Different Region",12,21,117
+38,27,63,50,ND,"County Non-Migrant",941,2285,24199
+38,29,0,1,ND,"Emmons (Total Migrant)",90,154,1897
+38,29,38,15,ND,Burleigh,30,49,597
+38,29,63,20,XX,"Same State",32,58,700
+38,29,63,21,XX,"Same Region, Diff. State",15,24,296
+38,29,63,22,XX,"Different Region",13,23,304
+38,29,63,50,ND,"County Non-Migrant",1602,3740,34926
+38,31,0,1,ND,"Foster (Total Migrant)",98,173,1818
+38,31,38,93,ND,Stutsman,14,26,264
+38,31,38,17,ND,Cass,14,23,213
+38,31,63,20,XX,"Same State",32,65,666
+38,31,63,21,XX,"Same Region, Diff. State",24,41,438
+38,31,63,22,XX,"Different Region",14,18,237
+38,31,63,50,ND,"County Non-Migrant",1313,3146,39401
+38,33,0,1,ND,"Golden Valley (Total Migrant)",67,126,1266
+38,33,38,89,ND,Stark,17,31,233
+38,33,63,30,XX,"Suppress All Flows",50,95,1033
+38,33,63,50,ND,"County Non-Migrant",942,2214,24459
+38,35,0,1,ND,"Grand Forks (Total Migrant)",2898,5989,64147
+38,35,27,119,Mn,Polk,206,431,4741
+38,35,57,5,FR,"APO / FPO Zip Code",188,394,3387
+38,35,38,17,ND,Cass,170,297,3422
+38,35,27,53,Mn,Hennepin,98,137,1599
+38,35,38,15,ND,Burleigh,68,127,1471
+38,35,4,13,Az,Maricopa,44,74,1134
+38,35,38,99,ND,Walsh,41,69,726
+38,35,27,37,Mn,Dakota,39,64,812
+38,35,38,97,ND,Traill,36,74,841
+38,35,38,101,ND,Ward,35,64,662
+38,35,27,123,Mn,Ramsey,32,52,745
+38,35,38,71,ND,Ramsey,27,48,482
+38,35,38,67,ND,Pembina,26,48,529
+38,35,32,3,Nv,Clark,21,56,515
+38,35,48,29,Tx,Bexar,21,42,473
+38,35,27,89,Mn,Marshall,21,38,457
+38,35,46,103,SD,Pennington,19,44,647
+38,35,27,3,Mn,Anoka,18,29,288
+38,35,38,77,ND,Richland,18,32,191
+38,35,46,99,SD,Minnehaha,18,41,383
+38,35,27,7,Mn,Beltrami,16,23,235
+38,35,38,79,ND,Rolette,16,33,194
+38,35,6,83,Ca,"Santa Barbara",16,58,478
+38,35,27,145,Mn,Stearns,15,33,268
+38,35,27,113,Mn,Pennington,15,28,274
+38,35,27,137,Mn,"St. Louis",14,24,298
+38,35,15,3,Hi,Honolulu,14,33,239
+38,35,8,41,Co,"El Paso",14,26,492
+38,35,57,1,FR,"Foreign / Overseas",13,24,316
+38,35,27,27,Mn,Clay,13,34,192
+38,35,29,101,Mo,Johnson,13,32,457
+38,35,6,37,Ca,"Los Angeles",13,19,334
+38,35,4,19,Az,Pima,13,29,228
+38,35,17,31,Il,Cook,13,26,242
+38,35,53,33,Wa,King,12,26,181
+38,35,51,59,Va,Fairfax,12,28,488
+38,35,46,93,SD,Meade,12,35,359
+38,35,2,20,Ak,"Anchorage Borough",11,26,248
+38,35,38,89,ND,Stark,11,17,186
+38,35,38,105,ND,Williams,11,26,210
+38,35,27,109,Mn,Olmsted,11,23,227
+38,35,8,5,Co,Arapahoe,11,26,277
+38,35,48,441,Tx,Taylor,11,37,381
+38,35,27,135,Mn,Roseau,11,24,208
+38,35,48,439,Tx,Tarrant,10,26,439
+38,35,38,63,ND,Nelson,10,15,139
+38,35,48,201,Tx,Harris,10,17,363
+38,35,13,153,Ga,Houston,10,30,240
+38,35,63,10,XX,"Same State",99,182,1736
+38,35,63,11,XX,"Region 1: Northeast",110,224,1958
+38,35,63,12,XX,"Region 2: Midwest",486,990,10483
+38,35,63,13,XX,"Region 3: South",393,959,10669
+38,35,63,14,XX,"Region 4: West",313,695,7603
+38,35,63,50,ND,"County Non-Migrant",22492,51609,732847
+38,37,0,1,ND,"Grant (Total Migrant)",71,139,1327
+38,37,38,15,ND,Burleigh,16,36,365
+38,37,63,20,XX,"Same State",31,61,488
+38,37,63,21,XX,"Same Region, Diff. State",14,27,315
+38,37,63,22,XX,"Different Region",10,15,159
+38,37,63,50,ND,"County Non-Migrant",1070,2509,20979
+38,39,0,1,ND,"Griggs (Total Migrant)",66,144,1280
+38,39,63,30,XX,"Suppress All Flows",66,144,1280
+38,39,63,50,ND,"County Non-Migrant",1129,2708,32933
+38,41,0,1,ND,"Hettinger (Total Migrant)",74,149,1396
+38,41,38,89,ND,Stark,18,33,269
+38,41,63,20,XX,"Same State",26,65,546
+38,41,63,21,XX,"Same Region, Diff. State",13,23,186
+38,41,63,22,XX,"Different Region",17,28,395
+38,41,63,50,ND,"County Non-Migrant",1194,2876,32350
+38,43,0,1,ND,"Kidder (Total Migrant)",88,163,1806
+38,43,38,15,ND,Burleigh,29,50,697
+38,43,63,30,XX,"Suppress All Flows",59,113,1109
+38,43,63,50,ND,"County Non-Migrant",1119,2717,24960
+38,45,0,1,ND,"La Moure (Total Migrant)",115,202,2679
+38,45,38,93,ND,Stutsman,19,42,881
+38,45,63,20,XX,"Same State",50,79,823
+38,45,63,21,XX,"Same Region, Diff. State",23,38,535
+38,45,63,22,XX,"Different Region",23,43,440
+38,45,63,50,ND,"County Non-Migrant",1859,4396,52126
+38,47,0,1,ND,"Logan (Total Migrant)",64,125,1135
+38,47,38,15,ND,Burleigh,13,24,172
+38,47,63,30,XX,"Suppress All Flows",51,101,963
+38,47,63,50,ND,"County Non-Migrant",1009,2349,23024
+38,49,0,1,ND,"McHenry (Total Migrant)",146,288,3513
+38,49,38,101,ND,Ward,54,114,1076
+38,49,38,17,ND,Cass,13,16,153
+38,49,63,20,XX,"Same State",40,86,971
+38,49,63,21,XX,"Same Region, Diff. State",17,37,328
+38,49,63,22,XX,"Different Region",22,35,985
+38,49,63,50,ND,"County Non-Migrant",2202,5162,50798
+38,51,0,1,ND,"McIntosh (Total Migrant)",83,170,1644
+38,51,38,17,ND,Cass,12,22,181
+38,51,38,15,ND,Burleigh,11,18,206
+38,51,63,20,XX,"Same State",27,68,650
+38,51,63,21,XX,"Same Region, Diff. State",22,48,437
+38,51,63,22,XX,"Different Region",11,14,170
+38,51,63,50,ND,"County Non-Migrant",1308,2960,30184
+38,53,0,1,ND,"McKenzie (Total Migrant)",132,288,2954
+38,53,38,105,ND,Williams,12,23,245
+38,53,38,89,ND,Stark,11,22,152
+38,53,63,20,XX,"Same State",50,110,836
+38,53,63,21,XX,"Same Region, Diff. State",17,34,355
+38,53,63,22,XX,"Different Region",42,99,1366
+38,53,63,50,ND,"County Non-Migrant",1838,4573,52914
+38,55,0,1,ND,"McLean (Total Migrant)",240,469,5435
+38,55,38,15,ND,Burleigh,37,71,899
+38,55,38,101,ND,Ward,36,72,801
+38,55,38,17,ND,Cass,17,21,320
+38,55,63,20,XX,"Same State",66,142,1497
+38,55,63,21,XX,"Same Region, Diff. State",33,69,746
+38,55,63,22,XX,"Different Region",51,94,1172
+38,55,63,50,ND,"County Non-Migrant",3269,8056,100377
+38,57,0,1,ND,"Mercer (Total Migrant)",197,405,4569
+38,57,38,15,ND,Burleigh,42,79,1046
+38,57,38,101,ND,Ward,12,20,170
+38,57,38,17,ND,Cass,10,15,178
+38,57,63,20,XX,"Same State",52,138,1186
+38,57,63,21,XX,"Same Region, Diff. State",28,51,667
+38,57,63,22,XX,"Different Region",53,102,1322
+38,57,63,50,ND,"County Non-Migrant",3177,8608,118383
+38,59,0,1,ND,"Morton (Total Migrant)",736,1279,14569
+38,59,38,15,ND,Burleigh,325,547,7017
+38,59,38,17,ND,Cass,47,71,789
+38,59,38,89,ND,Stark,22,41,399
+38,59,38,101,ND,Ward,17,32,259
+38,59,38,35,ND,"Grand Forks",14,26,184
+38,59,38,57,ND,Mercer,11,18,135
+38,59,46,103,SD,Pennington,11,21,258
+38,59,63,20,XX,"Same State",73,142,1138
+38,59,63,21,XX,"Same Region, Diff. State",87,154,1701
+38,59,63,22,XX,"Different Region",129,227,2689
+38,59,63,50,ND,"County Non-Migrant",7801,19040,228062
+38,61,0,1,ND,"Mountrail (Total Migrant)",141,276,3125
+38,61,38,101,ND,Ward,29,53,764
+38,61,38,53,ND,McKenzie,10,27,226
+38,61,63,20,XX,"Same State",46,95,974
+38,61,63,21,XX,"Same Region, Diff. State",23,40,431
+38,61,63,22,XX,"Different Region",33,61,730
+38,61,63,50,ND,"County Non-Migrant",2201,5318,61245
+38,63,0,1,ND,"Nelson (Total Migrant)",98,160,1790
+38,63,38,35,ND,"Grand Forks",25,42,448
+38,63,38,17,ND,Cass,12,16,247
+38,63,38,71,ND,Ramsey,11,23,185
+38,63,63,20,XX,"Same State",26,38,459
+38,63,63,21,XX,"Same Region, Diff. State",14,24,277
+38,63,63,22,XX,"Different Region",10,17,174
+38,63,63,50,ND,"County Non-Migrant",1507,3369,41439
+38,65,0,1,ND,"Oliver (Total Migrant)",38,74,920
+38,65,38,15,ND,Burleigh,13,22,286
+38,65,63,30,XX,"Suppress All Flows",25,52,634
+38,65,63,50,ND,"County Non-Migrant",539,1496,17647
+38,67,0,1,ND,"Pembina (Total Migrant)",174,355,3501
+38,67,38,35,ND,"Grand Forks",36,60,576
+38,67,38,17,ND,Cass,17,23,323
+38,67,38,99,ND,Walsh,16,30,247
+38,67,63,20,XX,"Same State",25,54,531
+38,67,63,21,XX,"Same Region, Diff. State",39,94,936
+38,67,63,22,XX,"Different Region",41,94,888
+38,67,63,50,ND,"County Non-Migrant",3290,7840,112943
+38,69,0,1,ND,"Pierce (Total Migrant)",131,260,2435
+38,69,38,79,ND,Rolette,19,58,380
+38,69,38,101,ND,Ward,12,22,218
+38,69,63,20,XX,"Same State",66,114,1028
+38,69,63,21,XX,"Same Region, Diff. State",12,25,306
+38,69,63,22,XX,"Different Region",22,41,503
+38,69,63,50,ND,"County Non-Migrant",1715,4029,44512
+38,71,0,1,ND,"Ramsey (Total Migrant)",344,636,6005
+38,71,38,35,ND,"Grand Forks",49,73,616
+38,71,38,17,ND,Cass,31,63,559
+38,71,38,5,ND,Benson,30,62,443
+38,71,38,15,ND,Burleigh,20,42,502
+38,71,38,101,ND,Ward,13,21,237
+38,71,38,95,ND,Towner,12,27,129
+38,71,38,63,ND,Nelson,11,21,188
+38,71,27,53,Mn,Hennepin,10,12,160
+38,71,63,20,XX,"Same State",54,111,780
+38,71,63,21,XX,"Same Region, Diff. State",67,138,1740
+38,71,63,22,XX,"Different Region",47,66,651
+38,71,63,50,ND,"County Non-Migrant",4640,10485,136736
+38,73,0,1,ND,"Ransom (Total Migrant)",151,290,3194
+38,73,38,17,ND,Cass,46,83,971
+38,73,38,81,ND,Sargent,10,25,269
+38,73,63,20,XX,"Same State",38,69,737
+38,73,63,21,XX,"Same Region, Diff. State",39,76,865
+38,73,63,22,XX,"Different Region",18,37,352
+38,73,63,50,ND,"County Non-Migrant",1983,4728,56062
+38,75,0,1,ND,"Renville (Total Migrant)",92,146,1826
+38,75,38,101,ND,Ward,47,79,961
+38,75,63,30,XX,"Suppress All Flows",45,67,865
+38,75,63,50,ND,"County Non-Migrant",1049,2466,30808
+38,77,0,1,ND,"Richland (Total Migrant)",455,897,9703
+38,77,38,17,ND,Cass,112,193,2314
+38,77,27,167,Mn,Wilkin,49,123,1192
+38,77,27,111,Mn,"Otter Tail",14,40,480
+38,77,38,35,ND,"Grand Forks",12,18,176
+38,77,38,15,ND,Burleigh,11,12,184
+38,77,27,53,Mn,Hennepin,11,13,189
+38,77,63,20,XX,"Same State",62,147,1233
+38,77,63,21,XX,"Same Region, Diff. State",117,237,2758
+38,77,63,22,XX,"Different Region",67,114,1177
+38,77,63,50,ND,"County Non-Migrant",6006,14306,190023
+38,79,0,1,ND,"Rolette (Total Migrant)",168,327,3106
+38,79,38,17,ND,Cass,24,37,239
+38,79,38,9,ND,Bottineau,14,30,360
+38,79,38,35,ND,"Grand Forks",14,27,170
+38,79,38,101,ND,Ward,14,27,210
+38,79,63,20,XX,"Same State",58,109,1249
+38,79,63,21,XX,"Same Region, Diff. State",23,58,423
+38,79,63,22,XX,"Different Region",21,39,455
+38,79,63,50,ND,"County Non-Migrant",3294,8293,76108
+38,81,0,1,ND,"Sargent (Total Migrant)",98,180,1899
+38,81,38,17,ND,Cass,21,39,364
+38,81,38,77,ND,Richland,16,31,324
+38,81,38,73,ND,Ransom,10,18,200
+38,81,63,30,XX,"Suppress All Flows",51,92,1011
+38,81,63,50,ND,"County Non-Migrant",1573,3809,47260
+38,83,0,1,ND,"Sheridan (Total Migrant)",33,56,735
+38,83,63,30,XX,"Suppress All Flows",33,56,735
+38,83,63,50,ND,"County Non-Migrant",658,1518,14935
+38,85,0,1,ND,"Sioux (Total Migrant)",68,148,1251
+38,85,38,15,ND,Burleigh,15,22,167
+38,85,38,59,ND,Morton,11,24,159
+38,85,63,30,XX,"Suppress All Flows",42,102,925
+38,85,63,50,ND,"County Non-Migrant",744,2189,15091
+38,89,0,1,ND,"Stark (Total Migrant)",554,1048,12366
+38,89,38,15,ND,Burleigh,56,93,1158
+38,89,38,17,ND,Cass,41,66,558
+38,89,38,59,ND,Morton,21,39,341
+38,89,46,103,SD,Pennington,17,33,305
+38,89,27,53,Mn,Hennepin,13,20,264
+38,89,38,101,ND,Ward,12,20,169
+38,89,38,105,ND,Williams,12,21,183
+38,89,30,111,Mt,Yellowstone,11,14,157
+38,89,38,35,ND,"Grand Forks",10,18,177
+38,89,63,10,XX,"Same State",70,133,1215
+38,89,63,11,XX,"Region 1: Northeast",13,16,172
+38,89,63,12,XX,"Region 2: Midwest",87,178,1818
+38,89,63,13,XX,"Region 3: South",46,109,1805
+38,89,63,14,XX,"Region 4: West",145,288,4044
+38,89,63,50,ND,"County Non-Migrant",8032,19655,232281
+38,91,0,1,ND,"Steele (Total Migrant)",65,131,1577
+38,91,38,97,ND,Traill,12,23,331
+38,91,38,17,ND,Cass,11,17,242
+38,91,63,20,XX,"Same State",21,45,476
+38,91,63,21,XX,"Same Region, Diff. State",11,18,262
+38,91,63,22,XX,"Different Region",10,28,266
+38,91,63,50,ND,"County Non-Migrant",878,1997,28132
+38,93,0,1,ND,"Stutsman (Total Migrant)",454,885,9291
+38,93,38,17,ND,Cass,90,154,1670
+38,93,38,15,ND,Burleigh,42,90,935
+38,93,38,3,ND,Barnes,19,50,224
+38,93,38,59,ND,Morton,10,13,216
+38,93,63,20,XX,"Same State",98,194,2008
+38,93,63,21,XX,"Same Region, Diff. State",95,192,2094
+38,93,63,22,XX,"Different Region",100,192,2144
+38,93,63,50,ND,"County Non-Migrant",7623,17464,234043
+38,95,0,1,ND,"Towner (Total Migrant)",105,192,1682
+38,95,38,17,ND,Cass,16,19,211
+38,95,63,20,XX,"Same State",57,115,914
+38,95,63,21,XX,"Same Region, Diff. State",17,25,297
+38,95,63,22,XX,"Different Region",15,33,260
+38,95,63,50,ND,"County Non-Migrant",1249,2801,35556
+38,97,0,1,ND,"Traill (Total Migrant)",172,341,3949
+38,97,38,35,ND,"Grand Forks",36,71,909
+38,97,38,17,ND,Cass,35,62,831
+38,97,63,20,XX,"Same State",25,45,401
+38,97,63,21,XX,"Same Region, Diff. State",48,107,1203
+38,97,63,22,XX,"Different Region",28,56,605
+38,97,63,50,ND,"County Non-Migrant",2854,6747,95340
+38,99,0,1,ND,"Walsh (Total Migrant)",287,561,6115
+38,99,38,35,ND,"Grand Forks",69,110,1469
+38,99,38,17,ND,Cass,34,53,1032
+38,99,38,67,ND,Pembina,12,23,199
+38,99,63,20,XX,"Same State",28,66,593
+38,99,63,21,XX,"Same Region, Diff. State",80,163,1778
+38,99,63,22,XX,"Different Region",64,146,1044
+38,99,63,50,ND,"County Non-Migrant",4754,11005,142423
+38,101,0,1,ND,"Ward (Total Migrant)",2127,4779,46285
+38,101,57,5,FR,"APO / FPO Zip Code",195,436,3696
+38,101,38,17,ND,Cass,81,145,1802
+38,101,38,15,ND,Burleigh,72,139,1467
+38,101,38,35,ND,"Grand Forks",53,97,838
+38,101,38,75,ND,Renville,44,90,724
+38,101,38,49,ND,McHenry,38,88,706
+38,101,38,55,ND,McLean,37,71,854
+38,101,27,53,Mn,Hennepin,36,54,555
+38,101,38,9,ND,Bottineau,32,72,691
+38,101,38,105,ND,Williams,30,66,462
+38,101,38,61,ND,Mountrail,30,64,578
+38,101,8,41,Co,"El Paso",28,86,1077
+38,101,4,13,Az,Maricopa,27,64,632
+38,101,38,59,ND,Morton,25,46,592
+38,101,46,103,SD,Pennington,20,46,459
+38,101,38,77,ND,Richland,19,33,246
+38,101,48,29,Tx,Bexar,18,60,500
+38,101,2,20,Ak,"Anchorage Borough",17,46,540
+38,101,12,91,Fl,Okaloosa,14,38,307
+38,101,40,109,Ok,Oklahoma,14,42,445
+38,101,38,69,ND,Pierce,14,30,222
+38,101,32,3,Nv,Clark,13,29,279
+38,101,8,5,Co,Arapahoe,13,16,211
+38,101,6,47,Ca,Merced,13,38,413
+38,101,37,51,NC,Cumberland,13,36,311
+38,101,15,3,Hi,Honolulu,13,39,297
+38,101,6,29,Ca,Kern,11,28,234
+38,101,38,89,ND,Stark,11,19,227
+38,101,53,63,Wa,Spokane,11,26,290
+38,101,17,31,Il,Cook,10,16,199
+38,101,22,15,La,Bossier,10,31,279
+38,101,53,33,Wa,King,10,12,189
+38,101,6,83,Ca,"Santa Barbara",10,33,327
+38,101,31,153,Ne,Sarpy,10,32,351
+38,101,63,10,XX,"Same State",75,163,1218
+38,101,63,11,XX,"Region 1: Northeast",72,161,1450
+38,101,63,12,XX,"Region 2: Midwest",359,811,8186
+38,101,63,13,XX,"Region 3: South",352,856,8204
+38,101,63,14,XX,"Region 4: West",262,582,5860
+38,101,63,15,XX,Foreign,15,38,367
+38,101,63,50,ND,"County Non-Migrant",19431,45327,595395
+38,103,0,1,ND,"Wells (Total Migrant)",123,253,2688
+38,103,38,17,ND,Cass,17,27,283
+38,103,38,15,ND,Burleigh,17,29,417
+38,103,38,101,ND,Ward,11,23,278
+38,103,63,20,XX,"Same State",48,121,1102
+38,103,63,21,XX,"Same Region, Diff. State",13,28,370
+38,103,63,22,XX,"Different Region",17,25,238
+38,103,63,50,ND,"County Non-Migrant",2036,4665,58942
+38,105,0,1,ND,"Williams (Total Migrant)",446,918,10247
+38,105,38,101,ND,Ward,43,82,749
+38,105,38,15,ND,Burleigh,27,54,473
+38,105,38,17,ND,Cass,21,35,324
+38,105,38,35,ND,"Grand Forks",18,34,329
+38,105,38,89,ND,Stark,17,44,221
+38,105,30,83,Mt,Richland,15,39,280
+38,105,38,59,ND,Morton,11,17,124
+38,105,38,53,ND,McKenzie,11,20,170
+38,105,63,20,XX,"Same State",60,128,1251
+38,105,63,21,XX,"Same Region, Diff. State",70,160,2285
+38,105,63,22,XX,"Different Region",153,305,4041
+38,105,63,50,ND,"County Non-Migrant",7145,17121,220766

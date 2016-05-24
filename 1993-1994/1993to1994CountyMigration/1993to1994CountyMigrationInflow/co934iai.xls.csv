@@ -1,0 +1,1601 @@
+"1993 - 1994 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Iowa,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+19,1,0,1,Ia,"Adair (Total Migrant)",160,335,3521
+19,1,19,175,Ia,Union,24,57,508
+19,1,19,77,Ia,Guthrie,16,31,398
+19,1,19,153,Ia,Polk,15,28,339
+19,1,19,29,Ia,Cass,15,29,390
+19,1,63,20,XX,"Same State",51,102,1181
+19,1,63,21,XX,"Same Region, Diff. State",17,47,386
+19,1,63,22,XX,"Different Region",22,41,319
+19,1,63,50,Ia,"County Non-Migrant",2918,6718,76535
+19,3,0,1,Ia,"Adams (Total Migrant)",87,213,1542
+19,3,19,137,Ia,Montgomery,12,19,193
+19,3,19,175,Ia,Union,12,32,242
+19,3,63,30,XX,"Suppress All Flows",63,162,1107
+19,3,63,50,Ia,"County Non-Migrant",1590,3725,38094
+19,5,0,1,Ia,"Allamakee (Total Migrant)",252,500,5327
+19,5,19,191,Ia,Winneshiek,34,80,828
+19,5,19,43,Ia,Clayton,24,52,389
+19,5,19,113,Ia,Linn,16,20,328
+19,5,55,63,Wi,"La Crosse",13,16,205
+19,5,19,65,Ia,Fayette,12,32,162
+19,5,27,55,Mn,Houston,12,22,251
+19,5,19,13,Ia,"Black Hawk",10,18,130
+19,5,63,20,XX,"Same State",54,107,1432
+19,5,63,21,XX,"Same Region, Diff. State",48,94,1108
+19,5,63,22,XX,"Different Region",29,59,494
+19,5,63,50,Ia,"County Non-Migrant",4926,11793,116425
+19,7,0,1,Ia,"Appanoose (Total Migrant)",237,518,4608
+19,7,19,153,Ia,Polk,16,28,269
+19,7,19,135,Ia,Monroe,14,24,288
+19,7,19,179,Ia,Wapello,12,22,142
+19,7,19,185,Ia,Wayne,10,30,192
+19,7,63,20,XX,"Same State",79,177,1597
+19,7,63,21,XX,"Same Region, Diff. State",57,124,1031
+19,7,63,22,XX,"Different Region",49,113,1089
+19,7,63,50,Ia,"County Non-Migrant",4325,10033,105744
+19,9,0,1,Ia,"Audubon (Total Migrant)",102,212,2080
+19,9,19,27,Ia,Carroll,13,20,220
+19,9,19,29,Ia,Cass,12,29,171
+19,9,63,20,XX,"Same State",47,104,967
+19,9,63,21,XX,"Same Region, Diff. State",12,24,348
+19,9,63,22,XX,"Different Region",18,35,374
+19,9,63,50,Ia,"County Non-Migrant",2407,5704,61319
+19,11,0,1,Ia,"Benton (Total Migrant)",567,1211,14816
+19,11,19,113,Ia,Linn,255,560,7588
+19,11,19,95,Ia,Iowa,41,83,914
+19,11,19,171,Ia,Tama,30,67,572
+19,11,19,103,Ia,Johnson,22,43,434
+19,11,19,13,Ia,"Black Hawk",18,36,361
+19,11,19,157,Ia,Poweshiek,15,26,282
+19,11,63,20,XX,"Same State",79,174,2257
+19,11,63,21,XX,"Same Region, Diff. State",44,87,1113
+19,11,63,22,XX,"Different Region",63,135,1295
+19,11,63,50,Ia,"County Non-Migrant",7578,18245,233098
+19,13,0,1,Ia,"Black Hawk (Total Migrant)",2285,4104,50446
+19,13,19,17,Ia,Bremer,127,239,2990
+19,13,19,113,Ia,Linn,98,156,1941
+19,13,19,153,Ia,Polk,97,146,2079
+19,13,19,19,Ia,Buchanan,83,143,1864
+19,13,19,75,Ia,Grundy,63,128,1539
+19,13,19,23,Ia,Butler,60,94,1083
+19,13,19,103,Ia,Johnson,57,88,1166
+19,13,19,61,Ia,Dubuque,56,76,938
+19,13,57,1,FR,"Foreign / Overseas",50,58,250
+19,13,19,163,Ia,Scott,49,100,1966
+19,13,19,33,Ia,"Cerro Gordo",47,91,949
+19,13,19,65,Ia,Fayette,39,58,786
+19,13,19,127,Ia,Marshall,37,73,806
+19,13,19,169,Ia,Story,33,45,520
+19,13,19,171,Ia,Tama,30,59,558
+19,13,19,83,Ia,Hardin,28,37,441
+19,13,19,37,Ia,Chickasaw,28,41,471
+19,13,17,31,Il,Cook,27,46,744
+19,13,19,187,Ia,Webster,23,38,336
+19,13,19,67,Ia,Floyd,22,24,333
+19,13,19,11,Ia,Benton,18,25,451
+19,13,27,53,Mn,Hennepin,17,28,367
+19,13,6,73,Ca,"San Diego",16,41,266
+19,13,4,13,Az,Maricopa,16,31,617
+19,13,6,37,Ca,"Los Angeles",16,27,313
+19,13,57,5,FR,"APO / FPO Zip Code",15,32,225
+19,13,19,191,Ia,Winneshiek,15,19,247
+19,13,17,161,Il,"Rock Island",14,30,373
+19,13,19,45,Ia,Clinton,14,22,195
+19,13,19,43,Ia,Clayton,12,14,110
+19,13,19,99,Ia,Jasper,11,18,228
+19,13,19,175,Ia,Union,10,10,116
+19,13,19,155,Ia,Pottawattamie,10,11,148
+19,13,19,125,Ia,Marion,10,16,116
+19,13,19,55,Ia,Delaware,10,17,143
+19,13,48,201,Tx,Harris,10,17,281
+19,13,31,55,Ne,Douglas,10,20,471
+19,13,63,10,XX,"Same State",266,430,4780
+19,13,63,11,XX,"Region 1: Northeast",38,72,1209
+19,13,63,12,XX,"Region 2: Midwest",308,612,9341
+19,13,63,13,XX,"Region 3: South",253,579,5580
+19,13,63,14,XX,"Region 4: West",142,293,3109
+19,13,63,50,Ia,"County Non-Migrant",40960,92679,1420169
+19,15,0,1,Ia,"Boone (Total Migrant)",553,1135,13907
+19,15,19,169,Ia,Story,137,264,3510
+19,15,19,153,Ia,Polk,91,192,2462
+19,15,19,49,Ia,Dallas,33,61,641
+19,15,19,73,Ia,Greene,18,40,492
+19,15,19,79,Ia,Hamilton,14,24,423
+19,15,63,20,XX,"Same State",133,306,3254
+19,15,63,21,XX,"Same Region, Diff. State",63,122,1614
+19,15,63,22,XX,"Different Region",64,126,1511
+19,15,63,50,Ia,"County Non-Migrant",8508,19716,283162
+19,17,0,1,Ia,"Bremer (Total Migrant)",537,1081,13384
+19,17,19,13,Ia,"Black Hawk",149,320,4742
+19,17,19,23,Ia,Butler,52,108,1000
+19,17,19,65,Ia,Fayette,24,48,521
+19,17,19,37,Ia,Chickasaw,24,45,476
+19,17,57,1,FR,"Foreign / Overseas",22,23,123
+19,17,19,153,Ia,Polk,14,33,407
+19,17,19,113,Ia,Linn,12,16,237
+19,17,19,67,Ia,Floyd,11,21,209
+19,17,19,19,Ia,Buchanan,10,19,247
+19,17,63,10,XX,"Same State",100,188,1914
+19,17,63,11,XX,"Region 1: Northeast",15,31,398
+19,17,63,12,XX,"Region 2: Midwest",48,103,1406
+19,17,63,13,XX,"Region 3: South",22,45,602
+19,17,63,14,XX,"Region 4: West",34,81,1102
+19,17,63,50,Ia,"County Non-Migrant",7728,19050,264305
+19,19,0,1,Ia,"Buchanan (Total Migrant)",393,850,9103
+19,19,19,13,Ia,"Black Hawk",79,160,2010
+19,19,19,113,Ia,Linn,57,110,1381
+19,19,19,65,Ia,Fayette,47,110,963
+19,19,19,55,Ia,Delaware,16,41,181
+19,19,63,10,XX,"Same State",96,189,1957
+19,19,63,11,XX,"Region 1: Northeast",10,22,250
+19,19,63,12,XX,"Region 2: Midwest",50,123,1489
+19,19,63,13,XX,"Region 3: South",21,51,430
+19,19,63,14,XX,"Region 4: West",17,44,442
+19,19,63,50,Ia,"County Non-Migrant",6898,17608,210545
+19,21,0,1,Ia,"Buena Vista (Total Migrant)",492,1034,9343
+19,21,19,161,Ia,Sac,43,88,906
+19,21,19,41,Ia,Clay,27,57,704
+19,21,19,35,Ia,Cherokee,23,49,675
+19,21,19,151,Ia,Pocahontas,21,40,421
+19,21,19,193,Ia,Woodbury,17,28,329
+19,21,6,37,Ca,"Los Angeles",10,34,128
+19,21,63,20,XX,"Same State",157,295,2618
+19,21,63,21,XX,"Same Region, Diff. State",91,180,1733
+19,21,63,22,XX,"Different Region",103,263,1829
+19,21,63,50,Ia,"County Non-Migrant",6804,16424,211124
+19,23,0,1,Ia,"Butler (Total Migrant)",295,675,6564
+19,23,19,13,Ia,"Black Hawk",70,166,1660
+19,23,19,17,Ia,Bremer,45,85,954
+19,23,19,69,Ia,Franklin,13,27,258
+19,23,19,67,Ia,Floyd,12,34,218
+19,23,19,75,Ia,Grundy,11,23,252
+19,23,63,20,XX,"Same State",75,158,1688
+19,23,63,21,XX,"Same Region, Diff. State",37,112,817
+19,23,63,22,XX,"Different Region",32,70,717
+19,23,63,50,Ia,"County Non-Migrant",5446,13296,153100
+19,25,0,1,Ia,"Calhoun (Total Migrant)",241,542,5567
+19,25,19,187,Ia,Webster,55,106,1184
+19,25,19,153,Ia,Polk,18,38,464
+19,25,19,27,Ia,Carroll,15,37,256
+19,25,19,151,Ia,Pocahontas,14,27,312
+19,25,63,20,XX,"Same State",87,204,1947
+19,25,63,21,XX,"Same Region, Diff. State",18,50,486
+19,25,63,22,XX,"Different Region",34,80,918
+19,25,63,50,Ia,"County Non-Migrant",3974,9331,111402
+19,27,0,1,Ia,"Carroll (Total Migrant)",326,647,7464
+19,27,19,153,Ia,Polk,29,55,1005
+19,27,19,47,Ia,Crawford,28,56,535
+19,27,19,73,Ia,Greene,20,33,318
+19,27,19,161,Ia,Sac,19,43,560
+19,27,19,169,Ia,Story,13,25,251
+19,27,19,9,Ia,Audubon,12,23,104
+19,27,19,25,Ia,Calhoun,11,17,239
+19,27,63,20,XX,"Same State",91,179,2028
+19,27,63,21,XX,"Same Region, Diff. State",57,118,1395
+19,27,63,22,XX,"Different Region",46,98,1029
+19,27,63,50,Ia,"County Non-Migrant",7829,19336,235346
+19,29,0,1,Ia,"Cass (Total Migrant)",309,671,6382
+19,29,19,155,Ia,Pottawattamie,27,66,587
+19,29,19,9,Ia,Audubon,22,37,317
+19,29,31,55,Ne,Douglas,22,45,569
+19,29,19,153,Ia,Polk,17,31,255
+19,29,19,137,Ia,Montgomery,11,18,128
+19,29,63,20,XX,"Same State",104,244,2063
+19,29,63,21,XX,"Same Region, Diff. State",46,89,1041
+19,29,63,22,XX,"Different Region",60,141,1422
+19,29,63,50,Ia,"County Non-Migrant",5394,12522,146010
+19,31,0,1,Ia,"Cedar (Total Migrant)",433,874,10559
+19,31,19,103,Ia,Johnson,81,146,2658
+19,31,19,163,Ia,Scott,57,117,1326
+19,31,19,139,Ia,Muscatine,46,95,1144
+19,31,19,113,Ia,Linn,45,97,1124
+19,31,19,45,Ia,Clinton,13,21,169
+19,31,19,105,Ia,Jones,13,30,314
+19,31,63,20,XX,"Same State",69,136,1561
+19,31,63,21,XX,"Same Region, Diff. State",48,102,863
+19,31,63,22,XX,"Different Region",61,130,1400
+19,31,63,50,Ia,"County Non-Migrant",6072,14157,186415
+19,33,0,1,Ia,"Cerro Gordo (Total Migrant)",943,1825,22803
+19,33,19,195,Ia,Worth,75,137,1253
+19,33,19,67,Ia,Floyd,73,124,1383
+19,33,19,153,Ia,Polk,37,70,996
+19,33,19,81,Ia,Hancock,34,54,575
+19,33,19,69,Ia,Franklin,31,63,607
+19,33,19,189,Ia,Winnebago,30,60,797
+19,33,19,13,Ia,"Black Hawk",28,46,588
+19,33,19,103,Ia,Johnson,22,35,622
+19,33,19,131,Ia,Mitchell,22,26,254
+19,33,19,169,Ia,Story,16,26,247
+19,33,27,53,Mn,Hennepin,16,29,358
+19,33,27,37,Mn,Dakota,15,32,459
+19,33,19,197,Ia,Wright,15,31,290
+19,33,19,109,Ia,Kossuth,13,25,217
+19,33,4,13,Az,Maricopa,11,22,160
+19,33,19,127,Ia,Marshall,11,21,336
+19,33,19,113,Ia,Linn,10,22,324
+19,33,57,5,FR,"APO / FPO Zip Code",10,23,202
+19,33,63,10,XX,"Same State",165,292,3429
+19,33,63,11,XX,"Region 1: Northeast",10,20,701
+19,33,63,12,XX,"Region 2: Midwest",177,395,5897
+19,33,63,13,XX,"Region 3: South",49,108,1230
+19,33,63,14,XX,"Region 4: West",73,164,1878
+19,33,63,50,Ia,"County Non-Migrant",16154,36330,518896
+19,35,0,1,Ia,"Cherokee (Total Migrant)",250,539,5629
+19,35,19,21,Ia,"Buena Vista",23,43,350
+19,35,19,193,Ia,Woodbury,22,51,418
+19,35,19,149,Ia,Plymouth,15,38,377
+19,35,19,141,Ia,O'Brien,14,27,276
+19,35,18,17,In,Cass,13,38,359
+19,35,19,93,Ia,Ida,11,19,165
+19,35,63,20,XX,"Same State",57,127,1421
+19,35,63,21,XX,"Same Region, Diff. State",43,98,1301
+19,35,63,22,XX,"Different Region",52,98,962
+19,35,63,50,Ia,"County Non-Migrant",4927,11691,142296
+19,37,0,1,Ia,"Chickasaw (Total Migrant)",235,481,5032
+19,37,19,67,Ia,Floyd,37,72,705
+19,37,19,17,Ia,Bremer,28,65,766
+19,37,19,13,Ia,"Black Hawk",23,54,629
+19,37,19,89,Ia,Howard,12,18,157
+19,37,19,65,Ia,Fayette,11,23,187
+19,37,63,20,XX,"Same State",63,121,1297
+19,37,63,21,XX,"Same Region, Diff. State",28,68,650
+19,37,63,22,XX,"Different Region",33,60,641
+19,37,63,50,Ia,"County Non-Migrant",4763,11628,130576
+19,39,0,1,Ia,"Clarke (Total Migrant)",189,426,3858
+19,39,19,153,Ia,Polk,41,89,1014
+19,39,19,53,Ia,Decatur,19,42,336
+19,39,19,181,Ia,Warren,18,49,286
+19,39,63,20,XX,"Same State",67,146,1379
+19,39,63,21,XX,"Same Region, Diff. State",18,41,406
+19,39,63,22,XX,"Different Region",26,59,437
+19,39,63,50,Ia,"County Non-Migrant",2774,6501,67716
+19,41,0,1,Ia,"Clay (Total Migrant)",383,759,8559
+19,41,19,21,Ia,"Buena Vista",43,87,901
+19,41,19,59,Ia,Dickinson,41,77,912
+19,41,19,147,Ia,"Palo Alto",15,38,274
+19,41,19,141,Ia,O'Brien,13,22,286
+19,41,19,193,Ia,Woodbury,11,20,215
+19,41,19,63,Ia,Emmet,11,18,204
+19,41,19,153,Ia,Polk,10,16,199
+19,41,19,13,Ia,"Black Hawk",10,21,132
+19,41,63,20,XX,"Same State",92,182,2214
+19,41,63,21,XX,"Same Region, Diff. State",66,131,1668
+19,41,63,22,XX,"Different Region",71,147,1554
+19,41,63,50,Ia,"County Non-Migrant",6157,14560,194721
+19,43,0,1,Ia,"Clayton (Total Migrant)",337,705,6746
+19,43,19,55,Ia,Delaware,35,81,641
+19,43,19,61,Ia,Dubuque,31,56,533
+19,43,19,65,Ia,Fayette,30,57,580
+19,43,19,5,Ia,Allamakee,30,72,525
+19,43,19,113,Ia,Linn,26,50,486
+19,43,55,23,Wi,Crawford,19,28,301
+19,43,19,191,Ia,Winneshiek,10,26,104
+19,43,63,20,XX,"Same State",74,159,1576
+19,43,63,21,XX,"Same Region, Diff. State",48,109,927
+19,43,63,22,XX,"Different Region",34,67,1073
+19,43,63,50,Ia,"County Non-Migrant",6491,15604,154956
+19,45,0,1,Ia,"Clinton (Total Migrant)",771,1564,18650
+19,45,19,163,Ia,Scott,136,291,3378
+19,45,17,195,Il,Whiteside,81,152,1664
+19,45,19,97,Ia,Jackson,63,120,1413
+19,45,19,103,Ia,Johnson,19,29,545
+19,45,17,15,Il,Carroll,19,36,389
+19,45,17,161,Il,"Rock Island",19,48,532
+19,45,19,31,Ia,Cedar,17,34,309
+19,45,19,113,Ia,Linn,13,22,239
+19,45,17,31,Il,Cook,13,19,383
+19,45,19,13,Ia,"Black Hawk",12,21,241
+19,45,19,153,Ia,Polk,11,13,150
+19,45,63,10,XX,"Same State",63,143,1978
+19,45,63,11,XX,"Region 1: Northeast",21,35,511
+19,45,63,12,XX,"Region 2: Midwest",121,245,3096
+19,45,63,13,XX,"Region 3: South",105,236,2575
+19,45,63,14,XX,"Region 4: West",58,120,1247
+19,45,63,50,Ia,"County Non-Migrant",17791,41121,540886
+19,47,0,1,Ia,"Crawford (Total Migrant)",298,670,6322
+19,47,19,27,Ia,Carroll,26,51,564
+19,47,19,85,Ia,Harrison,21,35,520
+19,47,19,165,Ia,Shelby,19,57,324
+19,47,19,193,Ia,Woodbury,13,27,203
+19,47,31,55,Ne,Douglas,12,17,191
+19,47,19,155,Ia,Pottawattamie,10,23,162
+19,47,19,133,Ia,Monona,10,16,139
+19,47,63,20,XX,"Same State",71,166,1574
+19,47,63,21,XX,"Same Region, Diff. State",66,149,1427
+19,47,63,22,XX,"Different Region",50,129,1218
+19,47,63,50,Ia,"County Non-Migrant",5739,13693,152818
+19,49,0,1,Ia,"Dallas (Total Migrant)",1077,2408,36586
+19,49,19,153,Ia,Polk,481,1084,20614
+19,49,19,77,Ia,Guthrie,46,97,1107
+19,49,19,15,Ia,Boone,29,49,627
+19,49,19,73,Ia,Greene,25,58,466
+19,49,19,121,Ia,Madison,23,44,686
+19,49,6,37,Ca,"Los Angeles",21,63,252
+19,49,19,181,Ia,Warren,20,51,662
+19,49,19,169,Ia,Story,19,36,544
+19,49,31,55,Ne,Douglas,10,15,210
+19,49,19,1,Ia,Adair,10,17,220
+19,49,63,10,XX,"Same State",160,368,4208
+19,49,63,11,XX,"Region 1: Northeast",12,24,317
+19,49,63,12,XX,"Region 2: Midwest",99,211,3001
+19,49,63,13,XX,"Region 3: South",52,134,1818
+19,49,63,14,XX,"Region 4: West",70,157,1854
+19,49,63,50,Ia,"County Non-Migrant",10658,25696,401235
+19,51,0,1,Ia,"Davis (Total Migrant)",170,364,3667
+19,51,19,179,Ia,Wapello,57,122,1255
+19,51,19,177,Ia,"Van Buren",14,30,232
+19,51,63,20,XX,"Same State",43,86,940
+19,51,63,21,XX,"Same Region, Diff. State",29,74,539
+19,51,63,22,XX,"Different Region",27,52,701
+19,51,63,50,Ia,"County Non-Migrant",2612,6548,66235
+19,53,0,1,Ia,"Decatur (Total Migrant)",190,408,3515
+19,53,19,39,Ia,Clarke,29,56,475
+19,53,19,153,Ia,Polk,16,35,500
+19,53,57,1,FR,"Foreign / Overseas",15,15,69
+19,53,63,20,XX,"Same State",48,111,926
+19,53,63,21,XX,"Same Region, Diff. State",57,133,1001
+19,53,63,22,XX,"Different Region",25,58,544
+19,53,63,50,Ia,"County Non-Migrant",2356,5546,50341
+19,55,0,1,Ia,"Delaware (Total Migrant)",296,617,6455
+19,55,19,113,Ia,Linn,50,97,1230
+19,55,19,61,Ia,Dubuque,46,94,931
+19,55,19,43,Ia,Clayton,28,60,441
+19,55,19,105,Ia,Jones,15,30,332
+19,55,19,19,Ia,Buchanan,13,28,225
+19,55,19,13,Ia,"Black Hawk",10,22,340
+19,55,63,20,XX,"Same State",53,107,1206
+19,55,63,21,XX,"Same Region, Diff. State",32,61,791
+19,55,63,22,XX,"Different Region",49,118,959
+19,55,63,50,Ia,"County Non-Migrant",6096,15514,162530
+19,57,0,1,Ia,"Des Moines (Total Migrant)",758,1546,19928
+19,57,19,87,Ia,Henry,74,133,1702
+19,57,19,111,Ia,Lee,62,120,1359
+19,57,17,71,Il,Henderson,44,86,884
+19,57,19,115,Ia,Louisa,40,95,1070
+19,57,19,163,Ia,Scott,23,45,641
+19,57,19,103,Ia,Johnson,19,31,253
+19,57,55,73,Wi,Marathon,16,40,1184
+19,57,19,153,Ia,Polk,16,30,463
+19,57,17,67,Il,Hancock,14,25,357
+19,57,17,31,Il,Cook,10,26,306
+19,57,19,169,Ia,Story,10,22,176
+19,57,19,113,Ia,Linn,10,13,246
+19,57,63,10,XX,"Same State",85,181,1990
+19,57,63,11,XX,"Region 1: Northeast",27,52,1043
+19,57,63,12,XX,"Region 2: Midwest",157,342,4524
+19,57,63,13,XX,"Region 3: South",92,195,2143
+19,57,63,14,XX,"Region 4: West",59,110,1587
+19,57,63,50,Ia,"County Non-Migrant",15080,33992,501232
+19,59,0,1,Ia,"Dickinson (Total Migrant)",455,873,13611
+19,59,19,41,Ia,Clay,72,147,2153
+19,59,19,63,Ia,Emmet,43,77,1276
+19,59,19,141,Ia,O'Brien,18,27,430
+19,59,19,153,Ia,Polk,17,26,673
+19,59,19,193,Ia,Woodbury,13,25,334
+19,59,19,143,Ia,Osceola,11,20,259
+19,59,19,21,Ia,"Buena Vista",10,26,267
+19,59,19,147,Ia,"Palo Alto",10,22,253
+19,59,63,20,XX,"Same State",96,180,3179
+19,59,63,21,XX,"Same Region, Diff. State",95,180,3025
+19,59,63,22,XX,"Different Region",70,143,1762
+19,59,63,50,Ia,"County Non-Migrant",5740,12593,184843
+19,61,0,1,Ia,"Dubuque (Total Migrant)",1378,2698,36674
+19,61,17,85,Il,"Jo Daviess",105,189,2011
+19,61,19,97,Ia,Jackson,73,130,1352
+19,61,55,43,Wi,Grant,65,128,1418
+19,61,19,113,Ia,Linn,59,106,1118
+19,61,19,55,Ia,Delaware,47,96,995
+19,61,17,31,Il,Cook,43,79,1176
+19,61,19,153,Ia,Polk,33,51,851
+19,61,19,13,Ia,"Black Hawk",33,62,696
+19,61,19,43,Ia,Clayton,32,58,576
+19,61,19,163,Ia,Scott,31,67,998
+19,61,19,103,Ia,Johnson,29,41,598
+19,61,19,45,Ia,Clinton,22,45,663
+19,61,57,1,FR,"Foreign / Overseas",21,23,213
+19,61,17,161,Il,"Rock Island",18,33,481
+19,61,55,25,Wi,Dane,17,26,639
+19,61,17,43,Il,"Du Page",17,29,580
+19,61,19,105,Ia,Jones,16,34,327
+19,61,4,13,Az,Maricopa,16,40,552
+19,61,57,5,FR,"APO / FPO Zip Code",14,34,274
+19,61,55,79,Wi,Milwaukee,13,27,396
+19,61,6,73,Ca,"San Diego",12,20,257
+19,61,17,201,Il,Winnebago,12,24,195
+19,61,27,53,Mn,Hennepin,11,18,237
+19,61,19,57,Ia,"Des Moines",10,19,240
+19,61,63,10,XX,"Same State",132,249,3341
+19,61,63,11,XX,"Region 1: Northeast",44,104,2596
+19,61,63,12,XX,"Region 2: Midwest",251,556,7732
+19,61,63,13,XX,"Region 3: South",108,221,3647
+19,61,63,14,XX,"Region 4: West",94,189,2515
+19,61,63,50,Ia,"County Non-Migrant",31472,74188,1047974
+19,63,0,1,Ia,"Emmet (Total Migrant)",242,518,4141
+19,63,19,59,Ia,Dickinson,21,52,393
+19,63,48,61,Tx,Cameron,11,30,119
+19,63,19,147,Ia,"Palo Alto",11,20,171
+19,63,63,20,XX,"Same State",98,192,1835
+19,63,63,21,XX,"Same Region, Diff. State",50,103,762
+19,63,63,22,XX,"Different Region",51,121,861
+19,63,63,50,Ia,"County Non-Migrant",3834,9184,111529
+19,65,0,1,Ia,"Fayette (Total Migrant)",398,874,7812
+19,65,19,19,Ia,Buchanan,53,128,1113
+19,65,19,17,Ia,Bremer,33,65,760
+19,65,19,43,Ia,Clayton,28,76,580
+19,65,19,13,Ia,"Black Hawk",27,57,536
+19,65,19,191,Ia,Winneshiek,24,61,502
+19,65,19,113,Ia,Linn,21,38,458
+19,65,19,5,Ia,Allamakee,12,31,171
+19,65,19,37,Ia,Chickasaw,11,18,134
+19,65,63,10,XX,"Same State",72,148,1419
+19,65,63,11,XX,"Region 1: Northeast",12,24,217
+19,65,63,12,XX,"Region 2: Midwest",51,122,969
+19,65,63,13,XX,"Region 3: South",26,55,428
+19,65,63,14,XX,"Region 4: West",28,51,525
+19,65,63,50,Ia,"County Non-Migrant",7239,17364,187658
+19,67,0,1,Ia,"Floyd (Total Migrant)",327,700,7380
+19,67,19,33,Ia,"Cerro Gordo",60,119,1414
+19,67,19,37,Ia,Chickasaw,30,53,421
+19,67,19,131,Ia,Mitchell,21,45,451
+19,67,19,153,Ia,Polk,12,25,303
+19,67,19,13,Ia,"Black Hawk",12,20,205
+19,67,63,20,XX,"Same State",88,206,1821
+19,67,63,21,XX,"Same Region, Diff. State",50,117,1784
+19,67,63,22,XX,"Different Region",54,115,981
+19,67,63,50,Ia,"County Non-Migrant",5878,13821,173312
+19,69,0,1,Ia,"Franklin (Total Migrant)",194,389,3965
+19,69,19,33,Ia,"Cerro Gordo",35,68,722
+19,69,19,83,Ia,Hardin,16,33,226
+19,69,19,23,Ia,Butler,14,29,292
+19,69,19,197,Ia,Wright,12,23,293
+19,69,63,20,XX,"Same State",59,128,1297
+19,69,63,21,XX,"Same Region, Diff. State",26,42,570
+19,69,63,22,XX,"Different Region",32,66,565
+19,69,63,50,Ia,"County Non-Migrant",3721,8890,112425
+19,71,0,1,Ia,"Fremont (Total Migrant)",212,510,4394
+19,71,19,145,Ia,Page,31,55,495
+19,71,19,129,Ia,Mills,25,60,549
+19,71,31,55,Ne,Douglas,18,58,466
+19,71,31,131,Ne,Otoe,17,49,278
+19,71,19,155,Ia,Pottawattamie,15,31,340
+19,71,29,5,Mo,Atchison,10,24,186
+19,71,63,20,XX,"Same State",26,62,584
+19,71,63,21,XX,"Same Region, Diff. State",41,100,918
+19,71,63,22,XX,"Different Region",29,71,578
+19,71,63,50,Ia,"County Non-Migrant",2661,6344,75495
+19,73,0,1,Ia,"Greene (Total Migrant)",223,461,4813
+19,73,19,49,Ia,Dallas,29,60,554
+19,73,19,15,Ia,Boone,15,25,327
+19,73,19,153,Ia,Polk,14,26,297
+19,73,19,27,Ia,Carroll,13,30,282
+19,73,19,77,Ia,Guthrie,13,26,312
+19,73,19,187,Ia,Webster,12,23,269
+19,73,63,20,XX,"Same State",69,143,1670
+19,73,63,21,XX,"Same Region, Diff. State",24,49,483
+19,73,63,22,XX,"Different Region",34,79,619
+19,73,63,50,Ia,"County Non-Migrant",3581,8319,104482
+19,75,0,1,Ia,"Grundy (Total Migrant)",294,645,7015
+19,75,19,13,Ia,"Black Hawk",71,161,1781
+19,75,19,127,Ia,Marshall,26,52,570
+19,75,19,83,Ia,Hardin,20,39,391
+19,75,19,171,Ia,Tama,17,32,391
+19,75,19,23,Ia,Butler,15,36,260
+19,75,63,20,XX,"Same State",77,168,1911
+19,75,63,21,XX,"Same Region, Diff. State",29,63,693
+19,75,63,22,XX,"Different Region",39,94,1018
+19,75,63,50,Ia,"County Non-Migrant",4172,10073,137031
+19,77,0,1,Ia,"Guthrie (Total Migrant)",288,635,9210
+19,77,19,153,Ia,Polk,69,142,2687
+19,77,19,49,Ia,Dallas,56,114,1184
+19,77,19,1,Ia,Adair,19,39,310
+19,77,19,73,Ia,Greene,12,32,264
+19,77,19,27,Ia,Carroll,11,22,168
+19,77,63,20,XX,"Same State",67,165,1896
+19,77,63,21,XX,"Same Region, Diff. State",22,50,552
+19,77,63,22,XX,"Different Region",32,71,2149
+19,77,63,50,Ia,"County Non-Migrant",3823,8839,106764
+19,79,0,1,Ia,"Hamilton (Total Migrant)",356,728,8308
+19,79,19,169,Ia,Story,55,120,1515
+19,79,19,187,Ia,Webster,35,73,729
+19,79,19,15,Ia,Boone,26,52,594
+19,79,19,197,Ia,Wright,23,57,429
+19,79,19,153,Ia,Polk,22,38,541
+19,79,19,83,Ia,Hardin,17,25,314
+19,79,19,13,Ia,"Black Hawk",11,17,184
+19,79,63,20,XX,"Same State",92,189,2461
+19,79,63,21,XX,"Same Region, Diff. State",31,60,587
+19,79,63,22,XX,"Different Region",44,97,954
+19,79,63,50,Ia,"County Non-Migrant",5718,13208,176163
+19,81,0,1,Ia,"Hancock (Total Migrant)",255,522,5272
+19,81,19,33,Ia,"Cerro Gordo",41,92,846
+19,81,19,189,Ia,Winnebago,25,43,439
+19,81,19,197,Ia,Wright,22,50,365
+19,81,19,109,Ia,Kossuth,11,31,258
+19,81,63,20,XX,"Same State",75,141,1557
+19,81,63,21,XX,"Same Region, Diff. State",37,81,851
+19,81,63,22,XX,"Different Region",44,84,956
+19,81,63,50,Ia,"County Non-Migrant",4174,10196,116952
+19,83,0,1,Ia,"Hardin (Total Migrant)",435,933,10116
+19,83,19,169,Ia,Story,33,73,823
+19,83,19,153,Ia,Polk,32,71,888
+19,83,19,69,Ia,Franklin,29,73,555
+19,83,19,127,Ia,Marshall,29,58,707
+19,83,19,75,Ia,Grundy,21,43,530
+19,83,19,13,Ia,"Black Hawk",21,37,247
+19,83,19,79,Ia,Hamilton,16,34,283
+19,83,19,23,Ia,Butler,13,24,293
+19,83,19,113,Ia,Linn,10,15,154
+19,83,63,10,XX,"Same State",118,260,2765
+19,83,63,11,XX,"Region 1: Northeast",10,25,157
+19,83,63,12,XX,"Region 2: Midwest",53,114,1708
+19,83,63,13,XX,"Region 3: South",26,49,471
+19,83,63,14,XX,"Region 4: West",24,57,535
+19,83,63,50,Ia,"County Non-Migrant",6736,15639,195571
+19,85,0,1,Ia,"Harrison (Total Migrant)",327,721,7452
+19,85,19,155,Ia,Pottawattamie,75,171,1721
+19,85,31,55,Ne,Douglas,57,119,1619
+19,85,19,165,Ia,Shelby,18,28,308
+19,85,19,47,Ia,Crawford,15,38,301
+19,85,31,177,Ne,Washington,11,22,201
+19,85,63,20,XX,"Same State",46,102,1009
+19,85,63,21,XX,"Same Region, Diff. State",46,103,839
+19,85,63,22,XX,"Different Region",59,138,1454
+19,85,63,50,Ia,"County Non-Migrant",5004,11996,147191
+19,87,0,1,Ia,"Henry (Total Migrant)",461,967,11139
+19,87,19,57,Ia,"Des Moines",71,137,1654
+19,87,19,111,Ia,Lee,29,68,655
+19,87,19,183,Ia,Washington,26,57,431
+19,87,19,115,Ia,Louisa,19,31,294
+19,87,19,101,Ia,Jefferson,18,44,376
+19,87,19,103,Ia,Johnson,14,26,275
+19,87,19,113,Ia,Linn,12,33,335
+19,87,19,177,Ia,"Van Buren",12,25,201
+19,87,63,20,XX,"Same State",79,139,2241
+19,87,63,21,XX,"Same Region, Diff. State",94,201,2505
+19,87,63,22,XX,"Different Region",87,206,2172
+19,87,63,50,Ia,"County Non-Migrant",6639,15589,203504
+19,89,0,1,Ia,"Howard (Total Migrant)",167,360,3144
+19,89,19,191,Ia,Winneshiek,27,57,465
+19,89,19,37,Ia,Chickasaw,12,25,216
+19,89,27,99,Mn,Mower,10,17,154
+19,89,63,20,XX,"Same State",50,112,1046
+19,89,63,21,XX,"Same Region, Diff. State",42,99,831
+19,89,63,22,XX,"Different Region",26,50,432
+19,89,63,50,Ia,"County Non-Migrant",3641,8723,87928
+19,91,0,1,Ia,"Humboldt (Total Migrant)",210,445,5725
+19,91,19,187,Ia,Webster,44,90,1119
+19,91,19,151,Ia,Pocahontas,13,24,283
+19,91,63,20,XX,"Same State",89,177,2005
+19,91,63,21,XX,"Same Region, Diff. State",28,70,864
+19,91,63,22,XX,"Different Region",36,84,1454
+19,91,63,50,Ia,"County Non-Migrant",3791,9019,119469
+19,93,0,1,Ia,"Ida (Total Migrant)",173,400,3748
+19,93,19,193,Ia,Woodbury,35,76,695
+19,93,19,21,Ia,"Buena Vista",11,21,194
+19,93,19,47,Ia,Crawford,11,30,197
+19,93,19,161,Ia,Sac,10,16,183
+19,93,63,20,XX,"Same State",55,128,1275
+19,93,63,21,XX,"Same Region, Diff. State",28,72,578
+19,93,63,22,XX,"Different Region",23,57,626
+19,93,63,50,Ia,"County Non-Migrant",2817,7073,83665
+19,95,0,1,Ia,"Iowa (Total Migrant)",343,718,8865
+19,95,19,103,Ia,Johnson,65,148,1723
+19,95,19,113,Ia,Linn,50,106,1771
+19,95,19,11,Ia,Benton,38,81,958
+19,95,19,107,Ia,Keokuk,25,51,508
+19,95,19,157,Ia,Poweshiek,25,40,461
+19,95,63,20,XX,"Same State",72,137,1590
+19,95,63,21,XX,"Same Region, Diff. State",27,63,1011
+19,95,63,22,XX,"Different Region",41,92,843
+19,95,63,50,Ia,"County Non-Migrant",5477,12822,193270
+19,97,0,1,Ia,"Jackson (Total Migrant)",388,802,7906
+19,97,19,45,Ia,Clinton,91,199,1836
+19,97,19,61,Ia,Dubuque,76,159,1526
+19,97,19,105,Ia,Jones,26,48,385
+19,97,19,163,Ia,Scott,17,34,336
+19,97,19,113,Ia,Linn,14,25,271
+19,97,63,20,XX,"Same State",50,111,1199
+19,97,63,21,XX,"Same Region, Diff. State",60,123,1328
+19,97,63,22,XX,"Different Region",54,103,1025
+19,97,63,50,Ia,"County Non-Migrant",7220,17296,187105
+19,99,0,1,Ia,"Jasper (Total Migrant)",677,1364,19864
+19,99,19,153,Ia,Polk,189,382,5816
+19,99,19,157,Ia,Poweshiek,44,83,1073
+19,99,19,125,Ia,Marion,36,61,727
+19,99,19,169,Ia,Story,28,41,520
+19,99,19,127,Ia,Marshall,26,63,432
+19,99,19,123,Ia,Mahaska,13,29,231
+19,99,19,103,Ia,Johnson,10,20,342
+19,99,63,10,XX,"Same State",138,297,3391
+19,99,63,11,XX,"Region 1: Northeast",16,24,1788
+19,99,63,12,XX,"Region 2: Midwest",89,190,3888
+19,99,63,13,XX,"Region 3: South",39,85,868
+19,99,63,14,XX,"Region 4: West",49,89,788
+19,99,63,50,Ia,"County Non-Migrant",12468,29067,416549
+19,101,0,1,Ia,"Jefferson (Total Migrant)",443,738,11391
+19,101,57,1,FR,"Foreign / Overseas",97,97,531
+19,101,19,179,Ia,Wapello,37,74,706
+19,101,19,177,Ia,"Van Buren",24,50,785
+19,101,19,107,Ia,Keokuk,18,25,503
+19,101,19,87,Ia,Henry,13,27,294
+19,101,63,10,XX,"Same State",60,118,1444
+19,101,63,11,XX,"Region 1: Northeast",30,40,596
+19,101,63,12,XX,"Region 2: Midwest",59,122,1383
+19,101,63,13,XX,"Region 3: South",49,103,4125
+19,101,63,14,XX,"Region 4: West",56,82,1024
+19,101,63,50,Ia,"County Non-Migrant",5346,11825,159005
+19,103,0,1,Ia,"Johnson (Total Migrant)",4096,6372,91354
+19,103,19,113,Ia,Linn,434,775,13538
+19,103,57,1,FR,"Foreign / Overseas",267,294,1873
+19,103,19,153,Ia,Polk,162,208,2908
+19,103,19,163,Ia,Scott,155,228,2862
+19,103,19,183,Ia,Washington,125,228,3080
+19,103,17,31,Il,Cook,116,168,2577
+19,103,19,31,Ia,Cedar,91,139,2181
+19,103,19,139,Ia,Muscatine,84,136,1652
+19,103,19,61,Ia,Dubuque,82,96,1087
+19,103,19,13,Ia,"Black Hawk",82,120,1386
+19,103,19,169,Ia,Story,56,70,701
+19,103,19,95,Ia,Iowa,50,91,898
+19,103,19,57,Ia,"Des Moines",39,52,596
+19,103,17,43,Il,"Du Page",34,50,759
+19,103,6,37,Ca,"Los Angeles",32,49,729
+19,103,27,53,Mn,Hennepin,32,48,933
+19,103,19,45,Ia,Clinton,30,41,446
+19,103,19,179,Ia,Wapello,29,38,567
+19,103,19,111,Ia,Lee,29,37,292
+19,103,19,33,Ia,"Cerro Gordo",26,37,380
+19,103,19,87,Ia,Henry,24,39,380
+19,103,6,73,Ca,"San Diego",24,37,466
+19,103,19,107,Ia,Keokuk,22,34,338
+19,103,17,161,Il,"Rock Island",21,28,335
+19,103,19,11,Ia,Benton,21,34,399
+19,103,19,127,Ia,Marshall,20,30,573
+19,103,19,105,Ia,Jones,20,28,393
+19,103,19,193,Ia,Woodbury,19,28,354
+19,103,4,13,Az,Maricopa,18,30,520
+19,103,6,1,Ca,Alameda,18,31,597
+19,103,19,101,Ia,Jefferson,18,27,359
+19,103,19,155,Ia,Pottawattamie,18,24,266
+19,103,31,55,Ne,Douglas,18,30,392
+19,103,53,33,Wa,King,18,28,548
+19,103,57,5,FR,"APO / FPO Zip Code",18,36,272
+19,103,19,115,Ia,Louisa,17,30,333
+19,103,19,157,Ia,Poweshiek,17,22,247
+19,103,55,25,Wi,Dane,16,27,523
+19,103,27,123,Mn,Ramsey,15,28,397
+19,103,29,95,Mo,Jackson,15,31,501
+19,103,19,97,Ia,Jackson,15,17,185
+19,103,19,19,Ia,Buchanan,15,23,226
+19,103,48,201,Tx,Harris,15,20,400
+19,103,6,75,Ca,"San Francisco",14,23,436
+19,103,29,19,Mo,Boone,14,26,337
+19,103,36,61,NY,"New York",14,20,312
+19,103,27,109,Mn,Olmsted,14,23,357
+19,103,29,189,Mo,"St. Louis",14,20,288
+19,103,19,181,Ia,Warren,14,24,328
+19,103,55,79,Wi,Milwaukee,14,20,264
+19,103,8,31,Co,Denver,13,18,235
+19,103,17,201,Il,Winnebago,13,16,281
+19,103,19,41,Ia,Clay,13,20,147
+19,103,19,99,Ia,Jasper,13,21,241
+19,103,19,123,Ia,Mahaska,13,15,245
+19,103,15,3,Hi,Honolulu,13,28,425
+19,103,17,197,Il,Will,13,15,231
+19,103,6,85,Ca,"Santa Clara",12,20,609
+19,103,19,187,Ia,Webster,12,21,263
+19,103,19,49,Ia,Dallas,12,17,240
+19,103,49,35,Ut,"Salt Lake",12,28,376
+19,103,19,17,Ia,Bremer,11,14,235
+19,103,9,9,Ct,"New Haven",11,17,348
+19,103,48,113,Tx,Dallas,11,16,316
+19,103,20,91,Ks,Johnson,11,14,214
+19,103,4,19,Az,Pima,11,25,312
+19,103,17,97,Il,Lake,11,12,147
+19,103,19,21,Ia,"Buena Vista",11,13,121
+19,103,36,47,NY,Kings,11,18,359
+19,103,19,65,Ia,Fayette,10,11,127
+19,103,19,171,Ia,Tama,10,11,134
+19,103,17,89,Il,Kane,10,11,150
+19,103,19,191,Ia,Winneshiek,10,15,260
+19,103,55,63,Wi,"La Crosse",10,15,249
+19,103,19,109,Ia,Kossuth,10,13,82
+19,103,63,10,XX,"Same State",212,323,3666
+19,103,63,11,XX,"Region 1: Northeast",161,263,4689
+19,103,63,12,XX,"Region 2: Midwest",447,737,11692
+19,103,63,13,XX,"Region 3: South",300,525,8658
+19,103,63,14,XX,"Region 4: West",214,377,5531
+19,103,63,50,Ia,"County Non-Migrant",31729,66263,1347167
+19,105,0,1,Ia,"Jones (Total Migrant)",395,824,9923
+19,105,19,113,Ia,Linn,135,274,3535
+19,105,19,97,Ia,Jackson,23,40,358
+19,105,19,61,Ia,Dubuque,18,40,329
+19,105,19,31,Ia,Cedar,17,28,310
+19,105,19,55,Ia,Delaware,15,29,225
+19,105,19,103,Ia,Johnson,10,13,118
+19,105,63,20,XX,"Same State",71,153,1535
+19,105,63,21,XX,"Same Region, Diff. State",54,129,2485
+19,105,63,22,XX,"Different Region",52,118,1028
+19,105,63,50,Ia,"County Non-Migrant",6450,15359,179015
+19,107,0,1,Ia,"Keokuk (Total Migrant)",227,499,4326
+19,107,19,101,Ia,Jefferson,26,60,537
+19,107,19,179,Ia,Wapello,23,52,345
+19,107,19,183,Ia,Washington,22,51,406
+19,107,19,123,Ia,Mahaska,17,45,275
+19,107,19,95,Ia,Iowa,16,32,291
+19,107,19,103,Ia,Johnson,12,22,218
+19,107,63,20,XX,"Same State",62,124,1149
+19,107,63,21,XX,"Same Region, Diff. State",22,50,598
+19,107,63,22,XX,"Different Region",27,63,507
+19,107,63,50,Ia,"County Non-Migrant",4089,9683,104941
+19,109,0,1,Ia,"Kossuth (Total Migrant)",253,518,4987
+19,109,19,63,Ia,Emmet,16,35,260
+19,109,19,147,Ia,"Palo Alto",14,34,348
+19,109,19,153,Ia,Polk,14,18,200
+19,109,19,81,Ia,Hancock,13,33,206
+19,109,19,91,Ia,Humboldt,10,15,92
+19,109,63,20,XX,"Same State",89,175,1610
+19,109,63,21,XX,"Same Region, Diff. State",50,108,1239
+19,109,63,22,XX,"Different Region",47,100,1032
+19,109,63,50,Ia,"County Non-Migrant",6294,15293,172945
+19,111,0,1,Ia,"Lee (Total Migrant)",653,1400,16292
+19,111,17,67,Il,Hancock,86,162,1785
+19,111,19,57,Ia,"Des Moines",59,114,1523
+19,111,29,45,Mo,Clark,50,118,1252
+19,111,19,87,Ia,Henry,25,53,598
+19,111,19,177,Ia,"Van Buren",20,40,384
+19,111,19,153,Ia,Polk,14,24,251
+19,111,19,103,Ia,Johnson,13,18,202
+19,111,17,1,Il,Adams,11,28,130
+19,111,19,113,Ia,Linn,10,19,151
+19,111,63,10,XX,"Same State",75,144,1958
+19,111,63,11,XX,"Region 1: Northeast",12,36,453
+19,111,63,12,XX,"Region 2: Midwest",138,320,3815
+19,111,63,13,XX,"Region 3: South",76,186,2359
+19,111,63,14,XX,"Region 4: West",52,118,1273
+19,111,63,15,XX,Foreign,12,20,158
+19,111,63,50,Ia,"County Non-Migrant",13031,30190,403741
+19,113,0,1,Ia,"Linn (Total Migrant)",3968,7515,116725
+19,113,19,103,Ia,Johnson,384,634,9868
+19,113,19,11,Ia,Benton,223,425,5457
+19,113,19,13,Ia,"Black Hawk",158,274,3782
+19,113,19,153,Ia,Polk,136,236,3832
+19,113,19,105,Ia,Jones,119,227,2466
+19,113,19,61,Ia,Dubuque,94,141,2120
+19,113,17,31,Il,Cook,73,136,2288
+19,113,19,163,Ia,Scott,73,144,2315
+19,113,19,55,Ia,Delaware,66,121,1101
+19,113,19,19,Ia,Buchanan,64,103,1593
+19,113,19,95,Ia,Iowa,58,99,1316
+19,113,4,13,Az,Maricopa,51,127,1971
+19,113,19,169,Ia,Story,49,81,1205
+19,113,19,31,Ia,Cedar,48,97,1329
+19,113,57,1,FR,"Foreign / Overseas",47,58,903
+19,113,19,45,Ia,Clinton,43,67,669
+19,113,27,53,Mn,Hennepin,42,62,1107
+19,113,19,43,Ia,Clayton,34,49,597
+19,113,19,171,Ia,Tama,30,46,572
+19,113,6,73,Ca,"San Diego",29,61,658
+19,113,57,5,FR,"APO / FPO Zip Code",26,49,569
+19,113,19,183,Ia,Washington,26,48,627
+19,113,6,37,Ca,"Los Angeles",26,57,1169
+19,113,31,55,Ne,Douglas,25,51,867
+19,113,19,57,Ia,"Des Moines",25,36,437
+19,113,19,65,Ia,Fayette,25,37,436
+19,113,17,43,Il,"Du Page",25,50,1549
+19,113,48,113,Tx,Dallas,25,48,1035
+19,113,19,97,Ia,Jackson,22,27,313
+19,113,29,189,Mo,"St. Louis",21,51,1270
+19,113,19,139,Ia,Muscatine,21,44,469
+19,113,17,161,Il,"Rock Island",20,37,524
+19,113,48,201,Tx,Harris,20,52,837
+19,113,19,33,Ia,"Cerro Gordo",19,38,563
+19,113,19,179,Ia,Wapello,19,42,323
+19,113,19,17,Ia,Bremer,19,25,347
+19,113,19,7,Ia,Appanoose,19,46,1002
+19,113,19,127,Ia,Marshall,18,36,490
+19,113,6,59,Ca,Orange,18,43,764
+19,113,8,41,Co,"El Paso",16,43,488
+19,113,19,87,Ia,Henry,16,21,285
+19,113,19,157,Ia,Poweshiek,16,26,320
+19,113,19,107,Ia,Keokuk,15,18,242
+19,113,19,5,Ia,Allamakee,14,18,221
+19,113,20,173,Ks,Sedgwick,14,41,713
+19,113,53,33,Wa,King,14,27,768
+19,113,8,59,Co,Jefferson,14,28,579
+19,113,19,191,Ia,Winneshiek,14,22,355
+19,113,19,193,Ia,Woodbury,13,32,576
+19,113,27,37,Mn,Dakota,13,40,739
+19,113,32,3,Nv,Clark,13,19,166
+19,113,19,111,Ia,Lee,13,14,160
+19,113,48,439,Tx,Tarrant,12,28,643
+19,113,31,109,Ne,Lancaster,12,23,341
+19,113,48,85,Tx,Collin,12,32,623
+19,113,29,95,Mo,Jackson,12,24,333
+19,113,25,17,Ma,Middlesex,11,30,669
+19,113,55,25,Wi,Dane,11,22,336
+19,113,19,101,Ia,Jefferson,11,19,175
+19,113,27,109,Mn,Olmsted,11,35,409
+19,113,27,123,Mn,Ramsey,11,14,269
+19,113,19,27,Ia,Carroll,11,20,332
+19,113,19,67,Ia,Floyd,10,14,208
+19,113,19,89,Ia,Howard,10,14,205
+19,113,6,67,Ca,Sacramento,10,20,506
+19,113,35,1,NM,Bernalillo,10,19,267
+19,113,26,125,Mi,Oakland,10,31,507
+19,113,63,10,XX,"Same State",181,314,3834
+19,113,63,11,XX,"Region 1: Northeast",106,246,5039
+19,113,63,12,XX,"Region 2: Midwest",543,1072,18125
+19,113,63,13,XX,"Region 3: South",372,832,14267
+19,113,63,14,XX,"Region 4: West",177,352,5285
+19,113,63,50,Ia,"County Non-Migrant",64334,143698,2451095
+19,115,0,1,Ia,"Louisa (Total Migrant)",291,727,5959
+19,115,19,139,Ia,Muscatine,95,243,2097
+19,115,19,57,Ia,"Des Moines",35,66,702
+19,115,19,183,Ia,Washington,22,48,462
+19,115,6,37,Ca,"Los Angeles",10,39,151
+19,115,63,20,XX,"Same State",44,101,964
+19,115,63,21,XX,"Same Region, Diff. State",31,86,644
+19,115,63,22,XX,"Different Region",54,144,939
+19,115,63,50,Ia,"County Non-Migrant",3845,9402,118165
+19,117,0,1,Ia,"Lucas (Total Migrant)",183,434,3815
+19,117,19,153,Ia,Polk,28,69,645
+19,117,19,185,Ia,Wayne,15,36,314
+19,117,19,39,Ia,Clarke,12,32,199
+19,117,63,20,XX,"Same State",70,184,1538
+19,117,63,21,XX,"Same Region, Diff. State",24,46,516
+19,117,63,22,XX,"Different Region",34,67,603
+19,117,63,50,Ia,"County Non-Migrant",3081,7100,84786
+19,119,0,1,Ia,"Lyon (Total Migrant)",165,389,3603
+19,119,46,99,SD,Minnehaha,33,69,687
+19,119,19,167,Ia,Sioux,27,65,631
+19,119,19,143,Ia,Osceola,12,28,282
+19,119,63,20,XX,"Same State",30,69,688
+19,119,63,21,XX,"Same Region, Diff. State",39,104,959
+19,119,63,22,XX,"Different Region",24,54,356
+19,119,63,50,Ia,"County Non-Migrant",3969,10368,111896
+19,121,0,1,Ia,"Madison (Total Migrant)",368,819,10216
+19,121,19,153,Ia,Polk,133,297,3823
+19,121,19,49,Ia,Dallas,39,82,1007
+19,121,19,181,Ia,Warren,30,66,768
+19,121,19,175,Ia,Union,12,29,293
+19,121,63,20,XX,"Same State",72,152,1417
+19,121,63,21,XX,"Same Region, Diff. State",42,109,1860
+19,121,63,22,XX,"Different Region",40,84,1048
+19,121,63,50,Ia,"County Non-Migrant",4254,10399,131514
+19,123,0,1,Ia,"Mahaska (Total Migrant)",475,987,10392
+19,123,19,179,Ia,Wapello,49,103,1052
+19,123,19,125,Ia,Marion,38,88,782
+19,123,19,107,Ia,Keokuk,33,81,741
+19,123,19,157,Ia,Poweshiek,25,48,788
+19,123,19,153,Ia,Polk,21,48,426
+19,123,19,135,Ia,Monroe,13,23,301
+19,123,19,113,Ia,Linn,12,20,177
+19,123,63,10,XX,"Same State",111,210,2279
+19,123,63,11,XX,"Region 1: Northeast",14,34,237
+19,123,63,12,XX,"Region 2: Midwest",83,167,2049
+19,123,63,13,XX,"Region 3: South",34,80,738
+19,123,63,14,XX,"Region 4: West",42,85,822
+19,123,63,50,Ia,"County Non-Migrant",6999,16714,208933
+19,125,0,1,Ia,"Marion (Total Migrant)",645,1404,17742
+19,125,19,153,Ia,Polk,102,198,2483
+19,125,19,123,Ia,Mahaska,55,102,1395
+19,125,19,99,Ia,Jasper,53,124,1321
+19,125,19,181,Ia,Warren,29,67,679
+19,125,19,135,Ia,Monroe,19,39,474
+19,125,19,117,Ia,Lucas,13,33,335
+19,125,19,169,Ia,Story,11,22,206
+19,125,63,10,XX,"Same State",143,305,3105
+19,125,63,11,XX,"Region 1: Northeast",19,31,685
+19,125,63,12,XX,"Region 2: Midwest",101,219,2815
+19,125,63,13,XX,"Region 3: South",49,132,1920
+19,125,63,14,XX,"Region 4: West",51,132,2324
+19,125,63,50,Ia,"County Non-Migrant",10026,24582,341903
+19,127,0,1,Ia,"Marshall (Total Migrant)",865,1873,21212
+19,127,19,153,Ia,Polk,78,157,1962
+19,127,19,171,Ia,Tama,63,119,1062
+19,127,19,169,Ia,Story,54,93,1322
+19,127,19,83,Ia,Hardin,33,63,658
+19,127,19,75,Ia,Grundy,29,57,714
+19,127,19,99,Ia,Jasper,25,58,515
+19,127,39,49,Oh,Franklin,25,53,1240
+19,127,19,13,Ia,"Black Hawk",23,41,502
+19,127,19,157,Ia,Poweshiek,23,40,479
+19,127,19,113,Ia,Linn,19,30,430
+19,127,6,37,Ca,"Los Angeles",14,44,254
+19,127,63,10,XX,"Same State",158,368,3578
+19,127,63,11,XX,"Region 1: Northeast",13,22,424
+19,127,63,12,XX,"Region 2: Midwest",134,306,4226
+19,127,63,13,XX,"Region 3: South",76,184,2111
+19,127,63,14,XX,"Region 4: West",87,220,1555
+19,127,63,15,XX,Foreign,11,18,180
+19,127,63,50,Ia,"County Non-Migrant",13447,30621,455747
+19,129,0,1,Ia,"Mills (Total Migrant)",356,778,9264
+19,129,31,55,Ne,Douglas,74,156,2478
+19,129,19,155,Ia,Pottawattamie,68,164,1737
+19,129,19,71,Ia,Fremont,27,47,502
+19,129,31,153,Ne,Sarpy,16,34,495
+19,129,19,137,Ia,Montgomery,15,30,290
+19,129,19,145,Ia,Page,11,28,163
+19,129,63,10,XX,"Same State",40,99,976
+19,129,63,11,XX,"Region 1: Northeast",13,20,257
+19,129,63,12,XX,"Region 2: Midwest",48,92,1214
+19,129,63,13,XX,"Region 3: South",21,50,527
+19,129,63,14,XX,"Region 4: West",23,58,625
+19,129,63,50,Ia,"County Non-Migrant",4354,10312,136781
+19,131,0,1,Ia,"Mitchell (Total Migrant)",165,383,4148
+19,131,19,67,Ia,Floyd,16,34,416
+19,131,19,33,Ia,"Cerro Gordo",15,32,343
+19,131,27,99,Mn,Mower,11,17,220
+19,131,19,195,Ia,Worth,10,35,198
+19,131,63,20,XX,"Same State",37,78,844
+19,131,63,21,XX,"Same Region, Diff. State",37,92,1233
+19,131,63,22,XX,"Different Region",39,95,894
+19,131,63,50,Ia,"County Non-Migrant",3842,9258,107437
+19,133,0,1,Ia,"Monona (Total Migrant)",214,452,4285
+19,133,19,193,Ia,Woodbury,53,100,973
+19,133,19,47,Ia,Crawford,13,31,298
+19,133,31,55,Ne,Douglas,10,19,302
+19,133,19,85,Ia,Harrison,10,16,158
+19,133,63,20,XX,"Same State",46,99,914
+19,133,63,21,XX,"Same Region, Diff. State",44,91,807
+19,133,63,22,XX,"Different Region",38,96,833
+19,133,63,50,Ia,"County Non-Migrant",3475,7831,91585
+19,135,0,1,Ia,"Monroe (Total Migrant)",171,356,3691
+19,135,19,179,Ia,Wapello,23,50,602
+19,135,19,7,Ia,Appanoose,18,35,254
+19,135,19,125,Ia,Marion,16,30,278
+19,135,19,153,Ia,Polk,15,28,386
+19,135,19,123,Ia,Mahaska,12,26,235
+19,135,63,20,XX,"Same State",45,94,989
+19,135,63,21,XX,"Same Region, Diff. State",22,50,557
+19,135,63,22,XX,"Different Region",20,43,390
+19,135,63,50,Ia,"County Non-Migrant",2690,6176,66780
+19,137,0,1,Ia,"Montgomery (Total Migrant)",259,549,6173
+19,137,19,145,Ia,Page,27,51,738
+19,137,31,55,Ne,Douglas,18,24,258
+19,137,19,155,Ia,Pottawattamie,17,32,344
+19,137,19,129,Ia,Mills,16,36,373
+19,137,19,153,Ia,Polk,10,20,289
+19,137,19,3,Ia,Adams,10,20,246
+19,137,63,20,XX,"Same State",58,121,1440
+19,137,63,21,XX,"Same Region, Diff. State",46,120,1204
+19,137,63,22,XX,"Different Region",57,125,1281
+19,137,63,50,Ia,"County Non-Migrant",4311,9818,123266
+19,139,0,1,Ia,"Muscatine (Total Migrant)",818,1744,20608
+19,139,19,115,Ia,Louisa,114,267,2607
+19,139,19,163,Ia,Scott,82,170,2348
+19,139,19,103,Ia,Johnson,61,117,1572
+19,139,19,31,Ia,Cedar,60,128,1327
+19,139,17,161,Il,"Rock Island",24,43,531
+19,139,6,37,Ca,"Los Angeles",23,61,344
+19,139,19,113,Ia,Linn,19,42,339
+19,139,17,31,Il,Cook,15,27,322
+19,139,19,153,Ia,Polk,15,38,595
+19,139,19,183,Ia,Washington,12,29,449
+19,139,19,45,Ia,Clinton,11,26,391
+19,139,17,131,Il,Mercer,11,29,270
+19,139,63,10,XX,"Same State",89,171,2126
+19,139,63,11,XX,"Region 1: Northeast",16,29,780
+19,139,63,12,XX,"Region 2: Midwest",108,239,3385
+19,139,63,13,XX,"Region 3: South",78,185,1702
+19,139,63,14,XX,"Region 4: West",70,122,1284
+19,139,63,15,XX,Foreign,10,21,236
+19,139,63,50,Ia,"County Non-Migrant",14465,34849,531294
+19,141,0,1,Ia,"O'Brien (Total Migrant)",341,701,7689
+19,141,19,167,Ia,Sioux,40,74,967
+19,141,19,41,Ia,Clay,33,71,570
+19,141,19,35,Ia,Cherokee,25,55,508
+19,141,19,143,Ia,Osceola,21,48,445
+19,141,19,59,Ia,Dickinson,15,25,316
+19,141,19,149,Ia,Plymouth,10,17,162
+19,141,63,20,XX,"Same State",98,187,2328
+19,141,63,21,XX,"Same Region, Diff. State",63,152,1703
+19,141,63,22,XX,"Different Region",36,72,690
+19,141,63,50,Ia,"County Non-Migrant",5393,13148,156936
+19,143,0,1,Ia,"Osceola (Total Migrant)",125,267,2169
+19,143,19,141,Ia,O'Brien,22,59,481
+19,143,27,105,Mn,Nobles,11,27,187
+19,143,19,119,Ia,Lyon,11,23,181
+19,143,63,20,XX,"Same State",35,63,600
+19,143,63,21,XX,"Same Region, Diff. State",28,52,497
+19,143,63,22,XX,"Different Region",18,43,223
+19,143,63,50,Ia,"County Non-Migrant",2531,6167,69344
+19,145,0,1,Ia,"Page (Total Migrant)",357,751,8155
+19,145,19,71,Ia,Fremont,36,74,760
+19,145,19,137,Ia,Montgomery,31,69,801
+19,145,19,173,Ia,Taylor,27,58,684
+19,145,19,155,Ia,Pottawattamie,17,37,509
+19,145,31,55,Ne,Douglas,17,36,372
+19,145,29,147,Mo,Nodaway,14,33,304
+19,145,19,129,Ia,Mills,10,16,221
+19,145,29,5,Mo,Atchison,10,22,166
+19,145,63,20,XX,"Same State",66,135,1321
+19,145,63,21,XX,"Same Region, Diff. State",72,162,1706
+19,145,63,22,XX,"Different Region",57,109,1311
+19,145,63,50,Ia,"County Non-Migrant",5572,12956,169608
+19,147,0,1,Ia,"Palo Alto (Total Migrant)",215,448,4206
+19,147,19,109,Ia,Kossuth,20,47,457
+19,147,19,63,Ia,Emmet,14,24,256
+19,147,63,20,XX,"Same State",111,218,2015
+19,147,63,21,XX,"Same Region, Diff. State",32,69,739
+19,147,63,22,XX,"Different Region",38,90,739
+19,147,63,50,Ia,"County Non-Migrant",3514,8412,93130
+19,149,0,1,Ia,"Plymouth (Total Migrant)",742,1381,13434
+19,149,57,1,FR,"Foreign / Overseas",205,210,39
+19,149,19,193,Ia,Woodbury,174,413,5428
+19,149,19,167,Ia,Sioux,44,84,894
+19,149,19,35,Ia,Cherokee,25,51,584
+19,149,31,43,Ne,Dakota,14,38,331
+19,149,19,141,Ia,O'Brien,13,28,288
+19,149,46,127,SD,Union,12,20,208
+19,149,63,20,XX,"Same State",86,168,1865
+19,149,63,21,XX,"Same Region, Diff. State",97,207,2267
+19,149,63,22,XX,"Different Region",72,162,1530
+19,149,63,50,Ia,"County Non-Migrant",8218,20438,270615
+19,151,0,1,Ia,"Pocahontas (Total Migrant)",193,418,4379
+19,151,19,21,Ia,"Buena Vista",26,50,604
+19,151,19,25,Ia,Calhoun,16,34,236
+19,151,19,147,Ia,"Palo Alto",14,29,376
+19,151,19,91,Ia,Humboldt,13,36,283
+19,151,63,20,XX,"Same State",73,154,1639
+19,151,63,21,XX,"Same Region, Diff. State",16,37,385
+19,151,63,22,XX,"Different Region",35,78,856
+19,151,63,50,Ia,"County Non-Migrant",3141,7524,89450
+19,153,0,1,Ia,"Polk (Total Migrant)",8590,15445,238774
+19,153,19,181,Ia,Warren,635,1109,15847
+19,153,19,169,Ia,Story,581,931,13723
+19,153,19,49,Ia,Dallas,401,738,10868
+19,153,19,13,Ia,"Black Hawk",215,326,4385
+19,153,19,99,Ia,Jasper,196,359,5411
+19,153,19,103,Ia,Johnson,193,305,4136
+19,153,19,113,Ia,Linn,159,283,4863
+19,153,17,31,Il,Cook,143,238,4620
+19,153,31,55,Ne,Douglas,136,276,5096
+19,153,19,163,Ia,Scott,121,197,3062
+19,153,19,121,Ia,Madison,113,202,3339
+19,153,27,53,Mn,Hennepin,112,212,4732
+19,153,19,125,Ia,Marion,107,177,2463
+19,153,19,15,Ia,Boone,106,170,2827
+19,153,19,127,Ia,Marshall,91,140,2403
+19,153,4,13,Az,Maricopa,82,155,2554
+19,153,19,187,Ia,Webster,82,135,1988
+19,153,57,1,FR,"Foreign / Overseas",81,111,921
+19,153,19,77,Ia,Guthrie,79,141,2064
+19,153,19,33,Ia,"Cerro Gordo",74,143,1915
+19,153,6,37,Ca,"Los Angeles",73,155,1979
+19,153,19,193,Ia,Woodbury,72,141,2138
+19,153,19,61,Ia,Dubuque,60,87,1283
+19,153,29,95,Mo,Jackson,59,102,1418
+19,153,19,157,Ia,Poweshiek,58,91,1101
+19,153,20,91,Ks,Johnson,56,99,2320
+19,153,6,73,Ca,"San Diego",54,117,1502
+19,153,17,161,Il,"Rock Island",51,100,1448
+19,153,48,113,Tx,Dallas,51,102,1963
+19,153,48,201,Tx,Harris,48,109,1629
+19,153,19,155,Ia,Pottawattamie,47,92,1319
+19,153,19,27,Ia,Carroll,46,64,1069
+19,153,31,109,Ne,Lancaster,45,88,1356
+19,153,19,123,Ia,Mahaska,44,76,943
+19,153,17,43,Il,"Du Page",43,107,2111
+19,153,6,59,Ca,Orange,42,82,1280
+19,153,19,39,Ia,Clarke,42,65,846
+19,153,57,5,FR,"APO / FPO Zip Code",41,87,1061
+19,153,19,179,Ia,Wapello,41,58,897
+19,153,19,83,Ia,Hardin,41,63,845
+19,153,19,117,Ia,Lucas,40,68,897
+19,153,19,79,Ia,Hamilton,39,60,792
+19,153,29,189,Mo,"St. Louis",37,75,1664
+19,153,19,175,Ia,Union,36,54,517
+19,153,19,21,Ia,"Buena Vista",35,59,733
+19,153,19,73,Ia,Greene,32,51,588
+19,153,27,123,Mn,Ramsey,31,51,653
+19,153,46,99,SD,Minnehaha,31,59,1079
+19,153,19,57,Ia,"Des Moines",29,40,629
+19,153,55,79,Wi,Milwaukee,28,58,1211
+19,153,19,17,Ia,Bremer,27,44,564
+19,153,53,33,Wa,King,26,37,746
+19,153,8,5,Co,Arapahoe,26,50,878
+19,153,48,439,Tx,Tarrant,26,54,939
+19,153,19,109,Ia,Kossuth,26,38,444
+19,153,19,197,Ia,Wright,25,40,478
+19,153,31,153,Ne,Sarpy,24,54,900
+19,153,19,81,Ia,Hancock,24,33,371
+19,153,27,109,Mn,Olmsted,24,42,736
+19,153,19,45,Ia,Clinton,23,34,533
+19,153,19,1,Ia,Adair,22,36,495
+19,153,19,29,Ia,Cass,22,35,434
+19,153,19,25,Ia,Calhoun,22,24,383
+19,153,29,47,Mo,Clay,21,45,709
+19,153,8,31,Co,Denver,21,30,518
+19,153,19,7,Ia,Appanoose,21,33,403
+19,153,19,75,Ia,Grundy,21,29,631
+19,153,6,1,Ca,Alameda,21,35,587
+19,153,19,69,Ia,Franklin,20,37,517
+19,153,19,111,Ia,Lee,20,26,338
+19,153,19,53,Ia,Decatur,20,36,447
+19,153,19,67,Ia,Floyd,20,33,286
+19,153,19,91,Ia,Humboldt,20,31,405
+19,153,48,29,Tx,Bexar,19,44,858
+19,153,19,171,Ia,Tama,19,36,329
+19,153,8,59,Co,Jefferson,19,35,713
+19,153,19,95,Ia,Iowa,19,28,419
+19,153,19,101,Ia,Jefferson,18,21,246
+19,153,27,37,Mn,Dakota,18,41,801
+19,153,19,185,Ia,Wayne,18,28,281
+19,153,19,41,Ia,Clay,18,29,403
+19,153,4,19,Az,Pima,18,33,342
+19,153,55,25,Wi,Dane,17,29,469
+19,153,18,97,In,Marion,17,35,692
+19,153,19,47,Ia,Crawford,17,23,284
+19,153,29,183,Mo,"St. Charles",17,38,709
+19,153,6,65,Ca,Riverside,16,33,336
+19,153,19,65,Ia,Fayette,16,23,385
+19,153,19,59,Ia,Dickinson,16,26,379
+19,153,17,143,Il,Peoria,16,31,508
+19,153,49,35,Ut,"Salt Lake",16,42,418
+19,153,19,145,Ia,Page,16,28,362
+19,153,19,135,Ia,Monroe,16,22,230
+19,153,38,17,ND,Cass,16,40,670
+19,153,20,173,Ks,Sedgwick,16,28,372
+19,153,20,177,Ks,Shawnee,16,37,478
+19,153,32,3,Nv,Clark,16,30,370
+19,153,19,147,Ia,"Palo Alto",15,18,259
+19,153,19,19,Ia,Buchanan,15,23,251
+19,153,6,71,Ca,"San Bernardino",15,34,433
+19,153,8,41,Co,"El Paso",15,33,346
+19,153,29,77,Mo,Greene,15,31,266
+19,153,51,59,Va,Fairfax,15,29,1196
+19,153,19,167,Ia,Sioux,14,25,360
+19,153,19,161,Ia,Sac,14,24,331
+19,153,19,189,Ia,Winnebago,14,21,250
+19,153,19,87,Ia,Henry,14,15,298
+19,153,8,69,Co,Larimer,14,23,230
+19,153,6,85,Ca,"Santa Clara",14,25,282
+19,153,19,151,Ia,Pocahontas,14,15,176
+19,153,15,3,Hi,Honolulu,14,23,423
+19,153,19,11,Ia,Benton,14,18,272
+19,153,42,3,Pa,Allegheny,14,26,687
+19,153,19,51,Ia,Davis,14,19,314
+19,153,17,97,Il,Lake,14,40,812
+19,153,19,37,Ia,Chickasaw,13,17,252
+19,153,48,141,Tx,"El Paso",13,27,271
+19,153,20,45,Ks,Douglas,13,21,415
+19,153,17,197,Il,Will,13,29,587
+19,153,27,3,Mn,Anoka,13,35,612
+19,153,19,131,Ia,Mitchell,12,19,249
+19,153,20,161,Ks,Riley,12,23,254
+19,153,40,109,Ok,Oklahoma,12,23,364
+19,153,19,139,Ia,Muscatine,12,13,231
+19,153,29,510,Mo,"St. Louis city",12,19,335
+19,153,19,191,Ia,Winneshiek,12,24,335
+19,153,27,13,Mn,"Blue Earth",12,18,262
+19,153,6,13,Ca,"Contra Costa",12,19,370
+19,153,20,209,Ks,Wyandotte,12,20,218
+19,153,31,43,Ne,Dakota,12,21,236
+19,153,19,107,Ia,Keokuk,12,17,348
+19,153,19,149,Ia,Plymouth,11,11,174
+19,153,48,453,Tx,Travis,11,18,253
+19,153,17,89,Il,Kane,11,20,422
+19,153,6,67,Ca,Sacramento,11,21,368
+19,153,8,1,Co,Adams,11,28,257
+19,153,29,147,Mo,Nodaway,11,15,185
+19,153,55,133,Wi,Waukesha,10,15,281
+19,153,53,53,Wa,Pierce,10,20,440
+19,153,29,19,Mo,Boone,10,23,231
+19,153,36,55,NY,Monroe,10,15,352
+19,153,12,57,Fl,Hillsborough,10,13,248
+19,153,36,61,NY,"New York",10,16,946
+19,153,13,67,Ga,Cobb,10,24,472
+19,153,19,137,Ia,Montgomery,10,14,163
+19,153,17,201,Il,Winnebago,10,24,505
+19,153,8,13,Co,Boulder,10,17,304
+19,153,12,31,Fl,Duval,10,20,261
+19,153,48,27,Tx,Bell,10,21,272
+19,153,19,183,Ia,Washington,10,14,207
+19,153,63,10,XX,"Same State",163,262,3454
+19,153,63,11,XX,"Region 1: Northeast",208,413,8619
+19,153,63,12,XX,"Region 2: Midwest",772,1526,24338
+19,153,63,13,XX,"Region 3: South",560,1159,17888
+19,153,63,14,XX,"Region 4: West",245,525,7325
+19,153,63,50,Ia,"County Non-Migrant",124342,270016,5002576
+19,155,0,1,Ia,"Pottawattamie (Total Migrant)",1621,3222,34492
+19,155,31,55,Ne,Douglas,497,923,10789
+19,155,31,153,Ne,Sarpy,105,235,2705
+19,155,19,85,Ia,Harrison,70,155,1351
+19,155,19,129,Ia,Mills,51,95,1115
+19,155,19,165,Ia,Shelby,48,86,843
+19,155,19,29,Ia,Cass,32,65,562
+19,155,19,153,Ia,Polk,29,48,691
+19,155,31,109,Ne,Lancaster,27,54,550
+19,155,19,193,Ia,Woodbury,18,29,414
+19,155,19,137,Ia,Montgomery,15,26,294
+19,155,4,13,Az,Maricopa,15,32,297
+19,155,19,47,Ia,Crawford,14,30,244
+19,155,57,5,FR,"APO / FPO Zip Code",13,24,216
+19,155,6,73,Ca,"San Diego",12,21,202
+19,155,19,71,Ia,Fremont,11,16,215
+19,155,8,41,Co,"El Paso",11,23,213
+19,155,19,169,Ia,Story,10,14,140
+19,155,19,103,Ia,Johnson,10,11,202
+19,155,63,10,XX,"Same State",144,284,3091
+19,155,63,11,XX,"Region 1: Northeast",20,41,431
+19,155,63,12,XX,"Region 2: Midwest",222,467,4541
+19,155,63,13,XX,"Region 3: South",119,261,2994
+19,155,63,14,XX,"Region 4: West",128,282,2392
+19,155,63,50,Ia,"County Non-Migrant",28841,65553,918243
+19,157,0,1,Ia,"Poweshiek (Total Migrant)",474,961,11153
+19,157,19,99,Ia,Jasper,38,78,987
+19,157,19,153,Ia,Polk,36,81,1174
+19,157,57,1,FR,"Foreign / Overseas",27,27,233
+19,157,19,127,Ia,Marshall,27,60,538
+19,157,19,171,Ia,Tama,24,49,410
+19,157,19,123,Ia,Mahaska,23,56,358
+19,157,19,95,Ia,Iowa,22,41,318
+19,157,19,113,Ia,Linn,19,34,480
+19,157,19,107,Ia,Keokuk,10,28,211
+19,157,63,10,XX,"Same State",106,230,2793
+19,157,63,11,XX,"Region 1: Northeast",12,22,339
+19,157,63,12,XX,"Region 2: Midwest",67,123,1445
+19,157,63,13,XX,"Region 3: South",24,42,438
+19,157,63,14,XX,"Region 4: West",39,90,1429
+19,157,63,50,Ia,"County Non-Migrant",6472,14783,214898
+19,159,0,1,Ia,"Ringgold (Total Migrant)",85,202,1601
+19,159,19,175,Ia,Union,15,31,264
+19,159,63,20,XX,"Same State",39,87,803
+19,159,63,21,XX,"Same Region, Diff. State",17,52,299
+19,159,63,22,XX,"Different Region",14,32,235
+19,159,63,50,Ia,"County Non-Migrant",1738,4045,36900
+19,161,0,1,Ia,"Sac (Total Migrant)",253,558,5230
+19,161,19,21,Ia,"Buena Vista",36,65,720
+19,161,19,27,Ia,Carroll,21,41,329
+19,161,19,47,Ia,Crawford,21,50,468
+19,161,19,93,Ia,Ida,13,35,251
+19,161,19,25,Ia,Calhoun,13,27,209
+19,161,63,20,XX,"Same State",81,198,2062
+19,161,63,21,XX,"Same Region, Diff. State",29,57,531
+19,161,63,22,XX,"Different Region",39,85,660
+19,161,63,50,Ia,"County Non-Migrant",4182,9965,113654
+19,163,0,1,Ia,"Scott (Total Migrant)",3388,6667,93323
+19,163,17,161,Il,"Rock Island",564,1074,13674
+19,163,19,45,Ia,Clinton,162,277,3770
+19,163,19,153,Ia,Polk,105,212,3020
+19,163,19,139,Ia,Muscatine,97,173,2920
+19,163,19,103,Ia,Johnson,94,147,2345
+19,163,17,31,Il,Cook,74,141,2233
+19,163,19,113,Ia,Linn,68,119,2010
+19,163,57,1,FR,"Foreign / Overseas",65,83,712
+19,163,19,61,Ia,Dubuque,46,76,1443
+19,163,19,13,Ia,"Black Hawk",42,77,1147
+19,163,17,73,Il,Henry,41,83,939
+19,163,57,5,FR,"APO / FPO Zip Code",40,80,1105
+19,163,19,31,Ia,Cedar,34,57,1037
+19,163,6,37,Ca,"Los Angeles",32,66,1018
+19,163,17,195,Il,Whiteside,30,57,847
+19,163,17,43,Il,"Du Page",30,68,1321
+19,163,6,73,Ca,"San Diego",29,64,517
+19,163,19,97,Ia,Jackson,27,43,784
+19,163,55,25,Wi,Dane,26,54,928
+19,163,17,131,Il,Mercer,26,37,398
+19,163,19,169,Ia,Story,25,47,568
+19,163,17,143,Il,Peoria,25,52,706
+19,163,19,57,Ia,"Des Moines",24,45,430
+19,163,4,13,Az,Maricopa,23,46,581
+19,163,31,55,Ne,Douglas,20,41,675
+19,163,29,189,Mo,"St. Louis",18,26,489
+19,163,17,201,Il,Winnebago,18,30,493
+19,163,55,79,Wi,Milwaukee,16,31,364
+19,163,17,95,Il,Knox,15,28,329
+19,163,48,113,Tx,Dallas,14,28,539
+19,163,27,53,Mn,Hennepin,14,39,897
+19,163,17,197,Il,Will,14,40,702
+19,163,17,97,Il,Lake,14,27,560
+19,163,6,71,Ca,"San Bernardino",13,38,286
+19,163,19,193,Ia,Woodbury,13,27,483
+19,163,19,187,Ia,Webster,13,29,594
+19,163,6,59,Ca,Orange,13,22,318
+19,163,19,127,Ia,Marshall,12,27,340
+19,163,48,201,Tx,Harris,12,21,565
+19,163,17,113,Il,McLean,11,20,363
+19,163,32,3,Nv,Clark,10,28,260
+19,163,42,55,Pa,Franklin,10,34,576
+19,163,48,27,Tx,Bell,10,25,203
+19,163,19,111,Ia,Lee,10,21,196
+19,163,42,3,Pa,Allegheny,10,23,438
+19,163,63,10,XX,"Same State",166,353,3678
+19,163,63,11,XX,"Region 1: Northeast",127,266,3908
+19,163,63,12,XX,"Region 2: Midwest",573,1181,17045
+19,163,63,13,XX,"Region 3: South",333,715,8505
+19,163,63,14,XX,"Region 4: West",180,369,6064
+19,163,63,50,Ia,"County Non-Migrant",53315,122249,2001563
+19,165,0,1,Ia,"Shelby (Total Migrant)",238,527,5062
+19,165,19,155,Ia,Pottawattamie,42,79,874
+19,165,19,47,Ia,Crawford,16,38,250
+19,165,31,55,Ne,Douglas,14,29,296
+19,165,19,85,Ia,Harrison,14,37,350
+19,165,19,29,Ia,Cass,12,24,138
+19,165,19,9,Ia,Audubon,10,21,174
+19,165,63,20,XX,"Same State",54,120,1243
+19,165,63,21,XX,"Same Region, Diff. State",39,99,935
+19,165,63,22,XX,"Different Region",37,80,802
+19,165,63,50,Ia,"County Non-Migrant",4632,11224,128987
+19,167,0,1,Ia,"Sioux (Total Migrant)",485,1075,10457
+19,167,19,119,Ia,Lyon,40,97,758
+19,167,19,149,Ia,Plymouth,37,86,705
+19,167,19,141,Ia,O'Brien,37,86,761
+19,167,46,99,SD,Minnehaha,21,45,383
+19,167,19,193,Ia,Woodbury,18,40,411
+19,167,19,143,Ia,Osceola,11,27,198
+19,167,17,31,Il,Cook,10,15,180
+19,167,63,10,XX,"Same State",79,150,1513
+19,167,63,11,XX,"Region 1: Northeast",13,26,231
+19,167,63,12,XX,"Region 2: Midwest",138,305,3181
+19,167,63,13,XX,"Region 3: South",28,61,597
+19,167,63,14,XX,"Region 4: West",53,137,1539
+19,167,63,50,Ia,"County Non-Migrant",9799,26614,321433
+19,169,0,1,Ia,"Story (Total Migrant)",2664,4340,53045
+19,169,57,1,FR,"Foreign / Overseas",338,354,2006
+19,169,19,153,Ia,Polk,316,555,7997
+19,169,19,15,Ia,Boone,116,193,2256
+19,169,19,103,Ia,Johnson,58,88,1199
+19,169,19,127,Ia,Marshall,55,108,1157
+19,169,19,79,Ia,Hamilton,51,83,1035
+19,169,19,113,Ia,Linn,50,62,723
+19,169,19,13,Ia,"Black Hawk",49,76,963
+19,169,17,31,Il,Cook,38,63,733
+19,169,19,187,Ia,Webster,36,58,569
+19,169,19,83,Ia,Hardin,29,50,746
+19,169,19,49,Ia,Dallas,28,51,582
+19,169,19,33,Ia,"Cerro Gordo",27,39,351
+19,169,19,163,Ia,Scott,26,36,331
+19,169,19,99,Ia,Jasper,21,39,341
+19,169,27,53,Mn,Hennepin,20,35,548
+19,169,19,181,Ia,Warren,19,33,289
+19,169,19,27,Ia,Carroll,19,35,342
+19,169,19,193,Ia,Woodbury,18,31,243
+19,169,19,61,Ia,Dubuque,18,24,250
+19,169,19,45,Ia,Clinton,18,26,215
+19,169,19,73,Ia,Greene,17,30,372
+19,169,4,13,Az,Maricopa,15,21,447
+19,169,55,25,Wi,Dane,14,27,403
+19,169,6,37,Ca,"Los Angeles",14,23,315
+19,169,19,175,Ia,Union,14,19,158
+19,169,19,155,Ia,Pottawattamie,12,13,137
+19,169,57,5,FR,"APO / FPO Zip Code",12,19,180
+19,169,19,171,Ia,Tama,11,14,162
+19,169,17,43,Il,"Du Page",11,15,187
+19,169,19,77,Ia,Guthrie,11,22,194
+19,169,19,109,Ia,Kossuth,11,21,271
+19,169,6,73,Ca,"San Diego",11,20,234
+19,169,19,11,Ia,Benton,11,13,140
+19,169,19,111,Ia,Lee,10,16,204
+19,169,19,47,Ia,Crawford,10,16,112
+19,169,19,29,Ia,Cass,10,19,167
+19,169,19,41,Ia,Clay,10,13,73
+19,169,19,57,Ia,"Des Moines",10,11,129
+19,169,19,189,Ia,Winnebago,10,12,89
+19,169,31,55,Ne,Douglas,10,13,147
+19,169,63,10,XX,"Same State",292,459,4830
+19,169,63,11,XX,"Region 1: Northeast",76,134,2250
+19,169,63,12,XX,"Region 2: Midwest",364,672,9176
+19,169,63,13,XX,"Region 3: South",180,341,4727
+19,169,63,14,XX,"Region 4: West",168,338,5065
+19,169,63,50,Ia,"County Non-Migrant",22201,49464,833422
+19,171,0,1,Ia,"Tama (Total Migrant)",433,1024,9840
+19,171,19,13,Ia,"Black Hawk",73,173,2123
+19,171,19,127,Ia,Marshall,63,129,1310
+19,171,19,11,Ia,Benton,28,62,465
+19,171,19,75,Ia,Grundy,20,45,421
+19,171,19,157,Ia,Poweshiek,19,31,410
+19,171,19,113,Ia,Linn,15,32,359
+19,171,19,153,Ia,Polk,10,18,234
+19,171,63,10,XX,"Same State",77,192,1674
+19,171,63,11,XX,"Region 1: Northeast",12,30,398
+19,171,63,12,XX,"Region 2: Midwest",54,127,1064
+19,171,63,13,XX,"Region 3: South",33,85,744
+19,171,63,14,XX,"Region 4: West",29,100,638
+19,171,63,50,Ia,"County Non-Migrant",6264,14666,180933
+19,173,0,1,Ia,"Taylor (Total Migrant)",141,328,2551
+19,173,19,145,Ia,Page,19,46,423
+19,173,63,20,XX,"Same State",55,126,1071
+19,173,63,21,XX,"Same Region, Diff. State",34,72,582
+19,173,63,22,XX,"Different Region",33,84,475
+19,173,63,50,Ia,"County Non-Migrant",2243,5317,50990
+19,175,0,1,Ia,"Union (Total Migrant)",276,575,5438
+19,175,19,153,Ia,Polk,24,48,377
+19,175,19,1,Ia,Adair,19,30,234
+19,175,19,121,Ia,Madison,18,32,172
+19,175,19,159,Ia,Ringgold,17,31,288
+19,175,19,39,Ia,Clarke,14,31,217
+19,175,19,173,Ia,Taylor,10,18,112
+19,175,63,20,XX,"Same State",87,192,1899
+19,175,63,21,XX,"Same Region, Diff. State",51,110,1096
+19,175,63,22,XX,"Different Region",36,83,1043
+19,175,63,50,Ia,"County Non-Migrant",4298,9879,115555
+19,177,0,1,Ia,"Van Buren (Total Migrant)",153,327,3188
+19,177,19,101,Ia,Jefferson,37,76,864
+19,177,19,111,Ia,Lee,15,28,363
+19,177,19,179,Ia,Wapello,12,16,187
+19,177,63,20,XX,"Same State",38,93,817
+19,177,63,21,XX,"Same Region, Diff. State",30,72,532
+19,177,63,22,XX,"Different Region",21,42,425
+19,177,63,50,Ia,"County Non-Migrant",2524,5937,58759
+19,179,0,1,Ia,"Wapello (Total Migrant)",639,1322,13803
+19,179,19,123,Ia,Mahaska,46,114,1064
+19,179,19,51,Ia,Davis,37,76,629
+19,179,19,135,Ia,Monroe,34,77,613
+19,179,19,153,Ia,Polk,32,63,701
+19,179,19,101,Ia,Jefferson,31,66,427
+19,179,19,107,Ia,Keokuk,27,62,634
+19,179,19,7,Ia,Appanoose,17,33,270
+19,179,19,177,Ia,"Van Buren",13,29,266
+19,179,19,163,Ia,Scott,13,23,176
+19,179,19,113,Ia,Linn,12,24,309
+19,179,63,10,XX,"Same State",137,245,2723
+19,179,63,11,XX,"Region 1: Northeast",13,20,224
+19,179,63,12,XX,"Region 2: Midwest",122,267,3190
+19,179,63,13,XX,"Region 3: South",49,106,1586
+19,179,63,14,XX,"Region 4: West",56,117,991
+19,179,63,50,Ia,"County Non-Migrant",11771,26730,340168
+19,181,0,1,Ia,"Warren (Total Migrant)",1191,2479,33030
+19,181,19,153,Ia,Polk,625,1294,19068
+19,181,19,125,Ia,Marion,35,87,956
+19,181,19,121,Ia,Madison,32,67,759
+19,181,19,169,Ia,Story,27,42,481
+19,181,19,49,Ia,Dallas,26,48,540
+19,181,19,39,Ia,Clarke,21,36,407
+19,181,19,113,Ia,Linn,17,40,597
+19,181,19,117,Ia,Lucas,15,31,576
+19,181,19,127,Ia,Marshall,10,19,186
+19,181,63,10,XX,"Same State",155,295,3299
+19,181,63,11,XX,"Region 1: Northeast",13,35,261
+19,181,63,12,XX,"Region 2: Midwest",98,223,2966
+19,181,63,13,XX,"Region 3: South",50,103,1422
+19,181,63,14,XX,"Region 4: West",67,159,1512
+19,181,63,50,Ia,"County Non-Migrant",12311,30516,445959
+19,183,0,1,Ia,"Washington (Total Migrant)",514,1061,10964
+19,183,19,103,Ia,Johnson,129,234,2895
+19,183,19,115,Ia,Louisa,25,63,700
+19,183,19,87,Ia,Henry,24,40,369
+19,183,19,107,Ia,Keokuk,20,52,335
+19,183,19,139,Ia,Muscatine,17,45,343
+19,183,19,113,Ia,Linn,16,27,172
+19,183,19,101,Ia,Jefferson,15,23,200
+19,183,63,10,XX,"Same State",113,217,2386
+19,183,63,11,XX,"Region 1: Northeast",12,28,252
+19,183,63,12,XX,"Region 2: Midwest",60,131,1375
+19,183,63,13,XX,"Region 3: South",45,99,1000
+19,183,63,14,XX,"Region 4: West",38,102,937
+19,183,63,50,Ia,"County Non-Migrant",7250,17299,218241
+19,185,0,1,Ia,"Wayne (Total Migrant)",129,288,2456
+19,185,19,7,Ia,Appanoose,17,35,293
+19,185,19,117,Ia,Lucas,12,28,263
+19,185,19,153,Ia,Polk,11,21,136
+19,185,19,53,Ia,Decatur,10,18,179
+19,185,63,20,XX,"Same State",35,83,727
+19,185,63,21,XX,"Same Region, Diff. State",18,39,345
+19,185,63,22,XX,"Different Region",26,64,513
+19,185,63,50,Ia,"County Non-Migrant",2284,5296,51602
+19,187,0,1,Ia,"Webster (Total Migrant)",673,1374,16614
+19,187,19,153,Ia,Polk,49,78,944
+19,187,19,79,Ia,Hamilton,43,81,766
+19,187,19,91,Ia,Humboldt,39,65,777
+19,187,19,25,Ia,Calhoun,31,54,1072
+19,187,19,169,Ia,Story,19,35,387
+19,187,19,15,Ia,Boone,18,40,456
+19,187,19,13,Ia,"Black Hawk",17,31,367
+19,187,19,197,Ia,Wright,15,31,192
+19,187,19,151,Ia,Pocahontas,15,31,207
+19,187,19,109,Ia,Kossuth,14,21,288
+19,187,19,193,Ia,Woodbury,13,24,460
+19,187,19,103,Ia,Johnson,11,19,217
+19,187,19,73,Ia,Greene,10,16,254
+19,187,63,10,XX,"Same State",116,248,2487
+19,187,63,11,XX,"Region 1: Northeast",22,50,1119
+19,187,63,12,XX,"Region 2: Midwest",132,314,3750
+19,187,63,13,XX,"Region 3: South",47,109,1447
+19,187,63,14,XX,"Region 4: West",62,127,1424
+19,187,63,50,Ia,"County Non-Migrant",13577,31078,433190
+19,189,0,1,Ia,"Winnebago (Total Migrant)",299,570,5975
+19,189,19,81,Ia,Hancock,37,73,689
+19,189,19,33,Ia,"Cerro Gordo",32,60,606
+19,189,19,195,Ia,Worth,27,66,703
+19,189,27,47,Mn,Freeborn,14,25,180
+19,189,57,1,FR,"Foreign / Overseas",13,13,31
+19,189,27,43,Mn,Faribault,12,28,240
+19,189,19,153,Ia,Polk,10,21,301
+19,189,63,10,XX,"Same State",68,123,1231
+19,189,63,12,XX,"Region 2: Midwest",48,86,1104
+19,189,63,13,XX,"Region 3: South",18,41,361
+19,189,63,14,XX,"Region 4: West",20,34,529
+19,189,63,50,Ia,"County Non-Migrant",4292,10042,123966
+19,191,0,1,Ia,"Winneshiek (Total Migrant)",371,663,7816
+19,191,19,5,Ia,Allamakee,34,66,703
+19,191,57,1,FR,"Foreign / Overseas",34,34,35
+19,191,19,65,Ia,Fayette,30,62,694
+19,191,19,89,Ia,Howard,19,29,247
+19,191,19,13,Ia,"Black Hawk",11,25,264
+19,191,27,53,Mn,Hennepin,10,18,189
+19,191,63,10,XX,"Same State",77,126,2067
+19,191,63,11,XX,"Region 1: Northeast",10,19,193
+19,191,63,12,XX,"Region 2: Midwest",95,190,2472
+19,191,63,13,XX,"Region 3: South",26,46,462
+19,191,63,14,XX,"Region 4: West",25,48,490
+19,191,63,50,Ia,"County Non-Migrant",6612,15951,190272
+19,193,0,1,Ia,"Woodbury (Total Migrant)",2404,4936,55386
+19,193,31,43,Ne,Dakota,294,642,5944
+19,193,19,149,Ia,Plymouth,131,244,3514
+19,193,46,127,SD,Union,102,212,2482
+19,193,31,55,Ne,Douglas,55,101,1828
+19,193,6,37,Ca,"Los Angeles",54,146,706
+19,193,19,153,Ia,Polk,49,103,1639
+19,193,19,167,Ia,Sioux,49,76,831
+19,193,19,133,Ia,Monona,49,83,840
+19,193,46,99,SD,Minnehaha,42,68,962
+19,193,19,35,Ia,Cherokee,39,65,722
+19,193,19,47,Ia,Crawford,30,57,636
+19,193,19,103,Ia,Johnson,30,55,747
+19,193,57,1,FR,"Foreign / Overseas",28,32,176
+19,193,19,93,Ia,Ida,26,50,449
+19,193,31,51,Ne,Dixon,25,37,465
+19,193,46,27,SD,Clay,25,35,406
+19,193,6,73,Ca,"San Diego",24,61,480
+19,193,19,155,Ia,Pottawattamie,24,47,660
+19,193,31,109,Ne,Lancaster,23,48,501
+19,193,4,13,Az,Maricopa,22,45,638
+19,193,19,21,Ia,"Buena Vista",21,36,410
+19,193,27,53,Mn,Hennepin,20,40,693
+19,193,19,169,Ia,Story,18,26,267
+19,193,31,173,Ne,Thurston,17,39,403
+19,193,6,111,Ca,Ventura,17,72,428
+19,193,17,31,Il,Cook,16,36,1099
+19,193,19,187,Ia,Webster,16,26,261
+19,193,48,113,Tx,Dallas,15,29,232
+19,193,57,5,FR,"APO / FPO Zip Code",15,29,256
+19,193,27,105,Mn,Nobles,14,31,247
+19,193,6,59,Ca,Orange,14,21,161
+19,193,31,153,Ne,Sarpy,13,29,285
+19,193,6,71,Ca,"San Bernardino",13,31,190
+19,193,19,161,Ia,Sac,12,16,175
+19,193,27,123,Mn,Ramsey,12,13,169
+19,193,19,59,Ia,Dickinson,11,19,278
+19,193,19,41,Ia,Clay,11,16,218
+19,193,19,113,Ia,Linn,10,25,474
+19,193,31,179,Ne,Wayne,10,19,162
+19,193,63,10,XX,"Same State",178,347,3815
+19,193,63,11,XX,"Region 1: Northeast",53,113,1805
+19,193,63,12,XX,"Region 2: Midwest",392,858,10471
+19,193,63,13,XX,"Region 3: South",186,421,4149
+19,193,63,14,XX,"Region 4: West",199,437,4112
+19,193,63,50,Ia,"County Non-Migrant",33622,79018,1151333
+19,195,0,1,Ia,"Worth (Total Migrant)",179,370,3840
+19,195,19,33,Ia,"Cerro Gordo",47,101,918
+19,195,19,189,Ia,Winnebago,18,34,318
+19,195,19,131,Ia,Mitchell,16,28,328
+19,195,27,47,Mn,Freeborn,12,31,279
+19,195,63,20,XX,"Same State",37,70,702
+19,195,63,21,XX,"Same Region, Diff. State",27,54,809
+19,195,63,22,XX,"Different Region",22,52,486
+19,195,63,50,Ia,"County Non-Migrant",2788,6414,74620
+19,197,0,1,Ia,"Wright (Total Migrant)",323,681,6834
+19,197,19,79,Ia,Hamilton,34,66,924
+19,197,19,187,Ia,Webster,30,68,490
+19,197,19,91,Ia,Humboldt,19,38,401
+19,197,19,81,Ia,Hancock,19,37,339
+19,197,19,69,Ia,Franklin,14,29,303
+19,197,19,153,Ia,Polk,14,20,206
+19,197,19,33,Ia,"Cerro Gordo",11,24,157
+19,197,63,10,XX,"Same State",84,181,1815
+19,197,63,11,XX,"Region 1: Northeast",10,23,223
+19,197,63,12,XX,"Region 2: Midwest",50,105,1106
+19,197,63,13,XX,"Region 3: South",21,57,526
+19,197,63,14,XX,"Region 4: West",17,33,344
+19,197,63,50,Ia,"County Non-Migrant",5025,11825,151691

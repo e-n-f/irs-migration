@@ -1,0 +1,759 @@
+"1993 - 1994 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+WestVirginia,,,,,,of,of,total
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,money
+"FIPS Code",,,,,"and county by county detail",,,income
+54,1,0,1,WV,"Barbour (Total Migrant)",247,494,4244
+54,1,54,83,WV,Randolph,36,66,598
+54,1,54,33,WV,Harrison,19,34,475
+54,1,54,97,WV,Upshur,18,44,235
+54,1,54,61,WV,Monongalia,11,14,169
+54,1,54,91,WV,Taylor,11,24,100
+54,1,63,10,XX,"Same State",44,107,880
+54,1,63,11,XX,"Region 1: Northeast",17,29,333
+54,1,63,12,XX,"Region 2: Midwest",16,30,242
+54,1,63,13,XX,"Region 3: South",63,123,1007
+54,1,63,14,XX,"Region 4: West",12,23,205
+54,1,63,50,WV,"County Non-Migrant",4327,10289,100594
+54,3,0,1,WV,"Berkeley (Total Migrant)",1207,2481,32075
+54,3,54,37,WV,Jefferson,203,408,5044
+54,3,24,43,Md,Washington,115,224,2834
+54,3,51,69,Va,Frederick,54,117,1170
+54,3,54,65,WV,Morgan,49,118,1121
+54,3,51,840,Va,"Winchester city",35,62,691
+54,3,24,21,Md,Frederick,28,52,692
+54,3,42,55,Pa,Franklin,23,47,719
+54,3,37,119,NC,Mecklenburg,20,42,912
+54,3,51,107,Va,Loudoun,18,35,430
+54,3,51,59,Va,Fairfax,18,28,517
+54,3,24,31,Md,Montgomery,16,35,433
+54,3,57,5,FR,"APO / FPO Zip Code",16,35,371
+54,3,54,27,WV,Hampshire,16,30,373
+54,3,24,1,Md,Allegany,12,23,216
+54,3,54,39,WV,Kanawha,12,24,347
+54,3,54,57,WV,Mineral,11,26,460
+54,3,63,10,XX,"Same State",61,107,1629
+54,3,63,11,XX,"Region 1: Northeast",85,165,2567
+54,3,63,12,XX,"Region 2: Midwest",52,131,1483
+54,3,63,13,XX,"Region 3: South",318,659,8690
+54,3,63,14,XX,"Region 4: West",45,113,1376
+54,3,63,50,WV,"County Non-Migrant",21971,49428,659214
+54,5,0,1,WV,"Boone (Total Migrant)",424,858,8801
+54,5,54,39,WV,Kanawha,114,223,2473
+54,5,54,43,WV,Lincoln,21,42,362
+54,5,54,81,WV,Raleigh,21,45,500
+54,5,54,45,WV,Logan,18,40,387
+54,5,1,117,Al,Shelby,13,29,476
+54,5,54,79,WV,Putnam,12,21,295
+54,5,63,10,XX,"Same State",62,130,1568
+54,5,63,11,XX,"Region 1: Northeast",11,23,171
+54,5,63,12,XX,"Region 2: Midwest",25,54,516
+54,5,63,13,XX,"Region 3: South",116,234,1862
+54,5,63,14,XX,"Region 4: West",11,17,191
+54,5,63,50,WV,"County Non-Migrant",7001,17297,189092
+54,7,0,1,WV,"Braxton (Total Migrant)",201,443,3327
+54,7,54,21,WV,Gilmer,14,36,251
+54,7,54,39,WV,Kanawha,13,25,108
+54,7,54,41,WV,Lewis,10,18,114
+54,7,54,97,WV,Upshur,10,20,170
+54,7,63,20,XX,"Same State",69,165,1396
+54,7,63,21,XX,"Same Region, Diff. State",53,118,859
+54,7,63,22,XX,"Different Region",32,61,429
+54,7,63,50,WV,"County Non-Migrant",3763,8993,85831
+54,9,0,1,WV,"Brooke (Total Migrant)",413,757,8099
+54,9,54,29,WV,Hancock,73,140,1407
+54,9,39,81,Oh,Jefferson,36,70,751
+54,9,54,69,WV,Ohio,33,57,538
+54,9,42,3,Pa,Allegheny,18,28,468
+54,9,42,125,Pa,Washington,11,27,321
+54,9,54,61,WV,Monongalia,11,17,141
+54,9,63,10,XX,"Same State",34,62,595
+54,9,63,11,XX,"Region 1: Northeast",26,44,736
+54,9,63,12,XX,"Region 2: Midwest",61,107,1113
+54,9,63,13,XX,"Region 3: South",88,167,1495
+54,9,63,14,XX,"Region 4: West",22,38,534
+54,9,63,50,WV,"County Non-Migrant",8835,20084,248763
+54,11,0,1,WV,"Cabell (Total Migrant)",2014,4018,54052
+54,11,54,99,WV,Wayne,311,649,6577
+54,11,39,87,Oh,Lawrence,210,488,5855
+54,11,54,79,WV,Putnam,119,266,3564
+54,11,54,39,WV,Kanawha,115,186,2542
+54,11,54,53,WV,Mason,39,98,906
+54,11,21,67,Ky,Fayette,34,56,1295
+54,11,39,49,Oh,Franklin,30,52,768
+54,11,37,119,NC,Mecklenburg,29,51,587
+54,11,21,19,Ky,Boyd,27,49,3727
+54,11,54,43,WV,Lincoln,25,63,597
+54,11,54,107,WV,Wood,22,47,594
+54,11,21,111,Ky,Jefferson,18,30,636
+54,11,37,183,NC,Wake,14,24,248
+54,11,39,61,Oh,Hamilton,14,15,213
+54,11,45,51,SC,Horry,12,23,152
+54,11,37,81,NC,Guilford,12,23,270
+54,11,54,83,WV,Randolph,11,17,266
+54,11,54,19,WV,Fayette,11,20,125
+54,11,57,5,FR,"APO / FPO Zip Code",11,19,112
+54,11,12,105,Fl,Polk,11,16,238
+54,11,54,81,WV,Raleigh,10,21,372
+54,11,39,53,Oh,Gallia,10,22,151
+54,11,63,10,XX,"Same State",99,183,2596
+54,11,63,11,XX,"Region 1: Northeast",65,136,1859
+54,11,63,12,XX,"Region 2: Midwest",184,349,5318
+54,11,63,13,XX,"Region 3: South",490,973,12710
+54,11,63,14,XX,"Region 4: West",81,142,1774
+54,11,63,50,WV,"County Non-Migrant",31010,68693,1027028
+54,13,0,1,WV,"Calhoun (Total Migrant)",103,238,1619
+54,13,54,87,WV,Roane,14,42,208
+54,13,54,107,WV,Wood,11,23,253
+54,13,63,20,XX,"Same State",46,110,687
+54,13,63,21,XX,"Same Region, Diff. State",14,27,168
+54,13,63,22,XX,"Different Region",18,36,303
+54,13,63,50,WV,"County Non-Migrant",2031,5038,45802
+54,15,0,1,WV,"Clay (Total Migrant)",135,298,1978
+54,15,54,39,WV,Kanawha,28,70,453
+54,15,54,67,WV,Nicholas,11,25,196
+54,15,63,20,XX,"Same State",44,102,668
+54,15,63,21,XX,"Same Region, Diff. State",29,57,388
+54,15,63,22,XX,"Different Region",23,44,273
+54,15,63,50,WV,"County Non-Migrant",2374,6072,53733
+54,17,0,1,WV,"Doddridge (Total Migrant)",118,255,2069
+54,17,54,33,WV,Harrison,34,74,609
+54,17,54,85,WV,Ritchie,18,47,372
+54,17,63,20,XX,"Same State",28,61,500
+54,17,63,21,XX,"Same Region, Diff. State",22,47,310
+54,17,63,22,XX,"Different Region",16,26,278
+54,17,63,50,WV,"County Non-Migrant",1906,4650,42655
+54,19,0,1,WV,"Fayette (Total Migrant)",765,1578,14954
+54,19,54,81,WV,Raleigh,127,285,2767
+54,19,54,39,WV,Kanawha,87,159,1825
+54,19,54,25,WV,Greenbrier,33,71,535
+54,19,54,67,WV,Nicholas,31,71,639
+54,19,54,5,WV,Boone,11,22,264
+54,19,37,119,NC,Mecklenburg,11,30,192
+54,19,54,15,WV,Clay,10,26,180
+54,19,63,10,XX,"Same State",90,188,2245
+54,19,63,11,XX,"Region 1: Northeast",24,36,282
+54,19,63,12,XX,"Region 2: Midwest",52,100,650
+54,19,63,13,XX,"Region 3: South",267,543,4806
+54,19,63,14,XX,"Region 4: West",22,47,569
+54,19,63,50,WV,"County Non-Migrant",13121,31143,327992
+54,21,0,1,WV,"Gilmer (Total Migrant)",126,268,2304
+54,21,54,39,WV,Kanawha,13,19,162
+54,21,54,7,WV,Braxton,10,20,160
+54,21,63,20,XX,"Same State",56,123,1158
+54,21,63,21,XX,"Same Region, Diff. State",26,58,474
+54,21,63,22,XX,"Different Region",21,48,350
+54,21,63,50,WV,"County Non-Migrant",1815,4376,45131
+54,23,0,1,WV,"Grant (Total Migrant)",167,319,3086
+54,23,54,31,WV,Hardy,30,59,521
+54,23,54,57,WV,Mineral,17,36,393
+54,23,63,20,XX,"Same State",51,103,1065
+54,23,63,21,XX,"Same Region, Diff. State",53,96,890
+54,23,63,22,XX,"Different Region",16,25,217
+54,23,63,50,WV,"County Non-Migrant",3651,8392,97848
+54,25,0,1,WV,"Greenbrier (Total Migrant)",601,1173,12608
+54,25,54,63,WV,Monroe,41,101,698
+54,25,54,67,WV,Nicholas,20,52,588
+54,25,54,19,WV,Fayette,18,37,372
+54,25,54,89,WV,Summers,17,38,297
+54,25,54,39,WV,Kanawha,16,31,288
+54,25,54,81,WV,Raleigh,14,24,299
+54,25,54,75,WV,Pocahontas,13,34,185
+54,25,54,11,WV,Cabell,12,20,258
+54,25,54,61,WV,Monongalia,10,16,175
+54,25,63,10,XX,"Same State",53,110,1342
+54,25,63,11,XX,"Region 1: Northeast",37,55,1030
+54,25,63,12,XX,"Region 2: Midwest",37,68,686
+54,25,63,13,XX,"Region 3: South",279,527,5543
+54,25,63,14,XX,"Region 4: West",34,60,847
+54,25,63,50,WV,"County Non-Migrant",11037,25035,313374
+54,27,0,1,WV,"Hampshire (Total Migrant)",281,579,5408
+54,27,51,69,Va,Frederick,37,75,691
+54,27,51,840,Va,"Winchester city",31,56,638
+54,27,54,31,WV,Hardy,23,56,508
+54,27,54,57,WV,Mineral,22,51,527
+54,27,63,20,XX,"Same State",52,114,1107
+54,27,63,21,XX,"Same Region, Diff. State",81,148,1291
+54,27,63,22,XX,"Different Region",35,79,646
+54,27,63,50,WV,"County Non-Migrant",5661,13242,135899
+54,29,0,1,WV,"Hancock (Total Migrant)",595,1099,12761
+54,29,39,29,Oh,Columbiana,65,147,1193
+54,29,39,81,Oh,Jefferson,60,126,1396
+54,29,54,9,WV,Brooke,46,109,1052
+54,29,42,3,Pa,Allegheny,37,50,1209
+54,29,42,125,Pa,Washington,25,45,546
+54,29,57,5,FR,"APO / FPO Zip Code",13,20,171
+54,29,54,61,WV,Monongalia,11,15,171
+54,29,54,69,WV,Ohio,11,19,327
+54,29,42,7,Pa,Beaver,10,23,276
+54,29,63,10,XX,"Same State",31,52,505
+54,29,63,11,XX,"Region 1: Northeast",45,78,1156
+54,29,63,12,XX,"Region 2: Midwest",89,159,1762
+54,29,63,13,XX,"Region 3: South",125,219,2538
+54,29,63,14,XX,"Region 4: West",27,37,459
+54,29,63,50,WV,"County Non-Migrant",12702,28280,363110
+54,31,0,1,WV,"Hardy (Total Migrant)",186,387,3072
+54,31,54,23,WV,Grant,32,71,587
+54,31,54,27,WV,Hampshire,17,38,305
+54,31,51,165,Va,Rockingham,14,36,207
+54,31,63,20,XX,"Same State",36,72,526
+54,31,63,21,XX,"Same Region, Diff. State",69,135,1239
+54,31,63,22,XX,"Different Region",18,35,208
+54,31,63,50,WV,"County Non-Migrant",4014,8960,98579
+54,33,0,1,WV,"Harrison (Total Migrant)",1043,2125,26284
+54,33,54,49,WV,Marion,110,245,2717
+54,33,54,41,WV,Lewis,53,121,1030
+54,33,54,61,WV,Monongalia,53,83,1067
+54,33,54,91,WV,Taylor,33,81,716
+54,33,54,17,WV,Doddridge,33,92,753
+54,33,54,39,WV,Kanawha,30,62,980
+54,33,54,1,WV,Barbour,28,55,553
+54,33,54,107,WV,Wood,23,44,370
+54,33,54,97,WV,Upshur,19,34,318
+54,33,57,5,FR,"APO / FPO Zip Code",14,22,177
+54,33,42,3,Pa,Allegheny,12,21,383
+54,33,54,77,WV,Preston,11,19,477
+54,33,54,81,WV,Raleigh,11,17,351
+54,33,37,183,NC,Wake,11,24,311
+54,33,39,49,Oh,Franklin,10,18,254
+54,33,63,10,XX,"Same State",91,192,2223
+54,33,63,11,XX,"Region 1: Northeast",62,130,1916
+54,33,63,12,XX,"Region 2: Midwest",87,172,2612
+54,33,63,13,XX,"Region 3: South",301,594,7879
+54,33,63,14,XX,"Region 4: West",51,99,1197
+54,33,63,50,WV,"County Non-Migrant",22644,52160,665059
+54,35,0,1,WV,"Jackson (Total Migrant)",376,806,7984
+54,35,54,39,WV,Kanawha,70,148,1404
+54,35,54,107,WV,Wood,41,82,1251
+54,35,54,87,WV,Roane,18,40,267
+54,35,54,53,WV,Mason,14,42,226
+54,35,54,79,WV,Putnam,11,19,252
+54,35,63,10,XX,"Same State",45,122,1018
+54,35,63,11,XX,"Region 1: Northeast",16,35,326
+54,35,63,12,XX,"Region 2: Midwest",59,139,1297
+54,35,63,13,XX,"Region 3: South",85,150,1560
+54,35,63,14,XX,"Region 4: West",17,29,383
+54,35,63,50,WV,"County Non-Migrant",8305,20421,233576
+54,37,0,1,WV,"Jefferson (Total Migrant)",1002,1965,25235
+54,37,54,3,WV,Berkeley,241,474,5337
+54,37,24,21,Md,Frederick,71,140,1838
+54,37,54,39,WV,Kanawha,53,97,1395
+54,37,51,107,Va,Loudoun,50,117,1610
+54,37,24,43,Md,Washington,37,63,928
+54,37,24,31,Md,Montgomery,28,43,848
+54,37,51,69,Va,Frederick,28,52,575
+54,37,51,59,Va,Fairfax,20,32,586
+54,37,51,840,Va,"Winchester city",13,28,240
+54,37,51,43,Va,Clarke,12,31,311
+54,37,63,10,XX,"Same State",66,133,1469
+54,37,63,11,XX,"Region 1: Northeast",65,141,1889
+54,37,63,12,XX,"Region 2: Midwest",33,78,1021
+54,37,63,13,XX,"Region 3: South",241,469,6314
+54,37,63,14,XX,"Region 4: West",44,67,874
+54,37,63,50,WV,"County Non-Migrant",13374,29811,425703
+54,39,0,1,WV,"Kanawha (Total Migrant)",3540,7231,109609
+54,39,54,79,WV,Putnam,605,1367,22354
+54,39,54,11,WV,Cabell,121,221,3199
+54,39,54,19,WV,Fayette,88,196,2137
+54,39,54,37,WV,Jefferson,88,176,2389
+54,39,54,35,WV,Jackson,78,182,2302
+54,39,54,43,WV,Lincoln,77,176,1736
+54,39,54,5,WV,Boone,66,147,1276
+54,39,37,119,NC,Mecklenburg,63,108,1556
+54,39,39,49,Oh,Franklin,61,108,1490
+54,39,54,87,WV,Roane,51,129,1167
+54,39,54,81,WV,Raleigh,51,119,1513
+54,39,54,61,WV,Monongalia,47,73,1255
+54,39,54,107,WV,Wood,40,87,1034
+54,39,42,3,Pa,Allegheny,37,58,1096
+54,39,48,201,Tx,Harris,35,80,1676
+54,39,54,15,WV,Clay,30,71,586
+54,39,57,5,FR,"APO / FPO Zip Code",29,42,352
+54,39,37,183,NC,Wake,25,60,769
+54,39,54,25,WV,Greenbrier,23,55,1471
+54,39,21,67,Ky,Fayette,23,41,707
+54,39,45,51,SC,Horry,23,46,504
+54,39,54,67,WV,Nicholas,22,48,668
+54,39,54,49,WV,Marion,21,44,455
+54,39,54,33,WV,Harrison,20,45,930
+54,39,21,111,Ky,Jefferson,20,35,457
+54,39,54,55,WV,Mercer,17,40,537
+54,39,54,45,WV,Logan,16,30,326
+54,39,48,167,Tx,Galveston,16,41,1013
+54,39,39,61,Oh,Hamilton,16,20,574
+54,39,47,37,Tn,Davidson,16,27,357
+54,39,12,127,Fl,Volusia,15,20,944
+54,39,37,51,NC,Cumberland,14,25,212
+54,39,39,35,Oh,Cuyahoga,14,28,275
+54,39,37,81,NC,Guilford,14,21,372
+54,39,39,167,Oh,Washington,14,27,247
+54,39,37,67,NC,Forsyth,14,35,525
+54,39,54,53,WV,Mason,13,26,316
+54,39,12,9,Fl,Brevard,13,21,228
+54,39,13,121,Ga,Fulton,13,26,716
+54,39,13,67,Ga,Cobb,13,19,208
+54,39,51,59,Va,Fairfax,12,23,609
+54,39,12,99,Fl,"Palm Beach",12,16,296
+54,39,37,129,NC,"New Hanover",12,25,171
+54,39,12,31,Fl,Duval,12,23,146
+54,39,51,760,Va,"Richmond city",12,15,254
+54,39,12,103,Fl,Pinellas,11,12,91
+54,39,54,83,WV,Randolph,11,25,395
+54,39,12,95,Fl,Orange,11,18,165
+54,39,54,7,WV,Braxton,11,23,362
+54,39,37,159,NC,Rowan,11,26,421
+54,39,45,91,SC,York,11,23,251
+54,39,12,57,Fl,Hillsborough,11,23,164
+54,39,13,89,Ga,"De Kalb",11,16,283
+54,39,48,29,Tx,Bexar,11,21,332
+54,39,37,71,NC,Gaston,10,19,97
+54,39,54,99,WV,Wayne,10,16,417
+54,39,51,810,Va,"Virginia Beach city",10,13,400
+54,39,54,3,WV,Berkeley,10,27,315
+54,39,63,10,XX,"Same State",104,214,2597
+54,39,63,11,XX,"Region 1: Northeast",165,331,6296
+54,39,63,12,XX,"Region 2: Midwest",258,530,8010
+54,39,63,13,XX,"Region 3: South",723,1441,23874
+54,39,63,14,XX,"Region 4: West",129,231,3734
+54,39,63,50,WV,"County Non-Migrant",72255,156826,2463141
+54,41,0,1,WV,"Lewis (Total Migrant)",276,587,5645
+54,41,54,33,WV,Harrison,62,131,1578
+54,41,54,97,WV,Upshur,45,110,964
+54,41,63,20,XX,"Same State",68,153,1287
+54,41,63,21,XX,"Same Region, Diff. State",47,88,884
+54,41,63,22,XX,"Different Region",54,105,932
+54,41,63,50,WV,"County Non-Migrant",5292,12102,131422
+54,43,0,1,WV,"Lincoln (Total Migrant)",311,683,5340
+54,43,54,11,WV,Cabell,69,157,1397
+54,43,54,39,WV,Kanawha,62,117,1142
+54,43,54,45,WV,Logan,22,57,341
+54,43,54,79,WV,Putnam,19,38,352
+54,43,54,5,WV,Boone,18,31,163
+54,43,54,99,WV,Wayne,12,30,157
+54,43,63,20,XX,"Same State",18,45,400
+54,43,63,21,XX,"Same Region, Diff. State",60,147,931
+54,43,63,22,XX,"Different Region",31,61,457
+54,43,63,50,WV,"County Non-Migrant",5184,12929,125832
+54,45,0,1,WV,"Logan (Total Migrant)",505,1064,12084
+54,45,54,5,WV,Boone,50,111,1389
+54,45,54,39,WV,Kanawha,45,89,1708
+54,45,54,59,WV,Mingo,28,79,810
+54,45,54,43,WV,Lincoln,16,35,361
+54,45,39,49,Oh,Franklin,13,27,177
+54,45,54,11,WV,Cabell,12,23,446
+54,45,54,109,WV,Wyoming,12,30,298
+54,45,54,79,WV,Putnam,10,22,394
+54,45,63,10,XX,"Same State",61,129,1652
+54,45,63,11,XX,"Region 1: Northeast",14,25,214
+54,45,63,12,XX,"Region 2: Midwest",49,104,849
+54,45,63,13,XX,"Region 3: South",179,358,3393
+54,45,63,14,XX,"Region 4: West",16,32,393
+54,45,63,50,WV,"County Non-Migrant",10810,26818,314577
+54,47,0,1,WV,"McDowell (Total Migrant)",426,893,12459
+54,47,54,55,WV,Mercer,82,174,2663
+54,47,51,185,Va,Tazewell,26,66,848
+54,47,54,109,WV,Wyoming,13,35,418
+54,47,37,151,NC,Randolph,11,21,152
+54,47,37,97,NC,Iredell,11,23,127
+54,47,54,81,WV,Raleigh,11,22,698
+54,47,37,67,NC,Forsyth,10,21,98
+54,47,37,57,NC,Davidson,10,23,98
+54,47,63,20,XX,"Same State",43,93,4018
+54,47,63,21,XX,"Same Region, Diff. State",162,331,2695
+54,47,63,22,XX,"Different Region",47,84,644
+54,47,63,50,WV,"County Non-Migrant",6608,16045,162416
+54,49,0,1,WV,"Marion (Total Migrant)",904,1748,21292
+54,49,54,61,WV,Monongalia,122,235,3088
+54,49,54,33,WV,Harrison,106,228,2757
+54,49,54,91,WV,Taylor,32,66,531
+54,49,54,103,WV,Wetzel,13,39,375
+54,49,54,39,WV,Kanawha,12,17,311
+54,49,54,107,WV,Wood,12,23,320
+54,49,54,11,WV,Cabell,11,18,250
+54,49,57,5,FR,"APO / FPO Zip Code",11,18,127
+54,49,54,1,WV,Barbour,11,19,248
+54,49,54,77,WV,Preston,11,22,283
+54,49,42,3,Pa,Allegheny,10,15,253
+54,49,63,10,XX,"Same State",104,212,2278
+54,49,63,11,XX,"Region 1: Northeast",58,120,2043
+54,49,63,12,XX,"Region 2: Midwest",95,175,1717
+54,49,63,13,XX,"Region 3: South",250,467,5847
+54,49,63,14,XX,"Region 4: West",46,74,864
+54,49,63,50,WV,"County Non-Migrant",18801,42654,514661
+54,51,0,1,WV,"Marshall (Total Migrant)",572,1148,12014
+54,51,54,69,WV,Ohio,144,304,3243
+54,51,39,13,Oh,Belmont,58,123,1246
+54,51,54,103,WV,Wetzel,38,105,908
+54,51,39,49,Oh,Franklin,17,24,264
+54,51,42,3,Pa,Allegheny,13,20,412
+54,51,54,61,WV,Monongalia,10,12,142
+54,51,63,10,XX,"Same State",70,136,1723
+54,51,63,11,XX,"Region 1: Northeast",52,103,1011
+54,51,63,12,XX,"Region 2: Midwest",68,106,1218
+54,51,63,13,XX,"Region 3: South",91,190,1712
+54,51,63,14,XX,"Region 4: West",11,25,135
+54,51,63,50,WV,"County Non-Migrant",11819,27400,330443
+54,53,0,1,WV,"Mason (Total Migrant)",331,713,6695
+54,53,39,53,Oh,Gallia,37,81,729
+54,53,54,11,WV,Cabell,30,56,594
+54,53,54,79,WV,Putnam,22,64,607
+54,53,39,105,Oh,Meigs,18,43,424
+54,53,54,35,WV,Jackson,17,40,437
+54,53,54,39,WV,Kanawha,17,26,286
+54,53,39,49,Oh,Franklin,12,17,211
+54,53,63,10,XX,"Same State",29,60,638
+54,53,63,11,XX,"Region 1: Northeast",16,41,368
+54,53,63,12,XX,"Region 2: Midwest",44,96,717
+54,53,63,13,XX,"Region 3: South",77,166,1486
+54,53,63,14,XX,"Region 4: West",12,23,198
+54,53,63,50,WV,"County Non-Migrant",7552,17945,208919
+54,55,0,1,WV,"Mercer (Total Migrant)",987,2033,23347
+54,55,51,185,Va,Tazewell,108,269,3433
+54,55,54,81,WV,Raleigh,39,77,1007
+54,55,37,119,NC,Mecklenburg,31,61,625
+54,55,54,47,WV,McDowell,26,62,371
+54,55,51,21,Va,Bland,23,62,510
+54,55,37,67,NC,Forsyth,23,38,398
+54,55,54,89,WV,Summers,23,46,423
+54,55,54,39,WV,Kanawha,22,46,625
+54,55,37,81,NC,Guilford,22,35,632
+54,55,54,63,WV,Monroe,17,42,411
+54,55,37,183,NC,Wake,14,24,200
+54,55,57,5,FR,"APO / FPO Zip Code",14,24,153
+54,55,51,161,Va,Roanoke,12,27,514
+54,55,45,51,SC,Horry,11,14,121
+54,55,51,71,Va,Giles,11,26,319
+54,55,51,770,Va,"Roanoke city",11,21,276
+54,55,54,109,WV,Wyoming,11,24,237
+54,55,51,121,Va,Montgomery,10,21,376
+54,55,63,10,XX,"Same State",68,136,1473
+54,55,63,11,XX,"Region 1: Northeast",38,71,772
+54,55,63,12,XX,"Region 2: Midwest",53,120,1320
+54,55,63,13,XX,"Region 3: South",380,754,8746
+54,55,63,14,XX,"Region 4: West",20,33,405
+54,55,63,50,WV,"County Non-Migrant",19126,43680,566123
+54,57,0,1,WV,"Mineral (Total Migrant)",424,831,8569
+54,57,24,1,Md,Allegany,112,203,2086
+54,57,54,27,WV,Hampshire,33,73,692
+54,57,54,23,WV,Grant,19,33,289
+54,57,54,61,WV,Monongalia,14,18,129
+54,57,54,3,WV,Berkeley,13,26,352
+54,57,54,31,WV,Hardy,10,26,209
+54,57,63,10,XX,"Same State",33,72,634
+54,57,63,11,XX,"Region 1: Northeast",24,42,472
+54,57,63,12,XX,"Region 2: Midwest",13,32,273
+54,57,63,13,XX,"Region 3: South",143,284,3208
+54,57,63,14,XX,"Region 4: West",10,22,225
+54,57,63,50,WV,"County Non-Migrant",8986,21134,244216
+54,59,0,1,WV,"Mingo (Total Migrant)",375,841,8011
+54,59,21,195,Ky,Pike,82,199,2133
+54,59,54,45,WV,Logan,38,77,876
+54,59,54,99,WV,Wayne,21,60,519
+54,59,21,159,Ky,Martin,15,38,247
+54,59,54,39,WV,Kanawha,12,23,309
+54,59,54,11,WV,Cabell,11,19,195
+54,59,63,20,XX,"Same State",42,107,1071
+54,59,63,21,XX,"Same Region, Diff. State",104,222,1924
+54,59,63,22,XX,"Different Region",50,96,737
+54,59,63,50,WV,"County Non-Migrant",7818,19980,238691
+54,61,0,1,WV,"Monongalia (Total Migrant)",1762,3216,43510
+54,61,54,49,WV,Marion,139,265,3624
+54,61,54,77,WV,Preston,124,265,2621
+54,61,54,39,WV,Kanawha,64,106,1774
+54,61,42,3,Pa,Allegheny,60,94,1991
+54,61,42,59,Pa,Greene,50,111,1136
+54,61,54,33,WV,Harrison,43,95,1188
+54,61,42,51,Pa,Fayette,32,64,705
+54,61,54,107,WV,Wood,22,43,570
+54,61,54,91,WV,Taylor,21,46,483
+54,61,51,59,Va,Fairfax,20,30,381
+54,61,39,49,Oh,Franklin,17,18,240
+54,61,24,1,Md,Allegany,16,36,283
+54,61,54,103,WV,Wetzel,15,29,288
+54,61,57,1,FR,"Foreign / Overseas",14,22,331
+54,61,24,33,Md,"Prince George's",14,19,198
+54,61,54,83,WV,Randolph,12,23,380
+54,61,24,23,Md,Garrett,12,25,545
+54,61,42,125,Pa,Washington,12,27,353
+54,61,54,97,WV,Upshur,11,23,181
+54,61,24,21,Md,Frederick,11,18,276
+54,61,42,129,Pa,Westmoreland,11,19,294
+54,61,21,67,Ky,Fayette,10,15,212
+54,61,54,29,WV,Hancock,10,15,46
+54,61,63,10,XX,"Same State",120,216,2275
+54,61,63,11,XX,"Region 1: Northeast",186,325,4644
+54,61,63,12,XX,"Region 2: Midwest",178,337,4487
+54,61,63,13,XX,"Region 3: South",435,743,11105
+54,61,63,14,XX,"Region 4: West",103,187,2899
+54,61,63,50,WV,"County Non-Migrant",22660,49995,748889
+54,63,0,1,WV,"Monroe (Total Migrant)",190,359,3361
+54,63,54,25,WV,Greenbrier,29,62,584
+54,63,51,71,Va,Giles,24,43,481
+54,63,54,55,WV,Mercer,12,26,233
+54,63,54,89,WV,Summers,11,24,115
+54,63,63,20,XX,"Same State",20,37,358
+54,63,63,21,XX,"Same Region, Diff. State",72,131,1186
+54,63,63,22,XX,"Different Region",22,36,404
+54,63,63,50,WV,"County Non-Migrant",3725,8832,90984
+54,65,0,1,WV,"Morgan (Total Migrant)",260,539,5647
+54,65,54,3,WV,Berkeley,50,101,1037
+54,65,24,43,Md,Washington,18,35,505
+54,65,51,69,Va,Frederick,16,32,269
+54,65,24,31,Md,Montgomery,11,16,280
+54,65,42,57,Pa,Fulton,10,23,175
+54,65,54,27,WV,Hampshire,10,37,272
+54,65,63,20,XX,"Same State",21,48,558
+54,65,63,21,XX,"Same Region, Diff. State",82,169,1687
+54,65,63,22,XX,"Different Region",42,78,864
+54,65,63,50,WV,"County Non-Migrant",4439,10072,113143
+54,67,0,1,WV,"Nicholas (Total Migrant)",389,792,7949
+54,67,54,39,WV,Kanawha,37,83,1463
+54,67,54,19,WV,Fayette,33,72,548
+54,67,54,7,WV,Braxton,15,41,363
+54,67,54,101,WV,Webster,12,22,234
+54,67,54,15,WV,Clay,12,28,231
+54,67,54,81,WV,Raleigh,10,17,232
+54,67,63,10,XX,"Same State",55,121,1102
+54,67,63,11,XX,"Region 1: Northeast",16,30,279
+54,67,63,12,XX,"Region 2: Midwest",41,73,892
+54,67,63,13,XX,"Region 3: South",145,274,2320
+54,67,63,14,XX,"Region 4: West",13,31,285
+54,67,63,50,WV,"County Non-Migrant",7497,18585,199084
+54,69,0,1,WV,"Ohio (Total Migrant)",868,1606,21811
+54,69,39,13,Oh,Belmont,137,253,2814
+54,69,54,51,WV,Marshall,117,266,2721
+54,69,39,49,Oh,Franklin,41,54,970
+54,69,54,9,WV,Brooke,33,75,659
+54,69,42,3,Pa,Allegheny,31,51,710
+54,69,54,61,WV,Monongalia,20,29,414
+54,69,42,125,Pa,Washington,18,40,519
+54,69,39,81,Oh,Jefferson,17,28,437
+54,69,54,29,WV,Hancock,13,20,425
+54,69,54,39,WV,Kanawha,11,16,273
+54,69,54,103,WV,Wetzel,10,21,226
+54,69,63,10,XX,"Same State",45,79,1090
+54,69,63,11,XX,"Region 1: Northeast",60,107,1388
+54,69,63,12,XX,"Region 2: Midwest",88,173,1988
+54,69,63,13,XX,"Region 3: South",178,304,4482
+54,69,63,14,XX,"Region 4: West",34,62,963
+54,69,63,15,XX,Foreign,15,28,1732
+54,69,63,50,WV,"County Non-Migrant",17313,37374,577148
+54,71,0,1,WV,"Pendleton (Total Migrant)",159,320,3160
+54,71,51,165,Va,Rockingham,23,39,490
+54,71,54,23,WV,Grant,10,19,265
+54,71,63,20,XX,"Same State",26,58,455
+54,71,63,21,XX,"Same Region, Diff. State",70,144,1351
+54,71,63,22,XX,"Different Region",30,60,599
+54,71,63,50,WV,"County Non-Migrant",2743,6201,62407
+54,73,0,1,WV,"Pleasants (Total Migrant)",125,255,2434
+54,73,54,107,WV,Wood,40,84,956
+54,73,63,20,XX,"Same State",40,81,818
+54,73,63,21,XX,"Same Region, Diff. State",23,52,422
+54,73,63,22,XX,"Different Region",22,38,238
+54,73,63,50,WV,"County Non-Migrant",2372,5730,69857
+54,75,0,1,WV,"Pocahontas (Total Migrant)",136,246,2195
+54,75,54,83,WV,Randolph,13,24,214
+54,75,63,20,XX,"Same State",49,88,759
+54,75,63,21,XX,"Same Region, Diff. State",50,94,882
+54,75,63,22,XX,"Different Region",24,40,340
+54,75,63,50,WV,"County Non-Migrant",2971,6712,66606
+54,77,0,1,WV,"Preston (Total Migrant)",384,752,8031
+54,77,54,61,WV,Monongalia,85,144,2028
+54,77,24,23,Md,Garrett,24,53,321
+54,77,54,91,WV,Taylor,23,65,530
+54,77,54,93,WV,Tucker,10,22,220
+54,77,63,10,XX,"Same State",61,116,1300
+54,77,63,11,XX,"Region 1: Northeast",33,68,664
+54,77,63,12,XX,"Region 2: Midwest",27,39,459
+54,77,63,13,XX,"Region 3: South",100,192,1965
+54,77,63,14,XX,"Region 4: West",21,53,544
+54,77,63,50,WV,"County Non-Migrant",8970,21848,220935
+54,79,0,1,WV,"Putnam (Total Migrant)",1037,2237,32065
+54,79,54,39,WV,Kanawha,381,797,11091
+54,79,54,11,WV,Cabell,116,251,3113
+54,79,54,53,WV,Mason,34,77,747
+54,79,54,35,WV,Jackson,13,41,372
+54,79,39,49,Oh,Franklin,13,31,533
+54,79,63,10,XX,"Same State",86,180,2805
+54,79,63,11,XX,"Region 1: Northeast",38,93,1654
+54,79,63,12,XX,"Region 2: Midwest",95,225,3184
+54,79,63,13,XX,"Region 3: South",236,485,7713
+54,79,63,14,XX,"Region 4: West",25,57,853
+54,79,63,50,WV,"County Non-Migrant",14503,35749,522454
+54,81,0,1,WV,"Raleigh (Total Migrant)",1163,2476,26786
+54,81,54,19,WV,Fayette,131,305,2819
+54,81,54,39,WV,Kanawha,53,99,2011
+54,81,54,89,WV,Summers,38,95,568
+54,81,54,55,WV,Mercer,38,90,1073
+54,81,54,109,WV,Wyoming,31,79,620
+54,81,54,61,WV,Monongalia,23,34,469
+54,81,54,5,WV,Boone,21,73,658
+54,81,37,67,NC,Forsyth,19,34,320
+54,81,37,35,NC,Catawba,18,29,219
+54,81,57,5,FR,"APO / FPO Zip Code",16,23,188
+54,81,54,11,WV,Cabell,16,26,251
+54,81,37,119,NC,Mecklenburg,15,28,325
+54,81,54,25,WV,Greenbrier,13,32,436
+54,81,37,183,NC,Wake,12,28,312
+54,81,54,107,WV,Wood,11,19,232
+54,81,37,81,NC,Guilford,11,17,118
+54,81,54,79,WV,Putnam,10,23,516
+54,81,63,10,XX,"Same State",59,136,1261
+54,81,63,11,XX,"Region 1: Northeast",48,106,1290
+54,81,63,12,XX,"Region 2: Midwest",77,161,1852
+54,81,63,13,XX,"Region 3: South",463,970,10584
+54,81,63,14,XX,"Region 4: West",40,69,664
+54,81,63,50,WV,"County Non-Migrant",21427,50832,629359
+54,83,0,1,WV,"Randolph (Total Migrant)",420,902,8166
+54,83,54,1,WV,Barbour,39,87,748
+54,83,54,93,WV,Tucker,20,56,518
+54,83,54,61,WV,Monongalia,18,29,272
+54,83,54,97,WV,Upshur,15,38,380
+54,83,54,75,WV,Pocahontas,11,24,131
+54,83,63,10,XX,"Same State",77,167,1590
+54,83,63,11,XX,"Region 1: Northeast",30,64,773
+54,83,63,12,XX,"Region 2: Midwest",47,93,792
+54,83,63,13,XX,"Region 3: South",146,307,2661
+54,83,63,14,XX,"Region 4: West",17,37,301
+54,83,63,50,WV,"County Non-Migrant",8870,20492,225103
+54,85,0,1,WV,"Ritchie (Total Migrant)",145,291,2630
+54,85,54,107,WV,Wood,27,50,553
+54,85,54,17,WV,Doddridge,16,41,305
+54,85,54,73,WV,Pleasants,12,22,323
+54,85,63,20,XX,"Same State",35,71,532
+54,85,63,21,XX,"Same Region, Diff. State",28,61,332
+54,85,63,22,XX,"Different Region",27,46,585
+54,85,63,50,WV,"County Non-Migrant",3183,7463,74734
+54,87,0,1,WV,"Roane (Total Migrant)",217,444,3437
+54,87,54,39,WV,Kanawha,40,91,888
+54,87,54,35,WV,Jackson,21,41,341
+54,87,63,20,XX,"Same State",62,127,982
+54,87,63,21,XX,"Same Region, Diff. State",49,86,652
+54,87,63,22,XX,"Different Region",45,99,574
+54,87,63,50,WV,"County Non-Migrant",3973,9693,96673
+54,89,0,1,WV,"Summers (Total Migrant)",260,567,4482
+54,89,54,81,WV,Raleigh,61,142,924
+54,89,54,25,WV,Greenbrier,26,71,630
+54,89,54,55,WV,Mercer,19,32,248
+54,89,54,19,WV,Fayette,16,36,284
+54,89,54,63,WV,Monroe,10,18,128
+54,89,63,20,XX,"Same State",21,51,438
+54,89,63,21,XX,"Same Region, Diff. State",76,154,1136
+54,89,63,22,XX,"Different Region",31,63,694
+54,89,63,50,WV,"County Non-Migrant",3350,7845,78614
+54,91,0,1,WV,"Taylor (Total Migrant)",230,508,5019
+54,91,54,33,WV,Harrison,37,83,904
+54,91,54,61,WV,Monongalia,27,58,706
+54,91,54,77,WV,Preston,18,61,377
+54,91,54,49,WV,Marion,12,22,289
+54,91,54,1,WV,Barbour,12,35,192
+54,91,63,10,XX,"Same State",29,53,749
+54,91,63,11,XX,"Region 1: Northeast",17,30,389
+54,91,63,12,XX,"Region 2: Midwest",12,38,262
+54,91,63,13,XX,"Region 3: South",56,110,944
+54,91,63,14,XX,"Region 4: West",10,18,207
+54,91,63,50,WV,"County Non-Migrant",4268,10153,106569
+54,93,0,1,WV,"Tucker (Total Migrant)",118,254,2389
+54,93,54,83,WV,Randolph,28,71,630
+54,93,63,20,XX,"Same State",40,88,918
+54,93,63,21,XX,"Same Region, Diff. State",34,64,508
+54,93,63,22,XX,"Different Region",16,31,333
+54,93,63,50,WV,"County Non-Migrant",2496,5862,59100
+54,95,0,1,WV,"Tyler (Total Migrant)",156,339,3370
+54,95,54,103,WV,Wetzel,30,68,678
+54,95,54,107,WV,Wood,15,23,364
+54,95,54,51,WV,Marshall,10,26,220
+54,95,63,20,XX,"Same State",39,86,832
+54,95,63,21,XX,"Same Region, Diff. State",36,78,731
+54,95,63,22,XX,"Different Region",26,58,545
+54,95,63,50,WV,"County Non-Migrant",2866,6989,81285
+54,97,0,1,WV,"Upshur (Total Migrant)",330,704,6667
+54,97,54,41,WV,Lewis,41,95,797
+54,97,54,33,WV,Harrison,21,43,616
+54,97,54,1,WV,Barbour,19,50,285
+54,97,54,83,WV,Randolph,18,38,469
+54,97,54,61,WV,Monongalia,10,18,309
+54,97,63,10,XX,"Same State",55,126,1349
+54,97,63,11,XX,"Region 1: Northeast",31,51,515
+54,97,63,12,XX,"Region 2: Midwest",38,92,646
+54,97,63,13,XX,"Region 3: South",83,167,1497
+54,97,63,14,XX,"Region 4: West",14,24,184
+54,97,63,50,WV,"County Non-Migrant",6529,15713,166210
+54,99,0,1,WV,"Wayne (Total Migrant)",817,1698,17518
+54,99,54,11,WV,Cabell,340,698,7244
+54,99,39,87,Oh,Lawrence,59,137,1507
+54,99,21,19,Ky,Boyd,30,71,863
+54,99,21,127,Ky,Lawrence,23,46,488
+54,99,39,49,Oh,Franklin,21,35,326
+54,99,54,39,WV,Kanawha,17,37,361
+54,99,54,59,WV,Mingo,13,40,381
+54,99,54,79,WV,Putnam,11,30,378
+54,99,21,89,Ky,Greenup,10,20,302
+54,99,63,10,XX,"Same State",38,81,919
+54,99,63,11,XX,"Region 1: Northeast",16,25,496
+54,99,63,12,XX,"Region 2: Midwest",56,109,1041
+54,99,63,13,XX,"Region 3: South",165,333,2894
+54,99,63,14,XX,"Region 4: West",18,36,318
+54,99,63,50,WV,"County Non-Migrant",11710,28072,324737
+54,101,0,1,WV,"Webster (Total Migrant)",142,303,2508
+54,101,54,67,WV,Nicholas,21,44,341
+54,101,63,20,XX,"Same State",53,122,1113
+54,101,63,21,XX,"Same Region, Diff. State",42,89,698
+54,101,63,22,XX,"Different Region",26,48,356
+54,101,63,50,WV,"County Non-Migrant",2437,6084,52927
+54,103,0,1,WV,"Wetzel (Total Migrant)",341,715,7919
+54,103,54,95,WV,Tyler,48,120,815
+54,103,54,51,WV,Marshall,30,70,795
+54,103,39,111,Oh,Monroe,16,41,612
+54,103,54,61,WV,Monongalia,15,25,223
+54,103,54,107,WV,Wood,12,26,308
+54,103,54,69,WV,Ohio,10,16,289
+54,103,63,10,XX,"Same State",59,131,1553
+54,103,63,11,XX,"Region 1: Northeast",21,36,487
+54,103,63,12,XX,"Region 2: Midwest",42,84,1057
+54,103,63,13,XX,"Region 3: South",76,140,1560
+54,103,63,14,XX,"Region 4: West",12,26,220
+54,103,63,50,WV,"County Non-Migrant",5919,14439,175720
+54,105,0,1,WV,"Wirt (Total Migrant)",109,235,2072
+54,105,54,107,WV,Wood,45,96,920
+54,105,63,20,XX,"Same State",27,53,495
+54,105,63,21,XX,"Same Region, Diff. State",14,31,243
+54,105,63,22,XX,"Different Region",23,55,414
+54,105,63,50,WV,"County Non-Migrant",1628,4021,40573
+54,107,0,1,WV,"Wood (Total Migrant)",1502,3017,39210
+54,107,39,167,Oh,Washington,251,520,5972
+54,107,39,49,Oh,Franklin,56,92,965
+54,107,54,39,WV,Kanawha,56,92,1735
+54,107,54,105,WV,Wirt,47,119,881
+54,107,54,73,WV,Pleasants,36,79,876
+54,107,54,85,WV,Ritchie,31,60,696
+54,107,54,61,WV,Monongalia,30,43,435
+54,107,54,35,WV,Jackson,29,68,773
+54,107,54,11,WV,Cabell,24,40,584
+54,107,54,33,WV,Harrison,23,46,495
+54,107,39,9,Oh,Athens,18,38,515
+54,107,57,5,FR,"APO / FPO Zip Code",16,29,210
+54,107,39,105,Oh,Meigs,14,32,343
+54,107,37,119,NC,Mecklenburg,12,18,207
+54,107,54,49,WV,Marion,12,25,335
+54,107,54,79,WV,Putnam,11,20,319
+54,107,39,151,Oh,Stark,11,22,175
+54,107,48,201,Tx,Harris,10,17,374
+54,107,42,3,Pa,Allegheny,10,16,261
+54,107,63,10,XX,"Same State",105,228,2644
+54,107,63,11,XX,"Region 1: Northeast",69,155,3223
+54,107,63,12,XX,"Region 2: Midwest",162,353,5203
+54,107,63,13,XX,"Region 3: South",420,816,11059
+54,107,63,14,XX,"Region 4: West",49,89,930
+54,107,63,50,WV,"County Non-Migrant",30401,69322,981886
+54,109,0,1,WV,"Wyoming (Total Migrant)",360,769,6765
+54,109,54,81,WV,Raleigh,58,131,1272
+54,109,54,47,WV,McDowell,21,61,756
+54,109,54,55,WV,Mercer,17,40,414
+54,109,63,20,XX,"Same State",72,164,1581
+54,109,63,21,XX,"Same Region, Diff. State",158,310,2350
+54,109,63,22,XX,"Different Region",34,63,392
+54,109,63,50,WV,"County Non-Migrant",6846,17151,188735
