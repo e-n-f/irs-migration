@@ -1,0 +1,957 @@
+"2002-2003 County To County Migration  Inflows",,,,,,"West Virginia",,
+"(Aggregate money amounts in thousands of dollars)",,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+"West Virginia",,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+,,,,,,,,
+54,000,96,000,WV,"Total Mig - US & For",34455,67717,1083515
+54,000,97,000,WV,"Total Mig - US",33906,66926,1074839
+54,000,97,001,WV,"Total Mig - US Same St",15358,29791,434662
+54,000,97,003,WV,"Total Mig - US Diff St",18548,37135,640177
+54,000,98,000,WV,"Total Mig - Foreign",549,791,8676
+54,001,96,000,WV,"Barbour County Tot Mig-US & For",292,616,6930
+54,001,97,000,WV,"Barbour County Tot Mig-US",292,616,6930
+54,001,97,001,WV,"Barbour County Tot Mig-Same St",194,404,4508
+54,001,97,003,WV,"Barbour County Tot Mig-Diff St",98,212,2422
+54,001,54,001,WV,"Barbour County Non-Migrants",4871,11108,148365
+54,001,54,083,WV,"Randolph County",53,114,944
+54,001,54,033,WV,"Harrison County",28,65,850
+54,001,54,091,WV,"Taylor County",19,49,555
+54,001,54,097,WV,"Upshur County",18,39,435
+54,001,54,061,WV,"Monongalia County",11,25,347
+54,001,58,000,SS,"Other Flows - Same State",65,112,1376
+54,001,59,000,DS,"Other Flows - Diff State",98,212,2422
+54,003,96,000,WV,"Berkeley County Tot Mig-US & For",2851,6001,115517
+54,003,97,000,WV,"Berkeley County Tot Mig-US",2838,5977,115123
+54,003,97,001,WV,"Berkeley County Tot Mig-Same St",668,1318,21783
+54,003,97,003,WV,"Berkeley County Tot Mig-Diff St",2170,4659,93339
+54,003,98,000,WV,"Berkeley County Tot Mig-Foreign",13,24,394
+54,003,54,003,WV,"Berkeley County Non-Migrants",29824,64871,1279209
+54,003,54,037,WV,"Jefferson County",417,856,13697
+54,003,24,043,MD,"Washington County",302,631,12384
+54,003,51,069,VA,"Frederick County",202,444,7839
+54,003,24,021,MD,"Frederick County",162,344,7262
+54,003,24,031,MD,"Montgomery County",107,226,5861
+54,003,51,059,VA,"Fairfax County",87,199,5261
+54,003,51,107,VA,"Loudoun County",87,199,4339
+54,003,54,065,WV,"Morgan County",67,131,2002
+54,003,24,033,MD,"Prince George's Coun",54,124,2741
+54,003,51,840,VA,Winchester,52,117,1968
+54,003,24,003,MD,"Anne Arundel County",46,113,1981
+54,003,42,055,PA,"Franklin County",36,47,1299
+54,003,51,153,VA,"Prince William Count",35,85,1957
+54,003,24,005,MD,"Baltimore County",29,66,1177
+54,003,24,013,MD,"Carroll County",28,70,897
+54,003,24,027,MD,"Howard County",26,51,1959
+54,003,54,057,WV,"Mineral County",25,40,704
+54,003,24,001,MD,"Allegany County",24,49,715
+54,003,11,001,DC,"District Of Columbia",22,39,1332
+54,003,24,510,MD,Baltimore,21,49,629
+54,003,54,027,WV,"Hampshire County",21,38,769
+54,003,51,187,VA,"Warren County",20,52,813
+54,003,54,061,WV,"Monongalia County",20,33,598
+54,003,13,215,GA,"Muscogee County",12,22,262
+54,003,51,171,VA,"Shenandoah County",12,20,320
+54,003,54,033,WV,"Harrison County",11,18,370
+54,003,54,039,WV,"Kanawha County",11,24,560
+54,003,42,133,PA,"York County",10,15,258
+54,003,51,013,VA,"Arlington County",10,11,466
+54,003,51,043,VA,"Clarke County",10,25,348
+54,003,51,061,VA,"Fauquier County",10,17,206
+54,003,58,000,SS,"Other Flows - Same State",96,178,3083
+54,003,59,000,DS,"Other Flows - Diff State",766,1644,31067
+54,003,59,001,DS,"Other Flows - Northeast",162,351,6490
+54,003,59,003,DS,"Other Flows - Midwest",123,279,5703
+54,003,59,005,DS,"Other Flows - South",400,845,15152
+54,003,59,007,DS,"Other Flows - West",81,169,3722
+54,003,57,009,FR,"Foreign - Other flows",13,24,394
+54,005,96,000,WV,"Boone County Tot Mig-US & For",466,1012,12830
+54,005,97,000,WV,"Boone County Tot Mig-US",466,1012,12830
+54,005,97,001,WV,"Boone County Tot Mig-Same St",313,698,9523
+54,005,97,003,WV,"Boone County Tot Mig-Diff St",153,314,3307
+54,005,54,005,WV,"Boone County Non-Migrants",8619,20334,317215
+54,005,54,045,WV,"Logan County",92,225,2939
+54,005,54,039,WV,"Kanawha County",85,169,2419
+54,005,54,043,WV,"Lincoln County",40,93,1027
+54,005,54,081,WV,"Raleigh County",16,47,533
+54,005,54,079,WV,"Putnam County",11,24,395
+54,005,54,059,WV,"Mingo County",10,22,481
+54,005,58,000,SS,"Other Flows - Same State",59,118,1729
+54,005,59,000,DS,"Other Flows - Diff State",153,314,3307
+54,007,96,000,WV,"Braxton County Tot Mig-US & For",234,515,6397
+54,007,97,000,WV,"Braxton County Tot Mig-US",234,515,6397
+54,007,97,001,WV,"Braxton County Tot Mig-Same St",130,300,3221
+54,007,97,003,WV,"Braxton County Tot Mig-Diff St",104,215,3176
+54,007,54,007,WV,"Braxton County Non-Migrants",4290,9911,134596
+54,007,54,067,WV,"Nicholas County",21,53,561
+54,007,54,021,WV,"Gilmer County",20,51,362
+54,007,54,039,WV,"Kanawha County",16,29,416
+54,007,54,041,WV,"Lewis County",11,23,232
+54,007,58,000,SS,"Other Flows - Same State",62,144,1649
+54,007,59,000,DS,"Other Flows - Diff State",104,215,3176
+54,009,96,000,WV,"Brooke County Tot Mig-US & For",523,1022,13692
+54,009,97,000,WV,"Brooke County Tot Mig-US",507,994,13424
+54,009,97,001,WV,"Brooke County Tot Mig-Same St",170,315,4307
+54,009,97,003,WV,"Brooke County Tot Mig-Diff St",337,679,9118
+54,009,98,000,WV,"Brooke County Tot Mig-Foreign",16,28,267
+54,009,54,009,WV,"Brooke County Non-Migrants",10812,23201,416983
+54,009,54,029,WV,"Hancock County",88,162,2198
+54,009,39,081,OH,"Jefferson County",75,167,1012
+54,009,54,069,WV,"Ohio County",45,83,1092
+54,009,42,125,PA,"Washington County",28,52,622
+54,009,42,003,PA,"Allegheny County",25,48,827
+54,009,39,013,OH,"Belmont County",12,20,359
+54,009,54,051,WV,"Marshall County",10,24,370
+54,009,58,000,SS,"Other Flows - Same State",27,46,646
+54,009,59,000,DS,"Other Flows - Diff State",197,392,6296
+54,009,59,001,DS,"Other Flows - Northeast",32,64,1098
+54,009,59,003,DS,"Other Flows - Midwest",57,107,1916
+54,009,59,005,DS,"Other Flows - South",88,172,2682
+54,009,59,007,DS,"Other Flows - West",20,49,600
+54,009,57,009,FR,"Foreign - Other flows",16,28,267
+54,011,96,000,WV,"Cabell County Tot Mig-US & For",2095,3784,64126
+54,011,97,000,WV,"Cabell County Tot Mig-US",2029,3687,63430
+54,011,97,001,WV,"Cabell County Tot Mig-Same St",970,1694,27038
+54,011,97,003,WV,"Cabell County Tot Mig-Diff St",1059,1993,36392
+54,011,98,000,WV,"Cabell County Tot Mig-Foreign",66,97,697
+54,011,54,011,WV,"Cabell County Non-Migrants",32702,68454,1355895
+54,011,54,099,WV,"Wayne County",290,561,8349
+54,011,39,087,OH,"Lawrence County",184,359,4557
+54,011,54,039,WV,"Kanawha County",153,245,4737
+54,011,54,079,WV,"Putnam County",122,234,3832
+54,011,54,043,WV,"Lincoln County",81,151,2095
+54,011,54,053,WV,"Mason County",48,75,928
+54,011,21,019,KY,"Boyd County",35,63,1000
+54,011,39,049,OH,"Franklin County",34,65,705
+54,011,54,045,WV,"Logan County",29,45,570
+54,011,54,081,WV,"Raleigh County",24,41,825
+54,011,54,107,WV,"Wood County",23,42,589
+54,011,54,019,WV,"Fayette County",22,31,346
+54,011,54,005,WV,"Boone County",20,36,517
+54,011,54,061,WV,"Monongalia County",18,32,1123
+54,011,54,059,WV,"Mingo County",17,20,299
+54,011,39,053,OH,"Gallia County",16,31,297
+54,011,57,005,FR,"Foreign - APO/FPO ZIPs",14,34,403
+54,011,21,089,KY,"Greenup County",13,18,197
+54,011,54,055,WV,"Mercer County",13,22,272
+54,011,37,119,NC,"Mecklenburg County",12,21,328
+54,011,39,061,OH,"Hamilton County",12,16,432
+54,011,39,145,OH,"Scioto County",12,15,442
+54,011,54,003,WV,"Berkeley County",11,14,238
+54,011,45,051,SC,"Horry County",10,12,91
+54,011,54,035,WV,"Jackson County",10,18,220
+54,011,54,109,WV,"Wyoming County",10,16,160
+54,011,58,000,SS,"Other Flows - Same State",79,111,1936
+54,011,59,000,DS,"Other Flows - Diff State",731,1393,28343
+54,011,59,001,DS,"Other Flows - Northeast",74,139,2747
+54,011,59,003,DS,"Other Flows - Midwest",160,303,5906
+54,011,59,005,DS,"Other Flows - South",412,790,14238
+54,011,59,007,DS,"Other Flows - West",85,161,5451
+54,011,57,009,FR,"Foreign - Other flows",52,63,294
+54,013,96,000,WV,"Calhoun County Tot Mig-US & For",110,224,2645
+54,013,97,000,WV,"Calhoun County Tot Mig-US",110,224,2645
+54,013,97,001,WV,"Calhoun County Tot Mig-Same St",52,105,1090
+54,013,97,003,WV,"Calhoun County Tot Mig-Diff St",58,119,1555
+54,013,54,013,WV,"Calhoun County Non-Migrants",2176,5089,64745
+54,013,54,087,WV,"Roane County",11,18,280
+54,013,54,021,WV,"Gilmer County",10,18,151
+54,013,58,000,SS,"Other Flows - Same State",31,69,658
+54,013,59,000,DS,"Other Flows - Diff State",58,119,1555
+54,015,96,000,WV,"Clay County Tot Mig-US & For",132,287,2868
+54,015,97,000,WV,"Clay County Tot Mig-US",132,287,2868
+54,015,97,001,WV,"Clay County Tot Mig-Same St",75,166,1798
+54,015,97,003,WV,"Clay County Tot Mig-Diff St",57,121,1069
+54,015,54,015,WV,"Clay County Non-Migrants",2761,6639,81893
+54,015,54,039,WV,"Kanawha County",29,59,611
+54,015,54,007,WV,"Braxton County",11,31,283
+54,015,58,000,SS,"Other Flows - Same State",35,76,904
+54,015,59,000,DS,"Other Flows - Diff State",57,121,1069
+54,017,96,000,WV,"Doddridge Count Tot Mig-US & For",135,285,3795
+54,017,97,000,WV,"Doddridge Count Tot Mig-US",135,285,3795
+54,017,97,001,WV,"Doddridge Count Tot Mig-Same St",81,162,2228
+54,017,97,003,WV,"Doddridge Count Tot Mig-Diff St",54,123,1566
+54,017,54,017,WV,"Doddridge Count Non-Migrants",1860,4277,62476
+54,017,54,033,WV,"Harrison County",43,92,1116
+54,017,58,000,SS,"Other Flows - Same State",38,70,1112
+54,017,59,000,DS,"Other Flows - Diff State",54,123,1566
+54,019,96,000,WV,"Fayette County Tot Mig-US & For",893,1798,22257
+54,019,97,000,WV,"Fayette County Tot Mig-US",877,1775,21792
+54,019,97,001,WV,"Fayette County Tot Mig-Same St",476,981,12185
+54,019,97,003,WV,"Fayette County Tot Mig-Diff St",401,794,9607
+54,019,98,000,WV,"Fayette County Tot Mig-Foreign",16,23,465
+54,019,54,019,WV,"Fayette County Non-Migrants",15023,33205,487703
+54,019,54,081,WV,"Raleigh County",168,337,4786
+54,019,54,039,WV,"Kanawha County",89,197,2303
+54,019,54,067,WV,"Nicholas County",66,133,1409
+54,019,54,025,WV,"Greenbrier County",40,100,1020
+54,019,54,011,WV,"Cabell County",17,35,394
+54,019,58,000,SS,"Other Flows - Same State",96,179,2273
+54,019,59,000,DS,"Other Flows - Diff State",401,794,9607
+54,019,59,001,DS,"Other Flows - Northeast",29,50,737
+54,019,59,003,DS,"Other Flows - Midwest",80,155,1643
+54,019,59,005,DS,"Other Flows - South",260,536,6005
+54,019,59,007,DS,"Other Flows - West",32,53,1222
+54,019,57,009,FR,"Foreign - Other flows",16,23,465
+54,021,96,000,WV,"Gilmer County Tot Mig-US & For",134,299,4474
+54,021,97,000,WV,"Gilmer County Tot Mig-US",134,299,4474
+54,021,97,001,WV,"Gilmer County Tot Mig-Same St",66,122,1787
+54,021,97,003,WV,"Gilmer County Tot Mig-Diff St",68,177,2687
+54,021,54,021,WV,"Gilmer County Non-Migrants",1716,3909,52079
+54,021,54,007,WV,"Braxton County",16,33,273
+54,021,58,000,SS,"Other Flows - Same State",50,89,1515
+54,021,59,000,DS,"Other Flows - Diff State",68,177,2687
+54,023,96,000,WV,"Grant County Tot Mig-US & For",226,479,5527
+54,023,97,000,WV,"Grant County Tot Mig-US",226,479,5527
+54,023,97,001,WV,"Grant County Tot Mig-Same St",116,261,2295
+54,023,97,003,WV,"Grant County Tot Mig-Diff St",110,218,3232
+54,023,54,023,WV,"Grant County Non-Migrants",4228,9463,141776
+54,023,54,031,WV,"Hardy County",41,87,640
+54,023,54,057,WV,"Mineral County",19,43,371
+54,023,54,071,WV,"Pendleton County",15,34,314
+54,023,24,001,MD,"Allegany County",11,16,140
+54,023,58,000,SS,"Other Flows - Same State",41,97,969
+54,023,59,000,DS,"Other Flows - Diff State",99,202,3092
+54,025,96,000,WV,"Greenbrier Coun Tot Mig-US & For",597,1168,19117
+54,025,97,000,WV,"Greenbrier Coun Tot Mig-US",597,1168,19117
+54,025,97,001,WV,"Greenbrier Coun Tot Mig-Same St",239,462,6627
+54,025,97,003,WV,"Greenbrier Coun Tot Mig-Diff St",358,706,12490
+54,025,54,025,WV,"Greenbrier Coun Non-Migrants",11088,24072,405234
+54,025,54,019,WV,"Fayette County",46,78,1074
+54,025,54,063,WV,"Monroe County",42,86,986
+54,025,54,081,WV,"Raleigh County",28,57,699
+54,025,54,039,WV,"Kanawha County",16,28,550
+54,025,51,005,VA,"Alleghany County",15,32,452
+54,025,54,067,WV,"Nicholas County",15,27,325
+54,025,54,075,WV,"Pocahontas County",14,29,142
+54,025,54,089,WV,"Summers County",14,26,328
+54,025,58,000,SS,"Other Flows - Same State",64,131,2523
+54,025,59,000,DS,"Other Flows - Diff State",343,674,12038
+54,025,59,001,DS,"Other Flows - Northeast",40,78,1249
+54,025,59,003,DS,"Other Flows - Midwest",51,89,2334
+54,025,59,005,DS,"Other Flows - South",221,445,6787
+54,025,59,007,DS,"Other Flows - West",31,62,1668
+54,027,96,000,WV,"Hampshire Count Tot Mig-US & For",526,1100,16603
+54,027,97,000,WV,"Hampshire Count Tot Mig-US",526,1100,16603
+54,027,97,001,WV,"Hampshire Count Tot Mig-Same St",157,343,4474
+54,027,97,003,WV,"Hampshire Count Tot Mig-Diff St",369,757,12129
+54,027,54,027,WV,"Hampshire Count Non-Migrants",7274,16278,253386
+54,027,51,069,VA,"Frederick County",91,205,2872
+54,027,54,057,WV,"Mineral County",49,111,1228
+54,027,54,003,WV,"Berkeley County",26,52,811
+54,027,54,031,WV,"Hardy County",24,51,615
+54,027,51,840,VA,Winchester,19,48,452
+54,027,24,005,MD,"Baltimore County",13,20,289
+54,027,54,065,WV,"Morgan County",13,32,355
+54,027,24,001,MD,"Allegany County",12,27,294
+54,027,51,059,VA,"Fairfax County",12,18,508
+54,027,54,037,WV,"Jefferson County",12,23,609
+54,027,24,031,MD,"Montgomery County",11,17,643
+54,027,24,003,MD,"Anne Arundel County",10,14,415
+54,027,51,153,VA,"Prince William Count",10,21,411
+54,027,58,000,SS,"Other Flows - Same State",33,74,855
+54,027,59,000,DS,"Other Flows - Diff State",191,387,6245
+54,027,59,001,DS,"Other Flows - Northeast",27,48,889
+54,027,59,003,DS,"Other Flows - Midwest",15,28,489
+54,027,59,005,DS,"Other Flows - South",136,281,4339
+54,027,59,007,DS,"Other Flows - West",13,30,529
+54,029,96,000,WV,"Hancock County Tot Mig-US & For",487,910,12744
+54,029,97,000,WV,"Hancock County Tot Mig-US",487,910,12744
+54,029,97,001,WV,"Hancock County Tot Mig-Same St",111,212,2575
+54,029,97,003,WV,"Hancock County Tot Mig-Diff St",376,698,10169
+54,029,54,029,WV,"Hancock County Non-Migrants",11404,23694,440651
+54,029,39,029,OH,"Columbiana County",82,150,1464
+54,029,54,009,WV,"Brooke County",74,139,1689
+54,029,42,003,PA,"Allegheny County",41,65,1289
+54,029,39,081,OH,"Jefferson County",39,74,1326
+54,029,42,125,PA,"Washington County",26,46,760
+54,029,42,007,PA,"Beaver County",15,36,383
+54,029,58,000,SS,"Other Flows - Same State",37,73,886
+54,029,59,000,DS,"Other Flows - Diff State",173,327,4947
+54,029,59,001,DS,"Other Flows - Northeast",26,52,753
+54,029,59,003,DS,"Other Flows - Midwest",56,93,1277
+54,029,59,005,DS,"Other Flows - South",78,154,2600
+54,029,59,007,DS,"Other Flows - West",13,28,317
+54,031,96,000,WV,"Hardy County Tot Mig-US & For",316,624,9257
+54,031,97,000,WV,"Hardy County Tot Mig-US",316,624,9257
+54,031,97,001,WV,"Hardy County Tot Mig-Same St",139,282,3607
+54,031,97,003,WV,"Hardy County Tot Mig-Diff St",177,342,5650
+54,031,54,031,WV,"Hardy County Non-Migrants",4486,9773,151201
+54,031,54,023,WV,"Grant County",36,67,699
+54,031,54,027,WV,"Hampshire County",30,68,898
+54,031,54,057,WV,"Mineral County",17,22,379
+54,031,51,165,VA,"Rockingham County",14,24,299
+54,031,51,069,VA,"Frederick County",12,26,419
+54,031,58,000,SS,"Other Flows - Same State",56,125,1631
+54,031,59,000,DS,"Other Flows - Diff State",151,292,4932
+54,033,96,000,WV,"Harrison County Tot Mig-US & For",1207,2410,39408
+54,033,97,000,WV,"Harrison County Tot Mig-US",1207,2410,39408
+54,033,97,001,WV,"Harrison County Tot Mig-Same St",617,1223,18593
+54,033,97,003,WV,"Harrison County Tot Mig-Diff St",590,1187,20815
+54,033,54,033,WV,"Harrison County Non-Migrants",24665,53815,963174
+54,033,54,049,WV,"Marion County",167,308,5176
+54,033,54,041,WV,"Lewis County",64,135,1372
+54,033,54,061,WV,"Monongalia County",63,104,2062
+54,033,54,091,WV,"Taylor County",44,104,1056
+54,033,54,017,WV,"Doddridge County",38,85,1226
+54,033,54,001,WV,"Barbour County",35,76,996
+54,033,54,097,WV,"Upshur County",28,55,912
+54,033,54,039,WV,"Kanawha County",22,43,892
+54,033,54,083,WV,"Randolph County",20,40,471
+54,033,42,003,PA,"Allegheny County",16,28,523
+54,033,54,107,WV,"Wood County",11,17,290
+54,033,24,003,MD,"Anne Arundel County",10,22,401
+54,033,54,103,WV,"Wetzel County",10,20,223
+54,033,58,000,SS,"Other Flows - Same State",115,236,3916
+54,033,59,000,DS,"Other Flows - Diff State",564,1137,19891
+54,033,59,001,DS,"Other Flows - Northeast",76,143,3436
+54,033,59,003,DS,"Other Flows - Midwest",124,229,3720
+54,033,59,005,DS,"Other Flows - South",310,650,11049
+54,033,59,007,DS,"Other Flows - West",54,115,1686
+54,035,96,000,WV,"Jackson County Tot Mig-US & For",469,974,13388
+54,035,97,000,WV,"Jackson County Tot Mig-US",469,974,13388
+54,035,97,001,WV,"Jackson County Tot Mig-Same St",290,633,8568
+54,035,97,003,WV,"Jackson County Tot Mig-Diff St",179,341,4820
+54,035,54,035,WV,"Jackson County Non-Migrants",9547,22296,354272
+54,035,54,039,WV,"Kanawha County",108,250,3645
+54,035,54,107,WV,"Wood County",46,96,1237
+54,035,54,087,WV,"Roane County",32,71,902
+54,035,54,053,WV,"Mason County",22,46,416
+54,035,54,079,WV,"Putnam County",21,41,753
+54,035,54,011,WV,"Cabell County",14,27,354
+54,035,39,167,OH,"Washington County",10,21,263
+54,035,58,000,SS,"Other Flows - Same State",47,102,1261
+54,035,59,000,DS,"Other Flows - Diff State",169,320,4557
+54,037,96,000,WV,"Jefferson Count Tot Mig-US & For",1604,3254,78374
+54,037,97,000,WV,"Jefferson Count Tot Mig-US",1593,3236,77879
+54,037,97,001,WV,"Jefferson Count Tot Mig-Same St",326,548,9058
+54,037,97,003,WV,"Jefferson Count Tot Mig-Diff St",1267,2688,68821
+54,037,98,000,WV,"Jefferson Count Tot Mig-Foreign",11,18,495
+54,037,54,037,WV,"Jefferson Count Non-Migrants",15757,33834,777128
+54,037,51,107,VA,"Loudoun County",261,608,16837
+54,037,54,003,WV,"Berkeley County",261,444,7356
+54,037,24,021,MD,"Frederick County",155,347,7560
+54,037,51,059,VA,"Fairfax County",119,263,8450
+54,037,24,031,MD,"Montgomery County",108,232,7302
+54,037,51,153,VA,"Prince William Count",37,91,2072
+54,037,24,043,MD,"Washington County",31,51,1244
+54,037,24,033,MD,"Prince George's Coun",23,56,1254
+54,037,51,043,VA,"Clarke County",23,46,505
+54,037,51,069,VA,"Frederick County",20,47,939
+54,037,51,840,VA,Winchester,17,28,491
+54,037,24,003,MD,"Anne Arundel County",16,37,840
+54,037,24,005,MD,"Baltimore County",16,33,687
+54,037,11,001,DC,"District Of Columbia",10,14,824
+54,037,58,000,SS,"Other Flows - Same State",65,104,1702
+54,037,59,000,DS,"Other Flows - Diff State",431,835,19815
+54,037,59,001,DS,"Other Flows - Northeast",88,150,3236
+54,037,59,003,DS,"Other Flows - Midwest",46,103,2814
+54,037,59,005,DS,"Other Flows - South",239,464,10945
+54,037,59,007,DS,"Other Flows - West",58,118,2819
+54,037,57,009,FR,"Foreign - Other flows",11,18,495
+54,039,96,000,WV,"Kanawha County Tot Mig-US & For",3304,6141,105451
+54,039,97,000,WV,"Kanawha County Tot Mig-US",3276,6092,104982
+54,039,97,001,WV,"Kanawha County Tot Mig-Same St",1785,3284,52729
+54,039,97,003,WV,"Kanawha County Tot Mig-Diff St",1491,2808,52253
+54,039,98,000,WV,"Kanawha County Tot Mig-Foreign",28,49,469
+54,039,54,039,WV,"Kanawha County Non-Migrants",74019,153637,3256854
+54,039,54,079,WV,"Putnam County",496,975,14953
+54,039,54,011,WV,"Cabell County",154,248,3715
+54,039,54,005,WV,"Boone County",130,241,3628
+54,039,54,019,WV,"Fayette County",126,229,3079
+54,039,54,035,WV,"Jackson County",91,191,2961
+54,039,54,043,WV,"Lincoln County",74,188,2195
+54,039,54,081,WV,"Raleigh County",72,125,2143
+54,039,54,087,WV,"Roane County",64,118,1351
+54,039,54,061,WV,"Monongalia County",60,84,1762
+54,039,54,015,WV,"Clay County",50,85,1126
+54,039,54,045,WV,"Logan County",46,79,2141
+54,039,39,049,OH,"Franklin County",44,65,1300
+54,039,54,107,WV,"Wood County",39,68,1243
+54,039,54,033,WV,"Harrison County",34,65,1001
+54,039,54,055,WV,"Mercer County",34,61,1150
+54,039,54,067,WV,"Nicholas County",31,48,1160
+54,039,54,053,WV,"Mason County",29,56,773
+54,039,54,059,WV,"Mingo County",27,41,1002
+54,039,37,119,NC,"Mecklenburg County",24,41,765
+54,039,54,007,WV,"Braxton County",23,43,713
+54,039,54,049,WV,"Marion County",23,34,648
+54,039,39,087,OH,"Lawrence County",16,26,513
+54,039,24,031,MD,"Montgomery County",15,23,603
+54,039,39,035,OH,"Cuyahoga County",15,22,273
+54,039,42,003,PA,"Allegheny County",15,19,554
+54,039,12,009,FL,"Brevard County",14,26,358
+54,039,12,057,FL,"Hillsborough County",14,27,501
+54,039,21,067,KY,"Fayette County",14,27,377
+54,039,45,051,SC,"Horry County",14,21,366
+54,039,48,201,TX,"Harris County",14,25,962
+54,039,51,810,VA,"Virginia Beach",13,36,540
+54,039,57,005,FR,"Foreign - APO/FPO ZIPs",13,21,266
+54,039,13,121,GA,"Fulton County",12,17,427
+54,039,54,003,WV,"Berkeley County",12,19,547
+54,039,04,013,AZ,"Maricopa County",11,20,435
+54,039,24,033,MD,"Prince George's Coun",11,20,195
+54,039,37,183,NC,"Wake County",11,14,305
+54,039,54,069,WV,"Ohio County",11,21,604
+54,039,54,083,WV,"Randolph County",11,22,366
+54,039,54,099,WV,"Wayne County",11,17,271
+54,039,54,103,WV,"Wetzel County",11,24,512
+54,039,12,103,FL,"Pinellas County",10,14,376
+54,039,37,025,NC,"Cabarrus County",10,21,333
+54,039,37,067,NC,"Forsyth County",10,19,422
+54,039,47,037,TN,"Davidson County",10,14,254
+54,039,51,153,VA,"Prince William Count",10,26,716
+54,039,54,051,WV,"Marshall County",10,12,346
+54,039,54,109,WV,"Wyoming County",10,11,285
+54,039,58,000,SS,"Other Flows - Same State",106,179,3053
+54,039,59,000,DS,"Other Flows - Diff State",1184,2285,41677
+54,039,59,001,DS,"Other Flows - Northeast",190,390,7878
+54,039,59,003,DS,"Other Flows - Midwest",240,467,7777
+54,039,59,005,DS,"Other Flows - South",652,1244,22057
+54,039,59,007,DS,"Other Flows - West",102,184,3966
+54,039,57,009,FR,"Foreign - Other flows",15,28,203
+54,041,96,000,WV,"Lewis County Tot Mig-US & For",339,715,9983
+54,041,97,000,WV,"Lewis County Tot Mig-US",339,715,9983
+54,041,97,001,WV,"Lewis County Tot Mig-Same St",209,451,5944
+54,041,97,003,WV,"Lewis County Tot Mig-Diff St",130,264,4038
+54,041,54,041,WV,"Lewis County Non-Migrants",6076,13262,200843
+54,041,54,033,WV,"Harrison County",66,141,2231
+54,041,54,097,WV,"Upshur County",41,88,919
+54,041,54,007,WV,"Braxton County",16,33,382
+54,041,54,021,WV,"Gilmer County",11,24,216
+54,041,58,000,SS,"Other Flows - Same State",75,165,2196
+54,041,59,000,DS,"Other Flows - Diff State",130,264,4038
+54,043,96,000,WV,"Lincoln County Tot Mig-US & For",354,739,10162
+54,043,97,000,WV,"Lincoln County Tot Mig-US",354,739,10162
+54,043,97,001,WV,"Lincoln County Tot Mig-Same St",237,475,7077
+54,043,97,003,WV,"Lincoln County Tot Mig-Diff St",117,264,3085
+54,043,54,043,WV,"Lincoln County Non-Migrants",6286,14930,203586
+54,043,54,039,WV,"Kanawha County",77,134,2646
+54,043,54,011,WV,"Cabell County",57,121,1258
+54,043,54,005,WV,"Boone County",35,64,1014
+54,043,54,045,WV,"Logan County",20,48,556
+54,043,54,079,WV,"Putnam County",19,44,821
+54,043,54,099,WV,"Wayne County",16,33,345
+54,043,58,000,SS,"Other Flows - Same State",13,31,436
+54,043,59,000,DS,"Other Flows - Diff State",117,264,3085
+54,045,96,000,WV,"Logan County Tot Mig-US & For",413,823,10169
+54,045,97,000,WV,"Logan County Tot Mig-US",413,823,10169
+54,045,97,001,WV,"Logan County Tot Mig-Same St",207,400,5598
+54,045,97,003,WV,"Logan County Tot Mig-Diff St",206,423,4571
+54,045,54,045,WV,"Logan County Non-Migrants",9884,23077,343962
+54,045,54,005,WV,"Boone County",53,117,1474
+54,045,54,059,WV,"Mingo County",47,89,1160
+54,045,54,039,WV,"Kanawha County",41,66,1196
+54,045,39,049,OH,"Franklin County",16,29,229
+54,045,54,011,WV,"Cabell County",12,13,242
+54,045,54,109,WV,"Wyoming County",12,30,217
+54,045,54,043,WV,"Lincoln County",11,23,308
+54,045,58,000,SS,"Other Flows - Same State",31,62,1001
+54,045,59,000,DS,"Other Flows - Diff State",190,394,4342
+54,047,96,000,WV,"Mcdowell County Tot Mig-US & For",241,495,4573
+54,047,97,000,WV,"Mcdowell County Tot Mig-US",241,495,4573
+54,047,97,001,WV,"Mcdowell County Tot Mig-Same St",87,180,1752
+54,047,97,003,WV,"Mcdowell County Tot Mig-Diff St",154,315,2821
+54,047,54,047,WV,"Mcdowell County Non-Migrants",5843,13212,164710
+54,047,54,055,WV,"Mercer County",49,92,878
+54,047,54,109,WV,"Wyoming County",15,39,497
+54,047,51,185,VA,"Tazewell County",12,23,230
+54,047,37,097,NC,"Iredell County",10,28,176
+54,047,58,000,SS,"Other Flows - Same State",23,49,377
+54,047,59,000,DS,"Other Flows - Diff State",132,264,2415
+54,049,96,000,WV,"Marion County Tot Mig-US & For",1059,1963,29063
+54,049,97,000,WV,"Marion County Tot Mig-US",1044,1943,28696
+54,049,97,001,WV,"Marion County Tot Mig-Same St",590,1067,14996
+54,049,97,003,WV,"Marion County Tot Mig-Diff St",454,876,13700
+54,049,98,000,WV,"Marion County Tot Mig-Foreign",15,20,367
+54,049,54,049,WV,"Marion County Non-Migrants",20029,43078,741914
+54,049,54,061,WV,"Monongalia County",154,283,4424
+54,049,54,033,WV,"Harrison County",145,274,3969
+54,049,54,091,WV,"Taylor County",43,96,1058
+54,049,54,077,WV,"Preston County",24,38,520
+54,049,54,103,WV,"Wetzel County",18,37,587
+54,049,54,039,WV,"Kanawha County",17,29,646
+54,049,54,003,WV,"Berkeley County",14,25,295
+54,049,54,097,WV,"Upshur County",14,27,285
+54,049,42,003,PA,"Allegheny County",13,20,388
+54,049,54,041,WV,"Lewis County",12,15,145
+54,049,42,059,PA,"Greene County",11,22,287
+54,049,54,083,WV,"Randolph County",11,21,229
+54,049,54,019,WV,"Fayette County",10,17,213
+54,049,58,000,SS,"Other Flows - Same State",128,205,2623
+54,049,59,000,DS,"Other Flows - Diff State",430,834,13026
+54,049,59,001,DS,"Other Flows - Northeast",67,130,2478
+54,049,59,003,DS,"Other Flows - Midwest",81,171,2167
+54,049,59,005,DS,"Other Flows - South",243,465,7409
+54,049,59,007,DS,"Other Flows - West",39,68,971
+54,049,57,009,FR,"Foreign - Other flows",15,20,367
+54,051,96,000,WV,"Marshall County Tot Mig-US & For",513,1001,12672
+54,051,97,000,WV,"Marshall County Tot Mig-US",513,1001,12672
+54,051,97,001,WV,"Marshall County Tot Mig-Same St",248,503,6388
+54,051,97,003,WV,"Marshall County Tot Mig-Diff St",265,498,6284
+54,051,54,051,WV,"Marshall County Non-Migrants",11467,25503,411743
+54,051,54,069,WV,"Ohio County",163,345,4268
+54,051,39,013,OH,"Belmont County",68,113,1290
+54,051,54,103,WV,"Wetzel County",37,78,1061
+54,051,54,009,WV,"Brooke County",12,20,287
+54,051,39,049,OH,"Franklin County",11,25,328
+54,051,42,059,PA,"Greene County",10,24,277
+54,051,58,000,SS,"Other Flows - Same State",36,60,772
+54,051,59,000,DS,"Other Flows - Diff State",176,336,4389
+54,051,59,001,DS,"Other Flows - Northeast",35,56,1031
+54,051,59,003,DS,"Other Flows - Midwest",46,81,1041
+54,051,59,005,DS,"Other Flows - South",79,168,1921
+54,051,59,007,DS,"Other Flows - West",16,31,396
+54,053,96,000,WV,"Mason County Tot Mig-US & For",434,845,13022
+54,053,97,000,WV,"Mason County Tot Mig-US",434,845,13022
+54,053,97,001,WV,"Mason County Tot Mig-Same St",187,362,5770
+54,053,97,003,WV,"Mason County Tot Mig-Diff St",247,483,7252
+54,053,54,053,WV,"Mason County Non-Migrants",8605,19398,310139
+54,053,39,053,OH,"Gallia County",52,111,1648
+54,053,54,079,WV,"Putnam County",48,85,1474
+54,053,54,011,WV,"Cabell County",35,71,949
+54,053,54,035,WV,"Jackson County",32,52,829
+54,053,39,105,OH,"Meigs County",30,62,836
+54,053,54,039,WV,"Kanawha County",29,63,1074
+54,053,39,049,OH,"Franklin County",18,27,491
+54,053,58,000,SS,"Other Flows - Same State",43,91,1444
+54,053,59,000,DS,"Other Flows - Diff State",147,283,4277
+54,055,96,000,WV,"Mercer County Tot Mig-US & For",987,1938,26769
+54,055,97,000,WV,"Mercer County Tot Mig-US",963,1907,26577
+54,055,97,001,WV,"Mercer County Tot Mig-Same St",328,614,7566
+54,055,97,003,WV,"Mercer County Tot Mig-Diff St",635,1293,19011
+54,055,98,000,WV,"Mercer County Tot Mig-Foreign",24,31,192
+54,055,54,055,WV,"Mercer County Non-Migrants",19818,43167,722147
+54,055,54,047,WV,"Mcdowell County",149,296,3231
+54,055,51,185,VA,"Tazewell County",98,211,2532
+54,055,54,081,WV,"Raleigh County",43,77,901
+54,055,54,089,WV,"Summers County",22,38,435
+54,055,51,021,VA,"Bland County",20,47,324
+54,055,54,063,WV,"Monroe County",19,35,412
+54,055,54,109,WV,"Wyoming County",19,32,414
+54,055,37,119,NC,"Mecklenburg County",11,19,192
+54,055,54,039,WV,"Kanawha County",11,17,222
+54,055,51,071,VA,"Giles County",10,16,284
+54,055,58,000,SS,"Other Flows - Same State",65,119,1950
+54,055,59,000,DS,"Other Flows - Diff State",496,1000,15680
+54,055,59,001,DS,"Other Flows - Northeast",31,55,1453
+54,055,59,003,DS,"Other Flows - Midwest",51,105,1940
+54,055,59,005,DS,"Other Flows - South",386,782,10760
+54,055,59,007,DS,"Other Flows - West",28,58,1527
+54,055,57,009,FR,"Foreign - Other flows",24,31,192
+54,057,96,000,WV,"Mineral County Tot Mig-US & For",477,974,15329
+54,057,97,000,WV,"Mineral County Tot Mig-US",477,974,15329
+54,057,97,001,WV,"Mineral County Tot Mig-Same St",114,236,2914
+54,057,97,003,WV,"Mineral County Tot Mig-Diff St",363,738,12415
+54,057,54,057,WV,"Mineral County Non-Migrants",9381,20912,346067
+54,057,24,001,MD,"Allegany County",163,321,4671
+54,057,54,027,WV,"Hampshire County",28,56,809
+54,057,54,023,WV,"Grant County",16,38,405
+54,057,54,061,WV,"Monongalia County",15,32,432
+54,057,24,023,MD,"Garrett County",12,24,503
+54,057,54,031,WV,"Hardy County",10,21,174
+54,057,58,000,SS,"Other Flows - Same State",45,89,1094
+54,057,59,000,DS,"Other Flows - Diff State",188,393,7241
+54,057,59,001,DS,"Other Flows - Northeast",29,59,1032
+54,057,59,003,DS,"Other Flows - Midwest",26,64,1088
+54,057,59,005,DS,"Other Flows - South",116,226,4459
+54,057,59,007,DS,"Other Flows - West",17,44,662
+54,059,96,000,WV,"Mingo County Tot Mig-US & For",347,751,8093
+54,059,97,000,WV,"Mingo County Tot Mig-US",347,751,8093
+54,059,97,001,WV,"Mingo County Tot Mig-Same St",106,235,2879
+54,059,97,003,WV,"Mingo County Tot Mig-Diff St",241,516,5215
+54,059,54,059,WV,"Mingo County Non-Migrants",7501,17929,259206
+54,059,21,195,KY,"Pike County",74,171,1487
+54,059,54,045,WV,"Logan County",33,75,771
+54,059,54,099,WV,"Wayne County",17,39,431
+54,059,54,109,WV,"Wyoming County",16,36,410
+54,059,39,049,OH,"Franklin County",13,36,321
+54,059,58,000,SS,"Other Flows - Same State",40,85,1267
+54,059,59,000,DS,"Other Flows - Diff State",154,309,3406
+54,061,96,000,WV,"Monongalia Coun Tot Mig-US & For",2267,3619,67777
+54,061,97,000,WV,"Monongalia Coun Tot Mig-US",2038,3367,65771
+54,061,97,001,WV,"Monongalia Coun Tot Mig-Same St",915,1402,23804
+54,061,97,003,WV,"Monongalia Coun Tot Mig-Diff St",1123,1965,41967
+54,061,98,000,WV,"Monongalia Coun Tot Mig-Foreign",229,252,2006
+54,061,54,061,WV,"Monongalia Coun Non-Migrants",24400,50567,1138819
+54,061,54,049,WV,"Marion County",177,289,4571
+54,061,54,077,WV,"Preston County",127,220,3295
+54,061,54,033,WV,"Harrison County",86,138,2232
+54,061,54,039,WV,"Kanawha County",76,115,2374
+54,061,42,003,PA,"Allegheny County",53,91,1972
+54,061,42,051,PA,"Fayette County",45,80,1260
+54,061,42,059,PA,"Greene County",45,90,1047
+54,061,54,107,WV,"Wood County",45,63,1006
+54,061,54,091,WV,"Taylor County",28,41,708
+54,061,54,067,WV,"Nicholas County",22,28,341
+54,061,54,069,WV,"Ohio County",22,27,549
+54,061,54,081,WV,"Raleigh County",22,35,546
+54,061,54,057,WV,"Mineral County",21,35,1331
+54,061,39,049,OH,"Franklin County",19,26,740
+54,061,54,083,WV,"Randolph County",19,23,368
+54,061,54,003,WV,"Berkeley County",17,30,416
+54,061,54,011,WV,"Cabell County",17,30,558
+54,061,51,059,VA,"Fairfax County",16,22,510
+54,061,54,103,WV,"Wetzel County",16,21,262
+54,061,42,129,PA,"Westmoreland County",14,25,538
+54,061,54,019,WV,"Fayette County",14,20,411
+54,061,24,023,MD,"Garrett County",13,18,143
+54,061,24,031,MD,"Montgomery County",13,16,690
+54,061,54,051,WV,"Marshall County",13,14,146
+54,061,37,183,NC,"Wake County",12,17,252
+54,061,42,125,PA,"Washington County",12,17,339
+54,061,06,037,CA,"Los Angeles County",11,14,382
+54,061,12,057,FL,"Hillsborough County",11,17,254
+54,061,54,001,WV,"Barbour County",11,15,222
+54,061,54,079,WV,"Putnam County",11,23,471
+54,061,12,099,FL,"Palm Beach County",10,15,243
+54,061,54,017,WV,"Doddridge County",10,12,178
+54,061,54,023,WV,"Grant County",10,15,218
+54,061,54,041,WV,"Lewis County",10,12,338
+54,061,58,000,SS,"Other Flows - Same State",141,196,3265
+54,061,59,000,DS,"Other Flows - Diff State",849,1517,33597
+54,061,59,001,DS,"Other Flows - Northeast",194,319,8133
+54,061,59,003,DS,"Other Flows - Midwest",160,300,6099
+54,061,59,005,DS,"Other Flows - South",397,723,15736
+54,061,59,007,DS,"Other Flows - West",98,175,3628
+54,061,57,009,FR,"Foreign - Other flows",229,252,2006
+54,063,96,000,WV,"Monroe County Tot Mig-US & For",222,470,6090
+54,063,97,000,WV,"Monroe County Tot Mig-US",222,470,6090
+54,063,97,001,WV,"Monroe County Tot Mig-Same St",107,220,2668
+54,063,97,003,WV,"Monroe County Tot Mig-Diff St",115,250,3422
+54,063,54,063,WV,"Monroe County Non-Migrants",3978,8973,130083
+54,063,54,025,WV,"Greenbrier County",46,89,1255
+54,063,54,055,WV,"Mercer County",22,46,439
+54,063,54,089,WV,"Summers County",16,36,413
+54,063,51,071,VA,"Giles County",11,27,291
+54,063,58,000,SS,"Other Flows - Same State",23,49,561
+54,063,59,000,DS,"Other Flows - Diff State",104,223,3132
+54,065,96,000,WV,"Morgan County Tot Mig-US & For",385,760,12651
+54,065,97,000,WV,"Morgan County Tot Mig-US",385,760,12651
+54,065,97,001,WV,"Morgan County Tot Mig-Same St",103,208,2997
+54,065,97,003,WV,"Morgan County Tot Mig-Diff St",282,552,9654
+54,065,54,065,WV,"Morgan County Non-Migrants",5087,10734,185409
+54,065,54,003,WV,"Berkeley County",61,119,1640
+54,065,24,043,MD,"Washington County",44,76,1001
+54,065,24,003,MD,"Anne Arundel County",21,43,634
+54,065,24,031,MD,"Montgomery County",20,33,1364
+54,065,51,069,VA,"Frederick County",12,25,609
+54,065,58,000,SS,"Other Flows - Same State",42,89,1357
+54,065,59,000,DS,"Other Flows - Diff State",185,375,6046
+54,065,59,001,DS,"Other Flows - Northeast",41,92,1396
+54,065,59,003,DS,"Other Flows - Midwest",14,27,337
+54,065,59,005,DS,"Other Flows - South",116,232,4071
+54,065,59,007,DS,"Other Flows - West",14,24,242
+54,067,96,000,WV,"Nicholas County Tot Mig-US & For",377,780,10374
+54,067,97,000,WV,"Nicholas County Tot Mig-US",377,780,10374
+54,067,97,001,WV,"Nicholas County Tot Mig-Same St",204,412,5432
+54,067,97,003,WV,"Nicholas County Tot Mig-Diff St",173,368,4942
+54,067,54,067,WV,"Nicholas County Non-Migrants",8175,18739,283532
+54,067,54,019,WV,"Fayette County",41,94,1114
+54,067,54,101,WV,"Webster County",26,61,672
+54,067,54,007,WV,"Braxton County",18,34,583
+54,067,54,039,WV,"Kanawha County",18,30,612
+54,067,54,081,WV,"Raleigh County",18,32,434
+54,067,54,015,WV,"Clay County",16,37,269
+54,067,54,025,WV,"Greenbrier County",12,25,248
+54,067,58,000,SS,"Other Flows - Same State",55,99,1500
+54,067,59,000,DS,"Other Flows - Diff State",173,368,4942
+54,069,96,000,WV,"Ohio County Tot Mig-US & For",850,1505,25755
+54,069,97,000,WV,"Ohio County Tot Mig-US",836,1486,25604
+54,069,97,001,WV,"Ohio County Tot Mig-Same St",290,526,8178
+54,069,97,003,WV,"Ohio County Tot Mig-Diff St",546,960,17426
+54,069,98,000,WV,"Ohio County Tot Mig-Foreign",14,19,151
+54,069,54,069,WV,"Ohio County Non-Migrants",16966,35565,762539
+54,069,39,013,OH,"Belmont County",155,258,2704
+54,069,54,051,WV,"Marshall County",138,249,3587
+54,069,54,009,WV,"Brooke County",61,123,1550
+54,069,39,049,OH,"Franklin County",21,30,464
+54,069,42,003,PA,"Allegheny County",21,36,990
+54,069,42,125,PA,"Washington County",20,34,652
+54,069,54,061,WV,"Monongalia County",15,27,370
+54,069,54,103,WV,"Wetzel County",14,20,354
+54,069,54,039,WV,"Kanawha County",12,21,514
+54,069,39,081,OH,"Jefferson County",11,18,243
+54,069,58,000,SS,"Other Flows - Same State",50,86,1804
+54,069,59,000,DS,"Other Flows - Diff State",318,584,12373
+54,069,59,001,DS,"Other Flows - Northeast",65,129,3114
+54,069,59,003,DS,"Other Flows - Midwest",86,175,3981
+54,069,59,005,DS,"Other Flows - South",143,238,4369
+54,069,59,007,DS,"Other Flows - West",24,42,909
+54,069,57,009,FR,"Foreign - Other flows",14,19,151
+54,071,96,000,WV,"Pendleton Count Tot Mig-US & For",173,341,4954
+54,071,97,000,WV,"Pendleton Count Tot Mig-US",159,318,4597
+54,071,97,001,WV,"Pendleton Count Tot Mig-Same St",46,84,1123
+54,071,97,003,WV,"Pendleton Count Tot Mig-Diff St",113,234,3474
+54,071,98,000,WV,"Pendleton Count Tot Mig-Foreign",14,23,358
+54,071,54,071,WV,"Pendleton Count Non-Migrants",2878,6184,88443
+54,071,54,023,WV,"Grant County",17,32,429
+54,071,51,165,VA,"Rockingham County",11,21,228
+54,071,58,000,SS,"Other Flows - Same State",29,52,694
+54,071,59,000,DS,"Other Flows - Diff State",102,213,3246
+54,071,57,009,FR,"Foreign - Other flows",14,23,358
+54,073,96,000,WV,"Pleasants Count Tot Mig-US & For",110,220,3523
+54,073,97,000,WV,"Pleasants Count Tot Mig-US",110,220,3523
+54,073,97,001,WV,"Pleasants Count Tot Mig-Same St",68,137,1972
+54,073,97,003,WV,"Pleasants Count Tot Mig-Diff St",42,83,1551
+54,073,54,073,WV,"Pleasants Count Non-Migrants",2620,5954,101569
+54,073,54,107,WV,"Wood County",32,61,995
+54,073,39,167,OH,"Washington County",16,36,413
+54,073,54,085,WV,"Ritchie County",12,30,174
+54,073,58,000,SS,"Other Flows - Same State",24,46,802
+54,073,59,000,DS,"Other Flows - Diff State",26,47,1138
+54,075,96,000,WV,"Pocahontas Coun Tot Mig-US & For",171,299,6041
+54,075,97,000,WV,"Pocahontas Coun Tot Mig-US",171,299,6041
+54,075,97,001,WV,"Pocahontas Coun Tot Mig-Same St",68,120,1771
+54,075,97,003,WV,"Pocahontas Coun Tot Mig-Diff St",103,179,4271
+54,075,54,075,WV,"Pocahontas Coun Non-Migrants",3031,6365,94661
+54,075,54,083,WV,"Randolph County",17,29,396
+54,075,58,000,SS,"Other Flows - Same State",51,91,1375
+54,075,59,000,DS,"Other Flows - Diff State",103,179,4271
+54,075,59,001,DS,"Other Flows - Northeast",19,32,1233
+54,075,59,003,DS,"Other Flows - Midwest",11,18,289
+54,075,59,005,DS,"Other Flows - South",62,108,2453
+54,075,59,007,DS,"Other Flows - West",11,21,296
+54,077,96,000,WV,"Preston County Tot Mig-US & For",451,906,14327
+54,077,97,000,WV,"Preston County Tot Mig-US",451,906,14327
+54,077,97,001,WV,"Preston County Tot Mig-Same St",226,441,7105
+54,077,97,003,WV,"Preston County Tot Mig-Diff St",225,465,7222
+54,077,54,077,WV,"Preston County Non-Migrants",10043,22581,342874
+54,077,54,061,WV,"Monongalia County",130,244,4777
+54,077,24,023,MD,"Garrett County",28,64,479
+54,077,54,049,WV,"Marion County",18,39,474
+54,077,42,051,PA,"Fayette County",12,27,520
+54,077,54,093,WV,"Tucker County",12,28,289
+54,077,24,003,MD,"Anne Arundel County",10,27,560
+54,077,58,000,SS,"Other Flows - Same State",66,130,1566
+54,077,59,000,DS,"Other Flows - Diff State",175,347,5664
+54,077,59,001,DS,"Other Flows - Northeast",21,34,738
+54,077,59,003,DS,"Other Flows - Midwest",36,74,1234
+54,077,59,005,DS,"Other Flows - South",92,188,2929
+54,077,59,007,DS,"Other Flows - West",26,51,763
+54,079,96,000,WV,"Putnam County Tot Mig-US & For",1396,2951,56655
+54,079,97,000,WV,"Putnam County Tot Mig-US",1396,2951,56655
+54,079,97,001,WV,"Putnam County Tot Mig-Same St",1045,2149,39079
+54,079,97,003,WV,"Putnam County Tot Mig-Diff St",351,802,17576
+54,079,54,079,WV,"Putnam County Non-Migrants",15417,36039,786549
+54,079,54,039,WV,"Kanawha County",647,1332,24732
+54,079,54,011,WV,"Cabell County",173,358,5949
+54,079,54,053,WV,"Mason County",37,64,1092
+54,079,54,043,WV,"Lincoln County",24,53,678
+54,079,54,035,WV,"Jackson County",20,39,717
+54,079,54,107,WV,"Wood County",16,28,727
+54,079,54,005,WV,"Boone County",13,31,582
+54,079,54,081,WV,"Raleigh County",12,29,528
+54,079,54,019,WV,"Fayette County",11,22,512
+54,079,54,045,WV,"Logan County",11,22,480
+54,079,58,000,SS,"Other Flows - Same State",81,171,3082
+54,079,59,000,DS,"Other Flows - Diff State",351,802,17576
+54,079,59,001,DS,"Other Flows - Northeast",35,87,1913
+54,079,59,003,DS,"Other Flows - Midwest",82,170,3874
+54,079,59,005,DS,"Other Flows - South",213,485,10880
+54,079,59,007,DS,"Other Flows - West",21,60,909
+54,081,96,000,WV,"Raleigh County Tot Mig-US & For",1244,2550,39106
+54,081,97,000,WV,"Raleigh County Tot Mig-US",1233,2521,38823
+54,081,97,001,WV,"Raleigh County Tot Mig-Same St",538,1098,16318
+54,081,97,003,WV,"Raleigh County Tot Mig-Diff St",695,1423,22505
+54,081,98,000,WV,"Raleigh County Tot Mig-Foreign",11,29,282
+54,081,54,081,WV,"Raleigh County Non-Migrants",24512,53780,950218
+54,081,54,019,WV,"Fayette County",142,324,3842
+54,081,54,109,WV,"Wyoming County",92,172,2660
+54,081,54,039,WV,"Kanawha County",39,77,1185
+54,081,54,055,WV,"Mercer County",37,68,956
+54,081,54,089,WV,"Summers County",36,68,801
+54,081,54,005,WV,"Boone County",34,84,1442
+54,081,54,061,WV,"Monongalia County",22,40,528
+54,081,54,025,WV,"Greenbrier County",21,40,799
+54,081,37,119,NC,"Mecklenburg County",14,28,487
+54,081,54,011,WV,"Cabell County",14,23,568
+54,081,37,035,NC,"Catawba County",12,30,170
+54,081,54,067,WV,"Nicholas County",12,26,367
+54,081,24,005,MD,"Baltimore County",11,19,133
+54,081,39,049,OH,"Franklin County",11,18,134
+54,081,37,067,NC,"Forsyth County",10,25,528
+54,081,54,033,WV,"Harrison County",10,15,129
+54,081,58,000,SS,"Other Flows - Same State",79,161,3042
+54,081,59,000,DS,"Other Flows - Diff State",637,1303,21053
+54,081,59,001,DS,"Other Flows - Northeast",61,151,2904
+54,081,59,003,DS,"Other Flows - Midwest",122,262,3519
+54,081,59,005,DS,"Other Flows - South",401,791,12818
+54,081,59,007,DS,"Other Flows - West",53,99,1812
+54,081,57,009,FR,"Foreign - Other flows",11,29,282
+54,083,96,000,WV,"Randolph County Tot Mig-US & For",441,839,13860
+54,083,97,000,WV,"Randolph County Tot Mig-US",441,839,13860
+54,083,97,001,WV,"Randolph County Tot Mig-Same St",223,424,6183
+54,083,97,003,WV,"Randolph County Tot Mig-Diff St",218,415,7676
+54,083,54,083,WV,"Randolph County Non-Migrants",9860,21428,326638
+54,083,54,001,WV,"Barbour County",42,81,724
+54,083,54,093,WV,"Tucker County",28,57,934
+54,083,54,097,WV,"Upshur County",25,54,576
+54,083,54,061,WV,"Monongalia County",20,32,468
+54,083,54,033,WV,"Harrison County",17,29,573
+54,083,54,075,WV,"Pocahontas County",13,24,272
+54,083,58,000,SS,"Other Flows - Same State",78,147,2636
+54,083,59,000,DS,"Other Flows - Diff State",218,415,7676
+54,083,59,001,DS,"Other Flows - Northeast",35,57,1318
+54,083,59,003,DS,"Other Flows - Midwest",35,77,1446
+54,083,59,005,DS,"Other Flows - South",129,238,4344
+54,083,59,007,DS,"Other Flows - West",19,43,569
+54,085,96,000,WV,"Ritchie County Tot Mig-US & For",209,428,5253
+54,085,97,000,WV,"Ritchie County Tot Mig-US",209,428,5253
+54,085,97,001,WV,"Ritchie County Tot Mig-Same St",136,271,3188
+54,085,97,003,WV,"Ritchie County Tot Mig-Diff St",73,157,2065
+54,085,54,085,WV,"Ritchie County Non-Migrants",3905,8644,123916
+54,085,54,107,WV,"Wood County",43,88,953
+54,085,54,073,WV,"Pleasants County",17,36,404
+54,085,54,017,WV,"Doddridge County",16,33,329
+54,085,54,033,WV,"Harrison County",10,18,251
+54,085,54,105,WV,"Wirt County",10,17,189
+54,085,58,000,SS,"Other Flows - Same State",40,79,1060
+54,085,59,000,DS,"Other Flows - Diff State",73,157,2065
+54,087,96,000,WV,"Roane County Tot Mig-US & For",258,571,6581
+54,087,97,000,WV,"Roane County Tot Mig-US",258,571,6581
+54,087,97,001,WV,"Roane County Tot Mig-Same St",136,298,3425
+54,087,97,003,WV,"Roane County Tot Mig-Diff St",122,273,3156
+54,087,54,087,WV,"Roane County Non-Migrants",4377,10069,137669
+54,087,54,039,WV,"Kanawha County",51,107,1504
+54,087,54,013,WV,"Calhoun County",20,49,409
+54,087,54,035,WV,"Jackson County",18,42,500
+54,087,58,000,SS,"Other Flows - Same State",47,100,1012
+54,087,59,000,DS,"Other Flows - Diff State",122,273,3156
+54,089,96,000,WV,"Summers County Tot Mig-US & For",181,372,4661
+54,089,97,000,WV,"Summers County Tot Mig-US",181,372,4661
+54,089,97,001,WV,"Summers County Tot Mig-Same St",82,172,2139
+54,089,97,003,WV,"Summers County Tot Mig-Diff St",99,200,2523
+54,089,54,089,WV,"Summers County Non-Migrants",3313,7137,97658
+54,089,54,081,WV,"Raleigh County",31,68,821
+54,089,54,055,WV,"Mercer County",15,33,503
+54,089,54,025,WV,"Greenbrier County",10,18,304
+54,089,58,000,SS,"Other Flows - Same State",26,53,511
+54,089,59,000,DS,"Other Flows - Diff State",99,200,2523
+54,091,96,000,WV,"Taylor County Tot Mig-US & For",249,483,6142
+54,091,97,000,WV,"Taylor County Tot Mig-US",249,483,6142
+54,091,97,001,WV,"Taylor County Tot Mig-Same St",153,294,3545
+54,091,97,003,WV,"Taylor County Tot Mig-Diff St",96,189,2597
+54,091,54,091,WV,"Taylor County Non-Migrants",4488,10012,148256
+54,091,54,033,WV,"Harrison County",48,95,1172
+54,091,54,049,WV,"Marion County",33,56,773
+54,091,54,061,WV,"Monongalia County",25,43,551
+54,091,54,077,WV,"Preston County",10,19,154
+54,091,58,000,SS,"Other Flows - Same State",37,81,895
+54,091,59,000,DS,"Other Flows - Diff State",96,189,2597
+54,093,96,000,WV,"Tucker County Tot Mig-US & For",130,233,3303
+54,093,97,000,WV,"Tucker County Tot Mig-US",130,233,3303
+54,093,97,001,WV,"Tucker County Tot Mig-Same St",68,128,1669
+54,093,97,003,WV,"Tucker County Tot Mig-Diff St",62,105,1634
+54,093,54,093,WV,"Tucker County Non-Migrants",2489,5406,88935
+54,093,54,083,WV,"Randolph County",29,54,591
+54,093,58,000,SS,"Other Flows - Same State",39,74,1077
+54,093,59,000,DS,"Other Flows - Diff State",62,105,1634
+54,095,96,000,WV,"Tyler County Tot Mig-US & For",162,358,3988
+54,095,97,000,WV,"Tyler County Tot Mig-US",162,358,3988
+54,095,97,001,WV,"Tyler County Tot Mig-Same St",102,225,2344
+54,095,97,003,WV,"Tyler County Tot Mig-Diff St",60,133,1644
+54,095,54,095,WV,"Tyler County Non-Migrants",2985,6828,109095
+54,095,54,103,WV,"Wetzel County",47,94,990
+54,095,54,107,WV,"Wood County",11,23,346
+54,095,58,000,SS,"Other Flows - Same State",44,108,1008
+54,095,59,000,DS,"Other Flows - Diff State",60,133,1644
+54,097,96,000,WV,"Upshur County Tot Mig-US & For",414,882,12136
+54,097,97,000,WV,"Upshur County Tot Mig-US",414,882,12136
+54,097,97,001,WV,"Upshur County Tot Mig-Same St",218,454,6292
+54,097,97,003,WV,"Upshur County Tot Mig-Diff St",196,428,5844
+54,097,54,097,WV,"Upshur County Non-Migrants",6731,15313,229093
+54,097,54,041,WV,"Lewis County",44,86,1031
+54,097,54,083,WV,"Randolph County",36,73,800
+54,097,54,001,WV,"Barbour County",31,75,759
+54,097,54,033,WV,"Harrison County",26,62,861
+54,097,54,061,WV,"Monongalia County",10,20,565
+54,097,58,000,SS,"Other Flows - Same State",71,138,2276
+54,097,59,000,DS,"Other Flows - Diff State",196,428,5844
+54,097,59,001,DS,"Other Flows - Northeast",36,84,1119
+54,097,59,003,DS,"Other Flows - Midwest",42,90,1206
+54,097,59,005,DS,"Other Flows - South",97,208,2812
+54,097,59,007,DS,"Other Flows - West",21,46,707
+54,099,96,000,WV,"Wayne County Tot Mig-US & For",739,1504,18456
+54,099,97,000,WV,"Wayne County Tot Mig-US",739,1504,18456
+54,099,97,001,WV,"Wayne County Tot Mig-Same St",378,754,9570
+54,099,97,003,WV,"Wayne County Tot Mig-Diff St",361,750,8887
+54,099,54,099,WV,"Wayne County Non-Migrants",12077,27769,431637
+54,099,54,011,WV,"Cabell County",292,574,7349
+54,099,39,087,OH,"Lawrence County",47,96,190
+54,099,21,019,KY,"Boyd County",27,50,606
+54,099,21,127,KY,"Lawrence County",19,49,436
+54,099,54,059,WV,"Mingo County",18,39,326
+54,099,54,039,WV,"Kanawha County",11,16,340
+54,099,39,049,OH,"Franklin County",10,19,231
+54,099,58,000,SS,"Other Flows - Same State",57,125,1555
+54,099,59,000,DS,"Other Flows - Diff State",258,536,7423
+54,099,59,001,DS,"Other Flows - Northeast",17,32,677
+54,099,59,003,DS,"Other Flows - Midwest",69,131,2104
+54,099,59,005,DS,"Other Flows - South",152,335,3832
+54,099,59,007,DS,"Other Flows - West",20,38,810
+54,101,96,000,WV,"Webster County Tot Mig-US & For",134,284,3058
+54,101,97,000,WV,"Webster County Tot Mig-US",134,284,3058
+54,101,97,001,WV,"Webster County Tot Mig-Same St",67,140,1611
+54,101,97,003,WV,"Webster County Tot Mig-Diff St",67,144,1446
+54,101,54,101,WV,"Webster County Non-Migrants",2616,6050,78875
+54,101,54,067,WV,"Nicholas County",23,50,558
+54,101,58,000,SS,"Other Flows - Same State",44,90,1053
+54,101,59,000,DS,"Other Flows - Diff State",67,144,1446
+54,103,96,000,WV,"Wetzel County Tot Mig-US & For",269,561,7148
+54,103,97,000,WV,"Wetzel County Tot Mig-US",269,561,7148
+54,103,97,001,WV,"Wetzel County Tot Mig-Same St",139,281,3220
+54,103,97,003,WV,"Wetzel County Tot Mig-Diff St",130,280,3928
+54,103,54,103,WV,"Wetzel County Non-Migrants",5745,13199,212764
+54,103,54,095,WV,"Tyler County",49,109,821
+54,103,54,049,WV,"Marion County",16,29,560
+54,103,54,051,WV,"Marshall County",16,36,320
+54,103,39,111,OH,"Monroe County",14,26,347
+54,103,58,000,SS,"Other Flows - Same State",58,107,1518
+54,103,59,000,DS,"Other Flows - Diff State",116,254,3580
+54,105,96,000,WV,"Wirt County Tot Mig-US & For",176,365,4641
+54,105,97,000,WV,"Wirt County Tot Mig-US",176,365,4641
+54,105,97,001,WV,"Wirt County Tot Mig-Same St",131,286,3299
+54,105,97,003,WV,"Wirt County Tot Mig-Diff St",45,79,1342
+54,105,54,105,WV,"Wirt County Non-Migrants",2131,5046,75000
+54,105,54,107,WV,"Wood County",97,223,2671
+54,105,58,000,SS,"Other Flows - Same State",34,63,628
+54,105,59,000,DS,"Other Flows - Diff State",45,79,1342
+54,107,96,000,WV,"Wood County Tot Mig-US & For",1428,2718,45634
+54,107,97,000,WV,"Wood County Tot Mig-US",1428,2718,45634
+54,107,97,001,WV,"Wood County Tot Mig-Same St",504,954,15779
+54,107,97,003,WV,"Wood County Tot Mig-Diff St",924,1764,29856
+54,107,54,107,WV,"Wood County Non-Migrants",30769,66190,1280791
+54,107,39,167,OH,"Washington County",242,462,6051
+54,107,54,105,WV,"Wirt County",113,237,2675
+54,107,54,073,WV,"Pleasants County",59,117,1677
+54,107,54,085,WV,"Ritchie County",54,105,1564
+54,107,54,035,WV,"Jackson County",48,79,1192
+54,107,54,039,WV,"Kanawha County",39,69,1801
+54,107,39,049,OH,"Franklin County",21,41,821
+54,107,39,009,OH,"Athens County",20,30,407
+54,107,54,061,WV,"Monongalia County",20,32,909
+54,107,54,011,WV,"Cabell County",16,34,411
+54,107,54,013,WV,"Calhoun County",15,32,326
+54,107,54,033,WV,"Harrison County",13,20,412
+54,107,54,095,WV,"Tyler County",12,22,461
+54,107,39,105,OH,"Meigs County",11,23,275
+54,107,42,003,PA,"Allegheny County",10,12,151
+54,107,58,000,SS,"Other Flows - Same State",115,207,4350
+54,107,59,000,DS,"Other Flows - Diff State",620,1196,22151
+54,107,59,001,DS,"Other Flows - Northeast",74,142,2716
+54,107,59,003,DS,"Other Flows - Midwest",156,310,6115
+54,107,59,005,DS,"Other Flows - South",325,632,10634
+54,107,59,007,DS,"Other Flows - West",65,112,2686
+54,109,96,000,WV,"Wyoming County Tot Mig-US & For",254,571,6167
+54,109,97,000,WV,"Wyoming County Tot Mig-US",254,571,6167
+54,109,97,001,WV,"Wyoming County Tot Mig-Same St",123,277,3074
+54,109,97,003,WV,"Wyoming County Tot Mig-Diff St",131,294,3093
+54,109,54,109,WV,"Wyoming County Non-Migrants",6772,15975,225006
+54,109,54,081,WV,"Raleigh County",42,97,997
+54,109,54,059,WV,"Mingo County",17,46,607
+54,109,54,055,WV,"Mercer County",16,37,437
+54,109,54,047,WV,"Mcdowell County",10,19,167
+54,109,58,000,SS,"Other Flows - Same State",38,78,865
+54,109,59,000,DS,"Other Flows - Diff State",131,294,3093
