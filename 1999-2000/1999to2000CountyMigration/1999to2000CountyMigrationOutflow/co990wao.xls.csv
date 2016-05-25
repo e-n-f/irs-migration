@@ -1,0 +1,2251 @@
+"1999 - 2000 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Washington,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+53,000,96,000,WA,"Total Mig - US & For",162885,310507,6919867
+53,000,97,000,WA,"Total Mig - US",158633,302177,6735595
+53,000,97,001,WA,"Total Mig - US Same St",81354,151475,3172348
+53,000,97,003,WA,"Total Mig - US Diff St",77279,150702,3563247
+53,000,98,000,WA,"Total Mig - Foreign",4252,8330,184272
+53,001,96,000,WA,"Adams County Tot Mig-US & For",452,1014,11637
+53,001,97,000,WA,"Adams County Tot Mig-US",452,1014,11637
+53,001,97,001,WA,"Adams County Tot Mig-Same St",299,651,7773
+53,001,97,003,WA,"Adams County Tot Mig-Diff St",153,363,3865
+53,001,53,001,WA,"Adams County Non-Migrants",5246,13775,187730
+53,001,53,025,WA,"Grant County",99,246,2534
+53,001,53,063,WA,"Spokane County",51,90,1051
+53,001,53,005,WA,"Benton County",33,68,1132
+53,001,53,021,WA,"Franklin County",26,56,590
+53,001,53,033,WA,"King County",20,30,419
+53,001,53,061,WA,"Snohomish County",10,25,269
+53,001,58,000,SS,"Other Flows - Same State",60,136,1778
+53,001,59,000,DS,"Other Flows - Diff State",153,363,3865
+53,003,96,000,WA,"Asotin County Tot Mig-US & For",743,1492,20909
+53,003,97,000,WA,"Asotin County Tot Mig-US",743,1492,20909
+53,003,97,001,WA,"Asotin County Tot Mig-Same St",215,426,6588
+53,003,97,003,WA,"Asotin County Tot Mig-Diff St",528,1066,14321
+53,003,53,003,WA,"Asotin County Non-Migrants",6713,15011,279807
+53,003,16,069,ID,"Nez Perce County",235,466,5546
+53,003,53,063,WA,"Spokane County",60,101,1886
+53,003,53,033,WA,"King County",33,50,924
+53,003,53,075,WA,"Whitman County",20,30,582
+53,003,53,005,WA,"Benton County",17,35,447
+53,003,16,055,ID,"Kootenai County",15,31,499
+53,003,16,057,ID,"Latah County",15,26,236
+53,003,16,001,ID,"Ada County",13,28,523
+53,003,53,071,WA,"Walla Walla County",13,32,523
+53,003,58,000,SS,"Other Flows - Same State",72,178,2225
+53,003,59,000,DS,"Other Flows - Diff State",250,515,7517
+53,005,96,000,WA,"Benton County Tot Mig-US & For",3650,7633,150031
+53,005,97,000,WA,"Benton County Tot Mig-US",3614,7560,148531
+53,005,97,001,WA,"Benton County Tot Mig-Same St",2004,4196,72037
+53,005,97,003,WA,"Benton County Tot Mig-Diff St",1610,3364,76494
+53,005,98,000,WA,"Benton County Tot Mig-Foreign",36,73,1499
+53,005,53,005,WA,"Benton County Non-Migrants",45233,109711,2334481
+53,005,53,021,WA,"Franklin County",672,1547,23049
+53,005,53,033,WA,"King County",313,494,14547
+53,005,53,077,WA,"Yakima County",218,514,5884
+53,005,53,063,WA,"Spokane County",169,321,5167
+53,005,53,011,WA,"Clark County",83,177,3217
+53,005,53,071,WA,"Walla Walla County",83,181,2928
+53,005,53,061,WA,"Snohomish County",75,136,3166
+53,005,53,053,WA,"Pierce County",59,128,2114
+53,005,04,013,AZ,"Maricopa County",57,117,2617
+53,005,41,059,OR,"Umatilla County",57,114,1435
+53,005,41,051,OR,"Multnomah County",46,71,879
+53,005,32,003,NV,"Clark County",39,78,2218
+53,005,16,001,ID,"Ada County",36,84,2160
+53,005,53,025,WA,"Grant County",36,82,1041
+53,005,41,067,OR,"Washington County",34,59,1276
+53,005,16,019,ID,"Bonneville County",33,99,3806
+53,005,06,037,CA,"Los Angeles County",31,59,900
+53,005,53,073,WA,"Whatcom County",29,45,662
+53,005,53,035,WA,"Kitsap County",28,77,1360
+53,005,53,067,WA,"Thurston County",28,45,1281
+53,005,06,073,CA,"San Diego County",27,35,847
+53,005,41,005,OR,"Clackamas County",27,51,1050
+53,005,53,075,WA,"Whitman County",27,47,716
+53,005,41,039,OR,"Lane County",22,39,738
+53,005,49,049,UT,"Utah County",22,34,321
+53,005,53,007,WA,"Chelan County",22,49,655
+53,005,06,059,CA,"Orange County",18,35,1100
+53,005,49,035,UT,"Salt Lake County",17,34,506
+53,005,53,037,WA,"Kittitas County",16,28,366
+53,005,53,057,WA,"Skagit County",16,41,528
+53,005,57,005,FR,"Foreign - APO/FPO ZIPs",16,29,477
+53,005,06,065,CA,"Riverside County",14,22,379
+53,005,41,035,OR,"Klamath County",14,20,278
+53,005,41,047,OR,"Marion County",14,30,244
+53,005,02,020,AK,"Anchorage Borough",13,26,295
+53,005,06,001,CA,"Alameda County",13,23,572
+53,005,16,027,ID,"Canyon County",13,28,2633
+53,005,16,055,ID,"Kootenai County",13,25,322
+53,005,53,015,WA,"Cowlitz County",13,31,441
+53,005,53,027,WA,"Grays Harbor County",13,24,525
+53,005,04,019,AZ,"Pima County",12,29,718
+53,005,53,009,WA,"Clallam County",12,22,776
+53,005,53,065,WA,"Stevens County",12,32,369
+53,005,08,059,CO,"Jefferson County",11,28,887
+53,005,41,061,OR,"Union County",11,18,223
+53,005,47,093,TN,"Knox County",11,24,1757
+53,005,53,039,WA,"Klickitat County",11,28,291
+53,005,06,067,CA,"Sacramento County",10,19,338
+53,005,32,031,NV,"Washoe County",10,16,431
+53,005,41,017,OR,"Deschutes County",10,20,474
+53,005,41,029,OR,"Jackson County",10,14,366
+53,005,41,049,OR,"Morrow County",10,25,213
+53,005,48,113,TX,"Dallas County",10,18,287
+53,005,53,003,WA,"Asotin County",10,20,503
+53,005,58,000,SS,"Other Flows - Same State",59,127,2450
+53,005,59,000,DS,"Other Flows - Diff State",945,2070,46226
+53,005,59,001,DS,"Other Flows - Northeast",75,148,6225
+53,005,59,003,DS,"Other Flows - Midwest",165,373,8200
+53,005,59,005,DS,"Other Flows - South",305,666,16436
+53,005,59,007,DS,"Other Flows - West",400,883,15365
+53,005,57,009,FR,"Foreign - Other flows",20,44,1022
+53,007,96,000,WA,"Chelan County Tot Mig-US & For",2012,4002,58643
+53,007,97,000,WA,"Chelan County Tot Mig-US",1998,3979,57968
+53,007,97,001,WA,"Chelan County Tot Mig-Same St",1354,2642,39861
+53,007,97,003,WA,"Chelan County Tot Mig-Diff St",644,1337,18107
+53,007,98,000,WA,"Chelan County Tot Mig-Foreign",14,23,675
+53,007,53,007,WA,"Chelan County Non-Migrants",21330,50097,888489
+53,007,53,017,WA,"Douglas County",547,1198,16332
+53,007,53,033,WA,"King County",214,341,5932
+53,007,53,061,WA,"Snohomish County",88,153,2694
+53,007,53,063,WA,"Spokane County",84,160,2772
+53,007,53,025,WA,"Grant County",55,123,1493
+53,007,53,053,WA,"Pierce County",45,82,1194
+53,007,53,047,WA,"Okanogan County",40,73,1051
+53,007,53,077,WA,"Yakima County",35,61,1041
+53,007,53,073,WA,"Whatcom County",33,49,877
+53,007,53,037,WA,"Kittitas County",28,38,454
+53,007,53,005,WA,"Benton County",24,54,927
+53,007,53,067,WA,"Thurston County",23,39,732
+53,007,53,011,WA,"Clark County",22,38,549
+53,007,06,037,CA,"Los Angeles County",21,36,413
+53,007,04,013,AZ,"Maricopa County",20,29,615
+53,007,41,051,OR,"Multnomah County",18,26,398
+53,007,06,073,CA,"San Diego County",16,33,411
+53,007,53,057,WA,"Skagit County",14,24,495
+53,007,04,019,AZ,"Pima County",13,25,289
+53,007,06,065,CA,"Riverside County",13,27,396
+53,007,53,029,WA,"Island County",13,27,375
+53,007,41,039,OR,"Lane County",12,22,287
+53,007,53,035,WA,"Kitsap County",12,19,730
+53,007,32,003,NV,"Clark County",11,22,302
+53,007,53,021,WA,"Franklin County",11,36,336
+53,007,02,020,AK,"Anchorage Borough",10,20,399
+53,007,49,035,UT,"Salt Lake County",10,14,206
+53,007,58,000,SS,"Other Flows - Same State",66,127,1878
+53,007,59,000,DS,"Other Flows - Diff State",500,1083,14392
+53,007,59,001,DS,"Other Flows - Northeast",32,58,1094
+53,007,59,003,DS,"Other Flows - Midwest",80,160,1694
+53,007,59,005,DS,"Other Flows - South",110,240,3984
+53,007,59,007,DS,"Other Flows - West",278,625,7620
+53,007,57,009,FR,"Foreign - Other flows",14,23,675
+53,009,96,000,WA,"Clallam County Tot Mig-US & For",1483,2661,49400
+53,009,97,000,WA,"Clallam County Tot Mig-US",1467,2641,49162
+53,009,97,001,WA,"Clallam County Tot Mig-Same St",795,1381,25323
+53,009,97,003,WA,"Clallam County Tot Mig-Diff St",672,1260,23839
+53,009,98,000,WA,"Clallam County Tot Mig-Foreign",16,20,238
+53,009,53,009,WA,"Clallam County Non-Migrants",22165,47224,955768
+53,009,53,033,WA,"King County",191,249,7243
+53,009,53,061,WA,"Snohomish County",86,136,2606
+53,009,53,035,WA,"Kitsap County",72,121,2301
+53,009,53,053,WA,"Pierce County",61,107,1702
+53,009,53,031,WA,"Jefferson County",60,97,2011
+53,009,53,067,WA,"Thurston County",51,103,1661
+53,009,53,073,WA,"Whatcom County",42,66,718
+53,009,53,063,WA,"Spokane County",35,82,931
+53,009,53,027,WA,"Grays Harbor County",34,71,973
+53,009,06,073,CA,"San Diego County",30,48,854
+53,009,53,011,WA,"Clark County",29,66,1096
+53,009,04,013,AZ,"Maricopa County",26,41,983
+53,009,41,051,OR,"Multnomah County",19,29,583
+53,009,53,057,WA,"Skagit County",17,39,533
+53,009,32,003,NV,"Clark County",14,30,591
+53,009,06,037,CA,"Los Angeles County",13,19,302
+53,009,53,077,WA,"Yakima County",13,26,274
+53,009,53,071,WA,"Walla Walla County",12,22,342
+53,009,06,059,CA,"Orange County",11,19,529
+53,009,06,071,CA,"San Bernardino Count",11,18,244
+53,009,08,005,CO,"Arapahoe County",11,26,341
+53,009,41,067,OR,"Washington County",11,20,186
+53,009,53,045,WA,"Mason County",11,22,213
+53,009,58,000,SS,"Other Flows - Same State",81,174,2719
+53,009,59,000,DS,"Other Flows - Diff State",526,1010,19226
+53,009,59,001,DS,"Other Flows - Northeast",31,67,1201
+53,009,59,003,DS,"Other Flows - Midwest",60,110,1820
+53,009,59,005,DS,"Other Flows - South",120,209,3373
+53,009,59,007,DS,"Other Flows - West",315,624,12832
+53,009,57,009,FR,"Foreign - Other flows",16,20,238
+53,011,96,000,WA,"Clark County Tot Mig-US & For",7926,15855,351150
+53,011,97,000,WA,"Clark County Tot Mig-US",7838,15703,348273
+53,011,97,001,WA,"Clark County Tot Mig-Same St",2006,4055,88485
+53,011,97,003,WA,"Clark County Tot Mig-Diff St",5832,11648,259788
+53,011,98,000,WA,"Clark County Tot Mig-Foreign",88,152,2877
+53,011,53,011,WA,"Clark County Non-Migrants",111713,259766,6150100
+53,011,41,051,OR,"Multnomah County",1192,1966,39501
+53,011,53,033,WA,"King County",426,749,20151
+53,011,41,067,OR,"Washington County",389,716,16720
+53,011,53,015,WA,"Cowlitz County",369,814,11912
+53,011,41,005,OR,"Clackamas County",342,609,13037
+53,011,04,013,AZ,"Maricopa County",184,367,8731
+53,011,53,053,WA,"Pierce County",166,328,5993
+53,011,06,073,CA,"San Diego County",129,264,7298
+53,011,53,061,WA,"Snohomish County",121,234,5048
+53,011,53,063,WA,"Spokane County",115,247,5242
+53,011,32,003,NV,"Clark County",110,211,8343
+53,011,53,059,WA,"Skamania County",91,208,3437
+53,011,53,067,WA,"Thurston County",91,171,3491
+53,011,06,037,CA,"Los Angeles County",90,162,2878
+53,011,41,039,OR,"Lane County",82,180,2770
+53,011,41,017,OR,"Deschutes County",76,169,3794
+53,011,41,047,OR,"Marion County",68,138,2480
+53,011,53,049,WA,"Pacific County",67,114,1795
+53,011,16,001,ID,"Ada County",65,147,3212
+53,011,53,005,WA,"Benton County",62,135,2714
+53,011,06,059,CA,"Orange County",57,88,2328
+53,011,06,065,CA,"Riverside County",56,119,2746
+53,011,06,067,CA,"Sacramento County",55,124,1863
+53,011,53,039,WA,"Klickitat County",54,113,2340
+53,011,53,041,WA,"Lewis County",54,147,2506
+53,011,57,005,FR,"Foreign - APO/FPO ZIPs",54,73,995
+53,011,53,077,WA,"Yakima County",51,116,1827
+53,011,06,001,CA,"Alameda County",49,93,3038
+53,011,53,073,WA,"Whatcom County",45,80,1151
+53,011,49,035,UT,"Salt Lake County",43,95,4167
+53,011,53,035,WA,"Kitsap County",41,85,1501
+53,011,04,019,AZ,"Pima County",39,83,1962
+53,011,06,085,CA,"Santa Clara County",38,65,2914
+53,011,41,009,OR,"Columbia County",35,89,1419
+53,011,41,071,OR,"Yamhill County",35,62,1072
+53,011,48,201,TX,"Harris County",35,67,2312
+53,011,06,071,CA,"San Bernardino Count",33,81,1327
+53,011,41,029,OR,"Jackson County",32,71,1172
+53,011,32,031,NV,"Washoe County",29,58,938
+53,011,53,027,WA,"Grays Harbor County",29,68,1224
+53,011,02,020,AK,"Anchorage Borough",27,61,2273
+53,011,48,453,TX,"Travis County",27,66,1824
+53,011,08,041,CO,"El Paso County",26,66,2053
+53,011,15,003,HI,"Honolulu County",26,55,1085
+53,011,48,439,TX,"Tarrant County",26,56,994
+53,011,53,009,WA,"Clallam County",26,49,762
+53,011,48,085,TX,"Collin County",25,57,2323
+53,011,53,071,WA,"Walla Walla County",25,49,881
+53,011,41,007,OR,"Clatsop County",24,38,1954
+53,011,41,043,OR,"Linn County",24,58,831
+53,011,48,113,TX,"Dallas County",24,67,2332
+53,011,06,061,CA,"Placer County",23,55,1247
+53,011,49,049,UT,"Utah County",23,42,784
+53,011,53,075,WA,"Whitman County",23,37,346
+53,011,06,013,CA,"Contra Costa County",22,35,756
+53,011,08,031,CO,"Denver County",22,44,1082
+53,011,16,055,ID,"Kootenai County",22,45,659
+53,011,17,031,IL,"Cook County",22,33,1078
+53,011,41,041,OR,"Lincoln County",21,51,919
+53,011,06,075,CA,"San Francisco County",20,24,687
+53,011,16,027,ID,"Canyon County",20,43,528
+53,011,41,053,OR,"Polk County",20,45,700
+53,011,06,097,CA,"Sonoma County",19,45,1077
+53,011,41,003,OR,"Benton County",19,42,1466
+53,011,41,065,OR,"Wasco County",19,47,564
+53,011,04,015,AZ,"Mohave County",18,37,677
+53,011,06,099,CA,"Stanislaus County",18,48,1340
+53,011,08,001,CO,"Adams County",18,40,725
+53,011,30,063,MT,"Missoula County",18,36,585
+53,011,41,011,OR,"Coos County",17,48,512
+53,011,06,077,CA,"San Joaquin County",16,37,647
+53,011,06,095,CA,"Solano County",15,34,689
+53,011,41,019,OR,"Douglas County",15,29,429
+53,011,53,029,WA,"Island County",15,26,3314
+53,011,06,079,CA,"San Luis Obispo Coun",14,30,703
+53,011,08,005,CO,"Arapahoe County",14,28,854
+53,011,30,111,MT,"Yellowstone County",14,19,484
+53,011,41,059,OR,"Umatilla County",14,33,553
+53,011,53,057,WA,"Skagit County",14,32,400
+53,011,08,059,CO,"Jefferson County",13,30,772
+53,011,08,069,CO,"Larimer County",13,19,518
+53,011,30,029,MT,"Flathead County",13,28,466
+53,011,41,027,OR,"Hood River County",13,26,615
+53,011,45,045,SC,"Greenville County",13,37,561
+53,011,48,029,TX,"Bexar County",13,23,940
+53,011,48,121,TX,"Denton County",13,39,982
+53,011,53,045,WA,"Mason County",13,24,640
+53,011,06,081,CA,"San Mateo County",12,30,575
+53,011,06,089,CA,"Shasta County",12,22,762
+53,011,12,011,FL,"Broward County",12,21,380
+53,011,13,135,GA,"Gwinnett County",12,30,659
+53,011,34,003,NJ,"Bergen County",12,31,1700
+53,011,41,057,OR,"Tillamook County",12,25,718
+53,011,53,031,WA,"Jefferson County",12,22,1315
+53,011,53,037,WA,"Kittitas County",12,21,374
+53,011,02,170,AK,"Matanuska Susitna Bo",11,29,250
+53,011,06,111,CA,"Ventura County",11,18,484
+53,011,27,053,MN,"Hennepin County",11,23,1057
+53,011,35,001,NM,"Bernalillo County",11,21,445
+53,011,48,339,TX,"Montgomery County",11,32,789
+53,011,49,011,UT,"Davis County",11,25,420
+53,011,51,059,VA,"Fairfax County",11,21,768
+53,011,53,003,WA,"Asotin County",11,25,6352
+53,011,53,007,WA,"Chelan County",11,23,331
+53,011,06,019,CA,"Fresno County",10,21,696
+53,011,08,013,CO,"Boulder County",10,20,852
+53,011,15,009,HI,"Maui County",10,21,293
+53,011,41,033,OR,"Josephine County",10,23,429
+53,011,53,021,WA,"Franklin County",10,24,435
+53,011,58,000,SS,"Other Flows - Same State",52,114,3003
+53,011,59,000,DS,"Other Flows - Diff State",1597,3515,72222
+53,011,59,001,DS,"Other Flows - Northeast",191,414,9833
+53,011,59,003,DS,"Other Flows - Midwest",389,908,17944
+53,011,59,005,DS,"Other Flows - South",566,1217,27757
+53,011,59,007,DS,"Other Flows - West",451,976,16688
+53,011,57,009,FR,"Foreign - Other flows",34,79,1881
+53,013,96,000,WA,"Columbia County Tot Mig-US & For",152,313,3620
+53,013,97,000,WA,"Columbia County Tot Mig-US",152,313,3620
+53,013,97,001,WA,"Columbia County Tot Mig-Same St",93,188,2068
+53,013,97,003,WA,"Columbia County Tot Mig-Diff St",59,125,1552
+53,013,53,013,WA,"Columbia County Non-Migrants",1569,3725,64360
+53,013,53,071,WA,"Walla Walla County",50,98,1106
+53,013,53,005,WA,"Benton County",12,21,259
+53,013,58,000,SS,"Other Flows - Same State",31,69,703
+53,013,59,000,DS,"Other Flows - Diff State",59,125,1552
+53,015,96,000,WA,"Cowlitz County Tot Mig-US & For",1982,3843,61095
+53,015,97,000,WA,"Cowlitz County Tot Mig-US",1953,3796,60238
+53,015,97,001,WA,"Cowlitz County Tot Mig-Same St",972,1908,31512
+53,015,97,003,WA,"Cowlitz County Tot Mig-Diff St",981,1888,28726
+53,015,98,000,WA,"Cowlitz County Tot Mig-Foreign",29,47,856
+53,015,53,015,WA,"Cowlitz County Non-Migrants",30150,69139,1337738
+53,015,53,011,WA,"Clark County",358,715,11306
+53,015,53,041,WA,"Lewis County",119,284,3577
+53,015,53,033,WA,"King County",104,147,3137
+53,015,41,051,OR,"Multnomah County",100,153,2658
+53,015,41,009,OR,"Columbia County",70,149,1747
+53,015,53,053,WA,"Pierce County",53,114,2376
+53,015,53,061,WA,"Snohomish County",46,79,1637
+53,015,41,067,OR,"Washington County",44,89,1236
+53,015,53,063,WA,"Spokane County",44,85,1306
+53,015,53,067,WA,"Thurston County",35,61,1798
+53,015,04,013,AZ,"Maricopa County",31,53,952
+53,015,41,005,OR,"Clackamas County",31,61,1087
+53,015,53,049,WA,"Pacific County",26,47,656
+53,015,06,037,CA,"Los Angeles County",24,45,568
+53,015,41,039,OR,"Lane County",24,55,986
+53,015,53,069,WA,"Wahkiakum County",20,45,585
+53,015,53,073,WA,"Whatcom County",20,30,507
+53,015,41,017,OR,"Deschutes County",19,44,727
+53,015,32,003,NV,"Clark County",18,24,580
+53,015,53,077,WA,"Yakima County",16,29,583
+53,015,57,005,FR,"Foreign - APO/FPO ZIPs",16,17,214
+53,015,41,047,OR,"Marion County",15,28,298
+53,015,53,005,WA,"Benton County",14,33,422
+53,015,06,065,CA,"Riverside County",13,31,565
+53,015,06,073,CA,"San Diego County",13,22,340
+53,015,53,035,WA,"Kitsap County",13,30,563
+53,015,41,007,OR,"Clatsop County",12,27,211
+53,015,04,015,AZ,"Mohave County",11,21,264
+53,015,32,031,NV,"Washoe County",11,22,336
+53,015,53,045,WA,"Mason County",10,20,422
+53,015,58,000,SS,"Other Flows - Same State",94,189,2638
+53,015,59,000,DS,"Other Flows - Diff State",545,1064,16173
+53,015,59,001,DS,"Other Flows - Northeast",33,64,1644
+53,015,59,003,DS,"Other Flows - Midwest",73,131,2515
+53,015,59,005,DS,"Other Flows - South",104,212,3086
+53,015,59,007,DS,"Other Flows - West",335,657,8928
+53,015,57,009,FR,"Foreign - Other flows",13,30,642
+53,017,96,000,WA,"Douglas County Tot Mig-US & For",1179,2438,34279
+53,017,97,000,WA,"Douglas County Tot Mig-US",1179,2438,34279
+53,017,97,001,WA,"Douglas County Tot Mig-Same St",936,1932,26951
+53,017,97,003,WA,"Douglas County Tot Mig-Diff St",243,506,7328
+53,017,53,017,WA,"Douglas County Non-Migrants",9750,23600,393199
+53,017,53,007,WA,"Chelan County",539,1119,16154
+53,017,53,033,WA,"King County",87,145,2748
+53,017,53,025,WA,"Grant County",49,120,1231
+53,017,53,063,WA,"Spokane County",46,97,1217
+53,017,53,047,WA,"Okanogan County",44,107,762
+53,017,53,061,WA,"Snohomish County",34,65,827
+53,017,53,077,WA,"Yakima County",21,43,600
+53,017,53,073,WA,"Whatcom County",15,22,290
+53,017,04,013,AZ,"Maricopa County",14,26,323
+53,017,06,037,CA,"Los Angeles County",14,26,296
+53,017,53,053,WA,"Pierce County",13,22,324
+53,017,53,005,WA,"Benton County",12,32,509
+53,017,58,000,SS,"Other Flows - Same State",76,160,2289
+53,017,59,000,DS,"Other Flows - Diff State",215,454,6710
+53,019,96,000,WA,"Ferry County Tot Mig-US & For",207,437,6055
+53,019,97,000,WA,"Ferry County Tot Mig-US",207,437,6055
+53,019,97,001,WA,"Ferry County Tot Mig-Same St",142,305,4016
+53,019,97,003,WA,"Ferry County Tot Mig-Diff St",65,132,2038
+53,019,53,019,WA,"Ferry County Non-Migrants",2180,5107,71354
+53,019,53,063,WA,"Spokane County",45,83,801
+53,019,53,065,WA,"Stevens County",37,94,1564
+53,019,58,000,SS,"Other Flows - Same State",60,128,1651
+53,019,59,000,DS,"Other Flows - Diff State",65,132,2038
+53,021,96,000,WA,"Franklin County Tot Mig-US & For",1550,3510,48161
+53,021,97,000,WA,"Franklin County Tot Mig-US",1550,3510,48161
+53,021,97,001,WA,"Franklin County Tot Mig-Same St",1109,2447,36927
+53,021,97,003,WA,"Franklin County Tot Mig-Diff St",441,1063,11234
+53,021,53,021,WA,"Franklin County Non-Migrants",12609,33704,502270
+53,021,53,005,WA,"Benton County",700,1557,20817
+53,021,53,071,WA,"Walla Walla County",150,365,6163
+53,021,53,033,WA,"King County",50,89,1290
+53,021,53,063,WA,"Spokane County",35,58,1203
+53,021,53,077,WA,"Yakima County",31,75,627
+53,021,53,025,WA,"Grant County",19,47,2805
+53,021,53,001,WA,"Adams County",18,47,503
+53,021,48,215,TX,"Hidalgo County",17,45,292
+53,021,41,059,OR,"Umatilla County",16,38,412
+53,021,06,073,CA,"San Diego County",15,27,248
+53,021,06,037,CA,"Los Angeles County",13,39,161
+53,021,53,075,WA,"Whitman County",13,19,157
+53,021,53,053,WA,"Pierce County",12,24,324
+53,021,53,061,WA,"Snohomish County",12,26,476
+53,021,04,013,AZ,"Maricopa County",11,32,234
+53,021,53,011,WA,"Clark County",11,23,363
+53,021,16,001,ID,"Ada County",10,26,231
+53,021,58,000,SS,"Other Flows - Same State",58,117,2198
+53,021,59,000,DS,"Other Flows - Diff State",359,856,9656
+53,021,59,001,DS,"Other Flows - Northeast",10,20,350
+53,021,59,003,DS,"Other Flows - Midwest",47,138,1143
+53,021,59,005,DS,"Other Flows - South",79,189,1940
+53,021,59,007,DS,"Other Flows - West",223,509,6222
+53,023,96,000,WA,"Garfield County Tot Mig-US & For",36,84,1060
+53,023,97,000,WA,"Garfield County Tot Mig-US",36,84,1060
+53,023,97,001,WA,"Garfield County Tot Mig-Same St",21,53,708
+53,023,97,003,WA,"Garfield County Tot Mig-Diff St",15,31,352
+53,023,53,023,WA,"Garfield County Non-Migrants",425,931,14968
+53,023,58,000,SS,"Other Flows - Same State",21,53,708
+53,023,59,000,DS,"Other Flows - Diff State",15,31,352
+53,025,96,000,WA,"Grant County Tot Mig-US & For",1574,3565,44004
+53,025,97,000,WA,"Grant County Tot Mig-US",1562,3543,43693
+53,025,97,001,WA,"Grant County Tot Mig-Same St",916,1950,24585
+53,025,97,003,WA,"Grant County Tot Mig-Diff St",646,1593,19108
+53,025,98,000,WA,"Grant County Tot Mig-Foreign",12,22,311
+53,025,53,025,WA,"Grant County Non-Migrants",20320,51835,747481
+53,025,53,033,WA,"King County",138,232,2974
+53,025,53,063,WA,"Spokane County",137,262,4092
+53,025,53,001,WA,"Adams County",86,240,2045
+53,025,53,007,WA,"Chelan County",64,146,1671
+53,025,53,005,WA,"Benton County",60,143,2021
+53,025,53,061,WA,"Snohomish County",54,112,1337
+53,025,53,077,WA,"Yakima County",45,102,1099
+53,025,53,017,WA,"Douglas County",44,98,1283
+53,025,53,053,WA,"Pierce County",37,79,1069
+53,025,04,013,AZ,"Maricopa County",26,50,1222
+53,025,53,037,WA,"Kittitas County",26,53,782
+53,025,53,043,WA,"Lincoln County",26,64,982
+53,025,53,075,WA,"Whitman County",22,30,448
+53,025,53,047,WA,"Okanogan County",21,45,473
+53,025,06,037,CA,"Los Angeles County",19,49,414
+53,025,32,003,NV,"Clark County",18,37,449
+53,025,53,021,WA,"Franklin County",17,51,393
+53,025,16,055,ID,"Kootenai County",15,45,591
+53,025,06,065,CA,"Riverside County",13,27,292
+53,025,41,059,OR,"Umatilla County",13,36,381
+53,025,53,011,WA,"Clark County",13,24,530
+53,025,53,071,WA,"Walla Walla County",13,25,282
+53,025,48,215,TX,"Hidalgo County",12,40,256
+53,025,53,067,WA,"Thurston County",12,35,282
+53,025,06,019,CA,"Fresno County",11,35,164
+53,025,49,049,UT,"Utah County",11,19,214
+53,025,53,065,WA,"Stevens County",11,18,281
+53,025,53,035,WA,"Kitsap County",10,21,366
+53,025,53,057,WA,"Skagit County",10,23,215
+53,025,53,073,WA,"Whatcom County",10,24,311
+53,025,58,000,SS,"Other Flows - Same State",60,123,1648
+53,025,59,000,DS,"Other Flows - Diff State",508,1255,15125
+53,025,59,001,DS,"Other Flows - Northeast",17,32,484
+53,025,59,003,DS,"Other Flows - Midwest",78,193,2377
+53,025,59,005,DS,"Other Flows - South",125,330,4170
+53,025,59,007,DS,"Other Flows - West",288,700,8095
+53,025,57,009,FR,"Foreign - Other flows",12,22,311
+53,027,96,000,WA,"Grays Harbor Co Tot Mig-US & For",1607,3025,53801
+53,027,97,000,WA,"Grays Harbor Co Tot Mig-US",1594,3009,53577
+53,027,97,001,WA,"Grays Harbor Co Tot Mig-Same St",1056,1982,39966
+53,027,97,003,WA,"Grays Harbor Co Tot Mig-Diff St",538,1027,13611
+53,027,98,000,WA,"Grays Harbor Co Tot Mig-Foreign",13,16,223
+53,027,53,027,WA,"Grays Harbor Co Non-Migrants",21370,47731,835227
+53,027,53,067,WA,"Thurston County",287,532,15389
+53,027,53,033,WA,"King County",170,246,7796
+53,027,53,053,WA,"Pierce County",113,212,3062
+53,027,53,045,WA,"Mason County",66,150,2083
+53,027,53,041,WA,"Lewis County",48,107,1180
+53,027,53,061,WA,"Snohomish County",47,89,1126
+53,027,53,049,WA,"Pacific County",39,79,907
+53,027,53,015,WA,"Cowlitz County",29,48,929
+53,027,53,011,WA,"Clark County",28,52,780
+53,027,53,035,WA,"Kitsap County",26,46,700
+53,027,53,063,WA,"Spokane County",26,43,659
+53,027,04,013,AZ,"Maricopa County",23,35,570
+53,027,53,077,WA,"Yakima County",21,55,865
+53,027,06,073,CA,"San Diego County",20,34,617
+53,027,53,009,WA,"Clallam County",20,47,598
+53,027,53,073,WA,"Whatcom County",19,35,381
+53,027,06,037,CA,"Los Angeles County",18,33,414
+53,027,41,051,OR,"Multnomah County",18,23,358
+53,027,53,037,WA,"Kittitas County",17,29,292
+53,027,32,003,NV,"Clark County",15,28,481
+53,027,53,007,WA,"Chelan County",14,25,881
+53,027,53,057,WA,"Skagit County",14,26,358
+53,027,41,017,OR,"Deschutes County",11,29,361
+53,027,53,005,WA,"Benton County",10,17,256
+53,027,58,000,SS,"Other Flows - Same State",62,144,1728
+53,027,59,000,DS,"Other Flows - Diff State",433,845,10810
+53,027,59,001,DS,"Other Flows - Northeast",19,46,653
+53,027,59,003,DS,"Other Flows - Midwest",48,81,1106
+53,027,59,005,DS,"Other Flows - South",73,123,1563
+53,027,59,007,DS,"Other Flows - West",293,595,7488
+53,027,57,009,FR,"Foreign - Other flows",13,16,223
+53,029,96,000,WA,"Island County Tot Mig-US & For",3731,7919,129227
+53,029,97,000,WA,"Island County Tot Mig-US",3298,6999,118317
+53,029,97,001,WA,"Island County Tot Mig-Same St",1526,2892,57951
+53,029,97,003,WA,"Island County Tot Mig-Diff St",1772,4107,60366
+53,029,98,000,WA,"Island County Tot Mig-Foreign",433,920,10910
+53,029,53,029,WA,"Island County Non-Migrants",25610,58587,1288077
+53,029,53,061,WA,"Snohomish County",604,1185,22952
+53,029,57,005,FR,"Foreign - APO/FPO ZIPs",416,880,10412
+53,029,53,033,WA,"King County",325,501,13066
+53,029,53,057,WA,"Skagit County",199,406,8470
+53,029,53,073,WA,"Whatcom County",115,184,3191
+53,029,06,073,CA,"San Diego County",107,279,3129
+53,029,53,035,WA,"Kitsap County",63,176,2331
+53,029,04,013,AZ,"Maricopa County",44,96,1262
+53,029,53,053,WA,"Pierce County",41,89,1273
+53,029,06,037,CA,"Los Angeles County",37,61,1170
+53,029,06,111,CA,"Ventura County",35,101,1023
+53,029,12,033,FL,"Escambia County",33,81,1153
+53,029,15,003,HI,"Honolulu County",33,84,1221
+53,029,37,049,NC,"Craven County",29,76,1128
+53,029,06,031,CA,"Kings County",28,83,794
+53,029,51,810,VA,"Virginia Beach",28,84,1089
+53,029,53,011,WA,"Clark County",26,44,1068
+53,029,24,037,MD,"St Mary's County",24,76,873
+53,029,53,063,WA,"Spokane County",24,40,621
+53,029,12,031,FL,"Duval County",23,67,782
+53,029,32,003,NV,"Clark County",23,41,1486
+53,029,44,005,RI,"Newport County",20,55,1414
+53,029,06,059,CA,"Orange County",19,23,454
+53,029,32,001,NV,"Churchill County",19,55,487
+53,029,06,029,CA,"Kern County",17,51,501
+53,029,41,017,OR,"Deschutes County",17,33,598
+53,029,48,029,TX,"Bexar County",17,34,370
+53,029,04,019,AZ,"Pima County",15,30,549
+53,029,41,067,OR,"Washington County",15,24,378
+53,029,48,201,TX,"Harris County",14,30,829
+53,029,48,355,TX,"Nueces County",14,47,450
+53,029,41,051,OR,"Multnomah County",13,29,380
+53,029,48,439,TX,"Tarrant County",13,39,455
+53,029,06,053,CA,"Monterey County",12,30,602
+53,029,53,067,WA,"Thurston County",12,19,406
+53,029,12,019,FL,"Clay County",11,40,531
+53,029,16,001,ID,"Ada County",11,17,219
+53,029,17,031,IL,"Cook County",11,19,211
+53,029,17,097,IL,"Lake County",11,28,215
+53,029,41,039,OR,"Lane County",11,27,711
+53,029,53,007,WA,"Chelan County",11,20,439
+53,029,53,025,WA,"Grant County",11,24,451
+53,029,53,075,WA,"Whitman County",11,23,370
+53,029,02,020,AK,"Anchorage Borough",10,20,301
+53,029,06,065,CA,"Riverside County",10,20,268
+53,029,06,085,CA,"Santa Clara County",10,20,1029
+53,029,58,000,SS,"Other Flows - Same State",84,181,3312
+53,029,59,000,DS,"Other Flows - Diff State",1038,2307,34303
+53,029,59,001,DS,"Other Flows - Northeast",99,206,3256
+53,029,59,003,DS,"Other Flows - Midwest",188,439,5577
+53,029,59,005,DS,"Other Flows - South",404,936,14199
+53,029,59,007,DS,"Other Flows - West",347,726,11272
+53,029,57,009,FR,"Foreign - Other flows",17,40,498
+53,031,96,000,WA,"Jefferson Count Tot Mig-US & For",789,1328,28222
+53,031,97,000,WA,"Jefferson Count Tot Mig-US",789,1328,28222
+53,031,97,001,WA,"Jefferson Count Tot Mig-Same St",455,760,15607
+53,031,97,003,WA,"Jefferson Count Tot Mig-Diff St",334,568,12615
+53,031,53,031,WA,"Jefferson Count Non-Migrants",9144,18572,461890
+53,031,53,033,WA,"King County",104,130,3708
+53,031,53,035,WA,"Kitsap County",104,202,3714
+53,031,53,009,WA,"Clallam County",54,87,1831
+53,031,53,061,WA,"Snohomish County",41,66,1686
+53,031,53,053,WA,"Pierce County",32,51,996
+53,031,53,073,WA,"Whatcom County",18,25,274
+53,031,41,051,OR,"Multnomah County",17,19,361
+53,031,53,067,WA,"Thurston County",17,28,642
+53,031,04,013,AZ,"Maricopa County",13,26,939
+53,031,06,065,CA,"Riverside County",12,23,607
+53,031,53,045,WA,"Mason County",12,17,378
+53,031,53,057,WA,"Skagit County",11,21,415
+53,031,06,073,CA,"San Diego County",10,15,336
+53,031,32,003,NV,"Clark County",10,16,426
+53,031,53,041,WA,"Lewis County",10,24,293
+53,031,58,000,SS,"Other Flows - Same State",52,109,1670
+53,031,59,000,DS,"Other Flows - Diff State",272,469,9946
+53,031,59,001,DS,"Other Flows - Northeast",12,22,705
+53,031,59,003,DS,"Other Flows - Midwest",27,54,803
+53,031,59,005,DS,"Other Flows - South",57,95,2059
+53,031,59,007,DS,"Other Flows - West",176,298,6378
+53,033,96,000,WA,"King County Tot Mig-US & For",51445,90839,2982094
+53,033,97,000,WA,"King County Tot Mig-US",50434,89097,2884913
+53,033,97,001,WA,"King County Tot Mig-Same St",25150,46473,1186121
+53,033,97,003,WA,"King County Tot Mig-Diff St",25284,42624,1698792
+53,033,98,000,WA,"King County Tot Mig-Foreign",1011,1742,97181
+53,033,53,033,WA,"King County Non-Migrants",654744,1296373,51356445
+53,033,53,061,WA,"Snohomish County",9703,17699,448184
+53,033,53,053,WA,"Pierce County",7077,14152,313315
+53,033,53,035,WA,"Kitsap County",1487,2697,89925
+53,033,06,037,CA,"Los Angeles County",1310,2018,57578
+53,033,04,013,AZ,"Maricopa County",1198,2125,73643
+53,033,53,067,WA,"Thurston County",856,1453,32603
+53,033,06,073,CA,"San Diego County",845,1342,63393
+53,033,41,051,OR,"Multnomah County",772,1077,38734
+53,033,53,073,WA,"Whatcom County",727,1117,28637
+53,033,53,063,WA,"Spokane County",708,1248,27512
+53,033,06,059,CA,"Orange County",558,982,41537
+53,033,06,075,CA,"San Francisco County",548,629,85854
+53,033,53,029,WA,"Island County",503,892,37139
+53,033,06,085,CA,"Santa Clara County",478,721,54277
+53,033,32,003,NV,"Clark County",468,790,32615
+53,033,53,011,WA,"Clark County",424,709,18069
+53,033,53,057,WA,"Skagit County",418,702,26015
+53,033,06,001,CA,"Alameda County",393,600,22682
+53,033,53,037,WA,"Kittitas County",359,635,19695
+53,033,41,067,OR,"Washington County",351,658,18223
+53,033,17,031,IL,"Cook County",336,487,18446
+53,033,36,061,NY,"New York County",324,387,27746
+53,033,53,077,WA,"Yakima County",314,591,10285
+53,033,04,019,AZ,"Pima County",302,543,23980
+53,033,06,065,CA,"Riverside County",274,508,17920
+53,033,16,001,ID,"Ada County",274,529,14055
+53,033,53,009,WA,"Clallam County",261,458,14533
+53,033,06,067,CA,"Sacramento County",259,447,11296
+53,033,06,081,CA,"San Mateo County",249,357,23288
+53,033,15,003,HI,"Honolulu County",241,396,6256
+53,033,41,005,OR,"Clackamas County",227,420,16305
+53,033,53,045,WA,"Mason County",227,414,12201
+53,033,53,027,WA,"Grays Harbor County",211,361,7521
+53,033,06,013,CA,"Contra Costa County",210,362,13064
+53,033,53,007,WA,"Chelan County",209,365,12275
+53,033,53,005,WA,"Benton County",204,339,7859
+53,033,25,017,MA,"Middlesex County",201,293,12709
+53,033,53,031,WA,"Jefferson County",199,355,13388
+53,033,49,035,UT,"Salt Lake County",196,418,10073
+53,033,48,201,TX,"Harris County",194,346,10029
+53,033,27,053,MN,"Hennepin County",193,332,8647
+53,033,41,039,OR,"Lane County",190,321,7069
+53,033,02,020,AK,"Anchorage Borough",188,287,7283
+53,033,57,005,FR,"Foreign - APO/FPO ZIPs",182,305,4904
+53,033,53,025,WA,"Grant County",172,333,7386
+53,033,48,453,TX,"Travis County",170,258,31878
+53,033,08,031,CO,"Denver County",165,228,8042
+53,033,53,041,WA,"Lewis County",161,312,5984
+53,033,48,113,TX,"Dallas County",159,264,9846
+53,033,36,047,NY,"Kings County",141,159,6135
+53,033,08,013,CO,"Boulder County",137,213,7176
+53,033,06,071,CA,"San Bernardino Count",136,243,4398
+53,033,51,059,VA,"Fairfax County",131,244,10404
+53,033,25,025,MA,"Suffolk County",130,160,5957
+53,033,53,075,WA,"Whitman County",130,174,2418
+53,033,08,005,CO,"Arapahoe County",129,238,8639
+53,033,32,031,NV,"Washoe County",126,222,11538
+53,033,06,111,CA,"Ventura County",123,229,6685
+53,033,41,017,OR,"Deschutes County",121,231,8914
+53,033,48,439,TX,"Tarrant County",118,257,6511
+53,033,11,001,DC,"District Of Columbia",117,140,5268
+53,033,16,055,ID,"Kootenai County",115,219,5142
+53,033,53,047,WA,"Okanogan County",114,216,9335
+53,033,35,001,NM,"Bernalillo County",110,172,4149
+53,033,53,055,WA,"San Juan County",106,187,16870
+53,033,06,083,CA,"Santa Barbara County",104,149,10017
+53,033,13,121,GA,"Fulton County",104,174,9742
+53,033,49,049,UT,"Utah County",100,250,6516
+53,033,08,059,CO,"Jefferson County",99,172,5621
+53,033,12,103,FL,"Pinellas County",95,169,6356
+53,033,48,029,TX,"Bexar County",93,170,3567
+53,033,48,085,TX,"Collin County",90,194,9029
+53,033,53,015,WA,"Cowlitz County",89,153,3323
+53,033,24,031,MD,"Montgomery County",88,149,5486
+53,033,06,097,CA,"Sonoma County",86,131,4657
+53,033,30,063,MT,"Missoula County",85,133,3041
+53,033,39,049,OH,"Franklin County",83,129,3443
+53,033,53,017,WA,"Douglas County",83,143,4656
+53,033,12,011,FL,"Broward County",80,144,5558
+53,033,37,119,NC,"Mecklenburg County",79,125,6714
+53,033,41,047,OR,"Marion County",79,134,2530
+53,033,53,065,WA,"Stevens County",79,166,2867
+53,033,13,089,GA,"De Kalb County",77,127,2913
+53,033,42,101,PA,"Philadelphia County",77,105,2314
+53,033,15,001,HI,"Hawaii County",76,137,2851
+53,033,15,009,HI,"Maui County",76,114,4632
+53,033,26,125,MI,"Oakland County",76,124,4061
+53,033,12,057,FL,"Hillsborough County",75,132,3122
+53,033,06,041,CA,"Marin County",74,117,13958
+53,033,08,041,CO,"El Paso County",73,141,3546
+53,033,30,029,MT,"Flathead County",73,135,3049
+53,033,36,081,NY,"Queens County",73,95,1912
+53,033,27,123,MN,"Ramsey County",70,106,2656
+53,033,06,019,CA,"Fresno County",69,142,2923
+53,033,06,087,CA,"Santa Cruz County",69,97,24816
+53,033,06,061,CA,"Placer County",67,118,4385
+53,033,08,035,CO,"Douglas County",67,161,6610
+53,033,12,095,FL,"Orange County",66,102,3926
+53,033,41,029,OR,"Jackson County",65,118,3571
+53,033,29,189,MO,"St Louis County",64,127,5633
+53,033,12,025,FL,"Dade County",63,94,5151
+53,033,13,067,GA,"Cobb County",62,120,8179
+53,033,25,021,MA,"Norfolk County",62,100,4827
+53,033,42,003,PA,"Allegheny County",62,85,2424
+53,033,04,025,AZ,"Yavapai County",61,94,3043
+53,033,55,025,WI,"Dane County",61,87,2114
+53,033,26,163,MI,"Wayne County",60,117,2820
+53,033,17,043,IL,"Du Page County",59,109,3676
+53,033,26,161,MI,"Washtenaw County",59,88,3122
+53,033,30,031,MT,"Gallatin County",59,95,3554
+53,033,48,121,TX,"Denton County",58,109,5518
+53,033,53,071,WA,"Walla Walla County",58,98,1946
+53,033,06,079,CA,"San Luis Obispo Coun",57,99,5305
+53,033,08,069,CO,"Larimer County",56,92,3400
+53,033,06,029,CA,"Kern County",55,101,2013
+53,033,39,035,OH,"Cuyahoga County",53,102,2602
+53,033,06,095,CA,"Solano County",52,102,2527
+53,033,09,003,CT,"Hartford County",52,81,2794
+53,033,37,183,NC,"Wake County",52,100,11540
+53,033,53,049,WA,"Pacific County",51,87,3201
+53,033,04,005,AZ,"Coconino County",50,66,1127
+53,033,09,001,CT,"Fairfield County",50,92,4853
+53,033,20,173,KS,"Sedgwick County",50,93,2433
+53,033,25,009,MA,"Essex County",50,99,3163
+53,033,29,095,MO,"Jackson County",50,61,1599
+53,033,39,061,OH,"Hamilton County",50,79,13172
+53,033,06,053,CA,"Monterey County",49,87,2076
+53,033,12,099,FL,"Palm Beach County",49,81,3927
+53,033,35,049,NM,"Santa Fe County",49,65,2309
+53,033,04,021,AZ,"Pinal County",48,84,2456
+53,033,47,037,TN,"Davidson County",48,88,2331
+53,033,53,021,WA,"Franklin County",48,85,1629
+53,033,06,077,CA,"San Joaquin County",46,83,1756
+53,033,16,027,ID,"Canyon County",46,82,1787
+53,033,41,003,OR,"Benton County",46,74,3179
+53,033,18,097,IN,"Marion County",45,79,1903
+53,033,22,071,LA,"Orleans Parish",45,68,1426
+53,033,30,111,MT,"Yellowstone County",45,73,1246
+53,033,47,157,TN,"Shelby County",45,100,2730
+53,033,12,031,FL,"Duval County",44,80,1781
+53,033,55,079,WI,"Milwaukee County",44,68,1505
+53,033,51,013,VA,"Arlington County",43,54,2090
+53,033,36,103,NY,"Suffolk County",42,68,1991
+53,033,08,001,CO,"Adams County",41,70,2215
+53,033,09,009,CT,"New Haven County",41,60,1857
+53,033,20,091,KS,"Johnson County",41,88,77434
+53,033,30,049,MT,"Lewis And Clark Coun",41,69,1660
+53,033,51,510,VA,Alexandria,41,60,1985
+53,033,27,037,MN,"Dakota County",40,80,1856
+53,033,02,110,AK,"Juneau Borough",39,64,1238
+53,033,06,089,CA,"Shasta County",39,60,1322
+53,033,12,115,FL,"Sarasota County",39,70,1536
+53,033,13,135,GA,"Gwinnett County",38,69,2149
+53,033,31,055,NE,"Douglas County",38,73,2487
+53,033,41,019,OR,"Douglas County",38,72,1452
+53,033,42,091,PA,"Montgomery County",38,56,4684
+53,033,04,015,AZ,"Mohave County",37,61,1777
+53,033,12,009,FL,"Brevard County",37,74,2008
+53,033,06,023,CA,"Humboldt County",36,47,616
+53,033,06,113,CA,"Yolo County",36,64,1170
+53,033,16,013,ID,"Blaine County",36,64,19023
+53,033,16,017,ID,"Bonner County",36,65,3651
+53,033,24,003,MD,"Anne Arundel County",36,69,1884
+53,033,24,033,MD,"Prince George's Coun",36,63,1112
+53,033,04,027,AZ,"Yuma County",35,62,2243
+53,033,17,097,IL,"Lake County",35,73,3364
+53,033,41,041,OR,"Lincoln County",35,59,1577
+53,033,49,011,UT,"Davis County",35,90,1898
+53,033,51,107,VA,"Loudoun County",35,68,2391
+53,033,02,090,AK,"Fairbanks North Star",34,64,1048
+53,033,06,017,CA,"El Dorado County",34,74,2132
+53,033,12,033,FL,"Escambia County",34,51,1584
+53,033,36,055,NY,"Monroe County",34,51,1273
+53,033,44,007,RI,"Providence County",34,60,1014
+53,033,30,081,MT,"Ravalli County",33,55,3039
+53,033,41,059,OR,"Umatilla County",33,59,2339
+53,033,53,039,WA,"Klickitat County",33,58,1836
+53,033,36,119,NY,"Westchester County",32,58,3305
+53,033,40,109,OK,"Oklahoma County",32,54,1034
+53,033,41,071,OR,"Yamhill County",32,50,1037
+53,033,12,071,FL,"Lee County",31,52,3259
+53,033,37,063,NC,"Durham County",31,51,1719
+53,033,41,007,OR,"Clatsop County",31,51,1179
+53,033,48,373,TX,"Polk County",31,59,1986
+53,033,01,089,AL,"Madison County",30,72,2292
+53,033,06,099,CA,"Stanislaus County",30,41,877
+53,033,21,111,KY,"Jefferson County",30,59,1220
+53,033,30,013,MT,"Cascade County",30,56,1270
+53,033,36,059,NY,"Nassau County",30,42,1160
+53,033,40,143,OK,"Tulsa County",30,54,1386
+53,033,41,035,OR,"Klamath County",30,55,1474
+53,033,41,053,OR,"Polk County",30,55,1068
+53,033,26,081,MI,"Kent County",29,52,1359
+53,033,33,011,NH,"Hillsborough County",29,54,11400
+53,033,34,027,NJ,"Morris County",29,57,2758
+53,033,06,007,CA,"Butte County",28,46,968
+53,033,24,510,MD,Baltimore,28,36,771
+53,033,41,011,OR,"Coos County",28,42,732
+53,033,48,141,TX,"El Paso County",28,62,1371
+53,033,53,003,WA,"Asotin County",28,53,1131
+53,033,53,051,WA,"Pend Oreille County",28,49,1676
+53,033,12,021,FL,"Collier County",26,47,8805
+53,033,12,081,FL,"Manatee County",26,40,1202
+53,033,19,153,IA,"Polk County",26,54,971
+53,033,29,510,MO,"St Louis",26,43,711
+53,033,41,043,OR,"Linn County",26,44,666
+53,033,02,122,AK,"Kenai Peninsula Boro",25,40,701
+53,033,24,005,MD,"Baltimore County",25,44,3859
+53,033,25,015,MA,"Hampshire County",25,30,628
+53,033,18,003,IN,"Allen County",24,41,1251
+53,033,23,005,ME,"Cumberland County",24,32,965
+53,033,34,003,NJ,"Bergen County",24,45,1567
+53,033,50,007,VT,"Chittenden County",24,31,1101
+53,033,51,810,VA,"Virginia Beach",24,41,803
+53,033,56,039,WY,"Teton County",24,37,1200
+53,033,06,055,CA,"Napa County",23,40,1425
+53,033,35,013,NM,"Dona Ana County",23,32,696
+53,033,37,135,NC,"Orange County",23,32,719
+53,033,48,491,TX,"Williamson County",23,56,1278
+53,033,02,016,AK,"Aleutians West Censu",22,36,1002
+53,033,37,051,NC,"Cumberland County",22,41,493
+53,033,42,017,PA,"Bucks County",22,58,1507
+53,033,48,027,TX,"Bell County",22,37,450
+53,033,53,019,WA,"Ferry County",22,39,643
+53,033,53,043,WA,"Lincoln County",22,63,665
+53,033,12,117,FL,"Seminole County",21,55,999
+53,033,16,057,ID,"Latah County",21,33,891
+53,033,25,027,MA,"Worcester County",21,40,1402
+53,033,34,017,NJ,"Hudson County",21,28,595
+53,033,36,029,NY,"Erie County",21,32,547
+53,033,45,019,SC,"Charleston County",21,39,1038
+53,033,48,339,TX,"Montgomery County",21,47,1182
+53,033,49,053,UT,"Washington County",21,43,1239
+53,033,02,130,AK,"Ketchikan Gateway Bo",20,37,601
+53,033,06,107,CA,"Tulare County",20,34,400
+53,033,09,011,CT,"New London County",20,41,1016
+53,033,25,001,MA,"Barnstable County",20,33,1596
+53,033,25,013,MA,"Hampden County",20,35,584
+53,033,34,021,NJ,"Mercer County",20,35,1460
+53,033,34,023,NJ,"Middlesex County",20,29,902
+53,033,36,005,NY,"Bronx County",20,31,416
+53,033,41,033,OR,"Josephine County",20,33,742
+53,033,48,167,TX,"Galveston County",20,40,1106
+53,033,51,710,VA,Norfolk,20,32,535
+53,033,15,007,HI,"Kauai County",19,32,815
+53,033,16,069,ID,"Nez Perce County",19,33,467
+53,033,20,161,KS,"Riley County",19,33,607
+53,033,28,047,MS,"Harrison County",19,27,614
+53,033,49,005,UT,"Cache County",19,38,679
+53,033,01,073,AL,"Jefferson County",18,38,825
+53,033,02,170,AK,"Matanuska Susitna Bo",18,28,517
+53,033,08,077,CO,"Mesa County",18,38,857
+53,033,24,027,MD,"Howard County",18,33,7506
+53,033,33,015,NH,"Rockingham County",18,26,4789
+53,033,35,043,NM,"Sandoval County",18,36,3833
+53,033,36,001,NY,"Albany County",18,27,863
+53,033,41,027,OR,"Hood River County",18,25,648
+53,033,47,093,TN,"Knox County",18,29,662
+53,033,49,057,UT,"Weber County",18,40,898
+53,033,51,153,VA,"Prince William Count",18,37,721
+53,033,06,057,CA,"Nevada County",17,25,572
+53,033,12,001,FL,"Alachua County",17,24,455
+53,033,13,051,GA,"Chatham County",17,25,599
+53,033,19,103,IA,"Johnson County",17,23,542
+53,033,22,033,LA,"East Baton Rouge Par",17,30,903
+53,033,30,047,MT,"Lake County",17,40,717
+53,033,32,510,NV,"Carson City",17,27,878
+53,033,34,025,NJ,"Monmouth County",17,33,1068
+53,033,37,021,NC,"Buncombe County",17,30,780
+53,033,37,081,NC,"Guilford County",17,38,1138
+53,033,39,095,OH,"Lucas County",17,27,738
+53,033,42,029,PA,"Chester County",17,31,2057
+53,033,42,045,PA,"Delaware County",17,21,1193
+53,033,05,119,AR,"Pulaski County",16,29,763
+53,033,27,109,MN,"Olmsted County",16,22,424
+53,033,30,053,MT,"Lincoln County",16,35,585
+53,033,31,109,NE,"Lancaster County",16,19,777
+53,033,36,067,NY,"Onondaga County",16,29,626
+53,033,45,045,SC,"Greenville County",16,31,641
+53,033,06,039,CA,"Madera County",15,38,725
+53,033,10,003,DE,"New Castle County",15,19,386
+53,033,12,073,FL,"Leon County",15,29,477
+53,033,12,127,FL,"Volusia County",15,32,2485
+53,033,17,089,IL,"Kane County",15,27,774
+53,033,22,051,LA,"Jefferson Parish",15,26,1086
+53,033,22,103,LA,"St Tammany Parish",15,39,7727
+53,033,25,023,MA,"Plymouth County",15,31,1553
+53,033,26,099,MI,"Macomb County",15,29,959
+53,033,27,163,MN,"Washington County",15,24,7601
+53,033,36,071,NY,"Orange County",15,27,903
+53,033,37,067,NC,"Forsyth County",15,26,661
+53,033,42,049,PA,"Erie County",15,21,430
+53,033,44,005,RI,"Newport County",15,29,1542
+53,033,49,043,UT,"Summit County",15,27,2401
+53,033,53,001,WA,"Adams County",15,24,500
+53,033,57,003,FR,"Foreign - Puerto Rico",15,27,7190
+53,033,08,117,CO,"Summit County",14,24,17159
+53,033,12,019,FL,"Clay County",14,29,933
+53,033,12,083,FL,"Marion County",14,29,389
+53,033,25,005,MA,"Bristol County",14,19,701
+53,033,27,003,MN,"Anoka County",14,30,589
+53,033,30,067,MT,"Park County",14,35,2868
+53,033,32,005,NV,"Douglas County",14,26,456
+53,033,34,013,NJ,"Essex County",14,25,583
+53,033,36,109,NY,"Tompkins County",14,21,266
+53,033,55,133,WI,"Waukesha County",14,23,859
+53,033,56,025,WY,"Natrona County",14,27,399
+53,033,13,063,GA,"Clayton County",13,25,358
+53,033,13,117,GA,"Forsyth County",13,31,1358
+53,033,13,215,GA,"Muscogee County",13,23,516
+53,033,16,019,ID,"Bonneville County",13,28,585
+53,033,16,049,ID,"Idaho County",13,25,437
+53,033,16,079,ID,"Shoshone County",13,26,330
+53,033,18,105,IN,"Monroe County",13,21,455
+53,033,19,163,IA,"Scott County",13,20,439
+53,033,21,067,KY,"Fayette County",13,23,814
+53,033,26,065,MI,"Ingham County",13,18,478
+53,033,29,077,MO,"Greene County",13,21,930
+53,033,33,009,NH,"Grafton County",13,16,471
+53,033,38,017,ND,"Cass County",13,19,415
+53,033,39,153,OH,"Summit County",13,24,395
+53,033,42,043,PA,"Dauphin County",13,20,858
+53,033,44,009,RI,"Washington County",13,24,616
+53,033,51,700,VA,"Newport News",13,28,435
+53,033,51,760,VA,Richmond,13,15,444
+53,033,02,220,AK,"Sitka Borough",12,20,400
+53,033,06,031,CA,"Kings County",12,20,364
+53,033,08,067,CO,"La Plata County",12,16,812
+53,033,08,123,CO,"Weld County",12,22,297
+53,033,12,015,FL,"Charlotte County",12,14,689
+53,033,12,061,FL,"Indian River County",12,20,3917
+53,033,17,111,IL,"Mchenry County",12,24,549
+53,033,18,057,IN,"Hamilton County",12,28,1088
+53,033,26,077,MI,"Kalamazoo County",12,29,662
+53,033,29,183,MO,"St Charles County",12,25,529
+53,033,32,023,NV,"Nye County",12,19,422
+53,033,34,039,NJ,"Union County",12,22,1347
+53,033,35,055,NM,"Taos County",12,15,297
+53,033,39,017,OH,"Butler County",12,23,737
+53,033,39,113,OH,"Montgomery County",12,15,310
+53,033,41,009,OR,"Columbia County",12,25,367
+53,033,51,041,VA,"Chesterfield County",12,25,742
+53,033,01,003,AL,"Baldwin County",11,18,579
+53,033,02,261,AK,"Valdez Cordova Censu",11,17,320
+53,033,02,280,AK,"Wrangell Petersburg",11,15,301
+53,033,05,007,AR,"Benton County",11,25,10575
+53,033,06,047,CA,"Merced County",11,22,242
+53,033,08,037,CO,"Eagle County",11,13,2881
+53,033,08,101,CO,"Pueblo County",11,24,326
+53,033,09,007,CT,"Middlesex County",11,18,556
+53,033,12,087,FL,"Monroe County",11,16,551
+53,033,12,101,FL,"Pasco County",11,14,275
+53,033,13,179,GA,"Liberty County",11,18,175
+53,033,16,005,ID,"Bannock County",11,22,340
+53,033,16,083,ID,"Twin Falls County",11,21,302
+53,033,18,089,IN,"Lake County",11,17,386
+53,033,18,141,IN,"St Joseph County",11,22,348
+53,033,19,113,IA,"Linn County",11,31,846
+53,033,27,137,MN,"St Louis County",11,23,346
+53,033,34,005,NJ,"Burlington County",11,21,665
+53,033,36,111,NY,"Ulster County",11,12,275
+53,033,38,015,ND,"Burleigh County",11,13,379
+53,033,41,065,OR,"Wasco County",11,19,477
+53,033,45,015,SC,"Berkeley County",11,16,159
+53,033,45,079,SC,"Richland County",11,18,531
+53,033,47,187,TN,"Williamson County",11,24,8407
+53,033,48,157,TX,"Fort Bend County",11,26,938
+53,033,48,355,TX,"Nueces County",11,18,456
+53,033,53,069,WA,"Wahkiakum County",11,23,363
+53,033,55,009,WI,"Brown County",11,39,504
+53,033,04,003,AZ,"Cochise County",10,15,255
+53,033,16,021,ID,"Boundary County",10,17,343
+53,033,16,039,ID,"Elmore County",10,14,946
+53,033,17,019,IL,"Champaign County",10,17,362
+53,033,18,063,IN,"Hendricks County",10,19,349
+53,033,23,009,ME,"Hancock County",10,18,481
+53,033,26,139,MI,"Ottawa County",10,22,480
+53,033,29,019,MO,"Boone County",10,21,378
+53,033,30,089,MT,"Sanders County",10,23,428
+53,033,30,093,MT,"Silver Bow County",10,14,224
+53,033,32,019,NV,"Lyon County",10,19,874
+53,033,36,045,NY,"Jefferson County",10,17,212
+53,033,39,151,OH,"Stark County",10,19,606
+53,033,45,091,SC,"York County",10,17,608
+53,033,47,065,TN,"Hamilton County",10,21,381
+53,033,51,003,VA,"Albemarle County",10,17,386
+53,033,56,001,WY,"Albany County",10,11,152
+53,033,58,000,SS,"Other Flows - Same State",13,23,537
+53,033,59,000,DS,"Other Flows - Diff State",3063,5549,117776
+53,033,59,001,DS,"Other Flows - Northeast",417,700,18834
+53,033,59,003,DS,"Other Flows - Midwest",909,1727,36457
+53,033,59,005,DS,"Other Flows - South",1151,2101,51764
+53,033,59,007,DS,"Other Flows - West",586,1021,10720
+53,033,57,009,FR,"Foreign - Other flows",814,1410,85087
+53,035,96,000,WA,"Kitsap County Tot Mig-US & For",7543,15642,274492
+53,035,97,000,WA,"Kitsap County Tot Mig-US",7119,14702,262878
+53,035,97,001,WA,"Kitsap County Tot Mig-Same St",3314,6072,130098
+53,035,97,003,WA,"Kitsap County Tot Mig-Diff St",3805,8630,132780
+53,035,98,000,WA,"Kitsap County Tot Mig-Foreign",424,940,11614
+53,035,53,035,WA,"Kitsap County Non-Migrants",76430,175124,3954243
+53,035,53,033,WA,"King County",1159,1730,50376
+53,035,53,053,WA,"Pierce County",721,1463,26675
+53,035,57,005,FR,"Foreign - APO/FPO ZIPs",391,864,10576
+53,035,53,061,WA,"Snohomish County",308,570,11496
+53,035,53,045,WA,"Mason County",296,614,10257
+53,035,06,073,CA,"San Diego County",288,684,10181
+53,035,15,003,HI,"Honolulu County",150,399,5236
+53,035,53,031,WA,"Jefferson County",125,238,5438
+53,035,04,013,AZ,"Maricopa County",105,201,3443
+53,035,53,067,WA,"Thurston County",83,167,3141
+53,035,53,073,WA,"Whatcom County",83,118,2085
+53,035,32,003,NV,"Clark County",74,161,2747
+53,035,53,009,WA,"Clallam County",72,152,3151
+53,035,53,011,WA,"Clark County",72,157,2927
+53,035,53,063,WA,"Spokane County",72,170,2266
+53,035,09,011,CT,"New London County",62,193,2068
+53,035,06,071,CA,"San Bernardino Count",58,115,1306
+53,035,06,037,CA,"Los Angeles County",57,101,1293
+53,035,53,029,WA,"Island County",52,115,2596
+53,035,37,133,NC,"Onslow County",49,91,924
+53,035,51,810,VA,"Virginia Beach",43,130,1587
+53,035,53,077,WA,"Yakima County",43,89,1297
+53,035,06,065,CA,"Riverside County",42,87,1858
+53,035,04,019,AZ,"Pima County",39,81,1597
+53,035,06,059,CA,"Orange County",36,80,1208
+53,035,41,051,OR,"Multnomah County",36,53,1072
+53,035,13,039,GA,"Camden County",35,103,1242
+53,035,45,015,SC,"Berkeley County",35,127,1284
+53,035,53,057,WA,"Skagit County",35,99,1599
+53,035,41,067,OR,"Washington County",30,70,1352
+53,035,48,029,TX,"Bexar County",30,63,640
+53,035,06,111,CA,"Ventura County",28,80,1022
+53,035,08,041,CO,"El Paso County",26,54,912
+53,035,12,031,FL,"Duval County",26,66,1128
+53,035,17,031,IL,"Cook County",26,48,583
+53,035,53,027,WA,"Grays Harbor County",26,50,1238
+53,035,12,033,FL,"Escambia County",25,71,724
+53,035,32,031,NV,"Washoe County",25,45,731
+53,035,41,047,OR,"Marion County",24,44,818
+53,035,48,201,TX,"Harris County",24,41,672
+53,035,51,059,VA,"Fairfax County",24,74,1731
+53,035,16,001,ID,"Ada County",23,47,645
+53,035,49,035,UT,"Salt Lake County",23,51,640
+53,035,53,005,WA,"Benton County",23,70,1121
+53,035,53,037,WA,"Kittitas County",23,39,444
+53,035,06,067,CA,"Sacramento County",22,40,646
+53,035,53,007,WA,"Chelan County",22,38,669
+53,035,06,013,CA,"Contra Costa County",21,42,887
+53,035,36,091,NY,"Saratoga County",21,75,834
+53,035,41,005,OR,"Clackamas County",21,43,992
+53,035,51,710,VA,Norfolk,21,61,1086
+53,035,02,020,AK,"Anchorage Borough",20,40,637
+53,035,06,001,CA,"Alameda County",20,37,533
+53,035,12,009,FL,"Brevard County",19,46,771
+53,035,49,049,UT,"Utah County",19,42,646
+53,035,51,153,VA,"Prince William Count",19,50,551
+53,035,06,031,CA,"Kings County",18,47,441
+53,035,06,085,CA,"Santa Clara County",18,27,724
+53,035,48,439,TX,"Tarrant County",18,43,563
+53,035,24,003,MD,"Anne Arundel County",17,52,682
+53,035,41,039,OR,"Lane County",17,29,392
+53,035,44,005,RI,"Newport County",17,40,922
+53,035,51,550,VA,Chesapeake,17,48,919
+53,035,47,157,TN,"Shelby County",16,45,618
+53,035,04,015,AZ,"Mohave County",15,30,378
+53,035,17,097,IL,"Lake County",15,55,464
+53,035,51,700,VA,"Newport News",15,35,338
+53,035,53,075,WA,"Whitman County",15,18,277
+53,035,16,055,ID,"Kootenai County",14,33,867
+53,035,53,025,WA,"Grant County",14,28,552
+53,035,06,095,CA,"Solano County",13,31,483
+53,035,24,031,MD,"Montgomery County",13,31,500
+53,035,41,017,OR,"Deschutes County",13,20,394
+53,035,41,029,OR,"Jackson County",13,22,347
+53,035,06,077,CA,"San Joaquin County",12,27,480
+53,035,08,001,CO,"Adams County",12,21,390
+53,035,08,005,CO,"Arapahoe County",12,42,490
+53,035,27,053,MN,"Hennepin County",12,16,397
+53,035,30,063,MT,"Missoula County",12,22,322
+53,035,37,051,NC,"Cumberland County",12,21,189
+53,035,40,109,OK,"Oklahoma County",12,40,485
+53,035,06,019,CA,"Fresno County",11,21,293
+53,035,06,075,CA,"San Francisco County",11,14,389
+53,035,26,125,MI,"Oakland County",11,26,453
+53,035,32,001,NV,"Churchill County",11,29,407
+53,035,48,453,TX,"Travis County",11,32,465
+53,035,04,027,AZ,"Yuma County",10,18,268
+53,035,06,053,CA,"Monterey County",10,23,529
+53,035,06,097,CA,"Sonoma County",10,18,306
+53,035,12,019,FL,"Clay County",10,25,350
+53,035,25,017,MA,"Middlesex County",10,13,542
+53,035,31,153,NE,"Sarpy County",10,26,618
+53,035,35,001,NM,"Bernalillo County",10,25,414
+53,035,48,355,TX,"Nueces County",10,23,320
+53,035,53,041,WA,"Lewis County",10,27,349
+53,035,53,065,WA,"Stevens County",10,18,279
+53,035,58,000,SS,"Other Flows - Same State",50,102,1867
+53,035,59,000,DS,"Other Flows - Diff State",1691,3724,59417
+53,035,59,001,DS,"Other Flows - Northeast",177,393,6865
+53,035,59,003,DS,"Other Flows - Midwest",405,891,12847
+53,035,59,005,DS,"Other Flows - South",604,1336,21779
+53,035,59,007,DS,"Other Flows - West",505,1104,17926
+53,035,57,009,FR,"Foreign - Other flows",33,76,1038
+53,037,96,000,WA,"Kittitas County Tot Mig-US & For",1073,1887,30445
+53,037,97,000,WA,"Kittitas County Tot Mig-US",1073,1887,30445
+53,037,97,001,WA,"Kittitas County Tot Mig-Same St",746,1278,20696
+53,037,97,003,WA,"Kittitas County Tot Mig-Diff St",327,609,9749
+53,037,53,037,WA,"Kittitas County Non-Migrants",9558,20878,407869
+53,037,53,033,WA,"King County",248,368,6246
+53,037,53,077,WA,"Yakima County",119,203,3060
+53,037,53,053,WA,"Pierce County",64,112,1383
+53,037,53,061,WA,"Snohomish County",38,59,1011
+53,037,53,063,WA,"Spokane County",33,51,695
+53,037,53,005,WA,"Benton County",28,58,708
+53,037,53,007,WA,"Chelan County",28,47,647
+53,037,04,013,AZ,"Maricopa County",23,52,609
+53,037,53,025,WA,"Grant County",21,61,558
+53,037,53,067,WA,"Thurston County",20,33,1988
+53,037,53,011,WA,"Clark County",18,30,481
+53,037,53,035,WA,"Kitsap County",18,32,386
+53,037,53,015,WA,"Cowlitz County",11,19,180
+53,037,53,073,WA,"Whatcom County",11,19,322
+53,037,41,051,OR,"Multnomah County",10,16,226
+53,037,53,009,WA,"Clallam County",10,21,282
+53,037,58,000,SS,"Other Flows - Same State",79,165,2748
+53,037,59,000,DS,"Other Flows - Diff State",294,541,8914
+53,037,59,001,DS,"Other Flows - Northeast",26,44,917
+53,037,59,003,DS,"Other Flows - Midwest",24,49,700
+53,037,59,005,DS,"Other Flows - South",49,80,1197
+53,037,59,007,DS,"Other Flows - West",195,368,6099
+53,039,96,000,WA,"Klickitat Count Tot Mig-US & For",534,1018,15916
+53,039,97,000,WA,"Klickitat Count Tot Mig-US",534,1018,15916
+53,039,97,001,WA,"Klickitat Count Tot Mig-Same St",212,403,7475
+53,039,97,003,WA,"Klickitat Count Tot Mig-Diff St",322,615,8440
+53,039,53,039,WA,"Klickitat Count Non-Migrants",5951,14096,245418
+53,039,41,065,OR,"Wasco County",49,103,1352
+53,039,53,011,WA,"Clark County",47,83,1365
+53,039,41,027,OR,"Hood River County",40,73,1370
+53,039,41,051,OR,"Multnomah County",25,35,683
+53,039,53,077,WA,"Yakima County",25,52,884
+53,039,53,033,WA,"King County",21,29,609
+53,039,53,059,WA,"Skamania County",18,38,754
+53,039,53,053,WA,"Pierce County",13,20,386
+53,039,53,063,WA,"Spokane County",12,17,153
+53,039,58,000,SS,"Other Flows - Same State",76,164,3324
+53,039,59,000,DS,"Other Flows - Diff State",208,404,5037
+53,041,96,000,WA,"Lewis County Tot Mig-US & For",1692,3271,45892
+53,041,97,000,WA,"Lewis County Tot Mig-US",1678,3246,45499
+53,041,97,001,WA,"Lewis County Tot Mig-Same St",1046,1987,27082
+53,041,97,003,WA,"Lewis County Tot Mig-Diff St",632,1259,18417
+53,041,98,000,WA,"Lewis County Tot Mig-Foreign",14,25,393
+53,041,53,041,WA,"Lewis County Non-Migrants",21627,50351,839429
+53,041,53,067,WA,"Thurston County",367,693,9881
+53,041,53,033,WA,"King County",141,221,3613
+53,041,53,053,WA,"Pierce County",102,202,2693
+53,041,53,015,WA,"Cowlitz County",88,187,2310
+53,041,53,011,WA,"Clark County",48,101,1275
+53,041,53,027,WA,"Grays Harbor County",39,85,797
+53,041,53,061,WA,"Snohomish County",38,63,891
+53,041,04,013,AZ,"Maricopa County",26,49,830
+53,041,53,077,WA,"Yakima County",25,49,607
+53,041,41,051,OR,"Multnomah County",23,34,502
+53,041,53,045,WA,"Mason County",22,45,535
+53,041,53,063,WA,"Spokane County",22,45,333
+53,041,41,067,OR,"Washington County",19,27,587
+53,041,53,049,WA,"Pacific County",19,33,312
+53,041,53,073,WA,"Whatcom County",19,27,494
+53,041,41,047,OR,"Marion County",16,26,352
+53,041,41,005,OR,"Clackamas County",15,26,376
+53,041,53,037,WA,"Kittitas County",15,24,214
+53,041,53,035,WA,"Kitsap County",13,27,431
+53,041,53,005,WA,"Benton County",12,26,386
+53,041,53,009,WA,"Clallam County",12,20,270
+53,041,06,073,CA,"San Diego County",11,19,162
+53,041,32,003,NV,"Clark County",11,20,510
+53,041,53,057,WA,"Skagit County",11,31,305
+53,041,53,075,WA,"Whitman County",11,22,223
+53,041,41,017,OR,"Deschutes County",10,25,186
+53,041,58,000,SS,"Other Flows - Same State",42,86,1512
+53,041,59,000,DS,"Other Flows - Diff State",501,1033,14911
+53,041,59,001,DS,"Other Flows - Northeast",18,31,463
+53,041,59,003,DS,"Other Flows - Midwest",67,131,1731
+53,041,59,005,DS,"Other Flows - South",96,205,2842
+53,041,59,007,DS,"Other Flows - West",320,666,9875
+53,041,57,009,FR,"Foreign - Other flows",14,25,393
+53,043,96,000,WA,"Lincoln County Tot Mig-US & For",279,559,8290
+53,043,97,000,WA,"Lincoln County Tot Mig-US",279,559,8290
+53,043,97,001,WA,"Lincoln County Tot Mig-Same St",199,379,6341
+53,043,97,003,WA,"Lincoln County Tot Mig-Diff St",80,180,1948
+53,043,53,043,WA,"Lincoln County Non-Migrants",3134,7206,125316
+53,043,53,063,WA,"Spokane County",115,216,3715
+53,043,53,025,WA,"Grant County",14,33,434
+53,043,53,033,WA,"King County",11,13,267
+53,043,58,000,SS,"Other Flows - Same State",59,117,1925
+53,043,59,000,DS,"Other Flows - Diff State",80,180,1948
+53,045,96,000,WA,"Mason County Tot Mig-US & For",1393,2694,42402
+53,045,97,000,WA,"Mason County Tot Mig-US",1374,2650,42043
+53,045,97,001,WA,"Mason County Tot Mig-Same St",987,1890,30713
+53,045,97,003,WA,"Mason County Tot Mig-Diff St",387,760,11330
+53,045,98,000,WA,"Mason County Tot Mig-Foreign",19,44,359
+53,045,53,045,WA,"Mason County Non-Migrants",16133,35637,706779
+53,045,53,067,WA,"Thurston County",288,520,8396
+53,045,53,035,WA,"Kitsap County",208,457,6124
+53,045,53,033,WA,"King County",134,219,4581
+53,045,53,053,WA,"Pierce County",114,210,3637
+53,045,53,027,WA,"Grays Harbor County",56,124,1965
+53,045,53,061,WA,"Snohomish County",50,93,1443
+53,045,04,013,AZ,"Maricopa County",24,35,755
+53,045,53,011,WA,"Clark County",21,42,897
+53,045,53,063,WA,"Spokane County",17,28,408
+53,045,53,009,WA,"Clallam County",13,27,524
+53,045,32,003,NV,"Clark County",11,22,471
+53,045,53,015,WA,"Cowlitz County",11,26,227
+53,045,06,073,CA,"San Diego County",10,25,289
+53,045,58,000,SS,"Other Flows - Same State",75,144,2510
+53,045,59,000,DS,"Other Flows - Diff State",342,678,9815
+53,045,59,001,DS,"Other Flows - Northeast",18,31,370
+53,045,59,003,DS,"Other Flows - Midwest",48,95,1252
+53,045,59,005,DS,"Other Flows - South",75,162,2404
+53,045,59,007,DS,"Other Flows - West",201,390,5788
+53,045,57,009,FR,"Foreign - Other flows",19,44,359
+53,047,96,000,WA,"Okanogan County Tot Mig-US & For",929,1939,22976
+53,047,97,000,WA,"Okanogan County Tot Mig-US",913,1917,22891
+53,047,97,001,WA,"Okanogan County Tot Mig-Same St",572,1171,14383
+53,047,97,003,WA,"Okanogan County Tot Mig-Diff St",341,746,8509
+53,047,98,000,WA,"Okanogan County Tot Mig-Foreign",16,22,85
+53,047,53,047,WA,"Okanogan County Non-Migrants",12122,28264,375862
+53,047,53,063,WA,"Spokane County",94,183,2233
+53,047,53,033,WA,"King County",84,136,2388
+53,047,53,007,WA,"Chelan County",63,120,1932
+53,047,53,025,WA,"Grant County",44,92,923
+53,047,53,053,WA,"Pierce County",34,65,816
+53,047,53,061,WA,"Snohomish County",34,65,677
+53,047,53,017,WA,"Douglas County",33,67,595
+53,047,53,065,WA,"Stevens County",20,52,444
+53,047,53,019,WA,"Ferry County",18,33,324
+53,047,53,073,WA,"Whatcom County",16,30,295
+53,047,53,077,WA,"Yakima County",15,43,422
+53,047,53,057,WA,"Skagit County",12,37,393
+53,047,53,067,WA,"Thurston County",12,20,588
+53,047,04,013,AZ,"Maricopa County",11,22,317
+53,047,06,073,CA,"San Diego County",10,17,294
+53,047,53,005,WA,"Benton County",10,26,342
+53,047,58,000,SS,"Other Flows - Same State",83,202,2013
+53,047,59,000,DS,"Other Flows - Diff State",320,707,7898
+53,047,59,001,DS,"Other Flows - Northeast",11,24,287
+53,047,59,003,DS,"Other Flows - Midwest",35,88,1092
+53,047,59,005,DS,"Other Flows - South",46,103,791
+53,047,59,007,DS,"Other Flows - West",228,492,5727
+53,047,57,009,FR,"Foreign - Other flows",16,22,85
+53,049,96,000,WA,"Pacific County Tot Mig-US & For",578,1078,15570
+53,049,97,000,WA,"Pacific County Tot Mig-US",578,1078,15570
+53,049,97,001,WA,"Pacific County Tot Mig-Same St",321,580,9183
+53,049,97,003,WA,"Pacific County Tot Mig-Diff St",257,498,6387
+53,049,53,049,WA,"Pacific County Non-Migrants",6467,13899,230522
+53,049,53,011,WA,"Clark County",53,78,1368
+53,049,53,033,WA,"King County",45,60,1447
+53,049,53,027,WA,"Grays Harbor County",44,99,1006
+53,049,53,015,WA,"Cowlitz County",37,67,585
+53,049,53,067,WA,"Thurston County",24,47,1408
+53,049,41,007,OR,"Clatsop County",23,48,504
+53,049,53,041,WA,"Lewis County",20,43,444
+53,049,53,053,WA,"Pierce County",19,28,452
+53,049,41,051,OR,"Multnomah County",18,25,667
+53,049,53,061,WA,"Snohomish County",14,20,376
+53,049,04,013,AZ,"Maricopa County",10,18,157
+53,049,53,063,WA,"Spokane County",10,20,328
+53,049,58,000,SS,"Other Flows - Same State",55,118,1770
+53,049,59,000,DS,"Other Flows - Diff State",206,407,5059
+53,051,96,000,WA,"Pend Oreille Co Tot Mig-US & For",438,948,11131
+53,051,97,000,WA,"Pend Oreille Co Tot Mig-US",438,948,11131
+53,051,97,001,WA,"Pend Oreille Co Tot Mig-Same St",272,574,7365
+53,051,97,003,WA,"Pend Oreille Co Tot Mig-Diff St",166,374,3766
+53,051,53,051,WA,"Pend Oreille Co Non-Migrants",4577,10961,165248
+53,051,53,063,WA,"Spokane County",200,419,5416
+53,051,16,017,ID,"Bonner County",35,88,838
+53,051,53,065,WA,"Stevens County",12,36,343
+53,051,58,000,SS,"Other Flows - Same State",60,119,1606
+53,051,59,000,DS,"Other Flows - Diff State",131,286,2929
+53,053,96,000,WA,"Pierce County Tot Mig-US & For",19618,39479,679610
+53,053,97,000,WA,"Pierce County Tot Mig-US",18475,37095,651439
+53,053,97,001,WA,"Pierce County Tot Mig-Same St",8776,16021,318124
+53,053,97,003,WA,"Pierce County Tot Mig-Diff St",9699,21074,333315
+53,053,98,000,WA,"Pierce County Tot Mig-Foreign",1143,2384,28171
+53,053,53,053,WA,"Pierce County Non-Migrants",227853,510922,11216876
+53,053,53,033,WA,"King County",4718,7813,171566
+53,053,53,067,WA,"Thurston County",1191,2569,42810
+53,053,57,005,FR,"Foreign - APO/FPO ZIPs",1050,2187,25043
+53,053,53,035,WA,"Kitsap County",559,1076,25561
+53,053,53,061,WA,"Snohomish County",459,875,16063
+53,053,04,013,AZ,"Maricopa County",334,653,13852
+53,053,06,037,CA,"Los Angeles County",247,454,7451
+53,053,53,063,WA,"Spokane County",228,479,5773
+53,053,06,073,CA,"San Diego County",209,391,6848
+53,053,53,011,WA,"Clark County",206,447,8352
+53,053,32,003,NV,"Clark County",186,374,6470
+53,053,37,051,NC,"Cumberland County",163,376,4557
+53,053,15,003,HI,"Honolulu County",161,386,5133
+53,053,53,073,WA,"Whatcom County",161,236,4377
+53,053,41,051,OR,"Multnomah County",153,256,5338
+53,053,53,041,WA,"Lewis County",147,277,4539
+53,053,53,045,WA,"Mason County",138,278,6313
+53,053,41,067,OR,"Washington County",128,272,6079
+53,053,48,029,TX,"Bexar County",128,357,4944
+53,053,06,059,CA,"Orange County",119,212,5010
+53,053,06,065,CA,"Riverside County",117,218,4533
+53,053,06,071,CA,"San Bernardino Count",117,281,3839
+53,053,53,027,WA,"Grays Harbor County",116,254,3444
+53,053,08,041,CO,"El Paso County",113,280,3459
+53,053,53,077,WA,"Yakima County",105,207,2562
+53,053,48,027,TX,"Bell County",89,205,2771
+53,053,04,019,AZ,"Pima County",85,153,3694
+53,053,13,215,GA,"Muscogee County",80,218,2413
+53,053,41,005,OR,"Clackamas County",76,148,3715
+53,053,53,009,WA,"Clallam County",75,135,2456
+53,053,48,201,TX,"Harris County",72,159,2414
+53,053,53,037,WA,"Kittitas County",72,124,2094
+53,053,06,067,CA,"Sacramento County",71,148,2432
+53,053,48,141,TX,"El Paso County",70,184,2052
+53,053,02,020,AK,"Anchorage Borough",65,148,2499
+53,053,53,057,WA,"Skagit County",65,131,2366
+53,053,16,001,ID,"Ada County",62,127,2754
+53,053,53,005,WA,"Benton County",62,133,2183
+53,053,06,085,CA,"Santa Clara County",60,95,3876
+53,053,51,059,VA,"Fairfax County",59,167,2852
+53,053,41,039,OR,"Lane County",57,106,1828
+53,053,48,439,TX,"Tarrant County",57,126,2022
+53,053,06,001,CA,"Alameda County",55,90,1754
+53,053,29,169,MO,"Pulaski County",55,177,1858
+53,053,40,031,OK,"Comanche County",55,155,1944
+53,053,49,035,UT,"Salt Lake County",53,111,1757
+53,053,06,095,CA,"Solano County",52,125,1986
+53,053,53,025,WA,"Grant County",52,131,1642
+53,053,53,075,WA,"Whitman County",51,81,1190
+53,053,17,031,IL,"Cook County",49,91,2182
+53,053,21,093,KY,"Hardin County",49,160,1864
+53,053,53,029,WA,"Island County",48,107,2072
+53,053,47,125,TN,"Montgomery County",47,142,1540
+53,053,53,015,WA,"Cowlitz County",47,100,1687
+53,053,53,047,WA,"Okanogan County",47,97,1752
+53,053,06,013,CA,"Contra Costa County",46,87,1974
+53,053,48,113,TX,"Dallas County",44,82,1253
+53,053,32,031,NV,"Washoe County",42,79,1703
+53,053,08,005,CO,"Arapahoe County",40,101,2137
+53,053,49,049,UT,"Utah County",40,94,1628
+53,053,53,007,WA,"Chelan County",40,78,1529
+53,053,06,053,CA,"Monterey County",39,87,1420
+53,053,13,179,GA,"Liberty County",39,106,891
+53,053,16,055,ID,"Kootenai County",39,98,1645
+53,053,12,025,FL,"Dade County",38,67,937
+53,053,41,047,OR,"Marion County",36,90,1372
+53,053,21,047,KY,"Christian County",35,89,808
+53,053,41,017,OR,"Deschutes County",35,76,2305
+53,053,02,090,AK,"Fairbanks North Star",34,90,1312
+53,053,06,081,CA,"San Mateo County",34,62,1376
+53,053,12,011,FL,"Broward County",34,61,1009
+53,053,04,003,AZ,"Cochise County",33,85,1038
+53,053,06,077,CA,"San Joaquin County",33,72,954
+53,053,06,111,CA,"Ventura County",33,55,1440
+53,053,12,057,FL,"Hillsborough County",33,68,1418
+53,053,41,029,OR,"Jackson County",33,74,1353
+53,053,53,031,WA,"Jefferson County",33,71,2426
+53,053,35,001,NM,"Bernalillo County",32,65,1204
+53,053,48,099,TX,"Coryell County",32,93,840
+53,053,06,083,CA,"Santa Barbara County",31,68,916
+53,053,12,095,FL,"Orange County",31,71,785
+53,053,20,061,KS,"Geary County",31,93,812
+53,053,22,115,LA,"Vernon Parish",31,80,1055
+53,053,45,079,SC,"Richland County",31,78,1087
+53,053,12,031,FL,"Duval County",29,50,670
+53,053,12,103,FL,"Pinellas County",29,61,979
+53,053,25,017,MA,"Middlesex County",28,47,983
+53,053,27,053,MN,"Hennepin County",28,46,1004
+53,053,30,063,MT,"Missoula County",28,55,1221
+53,053,04,027,AZ,"Yuma County",27,49,891
+53,053,06,061,CA,"Placer County",27,59,1167
+53,053,20,103,KS,"Leavenworth County",27,92,1104
+53,053,30,029,MT,"Flathead County",27,54,574
+53,053,36,045,NY,"Jefferson County",27,70,518
+53,053,40,143,OK,"Tulsa County",27,61,973
+53,053,53,065,WA,"Stevens County",27,57,704
+53,053,06,075,CA,"San Francisco County",26,39,941
+53,053,40,109,OK,"Oklahoma County",26,52,855
+53,053,13,245,GA,"Richmond County",25,62,504
+53,053,20,173,KS,"Sedgwick County",25,59,968
+53,053,51,700,VA,"Newport News",25,54,625
+53,053,08,031,CO,"Denver County",24,40,550
+53,053,12,009,FL,"Brevard County",24,49,799
+53,053,41,019,OR,"Douglas County",24,50,538
+53,053,49,011,UT,"Davis County",24,66,985
+53,053,04,015,AZ,"Mohave County",23,46,651
+53,053,06,019,CA,"Fresno County",23,47,925
+53,053,12,033,FL,"Escambia County",23,38,640
+53,053,24,031,MD,"Montgomery County",23,54,1237
+53,053,48,453,TX,"Travis County",23,54,1750
+53,053,51,153,VA,"Prince William Count",23,66,1032
+53,053,01,097,AL,"Mobile County",22,47,502
+53,053,06,029,CA,"Kern County",22,40,486
+53,053,37,119,NC,"Mecklenburg County",22,48,1081
+53,053,04,021,AZ,"Pinal County",21,31,757
+53,053,53,049,WA,"Pacific County",21,42,607
+53,053,53,071,WA,"Walla Walla County",21,38,637
+53,053,08,059,CO,"Jefferson County",20,47,819
+53,053,16,027,ID,"Canyon County",20,50,609
+53,053,24,033,MD,"Prince George's Coun",20,56,740
+53,053,36,047,NY,"Kings County",20,24,350
+53,053,12,099,FL,"Palm Beach County",19,35,713
+53,053,17,163,IL,"St Clair County",19,54,751
+53,053,26,163,MI,"Wayne County",19,46,514
+53,053,30,111,MT,"Yellowstone County",19,42,797
+53,053,41,007,OR,"Clatsop County",19,31,527
+53,053,48,085,TX,"Collin County",19,33,593
+53,053,01,089,AL,"Madison County",18,41,621
+53,053,06,099,CA,"Stanislaus County",18,46,531
+53,053,08,013,CO,"Boulder County",18,29,603
+53,053,12,105,FL,"Polk County",18,39,759
+53,053,13,067,GA,"Cobb County",18,33,704
+53,053,16,017,ID,"Bonner County",18,49,620
+53,053,47,157,TN,"Shelby County",18,30,421
+53,053,51,149,VA,"Prince George County",18,46,497
+53,053,53,017,WA,"Douglas County",18,48,1009
+53,053,02,122,AK,"Kenai Peninsula Boro",17,29,422
+53,053,06,097,CA,"Sonoma County",17,30,779
+53,053,06,113,CA,"Yolo County",17,40,498
+53,053,08,001,CO,"Adams County",17,38,511
+53,053,08,069,CO,"Larimer County",17,31,525
+53,053,12,091,FL,"Okaloosa County",17,28,341
+53,053,13,089,GA,"De Kalb County",17,35,430
+53,053,18,097,IN,"Marion County",17,32,467
+53,053,24,003,MD,"Anne Arundel County",17,43,554
+53,053,04,005,AZ,"Coconino County",16,33,521
+53,053,13,051,GA,"Chatham County",16,31,306
+53,053,13,073,GA,"Columbia County",16,45,826
+53,053,15,009,HI,"Maui County",16,28,704
+53,053,36,061,NY,"New York County",16,25,409
+53,053,39,049,OH,"Franklin County",16,36,545
+53,053,41,043,OR,"Linn County",16,32,365
+53,053,45,019,SC,"Charleston County",16,35,400
+53,053,48,373,TX,"Polk County",16,32,915
+53,053,51,810,VA,"Virginia Beach",16,34,329
+53,053,06,079,CA,"San Luis Obispo Coun",15,28,592
+53,053,29,189,MO,"St Louis County",15,36,956
+53,053,31,055,NE,"Douglas County",15,33,749
+53,053,39,113,OH,"Montgomery County",15,25,89
+53,053,48,121,TX,"Denton County",15,41,1017
+53,053,48,491,TX,"Williamson County",15,37,1061
+53,053,49,057,UT,"Weber County",15,29,248
+53,053,04,025,AZ,"Yavapai County",14,24,505
+53,053,09,009,CT,"New Haven County",14,34,410
+53,053,11,001,DC,"District Of Columbia",14,22,794
+53,053,12,127,FL,"Volusia County",14,26,320
+53,053,13,135,GA,"Gwinnett County",14,27,647
+53,053,19,153,IA,"Polk County",14,33,667
+53,053,30,031,MT,"Gallatin County",14,33,359
+53,053,36,071,NY,"Orange County",14,41,690
+53,053,39,035,OH,"Cuyahoga County",14,21,274
+53,053,41,035,OR,"Klamath County",14,26,520
+53,053,55,079,WI,"Milwaukee County",14,29,358
+53,053,06,089,CA,"Shasta County",13,34,327
+53,053,15,001,HI,"Hawaii County",13,25,576
+53,053,26,099,MI,"Macomb County",13,25,417
+53,053,27,123,MN,"Ramsey County",13,19,355
+53,053,30,081,MT,"Ravalli County",13,25,479
+53,053,37,081,NC,"Guilford County",13,39,634
+53,053,37,191,NC,"Wayne County",13,28,330
+53,053,41,003,OR,"Benton County",13,26,283
+53,053,41,041,OR,"Lincoln County",13,23,275
+53,053,41,071,OR,"Yamhill County",13,34,361
+53,053,51,013,VA,"Arlington County",13,18,531
+53,053,06,007,CA,"Butte County",12,18,411
+53,053,13,063,GA,"Clayton County",12,22,423
+53,053,13,121,GA,"Fulton County",12,27,339
+53,053,18,089,IN,"Lake County",12,25,330
+53,053,24,025,MD,"Harford County",12,34,332
+53,053,25,025,MA,"Suffolk County",12,15,257
+53,053,26,125,MI,"Oakland County",12,20,429
+53,053,29,095,MO,"Jackson County",12,32,317
+53,053,30,013,MT,"Cascade County",12,27,412
+53,053,37,133,NC,"Onslow County",12,18,200
+53,053,41,011,OR,"Coos County",12,37,258
+53,053,49,053,UT,"Washington County",12,25,394
+53,053,51,041,VA,"Chesterfield County",12,35,643
+53,053,51,710,VA,Norfolk,12,22,331
+53,053,53,021,WA,"Franklin County",12,31,412
+53,053,01,045,AL,"Dale County",11,32,398
+53,053,01,073,AL,"Jefferson County",11,28,273
+53,053,02,170,AK,"Matanuska Susitna Bo",11,33,537
+53,053,06,017,CA,"El Dorado County",11,20,271
+53,053,06,107,CA,"Tulare County",11,27,405
+53,053,08,035,CO,"Douglas County",11,31,811
+53,053,09,003,CT,"Hartford County",11,14,287
+53,053,12,097,FL,"Osceola County",11,24,404
+53,053,17,097,IL,"Lake County",11,22,249
+53,053,20,091,KS,"Johnson County",11,28,606
+53,053,24,005,MD,"Baltimore County",11,29,488
+53,053,34,005,NJ,"Burlington County",11,26,481
+53,053,37,183,NC,"Wake County",11,32,487
+53,053,38,035,ND,"Grand Forks County",11,38,479
+53,053,41,053,OR,"Polk County",11,30,473
+53,053,47,037,TN,"Davidson County",11,19,792
+53,053,48,485,TX,"Wichita County",11,25,248
+53,053,53,039,WA,"Klickitat County",11,17,286
+53,053,01,101,AL,"Montgomery County",10,25,385
+53,053,02,110,AK,"Juneau Borough",10,19,343
+53,053,10,003,DE,"New Castle County",10,24,425
+53,053,12,115,FL,"Sarasota County",10,18,442
+53,053,13,059,GA,"Clarke County",10,16,257
+53,053,16,069,ID,"Nez Perce County",10,20,276
+53,053,17,119,IL,"Madison County",10,28,248
+53,053,22,015,LA,"Bossier Parish",10,26,389
+53,053,26,161,MI,"Washtenaw County",10,20,635
+53,053,27,037,MN,"Dakota County",10,21,437
+53,053,28,047,MS,"Harrison County",10,21,194
+53,053,30,049,MT,"Lewis And Clark Coun",10,17,342
+53,053,36,067,NY,"Onondaga County",10,22,300
+53,053,37,093,NC,"Hoke County",10,26,258
+53,053,39,061,OH,"Hamilton County",10,15,335
+53,053,41,059,OR,"Umatilla County",10,22,334
+53,053,42,003,PA,"Allegheny County",10,21,287
+53,053,42,041,PA,"Cumberland County",10,34,638
+53,053,42,101,PA,"Philadelphia County",10,21,222
+53,053,48,355,TX,"Nueces County",10,18,320
+53,053,51,650,VA,Hampton,10,25,346
+53,053,57,003,FR,"Foreign - Puerto Rico",10,34,277
+53,053,58,000,SS,"Other Flows - Same State",46,89,1709
+53,053,59,000,DS,"Other Flows - Diff State",2877,6289,88999
+53,053,59,001,DS,"Other Flows - Northeast",399,761,12179
+53,053,59,003,DS,"Other Flows - Midwest",779,1691,23002
+53,053,59,005,DS,"Other Flows - South",1164,2697,38174
+53,053,59,007,DS,"Other Flows - West",535,1140,15644
+53,053,57,009,FR,"Foreign - Other flows",83,163,2851
+53,055,96,000,WA,"San Juan County Tot Mig-US & For",426,684,15712
+53,055,97,000,WA,"San Juan County Tot Mig-US",426,684,15712
+53,055,97,001,WA,"San Juan County Tot Mig-Same St",232,383,8495
+53,055,97,003,WA,"San Juan County Tot Mig-Diff St",194,301,7217
+53,055,53,055,WA,"San Juan County Non-Migrants",4996,9639,362404
+53,055,53,033,WA,"King County",64,99,2734
+53,055,53,073,WA,"Whatcom County",38,57,1479
+53,055,53,057,WA,"Skagit County",33,56,812
+53,055,53,061,WA,"Snohomish County",28,38,876
+53,055,06,073,CA,"San Diego County",10,13,278
+53,055,53,067,WA,"Thurston County",10,15,401
+53,055,58,000,SS,"Other Flows - Same State",59,118,2192
+53,055,59,000,DS,"Other Flows - Diff State",184,288,6939
+53,055,59,001,DS,"Other Flows - Northeast",12,23,304
+53,055,59,003,DS,"Other Flows - Midwest",12,17,248
+53,055,59,005,DS,"Other Flows - South",31,53,875
+53,055,59,007,DS,"Other Flows - West",129,195,5512
+53,057,96,000,WA,"Skagit County Tot Mig-US & For",2801,5344,95120
+53,057,97,000,WA,"Skagit County Tot Mig-US",2760,5265,93711
+53,057,97,001,WA,"Skagit County Tot Mig-Same St",1703,3148,57610
+53,057,97,003,WA,"Skagit County Tot Mig-Diff St",1057,2117,36102
+53,057,98,000,WA,"Skagit County Tot Mig-Foreign",41,79,1408
+53,057,53,057,WA,"Skagit County Non-Migrants",36233,81793,1708555
+53,057,53,073,WA,"Whatcom County",401,741,12873
+53,057,53,061,WA,"Snohomish County",380,684,12334
+53,057,53,033,WA,"King County",339,484,13381
+53,057,53,029,WA,"Island County",188,404,6762
+53,057,53,053,WA,"Pierce County",56,115,1833
+53,057,53,063,WA,"Spokane County",47,79,1147
+53,057,04,013,AZ,"Maricopa County",44,73,1065
+53,057,53,035,WA,"Kitsap County",30,72,860
+53,057,57,005,FR,"Foreign - APO/FPO ZIPs",28,59,711
+53,057,06,073,CA,"San Diego County",27,55,928
+53,057,41,051,OR,"Multnomah County",26,41,589
+53,057,53,055,WA,"San Juan County",25,53,1051
+53,057,32,003,NV,"Clark County",24,46,687
+53,057,53,047,WA,"Okanogan County",22,48,790
+53,057,53,067,WA,"Thurston County",22,47,899
+53,057,06,037,CA,"Los Angeles County",21,35,478
+53,057,53,009,WA,"Clallam County",18,29,507
+53,057,53,011,WA,"Clark County",17,37,474
+53,057,53,077,WA,"Yakima County",17,36,750
+53,057,53,075,WA,"Whitman County",16,27,264
+53,057,06,065,CA,"Riverside County",15,26,449
+53,057,53,007,WA,"Chelan County",15,29,489
+53,057,04,019,AZ,"Pima County",14,24,966
+53,057,41,039,OR,"Lane County",14,28,311
+53,057,06,059,CA,"Orange County",13,31,412
+53,057,41,067,OR,"Washington County",13,26,379
+53,057,06,053,CA,"Monterey County",11,21,405
+53,057,53,005,WA,"Benton County",11,25,414
+53,057,53,031,WA,"Jefferson County",11,17,289
+53,057,41,005,OR,"Clackamas County",10,17,371
+53,057,53,015,WA,"Cowlitz County",10,28,234
+53,057,53,017,WA,"Douglas County",10,23,334
+53,057,53,065,WA,"Stevens County",10,23,177
+53,057,58,000,SS,"Other Flows - Same State",58,147,1748
+53,057,59,000,DS,"Other Flows - Diff State",825,1694,29061
+53,057,59,001,DS,"Other Flows - Northeast",46,75,1587
+53,057,59,003,DS,"Other Flows - Midwest",109,247,3546
+53,057,59,005,DS,"Other Flows - South",232,503,8955
+53,057,59,007,DS,"Other Flows - West",438,869,14974
+53,057,57,009,FR,"Foreign - Other flows",13,20,697
+53,059,96,000,WA,"Skamania County Tot Mig-US & For",269,491,5731
+53,059,97,000,WA,"Skamania County Tot Mig-US",269,491,5731
+53,059,97,001,WA,"Skamania County Tot Mig-Same St",125,230,3723
+53,059,97,003,WA,"Skamania County Tot Mig-Diff St",144,261,2007
+53,059,53,059,WA,"Skamania County Non-Migrants",2649,6121,113426
+53,059,53,011,WA,"Clark County",70,129,1999
+53,059,41,051,OR,"Multnomah County",19,26,-1917
+53,059,41,005,OR,"Clackamas County",16,29,389
+53,059,53,039,WA,"Klickitat County",16,35,467
+53,059,41,027,OR,"Hood River County",13,22,718
+53,059,58,000,SS,"Other Flows - Same State",39,66,1257
+53,059,59,000,DS,"Other Flows - Diff State",96,184,2816
+53,061,96,000,WA,"Snohomish Count Tot Mig-US & For",17485,33099,761216
+53,061,97,000,WA,"Snohomish Count Tot Mig-US",17152,32481,750078
+53,061,97,001,WA,"Snohomish Count Tot Mig-Same St",10417,18432,450286
+53,061,97,003,WA,"Snohomish Count Tot Mig-Diff St",6735,14049,299793
+53,061,98,000,WA,"Snohomish Count Tot Mig-Foreign",333,618,11138
+53,061,53,061,WA,"Snohomish Count Non-Migrants",197990,447046,10929759
+53,061,53,033,WA,"King County",6257,10026,280937
+53,061,53,029,WA,"Island County",794,1705,37835
+53,061,53,057,WA,"Skagit County",609,1319,26589
+53,061,53,053,WA,"Pierce County",471,918,18275
+53,061,53,073,WA,"Whatcom County",379,676,11517
+53,061,04,013,AZ,"Maricopa County",358,708,17820
+53,061,53,035,WA,"Kitsap County",354,752,15888
+53,061,06,073,CA,"San Diego County",258,509,9224
+53,061,53,063,WA,"Spokane County",243,457,8393
+53,061,06,037,CA,"Los Angeles County",215,404,6770
+53,061,32,003,NV,"Clark County",175,336,6580
+53,061,57,005,FR,"Foreign - APO/FPO ZIPs",168,273,3578
+53,061,53,067,WA,"Thurston County",147,289,5528
+53,061,04,019,AZ,"Pima County",140,302,7761
+53,061,06,059,CA,"Orange County",120,246,5954
+53,061,53,011,WA,"Clark County",116,225,5169
+53,061,41,051,OR,"Multnomah County",109,171,3842
+53,061,06,065,CA,"Riverside County",99,201,4258
+53,061,41,067,OR,"Washington County",95,186,4755
+53,061,53,007,WA,"Chelan County",95,208,4553
+53,061,53,009,WA,"Clallam County",89,159,3477
+53,061,53,077,WA,"Yakima County",87,173,2841
+53,061,15,003,HI,"Honolulu County",81,158,2221
+53,061,53,005,WA,"Benton County",81,159,2667
+53,061,53,047,WA,"Okanogan County",77,152,2730
+53,061,06,067,CA,"Sacramento County",75,141,2207
+53,061,53,027,WA,"Grays Harbor County",74,157,2524
+53,061,53,025,WA,"Grant County",71,158,2381
+53,061,53,037,WA,"Kittitas County",71,130,4023
+53,061,16,001,ID,"Ada County",69,131,3545
+53,061,06,085,CA,"Santa Clara County",68,135,7564
+53,061,16,055,ID,"Kootenai County",62,157,2602
+53,061,41,005,OR,"Clackamas County",57,118,3136
+53,061,48,439,TX,"Tarrant County",56,111,2818
+53,061,02,020,AK,"Anchorage Borough",55,94,2140
+53,061,41,039,OR,"Lane County",53,124,1788
+53,061,53,075,WA,"Whitman County",52,90,1566
+53,061,06,111,CA,"Ventura County",51,125,2193
+53,061,53,045,WA,"Mason County",51,92,1964
+53,061,06,001,CA,"Alameda County",50,97,2470
+53,061,49,049,UT,"Utah County",49,125,1545
+53,061,48,201,TX,"Harris County",48,100,2324
+53,061,06,071,CA,"San Bernardino Count",47,93,1633
+53,061,08,041,CO,"El Paso County",46,95,1645
+53,061,49,035,UT,"Salt Lake County",46,108,1558
+53,061,41,047,OR,"Marion County",40,76,1153
+53,061,53,065,WA,"Stevens County",40,89,1094
+53,061,27,053,MN,"Hennepin County",38,75,3216
+53,061,48,113,TX,"Dallas County",38,74,1361
+53,061,53,041,WA,"Lewis County",38,81,1082
+53,061,06,013,CA,"Contra Costa County",35,78,2257
+53,061,26,125,MI,"Oakland County",34,75,2053
+53,061,48,029,TX,"Bexar County",34,90,1476
+53,061,53,055,WA,"San Juan County",33,48,1264
+53,061,06,075,CA,"San Francisco County",32,41,1283
+53,061,32,031,NV,"Washoe County",32,47,1168
+53,061,30,029,MT,"Flathead County",31,71,843
+53,061,53,031,WA,"Jefferson County",31,54,1155
+53,061,08,031,CO,"Denver County",29,40,1037
+53,061,26,163,MI,"Wayne County",29,65,1064
+53,061,51,810,VA,"Virginia Beach",29,70,906
+53,061,53,017,WA,"Douglas County",29,53,996
+53,061,20,173,KS,"Sedgwick County",28,64,1147
+53,061,06,019,CA,"Fresno County",27,61,791
+53,061,16,017,ID,"Bonner County",27,61,1113
+53,061,41,029,OR,"Jackson County",27,59,1222
+53,061,06,029,CA,"Kern County",26,63,708
+53,061,17,031,IL,"Cook County",25,42,1068
+53,061,30,063,MT,"Missoula County",25,52,1151
+53,061,35,001,NM,"Bernalillo County",25,51,1367
+53,061,41,019,OR,"Douglas County",25,56,815
+53,061,06,081,CA,"San Mateo County",24,45,901
+53,061,15,009,HI,"Maui County",24,45,1431
+53,061,48,085,TX,"Collin County",24,53,1452
+53,061,41,017,OR,"Deschutes County",23,57,3872
+53,061,04,015,AZ,"Mohave County",22,48,822
+53,061,04,027,AZ,"Yuma County",22,38,743
+53,061,12,031,FL,"Duval County",22,50,798
+53,061,12,103,FL,"Pinellas County",22,45,1139
+53,061,53,015,WA,"Cowlitz County",22,42,657
+53,061,06,089,CA,"Shasta County",21,49,666
+53,061,08,005,CO,"Arapahoe County",21,42,700
+53,061,12,011,FL,"Broward County",21,44,1174
+53,061,15,001,HI,"Hawaii County",21,36,602
+53,061,48,453,TX,"Travis County",21,38,1210
+53,061,08,001,CO,"Adams County",20,43,925
+53,061,08,013,CO,"Boulder County",20,39,1158
+53,061,30,111,MT,"Yellowstone County",20,43,1137
+53,061,40,109,OK,"Oklahoma County",20,47,888
+53,061,17,097,IL,"Lake County",19,48,655
+53,061,51,059,VA,"Fairfax County",19,47,1117
+53,061,53,071,WA,"Walla Walla County",19,41,851
+53,061,55,079,WI,"Milwaukee County",19,33,605
+53,061,08,059,CO,"Jefferson County",18,35,670
+53,061,12,095,FL,"Orange County",18,42,747
+53,061,18,097,IN,"Marion County",18,24,462
+53,061,39,049,OH,"Franklin County",18,36,750
+53,061,48,121,TX,"Denton County",18,36,751
+53,061,48,141,TX,"El Paso County",18,34,798
+53,061,04,025,AZ,"Yavapai County",17,31,892
+53,061,06,083,CA,"Santa Barbara County",17,34,732
+53,061,08,069,CO,"Larimer County",17,47,3548
+53,061,12,033,FL,"Escambia County",17,48,514
+53,061,16,027,ID,"Canyon County",17,40,490
+53,061,30,013,MT,"Cascade County",17,28,380
+53,061,48,309,TX,"Mclennan County",17,42,895
+53,061,06,053,CA,"Monterey County",16,29,895
+53,061,06,097,CA,"Sonoma County",16,33,1087
+53,061,06,099,CA,"Stanislaus County",16,37,396
+53,061,12,009,FL,"Brevard County",16,40,830
+53,061,13,135,GA,"Gwinnett County",16,42,656
+53,061,25,017,MA,"Middlesex County",16,33,749
+53,061,41,007,OR,"Clatsop County",16,28,461
+53,061,06,095,CA,"Solano County",15,26,417
+53,061,12,025,FL,"Dade County",15,25,685
+53,061,30,031,MT,"Gallatin County",15,24,424
+53,061,30,081,MT,"Ravalli County",15,28,852
+53,061,53,019,WA,"Ferry County",15,31,683
+53,061,06,061,CA,"Placer County",14,32,1045
+53,061,12,057,FL,"Hillsborough County",14,30,713
+53,061,29,189,MO,"St Louis County",14,32,619
+53,061,41,003,OR,"Benton County",14,22,480
+53,061,41,011,OR,"Coos County",14,22,263
+53,061,41,033,OR,"Josephine County",14,25,362
+53,061,48,027,TX,"Bell County",14,34,358
+53,061,05,007,AR,"Benton County",13,33,547
+53,061,06,007,CA,"Butte County",13,23,504
+53,061,13,089,GA,"De Kalb County",13,19,332
+53,061,16,069,ID,"Nez Perce County",13,35,476
+53,061,20,091,KS,"Johnson County",13,35,740
+53,061,36,061,NY,"New York County",13,15,468
+53,061,37,081,NC,"Guilford County",13,32,539
+53,061,44,005,RI,"Newport County",13,35,1034
+53,061,47,157,TN,"Shelby County",13,37,434
+53,061,53,051,WA,"Pend Oreille County",13,23,523
+53,061,06,077,CA,"San Joaquin County",12,30,314
+53,061,12,099,FL,"Palm Beach County",12,24,553
+53,061,17,043,IL,"Du Page County",12,23,513
+53,061,27,037,MN,"Dakota County",12,29,508
+53,061,30,049,MT,"Lewis And Clark Coun",12,28,237
+53,061,36,103,NY,"Suffolk County",12,26,307
+53,061,41,053,OR,"Polk County",12,33,505
+53,061,49,011,UT,"Davis County",12,44,497
+53,061,49,057,UT,"Weber County",12,27,730
+53,061,56,021,WY,"Laramie County",12,30,469
+53,061,02,110,AK,"Juneau Borough",11,24,384
+53,061,04,021,AZ,"Pinal County",11,19,361
+53,061,08,035,CO,"Douglas County",11,34,445
+53,061,12,127,FL,"Volusia County",11,18,271
+53,061,13,121,GA,"Fulton County",11,19,667
+53,061,16,083,ID,"Twin Falls County",11,29,333
+53,061,24,031,MD,"Montgomery County",11,31,665
+53,061,26,099,MI,"Macomb County",11,21,418
+53,061,30,047,MT,"Lake County",11,20,297
+53,061,41,043,OR,"Linn County",11,24,442
+53,061,41,071,OR,"Yamhill County",11,18,385
+53,061,51,153,VA,"Prince William Count",11,19,345
+53,061,06,041,CA,"Marin County",10,14,421
+53,061,08,101,CO,"Pueblo County",10,18,284
+53,061,16,057,ID,"Latah County",10,14,223
+53,061,30,053,MT,"Lincoln County",10,21,254
+53,061,36,067,NY,"Onondaga County",10,17,301
+53,061,37,119,NC,"Mecklenburg County",10,26,604
+53,061,39,035,OH,"Cuyahoga County",10,15,343
+53,061,41,009,OR,"Columbia County",10,19,346
+53,061,41,041,OR,"Lincoln County",10,20,183
+53,061,42,003,PA,"Allegheny County",10,23,663
+53,061,42,017,PA,"Bucks County",10,21,1072
+53,061,48,355,TX,"Nueces County",10,23,277
+53,061,48,373,TX,"Polk County",10,19,570
+53,061,53,021,WA,"Franklin County",10,22,123
+53,061,53,049,WA,"Pacific County",10,14,301
+53,061,58,000,SS,"Other Flows - Same State",39,89,2699
+53,061,59,000,DS,"Other Flows - Diff State",2196,4770,99057
+53,061,59,001,DS,"Other Flows - Northeast",325,691,16090
+53,061,59,003,DS,"Other Flows - Midwest",603,1345,29573
+53,061,59,005,DS,"Other Flows - South",759,1653,34018
+53,061,59,007,DS,"Other Flows - West",509,1081,19376
+53,061,57,009,FR,"Foreign - Other flows",165,345,7560
+53,063,96,000,WA,"Spokane County Tot Mig-US & For",9029,17504,297371
+53,063,97,000,WA,"Spokane County Tot Mig-US",8819,17088,291479
+53,063,97,001,WA,"Spokane County Tot Mig-Same St",3460,6435,110405
+53,063,97,003,WA,"Spokane County Tot Mig-Diff St",5359,10653,181074
+53,063,98,000,WA,"Spokane County Tot Mig-Foreign",210,416,5892
+53,063,53,063,WA,"Spokane County Non-Migrants",140872,309806,6287857
+53,063,53,033,WA,"King County",956,1429,31708
+53,063,16,055,ID,"Kootenai County",526,1044,18011
+53,063,53,065,WA,"Stevens County",314,682,9634
+53,063,53,061,WA,"Snohomish County",282,519,9426
+53,063,53,053,WA,"Pierce County",230,442,7588
+53,063,04,013,AZ,"Maricopa County",221,392,7171
+53,063,53,051,WA,"Pend Oreille County",196,432,6135
+53,063,53,005,WA,"Benton County",176,371,4624
+53,063,53,075,WA,"Whitman County",158,284,4406
+53,063,41,051,OR,"Multnomah County",154,227,3864
+53,063,57,005,FR,"Foreign - APO/FPO ZIPs",153,309,3529
+53,063,53,011,WA,"Clark County",135,281,4563
+53,063,32,003,NV,"Clark County",123,235,1332
+53,063,53,067,WA,"Thurston County",108,210,3887
+53,063,06,037,CA,"Los Angeles County",105,162,4045
+53,063,41,067,OR,"Washington County",98,164,3902
+53,063,06,073,CA,"San Diego County",96,164,4217
+53,063,53,073,WA,"Whatcom County",89,148,2182
+53,063,53,025,WA,"Grant County",88,176,4102
+53,063,16,017,ID,"Bonner County",79,176,2701
+53,063,53,077,WA,"Yakima County",77,137,1817
+53,063,16,001,ID,"Ada County",76,154,2433
+53,063,53,035,WA,"Kitsap County",76,150,2412
+53,063,41,005,OR,"Clackamas County",70,149,4205
+53,063,53,043,WA,"Lincoln County",69,136,2056
+53,063,30,063,MT,"Missoula County",66,121,1992
+53,063,30,029,MT,"Flathead County",53,106,1532
+53,063,06,059,CA,"Orange County",52,95,2052
+53,063,53,003,WA,"Asotin County",49,111,1210
+53,063,53,007,WA,"Chelan County",49,104,1490
+53,063,02,020,AK,"Anchorage Borough",48,86,1573
+53,063,53,047,WA,"Okanogan County",47,87,1094
+53,063,04,019,AZ,"Pima County",45,89,1724
+53,063,49,035,UT,"Salt Lake County",45,82,1404
+53,063,41,039,OR,"Lane County",43,76,1646
+53,063,06,085,CA,"Santa Clara County",42,62,2635
+53,063,06,065,CA,"Riverside County",41,77,1315
+53,063,06,071,CA,"San Bernardino Count",40,68,1001
+53,063,16,057,ID,"Latah County",40,67,1123
+53,063,53,071,WA,"Walla Walla County",40,75,1123
+53,063,08,041,CO,"El Paso County",39,85,1973
+53,063,06,067,CA,"Sacramento County",38,73,1470
+53,063,53,057,WA,"Skagit County",38,77,3526
+53,063,06,001,CA,"Alameda County",36,57,1051
+53,063,48,029,TX,"Bexar County",36,84,1145
+53,063,48,439,TX,"Tarrant County",34,75,1183
+53,063,53,021,WA,"Franklin County",34,73,751
+53,063,15,003,HI,"Honolulu County",33,70,845
+53,063,41,047,OR,"Marion County",32,66,930
+53,063,53,009,WA,"Clallam County",32,68,920
+53,063,30,031,MT,"Gallatin County",31,66,1620
+53,063,17,163,IL,"St Clair County",29,74,1211
+53,063,53,029,WA,"Island County",29,52,976
+53,063,08,031,CO,"Denver County",28,46,1086
+53,063,30,111,MT,"Yellowstone County",28,54,1029
+53,063,32,031,NV,"Washoe County",28,45,932
+53,063,41,059,OR,"Umatilla County",28,50,665
+53,063,49,049,UT,"Utah County",28,48,560
+53,063,53,001,WA,"Adams County",28,59,839
+53,063,48,113,TX,"Dallas County",27,52,944
+53,063,08,005,CO,"Arapahoe County",26,53,1219
+53,063,17,031,IL,"Cook County",26,45,772
+53,063,53,017,WA,"Douglas County",26,53,1100
+53,063,16,079,ID,"Shoshone County",25,38,572
+53,063,41,017,OR,"Deschutes County",25,46,673
+53,063,27,053,MN,"Hennepin County",23,52,524
+53,063,53,019,WA,"Ferry County",23,60,627
+53,063,06,111,CA,"Ventura County",22,50,996
+53,063,12,057,FL,"Hillsborough County",22,51,672
+53,063,30,013,MT,"Cascade County",22,40,500
+53,063,38,101,ND,"Ward County",22,58,636
+53,063,49,011,UT,"Davis County",22,58,878
+53,063,06,013,CA,"Contra Costa County",21,41,769
+53,063,06,075,CA,"San Francisco County",21,23,536
+53,063,16,069,ID,"Nez Perce County",21,41,663
+53,063,51,059,VA,"Fairfax County",21,53,1128
+53,063,06,083,CA,"Santa Barbara County",20,38,523
+53,063,53,015,WA,"Cowlitz County",20,39,731
+53,063,06,095,CA,"Solano County",19,44,671
+53,063,25,017,MA,"Middlesex County",19,40,1624
+53,063,35,001,NM,"Bernalillo County",19,37,659
+53,063,16,009,ID,"Benewah County",18,49,296
+53,063,40,109,OK,"Oklahoma County",18,47,536
+53,063,48,201,TX,"Harris County",18,26,630
+53,063,53,037,WA,"Kittitas County",18,32,301
+53,063,08,059,CO,"Jefferson County",17,32,721
+53,063,41,029,OR,"Jackson County",17,42,410
+53,063,06,029,CA,"Kern County",16,35,551
+53,063,30,047,MT,"Lake County",16,36,302
+53,063,30,049,MT,"Lewis And Clark Coun",16,30,353
+53,063,53,027,WA,"Grays Harbor County",16,37,265
+53,063,08,013,CO,"Boulder County",15,25,521
+53,063,30,081,MT,"Ravalli County",15,24,304
+53,063,02,090,AK,"Fairbanks North Star",14,39,463
+53,063,04,027,AZ,"Yuma County",14,33,366
+53,063,06,061,CA,"Placer County",14,32,777
+53,063,06,081,CA,"San Mateo County",14,17,591
+53,063,24,031,MD,"Montgomery County",14,28,553
+53,063,30,089,MT,"Sanders County",14,19,330
+53,063,31,055,NE,"Douglas County",14,27,531
+53,063,37,119,NC,"Mecklenburg County",14,35,620
+53,063,48,121,TX,"Denton County",14,33,708
+53,063,06,077,CA,"San Joaquin County",13,23,347
+53,063,08,035,CO,"Douglas County",13,44,967
+53,063,08,069,CO,"Larimer County",13,25,865
+53,063,15,009,HI,"Maui County",13,21,278
+53,063,06,053,CA,"Monterey County",12,27,304
+53,063,48,027,TX,"Bell County",12,22,273
+53,063,48,453,TX,"Travis County",12,22,415
+53,063,06,019,CA,"Fresno County",11,16,364
+53,063,06,079,CA,"San Luis Obispo Coun",11,19,322
+53,063,06,097,CA,"Sonoma County",11,15,525
+53,063,12,033,FL,"Escambia County",11,26,322
+53,063,48,085,TX,"Collin County",11,28,899
+53,063,48,441,TX,"Taylor County",11,22,270
+53,063,53,045,WA,"Mason County",11,19,168
+53,063,08,001,CO,"Adams County",10,19,443
+53,063,16,005,ID,"Bannock County",10,18,264
+53,063,26,125,MI,"Oakland County",10,24,495
+53,063,28,047,MS,"Harrison County",10,27,254
+53,063,34,005,NJ,"Burlington County",10,18,251
+53,063,37,051,NC,"Cumberland County",10,21,177
+53,063,41,011,OR,"Coos County",10,18,214
+53,063,41,035,OR,"Klamath County",10,16,300
+53,063,48,485,TX,"Wichita County",10,23,340
+53,063,49,057,UT,"Weber County",10,27,215
+53,063,53,041,WA,"Lewis County",10,22,202
+53,063,58,000,SS,"Other Flows - Same State",36,70,543
+53,063,59,000,DS,"Other Flows - Diff State",1879,3974,61869
+53,063,59,001,DS,"Other Flows - Northeast",202,353,7088
+53,063,59,003,DS,"Other Flows - Midwest",478,1044,16396
+53,063,59,005,DS,"Other Flows - South",656,1448,22032
+53,063,59,007,DS,"Other Flows - West",543,1129,16353
+53,063,57,009,FR,"Foreign - Other flows",57,107,2363
+53,065,96,000,WA,"Stevens County Tot Mig-US & For",918,1815,24786
+53,065,97,000,WA,"Stevens County Tot Mig-US",918,1815,24786
+53,065,97,001,WA,"Stevens County Tot Mig-Same St",605,1202,16493
+53,065,97,003,WA,"Stevens County Tot Mig-Diff St",313,613,8294
+53,065,53,065,WA,"Stevens County Non-Migrants",10414,25682,388658
+53,065,53,063,WA,"Spokane County",348,667,9118
+53,065,53,019,WA,"Ferry County",37,83,1033
+53,065,53,033,WA,"King County",37,62,898
+53,065,53,053,WA,"Pierce County",21,41,626
+53,065,16,055,ID,"Kootenai County",18,40,627
+53,065,53,051,WA,"Pend Oreille County",18,35,527
+53,065,53,075,WA,"Whitman County",13,18,288
+53,065,53,037,WA,"Kittitas County",11,17,428
+53,065,53,061,WA,"Snohomish County",11,20,318
+53,065,53,073,WA,"Whatcom County",10,30,355
+53,065,58,000,SS,"Other Flows - Same State",99,229,2902
+53,065,59,000,DS,"Other Flows - Diff State",295,573,7666
+53,067,96,000,WA,"Thurston County Tot Mig-US & For",6217,12055,221736
+53,067,97,000,WA,"Thurston County Tot Mig-US",6088,11745,217840
+53,067,97,001,WA,"Thurston County Tot Mig-Same St",3397,6425,122031
+53,067,97,003,WA,"Thurston County Tot Mig-Diff St",2691,5320,95809
+53,067,98,000,WA,"Thurston County Tot Mig-Foreign",129,310,3896
+53,067,53,067,WA,"Thurston County Non-Migrants",70248,153857,3424048
+53,067,53,053,WA,"Pierce County",1064,2391,36169
+53,067,53,033,WA,"King County",854,1207,25629
+53,067,53,041,WA,"Lewis County",308,617,9325
+53,067,53,045,WA,"Mason County",273,536,9894
+53,067,53,027,WA,"Grays Harbor County",200,384,10749
+53,067,41,051,OR,"Multnomah County",120,178,3565
+53,067,53,061,WA,"Snohomish County",115,195,4050
+53,067,57,005,FR,"Foreign - APO/FPO ZIPs",105,274,3345
+53,067,04,013,AZ,"Maricopa County",98,195,6830
+53,067,53,011,WA,"Clark County",90,179,3571
+53,067,06,037,CA,"Los Angeles County",77,122,2011
+53,067,41,067,OR,"Washington County",75,140,3492
+53,067,53,073,WA,"Whatcom County",72,110,1905
+53,067,53,063,WA,"Spokane County",68,113,2282
+53,067,06,073,CA,"San Diego County",65,111,1679
+53,067,53,035,WA,"Kitsap County",57,103,2494
+53,067,32,003,NV,"Clark County",45,75,1485
+53,067,41,039,OR,"Lane County",33,49,988
+53,067,53,015,WA,"Cowlitz County",31,60,733
+53,067,06,067,CA,"Sacramento County",30,62,1214
+53,067,08,041,CO,"El Paso County",28,57,699
+53,067,02,020,AK,"Anchorage Borough",27,62,1638
+53,067,06,085,CA,"Santa Clara County",27,43,1209
+53,067,53,077,WA,"Yakima County",27,46,713
+53,067,06,071,CA,"San Bernardino Count",25,64,885
+53,067,41,047,OR,"Marion County",25,50,906
+53,067,49,035,UT,"Salt Lake County",25,44,719
+53,067,53,005,WA,"Benton County",25,58,778
+53,067,41,005,OR,"Clackamas County",24,58,938
+53,067,53,009,WA,"Clallam County",24,56,795
+53,067,06,065,CA,"Riverside County",23,39,574
+53,067,04,019,AZ,"Pima County",22,41,1400
+53,067,15,003,HI,"Honolulu County",22,47,1156
+53,067,37,051,NC,"Cumberland County",21,58,669
+53,067,53,075,WA,"Whitman County",21,33,579
+53,067,06,075,CA,"San Francisco County",20,20,367
+53,067,16,001,ID,"Ada County",20,30,470
+53,067,51,059,VA,"Fairfax County",20,48,1223
+53,067,48,027,TX,"Bell County",19,46,536
+53,067,53,037,WA,"Kittitas County",19,36,581
+53,067,17,031,IL,"Cook County",18,33,436
+53,067,48,113,TX,"Dallas County",18,45,510
+53,067,48,141,TX,"El Paso County",18,42,777
+53,067,53,057,WA,"Skagit County",18,33,7417
+53,067,48,029,TX,"Bexar County",17,51,532
+53,067,53,049,WA,"Pacific County",17,36,439
+53,067,15,009,HI,"Maui County",16,31,449
+53,067,53,007,WA,"Chelan County",16,33,721
+53,067,53,029,WA,"Island County",16,34,581
+53,067,27,053,MN,"Hennepin County",15,26,441
+53,067,32,031,NV,"Washoe County",15,33,507
+53,067,48,453,TX,"Travis County",15,19,353
+53,067,53,025,WA,"Grant County",15,43,554
+53,067,06,001,CA,"Alameda County",14,22,737
+53,067,06,053,CA,"Monterey County",14,25,608
+53,067,06,059,CA,"Orange County",14,24,408
+53,067,13,215,GA,"Muscogee County",14,42,479
+53,067,41,017,OR,"Deschutes County",13,28,595
+53,067,04,015,AZ,"Mohave County",12,25,221
+53,067,08,005,CO,"Arapahoe County",12,22,486
+53,067,08,031,CO,"Denver County",12,14,344
+53,067,06,111,CA,"Ventura County",11,26,255
+53,067,30,063,MT,"Missoula County",11,19,462
+53,067,36,047,NY,"Kings County",11,12,197
+53,067,48,439,TX,"Tarrant County",11,28,624
+53,067,53,055,WA,"San Juan County",11,18,371
+53,067,04,021,AZ,"Pinal County",10,18,336
+53,067,06,013,CA,"Contra Costa County",10,19,238
+53,067,15,001,HI,"Hawaii County",10,19,928
+53,067,16,055,ID,"Kootenai County",10,22,260
+53,067,58,000,SS,"Other Flows - Same State",56,104,1701
+53,067,59,000,DS,"Other Flows - Diff State",1479,3036,49970
+53,067,59,001,DS,"Other Flows - Northeast",167,280,4307
+53,067,59,003,DS,"Other Flows - Midwest",301,634,10650
+53,067,59,005,DS,"Other Flows - South",497,1126,18575
+53,067,59,007,DS,"Other Flows - West",514,996,16439
+53,067,57,009,FR,"Foreign - Other flows",24,36,551
+53,069,96,000,WA,"Wahkiakum Count Tot Mig-US & For",113,209,3393
+53,069,97,000,WA,"Wahkiakum Count Tot Mig-US",113,209,3393
+53,069,97,001,WA,"Wahkiakum Count Tot Mig-Same St",74,139,2085
+53,069,97,003,WA,"Wahkiakum Count Tot Mig-Diff St",39,70,1308
+53,069,53,069,WA,"Wahkiakum Count Non-Migrants",1155,2570,49490
+53,069,53,015,WA,"Cowlitz County",33,55,1016
+53,069,58,000,SS,"Other Flows - Same State",41,84,1069
+53,069,59,000,DS,"Other Flows - Diff State",39,70,1308
+53,071,96,000,WA,"Walla Walla Cou Tot Mig-US & For",1359,2774,40487
+53,071,97,000,WA,"Walla Walla Cou Tot Mig-US",1347,2751,40381
+53,071,97,001,WA,"Walla Walla Cou Tot Mig-Same St",656,1320,19038
+53,071,97,003,WA,"Walla Walla Cou Tot Mig-Diff St",691,1431,21343
+53,071,98,000,WA,"Walla Walla Cou Tot Mig-Foreign",12,23,106
+53,071,53,071,WA,"Walla Walla Cou Non-Migrants",15483,36060,656620
+53,071,53,005,WA,"Benton County",122,259,4045
+53,071,41,059,OR,"Umatilla County",120,259,2942
+53,071,53,033,WA,"King County",92,146,2373
+53,071,53,063,WA,"Spokane County",72,141,1704
+53,071,53,021,WA,"Franklin County",52,128,1340
+53,071,53,013,WA,"Columbia County",51,136,1578
+53,071,53,077,WA,"Yakima County",34,68,1019
+53,071,53,011,WA,"Clark County",31,54,889
+53,071,53,061,WA,"Snohomish County",29,58,1027
+53,071,41,051,OR,"Multnomah County",28,45,697
+53,071,53,053,WA,"Pierce County",23,39,564
+53,071,53,075,WA,"Whitman County",20,41,548
+53,071,41,005,OR,"Clackamas County",19,30,388
+53,071,04,013,AZ,"Maricopa County",18,30,1224
+53,071,16,001,ID,"Ada County",17,31,813
+53,071,53,073,WA,"Whatcom County",16,22,280
+53,071,53,037,WA,"Kittitas County",15,21,320
+53,071,53,067,WA,"Thurston County",14,29,291
+53,071,06,037,CA,"Los Angeles County",12,16,212
+53,071,06,071,CA,"San Bernardino Count",12,17,222
+53,071,41,017,OR,"Deschutes County",11,39,513
+53,071,41,067,OR,"Washington County",11,30,312
+53,071,41,039,OR,"Lane County",10,21,277
+53,071,53,009,WA,"Clallam County",10,18,342
+53,071,53,025,WA,"Grant County",10,23,436
+53,071,58,000,SS,"Other Flows - Same State",65,137,2284
+53,071,59,000,DS,"Other Flows - Diff State",433,913,13743
+53,071,59,001,DS,"Other Flows - Northeast",24,39,682
+53,071,59,003,DS,"Other Flows - Midwest",60,130,1736
+53,071,59,005,DS,"Other Flows - South",102,235,3052
+53,071,59,007,DS,"Other Flows - West",247,509,8272
+53,071,57,009,FR,"Foreign - Other flows",12,23,106
+53,073,96,000,WA,"Whatcom County Tot Mig-US & For",4085,6916,121687
+53,073,97,000,WA,"Whatcom County Tot Mig-US",3970,6698,118795
+53,073,97,001,WA,"Whatcom County Tot Mig-Same St",2238,3637,65060
+53,073,97,003,WA,"Whatcom County Tot Mig-Diff St",1732,3061,53735
+53,073,98,000,WA,"Whatcom County Tot Mig-Foreign",115,218,2892
+53,073,53,073,WA,"Whatcom County Non-Migrants",52427,114234,2454342
+53,073,53,033,WA,"King County",813,1092,23122
+53,073,53,057,WA,"Skagit County",367,695,11946
+53,073,53,061,WA,"Snohomish County",335,554,9087
+53,073,53,053,WA,"Pierce County",129,204,3639
+53,073,53,067,WA,"Thurston County",80,125,2139
+53,073,04,013,AZ,"Maricopa County",79,135,2650
+53,073,06,037,CA,"Los Angeles County",73,107,1985
+53,073,53,011,WA,"Clark County",72,161,2208
+53,073,53,063,WA,"Spokane County",66,128,1749
+53,073,41,051,OR,"Multnomah County",64,82,1601
+53,073,53,029,WA,"Island County",53,113,1558
+53,073,06,073,CA,"San Diego County",52,94,1132
+53,073,53,035,WA,"Kitsap County",51,78,2057
+53,073,53,005,WA,"Benton County",33,64,1271
+53,073,41,067,OR,"Washington County",31,48,967
+53,073,32,003,NV,"Clark County",30,55,920
+53,073,06,059,CA,"Orange County",25,38,900
+53,073,53,077,WA,"Yakima County",25,43,700
+53,073,06,065,CA,"Riverside County",24,43,693
+53,073,06,085,CA,"Santa Clara County",24,38,636
+53,073,02,020,AK,"Anchorage Borough",23,43,828
+53,073,53,007,WA,"Chelan County",23,34,489
+53,073,53,055,WA,"San Juan County",22,39,753
+53,073,04,019,AZ,"Pima County",21,37,1080
+53,073,53,009,WA,"Clallam County",20,33,451
+53,073,57,005,FR,"Foreign - APO/FPO ZIPs",20,30,371
+53,073,41,039,OR,"Lane County",19,30,415
+53,073,15,003,HI,"Honolulu County",18,29,416
+53,073,16,001,ID,"Ada County",17,43,612
+53,073,53,025,WA,"Grant County",17,49,649
+53,073,06,075,CA,"San Francisco County",16,23,508
+53,073,53,047,WA,"Okanogan County",16,31,220
+53,073,53,075,WA,"Whitman County",16,24,263
+53,073,06,067,CA,"Sacramento County",15,30,672
+53,073,08,013,CO,"Boulder County",14,25,462
+53,073,41,005,OR,"Clackamas County",14,49,750
+53,073,53,015,WA,"Cowlitz County",14,24,521
+53,073,06,001,CA,"Alameda County",13,20,326
+53,073,15,009,HI,"Maui County",12,29,291
+53,073,17,031,IL,"Cook County",12,21,522
+53,073,06,071,CA,"San Bernardino Count",11,23,557
+53,073,16,027,ID,"Canyon County",11,26,402
+53,073,36,047,NY,"Kings County",11,13,110
+53,073,06,053,CA,"Monterey County",10,14,255
+53,073,06,079,CA,"San Luis Obispo Coun",10,16,237
+53,073,06,087,CA,"Santa Cruz County",10,11,240
+53,073,41,017,OR,"Deschutes County",10,21,361
+53,073,41,047,OR,"Marion County",10,19,156
+53,073,48,439,TX,"Tarrant County",10,18,404
+53,073,53,037,WA,"Kittitas County",10,14,261
+53,073,58,000,SS,"Other Flows - Same State",76,132,1976
+53,073,59,000,DS,"Other Flows - Diff State",1043,1881,32646
+53,073,59,001,DS,"Other Flows - Northeast",115,186,3023
+53,073,59,003,DS,"Other Flows - Midwest",196,374,5409
+53,073,59,005,DS,"Other Flows - South",295,537,11606
+53,073,59,007,DS,"Other Flows - West",437,784,12607
+53,073,57,009,FR,"Foreign - Other flows",95,188,2521
+53,075,96,000,WA,"Whitman County Tot Mig-US & For",1740,2878,47939
+53,075,97,000,WA,"Whitman County Tot Mig-US",1705,2821,47565
+53,075,97,001,WA,"Whitman County Tot Mig-Same St",924,1422,21919
+53,075,97,003,WA,"Whitman County Tot Mig-Diff St",781,1399,25646
+53,075,98,000,WA,"Whitman County Tot Mig-Foreign",35,57,374
+53,075,53,075,WA,"Whitman County Non-Migrants",9965,22060,435511
+53,075,53,033,WA,"King County",265,350,6276
+53,075,53,063,WA,"Spokane County",230,357,5563
+53,075,16,057,ID,"Latah County",80,142,2350
+53,075,53,061,WA,"Snohomish County",52,78,1210
+53,075,53,053,WA,"Pierce County",50,83,904
+53,075,53,005,WA,"Benton County",42,78,1158
+53,075,53,011,WA,"Clark County",39,57,895
+53,075,53,077,WA,"Yakima County",30,64,578
+53,075,53,003,WA,"Asotin County",29,46,837
+53,075,53,067,WA,"Thurston County",25,46,503
+53,075,53,073,WA,"Whatcom County",25,35,454
+53,075,06,037,CA,"Los Angeles County",24,38,446
+53,075,16,001,ID,"Ada County",22,39,621
+53,075,41,003,OR,"Benton County",18,27,473
+53,075,41,051,OR,"Multnomah County",18,25,333
+53,075,53,035,WA,"Kitsap County",18,35,584
+53,075,06,073,CA,"San Diego County",17,35,661
+53,075,41,067,OR,"Washington County",17,23,500
+53,075,04,019,AZ,"Pima County",15,18,273
+53,075,16,069,ID,"Nez Perce County",14,19,290
+53,075,41,005,OR,"Clackamas County",14,21,270
+53,075,06,059,CA,"Orange County",13,24,358
+53,075,06,085,CA,"Santa Clara County",13,20,379
+53,075,53,025,WA,"Grant County",13,18,243
+53,075,16,055,ID,"Kootenai County",12,25,387
+53,075,32,003,NV,"Clark County",11,19,294
+53,075,53,007,WA,"Chelan County",11,21,433
+53,075,53,057,WA,"Skagit County",11,15,200
+53,075,04,013,AZ,"Maricopa County",10,18,248
+53,075,58,000,SS,"Other Flows - Same State",84,139,2081
+53,075,59,000,DS,"Other Flows - Diff State",483,906,17763
+53,075,59,001,DS,"Other Flows - Northeast",58,94,2167
+53,075,59,003,DS,"Other Flows - Midwest",87,161,2797
+53,075,59,005,DS,"Other Flows - South",119,233,3720
+53,075,59,007,DS,"Other Flows - West",219,418,9079
+53,075,57,009,FR,"Foreign - Other flows",35,57,374
+53,077,96,000,WA,"Yakima County Tot Mig-US & For",3848,8265,104579
+53,077,97,000,WA,"Yakima County Tot Mig-US",3813,8202,103801
+53,077,97,001,WA,"Yakima County Tot Mig-Same St",2029,4106,57263
+53,077,97,003,WA,"Yakima County Tot Mig-Diff St",1784,4096,46538
+53,077,98,000,WA,"Yakima County Tot Mig-Foreign",35,63,778
+53,077,53,077,WA,"Yakima County Non-Migrants",67433,165346,2562799
+53,077,53,033,WA,"King County",521,900,15021
+53,077,53,005,WA,"Benton County",318,708,9262
+53,077,53,063,WA,"Spokane County",145,278,3961
+53,077,53,053,WA,"Pierce County",139,286,4684
+53,077,53,061,WA,"Snohomish County",129,245,3640
+53,077,53,037,WA,"Kittitas County",115,214,2590
+53,077,06,037,CA,"Los Angeles County",80,190,1325
+53,077,53,011,WA,"Clark County",67,144,2120
+53,077,04,013,AZ,"Maricopa County",65,169,1673
+53,077,53,073,WA,"Whatcom County",65,142,1466
+53,077,53,025,WA,"Grant County",59,158,1537
+53,077,41,051,OR,"Multnomah County",57,104,1077
+53,077,53,067,WA,"Thurston County",54,101,1493
+53,077,53,021,WA,"Franklin County",48,121,1261
+53,077,53,057,WA,"Skagit County",44,106,800
+53,077,06,073,CA,"San Diego County",41,89,937
+53,077,53,007,WA,"Chelan County",36,73,1001
+53,077,41,005,OR,"Clackamas County",34,65,1316
+53,077,41,067,OR,"Washington County",34,70,822
+53,077,53,035,WA,"Kitsap County",31,59,1167
+53,077,41,039,OR,"Lane County",30,60,1041
+53,077,32,003,NV,"Clark County",28,56,653
+53,077,16,001,ID,"Ada County",27,51,908
+53,077,53,071,WA,"Walla Walla County",27,66,799
+53,077,53,075,WA,"Whitman County",27,40,552
+53,077,06,059,CA,"Orange County",25,63,766
+53,077,41,047,OR,"Marion County",24,63,470
+53,077,06,019,CA,"Fresno County",23,58,329
+53,077,06,071,CA,"San Bernardino Count",23,57,360
+53,077,48,215,TX,"Hidalgo County",22,67,257
+53,077,53,041,WA,"Lewis County",21,54,443
+53,077,06,107,CA,"Tulare County",20,58,281
+53,077,41,059,OR,"Umatilla County",20,50,454
+53,077,53,027,WA,"Grays Harbor County",20,41,503
+53,077,02,020,AK,"Anchorage Borough",19,34,783
+53,077,06,001,CA,"Alameda County",19,50,453
+53,077,41,017,OR,"Deschutes County",19,45,880
+53,077,49,049,UT,"Utah County",19,56,440
+53,077,49,035,UT,"Salt Lake County",18,38,314
+53,077,53,039,WA,"Klickitat County",18,35,400
+53,077,06,099,CA,"Stanislaus County",17,43,302
+53,077,53,047,WA,"Okanogan County",16,43,361
+53,077,16,055,ID,"Kootenai County",15,43,352
+53,077,32,031,NV,"Washoe County",15,31,589
+53,077,53,045,WA,"Mason County",15,26,465
+53,077,06,067,CA,"Sacramento County",14,38,225
+53,077,06,085,CA,"Santa Clara County",14,27,311
+53,077,53,017,WA,"Douglas County",14,33,475
+53,077,16,027,ID,"Canyon County",13,31,363
+53,077,53,029,WA,"Island County",13,34,441
+53,077,53,065,WA,"Stevens County",13,30,497
+53,077,16,017,ID,"Bonner County",12,25,452
+53,077,17,031,IL,"Cook County",12,29,163
+53,077,48,113,TX,"Dallas County",12,24,233
+53,077,48,201,TX,"Harris County",12,29,369
+53,077,53,001,WA,"Adams County",12,36,322
+53,077,06,029,CA,"Kern County",11,29,301
+53,077,06,065,CA,"Riverside County",11,33,812
+53,077,06,111,CA,"Ventura County",11,28,200
+53,077,48,439,TX,"Tarrant County",11,33,219
+53,077,53,003,WA,"Asotin County",11,31,339
+53,077,04,019,AZ,"Pima County",10,15,285
+53,077,53,031,WA,"Jefferson County",10,13,334
+53,077,58,000,SS,"Other Flows - Same State",41,89,1324
+53,077,59,000,DS,"Other Flows - Diff State",947,2145,25822
+53,077,59,001,DS,"Other Flows - Northeast",64,128,2018
+53,077,59,003,DS,"Other Flows - Midwest",168,407,4601
+53,077,59,005,DS,"Other Flows - South",283,653,6877
+53,077,59,007,DS,"Other Flows - West",432,957,12325
+53,077,57,009,FR,"Foreign - Other flows",35,63,778

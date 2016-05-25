@@ -1,0 +1,2928 @@
+"1999 - 2000 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Tennessee,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+47,000,96,000,TN,"Total Mig - US & For",148781,296231,5405274
+47,000,97,000,TN,"Total Mig - US",146232,291816,5353760
+47,000,97,001,TN,"Total Mig - US Same St",74464,147289,2437269
+47,000,97,003,TN,"Total Mig - US Diff St",71768,144527,2916491
+47,000,98,000,TN,"Total Mig - Foreign",2549,4415,51514
+47,001,96,000,TN,"Anderson County Tot Mig-US & For",1948,3935,65011
+47,001,97,000,TN,"Anderson County Tot Mig-US",1921,3897,64770
+47,001,97,001,TN,"Anderson County Tot Mig-Same St",1259,2522,35628
+47,001,97,003,TN,"Anderson County Tot Mig-Diff St",662,1375,29142
+47,001,98,000,TN,"Anderson County Tot Mig-Foreign",27,38,241
+47,001,47,001,TN,"Anderson County Non-Migrants",27515,60322,1232410
+47,001,47,093,TN,"Knox County",625,1226,18277
+47,001,47,129,TN,"Morgan County",128,270,2919
+47,001,47,013,TN,"Campbell County",102,210,2681
+47,001,47,145,TN,"Roane County",91,174,2582
+47,001,47,009,TN,"Blount County",35,59,1032
+47,001,47,105,TN,"Loudon County",33,64,863
+47,001,47,037,TN,"Davidson County",26,47,657
+47,001,47,151,TN,"Scott County",17,37,804
+47,001,47,089,TN,"Jefferson County",15,37,276
+47,001,47,155,TN,"Sevier County",15,30,311
+47,001,47,173,TN,"Union County",15,37,422
+47,001,47,065,TN,"Hamilton County",13,30,404
+47,001,47,025,TN,"Claiborne County",12,24,424
+47,001,47,179,TN,"Washington County",11,18,569
+47,001,58,000,SS,"Other Flows - Same State",121,259,3409
+47,001,59,000,DS,"Other Flows - Diff State",662,1375,29142
+47,001,59,001,DS,"Other Flows - Northeast",44,90,4241
+47,001,59,003,DS,"Other Flows - Midwest",187,367,6888
+47,001,59,005,DS,"Other Flows - South",336,704,13493
+47,001,59,007,DS,"Other Flows - West",95,214,4520
+47,001,57,009,FR,"Foreign - Other flows",27,38,241
+47,003,96,000,TN,"Bedford County Tot Mig-US & For",960,2113,32796
+47,003,97,000,TN,"Bedford County Tot Mig-US",960,2113,32796
+47,003,97,001,TN,"Bedford County Tot Mig-Same St",648,1405,19528
+47,003,97,003,TN,"Bedford County Tot Mig-Diff St",312,708,13268
+47,003,47,003,TN,"Bedford County Non-Migrants",12819,29039,473145
+47,003,47,149,TN,"Rutherford County",235,533,7804
+47,003,47,031,TN,"Coffee County",104,219,2784
+47,003,47,037,TN,"Davidson County",61,132,1891
+47,003,47,117,TN,"Marshall County",50,103,1197
+47,003,47,051,TN,"Franklin County",32,77,1091
+47,003,47,103,TN,"Lincoln County",28,47,825
+47,003,47,119,TN,"Maury County",21,43,687
+47,003,47,127,TN,"Moore County",16,36,389
+47,003,47,187,TN,"Williamson County",16,37,864
+47,003,26,125,MI,"Oakland County",11,27,927
+47,003,58,000,SS,"Other Flows - Same State",85,178,1998
+47,003,59,000,DS,"Other Flows - Diff State",301,681,12341
+47,003,59,001,DS,"Other Flows - Northeast",28,58,751
+47,003,59,003,DS,"Other Flows - Midwest",56,121,1600
+47,003,59,005,DS,"Other Flows - South",170,396,9064
+47,003,59,007,DS,"Other Flows - West",47,106,926
+47,005,96,000,TN,"Benton County Tot Mig-US & For",419,865,11876
+47,005,97,000,TN,"Benton County Tot Mig-US",419,865,11876
+47,005,97,001,TN,"Benton County Tot Mig-Same St",260,537,7234
+47,005,97,003,TN,"Benton County Tot Mig-Diff St",159,328,4642
+47,005,47,005,TN,"Benton County Non-Migrants",5491,12261,176040
+47,005,47,017,TN,"Carroll County",52,115,1648
+47,005,47,079,TN,"Henry County",45,90,810
+47,005,47,085,TN,"Humphreys County",21,40,429
+47,005,47,039,TN,"Decatur County",18,45,531
+47,005,47,113,TN,"Madison County",14,28,349
+47,005,17,031,IL,"Cook County",12,22,357
+47,005,47,183,TN,"Weakley County",12,21,173
+47,005,47,037,TN,"Davidson County",10,19,610
+47,005,47,053,TN,"Gibson County",10,25,417
+47,005,58,000,SS,"Other Flows - Same State",78,154,2268
+47,005,59,000,DS,"Other Flows - Diff State",147,306,4285
+47,007,96,000,TN,"Bledsoe County Tot Mig-US & For",239,523,5825
+47,007,97,000,TN,"Bledsoe County Tot Mig-US",239,523,5825
+47,007,97,001,TN,"Bledsoe County Tot Mig-Same St",148,343,3457
+47,007,97,003,TN,"Bledsoe County Tot Mig-Diff St",91,180,2368
+47,007,47,007,TN,"Bledsoe County Non-Migrants",3096,7208,89730
+47,007,47,065,TN,"Hamilton County",30,63,1019
+47,007,47,153,TN,"Sequatchie County",28,65,484
+47,007,47,143,TN,"Rhea County",25,63,604
+47,007,47,035,TN,"Cumberland County",16,27,338
+47,007,47,175,TN,"Van Buren County",10,28,239
+47,007,58,000,SS,"Other Flows - Same State",39,97,772
+47,007,59,000,DS,"Other Flows - Diff State",91,180,2368
+47,009,96,000,TN,"Blount County Tot Mig-US & For",2741,5344,96933
+47,009,97,000,TN,"Blount County Tot Mig-US",2708,5302,96514
+47,009,97,001,TN,"Blount County Tot Mig-Same St",1579,3045,52876
+47,009,97,003,TN,"Blount County Tot Mig-Diff St",1129,2257,43639
+47,009,98,000,TN,"Blount County Tot Mig-Foreign",33,42,419
+47,009,47,009,TN,"Blount County Non-Migrants",37887,83337,1592512
+47,009,47,093,TN,"Knox County",770,1462,27079
+47,009,47,155,TN,"Sevier County",146,291,4387
+47,009,47,105,TN,"Loudon County",108,220,2679
+47,009,47,123,TN,"Monroe County",72,149,2318
+47,009,47,001,TN,"Anderson County",53,91,1134
+47,009,47,037,TN,"Davidson County",36,59,1345
+47,009,47,089,TN,"Jefferson County",35,72,994
+47,009,47,065,TN,"Hamilton County",26,54,1300
+47,009,47,157,TN,"Shelby County",26,57,1767
+47,009,47,149,TN,"Rutherford County",21,48,867
+47,009,47,107,TN,"Mcminn County",20,34,516
+47,009,47,179,TN,"Washington County",16,26,393
+47,009,12,103,FL,"Pinellas County",15,30,467
+47,009,47,163,TN,"Sullivan County",15,27,435
+47,009,12,011,FL,"Broward County",14,25,285
+47,009,47,011,TN,"Bradley County",14,29,402
+47,009,47,141,TN,"Putnam County",14,26,259
+47,009,47,145,TN,"Roane County",14,26,531
+47,009,12,095,FL,"Orange County",13,27,513
+47,009,13,135,GA,"Gwinnett County",12,27,784
+47,009,47,029,TN,"Cocke County",12,25,345
+47,009,47,063,TN,"Hamblen County",12,24,464
+47,009,47,073,TN,"Hawkins County",12,26,298
+47,009,47,165,TN,"Sumner County",12,21,453
+47,009,12,057,FL,"Hillsborough County",11,20,281
+47,009,47,013,TN,"Campbell County",11,21,325
+47,009,47,035,TN,"Cumberland County",11,19,411
+47,009,12,031,FL,"Duval County",10,23,313
+47,009,58,000,SS,"Other Flows - Same State",123,238,4174
+47,009,59,000,DS,"Other Flows - Diff State",1054,2105,40996
+47,009,59,001,DS,"Other Flows - Northeast",78,149,3397
+47,009,59,003,DS,"Other Flows - Midwest",237,462,9416
+47,009,59,005,DS,"Other Flows - South",633,1304,24008
+47,009,59,007,DS,"Other Flows - West",106,190,4176
+47,009,57,009,FR,"Foreign - Other flows",33,42,419
+47,011,96,000,TN,"Bradley County Tot Mig-US & For",2080,4339,60813
+47,011,97,000,TN,"Bradley County Tot Mig-US",2067,4311,60151
+47,011,97,001,TN,"Bradley County Tot Mig-Same St",973,2000,27609
+47,011,97,003,TN,"Bradley County Tot Mig-Diff St",1094,2311,32542
+47,011,98,000,TN,"Bradley County Tot Mig-Foreign",13,28,662
+47,011,47,011,TN,"Bradley County Non-Migrants",29765,65801,1192392
+47,011,47,065,TN,"Hamilton County",382,771,11606
+47,011,47,107,TN,"Mcminn County",155,316,3862
+47,011,47,139,TN,"Polk County",154,324,3608
+47,011,13,313,GA,"Whitfield County",43,97,1165
+47,011,47,093,TN,"Knox County",40,77,1417
+47,011,47,121,TN,"Meigs County",35,68,828
+47,011,13,213,GA,"Murray County",33,75,793
+47,011,47,037,TN,"Davidson County",23,36,991
+47,011,13,047,GA,"Catoosa County",21,46,602
+47,011,47,123,TN,"Monroe County",19,52,274
+47,011,47,143,TN,"Rhea County",17,28,392
+47,011,12,095,FL,"Orange County",15,27,302
+47,011,13,295,GA,"Walker County",15,23,496
+47,011,47,149,TN,"Rutherford County",13,26,415
+47,011,12,057,FL,"Hillsborough County",12,23,398
+47,011,13,121,GA,"Fulton County",12,17,311
+47,011,12,105,FL,"Polk County",11,19,186
+47,011,47,009,TN,"Blount County",11,23,322
+47,011,47,157,TN,"Shelby County",11,22,355
+47,011,12,103,FL,"Pinellas County",10,21,331
+47,011,13,135,GA,"Gwinnett County",10,23,424
+47,011,58,000,SS,"Other Flows - Same State",113,257,3540
+47,011,59,000,DS,"Other Flows - Diff State",912,1940,27535
+47,011,59,001,DS,"Other Flows - Northeast",53,114,2813
+47,011,59,003,DS,"Other Flows - Midwest",191,408,5544
+47,011,59,005,DS,"Other Flows - South",572,1219,16490
+47,011,59,007,DS,"Other Flows - West",96,199,2688
+47,011,57,009,FR,"Foreign - Other flows",13,28,662
+47,013,96,000,TN,"Campbell County Tot Mig-US & For",668,1399,21086
+47,013,97,000,TN,"Campbell County Tot Mig-US",668,1399,21086
+47,013,97,001,TN,"Campbell County Tot Mig-Same St",326,678,8824
+47,013,97,003,TN,"Campbell County Tot Mig-Diff St",342,721,12262
+47,013,47,013,TN,"Campbell County Non-Migrants",11833,26557,348353
+47,013,47,001,TN,"Anderson County",87,183,2353
+47,013,47,093,TN,"Knox County",70,127,2178
+47,013,47,151,TN,"Scott County",39,94,744
+47,013,21,235,KY,"Whitley County",38,90,1003
+47,013,47,025,TN,"Claiborne County",34,78,695
+47,013,26,163,MI,"Wayne County",19,40,1015
+47,013,39,113,OH,"Montgomery County",16,26,587
+47,013,58,000,SS,"Other Flows - Same State",96,196,2854
+47,013,59,000,DS,"Other Flows - Diff State",269,565,9657
+47,015,96,000,TN,"Cannon County Tot Mig-US & For",472,1068,13713
+47,015,97,000,TN,"Cannon County Tot Mig-US",472,1068,13713
+47,015,97,001,TN,"Cannon County Tot Mig-Same St",354,819,10790
+47,015,97,003,TN,"Cannon County Tot Mig-Diff St",118,249,2924
+47,015,47,015,TN,"Cannon County Non-Migrants",5046,11452,163647
+47,015,47,149,TN,"Rutherford County",185,447,6471
+47,015,47,177,TN,"Warren County",41,101,763
+47,015,47,037,TN,"Davidson County",26,52,890
+47,015,47,041,TN,"De Kalb County",17,32,326
+47,015,47,031,TN,"Coffee County",16,37,512
+47,015,47,003,TN,"Bedford County",12,31,255
+47,015,47,189,TN,"Wilson County",12,27,358
+47,015,58,000,SS,"Other Flows - Same State",45,92,1215
+47,015,59,000,DS,"Other Flows - Diff State",118,249,2924
+47,017,96,000,TN,"Carroll County Tot Mig-US & For",907,1944,28893
+47,017,97,000,TN,"Carroll County Tot Mig-US",907,1944,28893
+47,017,97,001,TN,"Carroll County Tot Mig-Same St",632,1336,19746
+47,017,97,003,TN,"Carroll County Tot Mig-Diff St",275,608,9147
+47,017,47,017,TN,"Carroll County Non-Migrants",12610,28755,466814
+47,017,47,113,TN,"Madison County",126,266,4035
+47,017,47,053,TN,"Gibson County",110,237,2998
+47,017,47,183,TN,"Weakley County",60,105,1013
+47,017,47,077,TN,"Henderson County",55,114,1973
+47,017,47,079,TN,"Henry County",52,124,1493
+47,017,47,157,TN,"Shelby County",46,87,1660
+47,017,47,005,TN,"Benton County",42,93,984
+47,017,47,037,TN,"Davidson County",23,33,508
+47,017,17,031,IL,"Cook County",11,23,372
+47,017,47,023,TN,"Chester County",11,20,274
+47,017,47,131,TN,"Obion County",11,27,269
+47,017,47,033,TN,"Crockett County",10,16,275
+47,017,58,000,SS,"Other Flows - Same State",86,214,4266
+47,017,59,000,DS,"Other Flows - Diff State",264,585,8775
+47,017,59,001,DS,"Other Flows - Northeast",10,20,230
+47,017,59,003,DS,"Other Flows - Midwest",67,156,2626
+47,017,59,005,DS,"Other Flows - South",165,370,5048
+47,017,59,007,DS,"Other Flows - West",22,39,871
+47,019,96,000,TN,"Carter County Tot Mig-US & For",1297,2581,31641
+47,019,97,000,TN,"Carter County Tot Mig-US",1283,2554,31398
+47,019,97,001,TN,"Carter County Tot Mig-Same St",768,1507,16828
+47,019,97,003,TN,"Carter County Tot Mig-Diff St",515,1047,14571
+47,019,98,000,TN,"Carter County Tot Mig-Foreign",14,27,243
+47,019,47,019,TN,"Carter County Non-Migrants",18669,40135,581635
+47,019,47,179,TN,"Washington County",413,808,9133
+47,019,47,163,TN,"Sullivan County",133,269,2795
+47,019,47,171,TN,"Unicoi County",67,133,1509
+47,019,47,091,TN,"Johnson County",52,99,899
+47,019,37,011,NC,"Avery County",25,56,644
+47,019,47,093,TN,"Knox County",20,31,433
+47,019,58,000,SS,"Other Flows - Same State",83,167,2059
+47,019,59,000,DS,"Other Flows - Diff State",490,991,13927
+47,019,59,001,DS,"Other Flows - Northeast",39,80,993
+47,019,59,003,DS,"Other Flows - Midwest",69,121,1798
+47,019,59,005,DS,"Other Flows - South",333,686,9639
+47,019,59,007,DS,"Other Flows - West",49,104,1497
+47,019,57,009,FR,"Foreign - Other flows",14,27,243
+47,021,96,000,TN,"Cheatham County Tot Mig-US & For",1439,3023,50118
+47,021,97,000,TN,"Cheatham County Tot Mig-US",1439,3023,50118
+47,021,97,001,TN,"Cheatham County Tot Mig-Same St",1143,2424,39997
+47,021,97,003,TN,"Cheatham County Tot Mig-Diff St",296,599,10121
+47,021,47,021,TN,"Cheatham County Non-Migrants",13003,30555,553236
+47,021,47,037,TN,"Davidson County",702,1481,26039
+47,021,47,043,TN,"Dickson County",80,173,2007
+47,021,47,125,TN,"Montgomery County",64,145,2223
+47,021,47,147,TN,"Robertson County",58,141,1862
+47,021,47,187,TN,"Williamson County",46,103,1675
+47,021,47,165,TN,"Sumner County",37,80,1281
+47,021,47,189,TN,"Wilson County",36,78,1140
+47,021,47,149,TN,"Rutherford County",34,60,1081
+47,021,21,047,KY,"Christian County",10,22,277
+47,021,58,000,SS,"Other Flows - Same State",86,163,2690
+47,021,59,000,DS,"Other Flows - Diff State",286,577,9844
+47,021,59,001,DS,"Other Flows - Northeast",14,23,538
+47,021,59,003,DS,"Other Flows - Midwest",82,157,2148
+47,021,59,005,DS,"Other Flows - South",159,342,6339
+47,021,59,007,DS,"Other Flows - West",31,55,818
+47,023,96,000,TN,"Chester County Tot Mig-US & For",464,965,12071
+47,023,97,000,TN,"Chester County Tot Mig-US",464,965,12071
+47,023,97,001,TN,"Chester County Tot Mig-Same St",339,724,9049
+47,023,97,003,TN,"Chester County Tot Mig-Diff St",125,241,3022
+47,023,47,023,TN,"Chester County Non-Migrants",5328,12369,176987
+47,023,47,113,TN,"Madison County",138,279,3494
+47,023,47,077,TN,"Henderson County",39,81,912
+47,023,47,109,TN,"Mcnairy County",28,68,821
+47,023,47,157,TN,"Shelby County",26,56,1034
+47,023,47,069,TN,"Hardeman County",15,31,443
+47,023,47,071,TN,"Hardin County",15,36,354
+47,023,58,000,SS,"Other Flows - Same State",78,173,1991
+47,023,59,000,DS,"Other Flows - Diff State",125,241,3022
+47,025,96,000,TN,"Claiborne Count Tot Mig-US & For",603,1261,13847
+47,025,97,000,TN,"Claiborne Count Tot Mig-US",603,1261,13847
+47,025,97,001,TN,"Claiborne Count Tot Mig-Same St",166,329,1978
+47,025,97,003,TN,"Claiborne Count Tot Mig-Diff St",437,932,11870
+47,025,47,025,TN,"Claiborne Count Non-Migrants",9724,22080,288445
+47,025,21,013,KY,"Bell County",171,365,4170
+47,025,47,093,TN,"Knox County",25,46,679
+47,025,47,173,TN,"Union County",24,41,415
+47,025,47,013,TN,"Campbell County",21,51,-1948
+47,025,21,095,KY,"Harlan County",20,47,651
+47,025,51,105,VA,"Lee County",20,37,385
+47,025,47,001,TN,"Anderson County",11,24,371
+47,025,47,063,TN,"Hamblen County",11,21,323
+47,025,47,057,TN,"Grainger County",10,19,299
+47,025,47,067,TN,"Hancock County",10,25,328
+47,025,58,000,SS,"Other Flows - Same State",54,102,1510
+47,025,59,000,DS,"Other Flows - Diff State",226,483,6663
+47,025,59,001,DS,"Other Flows - Northeast",12,31,467
+47,025,59,003,DS,"Other Flows - Midwest",89,173,2368
+47,025,59,005,DS,"Other Flows - South",109,236,3259
+47,025,59,007,DS,"Other Flows - West",16,43,569
+47,027,96,000,TN,"Clay County Tot Mig-US & For",157,308,9040
+47,027,97,000,TN,"Clay County Tot Mig-US",157,308,9040
+47,027,97,001,TN,"Clay County Tot Mig-Same St",88,163,1596
+47,027,97,003,TN,"Clay County Tot Mig-Diff St",69,145,7444
+47,027,47,027,TN,"Clay County Non-Migrants",2757,5909,70120
+47,027,47,133,TN,"Overton County",28,59,393
+47,027,47,111,TN,"Macon County",15,28,328
+47,027,21,171,KY,"Monroe County",10,15,97
+47,027,58,000,SS,"Other Flows - Same State",45,76,875
+47,027,59,000,DS,"Other Flows - Diff State",59,130,7347
+47,029,96,000,TN,"Cocke County Tot Mig-US & For",677,1322,17922
+47,029,97,000,TN,"Cocke County Tot Mig-US",677,1322,17922
+47,029,97,001,TN,"Cocke County Tot Mig-Same St",354,680,7915
+47,029,97,003,TN,"Cocke County Tot Mig-Diff St",323,642,10007
+47,029,47,029,TN,"Cocke County Non-Migrants",11785,25178,327509
+47,029,47,089,TN,"Jefferson County",99,202,2195
+47,029,47,155,TN,"Sevier County",89,172,1754
+47,029,47,063,TN,"Hamblen County",53,104,1046
+47,029,47,059,TN,"Greene County",34,65,883
+47,029,47,093,TN,"Knox County",19,30,597
+47,029,34,011,NJ,"Cumberland County",11,26,210
+47,029,47,073,TN,"Hawkins County",10,14,165
+47,029,58,000,SS,"Other Flows - Same State",50,93,1275
+47,029,59,000,DS,"Other Flows - Diff State",312,616,9797
+47,029,59,001,DS,"Other Flows - Northeast",20,39,586
+47,029,59,003,DS,"Other Flows - Midwest",51,111,1812
+47,029,59,005,DS,"Other Flows - South",222,435,5865
+47,029,59,007,DS,"Other Flows - West",19,31,1533
+47,031,96,000,TN,"Coffee County Tot Mig-US & For",1244,2591,35354
+47,031,97,000,TN,"Coffee County Tot Mig-US",1227,2571,35129
+47,031,97,001,TN,"Coffee County Tot Mig-Same St",776,1597,20686
+47,031,97,003,TN,"Coffee County Tot Mig-Diff St",451,974,14443
+47,031,98,000,TN,"Coffee County Tot Mig-Foreign",17,20,225
+47,031,47,031,TN,"Coffee County Non-Migrants",16226,36967,638405
+47,031,47,051,TN,"Franklin County",159,317,3793
+47,031,47,003,TN,"Bedford County",136,297,3160
+47,031,47,149,TN,"Rutherford County",127,263,4120
+47,031,47,037,TN,"Davidson County",67,117,1870
+47,031,47,177,TN,"Warren County",46,107,1159
+47,031,47,127,TN,"Moore County",31,59,689
+47,031,47,065,TN,"Hamilton County",22,49,992
+47,031,47,061,TN,"Grundy County",20,37,345
+47,031,47,015,TN,"Cannon County",18,45,495
+47,031,01,089,AL,"Madison County",17,42,545
+47,031,47,103,TN,"Lincoln County",16,40,254
+47,031,47,141,TN,"Putnam County",11,14,166
+47,031,47,189,TN,"Wilson County",11,16,509
+47,031,47,165,TN,"Sumner County",10,17,248
+47,031,58,000,SS,"Other Flows - Same State",102,219,2887
+47,031,59,000,DS,"Other Flows - Diff State",434,932,13898
+47,031,59,001,DS,"Other Flows - Northeast",29,59,955
+47,031,59,003,DS,"Other Flows - Midwest",84,184,2930
+47,031,59,005,DS,"Other Flows - South",261,561,8207
+47,031,59,007,DS,"Other Flows - West",60,128,1806
+47,031,57,009,FR,"Foreign - Other flows",17,20,225
+47,033,96,000,TN,"Crockett County Tot Mig-US & For",429,935,11456
+47,033,97,000,TN,"Crockett County Tot Mig-US",429,935,11456
+47,033,97,001,TN,"Crockett County Tot Mig-Same St",322,700,9236
+47,033,97,003,TN,"Crockett County Tot Mig-Diff St",107,235,2220
+47,033,47,033,TN,"Crockett County Non-Migrants",5546,12497,179653
+47,033,47,113,TN,"Madison County",89,196,2878
+47,033,47,053,TN,"Gibson County",54,124,1278
+47,033,47,075,TN,"Haywood County",41,97,1080
+47,033,47,045,TN,"Dyer County",34,59,873
+47,033,47,097,TN,"Lauderdale County",25,54,669
+47,033,47,157,TN,"Shelby County",19,39,668
+47,033,48,215,TX,"Hidalgo County",14,39,198
+47,033,47,017,TN,"Carroll County",12,26,470
+47,033,58,000,SS,"Other Flows - Same State",48,105,1321
+47,033,59,000,DS,"Other Flows - Diff State",93,196,2022
+47,035,96,000,TN,"Cumberland Coun Tot Mig-US & For",1244,2499,52364
+47,035,97,000,TN,"Cumberland Coun Tot Mig-US",1244,2499,52364
+47,035,97,001,TN,"Cumberland Coun Tot Mig-Same St",454,935,13565
+47,035,97,003,TN,"Cumberland Coun Tot Mig-Diff St",790,1564,38799
+47,035,47,035,TN,"Cumberland Coun Non-Migrants",17095,37519,591149
+47,035,47,141,TN,"Putnam County",64,135,1632
+47,035,47,049,TN,"Fentress County",39,76,683
+47,035,47,093,TN,"Knox County",39,69,1314
+47,035,47,145,TN,"Roane County",34,76,716
+47,035,47,143,TN,"Rhea County",32,63,731
+47,035,47,007,TN,"Bledsoe County",24,57,572
+47,035,47,037,TN,"Davidson County",24,43,1045
+47,035,47,065,TN,"Hamilton County",18,33,589
+47,035,47,001,TN,"Anderson County",16,42,737
+47,035,26,099,MI,"Macomb County",14,31,1052
+47,035,26,125,MI,"Oakland County",14,26,1235
+47,035,47,129,TN,"Morgan County",14,23,233
+47,035,26,163,MI,"Wayne County",12,31,654
+47,035,47,185,TN,"White County",12,31,397
+47,035,12,009,FL,"Brevard County",10,16,251
+47,035,58,000,SS,"Other Flows - Same State",138,287,4914
+47,035,59,000,DS,"Other Flows - Diff State",740,1460,35608
+47,035,59,001,DS,"Other Flows - Northeast",61,113,2436
+47,035,59,003,DS,"Other Flows - Midwest",253,493,13566
+47,035,59,005,DS,"Other Flows - South",353,699,17117
+47,035,59,007,DS,"Other Flows - West",73,155,2489
+47,037,96,000,TN,"Davidson County Tot Mig-US & For",19568,31989,683181
+47,037,97,000,TN,"Davidson County Tot Mig-US",19147,31475,678412
+47,037,97,001,TN,"Davidson County Tot Mig-Same St",8811,14538,293766
+47,037,97,003,TN,"Davidson County Tot Mig-Diff St",10336,16937,384645
+47,037,98,000,TN,"Davidson County Tot Mig-Foreign",421,514,4769
+47,037,47,037,TN,"Davidson County Non-Migrants",207529,407374,10309132
+47,037,47,149,TN,"Rutherford County",1337,2205,38193
+47,037,47,187,TN,"Williamson County",1177,1990,63695
+47,037,47,165,TN,"Sumner County",1090,1841,34810
+47,037,47,189,TN,"Wilson County",882,1451,27125
+47,037,47,157,TN,"Shelby County",504,791,17544
+47,037,47,147,TN,"Robertson County",472,872,14132
+47,037,47,021,TN,"Cheatham County",456,824,13178
+47,037,47,093,TN,"Knox County",348,489,12298
+47,037,47,125,TN,"Montgomery County",339,592,10428
+47,037,47,119,TN,"Maury County",206,322,5354
+47,037,47,043,TN,"Dickson County",195,350,6413
+47,037,47,065,TN,"Hamilton County",192,286,6257
+47,037,17,031,IL,"Cook County",187,296,7270
+47,037,06,037,CA,"Los Angeles County",167,325,5573
+47,037,01,073,AL,"Jefferson County",156,236,6522
+47,037,21,111,KY,"Jefferson County",147,216,6690
+47,037,13,121,GA,"Fulton County",145,208,6616
+47,037,47,141,TN,"Putnam County",141,212,4486
+47,037,48,113,TX,"Dallas County",127,219,10831
+47,037,47,113,TN,"Madison County",124,210,4593
+47,037,01,089,AL,"Madison County",117,173,3268
+47,037,48,201,TX,"Harris County",111,199,4326
+47,037,21,227,KY,"Warren County",104,145,2753
+47,037,21,047,KY,"Christian County",102,169,2227
+47,037,13,067,GA,"Cobb County",93,164,4792
+47,037,13,089,GA,"De Kalb County",93,143,4705
+47,037,26,163,MI,"Wayne County",88,147,2765
+47,037,12,095,FL,"Orange County",80,138,3063
+47,037,37,119,NC,"Mecklenburg County",80,116,4174
+47,037,06,073,CA,"San Diego County",77,138,2453
+47,037,21,067,KY,"Fayette County",71,95,2538
+47,037,04,013,AZ,"Maricopa County",70,111,2099
+47,037,18,097,IN,"Marion County",70,114,2700
+47,037,48,439,TX,"Tarrant County",68,133,2943
+47,037,12,025,FL,"Dade County",67,106,1833
+47,037,12,057,FL,"Hillsborough County",65,118,2906
+47,037,12,031,FL,"Duval County",64,103,2296
+47,037,12,103,FL,"Pinellas County",63,99,2265
+47,037,47,081,TN,"Hickman County",63,108,1493
+47,037,47,003,TN,"Bedford County",62,96,1592
+47,037,48,453,TX,"Travis County",62,101,3121
+47,037,29,189,MO,"St Louis County",58,111,3198
+47,037,47,031,TN,"Coffee County",57,85,1537
+47,037,12,011,FL,"Broward County",55,99,2704
+47,037,47,163,TN,"Sullivan County",54,72,1493
+47,037,48,029,TX,"Bexar County",54,92,2346
+47,037,12,099,FL,"Palm Beach County",53,91,3155
+47,037,39,061,OH,"Hamilton County",53,73,1775
+47,037,36,061,NY,"New York County",52,72,3105
+47,037,39,049,OH,"Franklin County",52,83,1744
+47,037,57,005,FR,"Foreign - APO/FPO ZIPs",52,81,995
+47,037,05,119,AR,"Pulaski County",48,75,2471
+47,037,26,125,MI,"Oakland County",48,81,2659
+47,037,45,045,SC,"Greenville County",48,67,2018
+47,037,53,033,WA,"King County",48,88,2331
+47,037,13,135,GA,"Gwinnett County",47,81,2108
+47,037,47,055,TN,"Giles County",47,63,834
+47,037,40,109,OK,"Oklahoma County",46,74,1493
+47,037,39,035,OH,"Cuyahoga County",45,65,1572
+47,037,06,059,CA,"Orange County",43,78,2167
+47,037,21,145,KY,"Mccracken County",43,76,1232
+47,037,28,049,MS,"Hinds County",43,82,1857
+47,037,47,117,TN,"Marshall County",43,66,1475
+47,037,47,051,TN,"Franklin County",42,68,1037
+47,037,25,017,MA,"Middlesex County",41,65,1786
+47,037,40,143,OK,"Tulsa County",41,70,1330
+47,037,47,085,TN,"Humphreys County",38,53,1151
+47,037,51,059,VA,"Fairfax County",38,62,1241
+47,037,55,079,WI,"Milwaukee County",38,60,1189
+47,037,01,117,AL,"Shelby County",37,55,1666
+47,037,47,009,TN,"Blount County",37,56,881
+47,037,47,159,TN,"Smith County",37,57,951
+47,037,18,163,IN,"Vanderburgh County",36,55,1056
+47,037,47,099,TN,"Lawrence County",36,53,893
+47,037,22,033,LA,"East Baton Rouge Par",35,54,1375
+47,037,36,029,NY,"Erie County",35,54,1318
+47,037,12,073,FL,"Leon County",34,52,1094
+47,037,17,043,IL,"Du Page County",34,59,1760
+47,037,47,035,TN,"Cumberland County",34,52,1026
+47,037,01,097,AL,"Mobile County",33,71,1006
+47,037,11,001,DC,"District Of Columbia",33,42,1304
+47,037,06,085,CA,"Santa Clara County",32,53,2445
+47,037,27,053,MN,"Hennepin County",32,46,1231
+47,037,42,003,PA,"Allegheny County",32,59,1204
+47,037,47,011,TN,"Bradley County",32,41,1079
+47,037,01,101,AL,"Montgomery County",31,60,1185
+47,037,36,047,NY,"Kings County",31,46,1044
+47,037,37,183,NC,"Wake County",31,55,2859
+47,037,47,183,TN,"Weakley County",31,52,860
+47,037,49,035,UT,"Salt Lake County",31,57,894
+47,037,01,125,AL,"Tuscaloosa County",30,49,756
+47,037,25,025,MA,"Suffolk County",30,49,4711
+47,037,39,113,OH,"Montgomery County",30,38,1055
+47,037,01,077,AL,"Lauderdale County",29,44,866
+47,037,06,065,CA,"Riverside County",29,63,786
+47,037,12,071,FL,"Lee County",29,54,2388
+47,037,21,059,KY,"Daviess County",29,42,774
+47,037,24,031,MD,"Montgomery County",29,41,1152
+47,037,47,111,TN,"Macon County",29,43,727
+47,037,04,019,AZ,"Pima County",28,42,871
+47,037,32,003,NV,"Clark County",28,46,1104
+47,037,37,081,NC,"Guilford County",28,42,1277
+47,037,12,105,FL,"Polk County",27,46,796
+47,037,12,127,FL,"Volusia County",27,36,1046
+47,037,36,055,NY,"Monroe County",27,48,936
+47,037,47,053,TN,"Gibson County",27,44,695
+47,037,12,117,FL,"Seminole County",26,43,1059
+47,037,22,071,LA,"Orleans Parish",26,47,624
+47,037,24,005,MD,"Baltimore County",26,44,1778
+47,037,37,021,NC,"Buncombe County",26,46,882
+47,037,47,017,TN,"Carroll County",26,50,662
+47,037,47,179,TN,"Washington County",26,43,709
+47,037,12,009,FL,"Brevard County",25,41,690
+47,037,12,033,FL,"Escambia County",25,51,767
+47,037,26,161,MI,"Washtenaw County",25,31,831
+47,037,47,041,TN,"De Kalb County",25,39,788
+47,037,47,079,TN,"Henry County",25,43,491
+47,037,48,121,TX,"Denton County",25,39,1229
+47,037,08,005,CO,"Arapahoe County",24,33,1102
+47,037,21,035,KY,"Calloway County",24,35,576
+47,037,35,001,NM,"Bernalillo County",24,40,679
+47,037,39,153,OH,"Summit County",24,33,466
+47,037,41,051,OR,"Multnomah County",24,31,500
+47,037,47,155,TN,"Sevier County",24,44,569
+47,037,51,810,VA,"Virginia Beach",24,40,1085
+47,037,09,001,CT,"Fairfield County",23,36,1251
+47,037,13,051,GA,"Chatham County",23,42,1032
+47,037,47,001,TN,"Anderson County",23,31,600
+47,037,47,005,TN,"Benton County",23,30,446
+47,037,51,087,VA,"Henrico County",23,41,1575
+47,037,51,510,VA,Alexandria,23,34,887
+47,037,06,001,CA,"Alameda County",22,30,713
+47,037,18,089,IN,"Lake County",22,38,443
+47,037,22,051,LA,"Jefferson Parish",22,33,836
+47,037,29,510,MO,"St Louis",22,49,796
+47,037,36,081,NY,"Queens County",22,30,750
+47,037,39,017,OH,"Butler County",22,31,797
+47,037,45,079,SC,"Richland County",22,37,895
+47,037,01,033,AL,"Colbert County",21,33,491
+47,037,06,071,CA,"San Bernardino Count",21,31,618
+47,037,08,031,CO,"Denver County",21,25,858
+47,037,18,003,IN,"Allen County",21,34,579
+47,037,20,091,KS,"Johnson County",21,38,1010
+47,037,21,003,KY,"Allen County",21,36,919
+47,037,51,013,VA,"Arlington County",21,35,1030
+47,037,06,075,CA,"San Francisco County",20,22,562
+47,037,12,115,FL,"Sarasota County",20,36,748
+47,037,26,049,MI,"Genesee County",20,35,488
+47,037,28,047,MS,"Harrison County",20,38,606
+47,037,37,051,NC,"Cumberland County",20,35,624
+47,037,45,019,SC,"Charleston County",20,26,851
+47,037,47,103,TN,"Lincoln County",20,31,570
+47,037,47,177,TN,"Warren County",20,31,483
+47,037,01,103,AL,"Morgan County",19,43,606
+47,037,08,041,CO,"El Paso County",19,32,507
+47,037,13,063,GA,"Clayton County",19,39,545
+47,037,18,105,IN,"Monroe County",19,25,389
+47,037,20,173,KS,"Sedgwick County",19,30,557
+47,037,21,213,KY,"Simpson County",19,24,425
+47,037,28,089,MS,"Madison County",19,30,778
+47,037,37,067,NC,"Forsyth County",19,30,668
+47,037,47,063,TN,"Hamblen County",19,31,824
+47,037,47,069,TN,"Hardeman County",19,34,339
+47,037,48,085,TX,"Collin County",19,41,1130
+47,037,10,003,DE,"New Castle County",18,26,616
+47,037,12,005,FL,"Bay County",18,28,405
+47,037,12,091,FL,"Okaloosa County",18,37,707
+47,037,15,003,HI,"Honolulu County",18,30,532
+47,037,28,081,MS,"Lee County",18,34,425
+47,037,29,031,MO,"Cape Girardeau Count",18,28,430
+47,037,31,055,NE,"Douglas County",18,36,605
+47,037,42,091,PA,"Montgomery County",18,29,904
+47,037,47,075,TN,"Haywood County",18,29,208
+47,037,47,087,TN,"Jackson County",18,24,425
+47,037,47,131,TN,"Obion County",18,30,399
+47,037,01,081,AL,"Lee County",17,30,391
+47,037,13,021,GA,"Bibb County",17,25,905
+47,037,13,245,GA,"Richmond County",17,26,572
+47,037,21,107,KY,"Hopkins County",17,26,879
+47,037,24,033,MD,"Prince George's Coun",17,27,317
+47,037,24,510,MD,Baltimore,17,25,693
+47,037,29,077,MO,"Greene County",17,20,441
+47,037,29,095,MO,"Jackson County",17,29,548
+47,037,37,135,NC,"Orange County",17,29,721
+47,037,47,045,TN,"Dyer County",17,30,537
+47,037,47,059,TN,"Greene County",17,31,359
+47,037,51,760,VA,Richmond,17,30,517
+47,037,12,081,FL,"Manatee County",16,29,840
+47,037,13,057,GA,"Cherokee County",16,23,940
+47,037,17,119,IL,"Madison County",16,31,542
+47,037,26,099,MI,"Macomb County",16,25,494
+47,037,37,063,NC,"Durham County",16,33,626
+47,037,45,063,SC,"Lexington County",16,21,349
+47,037,47,185,TN,"White County",16,21,481
+47,037,06,067,CA,"Sacramento County",15,20,459
+47,037,09,009,CT,"New Haven County",15,18,798
+47,037,12,001,FL,"Alachua County",15,22,438
+47,037,12,083,FL,"Marion County",15,32,482
+47,037,12,101,FL,"Pasco County",15,22,670
+47,037,21,141,KY,"Logan County",15,23,342
+47,037,21,157,KY,"Marshall County",15,20,314
+47,037,22,103,LA,"St Tammany Parish",15,36,1062
+47,037,26,065,MI,"Ingham County",15,25,482
+47,037,36,103,NY,"Suffolk County",15,26,1717
+47,037,39,095,OH,"Lucas County",15,17,414
+47,037,47,089,TN,"Jefferson County",15,24,649
+47,037,47,101,TN,"Lewis County",15,24,379
+47,037,47,133,TN,"Overton County",15,25,315
+47,037,47,161,TN,"Stewart County",15,23,219
+47,037,47,169,TN,"Trousdale County",15,24,357
+47,037,48,491,TX,"Williamson County",15,38,2500
+47,037,51,041,VA,"Chesterfield County",15,32,682
+47,037,06,019,CA,"Fresno County",14,45,312
+47,037,08,059,CO,"Jefferson County",14,20,485
+47,037,09,003,CT,"Hartford County",14,17,420
+47,037,13,059,GA,"Clarke County",14,20,335
+47,037,17,097,IL,"Lake County",14,30,2039
+47,037,19,103,IA,"Johnson County",14,24,520
+47,037,21,009,KY,"Barren County",14,17,424
+47,037,21,093,KY,"Hardin County",14,23,409
+47,037,28,071,MS,"Lafayette County",14,19,227
+47,037,28,075,MS,"Lauderdale County",14,22,237
+47,037,28,121,MS,"Rankin County",14,19,664
+47,037,34,013,NJ,"Essex County",14,20,553
+47,037,34,023,NJ,"Middlesex County",14,31,751
+47,037,36,059,NY,"Nassau County",14,25,1140
+47,037,37,133,NC,"Onslow County",14,28,292
+47,037,39,025,OH,"Clermont County",14,23,1079
+47,037,42,029,PA,"Chester County",14,24,457
+47,037,47,181,TN,"Wayne County",14,19,405
+47,037,48,027,TX,"Bell County",14,27,1391
+47,037,48,339,TX,"Montgomery County",14,30,758
+47,037,51,710,VA,Norfolk,14,24,393
+47,037,55,025,WI,"Dane County",14,23,729
+47,037,01,003,AL,"Baldwin County",13,19,272
+47,037,05,143,AR,"Washington County",13,21,284
+47,037,13,153,GA,"Houston County",13,17,342
+47,037,19,153,IA,"Polk County",13,17,421
+47,037,21,177,KY,"Muhlenberg County",13,19,274
+47,037,22,017,LA,"Caddo Parish",13,19,459
+47,037,26,081,MI,"Kent County",13,23,866
+47,037,34,017,NJ,"Hudson County",13,27,224
+47,037,36,005,NY,"Bronx County",13,24,243
+47,037,36,119,NY,"Westchester County",13,31,835
+47,037,47,071,TN,"Hardin County",13,21,320
+47,037,48,157,TX,"Fort Bend County",13,27,528
+47,037,48,215,TX,"Hidalgo County",13,34,220
+47,037,01,015,AL,"Calhoun County",12,18,342
+47,037,06,083,CA,"Santa Barbara County",12,23,295
+47,037,06,111,CA,"Ventura County",12,17,461
+47,037,12,021,FL,"Collier County",12,21,402
+47,037,12,111,FL,"St Lucie County",12,19,266
+47,037,13,215,GA,"Muscogee County",12,28,660
+47,037,17,163,IL,"St Clair County",12,19,348
+47,037,18,057,IN,"Hamilton County",12,21,725
+47,037,18,141,IN,"St Joseph County",12,21,457
+47,037,21,015,KY,"Boone County",12,16,480
+47,037,21,117,KY,"Kenton County",12,12,264
+47,037,24,003,MD,"Anne Arundel County",12,20,845
+47,037,25,009,MA,"Essex County",12,22,490
+47,037,25,021,MA,"Norfolk County",12,18,570
+47,037,28,151,MS,"Washington County",12,24,261
+47,037,39,099,OH,"Mahoning County",12,23,176
+47,037,42,101,PA,"Philadelphia County",12,15,352
+47,037,47,015,TN,"Cannon County",12,24,184
+47,037,47,077,TN,"Henderson County",12,22,430
+47,037,47,083,TN,"Houston County",12,17,271
+47,037,47,097,TN,"Lauderdale County",12,26,282
+47,037,47,115,TN,"Marion County",12,15,267
+47,037,51,550,VA,Chesapeake,12,19,508
+47,037,54,039,WV,"Kanawha County",12,18,394
+47,037,01,055,AL,"Etowah County",11,20,202
+47,037,01,069,AL,"Houston County",11,15,403
+47,037,08,001,CO,"Adams County",11,25,407
+47,037,08,013,CO,"Boulder County",11,13,160
+47,037,12,097,FL,"Osceola County",11,23,358
+47,037,13,139,GA,"Hall County",11,12,612
+47,037,13,295,GA,"Walker County",11,17,215
+47,037,17,113,IL,"Mclean County",11,14,449
+47,037,17,143,IL,"Peoria County",11,20,389
+47,037,17,199,IL,"Williamson County",11,16,244
+47,037,18,157,IN,"Tippecanoe County",11,17,497
+47,037,23,005,ME,"Cumberland County",11,22,537
+47,037,26,021,MI,"Berrien County",11,21,216
+47,037,28,033,MS,"De Soto County",11,22,309
+47,037,33,015,NH,"Rockingham County",11,23,556
+47,037,37,129,NC,"New Hanover County",11,24,535
+47,037,40,031,OK,"Comanche County",11,24,255
+47,037,45,051,SC,"Horry County",11,15,251
+47,037,45,083,SC,"Spartanburg County",11,15,438
+47,037,47,019,TN,"Carter County",11,13,217
+47,037,47,107,TN,"Mcminn County",11,16,364
+47,037,51,107,VA,"Loudoun County",11,21,435
+47,037,51,153,VA,"Prince William Count",11,12,351
+47,037,53,053,WA,"Pierce County",11,19,792
+47,037,01,083,AL,"Limestone County",10,11,214
+47,037,06,013,CA,"Contra Costa County",10,16,241
+47,037,06,081,CA,"San Mateo County",10,11,582
+47,037,06,095,CA,"Solano County",10,14,167
+47,037,13,095,GA,"Dougherty County",10,23,448
+47,037,17,161,IL,"Rock Island County",10,21,246
+47,037,17,167,IL,"Sangamon County",10,16,371
+47,037,17,201,IL,"Winnebago County",10,19,240
+47,037,21,083,KY,"Graves County",10,19,275
+47,037,21,199,KY,"Pulaski County",10,17,397
+47,037,22,073,LA,"Ouachita Parish",10,18,262
+47,037,29,047,MO,"Clay County",10,19,497
+47,037,29,183,MO,"St Charles County",10,20,660
+47,037,31,109,NE,"Lancaster County",10,17,232
+47,037,45,013,SC,"Beaufort County",10,17,486
+47,037,47,039,TN,"Decatur County",10,18,286
+47,037,47,167,TN,"Tipton County",10,17,230
+47,037,48,141,TX,"El Paso County",10,18,459
+47,037,51,003,VA,"Albemarle County",10,15,538
+47,037,58,000,SS,"Other Flows - Same State",121,194,3470
+47,037,59,000,DS,"Other Flows - Diff State",3244,5277,96680
+47,037,59,001,DS,"Other Flows - Northeast",421,668,14346
+47,037,59,003,DS,"Other Flows - Midwest",907,1421,27012
+47,037,59,005,DS,"Other Flows - South",1591,2603,46343
+47,037,59,007,DS,"Other Flows - West",325,585,8979
+47,037,57,009,FR,"Foreign - Other flows",369,433,3774
+47,039,96,000,TN,"Decatur County Tot Mig-US & For",283,573,7188
+47,039,97,000,TN,"Decatur County Tot Mig-US",283,573,7188
+47,039,97,001,TN,"Decatur County Tot Mig-Same St",218,449,5552
+47,039,97,003,TN,"Decatur County Tot Mig-Diff St",65,124,1636
+47,039,47,039,TN,"Decatur County Non-Migrants",3889,8650,122244
+47,039,47,077,TN,"Henderson County",62,130,1527
+47,039,47,113,TN,"Madison County",20,28,327
+47,039,47,005,TN,"Benton County",19,34,431
+47,039,47,135,TN,"Perry County",16,32,354
+47,039,47,157,TN,"Shelby County",13,28,353
+47,039,47,071,TN,"Hardin County",12,21,233
+47,039,58,000,SS,"Other Flows - Same State",76,176,2327
+47,039,59,000,DS,"Other Flows - Diff State",65,124,1636
+47,041,96,000,TN,"De Kalb County Tot Mig-US & For",437,914,14490
+47,041,97,000,TN,"De Kalb County Tot Mig-US",437,914,14490
+47,041,97,001,TN,"De Kalb County Tot Mig-Same St",314,633,10905
+47,041,97,003,TN,"De Kalb County Tot Mig-Diff St",123,281,3585
+47,041,47,041,TN,"De Kalb County Non-Migrants",6406,14289,212354
+47,041,47,189,TN,"Wilson County",46,95,1233
+47,041,47,177,TN,"Warren County",40,81,2693
+47,041,47,141,TN,"Putnam County",39,80,968
+47,041,47,149,TN,"Rutherford County",25,55,1109
+47,041,47,015,TN,"Cannon County",24,55,472
+47,041,47,159,TN,"Smith County",22,45,512
+47,041,47,037,TN,"Davidson County",21,38,1036
+47,041,47,185,TN,"White County",18,37,358
+47,041,58,000,SS,"Other Flows - Same State",79,147,2524
+47,041,59,000,DS,"Other Flows - Diff State",123,281,3585
+47,043,96,000,TN,"Dickson County Tot Mig-US & For",1164,2488,36924
+47,043,97,000,TN,"Dickson County Tot Mig-US",1164,2488,36924
+47,043,97,001,TN,"Dickson County Tot Mig-Same St",836,1794,26006
+47,043,97,003,TN,"Dickson County Tot Mig-Diff St",328,694,10918
+47,043,47,043,TN,"Dickson County Non-Migrants",14063,32252,554888
+47,043,47,037,TN,"Davidson County",258,534,8171
+47,043,47,021,TN,"Cheatham County",102,236,3883
+47,043,47,081,TN,"Hickman County",99,203,2126
+47,043,47,085,TN,"Humphreys County",69,149,2253
+47,043,47,187,TN,"Williamson County",54,117,1603
+47,043,47,125,TN,"Montgomery County",46,115,1291
+47,043,47,083,TN,"Houston County",27,60,729
+47,043,47,149,TN,"Rutherford County",21,43,817
+47,043,47,157,TN,"Shelby County",14,26,651
+47,043,47,119,TN,"Maury County",13,27,428
+47,043,47,189,TN,"Wilson County",11,22,303
+47,043,47,165,TN,"Sumner County",10,18,385
+47,043,58,000,SS,"Other Flows - Same State",112,244,3366
+47,043,59,000,DS,"Other Flows - Diff State",328,694,10918
+47,043,59,001,DS,"Other Flows - Northeast",27,59,1482
+47,043,59,003,DS,"Other Flows - Midwest",81,161,2379
+47,043,59,005,DS,"Other Flows - South",188,389,5976
+47,043,59,007,DS,"Other Flows - West",32,85,1082
+47,045,96,000,TN,"Dyer County Tot Mig-US & For",794,1711,24309
+47,045,97,000,TN,"Dyer County Tot Mig-US",794,1711,24309
+47,045,97,001,TN,"Dyer County Tot Mig-Same St",478,1025,13501
+47,045,97,003,TN,"Dyer County Tot Mig-Diff St",316,686,10808
+47,045,47,045,TN,"Dyer County Non-Migrants",12742,28957,483744
+47,045,47,097,TN,"Lauderdale County",88,202,2024
+47,045,47,131,TN,"Obion County",62,123,2004
+47,045,47,053,TN,"Gibson County",60,134,1556
+47,045,47,157,TN,"Shelby County",57,102,1645
+47,045,47,095,TN,"Lake County",43,108,1034
+47,045,47,033,TN,"Crockett County",29,69,653
+47,045,47,113,TN,"Madison County",17,29,513
+47,045,47,183,TN,"Weakley County",17,28,391
+47,045,29,155,MO,"Pemiscot County",15,36,346
+47,045,47,167,TN,"Tipton County",13,36,403
+47,045,58,000,SS,"Other Flows - Same State",92,194,3278
+47,045,59,000,DS,"Other Flows - Diff State",301,650,10462
+47,047,96,000,TN,"Fayette County Tot Mig-US & For",1773,4195,94364
+47,047,97,000,TN,"Fayette County Tot Mig-US",1773,4195,94364
+47,047,97,001,TN,"Fayette County Tot Mig-Same St",1351,3159,68395
+47,047,97,003,TN,"Fayette County Tot Mig-Diff St",422,1036,25969
+47,047,47,047,TN,"Fayette County Non-Migrants",13423,31826,641558
+47,047,47,157,TN,"Shelby County",1114,2600,60483
+47,047,47,167,TN,"Tipton County",76,186,1701
+47,047,47,069,TN,"Hardeman County",55,133,1308
+47,047,28,033,MS,"De Soto County",37,78,1298
+47,047,47,075,TN,"Haywood County",31,72,617
+47,047,28,093,MS,"Marshall County",18,38,556
+47,047,47,037,TN,"Davidson County",12,25,530
+47,047,47,113,TN,"Madison County",10,15,456
+47,047,58,000,SS,"Other Flows - Same State",53,128,3301
+47,047,59,000,DS,"Other Flows - Diff State",367,920,24114
+47,047,59,001,DS,"Other Flows - Northeast",32,90,2707
+47,047,59,003,DS,"Other Flows - Midwest",61,147,4533
+47,047,59,005,DS,"Other Flows - South",224,554,13820
+47,047,59,007,DS,"Other Flows - West",50,129,3054
+47,049,96,000,TN,"Fentress County Tot Mig-US & For",292,622,8350
+47,049,97,000,TN,"Fentress County Tot Mig-US",292,622,8350
+47,049,97,001,TN,"Fentress County Tot Mig-Same St",157,337,4515
+47,049,97,003,TN,"Fentress County Tot Mig-Diff St",135,285,3835
+47,049,47,049,TN,"Fentress County Non-Migrants",5317,12358,138693
+47,049,47,035,TN,"Cumberland County",38,83,854
+47,049,47,141,TN,"Putnam County",24,50,683
+47,049,47,129,TN,"Morgan County",16,39,349
+47,049,47,133,TN,"Overton County",12,32,302
+47,049,58,000,SS,"Other Flows - Same State",67,133,2327
+47,049,59,000,DS,"Other Flows - Diff State",135,285,3835
+47,051,96,000,TN,"Franklin County Tot Mig-US & For",804,1745,28986
+47,051,97,000,TN,"Franklin County Tot Mig-US",786,1719,28575
+47,051,97,001,TN,"Franklin County Tot Mig-Same St",423,912,14031
+47,051,97,003,TN,"Franklin County Tot Mig-Diff St",363,807,14544
+47,051,98,000,TN,"Franklin County Tot Mig-Foreign",18,26,411
+47,051,47,051,TN,"Franklin County Non-Migrants",12491,28012,469856
+47,051,47,031,TN,"Coffee County",174,372,4978
+47,051,47,103,TN,"Lincoln County",31,73,787
+47,051,47,037,TN,"Davidson County",26,62,1078
+47,051,47,061,TN,"Grundy County",26,59,840
+47,051,47,003,TN,"Bedford County",25,51,2074
+47,051,01,089,AL,"Madison County",21,44,1104
+47,051,47,149,TN,"Rutherford County",21,40,636
+47,051,17,031,IL,"Cook County",14,33,353
+47,051,47,177,TN,"Warren County",13,30,338
+47,051,47,119,TN,"Maury County",11,18,349
+47,051,47,127,TN,"Moore County",11,31,485
+47,051,47,065,TN,"Hamilton County",10,24,313
+47,051,47,115,TN,"Marion County",10,20,105
+47,051,58,000,SS,"Other Flows - Same State",65,132,2047
+47,051,59,000,DS,"Other Flows - Diff State",328,730,13087
+47,051,59,001,DS,"Other Flows - Northeast",19,41,669
+47,051,59,003,DS,"Other Flows - Midwest",66,158,2528
+47,051,59,005,DS,"Other Flows - South",204,443,8227
+47,051,59,007,DS,"Other Flows - West",39,88,1663
+47,051,57,009,FR,"Foreign - Other flows",18,26,411
+47,053,96,000,TN,"Gibson County Tot Mig-US & For",988,2147,29117
+47,053,97,000,TN,"Gibson County Tot Mig-US",988,2147,29117
+47,053,97,001,TN,"Gibson County Tot Mig-Same St",709,1530,20899
+47,053,97,003,TN,"Gibson County Tot Mig-Diff St",279,617,8218
+47,053,47,053,TN,"Gibson County Non-Migrants",17731,39136,608088
+47,053,47,113,TN,"Madison County",217,471,7917
+47,053,47,017,TN,"Carroll County",113,228,3141
+47,053,47,033,TN,"Crockett County",56,117,1159
+47,053,47,183,TN,"Weakley County",53,120,1071
+47,053,47,131,TN,"Obion County",45,93,1139
+47,053,47,157,TN,"Shelby County",37,81,1539
+47,053,47,045,TN,"Dyer County",34,73,675
+47,053,47,077,TN,"Henderson County",20,47,574
+47,053,47,037,TN,"Davidson County",13,25,326
+47,053,47,079,TN,"Henry County",13,27,471
+47,053,47,075,TN,"Haywood County",11,16,224
+47,053,58,000,SS,"Other Flows - Same State",97,232,2665
+47,053,59,000,DS,"Other Flows - Diff State",279,617,8218
+47,053,59,001,DS,"Other Flows - Northeast",16,27,400
+47,053,59,003,DS,"Other Flows - Midwest",89,179,2646
+47,053,59,005,DS,"Other Flows - South",154,374,4758
+47,053,59,007,DS,"Other Flows - West",20,37,414
+47,055,96,000,TN,"Giles County Tot Mig-US & For",718,1457,20536
+47,055,97,000,TN,"Giles County Tot Mig-US",718,1457,20536
+47,055,97,001,TN,"Giles County Tot Mig-Same St",346,697,8443
+47,055,97,003,TN,"Giles County Tot Mig-Diff St",372,760,12093
+47,055,47,055,TN,"Giles County Non-Migrants",11069,25020,405559
+47,055,01,083,AL,"Limestone County",85,180,2115
+47,055,47,099,TN,"Lawrence County",73,159,1505
+47,055,47,119,TN,"Maury County",68,134,1711
+47,055,01,089,AL,"Madison County",63,128,2446
+47,055,47,117,TN,"Marshall County",49,94,1290
+47,055,47,103,TN,"Lincoln County",37,78,843
+47,055,47,037,TN,"Davidson County",31,51,672
+47,055,47,149,TN,"Rutherford County",17,35,492
+47,055,01,077,AL,"Lauderdale County",16,32,1114
+47,055,01,103,AL,"Morgan County",13,26,647
+47,055,58,000,SS,"Other Flows - Same State",71,146,1931
+47,055,59,000,DS,"Other Flows - Diff State",195,394,5771
+47,055,59,001,DS,"Other Flows - Northeast",14,18,685
+47,055,59,003,DS,"Other Flows - Midwest",49,104,1549
+47,055,59,005,DS,"Other Flows - South",120,255,3187
+47,055,59,007,DS,"Other Flows - West",12,17,350
+47,057,96,000,TN,"Grainger County Tot Mig-US & For",535,1054,13433
+47,057,97,000,TN,"Grainger County Tot Mig-US",535,1054,13433
+47,057,97,001,TN,"Grainger County Tot Mig-Same St",389,766,9412
+47,057,97,003,TN,"Grainger County Tot Mig-Diff St",146,288,4021
+47,057,47,057,TN,"Grainger County Non-Migrants",6191,14093,188065
+47,057,47,063,TN,"Hamblen County",108,199,2353
+47,057,47,093,TN,"Knox County",93,183,2539
+47,057,47,089,TN,"Jefferson County",44,100,932
+47,057,47,073,TN,"Hawkins County",34,75,808
+47,057,47,173,TN,"Union County",24,51,459
+47,057,47,025,TN,"Claiborne County",21,37,445
+47,057,47,029,TN,"Cocke County",10,19,231
+47,057,58,000,SS,"Other Flows - Same State",55,102,1645
+47,057,59,000,DS,"Other Flows - Diff State",146,288,4021
+47,059,96,000,TN,"Greene County Tot Mig-US & For",1122,2432,33566
+47,059,97,000,TN,"Greene County Tot Mig-US",1122,2432,33566
+47,059,97,001,TN,"Greene County Tot Mig-Same St",605,1347,17096
+47,059,97,003,TN,"Greene County Tot Mig-Diff St",517,1085,16469
+47,059,47,059,TN,"Greene County Non-Migrants",23075,49401,794756
+47,059,47,179,TN,"Washington County",154,333,4030
+47,059,47,063,TN,"Hamblen County",98,216,2662
+47,059,47,163,TN,"Sullivan County",94,211,2854
+47,059,47,073,TN,"Hawkins County",75,176,2058
+47,059,47,029,TN,"Cocke County",31,69,720
+47,059,47,093,TN,"Knox County",23,38,508
+47,059,47,019,TN,"Carter County",22,44,544
+47,059,47,171,TN,"Unicoi County",17,39,377
+47,059,47,089,TN,"Jefferson County",14,40,367
+47,059,47,155,TN,"Sevier County",14,25,205
+47,059,47,057,TN,"Grainger County",10,24,151
+47,059,58,000,SS,"Other Flows - Same State",53,132,2621
+47,059,59,000,DS,"Other Flows - Diff State",517,1085,16469
+47,059,59,001,DS,"Other Flows - Northeast",50,100,1472
+47,059,59,003,DS,"Other Flows - Midwest",100,204,3137
+47,059,59,005,DS,"Other Flows - South",331,701,10533
+47,059,59,007,DS,"Other Flows - West",36,80,1327
+47,061,96,000,TN,"Grundy County Tot Mig-US & For",204,422,4781
+47,061,97,000,TN,"Grundy County Tot Mig-US",204,422,4781
+47,061,97,001,TN,"Grundy County Tot Mig-Same St",123,252,2829
+47,061,97,003,TN,"Grundy County Tot Mig-Diff St",81,170,1952
+47,061,47,061,TN,"Grundy County Non-Migrants",4447,10674,115037
+47,061,47,051,TN,"Franklin County",19,40,381
+47,061,47,115,TN,"Marion County",19,37,410
+47,061,47,031,TN,"Coffee County",18,30,329
+47,061,47,177,TN,"Warren County",17,37,392
+47,061,47,065,TN,"Hamilton County",16,33,357
+47,061,58,000,SS,"Other Flows - Same State",34,75,961
+47,061,59,000,DS,"Other Flows - Diff State",81,170,1952
+47,063,96,000,TN,"Hamblen County Tot Mig-US & For",1338,2736,42546
+47,063,97,000,TN,"Hamblen County Tot Mig-US",1327,2720,42312
+47,063,97,001,TN,"Hamblen County Tot Mig-Same St",836,1658,21841
+47,063,97,003,TN,"Hamblen County Tot Mig-Diff St",491,1062,20472
+47,063,98,000,TN,"Hamblen County Tot Mig-Foreign",11,16,234
+47,063,47,063,TN,"Hamblen County Non-Migrants",20380,44551,786174
+47,063,47,089,TN,"Jefferson County",205,431,5154
+47,063,47,057,TN,"Grainger County",113,229,2373
+47,063,47,059,TN,"Greene County",89,192,2682
+47,063,47,073,TN,"Hawkins County",83,167,2096
+47,063,47,093,TN,"Knox County",79,148,2449
+47,063,47,029,TN,"Cocke County",62,112,1256
+47,063,47,025,TN,"Claiborne County",33,66,850
+47,063,47,155,TN,"Sevier County",20,30,558
+47,063,47,009,TN,"Blount County",19,34,630
+47,063,47,067,TN,"Hancock County",16,28,367
+47,063,47,179,TN,"Washington County",14,25,258
+47,063,47,163,TN,"Sullivan County",13,27,377
+47,063,47,001,TN,"Anderson County",11,19,402
+47,063,21,013,KY,"Bell County",10,16,122
+47,063,58,000,SS,"Other Flows - Same State",79,150,2389
+47,063,59,000,DS,"Other Flows - Diff State",481,1046,20350
+47,063,59,001,DS,"Other Flows - Northeast",27,72,1191
+47,063,59,003,DS,"Other Flows - Midwest",101,197,4255
+47,063,59,005,DS,"Other Flows - South",299,669,13678
+47,063,59,007,DS,"Other Flows - West",54,108,1226
+47,063,57,009,FR,"Foreign - Other flows",11,16,234
+47,065,96,000,TN,"Hamilton County Tot Mig-US & For",6622,12497,265078
+47,065,97,000,TN,"Hamilton County Tot Mig-US",6523,12344,263155
+47,065,97,001,TN,"Hamilton County Tot Mig-Same St",1872,3466,65334
+47,065,97,003,TN,"Hamilton County Tot Mig-Diff St",4651,8878,197821
+47,065,98,000,TN,"Hamilton County Tot Mig-Foreign",99,153,1923
+47,065,47,065,TN,"Hamilton County Non-Migrants",112986,240533,5501270
+47,065,13,047,GA,"Catoosa County",551,997,15995
+47,065,13,295,GA,"Walker County",484,902,13610
+47,065,47,011,TN,"Bradley County",362,658,10560
+47,065,47,093,TN,"Knox County",195,320,8267
+47,065,47,143,TN,"Rhea County",178,360,5112
+47,065,47,115,TN,"Marion County",160,316,5347
+47,065,47,037,TN,"Davidson County",129,212,9381
+47,065,13,313,GA,"Whitfield County",98,170,14899
+47,065,47,157,TN,"Shelby County",96,175,3497
+47,065,13,083,GA,"Dade County",95,197,3222
+47,065,13,121,GA,"Fulton County",67,109,3091
+47,065,13,067,GA,"Cobb County",64,109,3119
+47,065,47,153,TN,"Sequatchie County",64,130,1543
+47,065,47,149,TN,"Rutherford County",59,99,1851
+47,065,13,089,GA,"De Kalb County",55,101,1915
+47,065,47,107,TN,"Mcminn County",52,99,1397
+47,065,12,031,FL,"Duval County",45,75,1811
+47,065,01,071,AL,"Jackson County",41,66,904
+47,065,47,007,TN,"Bledsoe County",41,71,1153
+47,065,13,135,GA,"Gwinnett County",40,62,1937
+47,065,01,089,AL,"Madison County",39,70,1834
+47,065,01,049,AL,"De Kalb County",37,63,805
+47,065,01,073,AL,"Jefferson County",35,57,1547
+47,065,12,103,FL,"Pinellas County",33,61,1215
+47,065,47,001,TN,"Anderson County",33,52,631
+47,065,06,037,CA,"Los Angeles County",32,66,2231
+47,065,57,005,FR,"Foreign - APO/FPO ZIPs",32,68,865
+47,065,17,031,IL,"Cook County",31,60,1081
+47,065,12,057,FL,"Hillsborough County",28,61,1006
+47,065,47,009,TN,"Blount County",28,48,846
+47,065,47,163,TN,"Sullivan County",28,45,801
+47,065,47,179,TN,"Washington County",28,53,879
+47,065,12,011,FL,"Broward County",27,50,859
+47,065,47,125,TN,"Montgomery County",27,71,1019
+47,065,45,045,SC,"Greenville County",26,69,1544
+47,065,47,121,TN,"Meigs County",26,57,721
+47,065,12,025,FL,"Dade County",24,44,1047
+47,065,48,201,TX,"Harris County",24,55,1111
+47,065,04,013,AZ,"Maricopa County",23,45,1023
+47,065,12,095,FL,"Orange County",23,41,686
+47,065,13,129,GA,"Gordon County",23,43,627
+47,065,47,031,TN,"Coffee County",23,41,742
+47,065,47,139,TN,"Polk County",23,40,799
+47,065,47,165,TN,"Sumner County",23,37,1118
+47,065,06,073,CA,"San Diego County",22,47,1021
+47,065,47,061,TN,"Grundy County",21,41,527
+47,065,37,021,NC,"Buncombe County",20,32,678
+47,065,47,141,TN,"Putnam County",20,34,632
+47,065,06,059,CA,"Orange County",19,39,788
+47,065,13,215,GA,"Muscogee County",19,41,823
+47,065,21,111,KY,"Jefferson County",19,31,787
+47,065,47,123,TN,"Monroe County",19,34,437
+47,065,12,099,FL,"Palm Beach County",18,40,593
+47,065,13,115,GA,"Floyd County",18,36,461
+47,065,37,119,NC,"Mecklenburg County",18,35,1308
+47,065,13,021,GA,"Bibb County",17,35,792
+47,065,37,067,NC,"Forsyth County",17,36,1565
+47,065,40,109,OK,"Oklahoma County",17,32,577
+47,065,01,015,AL,"Calhoun County",16,43,359
+47,065,12,105,FL,"Polk County",15,37,510
+47,065,26,163,MI,"Wayne County",15,31,370
+47,065,47,051,TN,"Franklin County",15,29,422
+47,065,01,101,AL,"Montgomery County",14,23,405
+47,065,06,071,CA,"San Bernardino Count",14,26,289
+47,065,12,001,FL,"Alachua County",14,23,432
+47,065,12,009,FL,"Brevard County",14,31,1041
+47,065,13,213,GA,"Murray County",14,22,423
+47,065,32,003,NV,"Clark County",14,23,466
+47,065,45,083,SC,"Spartanburg County",14,27,485
+47,065,47,189,TN,"Wilson County",14,37,496
+47,065,01,055,AL,"Etowah County",13,25,205
+47,065,01,081,AL,"Lee County",13,21,401
+47,065,13,059,GA,"Clarke County",13,16,245
+47,065,47,113,TN,"Madison County",13,35,582
+47,065,01,125,AL,"Tuscaloosa County",12,22,422
+47,065,12,071,FL,"Lee County",12,19,318
+47,065,12,073,FL,"Leon County",12,16,403
+47,065,13,055,GA,"Chattooga County",12,15,266
+47,065,13,063,GA,"Clayton County",12,22,347
+47,065,37,183,NC,"Wake County",12,23,618
+47,065,39,035,OH,"Cuyahoga County",12,28,312
+47,065,39,113,OH,"Montgomery County",12,20,946
+47,065,48,439,TX,"Tarrant County",12,31,545
+47,065,12,005,FL,"Bay County",11,22,338
+47,065,12,033,FL,"Escambia County",11,16,323
+47,065,12,117,FL,"Seminole County",11,18,360
+47,065,12,127,FL,"Volusia County",11,28,353
+47,065,13,051,GA,"Chatham County",11,22,643
+47,065,21,067,KY,"Fayette County",11,27,677
+47,065,47,145,TN,"Roane County",11,25,400
+47,065,47,147,TN,"Robertson County",11,20,322
+47,065,48,029,TX,"Bexar County",11,22,341
+47,065,01,103,AL,"Morgan County",10,23,571
+47,065,13,057,GA,"Cherokee County",10,26,988
+47,065,21,227,KY,"Warren County",10,23,360
+47,065,25,017,MA,"Middlesex County",10,17,475
+47,065,27,053,MN,"Hennepin County",10,23,465
+47,065,36,103,NY,"Suffolk County",10,18,233
+47,065,45,051,SC,"Horry County",10,12,603
+47,065,45,063,SC,"Lexington County",10,16,473
+47,065,45,079,SC,"Richland County",10,16,349
+47,065,47,155,TN,"Sevier County",10,13,342
+47,065,48,113,TX,"Dallas County",10,25,271
+47,065,51,059,VA,"Fairfax County",10,24,702
+47,065,51,810,VA,"Virginia Beach",10,14,300
+47,065,53,033,WA,"King County",10,21,381
+47,065,55,133,WI,"Waukesha County",10,27,736
+47,065,58,000,SS,"Other Flows - Same State",163,314,5510
+47,065,59,000,DS,"Other Flows - Diff State",1994,3917,91559
+47,065,59,001,DS,"Other Flows - Northeast",261,507,10622
+47,065,59,003,DS,"Other Flows - Midwest",421,839,18100
+47,065,59,005,DS,"Other Flows - South",1081,2121,41673
+47,065,59,007,DS,"Other Flows - West",231,450,21165
+47,065,57,009,FR,"Foreign - Other flows",67,85,1058
+47,067,96,000,TN,"Hancock County Tot Mig-US & For",91,186,2237
+47,067,97,000,TN,"Hancock County Tot Mig-US",91,186,2237
+47,067,97,001,TN,"Hancock County Tot Mig-Same St",54,112,1215
+47,067,97,003,TN,"Hancock County Tot Mig-Diff St",37,74,1022
+47,067,47,067,TN,"Hancock County Non-Migrants",1751,4027,43095
+47,067,47,063,TN,"Hamblen County",15,26,312
+47,067,47,073,TN,"Hawkins County",13,29,238
+47,067,58,000,SS,"Other Flows - Same State",26,57,665
+47,067,59,000,DS,"Other Flows - Diff State",37,74,1022
+47,069,96,000,TN,"Hardeman County Tot Mig-US & For",510,1066,14873
+47,069,97,000,TN,"Hardeman County Tot Mig-US",510,1066,14873
+47,069,97,001,TN,"Hardeman County Tot Mig-Same St",342,711,10193
+47,069,97,003,TN,"Hardeman County Tot Mig-Diff St",168,355,4680
+47,069,47,069,TN,"Hardeman County Non-Migrants",8389,18685,240063
+47,069,47,157,TN,"Shelby County",111,214,4427
+47,069,47,047,TN,"Fayette County",61,134,1763
+47,069,47,113,TN,"Madison County",53,116,1237
+47,069,47,109,TN,"Mcnairy County",23,54,671
+47,069,47,075,TN,"Haywood County",17,32,342
+47,069,28,139,MS,"Tippah County",15,24,265
+47,069,47,037,TN,"Davidson County",14,28,438
+47,069,58,000,SS,"Other Flows - Same State",63,133,1315
+47,069,59,000,DS,"Other Flows - Diff State",153,331,4415
+47,071,96,000,TN,"Hardin County Tot Mig-US & For",530,1122,17015
+47,071,97,000,TN,"Hardin County Tot Mig-US",530,1122,17015
+47,071,97,001,TN,"Hardin County Tot Mig-Same St",295,628,8376
+47,071,97,003,TN,"Hardin County Tot Mig-Diff St",235,494,8639
+47,071,47,071,TN,"Hardin County Non-Migrants",8594,19348,295213
+47,071,47,109,TN,"Mcnairy County",78,172,1498
+47,071,47,157,TN,"Shelby County",47,85,2090
+47,071,47,181,TN,"Wayne County",25,43,388
+47,071,28,003,MS,"Alcorn County",16,33,539
+47,071,47,023,TN,"Chester County",15,37,366
+47,071,47,039,TN,"Decatur County",14,32,369
+47,071,47,077,TN,"Henderson County",13,29,282
+47,071,47,113,TN,"Madison County",12,24,235
+47,071,47,037,TN,"Davidson County",11,19,348
+47,071,58,000,SS,"Other Flows - Same State",80,187,2800
+47,071,59,000,DS,"Other Flows - Diff State",219,461,8099
+47,071,59,001,DS,"Other Flows - Northeast",14,22,470
+47,071,59,003,DS,"Other Flows - Midwest",51,113,1646
+47,071,59,005,DS,"Other Flows - South",142,299,5322
+47,071,59,007,DS,"Other Flows - West",12,27,661
+47,073,96,000,TN,"Hawkins County Tot Mig-US & For",1246,2633,37356
+47,073,97,000,TN,"Hawkins County Tot Mig-US",1246,2633,37356
+47,073,97,001,TN,"Hawkins County Tot Mig-Same St",809,1719,22232
+47,073,97,003,TN,"Hawkins County Tot Mig-Diff St",437,914,15124
+47,073,47,073,TN,"Hawkins County Non-Migrants",17369,38633,605379
+47,073,47,163,TN,"Sullivan County",436,948,11964
+47,073,47,063,TN,"Hamblen County",101,227,2630
+47,073,47,059,TN,"Greene County",65,128,1451
+47,073,47,179,TN,"Washington County",60,103,1878
+47,073,51,169,VA,"Scott County",41,80,1231
+47,073,47,057,TN,"Grainger County",27,58,820
+47,073,47,067,TN,"Hancock County",19,44,466
+47,073,51,195,VA,"Wise County",17,33,611
+47,073,47,093,TN,"Knox County",15,37,642
+47,073,47,089,TN,"Jefferson County",14,34,350
+47,073,21,195,KY,"Pike County",10,24,295
+47,073,51,191,VA,"Washington County",10,23,352
+47,073,58,000,SS,"Other Flows - Same State",72,140,2029
+47,073,59,000,DS,"Other Flows - Diff State",359,754,12635
+47,073,59,001,DS,"Other Flows - Northeast",25,59,879
+47,073,59,003,DS,"Other Flows - Midwest",68,143,2497
+47,073,59,005,DS,"Other Flows - South",247,522,8802
+47,073,59,007,DS,"Other Flows - West",19,30,457
+47,075,96,000,TN,"Haywood County Tot Mig-US & For",409,892,10513
+47,075,97,000,TN,"Haywood County Tot Mig-US",409,892,10513
+47,075,97,001,TN,"Haywood County Tot Mig-Same St",316,685,7778
+47,075,97,003,TN,"Haywood County Tot Mig-Diff St",93,207,2735
+47,075,47,075,TN,"Haywood County Non-Migrants",6827,15319,200352
+47,075,47,113,TN,"Madison County",65,133,1313
+47,075,47,157,TN,"Shelby County",56,121,1969
+47,075,47,097,TN,"Lauderdale County",51,117,960
+47,075,47,033,TN,"Crockett County",32,75,803
+47,075,47,047,TN,"Fayette County",30,61,484
+47,075,47,167,TN,"Tipton County",28,69,499
+47,075,47,037,TN,"Davidson County",10,17,568
+47,075,58,000,SS,"Other Flows - Same State",44,92,1182
+47,075,59,000,DS,"Other Flows - Diff State",93,207,2735
+47,077,96,000,TN,"Henderson Count Tot Mig-US & For",656,1397,19479
+47,077,97,000,TN,"Henderson Count Tot Mig-US",656,1397,19479
+47,077,97,001,TN,"Henderson Count Tot Mig-Same St",469,999,13264
+47,077,97,003,TN,"Henderson Count Tot Mig-Diff St",187,398,6215
+47,077,47,077,TN,"Henderson Count Non-Migrants",8049,17993,277351
+47,077,47,113,TN,"Madison County",103,220,3553
+47,077,47,017,TN,"Carroll County",81,169,1919
+47,077,47,039,TN,"Decatur County",80,180,1696
+47,077,47,157,TN,"Shelby County",31,58,1114
+47,077,47,023,TN,"Chester County",30,64,644
+47,077,47,071,TN,"Hardin County",28,69,618
+47,077,47,005,TN,"Benton County",12,30,138
+47,077,47,053,TN,"Gibson County",12,27,377
+47,077,58,000,SS,"Other Flows - Same State",92,182,3205
+47,077,59,000,DS,"Other Flows - Diff State",187,398,6215
+47,077,59,001,DS,"Other Flows - Northeast",12,28,314
+47,077,59,003,DS,"Other Flows - Midwest",60,147,2171
+47,077,59,005,DS,"Other Flows - South",87,167,2457
+47,077,59,007,DS,"Other Flows - West",28,56,1272
+47,079,96,000,TN,"Henry County Tot Mig-US & For",749,1519,23582
+47,079,97,000,TN,"Henry County Tot Mig-US",749,1519,23582
+47,079,97,001,TN,"Henry County Tot Mig-Same St",331,674,9245
+47,079,97,003,TN,"Henry County Tot Mig-Diff St",418,845,14337
+47,079,47,079,TN,"Henry County Non-Migrants",10563,22816,350345
+47,079,47,017,TN,"Carroll County",67,138,1404
+47,079,21,035,KY,"Calloway County",54,109,2744
+47,079,47,005,TN,"Benton County",49,117,1378
+47,079,47,183,TN,"Weakley County",42,104,1169
+47,079,47,157,TN,"Shelby County",30,55,1578
+47,079,47,037,TN,"Davidson County",18,28,395
+47,079,47,053,TN,"Gibson County",17,34,421
+47,079,47,161,TN,"Stewart County",17,31,460
+47,079,21,083,KY,"Graves County",12,25,310
+47,079,17,031,IL,"Cook County",10,20,187
+47,079,47,113,TN,"Madison County",10,19,199
+47,079,58,000,SS,"Other Flows - Same State",81,148,2242
+47,079,59,000,DS,"Other Flows - Diff State",342,691,11095
+47,079,59,001,DS,"Other Flows - Northeast",20,34,457
+47,079,59,003,DS,"Other Flows - Midwest",128,264,4834
+47,079,59,005,DS,"Other Flows - South",141,287,4489
+47,079,59,007,DS,"Other Flows - West",53,106,1315
+47,081,96,000,TN,"Hickman County Tot Mig-US & For",614,1407,16243
+47,081,97,000,TN,"Hickman County Tot Mig-US",614,1407,16243
+47,081,97,001,TN,"Hickman County Tot Mig-Same St",473,1094,12893
+47,081,97,003,TN,"Hickman County Tot Mig-Diff St",141,313,3350
+47,081,47,081,TN,"Hickman County Non-Migrants",6231,14442,207916
+47,081,47,043,TN,"Dickson County",111,263,2729
+47,081,47,037,TN,"Davidson County",98,202,2454
+47,081,47,187,TN,"Williamson County",69,156,2597
+47,081,47,119,TN,"Maury County",52,133,1551
+47,081,47,085,TN,"Humphreys County",16,34,328
+47,081,47,101,TN,"Lewis County",15,52,360
+47,081,47,149,TN,"Rutherford County",14,30,400
+47,081,47,021,TN,"Cheatham County",13,33,342
+47,081,47,135,TN,"Perry County",13,33,252
+47,081,58,000,SS,"Other Flows - Same State",72,158,1880
+47,081,59,000,DS,"Other Flows - Diff State",141,313,3350
+47,081,59,001,DS,"Other Flows - Northeast",14,33,436
+47,081,59,003,DS,"Other Flows - Midwest",43,86,1011
+47,081,59,005,DS,"Other Flows - South",68,155,1597
+47,081,59,007,DS,"Other Flows - West",16,39,307
+47,083,96,000,TN,"Houston County Tot Mig-US & For",192,417,4753
+47,083,97,000,TN,"Houston County Tot Mig-US",192,417,4753
+47,083,97,001,TN,"Houston County Tot Mig-Same St",131,295,3373
+47,083,97,003,TN,"Houston County Tot Mig-Diff St",61,122,1379
+47,083,47,083,TN,"Houston County Non-Migrants",2806,6350,85875
+47,083,47,125,TN,"Montgomery County",27,70,718
+47,083,47,085,TN,"Humphreys County",26,53,705
+47,083,47,161,TN,"Stewart County",24,51,539
+47,083,47,037,TN,"Davidson County",12,27,345
+47,083,47,043,TN,"Dickson County",12,22,235
+47,083,58,000,SS,"Other Flows - Same State",30,72,831
+47,083,59,000,DS,"Other Flows - Diff State",61,122,1379
+47,085,96,000,TN,"Humphreys Count Tot Mig-US & For",390,798,11444
+47,085,97,000,TN,"Humphreys Count Tot Mig-US",390,798,11444
+47,085,97,001,TN,"Humphreys Count Tot Mig-Same St",249,514,7018
+47,085,97,003,TN,"Humphreys Count Tot Mig-Diff St",141,284,4426
+47,085,47,085,TN,"Humphreys Count Non-Migrants",5854,13081,221238
+47,085,47,043,TN,"Dickson County",56,115,1760
+47,085,47,037,TN,"Davidson County",29,54,636
+47,085,47,083,TN,"Houston County",28,65,633
+47,085,47,005,TN,"Benton County",20,47,383
+47,085,47,081,TN,"Hickman County",19,41,438
+47,085,47,149,TN,"Rutherford County",10,19,220
+47,085,58,000,SS,"Other Flows - Same State",87,173,2949
+47,085,59,000,DS,"Other Flows - Diff State",141,284,4426
+47,085,59,001,DS,"Other Flows - Northeast",10,18,306
+47,085,59,003,DS,"Other Flows - Midwest",46,95,1700
+47,085,59,005,DS,"Other Flows - South",63,130,1786
+47,085,59,007,DS,"Other Flows - West",22,41,633
+47,087,96,000,TN,"Jackson County Tot Mig-US & For",406,889,11648
+47,087,97,000,TN,"Jackson County Tot Mig-US",406,889,11648
+47,087,97,001,TN,"Jackson County Tot Mig-Same St",278,617,7792
+47,087,97,003,TN,"Jackson County Tot Mig-Diff St",128,272,3855
+47,087,47,087,TN,"Jackson County Non-Migrants",4514,10113,136362
+47,087,47,141,TN,"Putnam County",134,299,3976
+47,087,47,159,TN,"Smith County",21,48,582
+47,087,47,133,TN,"Overton County",20,45,485
+47,087,47,037,TN,"Davidson County",19,34,857
+47,087,47,027,TN,"Clay County",13,26,237
+47,087,47,111,TN,"Macon County",12,29,146
+47,087,58,000,SS,"Other Flows - Same State",59,136,1510
+47,087,59,000,DS,"Other Flows - Diff State",128,272,3855
+47,089,96,000,TN,"Jefferson Count Tot Mig-US & For",1900,3956,53722
+47,089,97,000,TN,"Jefferson Count Tot Mig-US",1900,3956,53722
+47,089,97,001,TN,"Jefferson Count Tot Mig-Same St",1305,2704,35259
+47,089,97,003,TN,"Jefferson Count Tot Mig-Diff St",595,1252,18463
+47,089,47,089,TN,"Jefferson Count Non-Migrants",15691,34898,562055
+47,089,47,063,TN,"Hamblen County",326,678,8476
+47,089,47,155,TN,"Sevier County",314,643,7822
+47,089,47,093,TN,"Knox County",304,653,8620
+47,089,47,029,TN,"Cocke County",91,193,2198
+47,089,47,057,TN,"Grainger County",48,100,1132
+47,089,47,009,TN,"Blount County",35,67,1044
+47,089,47,059,TN,"Greene County",25,52,960
+47,089,47,073,TN,"Hawkins County",20,44,543
+47,089,47,163,TN,"Sullivan County",14,35,374
+47,089,21,195,KY,"Pike County",12,25,307
+47,089,47,173,TN,"Union County",11,21,128
+47,089,47,157,TN,"Shelby County",10,15,837
+47,089,58,000,SS,"Other Flows - Same State",107,203,3124
+47,089,59,000,DS,"Other Flows - Diff State",583,1227,18156
+47,089,59,001,DS,"Other Flows - Northeast",47,95,1464
+47,089,59,003,DS,"Other Flows - Midwest",131,271,4231
+47,089,59,005,DS,"Other Flows - South",346,736,10679
+47,089,59,007,DS,"Other Flows - West",59,125,1782
+47,091,96,000,TN,"Johnson County Tot Mig-US & For",279,581,8796
+47,091,97,000,TN,"Johnson County Tot Mig-US",279,581,8796
+47,091,97,001,TN,"Johnson County Tot Mig-Same St",67,141,1596
+47,091,97,003,TN,"Johnson County Tot Mig-Diff St",212,440,7199
+47,091,47,091,TN,"Johnson County Non-Migrants",5049,10837,147477
+47,091,37,189,NC,"Watauga County",27,61,850
+47,091,47,019,TN,"Carter County",25,54,477
+47,091,47,179,TN,"Washington County",14,32,530
+47,091,51,191,VA,"Washington County",13,29,410
+47,091,37,009,NC,"Ashe County",11,24,164
+47,091,58,000,SS,"Other Flows - Same State",28,55,589
+47,091,59,000,DS,"Other Flows - Diff State",161,326,5775
+47,093,96,000,TN,"Knox County Tot Mig-US & For",9955,18232,380912
+47,093,97,000,TN,"Knox County Tot Mig-US",9710,17921,378513
+47,093,97,001,TN,"Knox County Tot Mig-Same St",4959,8708,159085
+47,093,97,003,TN,"Knox County Tot Mig-Diff St",4751,9213,219429
+47,093,98,000,TN,"Knox County Tot Mig-Foreign",245,311,2399
+47,093,47,093,TN,"Knox County Non-Migrants",128632,274106,6265347
+47,093,47,001,TN,"Anderson County",753,1455,28078
+47,093,47,009,TN,"Blount County",671,1161,19817
+47,093,47,155,TN,"Sevier County",378,665,12547
+47,093,47,089,TN,"Jefferson County",306,564,8339
+47,093,47,105,TN,"Loudon County",279,515,9869
+47,093,47,173,TN,"Union County",256,539,6638
+47,093,47,037,TN,"Davidson County",243,376,8008
+47,093,47,065,TN,"Hamilton County",205,334,7007
+47,093,47,157,TN,"Shelby County",181,282,5720
+47,093,47,145,TN,"Roane County",173,306,4848
+47,093,47,179,TN,"Washington County",139,221,4969
+47,093,47,163,TN,"Sullivan County",137,203,4074
+47,093,47,063,TN,"Hamblen County",120,210,4119
+47,093,47,013,TN,"Campbell County",93,163,2866
+47,093,47,149,TN,"Rutherford County",70,129,2876
+47,093,47,123,TN,"Monroe County",65,119,2080
+47,093,47,057,TN,"Grainger County",64,112,1643
+47,093,47,129,TN,"Morgan County",58,103,1795
+47,093,47,107,TN,"Mcminn County",56,90,1741
+47,093,48,201,TX,"Harris County",55,99,3042
+47,093,13,121,GA,"Fulton County",53,105,3971
+47,093,12,011,FL,"Broward County",50,97,2129
+47,093,47,011,TN,"Bradley County",49,68,1488
+47,093,12,057,FL,"Hillsborough County",48,92,2102
+47,093,47,059,TN,"Greene County",47,76,2017
+47,093,47,187,TN,"Williamson County",47,77,1882
+47,093,13,067,GA,"Cobb County",46,91,2448
+47,093,17,031,IL,"Cook County",46,75,2821
+47,093,13,135,GA,"Gwinnett County",45,92,2072
+47,093,37,021,NC,"Buncombe County",45,83,1453
+47,093,04,013,AZ,"Maricopa County",42,97,1655
+47,093,47,025,TN,"Claiborne County",42,69,1158
+47,093,12,103,FL,"Pinellas County",41,75,973
+47,093,12,095,FL,"Orange County",40,71,1827
+47,093,13,089,GA,"De Kalb County",40,66,1686
+47,093,37,119,NC,"Mecklenburg County",40,82,2371
+47,093,06,037,CA,"Los Angeles County",38,60,1066
+47,093,47,029,TN,"Cocke County",37,69,931
+47,093,47,141,TN,"Putnam County",36,62,720
+47,093,57,005,FR,"Foreign - APO/FPO ZIPs",35,66,1056
+47,093,21,067,KY,"Fayette County",34,57,1121
+47,093,47,035,TN,"Cumberland County",33,59,1026
+47,093,47,073,TN,"Hawkins County",33,67,1305
+47,093,47,125,TN,"Montgomery County",32,51,810
+47,093,01,073,AL,"Jefferson County",31,52,1462
+47,093,47,165,TN,"Sumner County",31,44,1000
+47,093,37,183,NC,"Wake County",30,62,1652
+47,093,45,045,SC,"Greenville County",30,57,1496
+47,093,48,113,TX,"Dallas County",30,64,1566
+47,093,06,059,CA,"Orange County",29,52,1429
+47,093,39,049,OH,"Franklin County",29,46,815
+47,093,12,025,FL,"Dade County",28,57,1049
+47,093,12,031,FL,"Duval County",28,54,1242
+47,093,39,061,OH,"Hamilton County",28,50,1520
+47,093,45,019,SC,"Charleston County",28,48,1040
+47,093,21,111,KY,"Jefferson County",27,45,1291
+47,093,37,067,NC,"Forsyth County",27,38,1018
+47,093,47,189,TN,"Wilson County",27,48,1119
+47,093,01,097,AL,"Mobile County",26,53,2165
+47,093,06,073,CA,"San Diego County",25,52,1079
+47,093,32,003,NV,"Clark County",24,42,996
+47,093,39,113,OH,"Montgomery County",24,43,1239
+47,093,12,117,FL,"Seminole County",23,51,1161
+47,093,47,019,TN,"Carter County",23,30,606
+47,093,48,439,TX,"Tarrant County",23,45,1057
+47,093,12,099,FL,"Palm Beach County",22,45,795
+47,093,26,163,MI,"Wayne County",21,39,616
+47,093,42,003,PA,"Allegheny County",21,25,1048
+47,093,45,079,SC,"Richland County",21,41,1102
+47,093,12,009,FL,"Brevard County",20,35,601
+47,093,18,097,IN,"Marion County",20,40,802
+47,093,26,125,MI,"Oakland County",20,40,1030
+47,093,39,035,OH,"Cuyahoga County",20,37,719
+47,093,51,059,VA,"Fairfax County",20,31,1210
+47,093,12,127,FL,"Volusia County",19,26,461
+47,093,21,013,KY,"Bell County",19,38,372
+47,093,22,033,LA,"East Baton Rouge Par",19,38,624
+47,093,45,003,SC,"Aiken County",19,49,1137
+47,093,51,810,VA,"Virginia Beach",19,37,941
+47,093,26,099,MI,"Macomb County",18,37,1015
+47,093,53,033,WA,"King County",18,29,662
+47,093,17,043,IL,"Du Page County",17,35,1181
+47,093,39,017,OH,"Butler County",17,29,446
+47,093,45,051,SC,"Horry County",17,29,426
+47,093,47,113,TN,"Madison County",17,28,729
+47,093,47,119,TN,"Maury County",17,29,541
+47,093,04,019,AZ,"Pima County",16,29,584
+47,093,05,119,AR,"Pulaski County",16,35,667
+47,093,08,041,CO,"El Paso County",16,33,443
+47,093,12,033,FL,"Escambia County",16,39,607
+47,093,12,071,FL,"Lee County",16,27,609
+47,093,12,083,FL,"Marion County",16,36,843
+47,093,12,097,FL,"Osceola County",16,32,439
+47,093,36,029,NY,"Erie County",16,33,452
+47,093,37,089,NC,"Henderson County",16,21,456
+47,093,39,095,OH,"Lucas County",16,36,554
+47,093,01,089,AL,"Madison County",15,30,781
+47,093,12,001,FL,"Alachua County",15,28,546
+47,093,12,091,FL,"Okaloosa County",15,26,484
+47,093,12,105,FL,"Polk County",15,33,519
+47,093,13,051,GA,"Chatham County",15,29,427
+47,093,37,051,NC,"Cumberland County",15,35,597
+47,093,47,151,TN,"Scott County",15,25,267
+47,093,48,029,TX,"Bexar County",15,34,785
+47,093,51,153,VA,"Prince William Count",15,21,652
+47,093,51,195,VA,"Wise County",15,18,395
+47,093,01,125,AL,"Tuscaloosa County",14,22,392
+47,093,08,059,CO,"Jefferson County",14,29,1042
+47,093,09,001,CT,"Fairfield County",14,22,958
+47,093,45,083,SC,"Spartanburg County",14,27,737
+47,093,13,245,GA,"Richmond County",13,25,631
+47,093,15,003,HI,"Honolulu County",13,26,744
+47,093,37,081,NC,"Guilford County",13,22,550
+47,093,45,063,SC,"Lexington County",13,34,977
+47,093,47,143,TN,"Rhea County",13,21,210
+47,093,51,191,VA,"Washington County",13,19,368
+47,093,12,073,FL,"Leon County",12,19,512
+47,093,12,101,FL,"Pasco County",12,23,321
+47,093,13,063,GA,"Clayton County",12,24,316
+47,093,29,189,MO,"St Louis County",12,22,583
+47,093,45,013,SC,"Beaufort County",12,18,299
+47,093,47,031,TN,"Coffee County",12,17,451
+47,093,47,051,TN,"Franklin County",12,14,272
+47,093,49,035,UT,"Salt Lake County",12,24,597
+47,093,06,067,CA,"Sacramento County",11,21,343
+47,093,06,071,CA,"San Bernardino Count",11,16,239
+47,093,12,005,FL,"Bay County",11,21,464
+47,093,13,215,GA,"Muscogee County",11,28,502
+47,093,18,163,IN,"Vanderburgh County",11,24,391
+47,093,36,055,NY,"Monroe County",11,23,394
+47,093,36,103,NY,"Suffolk County",11,21,765
+47,093,37,071,NC,"Gaston County",11,24,563
+47,093,39,025,OH,"Clermont County",11,22,420
+47,093,40,109,OK,"Oklahoma County",11,18,233
+47,093,40,143,OK,"Tulsa County",11,26,585
+47,093,42,091,PA,"Montgomery County",11,20,639
+47,093,48,085,TX,"Collin County",11,20,1187
+47,093,53,005,WA,"Benton County",11,24,1757
+47,093,01,117,AL,"Shelby County",10,17,879
+47,093,06,001,CA,"Alameda County",10,11,200
+47,093,08,031,CO,"Denver County",10,14,353
+47,093,12,081,FL,"Manatee County",10,19,311
+47,093,17,089,IL,"Kane County",10,27,1128
+47,093,18,003,IN,"Allen County",10,24,729
+47,093,18,141,IN,"St Joseph County",10,23,373
+47,093,21,095,KY,"Harlan County",10,18,1251
+47,093,21,227,KY,"Warren County",10,14,174
+47,093,21,235,KY,"Whitley County",10,19,463
+47,093,22,103,LA,"St Tammany Parish",10,24,520
+47,093,24,005,MD,"Baltimore County",10,22,556
+47,093,24,031,MD,"Montgomery County",10,18,550
+47,093,36,061,NY,"New York County",10,16,787
+47,093,47,147,TN,"Robertson County",10,23,408
+47,093,47,177,TN,"Warren County",10,20,223
+47,093,54,039,WV,"Kanawha County",10,11,168
+47,093,58,000,SS,"Other Flows - Same State",169,264,4888
+47,093,59,000,DS,"Other Flows - Diff State",2439,4864,113438
+47,093,59,001,DS,"Other Flows - Northeast",301,559,14596
+47,093,59,003,DS,"Other Flows - Midwest",609,1229,28329
+47,093,59,005,DS,"Other Flows - South",1267,2551,53806
+47,093,59,007,DS,"Other Flows - West",262,525,16708
+47,093,57,009,FR,"Foreign - Other flows",210,245,1343
+47,095,96,000,TN,"Lake County Tot Mig-US & For",144,313,3072
+47,095,97,000,TN,"Lake County Tot Mig-US",144,313,3072
+47,095,97,001,TN,"Lake County Tot Mig-Same St",92,190,1799
+47,095,97,003,TN,"Lake County Tot Mig-Diff St",52,123,1273
+47,095,47,095,TN,"Lake County Non-Migrants",1908,4172,52567
+47,095,47,045,TN,"Dyer County",35,75,687
+47,095,47,131,TN,"Obion County",32,71,674
+47,095,58,000,SS,"Other Flows - Same State",25,44,438
+47,095,59,000,DS,"Other Flows - Diff State",52,123,1273
+47,097,96,000,TN,"Lauderdale Coun Tot Mig-US & For",468,987,11808
+47,097,97,000,TN,"Lauderdale Coun Tot Mig-US",468,987,11808
+47,097,97,001,TN,"Lauderdale Coun Tot Mig-Same St",309,649,7397
+47,097,97,003,TN,"Lauderdale Coun Tot Mig-Diff St",159,338,4411
+47,097,47,097,TN,"Lauderdale Coun Non-Migrants",8011,18137,235107
+47,097,47,167,TN,"Tipton County",76,172,1740
+47,097,47,045,TN,"Dyer County",65,122,1483
+47,097,47,157,TN,"Shelby County",46,98,1372
+47,097,47,075,TN,"Haywood County",31,70,732
+47,097,47,033,TN,"Crockett County",29,64,579
+47,097,58,000,SS,"Other Flows - Same State",62,123,1492
+47,097,59,000,DS,"Other Flows - Diff State",159,338,4411
+47,099,96,000,TN,"Lawrence County Tot Mig-US & For",617,1356,17120
+47,099,97,000,TN,"Lawrence County Tot Mig-US",617,1356,17120
+47,099,97,001,TN,"Lawrence County Tot Mig-Same St",329,730,8552
+47,099,97,003,TN,"Lawrence County Tot Mig-Diff St",288,626,8568
+47,099,47,099,TN,"Lawrence County Non-Migrants",13202,30505,421308
+47,099,47,055,TN,"Giles County",74,167,1675
+47,099,47,119,TN,"Maury County",70,156,1640
+47,099,01,077,AL,"Lauderdale County",48,102,1109
+47,099,47,181,TN,"Wayne County",43,100,842
+47,099,47,037,TN,"Davidson County",27,47,785
+47,099,47,101,TN,"Lewis County",26,54,711
+47,099,47,149,TN,"Rutherford County",15,35,486
+47,099,58,000,SS,"Other Flows - Same State",74,171,2414
+47,099,59,000,DS,"Other Flows - Diff State",240,524,7459
+47,101,96,000,TN,"Lewis County Tot Mig-US & For",227,514,6453
+47,101,97,000,TN,"Lewis County Tot Mig-US",227,514,6453
+47,101,97,001,TN,"Lewis County Tot Mig-Same St",156,369,4583
+47,101,97,003,TN,"Lewis County Tot Mig-Diff St",71,145,1870
+47,101,47,101,TN,"Lewis County Non-Migrants",3303,7834,101315
+47,101,47,119,TN,"Maury County",34,95,1254
+47,101,47,099,TN,"Lawrence County",19,47,451
+47,101,47,081,TN,"Hickman County",17,40,466
+47,101,47,037,TN,"Davidson County",16,39,589
+47,101,47,135,TN,"Perry County",11,18,182
+47,101,58,000,SS,"Other Flows - Same State",59,130,1642
+47,101,59,000,DS,"Other Flows - Diff State",71,145,1870
+47,103,96,000,TN,"Lincoln County Tot Mig-US & For",573,1244,16794
+47,103,97,000,TN,"Lincoln County Tot Mig-US",573,1244,16794
+47,103,97,001,TN,"Lincoln County Tot Mig-Same St",232,488,5837
+47,103,97,003,TN,"Lincoln County Tot Mig-Diff St",341,756,10957
+47,103,47,103,TN,"Lincoln County Non-Migrants",10240,23048,375018
+47,103,01,089,AL,"Madison County",106,245,3346
+47,103,47,117,TN,"Marshall County",46,104,1217
+47,103,47,051,TN,"Franklin County",32,73,844
+47,103,47,055,TN,"Giles County",29,54,639
+47,103,47,003,TN,"Bedford County",27,58,504
+47,103,01,083,AL,"Limestone County",22,47,687
+47,103,47,149,TN,"Rutherford County",15,27,344
+47,103,47,037,TN,"Davidson County",12,19,273
+47,103,47,031,TN,"Coffee County",11,23,363
+47,103,58,000,SS,"Other Flows - Same State",60,130,1653
+47,103,59,000,DS,"Other Flows - Diff State",213,464,6925
+47,105,96,000,TN,"Loudon County Tot Mig-US & For",1216,2538,73602
+47,105,97,000,TN,"Loudon County Tot Mig-US",1216,2538,73602
+47,105,97,001,TN,"Loudon County Tot Mig-Same St",713,1466,28882
+47,105,97,003,TN,"Loudon County Tot Mig-Diff St",503,1072,44720
+47,105,47,105,TN,"Loudon County Non-Migrants",13689,30183,608987
+47,105,47,093,TN,"Knox County",293,604,15638
+47,105,47,009,TN,"Blount County",91,193,2919
+47,105,47,123,TN,"Monroe County",76,154,1702
+47,105,47,145,TN,"Roane County",60,135,1532
+47,105,47,001,TN,"Anderson County",37,68,1756
+47,105,47,107,TN,"Mcminn County",25,50,567
+47,105,26,125,MI,"Oakland County",21,44,4390
+47,105,26,163,MI,"Wayne County",17,37,1155
+47,105,47,037,TN,"Davidson County",14,22,334
+47,105,47,129,TN,"Morgan County",12,34,303
+47,105,47,065,TN,"Hamilton County",11,20,430
+47,105,47,157,TN,"Shelby County",11,26,596
+47,105,17,031,IL,"Cook County",10,24,802
+47,105,58,000,SS,"Other Flows - Same State",83,160,3105
+47,105,59,000,DS,"Other Flows - Diff State",455,967,38373
+47,105,59,001,DS,"Other Flows - Northeast",43,100,3307
+47,105,59,003,DS,"Other Flows - Midwest",139,277,14499
+47,105,59,005,DS,"Other Flows - South",233,495,17530
+47,105,59,007,DS,"Other Flows - West",40,95,3036
+47,107,96,000,TN,"Mcminn County Tot Mig-US & For",1084,2325,32892
+47,107,97,000,TN,"Mcminn County Tot Mig-US",1084,2325,32892
+47,107,97,001,TN,"Mcminn County Tot Mig-Same St",663,1446,20352
+47,107,97,003,TN,"Mcminn County Tot Mig-Diff St",421,879,12540
+47,107,47,107,TN,"Mcminn County Non-Migrants",16532,37182,603284
+47,107,47,011,TN,"Bradley County",161,349,4410
+47,107,47,123,TN,"Monroe County",146,330,3900
+47,107,47,121,TN,"Meigs County",74,148,1677
+47,107,47,065,TN,"Hamilton County",58,121,1724
+47,107,47,093,TN,"Knox County",40,86,1309
+47,107,47,139,TN,"Polk County",37,78,1053
+47,107,47,009,TN,"Blount County",29,72,2564
+47,107,47,105,TN,"Loudon County",22,47,544
+47,107,47,143,TN,"Rhea County",13,34,244
+47,107,47,145,TN,"Roane County",12,21,335
+47,107,13,313,GA,"Whitfield County",11,24,256
+47,107,58,000,SS,"Other Flows - Same State",71,160,2592
+47,107,59,000,DS,"Other Flows - Diff State",410,855,12284
+47,107,59,001,DS,"Other Flows - Northeast",36,66,975
+47,107,59,003,DS,"Other Flows - Midwest",64,148,2481
+47,107,59,005,DS,"Other Flows - South",265,544,7644
+47,107,59,007,DS,"Other Flows - West",45,97,1185
+47,109,96,000,TN,"Mcnairy County Tot Mig-US & For",535,1147,13778
+47,109,97,000,TN,"Mcnairy County Tot Mig-US",535,1147,13778
+47,109,97,001,TN,"Mcnairy County Tot Mig-Same St",300,628,7367
+47,109,97,003,TN,"Mcnairy County Tot Mig-Diff St",235,519,6412
+47,109,47,109,TN,"Mcnairy County Non-Migrants",7671,17544,248114
+47,109,47,071,TN,"Hardin County",96,205,2133
+47,109,28,003,MS,"Alcorn County",55,102,1249
+47,109,47,023,TN,"Chester County",41,98,732
+47,109,47,113,TN,"Madison County",35,72,1050
+47,109,47,157,TN,"Shelby County",31,49,917
+47,109,47,069,TN,"Hardeman County",25,60,646
+47,109,58,000,SS,"Other Flows - Same State",72,144,1889
+47,109,59,000,DS,"Other Flows - Diff State",180,417,5162
+47,111,96,000,TN,"Macon County Tot Mig-US & For",433,960,11260
+47,111,97,000,TN,"Macon County Tot Mig-US",433,960,11260
+47,111,97,001,TN,"Macon County Tot Mig-Same St",286,644,7679
+47,111,97,003,TN,"Macon County Tot Mig-Diff St",147,316,3580
+47,111,47,111,TN,"Macon County Non-Migrants",6549,15320,206760
+47,111,47,165,TN,"Sumner County",125,297,3033
+47,111,47,037,TN,"Davidson County",38,79,1112
+47,111,47,159,TN,"Smith County",19,44,535
+47,111,21,003,KY,"Allen County",18,43,375
+47,111,47,027,TN,"Clay County",17,32,485
+47,111,47,189,TN,"Wilson County",16,33,381
+47,111,47,147,TN,"Robertson County",15,42,298
+47,111,47,169,TN,"Trousdale County",15,37,455
+47,111,58,000,SS,"Other Flows - Same State",41,80,1381
+47,111,59,000,DS,"Other Flows - Diff State",129,273,3205
+47,113,96,000,TN,"Madison County Tot Mig-US & For",2207,4375,75638
+47,113,97,000,TN,"Madison County Tot Mig-US",2191,4345,75128
+47,113,97,001,TN,"Madison County Tot Mig-Same St",1365,2654,40652
+47,113,97,003,TN,"Madison County Tot Mig-Diff St",826,1691,34476
+47,113,98,000,TN,"Madison County Tot Mig-Foreign",16,30,510
+47,113,47,113,TN,"Madison County Non-Migrants",27888,61609,1178801
+47,113,47,053,TN,"Gibson County",211,437,6406
+47,113,47,157,TN,"Shelby County",174,347,7601
+47,113,47,023,TN,"Chester County",135,261,3214
+47,113,47,033,TN,"Crockett County",99,181,2730
+47,113,47,017,TN,"Carroll County",94,180,2441
+47,113,47,069,TN,"Hardeman County",90,190,2100
+47,113,47,077,TN,"Henderson County",81,152,1924
+47,113,47,075,TN,"Haywood County",75,175,1981
+47,113,47,037,TN,"Davidson County",57,96,1340
+47,113,47,045,TN,"Dyer County",39,62,1268
+47,113,47,109,TN,"Mcnairy County",35,63,852
+47,113,47,149,TN,"Rutherford County",25,40,1003
+47,113,47,071,TN,"Hardin County",22,50,584
+47,113,47,097,TN,"Lauderdale County",22,43,485
+47,113,47,183,TN,"Weakley County",22,40,800
+47,113,47,079,TN,"Henry County",21,31,496
+47,113,17,031,IL,"Cook County",16,33,359
+47,113,47,039,TN,"Decatur County",14,23,291
+47,113,47,131,TN,"Obion County",14,24,370
+47,113,47,005,TN,"Benton County",13,19,352
+47,113,28,033,MS,"De Soto County",11,15,287
+47,113,29,189,MO,"St Louis County",11,17,681
+47,113,47,047,TN,"Fayette County",11,26,370
+47,113,06,037,CA,"Los Angeles County",10,25,357
+47,113,26,163,MI,"Wayne County",10,19,255
+47,113,47,065,TN,"Hamilton County",10,24,387
+47,113,47,093,TN,"Knox County",10,16,420
+47,113,58,000,SS,"Other Flows - Same State",91,174,3233
+47,113,59,000,DS,"Other Flows - Diff State",768,1582,32536
+47,113,59,001,DS,"Other Flows - Northeast",45,91,2370
+47,113,59,003,DS,"Other Flows - Midwest",210,441,7945
+47,113,59,005,DS,"Other Flows - South",448,920,19458
+47,113,59,007,DS,"Other Flows - West",65,130,2763
+47,113,57,009,FR,"Foreign - Other flows",16,30,510
+47,115,96,000,TN,"Marion County Tot Mig-US & For",512,1055,14431
+47,115,97,000,TN,"Marion County Tot Mig-US",512,1055,14431
+47,115,97,001,TN,"Marion County Tot Mig-Same St",245,497,6480
+47,115,97,003,TN,"Marion County Tot Mig-Diff St",267,558,7951
+47,115,47,115,TN,"Marion County Non-Migrants",9130,20561,310196
+47,115,47,065,TN,"Hamilton County",147,302,4057
+47,115,01,071,AL,"Jackson County",54,114,1273
+47,115,47,061,TN,"Grundy County",18,32,376
+47,115,47,153,TN,"Sequatchie County",18,42,380
+47,115,13,083,GA,"Dade County",12,26,309
+47,115,13,047,GA,"Catoosa County",10,22,229
+47,115,58,000,SS,"Other Flows - Same State",62,121,1668
+47,115,59,000,DS,"Other Flows - Diff State",191,396,6139
+47,115,59,001,DS,"Other Flows - Northeast",15,34,701
+47,115,59,003,DS,"Other Flows - Midwest",23,55,776
+47,115,59,005,DS,"Other Flows - South",135,270,4289
+47,115,59,007,DS,"Other Flows - West",18,37,373
+47,117,96,000,TN,"Marshall County Tot Mig-US & For",741,1609,23916
+47,117,97,000,TN,"Marshall County Tot Mig-US",741,1609,23916
+47,117,97,001,TN,"Marshall County Tot Mig-Same St",520,1122,16875
+47,117,97,003,TN,"Marshall County Tot Mig-Diff St",221,487,7041
+47,117,47,117,TN,"Marshall County Non-Migrants",9291,20950,369871
+47,117,47,119,TN,"Maury County",157,328,4606
+47,117,47,037,TN,"Davidson County",77,166,2848
+47,117,47,187,TN,"Williamson County",70,149,2928
+47,117,47,003,TN,"Bedford County",46,111,1316
+47,117,47,149,TN,"Rutherford County",36,80,1096
+47,117,47,103,TN,"Lincoln County",33,76,842
+47,117,47,055,TN,"Giles County",25,65,824
+47,117,58,000,SS,"Other Flows - Same State",76,147,2416
+47,117,59,000,DS,"Other Flows - Diff State",221,487,7041
+47,117,59,001,DS,"Other Flows - Northeast",16,45,573
+47,117,59,003,DS,"Other Flows - Midwest",55,111,1658
+47,117,59,005,DS,"Other Flows - South",126,283,3864
+47,117,59,007,DS,"Other Flows - West",24,48,947
+47,119,96,000,TN,"Maury County Tot Mig-US & For",1857,3978,68509
+47,119,97,000,TN,"Maury County Tot Mig-US",1857,3978,68509
+47,119,97,001,TN,"Maury County Tot Mig-Same St",1179,2453,41275
+47,119,97,003,TN,"Maury County Tot Mig-Diff St",678,1525,27235
+47,119,47,119,TN,"Maury County Non-Migrants",24434,56193,1074926
+47,119,47,187,TN,"Williamson County",280,611,11696
+47,119,47,037,TN,"Davidson County",259,512,9560
+47,119,47,117,TN,"Marshall County",137,278,4635
+47,119,47,099,TN,"Lawrence County",83,168,2015
+47,119,47,055,TN,"Giles County",67,144,2009
+47,119,47,081,TN,"Hickman County",47,108,1263
+47,119,47,149,TN,"Rutherford County",45,89,1688
+47,119,47,101,TN,"Lewis County",37,77,949
+47,119,47,165,TN,"Sumner County",20,43,693
+47,119,26,163,MI,"Wayne County",19,39,595
+47,119,47,157,TN,"Shelby County",19,44,752
+47,119,17,031,IL,"Cook County",17,49,709
+47,119,26,125,MI,"Oakland County",14,31,911
+47,119,47,003,TN,"Bedford County",14,28,361
+47,119,47,065,TN,"Hamilton County",13,32,642
+47,119,47,093,TN,"Knox County",12,28,333
+47,119,47,189,TN,"Wilson County",12,20,376
+47,119,47,141,TN,"Putnam County",11,23,325
+47,119,01,089,AL,"Madison County",10,15,264
+47,119,47,043,TN,"Dickson County",10,17,518
+47,119,47,181,TN,"Wayne County",10,19,260
+47,119,58,000,SS,"Other Flows - Same State",103,212,3199
+47,119,59,000,DS,"Other Flows - Diff State",618,1391,24756
+47,119,59,001,DS,"Other Flows - Northeast",40,91,1082
+47,119,59,003,DS,"Other Flows - Midwest",154,348,6854
+47,119,59,005,DS,"Other Flows - South",347,773,13767
+47,119,59,007,DS,"Other Flows - West",77,179,3053
+47,121,96,000,TN,"Meigs County Tot Mig-US & For",262,605,9795
+47,121,97,000,TN,"Meigs County Tot Mig-US",262,605,9795
+47,121,97,001,TN,"Meigs County Tot Mig-Same St",196,451,7975
+47,121,97,003,TN,"Meigs County Tot Mig-Diff St",66,154,1821
+47,121,47,121,TN,"Meigs County Non-Migrants",2843,6354,94183
+47,121,47,107,TN,"Mcminn County",57,129,3738
+47,121,47,011,TN,"Bradley County",42,97,1190
+47,121,47,065,TN,"Hamilton County",28,62,824
+47,121,47,123,TN,"Monroe County",15,35,347
+47,121,47,145,TN,"Roane County",12,27,353
+47,121,58,000,SS,"Other Flows - Same State",42,101,1522
+47,121,59,000,DS,"Other Flows - Diff State",66,154,1821
+47,123,96,000,TN,"Monroe County Tot Mig-US & For",958,2074,28628
+47,123,97,000,TN,"Monroe County Tot Mig-US",948,2057,28317
+47,123,97,001,TN,"Monroe County Tot Mig-Same St",545,1160,13996
+47,123,97,003,TN,"Monroe County Tot Mig-Diff St",403,897,14320
+47,123,98,000,TN,"Monroe County Tot Mig-Foreign",10,17,312
+47,123,47,123,TN,"Monroe County Non-Migrants",12061,27518,391913
+47,123,47,105,TN,"Loudon County",146,335,3612
+47,123,47,107,TN,"Mcminn County",100,201,2450
+47,123,47,009,TN,"Blount County",79,169,2238
+47,123,47,093,TN,"Knox County",59,120,1843
+47,123,47,145,TN,"Roane County",22,52,455
+47,123,47,011,TN,"Bradley County",19,38,444
+47,123,47,121,TN,"Meigs County",13,30,216
+47,123,47,065,TN,"Hamilton County",11,19,241
+47,123,47,001,TN,"Anderson County",10,21,236
+47,123,58,000,SS,"Other Flows - Same State",86,175,2261
+47,123,59,000,DS,"Other Flows - Diff State",403,897,14320
+47,123,59,001,DS,"Other Flows - Northeast",20,37,1648
+47,123,59,003,DS,"Other Flows - Midwest",107,225,4206
+47,123,59,005,DS,"Other Flows - South",244,566,7565
+47,123,59,007,DS,"Other Flows - West",32,69,902
+47,123,57,009,FR,"Foreign - Other flows",10,17,312
+47,125,96,000,TN,"Montgomery Coun Tot Mig-US & For",6309,14670,180115
+47,125,97,000,TN,"Montgomery Coun Tot Mig-US",5704,13066,162885
+47,125,97,001,TN,"Montgomery Coun Tot Mig-Same St",967,1982,29981
+47,125,97,003,TN,"Montgomery Coun Tot Mig-Diff St",4737,11084,132904
+47,125,98,000,TN,"Montgomery Coun Tot Mig-Foreign",605,1604,17230
+47,125,47,125,TN,"Montgomery Coun Non-Migrants",39773,93360,1557628
+47,125,21,047,KY,"Christian County",1129,2477,26816
+47,125,57,005,FR,"Foreign - APO/FPO ZIPs",591,1563,16452
+47,125,47,037,TN,"Davidson County",203,383,6342
+47,125,15,003,HI,"Honolulu County",132,384,4335
+47,125,37,051,NC,"Cumberland County",128,352,4315
+47,125,47,021,TN,"Cheatham County",104,223,2801
+47,125,47,147,TN,"Robertson County",81,168,2213
+47,125,47,161,TN,"Stewart County",81,152,2437
+47,125,13,215,GA,"Muscogee County",77,195,2638
+47,125,21,219,KY,"Todd County",68,163,1923
+47,125,47,083,TN,"Houston County",61,129,2096
+47,125,02,090,AK,"Fairbanks North Star",56,158,1756
+47,125,47,043,TN,"Dickson County",51,105,1505
+47,125,53,053,WA,"Pierce County",47,142,1540
+47,125,48,027,TX,"Bell County",45,122,1214
+47,125,01,045,AL,"Dale County",44,118,1398
+47,125,48,029,TX,"Bexar County",42,106,1271
+47,125,47,165,TN,"Sumner County",39,85,1072
+47,125,47,157,TN,"Shelby County",38,74,1284
+47,125,20,103,KS,"Leavenworth County",37,127,2317
+47,125,22,115,LA,"Vernon Parish",35,109,1279
+47,125,01,031,AL,"Coffee County",33,78,1437
+47,125,08,041,CO,"El Paso County",33,79,879
+47,125,47,149,TN,"Rutherford County",32,73,1170
+47,125,48,141,TX,"El Paso County",32,83,853
+47,125,17,031,IL,"Cook County",29,55,850
+47,125,13,179,GA,"Liberty County",27,76,549
+47,125,21,093,KY,"Hardin County",27,88,1314
+47,125,36,045,NY,"Jefferson County",26,80,777
+47,125,47,187,TN,"Williamson County",26,60,1086
+47,125,40,031,OK,"Comanche County",25,79,670
+47,125,51,700,VA,"Newport News",25,73,790
+47,125,13,051,GA,"Chatham County",24,62,920
+47,125,21,111,KY,"Jefferson County",24,54,726
+47,125,47,093,TN,"Knox County",24,47,611
+47,125,06,037,CA,"Los Angeles County",23,39,466
+47,125,06,071,CA,"San Bernardino Count",23,66,645
+47,125,06,073,CA,"San Diego County",23,55,571
+47,125,36,071,NY,"Orange County",23,60,701
+47,125,04,013,AZ,"Maricopa County",22,59,726
+47,125,26,163,MI,"Wayne County",22,49,700
+47,125,48,439,TX,"Tarrant County",22,55,630
+47,125,02,020,AK,"Anchorage Borough",21,59,587
+47,125,12,031,FL,"Duval County",21,39,640
+47,125,13,245,GA,"Richmond County",21,60,523
+47,125,21,227,KY,"Warren County",21,45,560
+47,125,29,169,MO,"Pulaski County",21,70,828
+47,125,45,079,SC,"Richland County",20,64,595
+47,125,21,221,KY,"Trigg County",19,40,584
+47,125,21,141,KY,"Logan County",18,34,389
+47,125,12,095,FL,"Orange County",16,33,406
+47,125,12,025,FL,"Dade County",15,30,517
+47,125,01,089,AL,"Madison County",14,25,495
+47,125,12,091,FL,"Okaloosa County",14,32,402
+47,125,13,067,GA,"Cobb County",14,19,511
+47,125,21,107,KY,"Hopkins County",14,41,444
+47,125,47,065,TN,"Hamilton County",14,30,442
+47,125,47,189,TN,"Wilson County",14,25,471
+47,125,51,059,VA,"Fairfax County",14,32,480
+47,125,04,003,AZ,"Cochise County",13,36,439
+47,125,12,057,FL,"Hillsborough County",13,28,319
+47,125,20,061,KS,"Geary County",13,33,448
+47,125,26,125,MI,"Oakland County",13,27,312
+47,125,48,303,TX,"Lubbock County",13,23,348
+47,125,06,065,CA,"Riverside County",12,23,294
+47,125,17,119,IL,"Madison County",12,26,349
+47,125,18,097,IN,"Marion County",12,30,210
+47,125,42,003,PA,"Allegheny County",12,20,309
+47,125,47,079,TN,"Henry County",12,25,285
+47,125,47,113,TN,"Madison County",12,34,830
+47,125,48,201,TX,"Harris County",12,37,520
+47,125,51,810,VA,"Virginia Beach",12,24,303
+47,125,01,015,AL,"Calhoun County",11,30,428
+47,125,32,003,NV,"Clark County",11,20,251
+47,125,48,113,TX,"Dallas County",11,21,210
+47,125,13,135,GA,"Gwinnett County",10,21,196
+47,125,21,035,KY,"Calloway County",10,19,228
+47,125,39,035,OH,"Cuyahoga County",10,17,280
+47,125,47,119,TN,"Maury County",10,27,268
+47,125,48,099,TX,"Coryell County",10,32,283
+47,125,58,000,SS,"Other Flows - Same State",165,342,5068
+47,125,59,000,DS,"Other Flows - Diff State",1961,4351,54207
+47,125,59,001,DS,"Other Flows - Northeast",272,586,7478
+47,125,59,003,DS,"Other Flows - Midwest",524,1177,14259
+47,125,59,005,DS,"Other Flows - South",924,2024,25785
+47,125,59,007,DS,"Other Flows - West",241,564,6686
+47,125,57,009,FR,"Foreign - Other flows",14,41,779
+47,127,96,000,TN,"Moore County Tot Mig-US & For",145,333,5271
+47,127,97,000,TN,"Moore County Tot Mig-US",145,333,5271
+47,127,97,001,TN,"Moore County Tot Mig-Same St",114,273,4370
+47,127,97,003,TN,"Moore County Tot Mig-Diff St",31,60,901
+47,127,47,127,TN,"Moore County Non-Migrants",1619,3670,61882
+47,127,47,031,TN,"Coffee County",36,84,1684
+47,127,47,051,TN,"Franklin County",28,76,868
+47,127,47,003,TN,"Bedford County",21,53,476
+47,127,58,000,SS,"Other Flows - Same State",29,60,1343
+47,127,59,000,DS,"Other Flows - Diff State",31,60,901
+47,129,96,000,TN,"Morgan County Tot Mig-US & For",515,1098,13453
+47,129,97,000,TN,"Morgan County Tot Mig-US",515,1098,13453
+47,129,97,001,TN,"Morgan County Tot Mig-Same St",361,771,8957
+47,129,97,003,TN,"Morgan County Tot Mig-Diff St",154,327,4496
+47,129,47,129,TN,"Morgan County Non-Migrants",7455,17233,229675
+47,129,47,001,TN,"Anderson County",112,232,2580
+47,129,47,145,TN,"Roane County",109,245,2978
+47,129,47,093,TN,"Knox County",47,81,1469
+47,129,47,035,TN,"Cumberland County",18,34,445
+47,129,47,151,TN,"Scott County",14,31,247
+47,129,47,049,TN,"Fentress County",10,26,209
+47,129,58,000,SS,"Other Flows - Same State",51,122,1029
+47,129,59,000,DS,"Other Flows - Diff State",154,327,4496
+47,129,59,001,DS,"Other Flows - Northeast",12,16,807
+47,129,59,003,DS,"Other Flows - Midwest",46,93,1236
+47,129,59,005,DS,"Other Flows - South",78,163,2006
+47,129,59,007,DS,"Other Flows - West",18,55,448
+47,131,96,000,TN,"Obion County Tot Mig-US & For",693,1541,20035
+47,131,97,000,TN,"Obion County Tot Mig-US",693,1541,20035
+47,131,97,001,TN,"Obion County Tot Mig-Same St",292,594,7757
+47,131,97,003,TN,"Obion County Tot Mig-Diff St",401,947,12279
+47,131,47,131,TN,"Obion County Non-Migrants",11082,24676,418115
+47,131,21,075,KY,"Fulton County",100,238,2900
+47,131,47,183,TN,"Weakley County",84,160,2597
+47,131,47,045,TN,"Dyer County",52,118,1260
+47,131,47,095,TN,"Lake County",32,75,764
+47,131,47,053,TN,"Gibson County",31,62,638
+47,131,01,055,AL,"Etowah County",29,80,1604
+47,131,21,105,KY,"Hickman County",21,41,583
+47,131,47,157,TN,"Shelby County",19,33,667
+47,131,21,083,KY,"Graves County",17,44,483
+47,131,58,000,SS,"Other Flows - Same State",74,146,1831
+47,131,59,000,DS,"Other Flows - Diff State",234,544,6708
+47,133,96,000,TN,"Overton County Tot Mig-US & For",515,1088,15583
+47,133,97,000,TN,"Overton County Tot Mig-US",515,1088,15583
+47,133,97,001,TN,"Overton County Tot Mig-Same St",341,748,8856
+47,133,97,003,TN,"Overton County Tot Mig-Diff St",174,340,6728
+47,133,47,133,TN,"Overton County Non-Migrants",7158,16186,220015
+47,133,47,141,TN,"Putnam County",144,301,4504
+47,133,47,087,TN,"Jackson County",30,76,638
+47,133,47,027,TN,"Clay County",23,51,446
+47,133,47,049,TN,"Fentress County",21,51,446
+47,133,47,035,TN,"Cumberland County",19,42,411
+47,133,47,137,TN,"Pickett County",16,35,308
+47,133,47,037,TN,"Davidson County",11,26,244
+47,133,47,185,TN,"White County",10,18,285
+47,133,58,000,SS,"Other Flows - Same State",67,148,1575
+47,133,59,000,DS,"Other Flows - Diff State",174,340,6728
+47,133,59,001,DS,"Other Flows - Northeast",10,21,447
+47,133,59,003,DS,"Other Flows - Midwest",70,133,3225
+47,133,59,005,DS,"Other Flows - South",75,146,2498
+47,133,59,007,DS,"Other Flows - West",19,40,558
+47,135,96,000,TN,"Perry County Tot Mig-US & For",166,394,4080
+47,135,97,000,TN,"Perry County Tot Mig-US",166,394,4080
+47,135,97,001,TN,"Perry County Tot Mig-Same St",98,231,2428
+47,135,97,003,TN,"Perry County Tot Mig-Diff St",68,163,1653
+47,135,47,135,TN,"Perry County Non-Migrants",2416,5520,79889
+47,135,47,101,TN,"Lewis County",15,36,421
+47,135,58,000,SS,"Other Flows - Same State",83,195,2006
+47,135,59,000,DS,"Other Flows - Diff State",68,163,1653
+47,137,96,000,TN,"Pickett County Tot Mig-US & For",82,153,2512
+47,137,97,000,TN,"Pickett County Tot Mig-US",82,153,2512
+47,137,97,001,TN,"Pickett County Tot Mig-Same St",34,58,631
+47,137,97,003,TN,"Pickett County Tot Mig-Diff St",48,95,1881
+47,137,47,137,TN,"Pickett County Non-Migrants",1335,2995,35700
+47,137,47,133,TN,"Overton County",17,31,288
+47,137,58,000,SS,"Other Flows - Same State",17,27,342
+47,137,59,000,DS,"Other Flows - Diff State",48,95,1881
+47,139,96,000,TN,"Polk County Tot Mig-US & For",472,982,13386
+47,139,97,000,TN,"Polk County Tot Mig-US",472,982,13386
+47,139,97,001,TN,"Polk County Tot Mig-Same St",251,544,6920
+47,139,97,003,TN,"Polk County Tot Mig-Diff St",221,438,6466
+47,139,47,139,TN,"Polk County Non-Migrants",5360,11761,172719
+47,139,47,011,TN,"Bradley County",165,353,4180
+47,139,13,111,GA,"Fannin County",40,74,872
+47,139,47,107,TN,"Mcminn County",37,79,1010
+47,139,37,039,NC,"Cherokee County",16,36,345
+47,139,47,065,TN,"Hamilton County",15,28,614
+47,139,13,213,GA,"Murray County",10,14,155
+47,139,58,000,SS,"Other Flows - Same State",34,84,1117
+47,139,59,000,DS,"Other Flows - Diff State",155,314,5095
+47,141,96,000,TN,"Putnam County Tot Mig-US & For",1720,3244,49488
+47,141,97,000,TN,"Putnam County Tot Mig-US",1652,3174,49183
+47,141,97,001,TN,"Putnam County Tot Mig-Same St",1025,1863,27502
+47,141,97,003,TN,"Putnam County Tot Mig-Diff St",627,1311,21681
+47,141,98,000,TN,"Putnam County Tot Mig-Foreign",68,70,305
+47,141,47,141,TN,"Putnam County Non-Migrants",18463,40488,791237
+47,141,47,133,TN,"Overton County",135,242,3176
+47,141,47,087,TN,"Jackson County",113,222,2585
+47,141,47,185,TN,"White County",89,169,2603
+47,141,47,035,TN,"Cumberland County",84,162,2431
+47,141,47,037,TN,"Davidson County",82,133,2785
+47,141,47,041,TN,"De Kalb County",44,81,1107
+47,141,47,159,TN,"Smith County",41,80,1055
+47,141,47,049,TN,"Fentress County",32,56,542
+47,141,47,093,TN,"Knox County",30,51,701
+47,141,47,149,TN,"Rutherford County",25,55,1064
+47,141,47,189,TN,"Wilson County",24,50,1069
+47,141,47,165,TN,"Sumner County",23,42,826
+47,141,47,177,TN,"Warren County",19,29,473
+47,141,47,027,TN,"Clay County",15,27,463
+47,141,47,187,TN,"Williamson County",15,20,495
+47,141,26,163,MI,"Wayne County",12,25,234
+47,141,47,065,TN,"Hamilton County",12,22,418
+47,141,47,001,TN,"Anderson County",11,13,142
+47,141,47,157,TN,"Shelby County",11,23,408
+47,141,47,009,TN,"Blount County",10,16,247
+47,141,47,011,TN,"Bradley County",10,17,182
+47,141,47,145,TN,"Roane County",10,16,198
+47,141,47,163,TN,"Sullivan County",10,20,321
+47,141,58,000,SS,"Other Flows - Same State",180,317,4211
+47,141,59,000,DS,"Other Flows - Diff State",615,1286,21447
+47,141,59,001,DS,"Other Flows - Northeast",47,91,1533
+47,141,59,003,DS,"Other Flows - Midwest",149,296,5402
+47,141,59,005,DS,"Other Flows - South",334,695,12013
+47,141,59,007,DS,"Other Flows - West",85,204,2499
+47,141,57,009,FR,"Foreign - Other flows",68,70,305
+47,143,96,000,TN,"Rhea County Tot Mig-US & For",619,1337,17515
+47,143,97,000,TN,"Rhea County Tot Mig-US",619,1337,17515
+47,143,97,001,TN,"Rhea County Tot Mig-Same St",349,802,9296
+47,143,97,003,TN,"Rhea County Tot Mig-Diff St",270,535,8218
+47,143,47,143,TN,"Rhea County Non-Migrants",9448,21188,315755
+47,143,47,065,TN,"Hamilton County",159,374,4514
+47,143,47,121,TN,"Meigs County",22,41,530
+47,143,47,145,TN,"Roane County",22,57,481
+47,143,47,011,TN,"Bradley County",19,39,553
+47,143,47,035,TN,"Cumberland County",18,43,438
+47,143,47,007,TN,"Bledsoe County",17,34,374
+47,143,47,093,TN,"Knox County",15,40,500
+47,143,58,000,SS,"Other Flows - Same State",77,174,1906
+47,143,59,000,DS,"Other Flows - Diff State",270,535,8218
+47,143,59,001,DS,"Other Flows - Northeast",20,36,778
+47,143,59,003,DS,"Other Flows - Midwest",70,132,1902
+47,143,59,005,DS,"Other Flows - South",157,320,4815
+47,143,59,007,DS,"Other Flows - West",23,47,724
+47,145,96,000,TN,"Roane County Tot Mig-US & For",983,1959,31242
+47,145,97,000,TN,"Roane County Tot Mig-US",983,1959,31242
+47,145,97,001,TN,"Roane County Tot Mig-Same St",676,1321,20692
+47,145,97,003,TN,"Roane County Tot Mig-Diff St",307,638,10550
+47,145,47,145,TN,"Roane County Non-Migrants",14385,31819,538233
+47,145,47,093,TN,"Knox County",157,310,6860
+47,145,47,001,TN,"Anderson County",118,229,3590
+47,145,47,129,TN,"Morgan County",95,197,2248
+47,145,47,105,TN,"Loudon County",71,148,1923
+47,145,47,035,TN,"Cumberland County",41,76,1072
+47,145,47,009,TN,"Blount County",21,41,782
+47,145,47,143,TN,"Rhea County",15,28,445
+47,145,47,065,TN,"Hamilton County",14,22,343
+47,145,47,107,TN,"Mcminn County",13,23,220
+47,145,47,037,TN,"Davidson County",12,16,316
+47,145,47,121,TN,"Meigs County",11,24,305
+47,145,47,149,TN,"Rutherford County",11,19,212
+47,145,47,123,TN,"Monroe County",10,22,226
+47,145,58,000,SS,"Other Flows - Same State",87,166,2151
+47,145,59,000,DS,"Other Flows - Diff State",307,638,10550
+47,145,59,001,DS,"Other Flows - Northeast",14,35,482
+47,145,59,003,DS,"Other Flows - Midwest",90,180,3027
+47,145,59,005,DS,"Other Flows - South",183,380,6102
+47,145,59,007,DS,"Other Flows - West",20,43,939
+47,147,96,000,TN,"Robertson Count Tot Mig-US & For",1996,4286,74398
+47,147,97,000,TN,"Robertson Count Tot Mig-US",1986,4255,74176
+47,147,97,001,TN,"Robertson Count Tot Mig-Same St",1484,3188,56359
+47,147,97,003,TN,"Robertson Count Tot Mig-Diff St",502,1067,17817
+47,147,98,000,TN,"Robertson Count Tot Mig-Foreign",10,31,222
+47,147,47,147,TN,"Robertson Count Non-Migrants",20108,46961,820209
+47,147,47,037,TN,"Davidson County",758,1596,29680
+47,147,47,165,TN,"Sumner County",366,835,14327
+47,147,47,021,TN,"Cheatham County",80,174,3052
+47,147,47,125,TN,"Montgomery County",72,137,1800
+47,147,47,149,TN,"Rutherford County",29,57,991
+47,147,21,141,KY,"Logan County",27,62,721
+47,147,47,189,TN,"Wilson County",25,46,949
+47,147,21,213,KY,"Simpson County",20,40,416
+47,147,21,227,KY,"Warren County",20,40,1130
+47,147,47,187,TN,"Williamson County",19,42,919
+47,147,47,093,TN,"Knox County",13,34,482
+47,147,47,043,TN,"Dickson County",12,29,337
+47,147,47,065,TN,"Hamilton County",11,19,393
+47,147,47,157,TN,"Shelby County",11,22,509
+47,147,58,000,SS,"Other Flows - Same State",88,197,2920
+47,147,59,000,DS,"Other Flows - Diff State",435,925,15552
+47,147,59,001,DS,"Other Flows - Northeast",21,44,987
+47,147,59,003,DS,"Other Flows - Midwest",115,236,4585
+47,147,59,005,DS,"Other Flows - South",239,510,8561
+47,147,59,007,DS,"Other Flows - West",60,135,1419
+47,147,57,009,FR,"Foreign - Other flows",10,31,222
+47,149,96,000,TN,"Rutherford Coun Tot Mig-US & For",6814,13251,234012
+47,149,97,000,TN,"Rutherford Coun Tot Mig-US",6762,13170,233215
+47,149,97,001,TN,"Rutherford Coun Tot Mig-Same St",4436,8266,144694
+47,149,97,003,TN,"Rutherford Coun Tot Mig-Diff St",2326,4904,88520
+47,149,98,000,TN,"Rutherford Coun Tot Mig-Foreign",52,81,797
+47,149,47,149,TN,"Rutherford Coun Non-Migrants",58051,133646,2722664
+47,149,47,037,TN,"Davidson County",2243,4337,75510
+47,149,47,189,TN,"Wilson County",234,460,7731
+47,149,47,187,TN,"Williamson County",220,404,8722
+47,149,47,003,TN,"Bedford County",165,327,5751
+47,149,47,015,TN,"Cannon County",144,280,3786
+47,149,47,031,TN,"Coffee County",118,224,3784
+47,149,47,165,TN,"Sumner County",109,197,3675
+47,149,47,157,TN,"Shelby County",87,151,3649
+47,149,47,119,TN,"Maury County",84,139,2469
+47,149,47,093,TN,"Knox County",80,134,3113
+47,149,47,177,TN,"Warren County",78,125,1918
+47,149,47,065,TN,"Hamilton County",73,109,2312
+47,149,47,125,TN,"Montgomery County",55,108,1761
+47,149,47,051,TN,"Franklin County",48,70,1339
+47,149,47,141,TN,"Putnam County",44,86,1373
+47,149,47,021,TN,"Cheatham County",43,80,1297
+47,149,47,147,TN,"Robertson County",41,73,1192
+47,149,47,113,TN,"Madison County",37,63,1068
+47,149,47,117,TN,"Marshall County",31,46,1066
+47,149,47,041,TN,"De Kalb County",30,64,1148
+47,149,21,047,KY,"Christian County",28,44,703
+47,149,04,013,AZ,"Maricopa County",26,42,1068
+47,149,21,111,KY,"Jefferson County",24,44,1063
+47,149,47,011,TN,"Bradley County",24,38,737
+47,149,47,103,TN,"Lincoln County",23,40,474
+47,149,47,055,TN,"Giles County",22,36,717
+47,149,48,201,TX,"Harris County",22,43,1075
+47,149,17,031,IL,"Cook County",21,37,520
+47,149,47,043,TN,"Dickson County",21,36,553
+47,149,01,089,AL,"Madison County",20,39,810
+47,149,21,227,KY,"Warren County",20,48,1154
+47,149,06,073,CA,"San Diego County",19,58,739
+47,149,12,095,FL,"Orange County",19,29,620
+47,149,12,103,FL,"Pinellas County",19,34,527
+47,149,13,067,GA,"Cobb County",19,43,847
+47,149,47,099,TN,"Lawrence County",19,36,638
+47,149,48,439,TX,"Tarrant County",19,45,759
+47,149,57,005,FR,"Foreign - APO/FPO ZIPs",19,40,525
+47,149,06,037,CA,"Los Angeles County",18,33,777
+47,149,12,031,FL,"Duval County",18,36,632
+47,149,12,057,FL,"Hillsborough County",18,47,724
+47,149,13,135,GA,"Gwinnett County",18,39,1004
+47,149,48,029,TX,"Bexar County",17,39,644
+47,149,47,061,TN,"Grundy County",16,19,417
+47,149,18,097,IN,"Marion County",15,35,520
+47,149,47,159,TN,"Smith County",15,23,317
+47,149,48,113,TX,"Dallas County",15,27,435
+47,149,26,163,MI,"Wayne County",14,27,466
+47,149,45,045,SC,"Greenville County",14,26,761
+47,149,12,099,FL,"Palm Beach County",13,28,414
+47,149,13,089,GA,"De Kalb County",13,23,472
+47,149,13,121,GA,"Fulton County",13,17,435
+47,149,47,053,TN,"Gibson County",13,20,342
+47,149,01,073,AL,"Jefferson County",12,21,468
+47,149,39,049,OH,"Franklin County",12,24,345
+47,149,47,001,TN,"Anderson County",12,22,287
+47,149,47,035,TN,"Cumberland County",12,21,350
+47,149,01,103,AL,"Morgan County",11,18,318
+47,149,05,119,AR,"Pulaski County",11,19,389
+47,149,12,011,FL,"Broward County",11,22,309
+47,149,26,125,MI,"Oakland County",11,22,358
+47,149,29,189,MO,"St Louis County",11,26,480
+47,149,37,133,NC,"Onslow County",11,17,226
+47,149,39,113,OH,"Montgomery County",11,24,618
+47,149,47,017,TN,"Carroll County",11,21,275
+47,149,47,085,TN,"Humphreys County",11,24,303
+47,149,47,111,TN,"Macon County",11,21,266
+47,149,47,115,TN,"Marion County",11,16,231
+47,149,47,185,TN,"White County",11,21,319
+47,149,01,097,AL,"Mobile County",10,24,300
+47,149,12,127,FL,"Volusia County",10,26,226
+47,149,47,045,TN,"Dyer County",10,16,306
+47,149,47,081,TN,"Hickman County",10,16,200
+47,149,47,163,TN,"Sullivan County",10,13,473
+47,149,47,179,TN,"Washington County",10,22,263
+47,149,58,000,SS,"Other Flows - Same State",200,328,4563
+47,149,59,000,DS,"Other Flows - Diff State",1763,3778,67317
+47,149,59,001,DS,"Other Flows - Northeast",157,297,5173
+47,149,59,003,DS,"Other Flows - Midwest",469,1003,17880
+47,149,59,005,DS,"Other Flows - South",961,2083,36422
+47,149,59,007,DS,"Other Flows - West",176,395,7841
+47,149,57,009,FR,"Foreign - Other flows",33,41,272
+47,151,96,000,TN,"Scott County Tot Mig-US & For",269,578,6659
+47,151,97,000,TN,"Scott County Tot Mig-US",269,578,6659
+47,151,97,001,TN,"Scott County Tot Mig-Same St",99,216,2327
+47,151,97,003,TN,"Scott County Tot Mig-Diff St",170,362,4332
+47,151,47,151,TN,"Scott County Non-Migrants",5991,14095,168551
+47,151,21,147,KY,"Mccreary County",48,97,861
+47,151,47,013,TN,"Campbell County",29,65,461
+47,151,47,093,TN,"Knox County",18,44,556
+47,151,47,129,TN,"Morgan County",11,19,208
+47,151,58,000,SS,"Other Flows - Same State",41,88,1103
+47,151,59,000,DS,"Other Flows - Diff State",122,265,3471
+47,153,96,000,TN,"Sequatchie Coun Tot Mig-US & For",255,541,7744
+47,153,97,000,TN,"Sequatchie Coun Tot Mig-US",255,541,7744
+47,153,97,001,TN,"Sequatchie Coun Tot Mig-Same St",170,359,4907
+47,153,97,003,TN,"Sequatchie Coun Tot Mig-Diff St",85,182,2837
+47,153,47,153,TN,"Sequatchie Coun Non-Migrants",3145,7198,99523
+47,153,47,065,TN,"Hamilton County",99,200,2944
+47,153,47,115,TN,"Marion County",20,37,452
+47,153,47,007,TN,"Bledsoe County",18,45,444
+47,153,58,000,SS,"Other Flows - Same State",33,77,1067
+47,153,59,000,DS,"Other Flows - Diff State",85,182,2837
+47,155,96,000,TN,"Sevier County Tot Mig-US & For",2410,4770,73494
+47,155,97,000,TN,"Sevier County Tot Mig-US",2399,4751,72624
+47,155,97,001,TN,"Sevier County Tot Mig-Same St",1140,2251,30108
+47,155,97,003,TN,"Sevier County Tot Mig-Diff St",1259,2500,42516
+47,155,98,000,TN,"Sevier County Tot Mig-Foreign",11,19,871
+47,155,47,155,TN,"Sevier County Non-Migrants",21115,44895,769783
+47,155,47,093,TN,"Knox County",375,747,11307
+47,155,47,089,TN,"Jefferson County",244,496,5520
+47,155,47,009,TN,"Blount County",119,242,3139
+47,155,47,029,TN,"Cocke County",77,134,1254
+47,155,47,037,TN,"Davidson County",32,54,1221
+47,155,47,063,TN,"Hamblen County",25,44,599
+47,155,12,103,FL,"Pinellas County",21,41,507
+47,155,12,011,FL,"Broward County",20,40,669
+47,155,47,105,TN,"Loudon County",20,35,377
+47,155,12,095,FL,"Orange County",19,25,438
+47,155,47,001,TN,"Anderson County",19,40,415
+47,155,47,065,TN,"Hamilton County",19,44,470
+47,155,12,099,FL,"Palm Beach County",17,34,573
+47,155,12,127,FL,"Volusia County",17,38,678
+47,155,21,195,KY,"Pike County",17,35,314
+47,155,12,057,FL,"Hillsborough County",16,29,383
+47,155,39,113,OH,"Montgomery County",16,25,1152
+47,155,47,145,TN,"Roane County",15,29,282
+47,155,45,051,SC,"Horry County",14,21,473
+47,155,47,157,TN,"Shelby County",14,34,589
+47,155,47,163,TN,"Sullivan County",14,21,269
+47,155,12,025,FL,"Dade County",12,30,3446
+47,155,12,009,FL,"Brevard County",11,17,333
+47,155,13,135,GA,"Gwinnett County",11,19,348
+47,155,47,059,TN,"Greene County",11,23,434
+47,155,12,071,FL,"Lee County",10,22,442
+47,155,26,163,MI,"Wayne County",10,18,196
+47,155,47,011,TN,"Bradley County",10,19,132
+47,155,47,149,TN,"Rutherford County",10,18,253
+47,155,58,000,SS,"Other Flows - Same State",136,271,3848
+47,155,59,000,DS,"Other Flows - Diff State",1048,2106,32563
+47,155,59,001,DS,"Other Flows - Northeast",84,150,2581
+47,155,59,003,DS,"Other Flows - Midwest",228,462,7356
+47,155,59,005,DS,"Other Flows - South",671,1370,20770
+47,155,59,007,DS,"Other Flows - West",65,124,1856
+47,155,57,009,FR,"Foreign - Other flows",11,19,871
+47,157,96,000,TN,"Shelby County Tot Mig-US & For",16394,31624,718603
+47,157,97,000,TN,"Shelby County Tot Mig-US",15888,30878,709946
+47,157,97,001,TN,"Shelby County Tot Mig-Same St",2944,5418,96378
+47,157,97,003,TN,"Shelby County Tot Mig-Diff St",12944,25460,613568
+47,157,98,000,TN,"Shelby County Tot Mig-Foreign",506,746,8657
+47,157,47,157,TN,"Shelby County Non-Migrants",319143,692634,15276842
+47,157,28,033,MS,"De Soto County",980,1792,28811
+47,157,47,167,TN,"Tipton County",569,1107,16591
+47,157,47,047,TN,"Fayette County",535,1093,19144
+47,157,05,035,AR,"Crittenden County",361,698,8793
+47,157,47,037,TN,"Davidson County",360,592,13000
+47,157,17,031,IL,"Cook County",288,578,8995
+47,157,05,119,AR,"Pulaski County",199,354,8309
+47,157,47,113,TN,"Madison County",193,321,6054
+47,157,06,037,CA,"Los Angeles County",191,372,6567
+47,157,57,005,FR,"Foreign - APO/FPO ZIPs",171,360,4915
+47,157,48,113,TX,"Dallas County",170,333,7759
+47,157,28,093,MS,"Marshall County",165,294,4356
+47,157,06,073,CA,"San Diego County",149,350,7032
+47,157,28,151,MS,"Washington County",146,304,3644
+47,157,48,201,TX,"Harris County",145,288,6697
+47,157,28,049,MS,"Hinds County",141,249,3044
+47,157,47,093,TN,"Knox County",128,208,4146
+47,157,28,011,MS,"Bolivar County",123,259,1981
+47,157,13,089,GA,"De Kalb County",105,199,4037
+47,157,28,071,MS,"Lafayette County",103,167,2930
+47,157,28,137,MS,"Tate County",103,191,2649
+47,157,48,439,TX,"Tarrant County",101,225,5709
+47,157,05,031,AR,"Craighead County",96,166,7513
+47,157,51,810,VA,"Virginia Beach",95,249,3753
+47,157,12,031,FL,"Duval County",94,207,3402
+47,157,13,121,GA,"Fulton County",94,174,6101
+47,157,28,027,MS,"Coahoma County",90,185,1751
+47,157,28,107,MS,"Panola County",90,167,2057
+47,157,47,069,TN,"Hardeman County",88,181,2239
+47,157,01,073,AL,"Jefferson County",86,144,4233
+47,157,26,163,MI,"Wayne County",83,153,2177
+47,157,29,189,MO,"St Louis County",83,149,3537
+47,157,47,065,TN,"Hamilton County",83,146,2922
+47,157,13,067,GA,"Cobb County",82,158,4115
+47,157,28,081,MS,"Lee County",80,136,3052
+47,157,04,013,AZ,"Maricopa County",78,168,4251
+47,157,28,083,MS,"Leflore County",67,140,1030
+47,157,47,045,TN,"Dyer County",67,106,1732
+47,157,47,149,TN,"Rutherford County",67,141,2888
+47,157,05,107,AR,"Phillips County",63,137,1071
+47,157,47,097,TN,"Lauderdale County",62,120,1977
+47,157,28,143,MS,"Tunica County",61,123,1073
+47,157,47,125,TN,"Montgomery County",61,105,1668
+47,157,22,051,LA,"Jefferson Parish",59,97,1949
+47,157,05,093,AR,"Mississippi County",58,109,1252
+47,157,06,059,CA,"Orange County",57,122,3093
+47,157,48,029,TX,"Bexar County",57,136,3112
+47,157,12,011,FL,"Broward County",55,96,2965
+47,157,13,135,GA,"Gwinnett County",54,130,3292
+47,157,17,043,IL,"Du Page County",54,106,4352
+47,157,47,053,TN,"Gibson County",54,97,1544
+47,157,01,089,AL,"Madison County",53,99,2116
+47,157,21,111,KY,"Jefferson County",51,102,2423
+47,157,51,059,VA,"Fairfax County",51,126,3965
+47,157,47,075,TN,"Haywood County",50,103,1396
+47,157,12,095,FL,"Orange County",49,103,2285
+47,157,22,033,LA,"East Baton Rouge Par",49,84,1540
+47,157,48,453,TX,"Travis County",49,70,1727
+47,157,05,123,AR,"St Francis County",48,80,1300
+47,157,12,025,FL,"Dade County",48,82,2869
+47,157,12,057,FL,"Hillsborough County",48,81,2053
+47,157,01,097,AL,"Mobile County",46,102,2126
+47,157,28,133,MS,"Sunflower County",46,101,785
+47,157,55,079,WI,"Milwaukee County",46,91,871
+47,157,27,053,MN,"Hennepin County",45,77,1955
+47,157,53,033,WA,"King County",45,100,2730
+47,157,12,033,FL,"Escambia County",44,103,1930
+47,157,28,121,MS,"Rankin County",44,93,2301
+47,157,32,003,NV,"Clark County",44,94,2160
+47,157,37,119,NC,"Mecklenburg County",44,92,3167
+47,157,40,109,OK,"Oklahoma County",43,91,1869
+47,157,28,089,MS,"Madison County",42,101,2719
+47,157,47,017,TN,"Carroll County",41,60,1327
+47,157,08,041,CO,"El Paso County",40,75,1319
+47,157,22,071,LA,"Orleans Parish",40,62,1410
+47,157,28,047,MS,"Harrison County",40,74,1123
+47,157,39,035,OH,"Cuyahoga County",40,77,1609
+47,157,42,003,PA,"Allegheny County",40,77,2162
+47,157,48,121,TX,"Denton County",40,81,2867
+47,157,15,003,HI,"Honolulu County",39,114,1481
+47,157,28,087,MS,"Lowndes County",39,65,1437
+47,157,28,105,MS,"Oktibbeha County",39,63,2356
+47,157,17,097,IL,"Lake County",38,83,2566
+47,157,18,097,IN,"Marion County",38,78,1699
+47,157,26,125,MI,"Oakland County",38,65,2408
+47,157,28,009,MS,"Benton County",38,79,1030
+47,157,28,135,MS,"Tallahatchie County",38,78,713
+47,157,47,187,TN,"Williamson County",38,82,2387
+47,157,26,049,MI,"Genesee County",37,89,1147
+47,157,22,017,LA,"Caddo Parish",36,72,1514
+47,157,05,069,AR,"Jefferson County",34,67,1257
+47,157,06,001,CA,"Alameda County",34,75,1299
+47,157,40,143,OK,"Tulsa County",34,65,1461
+47,157,01,101,AL,"Montgomery County",33,67,1243
+47,157,28,003,MS,"Alcorn County",33,46,767
+47,157,28,043,MS,"Grenada County",33,59,1359
+47,157,39,049,OH,"Franklin County",33,62,1183
+47,157,47,109,TN,"Mcnairy County",33,82,1239
+47,157,47,183,TN,"Weakley County",33,49,1071
+47,157,12,099,FL,"Palm Beach County",32,57,1779
+47,157,18,089,IN,"Lake County",32,74,900
+47,157,20,091,KS,"Johnson County",32,65,2294
+47,157,22,073,LA,"Ouachita Parish",32,58,1350
+47,157,48,085,TX,"Collin County",32,64,2593
+47,157,29,510,MO,"St Louis",31,56,748
+47,157,05,037,AR,"Cross County",30,44,1396
+47,157,37,133,NC,"Onslow County",30,69,714
+47,157,51,710,VA,Norfolk,30,66,1088
+47,157,31,055,NE,"Douglas County",29,63,1003
+47,157,36,047,NY,"Kings County",29,41,658
+47,157,05,143,AR,"Washington County",28,48,1359
+47,157,28,035,MS,"Forrest County",28,47,754
+47,157,39,061,OH,"Hamilton County",28,46,3653
+47,157,45,019,SC,"Charleston County",28,55,1109
+47,157,06,067,CA,"Sacramento County",27,50,840
+47,157,06,071,CA,"San Bernardino Count",27,71,1114
+47,157,13,051,GA,"Chatham County",27,58,2683
+47,157,48,027,TX,"Bell County",27,59,711
+47,157,29,095,MO,"Jackson County",26,55,1072
+47,157,36,061,NY,"New York County",26,31,1227
+47,157,39,113,OH,"Montgomery County",26,43,944
+47,157,47,009,TN,"Blount County",26,43,662
+47,157,47,131,TN,"Obion County",26,53,892
+47,157,12,103,FL,"Pinellas County",25,52,949
+47,157,24,033,MD,"Prince George's Coun",25,65,1965
+47,157,47,071,TN,"Hardin County",25,45,975
+47,157,51,013,VA,"Arlington County",25,31,1234
+47,157,13,063,GA,"Clayton County",24,57,822
+47,157,20,173,KS,"Sedgwick County",24,54,1054
+47,157,22,103,LA,"St Tammany Parish",24,54,1331
+47,157,24,031,MD,"Montgomery County",24,41,1096
+47,157,37,081,NC,"Guilford County",24,35,1068
+47,157,47,023,TN,"Chester County",24,40,646
+47,157,47,165,TN,"Sumner County",24,49,897
+47,157,51,550,VA,Chesapeake,24,73,1371
+47,157,01,077,AL,"Lauderdale County",23,44,595
+47,157,05,045,AR,"Faulkner County",23,35,895
+47,157,11,001,DC,"District Of Columbia",23,38,950
+47,157,12,091,FL,"Okaloosa County",23,46,687
+47,157,17,163,IL,"St Clair County",23,48,647
+47,157,36,029,NY,"Erie County",23,47,903
+47,157,05,051,AR,"Garland County",22,32,509
+47,157,06,085,CA,"Santa Clara County",22,42,727
+47,157,12,117,FL,"Seminole County",22,59,1368
+47,157,28,075,MS,"Lauderdale County",22,46,726
+47,157,29,077,MO,"Greene County",22,42,591
+47,157,13,215,GA,"Muscogee County",21,32,616
+47,157,19,153,IA,"Polk County",21,46,923
+47,157,21,047,KY,"Christian County",21,41,408
+47,157,22,055,LA,"Lafayette Parish",21,55,897
+47,157,27,037,MN,"Dakota County",21,41,730
+47,157,28,149,MS,"Warren County",21,44,564
+47,157,01,103,AL,"Morgan County",20,47,1378
+47,157,08,031,CO,"Denver County",20,36,671
+47,157,25,017,MA,"Middlesex County",20,22,799
+47,157,36,081,NY,"Queens County",20,41,641
+47,157,37,183,NC,"Wake County",20,41,1122
+47,157,45,045,SC,"Greenville County",20,47,1230
+47,157,47,189,TN,"Wilson County",20,40,774
+47,157,06,065,CA,"Riverside County",19,40,637
+47,157,08,005,CO,"Arapahoe County",19,42,1031
+47,157,12,001,FL,"Alachua County",19,41,703
+47,157,12,019,FL,"Clay County",19,55,795
+47,157,35,001,NM,"Bernalillo County",19,32,720
+47,157,47,033,TN,"Crockett County",19,31,622
+47,157,47,141,TN,"Putnam County",19,30,492
+47,157,06,029,CA,"Kern County",18,44,635
+47,157,12,127,FL,"Volusia County",18,29,642
+47,157,21,067,KY,"Fayette County",18,32,756
+47,157,25,025,MA,"Suffolk County",18,34,849
+47,157,28,095,MS,"Monroe County",18,29,460
+47,157,29,183,MO,"St Charles County",18,43,806
+47,157,37,051,NC,"Cumberland County",18,33,877
+47,157,47,077,TN,"Henderson County",18,26,617
+47,157,47,179,TN,"Washington County",18,34,839
+47,157,48,157,TX,"Fort Bend County",18,54,1155
+47,157,48,215,TX,"Hidalgo County",18,54,322
+47,157,49,035,UT,"Salt Lake County",18,42,1006
+47,157,53,053,WA,"Pierce County",18,30,421
+47,157,01,125,AL,"Tuscaloosa County",17,32,517
+47,157,02,020,AK,"Anchorage Borough",17,32,648
+47,157,05,055,AR,"Greene County",17,32,478
+47,157,13,021,GA,"Bibb County",17,30,715
+47,157,21,145,KY,"Mccracken County",17,31,466
+47,157,26,081,MI,"Kent County",17,33,514
+47,157,28,119,MS,"Quitman County",17,38,285
+47,157,29,031,MO,"Cape Girardeau Count",17,31,524
+47,157,39,153,OH,"Summit County",17,30,1276
+47,157,47,079,TN,"Henry County",17,24,455
+47,157,47,119,TN,"Maury County",17,25,569
+47,157,01,081,AL,"Lee County",16,32,514
+47,157,01,117,AL,"Shelby County",16,34,894
+47,157,05,111,AR,"Poinsett County",16,30,423
+47,157,05,145,AR,"White County",16,32,499
+47,157,09,001,CT,"Fairfield County",16,35,3717
+47,157,12,005,FL,"Bay County",16,27,873
+47,157,12,073,FL,"Leon County",16,33,797
+47,157,17,019,IL,"Champaign County",16,27,944
+47,157,24,005,MD,"Baltimore County",16,34,848
+47,157,27,123,MN,"Ramsey County",16,40,840
+47,157,28,015,MS,"Carroll County",16,40,442
+47,157,28,139,MS,"Tippah County",16,34,499
+47,157,28,145,MS,"Union County",16,26,353
+47,157,36,055,NY,"Monroe County",16,31,1344
+47,157,39,017,OH,"Butler County",16,32,1483
+47,157,40,031,OK,"Comanche County",16,34,518
+47,157,45,079,SC,"Richland County",16,25,819
+47,157,48,141,TX,"El Paso County",16,32,386
+47,157,51,041,VA,"Chesterfield County",16,31,737
+47,157,53,035,WA,"Kitsap County",16,45,618
+47,157,05,085,AR,"Lonoke County",15,29,633
+47,157,18,141,IN,"St Joseph County",15,34,590
+47,157,24,003,MD,"Anne Arundel County",15,30,1327
+47,157,26,161,MI,"Washtenaw County",15,25,666
+47,157,28,007,MS,"Attala County",15,29,184
+47,157,28,059,MS,"Jackson County",15,24,637
+47,157,37,021,NC,"Buncombe County",15,31,731
+47,157,37,063,NC,"Durham County",15,25,2020
+47,157,37,067,NC,"Forsyth County",15,29,948
+47,157,04,019,AZ,"Pima County",14,28,460
+47,157,05,007,AR,"Benton County",14,36,836
+47,157,08,059,CO,"Jefferson County",14,32,1254
+47,157,09,011,CT,"New London County",14,28,597
+47,157,17,143,IL,"Peoria County",14,37,506
+47,157,18,003,IN,"Allen County",14,28,558
+47,157,28,051,MS,"Holmes County",14,25,267
+47,157,29,155,MO,"Pemiscot County",14,25,433
+47,157,29,201,MO,"Scott County",14,24,490
+47,157,34,003,NJ,"Bergen County",14,23,486
+47,157,40,027,OK,"Cleveland County",14,26,454
+47,157,47,001,TN,"Anderson County",14,21,402
+47,157,01,003,AL,"Baldwin County",13,25,530
+47,157,05,125,AR,"Saline County",13,24,295
+47,157,06,013,CA,"Contra Costa County",13,26,703
+47,157,06,019,CA,"Fresno County",13,28,632
+47,157,12,105,FL,"Polk County",13,26,294
+47,157,13,153,GA,"Houston County",13,27,561
+47,157,25,027,MA,"Worcester County",13,29,464
+47,157,28,001,MS,"Adams County",13,20,287
+47,157,28,115,MS,"Pontotoc County",13,16,329
+47,157,34,023,NJ,"Middlesex County",13,19,553
+47,157,42,043,PA,"Dauphin County",13,24,1019
+47,157,47,011,TN,"Bradley County",13,15,187
+47,157,51,620,VA,Franklin,13,40,4113
+47,157,51,700,VA,"Newport News",13,28,376
+47,157,53,061,WA,"Snohomish County",13,37,434
+47,157,06,111,CA,"Ventura County",12,41,548
+47,157,12,009,FL,"Brevard County",12,28,881
+47,157,13,117,GA,"Forsyth County",12,30,1545
+47,157,17,119,IL,"Madison County",12,25,278
+47,157,17,167,IL,"Sangamon County",12,27,442
+47,157,17,197,IL,"Will County",12,23,475
+47,157,28,067,MS,"Jones County",12,21,362
+47,157,28,097,MS,"Montgomery County",12,28,422
+47,157,34,021,NJ,"Mercer County",12,23,680
+47,157,34,027,NJ,"Morris County",12,27,3187
+47,157,36,119,NY,"Westchester County",12,16,1262
+47,157,42,101,PA,"Philadelphia County",12,22,893
+47,157,47,031,TN,"Coffee County",12,15,313
+47,157,47,147,TN,"Robertson County",12,25,558
+47,157,48,339,TX,"Montgomery County",12,35,835
+47,157,48,355,TX,"Nueces County",12,28,515
+47,157,51,087,VA,"Henrico County",12,23,560
+47,157,51,510,VA,Alexandria,12,19,404
+47,157,05,023,AR,"Cleburne County",11,23,1176
+47,157,06,053,CA,"Monterey County",11,24,699
+47,157,08,013,CO,"Boulder County",11,20,471
+47,157,13,245,GA,"Richmond County",11,21,339
+47,157,17,113,IL,"Mclean County",11,20,466
+47,157,18,057,IN,"Hamilton County",11,34,2060
+47,157,21,093,KY,"Hardin County",11,26,492
+47,157,21,227,KY,"Warren County",11,23,717
+47,157,22,019,LA,"Calcasieu Parish",11,17,271
+47,157,24,027,MD,"Howard County",11,23,1281
+47,157,26,021,MI,"Berrien County",11,24,249
+47,157,29,019,MO,"Boone County",11,21,482
+47,157,29,069,MO,"Dunklin County",11,16,150
+47,157,34,013,NJ,"Essex County",11,22,641
+47,157,36,059,NY,"Nassau County",11,24,972
+47,157,36,067,NY,"Onondaga County",11,15,492
+47,157,39,095,OH,"Lucas County",11,21,302
+47,157,41,051,OR,"Multnomah County",11,15,456
+47,157,42,091,PA,"Montgomery County",11,19,821
+47,157,45,015,SC,"Berkeley County",11,29,271
+47,157,47,043,TN,"Dickson County",11,26,420
+47,157,48,303,TX,"Lubbock County",11,24,578
+47,157,51,153,VA,"Prince William Count",11,36,519
+47,157,51,650,VA,Hampton,11,20,329
+47,157,01,033,AL,"Colbert County",10,19,362
+47,157,06,075,CA,"San Francisco County",10,11,731
+47,157,06,081,CA,"San Mateo County",10,22,763
+47,157,09,003,CT,"Hartford County",10,22,693
+47,157,10,003,DE,"New Castle County",10,20,19891
+47,157,12,113,FL,"Santa Rosa County",10,23,403
+47,157,17,115,IL,"Macon County",10,19,227
+47,157,17,201,IL,"Winnebago County",10,16,654
+47,157,22,015,LA,"Bossier Parish",10,21,411
+47,157,22,079,LA,"Rapides Parish",10,18,706
+47,157,24,510,MD,Baltimore,10,19,474
+47,157,28,163,MS,"Yazoo County",10,20,165
+47,157,29,023,MO,"Butler County",10,14,216
+47,157,34,017,NJ,"Hudson County",10,19,348
+47,157,34,025,NJ,"Monmouth County",10,24,555
+47,157,36,005,NY,"Bronx County",10,14,393
+47,157,36,103,NY,"Suffolk County",10,20,382
+47,157,44,005,RI,"Newport County",10,24,451
+47,157,47,005,TN,"Benton County",10,15,343
+47,157,47,085,TN,"Humphreys County",10,21,279
+47,157,47,163,TN,"Sullivan County",10,17,553
+47,157,48,183,TX,"Gregg County",10,20,260
+47,157,48,309,TX,"Mclennan County",10,17,245
+47,157,48,441,TX,"Taylor County",10,23,628
+47,157,58,000,SS,"Other Flows - Same State",137,230,3560
+47,157,59,000,DS,"Other Flows - Diff State",2807,5504,179429
+47,157,59,001,DS,"Other Flows - Northeast",338,628,16730
+47,157,59,003,DS,"Other Flows - Midwest",727,1400,27820
+47,157,59,005,DS,"Other Flows - South",1454,2844,123105
+47,157,59,007,DS,"Other Flows - West",288,632,11774
+47,157,57,009,FR,"Foreign - Other flows",335,386,3742
+47,159,96,000,TN,"Smith County Tot Mig-US & For",481,1066,15041
+47,159,97,000,TN,"Smith County Tot Mig-US",481,1066,15041
+47,159,97,001,TN,"Smith County Tot Mig-Same St",347,792,10580
+47,159,97,003,TN,"Smith County Tot Mig-Diff St",134,274,4461
+47,159,47,159,TN,"Smith County Non-Migrants",5574,12871,201206
+47,159,47,189,TN,"Wilson County",117,284,3524
+47,159,47,037,TN,"Davidson County",67,148,2118
+47,159,47,149,TN,"Rutherford County",24,53,845
+47,159,47,041,TN,"De Kalb County",23,45,793
+47,159,47,141,TN,"Putnam County",22,52,533
+47,159,47,169,TN,"Trousdale County",17,30,381
+47,159,47,165,TN,"Sumner County",14,33,496
+47,159,47,111,TN,"Macon County",13,34,505
+47,159,47,087,TN,"Jackson County",11,27,227
+47,159,58,000,SS,"Other Flows - Same State",39,86,1160
+47,159,59,000,DS,"Other Flows - Diff State",134,274,4461
+47,159,59,001,DS,"Other Flows - Northeast",20,33,428
+47,159,59,003,DS,"Other Flows - Midwest",32,60,842
+47,159,59,005,DS,"Other Flows - South",72,161,2371
+47,159,59,007,DS,"Other Flows - West",10,20,820
+47,161,96,000,TN,"Stewart County Tot Mig-US & For",397,907,13009
+47,161,97,000,TN,"Stewart County Tot Mig-US",397,907,13009
+47,161,97,001,TN,"Stewart County Tot Mig-Same St",223,502,6597
+47,161,97,003,TN,"Stewart County Tot Mig-Diff St",174,405,6412
+47,161,47,161,TN,"Stewart County Non-Migrants",3582,8376,119885
+47,161,47,125,TN,"Montgomery County",99,216,2598
+47,161,47,083,TN,"Houston County",61,148,2125
+47,161,21,047,KY,"Christian County",24,59,528
+47,161,47,037,TN,"Davidson County",13,24,294
+47,161,47,079,TN,"Henry County",12,27,383
+47,161,58,000,SS,"Other Flows - Same State",38,87,1197
+47,161,59,000,DS,"Other Flows - Diff State",150,346,5883
+47,161,59,001,DS,"Other Flows - Northeast",13,28,527
+47,161,59,003,DS,"Other Flows - Midwest",44,89,1238
+47,161,59,005,DS,"Other Flows - South",75,188,3740
+47,161,59,007,DS,"Other Flows - West",18,41,378
+47,163,96,000,TN,"Sullivan County Tot Mig-US & For",3198,6448,109923
+47,163,97,000,TN,"Sullivan County Tot Mig-US",3172,6382,108070
+47,163,97,001,TN,"Sullivan County Tot Mig-Same St",1337,2695,41498
+47,163,97,003,TN,"Sullivan County Tot Mig-Diff St",1835,3687,66572
+47,163,98,000,TN,"Sullivan County Tot Mig-Foreign",26,66,1853
+47,163,47,163,TN,"Sullivan County Non-Migrants",54623,118310,2277005
+47,163,47,179,TN,"Washington County",499,978,16816
+47,163,47,073,TN,"Hawkins County",366,759,9754
+47,163,51,191,VA,"Washington County",246,453,6492
+47,163,51,520,VA,Bristol,214,440,5043
+47,163,51,169,VA,"Scott County",140,262,3274
+47,163,47,019,TN,"Carter County",117,246,3320
+47,163,47,059,TN,"Greene County",70,159,1851
+47,163,47,093,TN,"Knox County",68,123,2312
+47,163,51,195,VA,"Wise County",45,87,1080
+47,163,51,105,VA,"Lee County",30,53,688
+47,163,51,167,VA,"Russell County",27,48,551
+47,163,47,171,TN,"Unicoi County",26,46,708
+47,163,47,037,TN,"Davidson County",22,37,1048
+47,163,47,065,TN,"Hamilton County",20,46,977
+47,163,47,091,TN,"Johnson County",16,24,461
+47,163,51,173,VA,"Smyth County",16,26,328
+47,163,51,185,VA,"Tazewell County",15,30,448
+47,163,51,051,VA,"Dickenson County",14,24,456
+47,163,47,149,TN,"Rutherford County",13,28,289
+47,163,12,057,FL,"Hillsborough County",12,18,324
+47,163,12,095,FL,"Orange County",12,21,351
+47,163,37,021,NC,"Buncombe County",12,24,346
+47,163,47,089,TN,"Jefferson County",12,25,285
+47,163,47,157,TN,"Shelby County",12,20,418
+47,163,37,119,NC,"Mecklenburg County",11,18,477
+47,163,51,197,VA,"Wythe County",11,23,352
+47,163,57,005,FR,"Foreign - APO/FPO ZIPs",11,25,255
+47,163,06,073,CA,"San Diego County",10,21,228
+47,163,12,011,FL,"Broward County",10,15,537
+47,163,12,031,FL,"Duval County",10,17,392
+47,163,17,031,IL,"Cook County",10,24,634
+47,163,24,033,MD,"Prince George's Coun",10,21,356
+47,163,45,051,SC,"Horry County",10,11,222
+47,163,51,027,VA,"Buchanan County",10,14,168
+47,163,58,000,SS,"Other Flows - Same State",96,204,3259
+47,163,59,000,DS,"Other Flows - Diff State",960,2037,43826
+47,163,59,001,DS,"Other Flows - Northeast",87,193,4185
+47,163,59,003,DS,"Other Flows - Midwest",128,283,7258
+47,163,59,005,DS,"Other Flows - South",657,1378,29146
+47,163,59,007,DS,"Other Flows - West",88,183,3238
+47,163,57,009,FR,"Foreign - Other flows",15,41,1598
+47,165,96,000,TN,"Sumner County Tot Mig-US & For",4017,8302,153347
+47,165,97,000,TN,"Sumner County Tot Mig-US",4006,8283,152948
+47,165,97,001,TN,"Sumner County Tot Mig-Same St",2480,5043,89578
+47,165,97,003,TN,"Sumner County Tot Mig-Diff St",1526,3240,63370
+47,165,98,000,TN,"Sumner County Tot Mig-Foreign",11,19,399
+47,165,47,165,TN,"Sumner County Non-Migrants",39355,90037,1929013
+47,165,47,037,TN,"Davidson County",1393,2799,52370
+47,165,47,147,TN,"Robertson County",303,630,10065
+47,165,47,189,TN,"Wilson County",131,285,3595
+47,165,47,111,TN,"Macon County",96,203,2260
+47,165,47,149,TN,"Rutherford County",92,178,3572
+47,165,21,227,KY,"Warren County",50,99,1947
+47,165,21,213,KY,"Simpson County",45,88,1403
+47,165,47,021,TN,"Cheatham County",44,94,1366
+47,165,47,187,TN,"Williamson County",44,87,2112
+47,165,47,125,TN,"Montgomery County",42,82,1518
+47,165,47,169,TN,"Trousdale County",41,86,995
+47,165,47,157,TN,"Shelby County",39,91,2567
+47,165,21,003,KY,"Allen County",34,66,1764
+47,165,47,093,TN,"Knox County",31,67,1339
+47,165,06,073,CA,"San Diego County",27,72,564
+47,165,21,111,KY,"Jefferson County",19,37,979
+47,165,21,067,KY,"Fayette County",18,37,981
+47,165,47,065,TN,"Hamilton County",15,30,521
+47,165,01,089,AL,"Madison County",14,26,585
+47,165,18,097,IN,"Marion County",14,36,557
+47,165,01,073,AL,"Jefferson County",13,23,427
+47,165,17,031,IL,"Cook County",13,24,434
+47,165,47,113,TN,"Madison County",13,32,502
+47,165,12,011,FL,"Broward County",12,34,1204
+47,165,12,031,FL,"Duval County",12,25,577
+47,165,47,043,TN,"Dickson County",12,24,607
+47,165,47,141,TN,"Putnam County",12,17,289
+47,165,06,037,CA,"Los Angeles County",11,20,618
+47,165,06,059,CA,"Orange County",11,19,540
+47,165,12,099,FL,"Palm Beach County",11,19,727
+47,165,29,189,MO,"St Louis County",11,28,826
+47,165,37,119,NC,"Mecklenburg County",11,18,1846
+47,165,47,119,TN,"Maury County",11,19,248
+47,165,48,113,TX,"Dallas County",11,24,570
+47,165,12,057,FL,"Hillsborough County",10,26,836
+47,165,26,125,MI,"Oakland County",10,18,433
+47,165,47,085,TN,"Humphreys County",10,23,457
+47,165,48,439,TX,"Tarrant County",10,19,315
+47,165,58,000,SS,"Other Flows - Same State",151,296,5197
+47,165,59,000,DS,"Other Flows - Diff State",1159,2482,45236
+47,165,59,001,DS,"Other Flows - Northeast",98,202,3614
+47,165,59,003,DS,"Other Flows - Midwest",287,636,11361
+47,165,59,005,DS,"Other Flows - South",649,1376,25076
+47,165,59,007,DS,"Other Flows - West",125,268,5185
+47,165,57,009,FR,"Foreign - Other flows",11,19,399
+47,167,96,000,TN,"Tipton County Tot Mig-US & For",1420,3259,49071
+47,167,97,000,TN,"Tipton County Tot Mig-US",1398,3206,48401
+47,167,97,001,TN,"Tipton County Tot Mig-Same St",992,2283,33655
+47,167,97,003,TN,"Tipton County Tot Mig-Diff St",406,923,14746
+47,167,98,000,TN,"Tipton County Tot Mig-Foreign",22,53,670
+47,167,47,167,TN,"Tipton County Non-Migrants",14458,34415,556160
+47,167,47,157,TN,"Shelby County",736,1711,26918
+47,167,47,097,TN,"Lauderdale County",75,167,1762
+47,167,47,047,TN,"Fayette County",70,175,1826
+47,167,47,075,TN,"Haywood County",22,50,454
+47,167,47,045,TN,"Dyer County",16,34,415
+47,167,28,033,MS,"De Soto County",14,26,457
+47,167,47,037,TN,"Davidson County",12,20,391
+47,167,51,810,VA,"Virginia Beach",11,30,484
+47,167,06,073,CA,"San Diego County",10,28,439
+47,167,58,000,SS,"Other Flows - Same State",61,126,1890
+47,167,59,000,DS,"Other Flows - Diff State",371,839,13366
+47,167,59,001,DS,"Other Flows - Northeast",22,67,989
+47,167,59,003,DS,"Other Flows - Midwest",95,207,3022
+47,167,59,005,DS,"Other Flows - South",212,456,7489
+47,167,59,007,DS,"Other Flows - West",42,109,1865
+47,167,57,009,FR,"Foreign - Other flows",22,53,670
+47,169,96,000,TN,"Trousdale Count Tot Mig-US & For",234,536,6444
+47,169,97,000,TN,"Trousdale Count Tot Mig-US",234,536,6444
+47,169,97,001,TN,"Trousdale Count Tot Mig-Same St",196,441,5748
+47,169,97,003,TN,"Trousdale Count Tot Mig-Diff St",38,95,697
+47,169,47,169,TN,"Trousdale Count Non-Migrants",2092,4690,73864
+47,169,47,165,TN,"Sumner County",51,116,1508
+47,169,47,189,TN,"Wilson County",44,92,1351
+47,169,47,037,TN,"Davidson County",34,77,962
+47,169,47,111,TN,"Macon County",21,48,546
+47,169,47,159,TN,"Smith County",10,24,395
+47,169,58,000,SS,"Other Flows - Same State",36,84,985
+47,169,59,000,DS,"Other Flows - Diff State",38,95,697
+47,171,96,000,TN,"Unicoi County Tot Mig-US & For",395,749,10907
+47,171,97,000,TN,"Unicoi County Tot Mig-US",395,749,10907
+47,171,97,001,TN,"Unicoi County Tot Mig-Same St",215,383,5919
+47,171,97,003,TN,"Unicoi County Tot Mig-Diff St",180,366,4988
+47,171,47,171,TN,"Unicoi County Non-Migrants",6003,12907,202357
+47,171,47,179,TN,"Washington County",112,199,3040
+47,171,47,019,TN,"Carter County",49,87,1269
+47,171,47,163,TN,"Sullivan County",17,28,536
+47,171,58,000,SS,"Other Flows - Same State",37,69,1074
+47,171,59,000,DS,"Other Flows - Diff State",180,366,4988
+47,173,96,000,TN,"Union County Tot Mig-US & For",499,1039,12513
+47,173,97,000,TN,"Union County Tot Mig-US",499,1039,12513
+47,173,97,001,TN,"Union County Tot Mig-Same St",388,828,9625
+47,173,97,003,TN,"Union County Tot Mig-Diff St",111,211,2887
+47,173,47,173,TN,"Union County Non-Migrants",5439,12631,161326
+47,173,47,093,TN,"Knox County",264,582,6665
+47,173,47,057,TN,"Grainger County",30,71,836
+47,173,47,001,TN,"Anderson County",28,55,688
+47,173,47,025,TN,"Claiborne County",23,41,710
+47,173,47,009,TN,"Blount County",13,23,215
+47,173,58,000,SS,"Other Flows - Same State",30,56,510
+47,173,59,000,DS,"Other Flows - Diff State",111,211,2887
+47,175,96,000,TN,"Van Buren Count Tot Mig-US & For",113,221,3027
+47,175,97,000,TN,"Van Buren Count Tot Mig-US",113,221,3027
+47,175,97,001,TN,"Van Buren Count Tot Mig-Same St",91,176,2070
+47,175,97,003,TN,"Van Buren Count Tot Mig-Diff St",22,45,957
+47,175,47,175,TN,"Van Buren Count Non-Migrants",1518,3459,48691
+47,175,47,177,TN,"Warren County",27,49,654
+47,175,47,185,TN,"White County",16,32,300
+47,175,47,007,TN,"Bledsoe County",13,26,241
+47,175,58,000,SS,"Other Flows - Same State",35,69,876
+47,175,59,000,DS,"Other Flows - Diff State",22,45,957
+47,177,96,000,TN,"Warren County Tot Mig-US & For",606,1326,17104
+47,177,97,000,TN,"Warren County Tot Mig-US",606,1326,17104
+47,177,97,001,TN,"Warren County Tot Mig-Same St",372,796,10322
+47,177,97,003,TN,"Warren County Tot Mig-Diff St",234,530,6782
+47,177,47,177,TN,"Warren County Non-Migrants",11966,26889,424730
+47,177,47,041,TN,"De Kalb County",48,103,1193
+47,177,47,031,TN,"Coffee County",45,101,1095
+47,177,47,149,TN,"Rutherford County",42,82,1399
+47,177,47,015,TN,"Cannon County",35,84,911
+47,177,47,185,TN,"White County",24,40,507
+47,177,47,061,TN,"Grundy County",22,50,634
+47,177,47,175,TN,"Van Buren County",21,42,632
+47,177,47,037,TN,"Davidson County",19,30,598
+47,177,47,141,TN,"Putnam County",19,50,615
+47,177,58,000,SS,"Other Flows - Same State",97,214,2738
+47,177,59,000,DS,"Other Flows - Diff State",234,530,6782
+47,177,59,001,DS,"Other Flows - Northeast",15,31,643
+47,177,59,003,DS,"Other Flows - Midwest",42,91,1323
+47,177,59,005,DS,"Other Flows - South",157,350,4056
+47,177,59,007,DS,"Other Flows - West",20,58,761
+47,179,96,000,TN,"Washington Coun Tot Mig-US & For",3092,5939,100988
+47,179,97,000,TN,"Washington Coun Tot Mig-US",3034,5867,100386
+47,179,97,001,TN,"Washington Coun Tot Mig-Same St",1838,3481,53232
+47,179,97,003,TN,"Washington Coun Tot Mig-Diff St",1196,2386,47154
+47,179,98,000,TN,"Washington Coun Tot Mig-Foreign",58,72,602
+47,179,47,179,TN,"Washington Coun Non-Migrants",34812,73874,1425602
+47,179,47,163,TN,"Sullivan County",645,1230,20507
+47,179,47,019,TN,"Carter County",440,844,10545
+47,179,47,059,TN,"Greene County",166,318,4100
+47,179,47,171,TN,"Unicoi County",141,282,3505
+47,179,47,093,TN,"Knox County",98,174,3413
+47,179,47,073,TN,"Hawkins County",73,135,1885
+47,179,37,021,NC,"Buncombe County",29,57,900
+47,179,47,037,TN,"Davidson County",24,44,783
+47,179,51,191,VA,"Washington County",24,38,759
+47,179,47,063,TN,"Hamblen County",23,48,945
+47,179,47,157,TN,"Shelby County",21,44,948
+47,179,47,091,TN,"Johnson County",20,34,354
+47,179,51,195,VA,"Wise County",19,32,412
+47,179,47,065,TN,"Hamilton County",18,33,889
+47,179,12,095,FL,"Orange County",15,33,453
+47,179,51,520,VA,Bristol,15,26,302
+47,179,12,057,FL,"Hillsborough County",14,32,712
+47,179,12,099,FL,"Palm Beach County",13,21,266
+47,179,47,009,TN,"Blount County",13,23,586
+47,179,47,011,TN,"Bradley County",13,21,394
+47,179,47,029,TN,"Cocke County",12,16,410
+47,179,51,169,VA,"Scott County",12,21,323
+47,179,51,810,VA,"Virginia Beach",12,23,552
+47,179,12,103,FL,"Pinellas County",11,20,475
+47,179,13,089,GA,"De Kalb County",11,15,401
+47,179,37,119,NC,"Mecklenburg County",11,22,513
+47,179,47,001,TN,"Anderson County",11,19,254
+47,179,47,149,TN,"Rutherford County",11,20,317
+47,179,48,201,TX,"Harris County",11,17,485
+47,179,12,009,FL,"Brevard County",10,22,227
+47,179,37,189,NC,"Watauga County",10,22,325
+47,179,47,141,TN,"Putnam County",10,14,125
+47,179,47,155,TN,"Sevier County",10,17,178
+47,179,58,000,SS,"Other Flows - Same State",89,165,3093
+47,179,59,000,DS,"Other Flows - Diff State",979,1985,40048
+47,179,59,001,DS,"Other Flows - Northeast",92,179,2695
+47,179,59,003,DS,"Other Flows - Midwest",161,341,8444
+47,179,59,005,DS,"Other Flows - South",630,1266,25532
+47,179,59,007,DS,"Other Flows - West",96,199,3378
+47,179,57,009,FR,"Foreign - Other flows",58,72,602
+47,181,96,000,TN,"Wayne County Tot Mig-US & For",224,484,5634
+47,181,97,000,TN,"Wayne County Tot Mig-US",224,484,5634
+47,181,97,001,TN,"Wayne County Tot Mig-Same St",122,269,3095
+47,181,97,003,TN,"Wayne County Tot Mig-Diff St",102,215,2539
+47,181,47,181,TN,"Wayne County Non-Migrants",4504,10342,125915
+47,181,47,099,TN,"Lawrence County",46,114,1020
+47,181,01,077,AL,"Lauderdale County",29,54,490
+47,181,47,071,TN,"Hardin County",16,36,417
+47,181,58,000,SS,"Other Flows - Same State",60,119,1658
+47,181,59,000,DS,"Other Flows - Diff State",73,161,2049
+47,183,96,000,TN,"Weakley County Tot Mig-US & For",760,1475,21272
+47,183,97,000,TN,"Weakley County Tot Mig-US",721,1431,21113
+47,183,97,001,TN,"Weakley County Tot Mig-Same St",419,781,9815
+47,183,97,003,TN,"Weakley County Tot Mig-Diff St",302,650,11298
+47,183,98,000,TN,"Weakley County Tot Mig-Foreign",39,44,159
+47,183,47,183,TN,"Weakley County Non-Migrants",10222,23013,375143
+47,183,47,131,TN,"Obion County",102,178,2442
+47,183,47,017,TN,"Carroll County",75,157,1536
+47,183,47,053,TN,"Gibson County",48,99,1266
+47,183,47,079,TN,"Henry County",44,81,832
+47,183,01,055,AL,"Etowah County",32,84,1880
+47,183,47,157,TN,"Shelby County",24,42,605
+47,183,21,075,KY,"Fulton County",18,38,427
+47,183,47,045,TN,"Dyer County",15,20,267
+47,183,21,083,KY,"Graves County",14,31,234
+47,183,47,037,TN,"Davidson County",12,18,356
+47,183,47,113,TN,"Madison County",12,25,421
+47,183,48,141,TX,"El Paso County",10,15,106
+47,183,58,000,SS,"Other Flows - Same State",87,161,2089
+47,183,59,000,DS,"Other Flows - Diff State",228,482,8652
+47,183,57,009,FR,"Foreign - Other flows",39,44,159
+47,185,96,000,TN,"White County Tot Mig-US & For",411,812,10567
+47,185,97,000,TN,"White County Tot Mig-US",411,812,10567
+47,185,97,001,TN,"White County Tot Mig-Same St",280,561,7307
+47,185,97,003,TN,"White County Tot Mig-Diff St",131,251,3259
+47,185,47,185,TN,"White County Non-Migrants",6241,13942,185091
+47,185,47,141,TN,"Putnam County",104,189,2911
+47,185,47,035,TN,"Cumberland County",21,47,348
+47,185,47,177,TN,"Warren County",21,41,500
+47,185,47,041,TN,"De Kalb County",20,42,483
+47,185,47,037,TN,"Davidson County",15,22,317
+47,185,47,133,TN,"Overton County",12,22,190
+47,185,47,175,TN,"Van Buren County",12,29,222
+47,185,47,149,TN,"Rutherford County",11,20,450
+47,185,58,000,SS,"Other Flows - Same State",64,149,1886
+47,185,59,000,DS,"Other Flows - Diff State",131,251,3259
+47,185,59,001,DS,"Other Flows - Northeast",13,23,362
+47,185,59,003,DS,"Other Flows - Midwest",31,57,930
+47,185,59,005,DS,"Other Flows - South",71,140,1453
+47,185,59,007,DS,"Other Flows - West",16,31,514
+47,187,96,000,TN,"Williamson Coun Tot Mig-US & For",5161,11383,390202
+47,187,97,000,TN,"Williamson Coun Tot Mig-US",5134,11330,388404
+47,187,97,001,TN,"Williamson Coun Tot Mig-Same St",2865,5882,189458
+47,187,97,003,TN,"Williamson Coun Tot Mig-Diff St",2269,5448,198947
+47,187,98,000,TN,"Williamson Coun Tot Mig-Foreign",27,53,1797
+47,187,47,187,TN,"Williamson Coun Non-Migrants",36092,90240,3134901
+47,187,47,037,TN,"Davidson County",1807,3620,125130
+47,187,47,119,TN,"Maury County",176,383,9849
+47,187,47,149,TN,"Rutherford County",162,349,7628
+47,187,47,157,TN,"Shelby County",89,204,10465
+47,187,47,165,TN,"Sumner County",63,127,3636
+47,187,47,093,TN,"Knox County",58,109,3053
+47,187,47,021,TN,"Cheatham County",46,95,2258
+47,187,47,043,TN,"Dickson County",44,93,1578
+47,187,47,189,TN,"Wilson County",41,108,3223
+47,187,13,121,GA,"Fulton County",36,81,3832
+47,187,47,081,TN,"Hickman County",36,83,1532
+47,187,13,135,GA,"Gwinnett County",34,104,3479
+47,187,47,125,TN,"Montgomery County",34,77,1991
+47,187,47,117,TN,"Marshall County",33,66,1097
+47,187,26,125,MI,"Oakland County",32,72,2578
+47,187,47,065,TN,"Hamilton County",32,66,2475
+47,187,01,073,AL,"Jefferson County",30,60,1623
+47,187,04,013,AZ,"Maricopa County",28,64,2614
+47,187,13,067,GA,"Cobb County",28,71,1952
+47,187,01,089,AL,"Madison County",27,61,1948
+47,187,26,163,MI,"Wayne County",27,68,2551
+47,187,48,201,TX,"Harris County",25,62,2284
+47,187,12,057,FL,"Hillsborough County",24,50,1570
+47,187,17,031,IL,"Cook County",24,50,2600
+47,187,21,111,KY,"Jefferson County",24,60,2009
+47,187,06,037,CA,"Los Angeles County",22,51,1097
+47,187,47,141,TN,"Putnam County",22,54,1371
+47,187,47,003,TN,"Bedford County",21,36,1083
+47,187,48,439,TX,"Tarrant County",21,51,1661
+47,187,06,059,CA,"Orange County",20,31,1063
+47,187,37,119,NC,"Mecklenburg County",19,50,1906
+47,187,48,121,TX,"Denton County",19,50,1569
+47,187,12,099,FL,"Palm Beach County",18,37,1429
+47,187,48,113,TX,"Dallas County",18,40,1668
+47,187,39,049,OH,"Franklin County",17,38,1048
+47,187,12,095,FL,"Orange County",16,32,1239
+47,187,12,103,FL,"Pinellas County",16,33,737
+47,187,17,043,IL,"Du Page County",16,59,2249
+47,187,47,147,TN,"Robertson County",16,42,879
+47,187,51,059,VA,"Fairfax County",16,45,1296
+47,187,39,017,OH,"Butler County",15,38,987
+47,187,48,453,TX,"Travis County",15,45,1837
+47,187,01,117,AL,"Shelby County",14,33,1559
+47,187,09,001,CT,"Fairfield County",14,36,1814
+47,187,12,011,FL,"Broward County",14,31,1085
+47,187,21,067,KY,"Fayette County",14,33,1007
+47,187,47,113,TN,"Madison County",14,26,1175
+47,187,47,179,TN,"Washington County",13,40,1204
+47,187,05,119,AR,"Pulaski County",12,27,924
+47,187,20,091,KS,"Johnson County",12,28,1102
+47,187,27,053,MN,"Hennepin County",12,38,3840
+47,187,29,189,MO,"St Louis County",12,34,976
+47,187,39,035,OH,"Cuyahoga County",12,30,1106
+47,187,48,085,TX,"Collin County",12,27,1508
+47,187,08,041,CO,"El Paso County",11,30,708
+47,187,18,097,IN,"Marion County",11,18,587
+47,187,40,143,OK,"Tulsa County",11,27,1097
+47,187,47,055,TN,"Giles County",11,17,663
+47,187,53,033,WA,"King County",11,24,8407
+47,187,01,077,AL,"Lauderdale County",10,21,304
+47,187,06,073,CA,"San Diego County",10,23,829
+47,187,12,025,FL,"Dade County",10,28,1126
+47,187,12,031,FL,"Duval County",10,21,1121
+47,187,12,071,FL,"Lee County",10,23,322
+47,187,22,071,LA,"Orleans Parish",10,20,985
+47,187,26,099,MI,"Macomb County",10,24,813
+47,187,37,183,NC,"Wake County",10,30,1227
+47,187,40,109,OK,"Oklahoma County",10,21,609
+47,187,45,019,SC,"Charleston County",10,18,599
+47,187,58,000,SS,"Other Flows - Same State",147,287,9169
+47,187,59,000,DS,"Other Flows - Diff State",1410,3400,116466
+47,187,59,001,DS,"Other Flows - Northeast",174,422,16872
+47,187,59,003,DS,"Other Flows - Midwest",360,901,33337
+47,187,59,005,DS,"Other Flows - South",703,1636,52928
+47,187,59,007,DS,"Other Flows - West",173,441,13330
+47,187,57,009,FR,"Foreign - Other flows",27,53,1797
+47,189,96,000,TN,"Wilson County Tot Mig-US & For",3025,6264,120760
+47,189,97,000,TN,"Wilson County Tot Mig-US",3025,6264,120760
+47,189,97,001,TN,"Wilson County Tot Mig-Same St",2253,4636,88522
+47,189,97,003,TN,"Wilson County Tot Mig-Diff St",772,1628,32238
+47,189,47,189,TN,"Wilson County Non-Migrants",29453,68333,1486950
+47,189,47,037,TN,"Davidson County",1367,2846,58641
+47,189,47,149,TN,"Rutherford County",220,463,7806
+47,189,47,165,TN,"Sumner County",116,227,3875
+47,189,47,159,TN,"Smith County",74,137,1808
+47,189,47,169,TN,"Trousdale County",44,87,909
+47,189,47,187,TN,"Williamson County",38,71,2189
+47,189,47,041,TN,"De Kalb County",37,83,1119
+47,189,47,141,TN,"Putnam County",34,65,1085
+47,189,47,147,TN,"Robertson County",33,65,1037
+47,189,47,111,TN,"Macon County",27,57,784
+47,189,47,065,TN,"Hamilton County",22,40,869
+47,189,47,093,TN,"Knox County",22,46,810
+47,189,47,021,TN,"Cheatham County",21,53,744
+47,189,47,157,TN,"Shelby County",20,37,928
+47,189,47,125,TN,"Montgomery County",19,38,665
+47,189,47,031,TN,"Coffee County",14,27,443
+47,189,12,095,FL,"Orange County",10,31,598
+47,189,58,000,SS,"Other Flows - Same State",145,294,4810
+47,189,59,000,DS,"Other Flows - Diff State",762,1597,31640
+47,189,59,001,DS,"Other Flows - Northeast",63,135,2521
+47,189,59,003,DS,"Other Flows - Midwest",171,376,7425
+47,189,59,005,DS,"Other Flows - South",442,897,18690
+47,189,59,007,DS,"Other Flows - West",86,189,3004

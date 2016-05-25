@@ -1,0 +1,3305 @@
+"1999 - 2000 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Michigan,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+26,000,96,000,MI,"Total Mig - US & For",215413,402168,8868231
+26,000,97,000,MI,"Total Mig - US",210604,395301,8749820
+26,000,97,001,MI,"Total Mig - US Same St",147961,272437,5931268
+26,000,97,003,MI,"Total Mig - US Diff St",62643,122864,2818552
+26,000,98,000,MI,"Total Mig - Foreign",4809,6867,118411
+26,001,96,000,MI,"Alcona County Tot Mig-US & For",441,847,16201
+26,001,97,000,MI,"Alcona County Tot Mig-US",441,847,16201
+26,001,97,001,MI,"Alcona County Tot Mig-Same St",378,729,13997
+26,001,97,003,MI,"Alcona County Tot Mig-Diff St",63,118,2205
+26,001,26,001,MI,"Alcona County Non-Migrants",4855,10403,163299
+26,001,26,069,MI,"Iosco County",72,143,1576
+26,001,26,125,MI,"Oakland County",47,97,2766
+26,001,26,049,MI,"Genesee County",39,75,1700
+26,001,26,163,MI,"Wayne County",38,76,1996
+26,001,26,099,MI,"Macomb County",26,49,1312
+26,001,26,007,MI,"Alpena County",23,37,578
+26,001,26,017,MI,"Bay County",13,21,337
+26,001,26,135,MI,"Oscoda County",12,18,312
+26,001,26,145,MI,"Saginaw County",10,17,409
+26,001,58,000,SS,"Other Flows - Same State",98,196,3010
+26,001,59,000,DS,"Other Flows - Diff State",63,118,2205
+26,003,96,000,MI,"Alger County Tot Mig-US & For",198,392,6069
+26,003,97,000,MI,"Alger County Tot Mig-US",198,392,6069
+26,003,97,001,MI,"Alger County Tot Mig-Same St",135,252,4336
+26,003,97,003,MI,"Alger County Tot Mig-Diff St",63,140,1733
+26,003,26,003,MI,"Alger County Non-Migrants",3315,7424,120549
+26,003,26,103,MI,"Marquette County",39,64,1110
+26,003,58,000,SS,"Other Flows - Same State",96,188,3227
+26,003,59,000,DS,"Other Flows - Diff State",63,140,1733
+26,005,96,000,MI,"Allegan County Tot Mig-US & For",3316,6625,135209
+26,005,97,000,MI,"Allegan County Tot Mig-US",3303,6597,134777
+26,005,97,001,MI,"Allegan County Tot Mig-Same St",2668,5337,109329
+26,005,97,003,MI,"Allegan County Tot Mig-Diff St",635,1260,25447
+26,005,98,000,MI,"Allegan County Tot Mig-Foreign",13,28,432
+26,005,26,005,MI,"Allegan County Non-Migrants",40177,95217,1961362
+26,005,26,081,MI,"Kent County",723,1525,32768
+26,005,26,139,MI,"Ottawa County",700,1412,30876
+26,005,26,077,MI,"Kalamazoo County",450,850,18037
+26,005,26,159,MI,"Van Buren County",224,459,5438
+26,005,26,015,MI,"Barry County",112,215,3856
+26,005,17,031,IL,"Cook County",64,115,3737
+26,005,26,021,MI,"Berrien County",38,68,1102
+26,005,26,125,MI,"Oakland County",37,57,2059
+26,005,26,163,MI,"Wayne County",30,56,1312
+26,005,26,025,MI,"Calhoun County",29,50,1457
+26,005,26,121,MI,"Muskegon County",26,51,713
+26,005,26,123,MI,"Newaygo County",21,40,739
+26,005,26,065,MI,"Ingham County",19,31,736
+26,005,06,037,CA,"Los Angeles County",18,36,386
+26,005,26,117,MI,"Montcalm County",13,34,517
+26,005,26,145,MI,"Saginaw County",13,25,496
+26,005,26,161,MI,"Washtenaw County",13,22,500
+26,005,48,215,TX,"Hidalgo County",13,37,186
+26,005,17,043,IL,"Du Page County",12,22,963
+26,005,26,049,MI,"Genesee County",12,34,1031
+26,005,26,055,MI,"Grand Traverse Count",12,22,512
+26,005,26,067,MI,"Ionia County",12,26,495
+26,005,26,099,MI,"Macomb County",12,19,580
+26,005,26,027,MI,"Cass County",11,24,234
+26,005,06,073,CA,"San Diego County",10,22,365
+26,005,26,107,MI,"Mecosta County",10,31,364
+26,005,26,149,MI,"St Joseph County",10,19,395
+26,005,58,000,SS,"Other Flows - Same State",141,267,5113
+26,005,59,000,DS,"Other Flows - Diff State",518,1028,19810
+26,005,59,001,DS,"Other Flows - Northeast",28,47,892
+26,005,59,003,DS,"Other Flows - Midwest",180,374,8521
+26,005,59,005,DS,"Other Flows - South",201,399,6685
+26,005,59,007,DS,"Other Flows - West",109,208,3712
+26,005,57,009,FR,"Foreign - Other flows",13,28,432
+26,007,96,000,MI,"Alpena County Tot Mig-US & For",563,1103,19040
+26,007,97,000,MI,"Alpena County Tot Mig-US",563,1103,19040
+26,007,97,001,MI,"Alpena County Tot Mig-Same St",395,772,13517
+26,007,97,003,MI,"Alpena County Tot Mig-Diff St",168,331,5523
+26,007,26,007,MI,"Alpena County Non-Migrants",12080,27137,469596
+26,007,26,141,MI,"Presque Isle County",48,92,1468
+26,007,26,125,MI,"Oakland County",41,77,1201
+26,007,26,001,MI,"Alcona County",38,68,922
+26,007,26,163,MI,"Wayne County",29,67,1366
+26,007,26,119,MI,"Montmorency County",20,49,549
+26,007,26,049,MI,"Genesee County",15,33,936
+26,007,26,069,MI,"Iosco County",15,32,452
+26,007,26,145,MI,"Saginaw County",14,26,399
+26,007,26,099,MI,"Macomb County",13,26,642
+26,007,26,081,MI,"Kent County",11,21,251
+26,007,58,000,SS,"Other Flows - Same State",151,281,5331
+26,007,59,000,DS,"Other Flows - Diff State",168,331,5523
+26,007,59,001,DS,"Other Flows - Northeast",15,29,397
+26,007,59,003,DS,"Other Flows - Midwest",40,82,1540
+26,007,59,005,DS,"Other Flows - South",68,135,2257
+26,007,59,007,DS,"Other Flows - West",45,85,1329
+26,009,96,000,MI,"Antrim County Tot Mig-US & For",1028,2105,50488
+26,009,97,000,MI,"Antrim County Tot Mig-US",1028,2105,50488
+26,009,97,001,MI,"Antrim County Tot Mig-Same St",824,1668,40948
+26,009,97,003,MI,"Antrim County Tot Mig-Diff St",204,437,9539
+26,009,26,009,MI,"Antrim County Non-Migrants",10342,23051,468583
+26,009,26,055,MI,"Grand Traverse Count",129,232,5168
+26,009,26,029,MI,"Charlevoix County",116,271,3790
+26,009,26,125,MI,"Oakland County",64,131,4135
+26,009,26,079,MI,"Kalkaska County",62,121,1650
+26,009,26,163,MI,"Wayne County",59,116,3646
+26,009,26,049,MI,"Genesee County",48,90,2268
+26,009,26,099,MI,"Macomb County",33,61,2546
+26,009,26,137,MI,"Otsego County",32,59,740
+26,009,26,081,MI,"Kent County",31,88,1713
+26,009,26,065,MI,"Ingham County",17,36,1024
+26,009,26,161,MI,"Washtenaw County",17,24,872
+26,009,26,089,MI,"Leelanau County",14,21,282
+26,009,26,145,MI,"Saginaw County",13,29,743
+26,009,26,047,MI,"Emmet County",11,24,298
+26,009,26,045,MI,"Eaton County",10,26,809
+26,009,26,139,MI,"Ottawa County",10,24,579
+26,009,58,000,SS,"Other Flows - Same State",158,315,10685
+26,009,59,000,DS,"Other Flows - Diff State",204,437,9539
+26,009,59,001,DS,"Other Flows - Northeast",17,48,598
+26,009,59,003,DS,"Other Flows - Midwest",69,146,4713
+26,009,59,005,DS,"Other Flows - South",80,171,2751
+26,009,59,007,DS,"Other Flows - West",38,72,1477
+26,011,96,000,MI,"Arenac County Tot Mig-US & For",524,1052,16577
+26,011,97,000,MI,"Arenac County Tot Mig-US",524,1052,16577
+26,011,97,001,MI,"Arenac County Tot Mig-Same St",441,874,14365
+26,011,97,003,MI,"Arenac County Tot Mig-Diff St",83,178,2212
+26,011,26,011,MI,"Arenac County Non-Migrants",6836,15248,237351
+26,011,26,017,MI,"Bay County",112,210,3100
+26,011,26,049,MI,"Genesee County",43,76,1589
+26,011,26,145,MI,"Saginaw County",39,85,1837
+26,011,26,125,MI,"Oakland County",33,72,1450
+26,011,26,129,MI,"Ogemaw County",32,68,636
+26,011,26,163,MI,"Wayne County",31,59,1178
+26,011,26,069,MI,"Iosco County",24,44,599
+26,011,26,099,MI,"Macomb County",24,58,1089
+26,011,58,000,SS,"Other Flows - Same State",103,202,2887
+26,011,59,000,DS,"Other Flows - Diff State",83,178,2212
+26,013,96,000,MI,"Baraga County Tot Mig-US & For",171,304,5784
+26,013,97,000,MI,"Baraga County Tot Mig-US",171,304,5784
+26,013,97,001,MI,"Baraga County Tot Mig-Same St",133,233,4497
+26,013,97,003,MI,"Baraga County Tot Mig-Diff St",38,71,1287
+26,013,26,013,MI,"Baraga County Non-Migrants",3096,6884,112045
+26,013,26,061,MI,"Houghton County",37,62,1032
+26,013,26,103,MI,"Marquette County",21,32,497
+26,013,26,125,MI,"Oakland County",10,20,1162
+26,013,58,000,SS,"Other Flows - Same State",65,119,1806
+26,013,59,000,DS,"Other Flows - Diff State",38,71,1287
+26,015,96,000,MI,"Barry County Tot Mig-US & For",1678,3358,64455
+26,015,97,000,MI,"Barry County Tot Mig-US",1678,3358,64455
+26,015,97,001,MI,"Barry County Tot Mig-Same St",1383,2781,51375
+26,015,97,003,MI,"Barry County Tot Mig-Diff St",295,577,13080
+26,015,26,015,MI,"Barry County Non-Migrants",21599,51344,1052677
+26,015,26,081,MI,"Kent County",419,889,18704
+26,015,26,025,MI,"Calhoun County",222,428,7215
+26,015,26,077,MI,"Kalamazoo County",178,347,7284
+26,015,26,005,MI,"Allegan County",126,285,4163
+26,015,26,045,MI,"Eaton County",120,244,3296
+26,015,26,067,MI,"Ionia County",68,121,1953
+26,015,26,065,MI,"Ingham County",37,69,1304
+26,015,26,139,MI,"Ottawa County",28,54,818
+26,015,26,125,MI,"Oakland County",17,37,573
+26,015,26,163,MI,"Wayne County",15,23,709
+26,015,17,031,IL,"Cook County",13,29,517
+26,015,26,037,MI,"Clinton County",11,20,358
+26,015,26,049,MI,"Genesee County",10,18,221
+26,015,26,107,MI,"Mecosta County",10,18,242
+26,015,58,000,SS,"Other Flows - Same State",122,228,4536
+26,015,59,000,DS,"Other Flows - Diff State",282,548,12563
+26,015,59,001,DS,"Other Flows - Northeast",24,43,715
+26,015,59,003,DS,"Other Flows - Midwest",94,181,6164
+26,015,59,005,DS,"Other Flows - South",105,212,3760
+26,015,59,007,DS,"Other Flows - West",59,112,1924
+26,017,96,000,MI,"Bay County Tot Mig-US & For",1971,3598,64333
+26,017,97,000,MI,"Bay County Tot Mig-US",1937,3555,63419
+26,017,97,001,MI,"Bay County Tot Mig-Same St",1527,2771,50933
+26,017,97,003,MI,"Bay County Tot Mig-Diff St",410,784,12486
+26,017,98,000,MI,"Bay County Tot Mig-Foreign",34,43,914
+26,017,26,017,MI,"Bay County Non-Migrants",42908,93929,1897566
+26,017,26,145,MI,"Saginaw County",382,689,13821
+26,017,26,111,MI,"Midland County",264,491,8857
+26,017,26,011,MI,"Arenac County",112,184,2473
+26,017,26,049,MI,"Genesee County",73,144,2706
+26,017,26,157,MI,"Tuscola County",68,116,2314
+26,017,26,125,MI,"Oakland County",53,101,2669
+26,017,26,051,MI,"Gladwin County",40,71,1261
+26,017,26,063,MI,"Huron County",36,55,1046
+26,017,26,069,MI,"Iosco County",36,67,792
+26,017,26,099,MI,"Macomb County",36,63,1370
+26,017,26,163,MI,"Wayne County",36,74,1531
+26,017,26,073,MI,"Isabella County",30,60,1078
+26,017,26,065,MI,"Ingham County",29,46,1388
+26,017,26,081,MI,"Kent County",24,40,705
+26,017,26,129,MI,"Ogemaw County",23,34,610
+26,017,26,161,MI,"Washtenaw County",22,39,860
+26,017,26,077,MI,"Kalamazoo County",16,29,627
+26,017,26,035,MI,"Clare County",14,24,376
+26,017,26,055,MI,"Grand Traverse Count",14,34,346
+26,017,26,057,MI,"Gratiot County",12,19,361
+26,017,26,139,MI,"Ottawa County",10,20,395
+26,017,26,143,MI,"Roscommon County",10,26,199
+26,017,26,147,MI,"St Clair County",10,21,178
+26,017,48,215,TX,"Hidalgo County",10,29,112
+26,017,57,005,FR,"Foreign - APO/FPO ZIPs",10,12,154
+26,017,58,000,SS,"Other Flows - Same State",177,324,4969
+26,017,59,000,DS,"Other Flows - Diff State",400,755,12373
+26,017,59,001,DS,"Other Flows - Northeast",31,56,1017
+26,017,59,003,DS,"Other Flows - Midwest",116,223,4387
+26,017,59,005,DS,"Other Flows - South",181,344,5033
+26,017,59,007,DS,"Other Flows - West",72,132,1937
+26,017,57,009,FR,"Foreign - Other flows",24,31,760
+26,019,96,000,MI,"Benzie County Tot Mig-US & For",727,1384,27140
+26,019,97,000,MI,"Benzie County Tot Mig-US",727,1384,27140
+26,019,97,001,MI,"Benzie County Tot Mig-Same St",588,1146,21624
+26,019,97,003,MI,"Benzie County Tot Mig-Diff St",139,238,5516
+26,019,26,019,MI,"Benzie County Non-Migrants",6669,14585,257776
+26,019,26,055,MI,"Grand Traverse Count",250,481,7780
+26,019,26,101,MI,"Manistee County",50,91,1021
+26,019,26,049,MI,"Genesee County",30,58,1180
+26,019,26,089,MI,"Leelanau County",30,65,1055
+26,019,26,125,MI,"Oakland County",26,46,1907
+26,019,26,163,MI,"Wayne County",22,38,1674
+26,019,26,081,MI,"Kent County",15,24,933
+26,019,26,065,MI,"Ingham County",12,16,367
+26,019,26,099,MI,"Macomb County",10,21,428
+26,019,26,111,MI,"Midland County",10,15,274
+26,019,58,000,SS,"Other Flows - Same State",133,291,5006
+26,019,59,000,DS,"Other Flows - Diff State",139,238,5516
+26,019,59,001,DS,"Other Flows - Northeast",12,17,317
+26,019,59,003,DS,"Other Flows - Midwest",43,69,2736
+26,019,59,005,DS,"Other Flows - South",55,98,1526
+26,019,59,007,DS,"Other Flows - West",29,54,936
+26,021,96,000,MI,"Berrien County Tot Mig-US & For",3080,6214,128555
+26,021,97,000,MI,"Berrien County Tot Mig-US",2981,6082,125727
+26,021,97,001,MI,"Berrien County Tot Mig-Same St",990,1895,32086
+26,021,97,003,MI,"Berrien County Tot Mig-Diff St",1991,4187,93640
+26,021,98,000,MI,"Berrien County Tot Mig-Foreign",99,132,2829
+26,021,26,021,MI,"Berrien County Non-Migrants",57991,127884,2537781
+26,021,18,141,IN,"St Joseph County",305,622,11634
+26,021,26,027,MI,"Cass County",218,423,5880
+26,021,26,159,MI,"Van Buren County",212,431,6426
+26,021,17,031,IL,"Cook County",163,282,9218
+26,021,26,077,MI,"Kalamazoo County",108,183,3117
+26,021,18,091,IN,"La Porte County",90,178,3706
+26,021,26,081,MI,"Kent County",63,119,2063
+26,021,18,039,IN,"Elkhart County",47,77,1180
+26,021,26,005,MI,"Allegan County",41,77,1378
+26,021,17,043,IL,"Du Page County",35,67,2489
+26,021,26,125,MI,"Oakland County",35,69,2199
+26,021,26,163,MI,"Wayne County",32,69,997
+26,021,26,065,MI,"Ingham County",31,54,986
+26,021,26,025,MI,"Calhoun County",26,58,1472
+26,021,04,013,AZ,"Maricopa County",24,59,1242
+26,021,17,097,IL,"Lake County",20,40,1046
+26,021,17,197,IL,"Will County",19,47,884
+26,021,26,121,MI,"Muskegon County",19,27,429
+26,021,26,139,MI,"Ottawa County",19,32,648
+26,021,18,089,IN,"Lake County",17,37,523
+26,021,26,149,MI,"St Joseph County",16,35,475
+26,021,12,017,FL,"Citrus County",13,39,1645
+26,021,18,097,IN,"Marion County",13,24,290
+26,021,26,049,MI,"Genesee County",13,27,433
+26,021,47,065,TN,"Hamilton County",12,31,541
+26,021,06,037,CA,"Los Angeles County",11,16,572
+26,021,17,089,IL,"Kane County",11,32,760
+26,021,47,157,TN,"Shelby County",11,27,202
+26,021,48,439,TX,"Tarrant County",11,20,475
+26,021,18,003,IN,"Allen County",10,19,281
+26,021,26,161,MI,"Washtenaw County",10,22,497
+26,021,39,035,OH,"Cuyahoga County",10,18,505
+26,021,39,049,OH,"Franklin County",10,20,367
+26,021,40,143,OK,"Tulsa County",10,25,403
+26,021,48,215,TX,"Hidalgo County",10,34,168
+26,021,58,000,SS,"Other Flows - Same State",147,269,5087
+26,021,59,000,DS,"Other Flows - Diff State",1139,2473,55506
+26,021,59,001,DS,"Other Flows - Northeast",118,286,8188
+26,021,59,003,DS,"Other Flows - Midwest",342,751,20701
+26,021,59,005,DS,"Other Flows - South",503,1080,19929
+26,021,59,007,DS,"Other Flows - West",176,356,6687
+26,021,57,009,FR,"Foreign - Other flows",99,132,2829
+26,023,96,000,MI,"Branch County Tot Mig-US & For",1077,2293,34245
+26,023,97,000,MI,"Branch County Tot Mig-US",1077,2293,34245
+26,023,97,001,MI,"Branch County Tot Mig-Same St",671,1423,21707
+26,023,97,003,MI,"Branch County Tot Mig-Diff St",406,870,12538
+26,023,26,023,MI,"Branch County Non-Migrants",16340,37517,663834
+26,023,26,025,MI,"Calhoun County",175,371,5995
+26,023,26,059,MI,"Hillsdale County",128,264,3395
+26,023,26,149,MI,"St Joseph County",80,169,2292
+26,023,26,163,MI,"Wayne County",55,145,1657
+26,023,18,151,IN,"Steuben County",40,83,1090
+26,023,26,077,MI,"Kalamazoo County",29,52,770
+26,023,26,075,MI,"Jackson County",26,56,1084
+26,023,26,125,MI,"Oakland County",19,38,577
+26,023,18,003,IN,"Allen County",15,37,864
+26,023,26,139,MI,"Ottawa County",14,40,384
+26,023,17,031,IL,"Cook County",13,44,594
+26,023,26,065,MI,"Ingham County",12,23,282
+26,023,26,015,MI,"Barry County",11,24,377
+26,023,18,039,IN,"Elkhart County",10,25,368
+26,023,18,087,IN,"Lagrange County",10,25,270
+26,023,26,081,MI,"Kent County",10,21,355
+26,023,26,091,MI,"Lenawee County",10,27,317
+26,023,39,095,OH,"Lucas County",10,17,262
+26,023,58,000,SS,"Other Flows - Same State",102,193,4224
+26,023,59,000,DS,"Other Flows - Diff State",308,639,9089
+26,023,59,001,DS,"Other Flows - Northeast",18,31,417
+26,023,59,003,DS,"Other Flows - Midwest",128,268,4750
+26,023,59,005,DS,"Other Flows - South",122,252,2995
+26,023,59,007,DS,"Other Flows - West",40,88,928
+26,025,96,000,MI,"Calhoun County Tot Mig-US & For",2708,5302,92826
+26,025,97,000,MI,"Calhoun County Tot Mig-US",2659,5233,91067
+26,025,97,001,MI,"Calhoun County Tot Mig-Same St",1797,3412,56776
+26,025,97,003,MI,"Calhoun County Tot Mig-Diff St",862,1821,34291
+26,025,98,000,MI,"Calhoun County Tot Mig-Foreign",49,69,1760
+26,025,26,025,MI,"Calhoun County Non-Migrants",47532,104352,2046340
+26,025,26,077,MI,"Kalamazoo County",321,525,10249
+26,025,26,015,MI,"Barry County",255,502,8427
+26,025,26,023,MI,"Branch County",212,440,5715
+26,025,26,075,MI,"Jackson County",168,366,4988
+26,025,26,045,MI,"Eaton County",113,212,3052
+26,025,26,065,MI,"Ingham County",82,115,2557
+26,025,26,163,MI,"Wayne County",70,150,2951
+26,025,26,081,MI,"Kent County",69,119,2288
+26,025,26,059,MI,"Hillsdale County",48,90,1052
+26,025,26,125,MI,"Oakland County",45,82,1961
+26,025,26,149,MI,"St Joseph County",35,63,866
+26,025,26,021,MI,"Berrien County",34,62,1056
+26,025,26,161,MI,"Washtenaw County",32,61,1105
+26,025,17,031,IL,"Cook County",30,51,1788
+26,025,26,049,MI,"Genesee County",26,51,1054
+26,025,26,005,MI,"Allegan County",25,42,904
+26,025,26,099,MI,"Macomb County",22,44,1060
+26,025,26,145,MI,"Saginaw County",19,43,696
+26,025,04,013,AZ,"Maricopa County",17,37,1051
+26,025,57,005,FR,"Foreign - APO/FPO ZIPs",17,30,634
+26,025,26,115,MI,"Monroe County",14,33,398
+26,025,26,027,MI,"Cass County",13,26,275
+26,025,26,147,MI,"St Clair County",13,23,484
+26,025,26,159,MI,"Van Buren County",13,24,333
+26,025,26,091,MI,"Lenawee County",12,27,389
+26,025,26,093,MI,"Livingston County",12,25,622
+26,025,18,039,IN,"Elkhart County",11,20,346
+26,025,18,097,IN,"Marion County",11,26,314
+26,025,06,073,CA,"San Diego County",10,19,180
+26,025,26,139,MI,"Ottawa County",10,21,312
+26,025,48,201,TX,"Harris County",10,21,341
+26,025,58,000,SS,"Other Flows - Same State",134,266,3982
+26,025,59,000,DS,"Other Flows - Diff State",773,1647,30270
+26,025,59,001,DS,"Other Flows - Northeast",52,109,2348
+26,025,59,003,DS,"Other Flows - Midwest",253,555,11712
+26,025,59,005,DS,"Other Flows - South",336,695,11505
+26,025,59,007,DS,"Other Flows - West",132,288,4705
+26,025,57,009,FR,"Foreign - Other flows",32,39,1126
+26,027,96,000,MI,"Cass County Tot Mig-US & For",1393,2807,47937
+26,027,97,000,MI,"Cass County Tot Mig-US",1393,2807,47937
+26,027,97,001,MI,"Cass County Tot Mig-Same St",609,1184,16667
+26,027,97,003,MI,"Cass County Tot Mig-Diff St",784,1623,31271
+26,027,26,027,MI,"Cass County Non-Migrants",18104,40441,755253
+26,027,18,039,IN,"Elkhart County",263,528,9306
+26,027,26,021,MI,"Berrien County",213,404,5493
+26,027,18,141,IN,"St Joseph County",169,350,10230
+26,027,26,149,MI,"St Joseph County",113,239,3094
+26,027,26,159,MI,"Van Buren County",94,196,2643
+26,027,26,077,MI,"Kalamazoo County",81,146,2030
+26,027,17,031,IL,"Cook County",47,88,1960
+26,027,58,000,SS,"Other Flows - Same State",108,199,3407
+26,027,59,000,DS,"Other Flows - Diff State",305,657,9774
+26,027,59,001,DS,"Other Flows - Northeast",14,32,509
+26,027,59,003,DS,"Other Flows - Midwest",103,221,3981
+26,027,59,005,DS,"Other Flows - South",139,287,3441
+26,027,59,007,DS,"Other Flows - West",49,117,1842
+26,029,96,000,MI,"Charlevoix Coun Tot Mig-US & For",734,1346,35384
+26,029,97,000,MI,"Charlevoix Coun Tot Mig-US",734,1346,35384
+26,029,97,001,MI,"Charlevoix Coun Tot Mig-Same St",551,1015,25947
+26,029,97,003,MI,"Charlevoix Coun Tot Mig-Diff St",183,331,9436
+26,029,26,029,MI,"Charlevoix Coun Non-Migrants",7884,17796,370269
+26,029,26,047,MI,"Emmet County",127,222,3407
+26,029,26,009,MI,"Antrim County",88,162,2540
+26,029,26,125,MI,"Oakland County",41,69,2808
+26,029,26,163,MI,"Wayne County",29,51,1773
+26,029,26,081,MI,"Kent County",25,43,1258
+26,029,26,031,MI,"Cheboygan County",21,36,746
+26,029,26,055,MI,"Grand Traverse Count",18,32,569
+26,029,26,137,MI,"Otsego County",17,41,489
+26,029,26,099,MI,"Macomb County",16,24,1264
+26,029,26,065,MI,"Ingham County",14,22,833
+26,029,26,145,MI,"Saginaw County",12,17,483
+26,029,17,031,IL,"Cook County",11,15,530
+26,029,58,000,SS,"Other Flows - Same State",143,296,9778
+26,029,59,000,DS,"Other Flows - Diff State",172,316,8906
+26,029,59,001,DS,"Other Flows - Northeast",11,16,270
+26,029,59,003,DS,"Other Flows - Midwest",49,98,4471
+26,029,59,005,DS,"Other Flows - South",75,134,2854
+26,029,59,007,DS,"Other Flows - West",37,68,1311
+26,031,96,000,MI,"Cheboygan Count Tot Mig-US & For",910,1791,33710
+26,031,97,000,MI,"Cheboygan Count Tot Mig-US",910,1791,33710
+26,031,97,001,MI,"Cheboygan Count Tot Mig-Same St",710,1411,27267
+26,031,97,003,MI,"Cheboygan Count Tot Mig-Diff St",200,380,6443
+26,031,26,031,MI,"Cheboygan Count Non-Migrants",10665,23643,400060
+26,031,26,047,MI,"Emmet County",118,268,3378
+26,031,26,125,MI,"Oakland County",68,137,4798
+26,031,26,163,MI,"Wayne County",56,100,2337
+26,031,26,137,MI,"Otsego County",42,90,1279
+26,031,26,141,MI,"Presque Isle County",41,82,1042
+26,031,26,099,MI,"Macomb County",31,58,1346
+26,031,26,097,MI,"Mackinac County",30,55,870
+26,031,26,029,MI,"Charlevoix County",29,51,760
+26,031,26,049,MI,"Genesee County",27,55,1692
+26,031,26,093,MI,"Livingston County",22,41,980
+26,031,26,081,MI,"Kent County",19,37,761
+26,031,26,033,MI,"Chippewa County",15,35,388
+26,031,26,065,MI,"Ingham County",13,21,420
+26,031,26,073,MI,"Isabella County",13,22,335
+26,031,26,145,MI,"Saginaw County",13,29,732
+26,031,26,055,MI,"Grand Traverse Count",11,19,472
+26,031,58,000,SS,"Other Flows - Same State",162,311,5677
+26,031,59,000,DS,"Other Flows - Diff State",200,380,6443
+26,031,59,001,DS,"Other Flows - Northeast",14,18,447
+26,031,59,003,DS,"Other Flows - Midwest",69,126,2582
+26,031,59,005,DS,"Other Flows - South",75,142,2387
+26,031,59,007,DS,"Other Flows - West",42,94,1027
+26,033,96,000,MI,"Chippewa County Tot Mig-US & For",726,1358,21366
+26,033,97,000,MI,"Chippewa County Tot Mig-US",703,1321,20603
+26,033,97,001,MI,"Chippewa County Tot Mig-Same St",489,902,14337
+26,033,97,003,MI,"Chippewa County Tot Mig-Diff St",214,419,6266
+26,033,98,000,MI,"Chippewa County Tot Mig-Foreign",23,37,763
+26,033,26,033,MI,"Chippewa County Non-Migrants",11878,26101,423341
+26,033,26,097,MI,"Mackinac County",61,127,1462
+26,033,26,125,MI,"Oakland County",29,51,1336
+26,033,26,095,MI,"Luce County",21,38,514
+26,033,26,049,MI,"Genesee County",20,42,747
+26,033,26,081,MI,"Kent County",18,23,563
+26,033,26,163,MI,"Wayne County",18,31,597
+26,033,26,065,MI,"Ingham County",15,19,350
+26,033,26,103,MI,"Marquette County",15,28,294
+26,033,26,031,MI,"Cheboygan County",13,22,515
+26,033,26,099,MI,"Macomb County",13,27,493
+26,033,26,153,MI,"Schoolcraft County",11,19,279
+26,033,26,139,MI,"Ottawa County",10,15,280
+26,033,58,000,SS,"Other Flows - Same State",245,460,6908
+26,033,59,000,DS,"Other Flows - Diff State",214,419,6266
+26,033,59,001,DS,"Other Flows - Northeast",24,63,1119
+26,033,59,003,DS,"Other Flows - Midwest",67,128,1793
+26,033,59,005,DS,"Other Flows - South",75,141,2038
+26,033,59,007,DS,"Other Flows - West",48,87,1316
+26,033,57,009,FR,"Foreign - Other flows",23,37,763
+26,035,96,000,MI,"Clare County Tot Mig-US & For",1071,2190,31966
+26,035,97,000,MI,"Clare County Tot Mig-US",1071,2190,31966
+26,035,97,001,MI,"Clare County Tot Mig-Same St",887,1812,27241
+26,035,97,003,MI,"Clare County Tot Mig-Diff St",184,378,4725
+26,035,26,035,MI,"Clare County Non-Migrants",12009,27528,401933
+26,035,26,073,MI,"Isabella County",138,257,3353
+26,035,26,125,MI,"Oakland County",80,173,2722
+26,035,26,163,MI,"Wayne County",74,151,2937
+26,035,26,051,MI,"Gladwin County",64,146,1855
+26,035,26,049,MI,"Genesee County",53,99,1988
+26,035,26,111,MI,"Midland County",40,72,908
+26,035,26,057,MI,"Gratiot County",29,61,951
+26,035,26,099,MI,"Macomb County",29,60,1505
+26,035,26,145,MI,"Saginaw County",25,63,659
+26,035,26,037,MI,"Clinton County",24,46,801
+26,035,26,065,MI,"Ingham County",24,51,855
+26,035,26,081,MI,"Kent County",24,51,686
+26,035,26,133,MI,"Osceola County",22,42,502
+26,035,26,107,MI,"Mecosta County",20,38,409
+26,035,26,017,MI,"Bay County",18,47,570
+26,035,26,045,MI,"Eaton County",17,32,452
+26,035,26,093,MI,"Livingston County",12,23,709
+26,035,26,155,MI,"Shiawassee County",12,30,412
+26,035,26,075,MI,"Jackson County",11,15,258
+26,035,26,143,MI,"Roscommon County",11,24,183
+26,035,26,113,MI,"Missaukee County",10,29,225
+26,035,58,000,SS,"Other Flows - Same State",150,302,4299
+26,035,59,000,DS,"Other Flows - Diff State",184,378,4725
+26,037,96,000,MI,"Clinton County Tot Mig-US & For",2649,5209,108602
+26,037,97,000,MI,"Clinton County Tot Mig-US",2633,5175,108223
+26,037,97,001,MI,"Clinton County Tot Mig-Same St",2224,4362,89400
+26,037,97,003,MI,"Clinton County Tot Mig-Diff St",409,813,18823
+26,037,98,000,MI,"Clinton County Tot Mig-Foreign",16,34,379
+26,037,26,037,MI,"Clinton County Non-Migrants",29290,71074,1563704
+26,037,26,065,MI,"Ingham County",995,1931,41184
+26,037,26,045,MI,"Eaton County",337,681,15012
+26,037,26,155,MI,"Shiawassee County",145,306,4540
+26,037,26,057,MI,"Gratiot County",96,211,3020
+26,037,26,067,MI,"Ionia County",80,165,2838
+26,037,26,125,MI,"Oakland County",61,118,3477
+26,037,26,049,MI,"Genesee County",49,98,2193
+26,037,26,081,MI,"Kent County",46,92,1731
+26,037,26,145,MI,"Saginaw County",31,56,1220
+26,037,26,073,MI,"Isabella County",30,46,846
+26,037,26,163,MI,"Wayne County",25,44,1318
+26,037,26,093,MI,"Livingston County",24,42,1027
+26,037,26,025,MI,"Calhoun County",22,43,1135
+26,037,26,099,MI,"Macomb County",20,41,733
+26,037,26,075,MI,"Jackson County",17,30,668
+26,037,26,077,MI,"Kalamazoo County",16,28,636
+26,037,26,117,MI,"Montcalm County",13,25,339
+26,037,26,161,MI,"Washtenaw County",13,22,726
+26,037,17,031,IL,"Cook County",12,20,760
+26,037,26,107,MI,"Mecosta County",11,23,353
+26,037,04,013,AZ,"Maricopa County",10,14,263
+26,037,26,035,MI,"Clare County",10,21,123
+26,037,58,000,SS,"Other Flows - Same State",183,339,6279
+26,037,59,000,DS,"Other Flows - Diff State",387,779,17800
+26,037,59,001,DS,"Other Flows - Northeast",45,83,1934
+26,037,59,003,DS,"Other Flows - Midwest",134,299,7839
+26,037,59,005,DS,"Other Flows - South",156,305,5478
+26,037,59,007,DS,"Other Flows - West",52,92,2549
+26,037,57,009,FR,"Foreign - Other flows",16,34,379
+26,039,96,000,MI,"Crawford County Tot Mig-US & For",553,1105,19627
+26,039,97,000,MI,"Crawford County Tot Mig-US",553,1105,19627
+26,039,97,001,MI,"Crawford County Tot Mig-Same St",457,913,16409
+26,039,97,003,MI,"Crawford County Tot Mig-Diff St",96,192,3218
+26,039,26,039,MI,"Crawford County Non-Migrants",5409,12184,187687
+26,039,26,143,MI,"Roscommon County",56,125,1306
+26,039,26,163,MI,"Wayne County",51,92,1713
+26,039,26,125,MI,"Oakland County",48,84,2038
+26,039,26,099,MI,"Macomb County",37,77,1657
+26,039,26,049,MI,"Genesee County",29,59,1045
+26,039,26,137,MI,"Otsego County",26,48,433
+26,039,26,147,MI,"St Clair County",14,30,384
+26,039,26,145,MI,"Saginaw County",13,26,572
+26,039,26,065,MI,"Ingham County",12,22,594
+26,039,26,093,MI,"Livingston County",12,28,552
+26,039,26,081,MI,"Kent County",10,16,334
+26,039,58,000,SS,"Other Flows - Same State",149,306,5779
+26,039,59,000,DS,"Other Flows - Diff State",96,192,3218
+26,041,96,000,MI,"Delta County Tot Mig-US & For",626,1276,22648
+26,041,97,000,MI,"Delta County Tot Mig-US",626,1276,22648
+26,041,97,001,MI,"Delta County Tot Mig-Same St",327,644,11246
+26,041,97,003,MI,"Delta County Tot Mig-Diff St",299,632,11402
+26,041,26,041,MI,"Delta County Non-Migrants",13911,31479,575826
+26,041,26,109,MI,"Menominee County",49,91,1158
+26,041,26,103,MI,"Marquette County",46,85,1250
+26,041,55,009,WI,"Brown County",21,43,755
+26,041,17,031,IL,"Cook County",16,27,510
+26,041,26,043,MI,"Dickinson County",16,36,626
+26,041,26,125,MI,"Oakland County",15,26,793
+26,041,26,003,MI,"Alger County",14,28,502
+26,041,26,065,MI,"Ingham County",12,27,617
+26,041,26,153,MI,"Schoolcraft County",10,20,737
+26,041,58,000,SS,"Other Flows - Same State",165,331,5563
+26,041,59,000,DS,"Other Flows - Diff State",262,562,10137
+26,041,59,001,DS,"Other Flows - Northeast",20,41,1296
+26,041,59,003,DS,"Other Flows - Midwest",132,299,4943
+26,041,59,005,DS,"Other Flows - South",66,131,2409
+26,041,59,007,DS,"Other Flows - West",44,91,1489
+26,043,96,000,MI,"Dickinson Count Tot Mig-US & For",518,995,16604
+26,043,97,000,MI,"Dickinson Count Tot Mig-US",518,995,16604
+26,043,97,001,MI,"Dickinson Count Tot Mig-Same St",204,401,6181
+26,043,97,003,MI,"Dickinson Count Tot Mig-Diff St",314,594,10423
+26,043,26,043,MI,"Dickinson Count Non-Migrants",9828,22542,425011
+26,043,55,075,WI,"Marinette County",41,84,1125
+26,043,55,037,WI,"Florence County",37,62,758
+26,043,26,041,MI,"Delta County",28,50,644
+26,043,55,009,WI,"Brown County",28,47,798
+26,043,26,109,MI,"Menominee County",27,55,1226
+26,043,26,103,MI,"Marquette County",23,45,489
+26,043,26,071,MI,"Iron County",21,48,469
+26,043,26,163,MI,"Wayne County",13,21,440
+26,043,55,079,WI,"Milwaukee County",11,18,416
+26,043,58,000,SS,"Other Flows - Same State",92,182,2912
+26,043,59,000,DS,"Other Flows - Diff State",197,383,7325
+26,045,96,000,MI,"Eaton County Tot Mig-US & For",3740,6994,128976
+26,045,97,000,MI,"Eaton County Tot Mig-US",3711,6947,128623
+26,045,97,001,MI,"Eaton County Tot Mig-Same St",3061,5694,105743
+26,045,97,003,MI,"Eaton County Tot Mig-Diff St",650,1253,22880
+26,045,98,000,MI,"Eaton County Tot Mig-Foreign",29,47,353
+26,045,26,045,MI,"Eaton County Non-Migrants",37513,84570,1872602
+26,045,26,065,MI,"Ingham County",1600,3039,52049
+26,045,26,037,MI,"Clinton County",320,576,11685
+26,045,26,025,MI,"Calhoun County",99,188,2785
+26,045,26,015,MI,"Barry County",94,177,2656
+26,045,26,081,MI,"Kent County",90,160,3439
+26,045,26,067,MI,"Ionia County",78,145,2699
+26,045,26,125,MI,"Oakland County",72,128,3029
+26,045,26,075,MI,"Jackson County",71,124,1781
+26,045,26,077,MI,"Kalamazoo County",65,132,2756
+26,045,26,163,MI,"Wayne County",54,90,2160
+26,045,26,049,MI,"Genesee County",37,66,1393
+26,045,26,073,MI,"Isabella County",34,56,932
+26,045,26,161,MI,"Washtenaw County",31,47,862
+26,045,26,155,MI,"Shiawassee County",30,55,1005
+26,045,26,099,MI,"Macomb County",26,47,1362
+26,045,26,057,MI,"Gratiot County",25,41,761
+26,045,26,093,MI,"Livingston County",21,32,883
+26,045,26,145,MI,"Saginaw County",21,31,579
+26,045,26,139,MI,"Ottawa County",15,29,687
+26,045,17,031,IL,"Cook County",14,28,590
+26,045,26,107,MI,"Mecosta County",14,23,330
+26,045,26,021,MI,"Berrien County",13,19,409
+26,045,26,023,MI,"Branch County",12,20,289
+26,045,26,121,MI,"Muskegon County",12,32,365
+26,045,26,091,MI,"Lenawee County",11,29,334
+26,045,57,005,FR,"Foreign - APO/FPO ZIPs",11,23,243
+26,045,18,003,IN,"Allen County",10,23,479
+26,045,26,117,MI,"Montcalm County",10,21,256
+26,045,58,000,SS,"Other Flows - Same State",206,387,10257
+26,045,59,000,DS,"Other Flows - Diff State",626,1202,21810
+26,045,59,001,DS,"Other Flows - Northeast",67,151,2736
+26,045,59,003,DS,"Other Flows - Midwest",192,397,7731
+26,045,59,005,DS,"Other Flows - South",256,458,7597
+26,045,59,007,DS,"Other Flows - West",111,196,3747
+26,045,57,009,FR,"Foreign - Other flows",18,24,110
+26,047,96,000,MI,"Emmet County Tot Mig-US & For",856,1609,44663
+26,047,97,000,MI,"Emmet County Tot Mig-US",856,1609,44663
+26,047,97,001,MI,"Emmet County Tot Mig-Same St",649,1230,34907
+26,047,97,003,MI,"Emmet County Tot Mig-Diff St",207,379,9756
+26,047,26,047,MI,"Emmet County Non-Migrants",10016,22219,483004
+26,047,26,031,MI,"Cheboygan County",113,212,5798
+26,047,26,029,MI,"Charlevoix County",97,199,2972
+26,047,26,125,MI,"Oakland County",50,95,4378
+26,047,26,081,MI,"Kent County",32,53,1575
+26,047,26,163,MI,"Wayne County",27,47,5323
+26,047,26,009,MI,"Antrim County",20,29,405
+26,047,26,055,MI,"Grand Traverse Count",20,37,621
+26,047,26,137,MI,"Otsego County",20,32,676
+26,047,26,097,MI,"Mackinac County",19,34,687
+26,047,26,099,MI,"Macomb County",18,36,745
+26,047,26,073,MI,"Isabella County",14,21,327
+26,047,26,161,MI,"Washtenaw County",14,27,22
+26,047,26,049,MI,"Genesee County",13,23,1133
+26,047,26,033,MI,"Chippewa County",12,24,295
+26,047,26,077,MI,"Kalamazoo County",11,21,1026
+26,047,26,145,MI,"Saginaw County",11,20,817
+26,047,26,007,MI,"Alpena County",10,26,529
+26,047,26,065,MI,"Ingham County",10,14,291
+26,047,26,147,MI,"St Clair County",10,22,1229
+26,047,58,000,SS,"Other Flows - Same State",128,258,6059
+26,047,59,000,DS,"Other Flows - Diff State",207,379,9756
+26,047,59,001,DS,"Other Flows - Northeast",19,37,1466
+26,047,59,003,DS,"Other Flows - Midwest",67,118,4077
+26,047,59,005,DS,"Other Flows - South",67,109,2338
+26,047,59,007,DS,"Other Flows - West",54,115,1875
+26,049,96,000,MI,"Genesee County Tot Mig-US & For",7370,14667,289282
+26,049,97,000,MI,"Genesee County Tot Mig-US",7294,14533,287326
+26,049,97,001,MI,"Genesee County Tot Mig-Same St",5039,9906,205337
+26,049,97,003,MI,"Genesee County Tot Mig-Diff St",2255,4627,81989
+26,049,98,000,MI,"Genesee County Tot Mig-Foreign",76,134,1956
+26,049,26,049,MI,"Genesee County Non-Migrants",162457,357561,7692059
+26,049,26,125,MI,"Oakland County",1504,3151,72674
+26,049,26,087,MI,"Lapeer County",497,935,16466
+26,049,26,145,MI,"Saginaw County",380,691,14408
+26,049,26,163,MI,"Wayne County",356,746,14649
+26,049,26,155,MI,"Shiawassee County",297,536,10413
+26,049,26,093,MI,"Livingston County",268,562,13289
+26,049,26,099,MI,"Macomb County",232,463,11048
+26,049,26,157,MI,"Tuscola County",165,328,5320
+26,049,26,065,MI,"Ingham County",154,277,5014
+26,049,26,161,MI,"Washtenaw County",100,168,4368
+26,049,26,081,MI,"Kent County",79,153,3544
+26,049,17,031,IL,"Cook County",56,112,2065
+26,049,26,017,MI,"Bay County",50,82,1968
+26,049,26,069,MI,"Iosco County",49,93,1280
+26,049,26,147,MI,"St Clair County",46,78,2002
+26,049,26,077,MI,"Kalamazoo County",44,78,1732
+26,049,04,013,AZ,"Maricopa County",43,75,1189
+26,049,26,073,MI,"Isabella County",41,62,1023
+26,049,26,045,MI,"Eaton County",39,72,1492
+26,049,26,111,MI,"Midland County",39,66,1584
+26,049,26,143,MI,"Roscommon County",33,52,882
+26,049,26,151,MI,"Sanilac County",33,69,1064
+26,049,26,139,MI,"Ottawa County",31,66,2597
+26,049,26,129,MI,"Ogemaw County",30,74,926
+26,049,06,073,CA,"San Diego County",28,68,615
+26,049,39,049,OH,"Franklin County",27,50,753
+26,049,32,003,NV,"Clark County",26,40,582
+26,049,57,005,FR,"Foreign - APO/FPO ZIPs",26,43,504
+26,049,26,011,MI,"Arenac County",25,51,551
+26,049,18,003,IN,"Allen County",24,50,1171
+26,049,26,037,MI,"Clinton County",24,47,1082
+26,049,26,063,MI,"Huron County",24,31,848
+26,049,26,001,MI,"Alcona County",22,39,503
+26,049,12,105,FL,"Polk County",21,42,656
+26,049,26,007,MI,"Alpena County",21,53,594
+26,049,26,025,MI,"Calhoun County",21,33,748
+26,049,26,035,MI,"Clare County",21,43,417
+26,049,26,051,MI,"Gladwin County",21,35,815
+26,049,26,055,MI,"Grand Traverse Count",21,33,724
+26,049,26,075,MI,"Jackson County",21,46,975
+26,049,39,095,OH,"Lucas County",21,57,597
+26,049,12,101,FL,"Pasco County",20,33,443
+26,049,12,103,FL,"Pinellas County",20,28,1589
+26,049,26,021,MI,"Berrien County",20,40,735
+26,049,47,157,TN,"Shelby County",20,52,389
+26,049,48,113,TX,"Dallas County",20,27,383
+26,049,48,201,TX,"Harris County",19,42,701
+26,049,12,095,FL,"Orange County",18,20,224
+26,049,18,097,IN,"Marion County",18,33,1038
+26,049,26,115,MI,"Monroe County",18,42,825
+26,049,26,033,MI,"Chippewa County",17,22,337
+26,049,26,057,MI,"Gratiot County",17,38,351
+26,049,39,035,OH,"Cuyahoga County",17,39,901
+26,049,12,099,FL,"Palm Beach County",16,22,419
+26,049,26,091,MI,"Lenawee County",16,37,797
+26,049,47,119,TN,"Maury County",16,41,886
+26,049,06,059,CA,"Orange County",15,27,829
+26,049,12,011,FL,"Broward County",15,28,559
+26,049,12,081,FL,"Manatee County",15,26,443
+26,049,26,121,MI,"Muskegon County",15,30,501
+26,049,39,113,OH,"Montgomery County",15,35,776
+26,049,48,439,TX,"Tarrant County",15,37,759
+26,049,08,041,CO,"El Paso County",14,35,457
+26,049,13,067,GA,"Cobb County",14,25,368
+26,049,13,121,GA,"Fulton County",14,29,520
+26,049,13,135,GA,"Gwinnett County",14,40,716
+26,049,26,031,MI,"Cheboygan County",14,19,169
+26,049,47,037,TN,"Davidson County",14,33,599
+26,049,06,037,CA,"Los Angeles County",13,25,325
+26,049,12,057,FL,"Hillsborough County",13,23,424
+26,049,21,111,KY,"Jefferson County",13,25,520
+26,049,26,019,MI,"Benzie County",13,27,412
+26,049,26,119,MI,"Montmorency County",13,26,352
+26,049,26,137,MI,"Otsego County",13,25,418
+26,049,12,021,FL,"Collier County",12,19,434
+26,049,12,071,FL,"Lee County",12,24,227
+26,049,26,141,MI,"Presque Isle County",12,27,404
+26,049,27,053,MN,"Hennepin County",12,23,239
+26,049,37,119,NC,"Mecklenburg County",12,23,541
+26,049,37,133,NC,"Onslow County",12,16,203
+26,049,42,003,PA,"Allegheny County",12,21,438
+26,049,18,141,IN,"St Joseph County",11,28,302
+26,049,26,107,MI,"Mecosta County",11,24,273
+26,049,12,033,FL,"Escambia County",10,25,300
+26,049,15,003,HI,"Honolulu County",10,22,141
+26,049,17,043,IL,"Du Page County",10,23,594
+26,049,17,097,IL,"Lake County",10,23,405
+26,049,17,201,IL,"Winnebago County",10,22,287
+26,049,18,067,IN,"Howard County",10,31,1036
+26,049,26,005,MI,"Allegan County",10,17,336
+26,049,37,051,NC,"Cumberland County",10,21,224
+26,049,39,061,OH,"Hamilton County",10,13,180
+26,049,55,105,WI,"Rock County",10,17,889
+26,049,58,000,SS,"Other Flows - Same State",162,319,4424
+26,049,59,000,DS,"Other Flows - Diff State",1468,3057,53654
+26,049,59,001,DS,"Other Flows - Northeast",184,393,7775
+26,049,59,003,DS,"Other Flows - Midwest",368,789,16984
+26,049,59,005,DS,"Other Flows - South",708,1475,21237
+26,049,59,007,DS,"Other Flows - West",208,400,7657
+26,049,57,009,FR,"Foreign - Other flows",50,91,1452
+26,051,96,000,MI,"Gladwin County Tot Mig-US & For",720,1424,30129
+26,051,97,000,MI,"Gladwin County Tot Mig-US",720,1424,30129
+26,051,97,001,MI,"Gladwin County Tot Mig-Same St",617,1228,27026
+26,051,97,003,MI,"Gladwin County Tot Mig-Diff St",103,196,3103
+26,051,26,051,MI,"Gladwin County Non-Migrants",7623,17008,276917
+26,051,26,111,MI,"Midland County",87,175,2990
+26,051,26,163,MI,"Wayne County",65,121,2908
+26,051,26,049,MI,"Genesee County",58,133,5863
+26,051,26,035,MI,"Clare County",54,109,1398
+26,051,26,125,MI,"Oakland County",50,87,2730
+26,051,26,145,MI,"Saginaw County",43,84,1851
+26,051,26,017,MI,"Bay County",39,78,1300
+26,051,26,099,MI,"Macomb County",34,73,1715
+26,051,26,129,MI,"Ogemaw County",29,49,467
+26,051,26,073,MI,"Isabella County",21,43,637
+26,051,26,143,MI,"Roscommon County",16,33,492
+26,051,26,011,MI,"Arenac County",11,21,345
+26,051,26,087,MI,"Lapeer County",10,29,599
+26,051,58,000,SS,"Other Flows - Same State",100,193,3731
+26,051,59,000,DS,"Other Flows - Diff State",103,196,3103
+26,053,96,000,MI,"Gogebic County Tot Mig-US & For",327,635,9581
+26,053,97,000,MI,"Gogebic County Tot Mig-US",327,635,9581
+26,053,97,001,MI,"Gogebic County Tot Mig-Same St",88,170,2119
+26,053,97,003,MI,"Gogebic County Tot Mig-Diff St",239,465,7462
+26,053,26,053,MI,"Gogebic County Non-Migrants",5543,11967,185124
+26,053,55,051,WI,"Iron County",45,88,917
+26,053,26,131,MI,"Ontonagon County",13,32,235
+26,053,55,125,WI,"Vilas County",11,22,540
+26,053,17,097,IL,"Lake County",10,23,466
+26,053,58,000,SS,"Other Flows - Same State",75,138,1885
+26,053,59,000,DS,"Other Flows - Diff State",173,332,5540
+26,055,96,000,MI,"Grand Traverse Tot Mig-US & For",2572,4680,104286
+26,055,97,000,MI,"Grand Traverse Tot Mig-US",2557,4661,104016
+26,055,97,001,MI,"Grand Traverse Tot Mig-Same St",1854,3338,71818
+26,055,97,003,MI,"Grand Traverse Tot Mig-Diff St",703,1323,32198
+26,055,98,000,MI,"Grand Traverse Tot Mig-Foreign",15,19,270
+26,055,26,055,MI,"Grand Traverse Non-Migrants",30275,66330,1519188
+26,055,26,019,MI,"Benzie County",180,327,5105
+26,055,26,089,MI,"Leelanau County",165,288,5966
+26,055,26,009,MI,"Antrim County",135,233,3747
+26,055,26,125,MI,"Oakland County",114,212,8041
+26,055,26,081,MI,"Kent County",102,177,5423
+26,055,26,163,MI,"Wayne County",94,193,4777
+26,055,26,165,MI,"Wexford County",90,159,2281
+26,055,26,079,MI,"Kalkaska County",80,145,1729
+26,055,26,049,MI,"Genesee County",65,123,3871
+26,055,26,065,MI,"Ingham County",64,103,2511
+26,055,26,099,MI,"Macomb County",43,90,2287
+26,055,26,145,MI,"Saginaw County",40,66,1421
+26,055,26,161,MI,"Washtenaw County",39,70,2107
+26,055,26,101,MI,"Manistee County",34,56,1087
+26,055,17,031,IL,"Cook County",31,52,1530
+26,055,04,013,AZ,"Maricopa County",30,49,1289
+26,055,26,139,MI,"Ottawa County",28,81,1419
+26,055,26,047,MI,"Emmet County",24,37,678
+26,055,26,111,MI,"Midland County",24,47,1526
+26,055,26,029,MI,"Charlevoix County",23,37,690
+26,055,26,103,MI,"Marquette County",22,40,589
+26,055,26,045,MI,"Eaton County",21,43,948
+26,055,26,113,MI,"Missaukee County",21,34,441
+26,055,26,007,MI,"Alpena County",20,37,342
+26,055,26,077,MI,"Kalamazoo County",20,31,940
+26,055,26,031,MI,"Cheboygan County",19,29,435
+26,055,26,017,MI,"Bay County",18,34,829
+26,055,26,137,MI,"Otsego County",18,24,530
+26,055,26,073,MI,"Isabella County",17,31,709
+26,055,26,107,MI,"Mecosta County",17,33,505
+26,055,26,093,MI,"Livingston County",16,46,1144
+26,055,26,021,MI,"Berrien County",15,20,543
+26,055,26,037,MI,"Clinton County",13,29,1247
+26,055,26,075,MI,"Jackson County",13,25,515
+26,055,26,121,MI,"Muskegon County",13,29,491
+26,055,26,147,MI,"St Clair County",13,23,378
+26,055,26,155,MI,"Shiawassee County",12,23,435
+26,055,26,033,MI,"Chippewa County",11,14,191
+26,055,26,039,MI,"Crawford County",11,15,278
+26,055,26,097,MI,"Mackinac County",11,13,246
+26,055,12,103,FL,"Pinellas County",10,19,409
+26,055,26,005,MI,"Allegan County",10,16,216
+26,055,26,143,MI,"Roscommon County",10,17,330
+26,055,26,157,MI,"Tuscola County",10,20,267
+26,055,32,003,NV,"Clark County",10,18,657
+26,055,39,049,OH,"Franklin County",10,17,364
+26,055,58,000,SS,"Other Flows - Same State",159,268,4601
+26,055,59,000,DS,"Other Flows - Diff State",612,1168,27950
+26,055,59,001,DS,"Other Flows - Northeast",64,108,3336
+26,055,59,003,DS,"Other Flows - Midwest",154,331,8595
+26,055,59,005,DS,"Other Flows - South",237,447,9435
+26,055,59,007,DS,"Other Flows - West",157,282,6585
+26,055,57,009,FR,"Foreign - Other flows",15,19,270
+26,057,96,000,MI,"Gratiot County Tot Mig-US & For",1089,2128,33948
+26,057,97,000,MI,"Gratiot County Tot Mig-US",1078,2115,33818
+26,057,97,001,MI,"Gratiot County Tot Mig-Same St",898,1762,28165
+26,057,97,003,MI,"Gratiot County Tot Mig-Diff St",180,353,5654
+26,057,98,000,MI,"Gratiot County Tot Mig-Foreign",11,13,130
+26,057,26,057,MI,"Gratiot County Non-Migrants",16965,39899,677640
+26,057,26,073,MI,"Isabella County",166,328,4885
+26,057,26,037,MI,"Clinton County",100,201,3034
+26,057,26,117,MI,"Montcalm County",88,182,2069
+26,057,26,145,MI,"Saginaw County",63,134,1977
+26,057,26,065,MI,"Ingham County",49,79,1571
+26,057,26,067,MI,"Ionia County",38,76,2305
+26,057,26,081,MI,"Kent County",33,63,1144
+26,057,26,045,MI,"Eaton County",29,60,1335
+26,057,26,035,MI,"Clare County",27,66,628
+26,057,26,111,MI,"Midland County",27,56,574
+26,057,26,163,MI,"Wayne County",20,38,508
+26,057,26,125,MI,"Oakland County",19,39,825
+26,057,26,155,MI,"Shiawassee County",15,32,435
+26,057,26,049,MI,"Genesee County",13,19,524
+26,057,26,033,MI,"Chippewa County",12,25,390
+26,057,26,107,MI,"Mecosta County",11,21,277
+26,057,26,093,MI,"Livingston County",10,18,220
+26,057,58,000,SS,"Other Flows - Same State",178,325,5465
+26,057,59,000,DS,"Other Flows - Diff State",180,353,5654
+26,057,59,001,DS,"Other Flows - Northeast",12,19,514
+26,057,59,003,DS,"Other Flows - Midwest",37,69,951
+26,057,59,005,DS,"Other Flows - South",90,191,2771
+26,057,59,007,DS,"Other Flows - West",41,74,1417
+26,057,57,009,FR,"Foreign - Other flows",11,13,130
+26,059,96,000,MI,"Hillsdale Count Tot Mig-US & For",1138,2337,39347
+26,059,97,000,MI,"Hillsdale Count Tot Mig-US",1138,2337,39347
+26,059,97,001,MI,"Hillsdale Count Tot Mig-Same St",787,1573,27798
+26,059,97,003,MI,"Hillsdale Count Tot Mig-Diff St",351,764,11549
+26,059,26,059,MI,"Hillsdale Count Non-Migrants",16165,37443,661463
+26,059,26,075,MI,"Jackson County",180,368,6548
+26,059,26,091,MI,"Lenawee County",152,324,5503
+26,059,26,023,MI,"Branch County",115,223,3146
+26,059,26,163,MI,"Wayne County",96,213,4514
+26,059,26,025,MI,"Calhoun County",51,94,1912
+26,059,39,171,OH,"Williams County",40,87,1173
+26,059,39,095,OH,"Lucas County",35,81,1785
+26,059,26,161,MI,"Washtenaw County",29,45,762
+26,059,26,115,MI,"Monroe County",21,40,884
+26,059,26,125,MI,"Oakland County",21,46,899
+26,059,18,151,IN,"Steuben County",19,47,615
+26,059,26,065,MI,"Ingham County",12,22,234
+26,059,26,099,MI,"Macomb County",12,16,279
+26,059,26,077,MI,"Kalamazoo County",10,17,232
+26,059,39,051,OH,"Fulton County",10,23,326
+26,059,58,000,SS,"Other Flows - Same State",88,165,2884
+26,059,59,000,DS,"Other Flows - Diff State",247,526,7650
+26,059,59,001,DS,"Other Flows - Northeast",21,43,581
+26,059,59,003,DS,"Other Flows - Midwest",92,194,3335
+26,059,59,005,DS,"Other Flows - South",102,227,2987
+26,059,59,007,DS,"Other Flows - West",32,62,746
+26,061,96,000,MI,"Houghton County Tot Mig-US & For",773,1296,20166
+26,061,97,000,MI,"Houghton County Tot Mig-US",638,1155,19649
+26,061,97,001,MI,"Houghton County Tot Mig-Same St",341,567,8868
+26,061,97,003,MI,"Houghton County Tot Mig-Diff St",297,588,10781
+26,061,98,000,MI,"Houghton County Tot Mig-Foreign",135,141,518
+26,061,26,061,MI,"Houghton County Non-Migrants",10673,24017,391953
+26,061,26,103,MI,"Marquette County",42,77,1253
+26,061,26,125,MI,"Oakland County",30,45,1051
+26,061,26,013,MI,"Baraga County",28,49,465
+26,061,26,083,MI,"Keweenaw County",26,48,597
+26,061,26,163,MI,"Wayne County",24,33,1000
+26,061,26,131,MI,"Ontonagon County",14,29,410
+26,061,17,031,IL,"Cook County",13,17,453
+26,061,26,043,MI,"Dickinson County",12,26,303
+26,061,26,081,MI,"Kent County",11,13,185
+26,061,26,161,MI,"Washtenaw County",11,15,348
+26,061,58,000,SS,"Other Flows - Same State",143,232,3258
+26,061,59,000,DS,"Other Flows - Diff State",284,571,10327
+26,061,59,001,DS,"Other Flows - Northeast",17,31,472
+26,061,59,003,DS,"Other Flows - Midwest",148,304,5390
+26,061,59,005,DS,"Other Flows - South",53,108,1729
+26,061,59,007,DS,"Other Flows - West",66,128,2736
+26,061,57,009,FR,"Foreign - Other flows",135,141,518
+26,063,96,000,MI,"Huron County Tot Mig-US & For",623,1184,24577
+26,063,97,000,MI,"Huron County Tot Mig-US",623,1184,24577
+26,063,97,001,MI,"Huron County Tot Mig-Same St",492,933,19978
+26,063,97,003,MI,"Huron County Tot Mig-Diff St",131,251,4599
+26,063,26,063,MI,"Huron County Non-Migrants",14586,32670,569111
+26,063,26,157,MI,"Tuscola County",81,173,2354
+26,063,26,099,MI,"Macomb County",79,136,3514
+26,063,26,125,MI,"Oakland County",68,129,3951
+26,063,26,151,MI,"Sanilac County",46,91,1035
+26,063,26,163,MI,"Wayne County",31,60,2616
+26,063,26,017,MI,"Bay County",27,56,941
+26,063,26,145,MI,"Saginaw County",24,42,632
+26,063,26,049,MI,"Genesee County",23,38,798
+26,063,26,087,MI,"Lapeer County",19,35,637
+26,063,26,147,MI,"St Clair County",18,41,797
+26,063,58,000,SS,"Other Flows - Same State",76,132,2703
+26,063,59,000,DS,"Other Flows - Diff State",131,251,4599
+26,063,59,001,DS,"Other Flows - Northeast",10,22,272
+26,063,59,003,DS,"Other Flows - Midwest",29,55,855
+26,063,59,005,DS,"Other Flows - South",57,101,2243
+26,063,59,007,DS,"Other Flows - West",35,73,1229
+26,065,96,000,MI,"Ingham County Tot Mig-US & For",8335,13461,260440
+26,065,97,000,MI,"Ingham County Tot Mig-US",7787,12828,257588
+26,065,97,001,MI,"Ingham County Tot Mig-Same St",5761,9248,185210
+26,065,97,003,MI,"Ingham County Tot Mig-Diff St",2026,3580,72378
+26,065,98,000,MI,"Ingham County Tot Mig-Foreign",548,633,2851
+26,065,26,065,MI,"Ingham County Non-Migrants",85525,182003,4256216
+26,065,26,045,MI,"Eaton County",1415,2524,44718
+26,065,26,037,MI,"Clinton County",857,1468,27125
+26,065,26,125,MI,"Oakland County",385,534,19203
+26,065,26,163,MI,"Wayne County",297,453,9114
+26,065,26,093,MI,"Livingston County",281,501,9819
+26,065,26,075,MI,"Jackson County",272,493,11441
+26,065,26,081,MI,"Kent County",200,291,5655
+26,065,26,155,MI,"Shiawassee County",187,305,5926
+26,065,26,161,MI,"Washtenaw County",164,224,5368
+26,065,26,049,MI,"Genesee County",158,236,5220
+26,065,26,077,MI,"Kalamazoo County",131,197,3977
+26,065,26,099,MI,"Macomb County",129,174,3683
+26,065,26,145,MI,"Saginaw County",95,144,2481
+26,065,17,031,IL,"Cook County",74,132,3393
+26,065,26,025,MI,"Calhoun County",70,100,1741
+26,065,26,057,MI,"Gratiot County",66,100,1498
+26,065,26,067,MI,"Ionia County",66,96,1749
+26,065,26,073,MI,"Isabella County",64,102,1640
+26,065,26,017,MI,"Bay County",54,68,1362
+26,065,26,121,MI,"Muskegon County",51,68,1157
+26,065,26,139,MI,"Ottawa County",44,70,1296
+26,065,26,055,MI,"Grand Traverse Count",42,48,1764
+26,065,04,013,AZ,"Maricopa County",41,73,1466
+26,065,26,021,MI,"Berrien County",40,55,994
+26,065,26,091,MI,"Lenawee County",36,50,870
+26,065,26,111,MI,"Midland County",36,48,1053
+26,065,26,087,MI,"Lapeer County",35,52,1441
+26,065,26,147,MI,"St Clair County",32,43,729
+26,065,06,073,CA,"San Diego County",28,60,729
+26,065,26,015,MI,"Barry County",27,46,838
+26,065,26,107,MI,"Mecosta County",27,35,577
+26,065,17,043,IL,"Du Page County",26,48,1784
+26,065,39,049,OH,"Franklin County",24,42,789
+26,065,06,037,CA,"Los Angeles County",23,37,607
+26,065,26,035,MI,"Clare County",22,33,537
+26,065,18,097,IN,"Marion County",20,39,762
+26,065,26,117,MI,"Montcalm County",20,33,411
+26,065,18,003,IN,"Allen County",19,36,752
+26,065,26,007,MI,"Alpena County",19,34,436
+26,065,26,031,MI,"Cheboygan County",19,22,392
+26,065,26,059,MI,"Hillsdale County",19,38,839
+26,065,48,201,TX,"Harris County",19,33,526
+26,065,26,115,MI,"Monroe County",18,19,422
+26,065,26,165,MI,"Wexford County",18,24,458
+26,065,26,023,MI,"Branch County",17,24,589
+26,065,26,033,MI,"Chippewa County",17,25,425
+26,065,12,103,FL,"Pinellas County",16,24,471
+26,065,26,101,MI,"Manistee County",16,19,313
+26,065,26,143,MI,"Roscommon County",16,22,336
+26,065,04,019,AZ,"Pima County",15,36,430
+26,065,26,005,MI,"Allegan County",15,20,436
+26,065,32,003,NV,"Clark County",15,26,379
+26,065,06,059,CA,"Orange County",14,28,301
+26,065,12,057,FL,"Hillsborough County",14,21,431
+26,065,13,089,GA,"De Kalb County",14,26,278
+26,065,26,009,MI,"Antrim County",14,25,354
+26,065,39,095,OH,"Lucas County",14,26,360
+26,065,48,029,TX,"Bexar County",14,21,280
+26,065,55,025,WI,"Dane County",14,21,535
+26,065,12,099,FL,"Palm Beach County",13,21,442
+26,065,24,031,MD,"Montgomery County",13,23,434
+26,065,26,103,MI,"Marquette County",13,18,436
+26,065,39,035,OH,"Cuyahoga County",13,19,389
+26,065,39,113,OH,"Montgomery County",13,23,518
+26,065,53,033,WA,"King County",13,18,478
+26,065,57,005,FR,"Foreign - APO/FPO ZIPs",13,30,381
+26,065,11,001,DC,"District Of Columbia",12,18,415
+26,065,12,095,FL,"Orange County",12,20,307
+26,065,19,169,IA,"Story County",12,22,507
+26,065,21,111,KY,"Jefferson County",12,17,223
+26,065,26,041,MI,"Delta County",12,18,210
+26,065,26,047,MI,"Emmet County",12,17,475
+26,065,26,063,MI,"Huron County",12,16,200
+26,065,26,069,MI,"Iosco County",12,19,292
+26,065,26,127,MI,"Oceana County",12,14,242
+26,065,12,011,FL,"Broward County",11,15,403
+26,065,12,071,FL,"Lee County",11,19,202
+26,065,17,019,IL,"Champaign County",11,13,275
+26,065,26,105,MI,"Mason County",11,14,254
+26,065,26,159,MI,"Van Buren County",11,15,275
+26,065,48,113,TX,"Dallas County",11,24,1514
+26,065,06,075,CA,"San Francisco County",10,13,312
+26,065,06,085,CA,"Santa Clara County",10,18,324
+26,065,12,025,FL,"Dade County",10,13,265
+26,065,15,003,HI,"Honolulu County",10,21,287
+26,065,17,097,IL,"Lake County",10,17,1288
+26,065,18,105,IN,"Monroe County",10,19,359
+26,065,26,029,MI,"Charlevoix County",10,14,522
+26,065,26,039,MI,"Crawford County",10,11,122
+26,065,26,133,MI,"Osceola County",10,21,226
+26,065,26,151,MI,"Sanilac County",10,16,353
+26,065,35,001,NM,"Bernalillo County",10,20,302
+26,065,36,061,NY,"New York County",10,15,329
+26,065,58,000,SS,"Other Flows - Same State",135,192,3216
+26,065,59,000,DS,"Other Flows - Diff State",1385,2463,48535
+26,065,59,001,DS,"Other Flows - Northeast",231,362,8161
+26,065,59,003,DS,"Other Flows - Midwest",366,633,12668
+26,065,59,005,DS,"Other Flows - South",600,1115,20980
+26,065,59,007,DS,"Other Flows - West",188,353,6726
+26,065,57,009,FR,"Foreign - Other flows",535,603,2470
+26,067,96,000,MI,"Ionia County Tot Mig-US & For",1331,2763,45245
+26,067,97,000,MI,"Ionia County Tot Mig-US",1331,2763,45245
+26,067,97,001,MI,"Ionia County Tot Mig-Same St",1145,2381,39620
+26,067,97,003,MI,"Ionia County Tot Mig-Diff St",186,382,5625
+26,067,26,067,MI,"Ionia County Non-Migrants",18900,45122,800460
+26,067,26,081,MI,"Kent County",406,845,16935
+26,067,26,117,MI,"Montcalm County",142,333,3473
+26,067,26,045,MI,"Eaton County",104,190,3653
+26,067,26,065,MI,"Ingham County",87,183,3437
+26,067,26,037,MI,"Clinton County",78,161,2518
+26,067,26,015,MI,"Barry County",66,136,1612
+26,067,26,057,MI,"Gratiot County",32,51,649
+26,067,26,139,MI,"Ottawa County",19,41,721
+26,067,26,125,MI,"Oakland County",18,43,848
+26,067,26,163,MI,"Wayne County",14,29,512
+26,067,26,005,MI,"Allegan County",13,31,532
+26,067,26,025,MI,"Calhoun County",12,20,333
+26,067,26,107,MI,"Mecosta County",12,25,304
+26,067,26,049,MI,"Genesee County",10,19,254
+26,067,58,000,SS,"Other Flows - Same State",132,274,3840
+26,067,59,000,DS,"Other Flows - Diff State",186,382,5625
+26,067,59,001,DS,"Other Flows - Northeast",16,46,760
+26,067,59,003,DS,"Other Flows - Midwest",63,124,1948
+26,067,59,005,DS,"Other Flows - South",75,150,1947
+26,067,59,007,DS,"Other Flows - West",32,62,970
+26,069,96,000,MI,"Iosco County Tot Mig-US & For",761,1486,28042
+26,069,97,000,MI,"Iosco County Tot Mig-US",761,1486,28042
+26,069,97,001,MI,"Iosco County Tot Mig-Same St",592,1147,22117
+26,069,97,003,MI,"Iosco County Tot Mig-Diff St",169,339,5925
+26,069,26,069,MI,"Iosco County Non-Migrants",9398,20183,320902
+26,069,26,163,MI,"Wayne County",68,145,2975
+26,069,26,049,MI,"Genesee County",67,116,2302
+26,069,26,001,MI,"Alcona County",63,132,1166
+26,069,26,125,MI,"Oakland County",59,120,2857
+26,069,26,145,MI,"Saginaw County",48,78,1376
+26,069,26,099,MI,"Macomb County",38,73,2323
+26,069,26,129,MI,"Ogemaw County",36,59,770
+26,069,26,017,MI,"Bay County",28,53,736
+26,069,26,011,MI,"Arenac County",25,49,471
+26,069,26,093,MI,"Livingston County",13,25,659
+26,069,26,155,MI,"Shiawassee County",11,22,436
+26,069,26,147,MI,"St Clair County",10,15,279
+26,069,26,161,MI,"Washtenaw County",10,17,716
+26,069,58,000,SS,"Other Flows - Same State",116,243,5050
+26,069,59,000,DS,"Other Flows - Diff State",169,339,5925
+26,069,59,001,DS,"Other Flows - Northeast",16,25,756
+26,069,59,003,DS,"Other Flows - Midwest",35,90,1635
+26,069,59,005,DS,"Other Flows - South",82,161,2468
+26,069,59,007,DS,"Other Flows - West",36,63,1067
+26,071,96,000,MI,"Iron County Tot Mig-US & For",233,457,7340
+26,071,97,000,MI,"Iron County Tot Mig-US",233,457,7340
+26,071,97,001,MI,"Iron County Tot Mig-Same St",114,229,3612
+26,071,97,003,MI,"Iron County Tot Mig-Diff St",119,228,3729
+26,071,26,071,MI,"Iron County Non-Migrants",4424,9618,146835
+26,071,26,043,MI,"Dickinson County",20,34,453
+26,071,26,103,MI,"Marquette County",19,35,523
+26,071,17,031,IL,"Cook County",10,17,448
+26,071,58,000,SS,"Other Flows - Same State",75,160,2636
+26,071,59,000,DS,"Other Flows - Diff State",109,211,3281
+26,073,96,000,MI,"Isabella County Tot Mig-US & For",1837,3024,48581
+26,073,97,000,MI,"Isabella County Tot Mig-US",1761,2940,48170
+26,073,97,001,MI,"Isabella County Tot Mig-Same St",1447,2346,38543
+26,073,97,003,MI,"Isabella County Tot Mig-Diff St",314,594,9627
+26,073,98,000,MI,"Isabella County Tot Mig-Foreign",76,84,410
+26,073,26,073,MI,"Isabella County Non-Migrants",17790,40061,774106
+26,073,26,057,MI,"Gratiot County",158,286,4318
+26,073,26,035,MI,"Clare County",131,233,3271
+26,073,26,117,MI,"Montcalm County",88,162,2189
+26,073,26,111,MI,"Midland County",84,143,3875
+26,073,26,065,MI,"Ingham County",73,119,1960
+26,073,26,107,MI,"Mecosta County",71,117,1539
+26,073,26,081,MI,"Kent County",70,114,1820
+26,073,26,145,MI,"Saginaw County",64,107,1674
+26,073,26,125,MI,"Oakland County",57,87,1712
+26,073,26,163,MI,"Wayne County",51,83,2011
+26,073,26,017,MI,"Bay County",48,69,1025
+26,073,26,099,MI,"Macomb County",35,49,1158
+26,073,26,049,MI,"Genesee County",29,52,824
+26,073,26,067,MI,"Ionia County",29,59,713
+26,073,26,051,MI,"Gladwin County",21,30,505
+26,073,26,063,MI,"Huron County",18,21,218
+26,073,26,029,MI,"Charlevoix County",15,19,269
+26,073,26,045,MI,"Eaton County",15,18,344
+26,073,26,155,MI,"Shiawassee County",15,27,428
+26,073,26,037,MI,"Clinton County",14,15,359
+26,073,26,033,MI,"Chippewa County",13,24,304
+26,073,26,093,MI,"Livingston County",12,15,286
+26,073,26,121,MI,"Muskegon County",12,14,187
+26,073,26,143,MI,"Roscommon County",12,13,126
+26,073,26,157,MI,"Tuscola County",12,17,234
+26,073,17,031,IL,"Cook County",11,26,324
+26,073,26,055,MI,"Grand Traverse Count",11,19,382
+26,073,26,087,MI,"Lapeer County",11,13,158
+26,073,26,137,MI,"Otsego County",11,13,165
+26,073,26,069,MI,"Iosco County",10,14,184
+26,073,26,075,MI,"Jackson County",10,15,261
+26,073,26,091,MI,"Lenawee County",10,15,187
+26,073,58,000,SS,"Other Flows - Same State",237,364,5853
+26,073,59,000,DS,"Other Flows - Diff State",303,568,9303
+26,073,59,001,DS,"Other Flows - Northeast",33,52,792
+26,073,59,003,DS,"Other Flows - Midwest",79,154,2610
+26,073,59,005,DS,"Other Flows - South",118,231,3572
+26,073,59,007,DS,"Other Flows - West",73,131,2328
+26,073,57,009,FR,"Foreign - Other flows",76,84,410
+26,075,96,000,MI,"Jackson County Tot Mig-US & For",2937,5710,110921
+26,075,97,000,MI,"Jackson County Tot Mig-US",2908,5654,110419
+26,075,97,001,MI,"Jackson County Tot Mig-Same St",2058,3936,78277
+26,075,97,003,MI,"Jackson County Tot Mig-Diff St",850,1718,32142
+26,075,98,000,MI,"Jackson County Tot Mig-Foreign",29,56,502
+26,075,26,075,MI,"Jackson County Non-Migrants",55027,122641,2577789
+26,075,26,161,MI,"Washtenaw County",352,677,14702
+26,075,26,163,MI,"Wayne County",284,606,13910
+26,075,26,065,MI,"Ingham County",271,503,8466
+26,075,26,091,MI,"Lenawee County",183,357,6900
+26,075,26,025,MI,"Calhoun County",166,323,5093
+26,075,26,059,MI,"Hillsdale County",142,255,5417
+26,075,26,125,MI,"Oakland County",91,183,4167
+26,075,26,045,MI,"Eaton County",74,125,1964
+26,075,26,093,MI,"Livingston County",69,135,2809
+26,075,26,077,MI,"Kalamazoo County",60,94,1998
+26,075,26,115,MI,"Monroe County",36,74,1909
+26,075,26,081,MI,"Kent County",30,57,1084
+26,075,26,049,MI,"Genesee County",29,51,1081
+26,075,26,023,MI,"Branch County",26,41,948
+26,075,39,095,OH,"Lucas County",24,39,1162
+26,075,04,013,AZ,"Maricopa County",22,44,568
+26,075,17,031,IL,"Cook County",22,43,715
+26,075,26,099,MI,"Macomb County",18,39,805
+26,075,18,003,IN,"Allen County",16,36,932
+26,075,26,037,MI,"Clinton County",15,25,362
+26,075,57,005,FR,"Foreign - APO/FPO ZIPs",15,30,286
+26,075,26,145,MI,"Saginaw County",13,29,517
+26,075,26,073,MI,"Isabella County",11,13,261
+26,075,26,139,MI,"Ottawa County",11,27,486
+26,075,48,201,TX,"Harris County",11,15,158
+26,075,26,155,MI,"Shiawassee County",10,15,422
+26,075,58,000,SS,"Other Flows - Same State",167,307,4976
+26,075,59,000,DS,"Other Flows - Diff State",755,1541,28606
+26,075,59,001,DS,"Other Flows - Northeast",71,152,3892
+26,075,59,003,DS,"Other Flows - Midwest",214,435,8096
+26,075,59,005,DS,"Other Flows - South",352,737,12443
+26,075,59,007,DS,"Other Flows - West",118,217,4175
+26,075,57,009,FR,"Foreign - Other flows",14,26,216
+26,077,96,000,MI,"Kalamazoo Count Tot Mig-US & For",6071,10367,215737
+26,077,97,000,MI,"Kalamazoo Count Tot Mig-US",5787,10041,212981
+26,077,97,001,MI,"Kalamazoo Count Tot Mig-Same St",3823,6156,122097
+26,077,97,003,MI,"Kalamazoo Count Tot Mig-Diff St",1964,3885,90884
+26,077,98,000,MI,"Kalamazoo Count Tot Mig-Foreign",284,326,2756
+26,077,26,077,MI,"Kalamazoo Count Non-Migrants",81793,177397,4344081
+26,077,26,159,MI,"Van Buren County",519,898,16403
+26,077,26,005,MI,"Allegan County",485,835,15453
+26,077,26,025,MI,"Calhoun County",400,687,14770
+26,077,26,081,MI,"Kent County",291,467,11388
+26,077,26,149,MI,"St Joseph County",233,390,7347
+26,077,26,015,MI,"Barry County",162,296,6496
+26,077,26,021,MI,"Berrien County",157,229,4120
+26,077,26,163,MI,"Wayne County",155,250,5160
+26,077,26,125,MI,"Oakland County",148,209,5224
+26,077,17,031,IL,"Cook County",109,182,5137
+26,077,26,065,MI,"Ingham County",103,145,2687
+26,077,26,027,MI,"Cass County",98,158,2141
+26,077,26,139,MI,"Ottawa County",96,155,2906
+26,077,26,099,MI,"Macomb County",79,97,2317
+26,077,26,161,MI,"Washtenaw County",74,124,2893
+26,077,26,075,MI,"Jackson County",66,103,2214
+26,077,26,049,MI,"Genesee County",51,77,1440
+26,077,26,023,MI,"Branch County",50,72,1241
+26,077,26,121,MI,"Muskegon County",47,55,1307
+26,077,26,045,MI,"Eaton County",46,79,1424
+26,077,26,145,MI,"Saginaw County",41,51,991
+26,077,18,141,IN,"St Joseph County",37,68,1534
+26,077,26,017,MI,"Bay County",32,47,934
+26,077,26,059,MI,"Hillsdale County",30,44,584
+26,077,18,003,IN,"Allen County",28,76,1801
+26,077,04,013,AZ,"Maricopa County",27,46,1061
+26,077,06,037,CA,"Los Angeles County",26,46,612
+26,077,18,097,IN,"Marion County",26,43,834
+26,077,17,043,IL,"Du Page County",25,45,1654
+26,077,26,037,MI,"Clinton County",23,32,527
+26,077,26,147,MI,"St Clair County",23,26,499
+26,077,18,039,IN,"Elkhart County",22,39,628
+26,077,26,055,MI,"Grand Traverse Count",22,30,1514
+26,077,26,091,MI,"Lenawee County",21,32,397
+26,077,26,093,MI,"Livingston County",20,26,633
+26,077,26,111,MI,"Midland County",19,30,577
+26,077,39,035,OH,"Cuyahoga County",19,49,1410
+26,077,39,049,OH,"Franklin County",19,26,471
+26,077,06,073,CA,"San Diego County",18,27,548
+26,077,26,073,MI,"Isabella County",17,30,444
+26,077,26,107,MI,"Mecosta County",17,32,407
+26,077,57,005,FR,"Foreign - APO/FPO ZIPs",17,22,426
+26,077,26,105,MI,"Mason County",16,30,357
+26,077,27,053,MN,"Hennepin County",15,27,435
+26,077,55,025,WI,"Dane County",15,45,1079
+26,077,26,033,MI,"Chippewa County",14,20,217
+26,077,26,067,MI,"Ionia County",14,23,432
+26,077,26,155,MI,"Shiawassee County",14,17,356
+26,077,31,055,NE,"Douglas County",14,37,886
+26,077,39,095,OH,"Lucas County",14,24,731
+26,077,48,201,TX,"Harris County",14,21,436
+26,077,17,097,IL,"Lake County",13,40,859
+26,077,26,101,MI,"Manistee County",13,20,419
+26,077,26,151,MI,"Sanilac County",13,25,456
+26,077,39,153,OH,"Summit County",13,35,1630
+26,077,13,121,GA,"Fulton County",12,17,526
+26,077,18,089,IN,"Lake County",12,22,285
+26,077,26,165,MI,"Wexford County",12,13,315
+26,077,42,003,PA,"Allegheny County",12,26,683
+26,077,48,113,TX,"Dallas County",12,27,666
+26,077,53,033,WA,"King County",12,29,662
+26,077,12,105,FL,"Polk County",11,18,829
+26,077,17,197,IL,"Will County",11,26,450
+26,077,26,007,MI,"Alpena County",11,18,215
+26,077,26,085,MI,"Lake County",11,18,145
+26,077,26,087,MI,"Lapeer County",11,13,355
+26,077,37,133,NC,"Onslow County",11,26,260
+26,077,04,019,AZ,"Pima County",10,21,396
+26,077,12,011,FL,"Broward County",10,17,431
+26,077,26,009,MI,"Antrim County",10,13,193
+26,077,26,057,MI,"Gratiot County",10,13,294
+26,077,26,115,MI,"Monroe County",10,23,396
+26,077,26,117,MI,"Montcalm County",10,10,247
+26,077,36,055,NY,"Monroe County",10,14,618
+26,077,36,061,NY,"New York County",10,16,692
+26,077,49,035,UT,"Salt Lake County",10,24,714
+26,077,58,000,SS,"Other Flows - Same State",129,194,3263
+26,077,59,000,DS,"Other Flows - Diff State",1367,2726,61927
+26,077,59,001,DS,"Other Flows - Northeast",191,393,12718
+26,077,59,003,DS,"Other Flows - Midwest",381,773,17506
+26,077,59,005,DS,"Other Flows - South",577,1155,23360
+26,077,59,007,DS,"Other Flows - West",218,405,8342
+26,077,57,009,FR,"Foreign - Other flows",267,304,2330
+26,079,96,000,MI,"Kalkaska County Tot Mig-US & For",419,790,11800
+26,079,97,000,MI,"Kalkaska County Tot Mig-US",419,790,11800
+26,079,97,001,MI,"Kalkaska County Tot Mig-Same St",351,645,10058
+26,079,97,003,MI,"Kalkaska County Tot Mig-Diff St",68,145,1742
+26,079,26,079,MI,"Kalkaska County Non-Migrants",3944,8855,127734
+26,079,26,055,MI,"Grand Traverse Count",97,183,2247
+26,079,26,009,MI,"Antrim County",58,113,1342
+26,079,26,163,MI,"Wayne County",23,42,626
+26,079,26,125,MI,"Oakland County",18,40,1035
+26,079,26,165,MI,"Wexford County",15,25,274
+26,079,26,049,MI,"Genesee County",12,26,372
+26,079,26,081,MI,"Kent County",10,16,306
+26,079,58,000,SS,"Other Flows - Same State",118,200,3856
+26,079,59,000,DS,"Other Flows - Diff State",68,145,1742
+26,081,96,000,MI,"Kent County Tot Mig-US & For",12098,21432,462979
+26,081,97,000,MI,"Kent County Tot Mig-US",11873,21114,459796
+26,081,97,001,MI,"Kent County Tot Mig-Same St",7842,13028,269146
+26,081,97,003,MI,"Kent County Tot Mig-Diff St",4031,8086,190650
+26,081,98,000,MI,"Kent County Tot Mig-Foreign",225,318,3184
+26,081,26,081,MI,"Kent County Non-Migrants",199881,457118,10643964
+26,081,26,139,MI,"Ottawa County",1718,2886,60904
+26,081,26,005,MI,"Allegan County",498,880,18400
+26,081,26,077,MI,"Kalamazoo County",435,641,14982
+26,081,26,067,MI,"Ionia County",406,684,11738
+26,081,26,117,MI,"Montcalm County",404,729,12074
+26,081,26,121,MI,"Muskegon County",358,600,12148
+26,081,26,123,MI,"Newaygo County",337,599,10020
+26,081,26,015,MI,"Barry County",316,544,11715
+26,081,26,125,MI,"Oakland County",286,529,16587
+26,081,26,065,MI,"Ingham County",282,446,8773
+26,081,17,031,IL,"Cook County",246,447,11700
+26,081,26,163,MI,"Wayne County",231,392,9333
+26,081,26,107,MI,"Mecosta County",221,358,6458
+26,081,26,145,MI,"Saginaw County",156,273,4201
+26,081,26,045,MI,"Eaton County",143,247,5846
+26,081,26,021,MI,"Berrien County",132,226,4659
+26,081,26,049,MI,"Genesee County",122,214,5600
+26,081,17,043,IL,"Du Page County",121,222,9443
+26,081,26,073,MI,"Isabella County",101,136,2662
+26,081,06,037,CA,"Los Angeles County",99,218,3235
+26,081,26,055,MI,"Grand Traverse Count",93,142,3070
+26,081,26,099,MI,"Macomb County",92,172,3982
+26,081,26,161,MI,"Washtenaw County",92,144,3136
+26,081,26,037,MI,"Clinton County",88,144,4158
+26,081,26,105,MI,"Mason County",82,134,1909
+26,081,26,025,MI,"Calhoun County",81,134,2651
+26,081,04,013,AZ,"Maricopa County",77,128,2684
+26,081,26,075,MI,"Jackson County",62,96,1756
+26,081,26,017,MI,"Bay County",58,92,1456
+26,081,26,159,MI,"Van Buren County",57,99,1540
+26,081,26,093,MI,"Livingston County",55,87,2556
+26,081,26,127,MI,"Oceana County",50,71,1855
+26,081,26,085,MI,"Lake County",45,64,1165
+26,081,26,111,MI,"Midland County",45,69,2275
+26,081,26,057,MI,"Gratiot County",42,57,1009
+26,081,06,073,CA,"San Diego County",41,87,1544
+26,081,18,097,IN,"Marion County",41,77,2100
+26,081,39,049,OH,"Franklin County",41,81,2055
+26,081,48,201,TX,"Harris County",41,94,2567
+26,081,26,165,MI,"Wexford County",40,70,1119
+26,081,06,059,CA,"Orange County",39,69,2153
+26,081,27,053,MN,"Hennepin County",38,68,18816
+26,081,18,141,IN,"St Joseph County",37,75,1741
+26,081,57,005,FR,"Foreign - APO/FPO ZIPs",37,69,1094
+26,081,26,007,MI,"Alpena County",36,50,691
+26,081,48,215,TX,"Hidalgo County",34,97,471
+26,081,26,033,MI,"Chippewa County",33,51,827
+26,081,39,035,OH,"Cuyahoga County",33,61,2147
+26,081,12,057,FL,"Hillsborough County",30,61,1087
+26,081,12,099,FL,"Palm Beach County",30,59,1514
+26,081,26,047,MI,"Emmet County",30,43,818
+26,081,26,133,MI,"Osceola County",29,54,898
+26,081,36,005,NY,"Bronx County",29,86,497
+26,081,53,033,WA,"King County",29,52,1359
+26,081,55,079,WI,"Milwaukee County",29,55,1645
+26,081,26,147,MI,"St Clair County",28,47,886
+26,081,12,103,FL,"Pinellas County",27,39,1132
+26,081,26,103,MI,"Marquette County",27,47,854
+26,081,26,155,MI,"Shiawassee County",27,48,971
+26,081,39,095,OH,"Lucas County",27,56,1398
+26,081,26,027,MI,"Cass County",25,35,501
+26,081,26,101,MI,"Manistee County",25,35,620
+26,081,26,157,MI,"Tuscola County",25,31,648
+26,081,26,151,MI,"Sanilac County",24,28,576
+26,081,17,097,IL,"Lake County",23,56,1238
+26,081,36,061,NY,"New York County",23,41,682
+26,081,48,113,TX,"Dallas County",23,46,845
+26,081,12,025,FL,"Dade County",22,39,600
+26,081,12,071,FL,"Lee County",22,30,569
+26,081,18,003,IN,"Allen County",22,47,1053
+26,081,06,001,CA,"Alameda County",21,45,1104
+26,081,06,085,CA,"Santa Clara County",21,38,1048
+26,081,12,011,FL,"Broward County",21,45,-1081
+26,081,26,009,MI,"Antrim County",21,32,541
+26,081,26,091,MI,"Lenawee County",21,30,1271
+26,081,26,113,MI,"Missaukee County",21,38,402
+26,081,26,137,MI,"Otsego County",21,34,752
+26,081,12,095,FL,"Orange County",20,45,571
+26,081,15,003,HI,"Honolulu County",20,29,482
+26,081,18,089,IN,"Lake County",20,35,702
+26,081,26,031,MI,"Cheboygan County",19,29,348
+26,081,26,143,MI,"Roscommon County",19,33,486
+26,081,39,061,OH,"Hamilton County",19,41,910
+26,081,55,025,WI,"Dane County",19,33,804
+26,081,04,019,AZ,"Pima County",18,30,409
+26,081,06,071,CA,"San Bernardino Count",18,33,425
+26,081,08,005,CO,"Arapahoe County",18,34,716
+26,081,26,097,MI,"Mackinac County",18,19,384
+26,081,32,003,NV,"Clark County",18,38,599
+26,081,47,157,TN,"Shelby County",18,37,730
+26,081,17,113,IL,"Mclean County",17,25,528
+26,081,26,029,MI,"Charlevoix County",17,22,434
+26,081,26,149,MI,"St Joseph County",17,27,571
+26,081,36,047,NY,"Kings County",17,27,236
+26,081,26,019,MI,"Benzie County",16,20,419
+26,081,26,087,MI,"Lapeer County",16,32,607
+26,081,37,133,NC,"Onslow County",16,32,422
+26,081,55,009,WI,"Brown County",16,35,1089
+26,081,06,111,CA,"Ventura County",15,43,893
+26,081,08,059,CO,"Jefferson County",15,26,745
+26,081,12,031,FL,"Duval County",15,31,445
+26,081,12,081,FL,"Manatee County",15,24,437
+26,081,25,017,MA,"Middlesex County",15,27,1257
+26,081,26,051,MI,"Gladwin County",15,24,410
+26,081,26,115,MI,"Monroe County",15,19,382
+26,081,37,119,NC,"Mecklenburg County",15,34,824
+26,081,48,029,TX,"Bexar County",15,34,555
+26,081,02,020,AK,"Anchorage Borough",14,22,405
+26,081,08,031,CO,"Denver County",14,17,344
+26,081,26,061,MI,"Houghton County",14,18,321
+26,081,29,095,MO,"Jackson County",14,27,391
+26,081,39,173,OH,"Wood County",14,26,502
+26,081,42,003,PA,"Allegheny County",14,34,1303
+26,081,48,439,TX,"Tarrant County",14,28,682
+26,081,49,035,UT,"Salt Lake County",14,29,525
+26,081,12,101,FL,"Pasco County",13,25,480
+26,081,18,039,IN,"Elkhart County",13,27,490
+26,081,18,057,IN,"Hamilton County",13,36,2345
+26,081,26,069,MI,"Iosco County",13,21,307
+26,081,26,089,MI,"Leelanau County",13,17,311
+26,081,40,143,OK,"Tulsa County",13,29,494
+26,081,12,009,FL,"Brevard County",12,18,335
+26,081,12,115,FL,"Sarasota County",12,15,494
+26,081,13,089,GA,"De Kalb County",12,36,366
+26,081,17,197,IL,"Will County",12,39,897
+26,081,18,127,IN,"Porter County",12,27,485
+26,081,19,153,IA,"Polk County",12,30,1025
+26,081,35,001,NM,"Bernalillo County",12,24,596
+26,081,36,081,NY,"Queens County",12,28,189
+26,081,39,113,OH,"Montgomery County",12,30,660
+26,081,48,027,TX,"Bell County",12,22,276
+26,081,51,810,VA,"Virginia Beach",12,30,393
+26,081,08,013,CO,"Boulder County",11,16,350
+26,081,21,111,KY,"Jefferson County",11,26,448
+26,081,26,023,MI,"Branch County",11,17,344
+26,081,26,035,MI,"Clare County",11,23,180
+26,081,26,039,MI,"Crawford County",11,13,227
+26,081,29,189,MO,"St Louis County",11,22,462
+26,081,36,029,NY,"Erie County",11,26,708
+26,081,37,183,NC,"Wake County",11,18,625
+26,081,45,045,SC,"Greenville County",11,19,440
+26,081,55,133,WI,"Waukesha County",11,25,1032
+26,081,05,119,AR,"Pulaski County",10,22,365
+26,081,06,077,CA,"San Joaquin County",10,19,143
+26,081,13,121,GA,"Fulton County",10,20,257
+26,081,17,201,IL,"Winnebago County",10,15,363
+26,081,18,157,IN,"Tippecanoe County",10,13,401
+26,081,20,173,KS,"Sedgwick County",10,21,682
+26,081,26,011,MI,"Arenac County",10,15,378
+26,081,26,041,MI,"Delta County",10,12,207
+26,081,26,059,MI,"Hillsdale County",10,10,233
+26,081,26,063,MI,"Huron County",10,13,268
+26,081,27,037,MN,"Dakota County",10,23,807
+26,081,27,123,MN,"Ramsey County",10,17,359
+26,081,36,103,NY,"Suffolk County",10,24,626
+26,081,42,017,PA,"Bucks County",10,18,957
+26,081,58,000,SS,"Other Flows - Same State",56,82,1339
+26,081,59,000,DS,"Other Flows - Diff State",1926,3931,78824
+26,081,59,001,DS,"Other Flows - Northeast",293,610,13111
+26,081,59,003,DS,"Other Flows - Midwest",611,1174,24782
+26,081,59,005,DS,"Other Flows - South",749,1594,29881
+26,081,59,007,DS,"Other Flows - West",273,553,11051
+26,081,57,009,FR,"Foreign - Other flows",188,249,2089
+26,083,96,000,MI,"Keweenaw County Tot Mig-US & For",86,144,1594
+26,083,97,000,MI,"Keweenaw County Tot Mig-US",86,144,1594
+26,083,97,001,MI,"Keweenaw County Tot Mig-Same St",61,105,299
+26,083,97,003,MI,"Keweenaw County Tot Mig-Diff St",25,39,1295
+26,083,26,083,MI,"Keweenaw County Non-Migrants",648,1386,22141
+26,083,26,061,MI,"Houghton County",39,64,1033
+26,083,58,000,SS,"Other Flows - Same State",22,41,-734
+26,083,59,000,DS,"Other Flows - Diff State",25,39,1295
+26,085,96,000,MI,"Lake County Tot Mig-US & For",474,969,15706
+26,085,97,000,MI,"Lake County Tot Mig-US",474,969,15706
+26,085,97,001,MI,"Lake County Tot Mig-Same St",396,802,13498
+26,085,97,003,MI,"Lake County Tot Mig-Diff St",78,167,2208
+26,085,26,085,MI,"Lake County Non-Migrants",3958,8730,122495
+26,085,26,081,MI,"Kent County",58,114,1639
+26,085,26,107,MI,"Mecosta County",42,104,1076
+26,085,26,133,MI,"Osceola County",36,74,1041
+26,085,26,123,MI,"Newaygo County",23,41,448
+26,085,26,105,MI,"Mason County",20,48,571
+26,085,26,139,MI,"Ottawa County",19,43,870
+26,085,26,163,MI,"Wayne County",19,36,802
+26,085,26,165,MI,"Wexford County",19,37,435
+26,085,26,121,MI,"Muskegon County",15,27,977
+26,085,26,077,MI,"Kalamazoo County",12,23,270
+26,085,26,101,MI,"Manistee County",11,15,235
+26,085,26,099,MI,"Macomb County",10,20,613
+26,085,26,125,MI,"Oakland County",10,18,352
+26,085,58,000,SS,"Other Flows - Same State",102,202,4169
+26,085,59,000,DS,"Other Flows - Diff State",78,167,2208
+26,087,96,000,MI,"Lapeer County Tot Mig-US & For",2464,5328,115921
+26,087,97,000,MI,"Lapeer County Tot Mig-US",2464,5328,115921
+26,087,97,001,MI,"Lapeer County Tot Mig-Same St",2117,4581,103428
+26,087,97,003,MI,"Lapeer County Tot Mig-Diff St",347,747,12492
+26,087,26,087,MI,"Lapeer County Non-Migrants",31074,76332,1677202
+26,087,26,125,MI,"Oakland County",708,1572,43225
+26,087,26,099,MI,"Macomb County",472,1093,25362
+26,087,26,049,MI,"Genesee County",355,689,13232
+26,087,26,151,MI,"Sanilac County",98,212,3252
+26,087,26,147,MI,"St Clair County",92,197,3102
+26,087,26,157,MI,"Tuscola County",84,176,2178
+26,087,26,163,MI,"Wayne County",79,185,4308
+26,087,26,065,MI,"Ingham County",16,32,601
+26,087,26,145,MI,"Saginaw County",16,29,569
+26,087,26,063,MI,"Huron County",14,32,722
+26,087,26,161,MI,"Washtenaw County",11,23,483
+26,087,04,013,AZ,"Maricopa County",10,20,446
+26,087,58,000,SS,"Other Flows - Same State",172,341,6393
+26,087,59,000,DS,"Other Flows - Diff State",337,727,12046
+26,087,59,001,DS,"Other Flows - Northeast",31,71,1471
+26,087,59,003,DS,"Other Flows - Midwest",89,181,3690
+26,087,59,005,DS,"Other Flows - South",169,377,5361
+26,087,59,007,DS,"Other Flows - West",48,98,1524
+26,089,96,000,MI,"Leelanau County Tot Mig-US & For",527,1006,30602
+26,089,97,000,MI,"Leelanau County Tot Mig-US",527,1006,30602
+26,089,97,001,MI,"Leelanau County Tot Mig-Same St",388,720,18665
+26,089,97,003,MI,"Leelanau County Tot Mig-Diff St",139,286,11937
+26,089,26,089,MI,"Leelanau County Non-Migrants",5540,12350,297554
+26,089,26,055,MI,"Grand Traverse Count",155,292,6174
+26,089,26,125,MI,"Oakland County",30,62,2641
+26,089,26,163,MI,"Wayne County",27,44,1629
+26,089,26,081,MI,"Kent County",23,37,1152
+26,089,26,019,MI,"Benzie County",15,24,431
+26,089,17,031,IL,"Cook County",12,17,797
+26,089,26,009,MI,"Antrim County",11,22,461
+26,089,26,145,MI,"Saginaw County",11,21,573
+26,089,26,049,MI,"Genesee County",10,14,448
+26,089,26,065,MI,"Ingham County",10,20,656
+26,089,58,000,SS,"Other Flows - Same State",96,184,4500
+26,089,59,000,DS,"Other Flows - Diff State",127,269,11140
+26,089,59,001,DS,"Other Flows - Northeast",11,21,243
+26,089,59,003,DS,"Other Flows - Midwest",45,93,6897
+26,089,59,005,DS,"Other Flows - South",43,103,2002
+26,089,59,007,DS,"Other Flows - West",28,52,1997
+26,091,96,000,MI,"Lenawee County Tot Mig-US & For",1951,3954,79086
+26,091,97,000,MI,"Lenawee County Tot Mig-US",1940,3939,78795
+26,091,97,001,MI,"Lenawee County Tot Mig-Same St",1293,2582,52685
+26,091,97,003,MI,"Lenawee County Tot Mig-Diff St",647,1357,26110
+26,091,98,000,MI,"Lenawee County Tot Mig-Foreign",11,15,292
+26,091,26,091,MI,"Lenawee County Non-Migrants",32654,75432,1556317
+26,091,26,161,MI,"Washtenaw County",295,559,14326
+26,091,26,163,MI,"Wayne County",196,459,9414
+26,091,26,075,MI,"Jackson County",189,328,6692
+26,091,26,115,MI,"Monroe County",156,361,6821
+26,091,26,059,MI,"Hillsdale County",122,252,3162
+26,091,39,095,OH,"Lucas County",99,201,4546
+26,091,26,125,MI,"Oakland County",48,86,2174
+26,091,39,051,OH,"Fulton County",34,74,1162
+26,091,26,065,MI,"Ingham County",31,52,831
+26,091,26,093,MI,"Livingston County",31,61,1368
+26,091,26,099,MI,"Macomb County",21,45,1110
+26,091,26,077,MI,"Kalamazoo County",18,40,592
+26,091,26,081,MI,"Kent County",18,30,823
+26,091,26,045,MI,"Eaton County",16,32,695
+26,091,26,049,MI,"Genesee County",13,21,348
+26,091,39,173,OH,"Wood County",13,34,859
+26,091,17,031,IL,"Cook County",12,23,974
+26,091,58,000,SS,"Other Flows - Same State",139,256,4329
+26,091,59,000,DS,"Other Flows - Diff State",489,1025,18569
+26,091,59,001,DS,"Other Flows - Northeast",47,83,1829
+26,091,59,003,DS,"Other Flows - Midwest",162,361,6564
+26,091,59,005,DS,"Other Flows - South",203,421,7448
+26,091,59,007,DS,"Other Flows - West",77,160,2728
+26,091,57,009,FR,"Foreign - Other flows",11,15,292
+26,093,96,000,MI,"Livingston Coun Tot Mig-US & For",5354,11523,340426
+26,093,97,000,MI,"Livingston Coun Tot Mig-US",5318,11452,334918
+26,093,97,001,MI,"Livingston Coun Tot Mig-Same St",4358,9253,267531
+26,093,97,003,MI,"Livingston Coun Tot Mig-Diff St",960,2199,67387
+26,093,98,000,MI,"Livingston Coun Tot Mig-Foreign",36,71,5508
+26,093,26,093,MI,"Livingston Coun Non-Migrants",54917,133669,3904479
+26,093,26,125,MI,"Oakland County",1373,2937,95305
+26,093,26,163,MI,"Wayne County",1226,2858,79283
+26,093,26,161,MI,"Washtenaw County",551,1031,34969
+26,093,26,065,MI,"Ingham County",265,503,11925
+26,093,26,049,MI,"Genesee County",250,509,12704
+26,093,26,099,MI,"Macomb County",108,242,6608
+26,093,26,155,MI,"Shiawassee County",60,127,2440
+26,093,26,075,MI,"Jackson County",52,101,2392
+26,093,26,081,MI,"Kent County",41,104,2408
+26,093,26,037,MI,"Clinton County",32,64,1576
+26,093,26,045,MI,"Eaton County",32,61,1556
+26,093,26,115,MI,"Monroe County",30,59,1673
+26,093,17,031,IL,"Cook County",29,51,3187
+26,093,26,091,MI,"Lenawee County",24,41,1310
+26,093,26,145,MI,"Saginaw County",22,43,1305
+26,093,04,013,AZ,"Maricopa County",20,39,1014
+26,093,26,139,MI,"Ottawa County",16,40,1173
+26,093,26,073,MI,"Isabella County",15,29,384
+26,093,26,077,MI,"Kalamazoo County",15,30,639
+26,093,12,103,FL,"Pinellas County",14,28,1028
+26,093,18,097,IN,"Marion County",14,28,1772
+26,093,26,143,MI,"Roscommon County",13,22,440
+26,093,17,043,IL,"Du Page County",12,37,1230
+26,093,26,017,MI,"Bay County",12,27,1194
+26,093,26,055,MI,"Grand Traverse Count",12,28,694
+26,093,26,069,MI,"Iosco County",12,19,407
+26,093,26,087,MI,"Lapeer County",11,21,590
+26,093,39,017,OH,"Butler County",11,41,1314
+26,093,39,095,OH,"Lucas County",11,30,989
+26,093,06,037,CA,"Los Angeles County",10,19,479
+26,093,12,011,FL,"Broward County",10,17,345
+26,093,39,103,OH,"Medina County",10,28,736
+26,093,58,000,SS,"Other Flows - Same State",186,357,6557
+26,093,59,000,DS,"Other Flows - Diff State",819,1881,55294
+26,093,59,001,DS,"Other Flows - Northeast",112,261,7457
+26,093,59,003,DS,"Other Flows - Midwest",266,663,23844
+26,093,59,005,DS,"Other Flows - South",305,664,17488
+26,093,59,007,DS,"Other Flows - West",136,293,6505
+26,093,57,009,FR,"Foreign - Other flows",36,71,5508
+26,095,96,000,MI,"Luce County Tot Mig-US & For",126,282,3884
+26,095,97,000,MI,"Luce County Tot Mig-US",126,282,3884
+26,095,97,001,MI,"Luce County Tot Mig-Same St",102,217,3159
+26,095,97,003,MI,"Luce County Tot Mig-Diff St",24,65,725
+26,095,26,095,MI,"Luce County Non-Migrants",2024,4561,70285
+26,095,26,097,MI,"Mackinac County",14,26,323
+26,095,58,000,SS,"Other Flows - Same State",88,191,2836
+26,095,59,000,DS,"Other Flows - Diff State",24,65,725
+26,097,96,000,MI,"Mackinac County Tot Mig-US & For",402,717,13881
+26,097,97,000,MI,"Mackinac County Tot Mig-US",402,717,13881
+26,097,97,001,MI,"Mackinac County Tot Mig-Same St",270,483,9900
+26,097,97,003,MI,"Mackinac County Tot Mig-Diff St",132,234,3980
+26,097,26,097,MI,"Mackinac County Non-Migrants",4646,9765,160569
+26,097,26,033,MI,"Chippewa County",52,86,1047
+26,097,04,013,AZ,"Maricopa County",30,52,592
+26,097,26,095,MI,"Luce County",19,43,535
+26,097,26,031,MI,"Cheboygan County",17,30,374
+26,097,26,125,MI,"Oakland County",15,26,762
+26,097,26,047,MI,"Emmet County",11,20,650
+26,097,26,103,MI,"Marquette County",11,17,1067
+26,097,26,163,MI,"Wayne County",10,13,476
+26,097,58,000,SS,"Other Flows - Same State",135,248,4990
+26,097,59,000,DS,"Other Flows - Diff State",102,182,3388
+26,099,96,000,MI,"Macomb County Tot Mig-US & For",17431,32388,719908
+26,099,97,000,MI,"Macomb County Tot Mig-US",17253,32036,710025
+26,099,97,001,MI,"Macomb County Tot Mig-Same St",13720,25324,570712
+26,099,97,003,MI,"Macomb County Tot Mig-Diff St",3533,6712,139313
+26,099,98,000,MI,"Macomb County Tot Mig-Foreign",178,352,9884
+26,099,26,099,MI,"Macomb County Non-Migrants",303129,647338,16561594
+26,099,26,125,MI,"Oakland County",5771,10444,257138
+26,099,26,163,MI,"Wayne County",4584,9175,184154
+26,099,26,147,MI,"St Clair County",1259,2349,53906
+26,099,26,087,MI,"Lapeer County",279,457,11482
+26,099,26,049,MI,"Genesee County",229,398,10064
+26,099,26,161,MI,"Washtenaw County",145,218,5970
+26,099,26,065,MI,"Ingham County",123,180,3785
+26,099,17,031,IL,"Cook County",119,236,4812
+26,099,26,151,MI,"Sanilac County",99,163,3692
+26,099,26,081,MI,"Kent County",83,136,2994
+26,099,26,093,MI,"Livingston County",83,153,3753
+26,099,04,013,AZ,"Maricopa County",80,145,2649
+26,099,06,073,CA,"San Diego County",77,151,1824
+26,099,06,037,CA,"Los Angeles County",74,128,2288
+26,099,26,145,MI,"Saginaw County",74,118,2975
+26,099,32,003,NV,"Clark County",72,134,2828
+26,099,26,063,MI,"Huron County",71,100,1757
+26,099,57,005,FR,"Foreign - APO/FPO ZIPs",69,134,1831
+26,099,26,077,MI,"Kalamazoo County",55,82,1816
+26,099,26,073,MI,"Isabella County",54,72,1562
+26,099,39,035,OH,"Cuyahoga County",52,81,3073
+26,099,39,095,OH,"Lucas County",49,84,1997
+26,099,26,017,MI,"Bay County",46,70,1693
+26,099,17,043,IL,"Du Page County",45,91,2634
+26,099,12,103,FL,"Pinellas County",39,59,1336
+26,099,06,059,CA,"Orange County",38,83,1836
+26,099,12,011,FL,"Broward County",35,61,1341
+26,099,39,049,OH,"Franklin County",35,57,1646
+26,099,26,139,MI,"Ottawa County",33,55,1125
+26,099,12,101,FL,"Pasco County",31,53,772
+26,099,26,055,MI,"Grand Traverse Count",31,51,819
+26,099,26,045,MI,"Eaton County",29,46,1329
+26,099,26,143,MI,"Roscommon County",29,41,705
+26,099,26,157,MI,"Tuscola County",29,54,1062
+26,099,37,133,NC,"Onslow County",29,62,681
+26,099,26,091,MI,"Lenawee County",28,47,1500
+26,099,48,201,TX,"Harris County",27,62,1230
+26,099,26,069,MI,"Iosco County",26,49,849
+26,099,26,115,MI,"Monroe County",26,43,950
+26,099,12,095,FL,"Orange County",24,30,571
+26,099,26,025,MI,"Calhoun County",24,39,1124
+26,099,26,111,MI,"Midland County",24,40,939
+26,099,26,129,MI,"Ogemaw County",24,47,783
+26,099,51,059,VA,"Fairfax County",24,46,1737
+26,099,26,021,MI,"Berrien County",23,32,852
+26,099,29,189,MO,"St Louis County",23,32,947
+26,099,42,003,PA,"Allegheny County",23,35,1117
+26,099,12,071,FL,"Lee County",22,35,838
+26,099,12,099,FL,"Palm Beach County",22,40,727
+26,099,39,113,OH,"Montgomery County",22,35,1294
+26,099,51,810,VA,"Virginia Beach",22,56,675
+26,099,26,121,MI,"Muskegon County",21,38,645
+26,099,39,153,OH,"Summit County",21,39,898
+26,099,18,003,IN,"Allen County",20,39,1252
+26,099,26,137,MI,"Otsego County",20,31,569
+26,099,36,081,NY,"Queens County",20,41,566
+26,099,48,027,TX,"Bell County",20,44,529
+26,099,26,035,MI,"Clare County",19,30,740
+26,099,26,075,MI,"Jackson County",19,31,505
+26,099,08,041,CO,"El Paso County",18,35,542
+26,099,12,057,FL,"Hillsborough County",18,29,500
+26,099,13,121,GA,"Fulton County",18,34,860
+26,099,21,111,KY,"Jefferson County",18,43,1072
+26,099,39,061,OH,"Hamilton County",18,29,767
+26,099,04,019,AZ,"Pima County",17,29,573
+26,099,18,097,IN,"Marion County",17,27,734
+26,099,48,439,TX,"Tarrant County",17,33,649
+26,099,55,079,WI,"Milwaukee County",17,29,617
+26,099,26,037,MI,"Clinton County",16,20,390
+26,099,37,051,NC,"Cumberland County",15,28,521
+26,099,53,033,WA,"King County",15,29,959
+26,099,09,011,CT,"New London County",14,22,434
+26,099,12,031,FL,"Duval County",14,26,520
+26,099,12,115,FL,"Sarasota County",14,18,570
+26,099,26,001,MI,"Alcona County",14,22,485
+26,099,26,107,MI,"Mecosta County",14,17,287
+26,099,26,165,MI,"Wexford County",14,16,281
+26,099,27,053,MN,"Hennepin County",14,28,614
+26,099,48,085,TX,"Collin County",14,21,517
+26,099,48,113,TX,"Dallas County",14,27,589
+26,099,06,071,CA,"San Bernardino Count",13,27,294
+26,099,06,085,CA,"Santa Clara County",13,24,444
+26,099,12,009,FL,"Brevard County",13,18,323
+26,099,12,081,FL,"Manatee County",13,22,456
+26,099,12,105,FL,"Polk County",13,22,441
+26,099,12,127,FL,"Volusia County",13,25,331
+26,099,18,141,IN,"St Joseph County",13,19,496
+26,099,26,061,MI,"Houghton County",13,16,251
+26,099,47,157,TN,"Shelby County",13,27,672
+26,099,53,053,WA,"Pierce County",13,25,417
+26,099,13,135,GA,"Gwinnett County",12,24,567
+26,099,18,089,IN,"Lake County",12,26,561
+26,099,21,067,KY,"Fayette County",12,21,376
+26,099,26,007,MI,"Alpena County",12,17,311
+26,099,26,033,MI,"Chippewa County",12,17,255
+26,099,26,103,MI,"Marquette County",12,16,235
+26,099,26,155,MI,"Shiawassee County",12,14,288
+26,099,39,155,OH,"Trumbull County",12,15,714
+26,099,39,173,OH,"Wood County",12,27,635
+26,099,08,059,CO,"Jefferson County",11,19,423
+26,099,12,021,FL,"Collier County",11,19,810
+26,099,13,067,GA,"Cobb County",11,20,331
+26,099,15,003,HI,"Honolulu County",11,19,437
+26,099,26,005,MI,"Allegan County",11,21,536
+26,099,26,039,MI,"Crawford County",11,14,250
+26,099,26,051,MI,"Gladwin County",11,21,420
+26,099,35,001,NM,"Bernalillo County",11,16,245
+26,099,38,015,ND,"Burleigh County",11,33,610
+26,099,39,099,OH,"Mahoning County",11,19,344
+26,099,53,061,WA,"Snohomish County",11,21,418
+26,099,12,025,FL,"Dade County",10,14,462
+26,099,24,003,MD,"Anne Arundel County",10,26,456
+26,099,25,017,MA,"Middlesex County",10,16,373
+26,099,26,009,MI,"Antrim County",10,19,205
+26,099,26,011,MI,"Arenac County",10,13,134
+26,099,26,031,MI,"Cheboygan County",10,12,246
+26,099,26,047,MI,"Emmet County",10,17,181
+26,099,26,059,MI,"Hillsdale County",10,15,345
+26,099,29,183,MO,"St Charles County",10,28,883
+26,099,34,001,NJ,"Atlantic County",10,24,589
+26,099,36,005,NY,"Bronx County",10,25,248
+26,099,36,029,NY,"Erie County",10,23,480
+26,099,36,119,NY,"Westchester County",10,22,345
+26,099,37,119,NC,"Mecklenburg County",10,23,593
+26,099,37,183,NC,"Wake County",10,21,295
+26,099,42,029,PA,"Chester County",10,14,519
+26,099,48,121,TX,"Denton County",10,18,558
+26,099,48,215,TX,"Hidalgo County",10,21,225
+26,099,58,000,SS,"Other Flows - Same State",158,248,4373
+26,099,59,000,DS,"Other Flows - Diff State",1801,3503,69807
+26,099,59,001,DS,"Other Flows - Northeast",265,510,11301
+26,099,59,003,DS,"Other Flows - Midwest",487,925,22035
+26,099,59,005,DS,"Other Flows - South",799,1615,28374
+26,099,59,007,DS,"Other Flows - West",250,453,8097
+26,099,57,009,FR,"Foreign - Other flows",109,218,8053
+26,101,96,000,MI,"Manistee County Tot Mig-US & For",658,1316,24383
+26,101,97,000,MI,"Manistee County Tot Mig-US",658,1316,24383
+26,101,97,001,MI,"Manistee County Tot Mig-Same St",516,1030,19126
+26,101,97,003,MI,"Manistee County Tot Mig-Diff St",142,286,5258
+26,101,26,101,MI,"Manistee County Non-Migrants",8665,19009,325039
+26,101,26,019,MI,"Benzie County",45,104,1148
+26,101,26,081,MI,"Kent County",43,80,1519
+26,101,26,055,MI,"Grand Traverse Count",39,82,1175
+26,101,26,105,MI,"Mason County",34,65,629
+26,101,26,125,MI,"Oakland County",32,59,2207
+26,101,26,165,MI,"Wexford County",27,62,562
+26,101,26,163,MI,"Wayne County",25,46,1192
+26,101,26,121,MI,"Muskegon County",21,40,854
+26,101,26,139,MI,"Ottawa County",17,34,654
+26,101,26,065,MI,"Ingham County",14,23,401
+26,101,26,085,MI,"Lake County",13,27,158
+26,101,26,073,MI,"Isabella County",12,18,414
+26,101,26,049,MI,"Genesee County",10,18,919
+26,101,58,000,SS,"Other Flows - Same State",184,372,7295
+26,101,59,000,DS,"Other Flows - Diff State",142,286,5258
+26,101,59,001,DS,"Other Flows - Northeast",13,20,220
+26,101,59,003,DS,"Other Flows - Midwest",59,129,2447
+26,101,59,005,DS,"Other Flows - South",49,104,1439
+26,101,59,007,DS,"Other Flows - West",21,33,1152
+26,103,96,000,MI,"Marquette Count Tot Mig-US & For",1237,2095,37884
+26,103,97,000,MI,"Marquette Count Tot Mig-US",1200,2032,37411
+26,103,97,001,MI,"Marquette Count Tot Mig-Same St",688,1117,18785
+26,103,97,003,MI,"Marquette Count Tot Mig-Diff St",512,915,18627
+26,103,98,000,MI,"Marquette Count Tot Mig-Foreign",37,63,472
+26,103,26,103,MI,"Marquette Count Non-Migrants",21841,47925,916347
+26,103,26,041,MI,"Delta County",58,104,1485
+26,103,26,061,MI,"Houghton County",55,94,1467
+26,103,26,003,MI,"Alger County",48,76,1387
+26,103,26,125,MI,"Oakland County",40,61,1691
+26,103,26,043,MI,"Dickinson County",35,59,1017
+26,103,26,013,MI,"Baraga County",29,45,622
+26,103,26,033,MI,"Chippewa County",26,36,517
+26,103,26,065,MI,"Ingham County",24,35,862
+26,103,26,071,MI,"Iron County",22,33,334
+26,103,55,009,WI,"Brown County",19,30,343
+26,103,26,053,MI,"Gogebic County",18,35,447
+26,103,26,163,MI,"Wayne County",18,20,539
+26,103,26,081,MI,"Kent County",17,28,355
+26,103,26,109,MI,"Menominee County",17,28,467
+26,103,26,049,MI,"Genesee County",16,26,446
+26,103,26,131,MI,"Ontonagon County",16,24,331
+26,103,26,077,MI,"Kalamazoo County",15,19,337
+26,103,26,099,MI,"Macomb County",15,19,286
+26,103,26,095,MI,"Luce County",14,22,339
+26,103,17,031,IL,"Cook County",13,29,631
+26,103,27,053,MN,"Hennepin County",13,20,379
+26,103,55,079,WI,"Milwaukee County",13,20,296
+26,103,26,145,MI,"Saginaw County",11,15,497
+26,103,26,097,MI,"Mackinac County",10,18,417
+26,103,26,161,MI,"Washtenaw County",10,19,334
+26,103,55,075,WI,"Marinette County",10,19,396
+26,103,58,000,SS,"Other Flows - Same State",174,301,4608
+26,103,59,000,DS,"Other Flows - Diff State",444,797,16581
+26,103,59,001,DS,"Other Flows - Northeast",24,42,877
+26,103,59,003,DS,"Other Flows - Midwest",206,366,7912
+26,103,59,005,DS,"Other Flows - South",118,222,5373
+26,103,59,007,DS,"Other Flows - West",96,167,2418
+26,103,57,009,FR,"Foreign - Other flows",37,63,472
+26,105,96,000,MI,"Mason County Tot Mig-US & For",625,1225,22992
+26,105,97,000,MI,"Mason County Tot Mig-US",625,1225,22992
+26,105,97,001,MI,"Mason County Tot Mig-Same St",410,796,15169
+26,105,97,003,MI,"Mason County Tot Mig-Diff St",215,429,7822
+26,105,26,105,MI,"Mason County Non-Migrants",9892,22187,396344
+26,105,26,081,MI,"Kent County",51,101,1707
+26,105,26,101,MI,"Manistee County",48,90,1446
+26,105,26,121,MI,"Muskegon County",32,59,761
+26,105,26,127,MI,"Oceana County",31,59,882
+26,105,26,139,MI,"Ottawa County",23,49,1016
+26,105,26,125,MI,"Oakland County",17,29,739
+26,105,26,163,MI,"Wayne County",16,34,1024
+26,105,26,085,MI,"Lake County",15,27,197
+26,105,17,031,IL,"Cook County",13,20,445
+26,105,26,123,MI,"Newaygo County",13,22,387
+26,105,26,049,MI,"Genesee County",11,17,307
+26,105,26,065,MI,"Ingham County",11,23,499
+26,105,58,000,SS,"Other Flows - Same State",142,286,6204
+26,105,59,000,DS,"Other Flows - Diff State",202,409,7377
+26,107,96,000,MI,"Mecosta County Tot Mig-US & For",1452,2759,45163
+26,107,97,000,MI,"Mecosta County Tot Mig-US",1421,2724,44999
+26,107,97,001,MI,"Mecosta County Tot Mig-Same St",1192,2306,36819
+26,107,97,003,MI,"Mecosta County Tot Mig-Diff St",229,418,8180
+26,107,98,000,MI,"Mecosta County Tot Mig-Foreign",31,35,164
+26,107,26,107,MI,"Mecosta County Non-Migrants",13569,31224,532197
+26,107,26,081,MI,"Kent County",193,400,6650
+26,107,26,117,MI,"Montcalm County",113,248,2821
+26,107,26,133,MI,"Osceola County",109,212,2644
+26,107,26,163,MI,"Wayne County",72,129,2321
+26,107,26,073,MI,"Isabella County",71,140,1614
+26,107,26,123,MI,"Newaygo County",67,165,1887
+26,107,26,125,MI,"Oakland County",53,100,3327
+26,107,26,085,MI,"Lake County",40,68,689
+26,107,26,065,MI,"Ingham County",32,56,1239
+26,107,26,099,MI,"Macomb County",32,57,1255
+26,107,26,049,MI,"Genesee County",26,47,1009
+26,107,26,067,MI,"Ionia County",24,42,680
+26,107,26,139,MI,"Ottawa County",20,28,454
+26,107,26,145,MI,"Saginaw County",18,36,628
+26,107,26,035,MI,"Clare County",17,30,349
+26,107,26,037,MI,"Clinton County",17,35,617
+26,107,26,057,MI,"Gratiot County",17,33,675
+26,107,26,055,MI,"Grand Traverse Count",16,21,387
+26,107,26,121,MI,"Muskegon County",16,31,489
+26,107,26,045,MI,"Eaton County",12,26,484
+26,107,26,111,MI,"Midland County",12,22,480
+26,107,26,093,MI,"Livingston County",11,22,859
+26,107,26,077,MI,"Kalamazoo County",10,13,199
+26,107,26,161,MI,"Washtenaw County",10,13,370
+26,107,58,000,SS,"Other Flows - Same State",184,332,4693
+26,107,59,000,DS,"Other Flows - Diff State",229,418,8180
+26,107,59,001,DS,"Other Flows - Northeast",27,44,875
+26,107,59,003,DS,"Other Flows - Midwest",58,111,3548
+26,107,59,005,DS,"Other Flows - South",103,181,2635
+26,107,59,007,DS,"Other Flows - West",41,82,1123
+26,107,57,009,FR,"Foreign - Other flows",31,35,164
+26,109,96,000,MI,"Menominee Count Tot Mig-US & For",453,861,13456
+26,109,97,000,MI,"Menominee Count Tot Mig-US",453,861,13456
+26,109,97,001,MI,"Menominee Count Tot Mig-Same St",147,281,4395
+26,109,97,003,MI,"Menominee Count Tot Mig-Diff St",306,580,9060
+26,109,26,109,MI,"Menominee Count Non-Migrants",8757,19418,338226
+26,109,55,075,WI,"Marinette County",134,246,3648
+26,109,26,041,MI,"Delta County",51,99,1454
+26,109,26,103,MI,"Marquette County",17,36,367
+26,109,26,043,MI,"Dickinson County",16,29,682
+26,109,55,009,WI,"Brown County",16,31,381
+26,109,58,000,SS,"Other Flows - Same State",63,117,1892
+26,109,59,000,DS,"Other Flows - Diff State",156,303,5032
+26,111,96,000,MI,"Midland County Tot Mig-US & For",1837,3612,77914
+26,111,97,000,MI,"Midland County Tot Mig-US",1743,3475,73329
+26,111,97,001,MI,"Midland County Tot Mig-Same St",1229,2376,46531
+26,111,97,003,MI,"Midland County Tot Mig-Diff St",514,1099,26798
+26,111,98,000,MI,"Midland County Tot Mig-Foreign",94,137,4585
+26,111,26,111,MI,"Midland County Non-Migrants",26422,63010,1689159
+26,111,26,017,MI,"Bay County",303,603,10712
+26,111,26,145,MI,"Saginaw County",178,317,6663
+26,111,26,073,MI,"Isabella County",107,204,3923
+26,111,26,051,MI,"Gladwin County",88,178,2765
+26,111,26,125,MI,"Oakland County",51,93,2816
+26,111,26,035,MI,"Clare County",48,93,1324
+26,111,26,057,MI,"Gratiot County",45,84,1309
+26,111,26,163,MI,"Wayne County",42,95,1978
+26,111,26,049,MI,"Genesee County",38,81,1417
+26,111,26,081,MI,"Kent County",30,45,887
+26,111,26,161,MI,"Washtenaw County",23,37,1170
+26,111,26,099,MI,"Macomb County",21,43,1040
+26,111,26,065,MI,"Ingham County",15,28,1021
+26,111,26,157,MI,"Tuscola County",14,27,533
+26,111,48,039,TX,"Brazoria County",14,48,1515
+26,111,26,055,MI,"Grand Traverse Count",13,26,600
+26,111,17,031,IL,"Cook County",11,25,919
+26,111,26,045,MI,"Eaton County",10,20,440
+26,111,26,105,MI,"Mason County",10,28,998
+26,111,58,000,SS,"Other Flows - Same State",193,374,6934
+26,111,59,000,DS,"Other Flows - Diff State",489,1026,24364
+26,111,59,001,DS,"Other Flows - Northeast",51,116,3843
+26,111,59,003,DS,"Other Flows - Midwest",143,298,7378
+26,111,59,005,DS,"Other Flows - South",207,422,9495
+26,111,59,007,DS,"Other Flows - West",88,190,3647
+26,111,57,009,FR,"Foreign - Other flows",94,137,4585
+26,113,96,000,MI,"Missaukee Count Tot Mig-US & For",431,903,13061
+26,113,97,000,MI,"Missaukee Count Tot Mig-US",431,903,13061
+26,113,97,001,MI,"Missaukee Count Tot Mig-Same St",363,760,11102
+26,113,97,003,MI,"Missaukee Count Tot Mig-Diff St",68,143,1959
+26,113,26,113,MI,"Missaukee Count Non-Migrants",4748,11640,168396
+26,113,26,165,MI,"Wexford County",105,236,2623
+26,113,26,133,MI,"Osceola County",23,48,686
+26,113,26,081,MI,"Kent County",19,37,750
+26,113,26,143,MI,"Roscommon County",18,28,296
+26,113,26,055,MI,"Grand Traverse Count",17,34,276
+26,113,26,099,MI,"Macomb County",13,23,547
+26,113,26,049,MI,"Genesee County",10,18,480
+26,113,26,125,MI,"Oakland County",10,26,632
+26,113,58,000,SS,"Other Flows - Same State",148,310,4812
+26,113,59,000,DS,"Other Flows - Diff State",68,143,1959
+26,115,96,000,MI,"Monroe County Tot Mig-US & For",3398,7084,141204
+26,115,97,000,MI,"Monroe County Tot Mig-US",3375,7050,140479
+26,115,97,001,MI,"Monroe County Tot Mig-Same St",1819,3822,77210
+26,115,97,003,MI,"Monroe County Tot Mig-Diff St",1556,3228,63269
+26,115,98,000,MI,"Monroe County Tot Mig-Foreign",23,34,725
+26,115,26,115,MI,"Monroe County Non-Migrants",54119,125537,2883666
+26,115,26,163,MI,"Wayne County",1023,2231,44195
+26,115,39,095,OH,"Lucas County",792,1682,34050
+26,115,26,161,MI,"Washtenaw County",270,534,12298
+26,115,26,091,MI,"Lenawee County",119,251,4521
+26,115,26,125,MI,"Oakland County",77,150,4143
+26,115,39,173,OH,"Wood County",41,74,1788
+26,115,26,099,MI,"Macomb County",39,79,1570
+26,115,26,075,MI,"Jackson County",25,49,823
+26,115,26,093,MI,"Livingston County",24,42,1214
+26,115,26,049,MI,"Genesee County",23,58,1108
+26,115,26,077,MI,"Kalamazoo County",20,29,1194
+26,115,26,081,MI,"Kent County",18,32,622
+26,115,26,059,MI,"Hillsdale County",15,26,513
+26,115,26,065,MI,"Ingham County",14,30,454
+26,115,39,035,OH,"Cuyahoga County",12,27,777
+26,115,04,013,AZ,"Maricopa County",11,17,290
+26,115,06,037,CA,"Los Angeles County",10,22,253
+26,115,58,000,SS,"Other Flows - Same State",152,311,4556
+26,115,59,000,DS,"Other Flows - Diff State",690,1406,26111
+26,115,59,001,DS,"Other Flows - Northeast",54,107,1975
+26,115,59,003,DS,"Other Flows - Midwest",221,467,9981
+26,115,59,005,DS,"Other Flows - South",303,617,9778
+26,115,59,007,DS,"Other Flows - West",112,215,4377
+26,115,57,009,FR,"Foreign - Other flows",23,34,725
+26,117,96,000,MI,"Montcalm County Tot Mig-US & For",1398,2872,47101
+26,117,97,000,MI,"Montcalm County Tot Mig-US",1398,2872,47101
+26,117,97,001,MI,"Montcalm County Tot Mig-Same St",1226,2540,42284
+26,117,97,003,MI,"Montcalm County Tot Mig-Diff St",172,332,4817
+26,117,26,117,MI,"Montcalm County Non-Migrants",14587,34076,544353
+26,117,26,081,MI,"Kent County",488,991,16516
+26,117,26,067,MI,"Ionia County",162,328,4052
+26,117,26,107,MI,"Mecosta County",114,231,3010
+26,117,26,057,MI,"Gratiot County",89,199,2357
+26,117,26,073,MI,"Isabella County",69,138,1711
+26,117,26,123,MI,"Newaygo County",47,117,1756
+26,117,26,139,MI,"Ottawa County",29,61,1065
+26,117,26,065,MI,"Ingham County",24,46,910
+26,117,26,121,MI,"Muskegon County",17,33,414
+26,117,26,037,MI,"Clinton County",15,40,349
+26,117,26,015,MI,"Barry County",14,25,460
+26,117,26,145,MI,"Saginaw County",13,21,303
+26,117,26,099,MI,"Macomb County",12,28,478
+26,117,26,045,MI,"Eaton County",11,26,475
+26,117,26,125,MI,"Oakland County",11,19,460
+26,117,58,000,SS,"Other Flows - Same State",111,237,7968
+26,117,59,000,DS,"Other Flows - Diff State",172,332,4817
+26,119,96,000,MI,"Montmorency Cou Tot Mig-US & For",338,671,15095
+26,119,97,000,MI,"Montmorency Cou Tot Mig-US",338,671,15095
+26,119,97,001,MI,"Montmorency Cou Tot Mig-Same St",288,567,13314
+26,119,97,003,MI,"Montmorency Cou Tot Mig-Diff St",50,104,1781
+26,119,26,119,MI,"Montmorency Cou Non-Migrants",3406,7271,108747
+26,119,26,125,MI,"Oakland County",42,80,4011
+26,119,26,163,MI,"Wayne County",39,69,1949
+26,119,26,137,MI,"Otsego County",33,62,774
+26,119,26,099,MI,"Macomb County",26,56,1611
+26,119,26,007,MI,"Alpena County",22,42,541
+26,119,26,049,MI,"Genesee County",21,36,802
+26,119,26,135,MI,"Oscoda County",14,28,296
+26,119,58,000,SS,"Other Flows - Same State",91,194,3331
+26,119,59,000,DS,"Other Flows - Diff State",50,104,1781
+26,121,96,000,MI,"Muskegon County Tot Mig-US & For",2609,5319,96730
+26,121,97,000,MI,"Muskegon County Tot Mig-US",2586,5268,96275
+26,121,97,001,MI,"Muskegon County Tot Mig-Same St",1802,3590,62048
+26,121,97,003,MI,"Muskegon County Tot Mig-Diff St",784,1678,34227
+26,121,98,000,MI,"Muskegon County Tot Mig-Foreign",23,51,455
+26,121,26,121,MI,"Muskegon County Non-Migrants",58751,134342,2474954
+26,121,26,139,MI,"Ottawa County",583,1178,20226
+26,121,26,081,MI,"Kent County",322,632,14037
+26,121,26,127,MI,"Oceana County",172,336,4120
+26,121,26,123,MI,"Newaygo County",150,306,4768
+26,121,26,125,MI,"Oakland County",55,114,1987
+26,121,17,031,IL,"Cook County",42,86,1996
+26,121,26,163,MI,"Wayne County",41,78,1262
+26,121,26,077,MI,"Kalamazoo County",35,67,690
+26,121,26,105,MI,"Mason County",35,62,1108
+26,121,26,065,MI,"Ingham County",30,48,719
+26,121,26,005,MI,"Allegan County",27,49,817
+26,121,26,049,MI,"Genesee County",22,53,604
+26,121,04,013,AZ,"Maricopa County",20,49,795
+26,121,26,021,MI,"Berrien County",19,38,400
+26,121,26,099,MI,"Macomb County",17,29,817
+26,121,26,107,MI,"Mecosta County",16,34,520
+26,121,06,073,CA,"San Diego County",15,35,351
+26,121,26,161,MI,"Washtenaw County",15,24,585
+26,121,26,117,MI,"Montcalm County",13,30,535
+26,121,26,045,MI,"Eaton County",12,27,1063
+26,121,26,101,MI,"Manistee County",12,21,573
+26,121,26,075,MI,"Jackson County",11,17,246
+26,121,26,085,MI,"Lake County",11,23,271
+26,121,26,025,MI,"Calhoun County",10,24,402
+26,121,26,055,MI,"Grand Traverse Count",10,16,256
+26,121,26,073,MI,"Isabella County",10,26,256
+26,121,58,000,SS,"Other Flows - Same State",174,358,5785
+26,121,59,000,DS,"Other Flows - Diff State",707,1508,31085
+26,121,59,001,DS,"Other Flows - Northeast",70,145,5289
+26,121,59,003,DS,"Other Flows - Midwest",197,443,12349
+26,121,59,005,DS,"Other Flows - South",309,644,9452
+26,121,59,007,DS,"Other Flows - West",131,276,3995
+26,121,57,009,FR,"Foreign - Other flows",23,51,455
+26,123,96,000,MI,"Newaygo County Tot Mig-US & For",1196,2514,42121
+26,123,97,000,MI,"Newaygo County Tot Mig-US",1196,2514,42121
+26,123,97,001,MI,"Newaygo County Tot Mig-Same St",993,2077,35701
+26,123,97,003,MI,"Newaygo County Tot Mig-Diff St",203,437,6420
+26,123,26,123,MI,"Newaygo County Non-Migrants",14985,36450,589152
+26,123,26,081,MI,"Kent County",384,787,16143
+26,123,26,121,MI,"Muskegon County",192,418,6129
+26,123,26,139,MI,"Ottawa County",68,139,3600
+26,123,26,107,MI,"Mecosta County",50,111,1168
+26,123,26,117,MI,"Montcalm County",46,98,1216
+26,123,26,127,MI,"Oceana County",44,101,1077
+26,123,26,163,MI,"Wayne County",16,34,538
+26,123,26,065,MI,"Ingham County",15,30,303
+26,123,26,085,MI,"Lake County",14,24,218
+26,123,26,105,MI,"Mason County",13,22,355
+26,123,26,067,MI,"Ionia County",12,23,389
+26,123,26,005,MI,"Allegan County",11,25,355
+26,123,26,015,MI,"Barry County",10,19,326
+26,123,26,077,MI,"Kalamazoo County",10,19,303
+26,123,26,125,MI,"Oakland County",10,17,412
+26,123,58,000,SS,"Other Flows - Same State",98,210,3169
+26,123,59,000,DS,"Other Flows - Diff State",203,437,6420
+26,123,59,001,DS,"Other Flows - Northeast",11,22,388
+26,123,59,003,DS,"Other Flows - Midwest",67,160,2503
+26,123,59,005,DS,"Other Flows - South",91,195,2399
+26,123,59,007,DS,"Other Flows - West",34,60,1129
+26,125,96,000,MI,"Oakland County Tot Mig-US & For",31109,55542,1675800
+26,125,97,000,MI,"Oakland County Tot Mig-US",30374,54279,1636799
+26,125,97,001,MI,"Oakland County Tot Mig-Same St",20594,35561,993151
+26,125,97,003,MI,"Oakland County Tot Mig-Diff St",9780,18718,643648
+26,125,98,000,MI,"Oakland County Tot Mig-Foreign",735,1263,39001
+26,125,26,125,MI,"Oakland County Non-Migrants",436224,951471,34598063
+26,125,26,163,MI,"Wayne County",9078,16721,447942
+26,125,26,099,MI,"Macomb County",4881,8312,251542
+26,125,26,049,MI,"Genesee County",1089,1831,51151
+26,125,26,161,MI,"Washtenaw County",885,1296,44340
+26,125,26,093,MI,"Livingston County",849,1419,44776
+26,125,17,031,IL,"Cook County",474,766,30510
+26,125,26,065,MI,"Ingham County",463,610,15940
+26,125,26,087,MI,"Lapeer County",438,761,20989
+26,125,26,081,MI,"Kent County",278,450,14927
+26,125,26,147,MI,"St Clair County",277,457,11928
+26,125,26,077,MI,"Kalamazoo County",217,336,8878
+26,125,06,037,CA,"Los Angeles County",215,363,12694
+26,125,26,145,MI,"Saginaw County",206,395,9124
+26,125,04,013,AZ,"Maricopa County",181,347,9998
+26,125,39,035,OH,"Cuyahoga County",158,308,12650
+26,125,39,095,OH,"Lucas County",140,230,7388
+26,125,17,043,IL,"Du Page County",131,304,13090
+26,125,39,049,OH,"Franklin County",129,224,6678
+26,125,12,011,FL,"Broward County",111,193,6975
+26,125,06,073,CA,"San Diego County",108,196,4909
+26,125,39,061,OH,"Hamilton County",108,197,7606
+26,125,06,059,CA,"Orange County",101,203,8598
+26,125,26,045,MI,"Eaton County",100,149,3807
+26,125,26,115,MI,"Monroe County",93,144,4171
+26,125,29,189,MO,"St Louis County",93,208,9644
+26,125,39,113,OH,"Montgomery County",93,185,8131
+26,125,12,099,FL,"Palm Beach County",91,141,7216
+26,125,48,113,TX,"Dallas County",91,154,7286
+26,125,26,139,MI,"Ottawa County",90,140,4411
+26,125,48,201,TX,"Harris County",90,144,5189
+26,125,18,097,IN,"Marion County",88,134,4344
+26,125,26,017,MI,"Bay County",88,115,2689
+26,125,26,111,MI,"Midland County",86,152,3897
+26,125,32,003,NV,"Clark County",82,149,3311
+26,125,26,073,MI,"Isabella County",79,113,2563
+26,125,26,075,MI,"Jackson County",79,131,3540
+26,125,53,033,WA,"King County",76,124,4061
+26,125,36,061,NY,"New York County",74,120,5890
+26,125,42,003,PA,"Allegheny County",74,155,7527
+26,125,57,005,FR,"Foreign - APO/FPO ZIPs",73,117,1642
+26,125,12,103,FL,"Pinellas County",71,110,3330
+26,125,26,055,MI,"Grand Traverse Count",71,100,2533
+26,125,36,029,NY,"Erie County",67,137,5927
+26,125,27,053,MN,"Hennepin County",66,139,5913
+26,125,26,063,MI,"Huron County",61,89,1956
+26,125,13,121,GA,"Fulton County",60,113,4562
+26,125,17,097,IL,"Lake County",59,149,7608
+26,125,26,151,MI,"Sanilac County",59,91,1687
+26,125,18,003,IN,"Allen County",57,119,4427
+26,125,26,037,MI,"Clinton County",57,84,2052
+26,125,13,067,GA,"Cobb County",55,107,6765
+26,125,12,095,FL,"Orange County",54,90,6182
+26,125,55,079,WI,"Milwaukee County",54,94,3187
+26,125,25,017,MA,"Middlesex County",53,99,4967
+26,125,26,025,MI,"Calhoun County",53,76,2101
+26,125,26,091,MI,"Lenawee County",52,86,2143
+26,125,39,153,OH,"Summit County",48,100,4755
+26,125,48,439,TX,"Tarrant County",48,96,2889
+26,125,47,037,TN,"Davidson County",47,83,2137
+26,125,06,085,CA,"Santa Clara County",46,87,2710
+26,125,26,107,MI,"Mecosta County",46,69,1242
+26,125,18,057,IN,"Hamilton County",45,116,5912
+26,125,26,155,MI,"Shiawassee County",45,72,1693
+26,125,51,059,VA,"Fairfax County",44,102,3759
+26,125,26,021,MI,"Berrien County",43,74,1996
+26,125,26,157,MI,"Tuscola County",43,75,1160
+26,125,34,023,NJ,"Middlesex County",43,111,3527
+26,125,36,055,NY,"Monroe County",43,87,2694
+26,125,12,025,FL,"Dade County",41,69,8370
+26,125,13,089,GA,"De Kalb County",41,65,2157
+26,125,06,001,CA,"Alameda County",40,83,3087
+26,125,18,089,IN,"Lake County",40,78,1937
+26,125,21,111,KY,"Jefferson County",40,83,2605
+26,125,12,057,FL,"Hillsborough County",39,70,1549
+26,125,12,071,FL,"Lee County",39,67,1982
+26,125,10,003,DE,"New Castle County",38,91,3601
+26,125,18,141,IN,"St Joseph County",38,86,2317
+26,125,20,091,KS,"Johnson County",38,89,3300
+26,125,26,061,MI,"Houghton County",38,49,923
+26,125,26,103,MI,"Marquette County",38,47,1172
+26,125,37,119,NC,"Mecklenburg County",38,78,3841
+26,125,04,019,AZ,"Pima County",36,56,1566
+26,125,08,031,CO,"Denver County",36,48,1486
+26,125,24,031,MD,"Montgomery County",36,64,2510
+26,125,47,157,TN,"Shelby County",35,75,2068
+26,125,12,101,FL,"Pasco County",34,61,1287
+26,125,26,069,MI,"Iosco County",34,56,1744
+26,125,48,453,TX,"Travis County",34,58,2173
+26,125,53,061,WA,"Snohomish County",34,75,2053
+26,125,13,135,GA,"Gwinnett County",33,76,2219
+26,125,15,003,HI,"Honolulu County",33,64,1478
+26,125,18,157,IN,"Tippecanoe County",33,63,3299
+26,125,19,153,IA,"Polk County",33,61,1408
+26,125,26,033,MI,"Chippewa County",33,60,1127
+26,125,26,035,MI,"Clare County",33,55,514
+26,125,26,121,MI,"Muskegon County",33,48,1227
+26,125,39,017,OH,"Butler County",33,64,2420
+26,125,42,101,PA,"Philadelphia County",33,60,1487
+26,125,36,119,NY,"Westchester County",32,61,3604
+26,125,12,081,FL,"Manatee County",31,49,1188
+26,125,29,095,MO,"Jackson County",31,46,1106
+26,125,36,103,NY,"Suffolk County",31,70,1821
+26,125,12,117,FL,"Seminole County",30,73,1558
+26,125,26,005,MI,"Allegan County",30,47,1478
+26,125,36,047,NY,"Kings County",30,65,992
+26,125,37,183,NC,"Wake County",30,55,1998
+26,125,39,099,OH,"Mahoning County",30,62,1516
+26,125,55,025,WI,"Dane County",30,53,1201
+26,125,18,105,IN,"Monroe County",29,47,1583
+26,125,06,071,CA,"San Bernardino Count",28,68,1218
+26,125,17,089,IL,"Kane County",28,65,2674
+26,125,25,027,MA,"Worcester County",28,58,2121
+26,125,26,007,MI,"Alpena County",28,47,721
+26,125,34,003,NJ,"Bergen County",28,50,1570
+26,125,39,173,OH,"Wood County",28,55,2060
+26,125,49,035,UT,"Salt Lake County",28,73,1310
+26,125,06,013,CA,"Contra Costa County",27,56,2169
+26,125,11,001,DC,"District Of Columbia",27,40,1559
+26,125,12,009,FL,"Brevard County",27,50,858
+26,125,12,115,FL,"Sarasota County",27,33,1247
+26,125,17,197,IL,"Will County",27,60,3236
+26,125,29,183,MO,"St Charles County",27,63,2277
+26,125,36,081,NY,"Queens County",26,50,1337
+26,125,39,041,OH,"Delaware County",26,68,2611
+26,125,48,141,TX,"El Paso County",26,63,2007
+26,125,25,025,MA,"Suffolk County",25,30,1312
+26,125,26,031,MI,"Cheboygan County",25,39,631
+26,125,39,057,OH,"Greene County",25,65,2453
+26,125,39,151,OH,"Stark County",25,55,2155
+26,125,17,111,IL,"Mchenry County",24,51,2087
+26,125,26,057,MI,"Gratiot County",24,41,963
+26,125,34,017,NJ,"Hudson County",24,36,1149
+26,125,47,093,TN,"Knox County",24,49,1507
+26,125,48,085,TX,"Collin County",24,59,3549
+26,125,08,005,CO,"Arapahoe County",23,43,920
+26,125,12,021,FL,"Collier County",23,39,1547
+26,125,12,127,FL,"Volusia County",23,34,1020
+26,125,24,005,MD,"Baltimore County",23,51,7076
+26,125,27,037,MN,"Dakota County",23,60,1912
+26,125,37,081,NC,"Guilford County",23,35,4350
+26,125,09,001,CT,"Fairfield County",22,46,2521
+26,125,12,031,FL,"Duval County",22,36,738
+26,125,26,047,MI,"Emmet County",22,24,605
+26,125,26,129,MI,"Ogemaw County",22,42,695
+26,125,27,123,MN,"Ramsey County",22,35,1390
+26,125,37,133,NC,"Onslow County",22,42,486
+26,125,39,093,OH,"Lorain County",22,48,1573
+26,125,45,045,SC,"Greenville County",22,42,1317
+26,125,47,187,TN,"Williamson County",22,57,2323
+26,125,06,075,CA,"San Francisco County",21,29,1269
+26,125,24,033,MD,"Prince George's Coun",21,29,874
+26,125,29,047,MO,"Clay County",21,43,923
+26,125,42,017,PA,"Bucks County",21,44,1286
+26,125,42,091,PA,"Montgomery County",21,43,2755
+26,125,45,019,SC,"Charleston County",21,33,1092
+26,125,06,067,CA,"Sacramento County",20,39,908
+26,125,09,011,CT,"New London County",20,32,831
+26,125,24,003,MD,"Anne Arundel County",20,36,2005
+26,125,34,027,NJ,"Morris County",20,68,3657
+26,125,40,109,OK,"Oklahoma County",20,39,990
+26,125,42,029,PA,"Chester County",20,52,1776
+26,125,06,065,CA,"Riverside County",19,36,623
+26,125,08,041,CO,"El Paso County",19,47,1173
+26,125,09,003,CT,"Hartford County",19,32,1230
+26,125,22,033,LA,"East Baton Rouge Par",19,29,725
+26,125,22,071,LA,"Orleans Parish",19,37,836
+26,125,26,001,MI,"Alcona County",19,27,505
+26,125,26,137,MI,"Otsego County",19,23,513
+26,125,36,059,NY,"Nassau County",19,41,4225
+26,125,41,051,OR,"Multnomah County",19,36,1105
+26,125,48,029,TX,"Bexar County",19,46,672
+26,125,06,081,CA,"San Mateo County",18,26,1533
+26,125,06,111,CA,"Ventura County",18,37,930
+26,125,08,059,CO,"Jefferson County",18,36,844
+26,125,12,105,FL,"Polk County",18,33,613
+26,125,24,510,MD,Baltimore,18,27,957
+26,125,26,011,MI,"Arenac County",18,23,669
+26,125,31,055,NE,"Douglas County",18,28,725
+26,125,45,079,SC,"Richland County",18,35,987
+26,125,51,013,VA,"Arlington County",18,19,985
+26,125,09,009,CT,"New Haven County",17,40,1717
+26,125,17,113,IL,"Mclean County",17,50,1806
+26,125,21,067,KY,"Fayette County",17,32,987
+26,125,24,027,MD,"Howard County",17,32,1078
+26,125,26,051,MI,"Gladwin County",17,28,537
+26,125,26,143,MI,"Roscommon County",17,21,561
+26,125,35,001,NM,"Bernalillo County",17,29,678
+26,125,36,067,NY,"Onondaga County",17,38,898
+26,125,39,025,OH,"Clermont County",17,40,1226
+26,125,39,043,OH,"Erie County",17,37,1336
+26,125,39,155,OH,"Trumbull County",17,33,1203
+26,125,48,121,TX,"Denton County",17,35,1476
+26,125,49,049,UT,"Utah County",17,33,427
+26,125,55,133,WI,"Waukesha County",17,28,2402
+26,125,08,013,CO,"Boulder County",16,20,461
+26,125,17,201,IL,"Winnebago County",16,37,1464
+26,125,20,173,KS,"Sedgwick County",16,28,724
+26,125,26,117,MI,"Montcalm County",16,25,504
+26,125,34,005,NJ,"Burlington County",16,32,965
+26,125,39,165,OH,"Warren County",16,48,1672
+26,125,01,089,AL,"Madison County",15,35,987
+26,125,12,015,FL,"Charlotte County",15,27,958
+26,125,12,073,FL,"Leon County",15,25,573
+26,125,25,021,MA,"Norfolk County",15,29,6529
+26,125,26,029,MI,"Charlevoix County",15,29,2855
+26,125,26,039,MI,"Crawford County",15,24,336
+26,125,26,119,MI,"Montmorency County",15,26,549
+26,125,26,133,MI,"Osceola County",15,19,301
+26,125,26,165,MI,"Wexford County",15,28,462
+26,125,37,051,NC,"Cumberland County",15,24,312
+26,125,37,067,NC,"Forsyth County",15,28,773
+26,125,40,143,OK,"Tulsa County",15,28,600
+26,125,51,810,VA,"Virginia Beach",15,21,427
+26,125,18,039,IN,"Elkhart County",14,33,1673
+26,125,18,067,IN,"Howard County",14,29,1036
+26,125,26,009,MI,"Antrim County",14,23,999
+26,125,26,019,MI,"Benzie County",14,22,776
+26,125,26,041,MI,"Delta County",14,17,477
+26,125,26,059,MI,"Hillsdale County",14,24,464
+26,125,26,141,MI,"Presque Isle County",14,21,329
+26,125,26,149,MI,"St Joseph County",14,25,531
+26,125,34,013,NJ,"Essex County",14,25,773
+26,125,42,019,PA,"Butler County",14,32,1445
+26,125,42,045,PA,"Delaware County",14,43,1600
+26,125,45,063,SC,"Lexington County",14,18,330
+26,125,48,061,TX,"Cameron County",14,33,709
+26,125,51,087,VA,"Henrico County",14,26,742
+26,125,51,153,VA,"Prince William Count",14,24,727
+26,125,55,105,WI,"Rock County",14,21,948
+26,125,01,073,AL,"Jefferson County",13,23,511
+26,125,05,119,AR,"Pulaski County",13,32,861
+26,125,13,051,GA,"Chatham County",13,27,684
+26,125,17,019,IL,"Champaign County",13,21,402
+26,125,17,143,IL,"Peoria County",13,21,623
+26,125,21,015,KY,"Boone County",13,30,797
+26,125,22,051,LA,"Jefferson Parish",13,33,796
+26,125,25,009,MA,"Essex County",13,33,790
+26,125,26,067,MI,"Ionia County",13,17,536
+26,125,26,105,MI,"Mason County",13,24,375
+26,125,32,031,NV,"Washoe County",13,23,547
+26,125,34,001,NJ,"Atlantic County",13,30,745
+26,125,34,007,NJ,"Camden County",13,26,868
+26,125,34,035,NJ,"Somerset County",13,34,2378
+26,125,36,001,NY,"Albany County",13,24,469
+26,125,39,103,OH,"Medina County",13,37,1026
+26,125,40,027,OK,"Cleveland County",13,25,465
+26,125,41,067,OR,"Washington County",13,23,711
+26,125,51,710,VA,Norfolk,13,20,386
+26,125,55,101,WI,"Racine County",13,28,875
+26,125,12,001,FL,"Alachua County",12,27,321
+26,125,12,069,FL,"Lake County",12,22,381
+26,125,18,005,IN,"Bartholomew County",12,22,975
+26,125,18,127,IN,"Porter County",12,26,590
+26,125,19,169,IA,"Story County",12,17,336
+26,125,29,510,MO,"St Louis",12,16,472
+26,125,31,109,NE,"Lancaster County",12,21,557
+26,125,36,005,NY,"Bronx County",12,33,318
+26,125,41,005,OR,"Clackamas County",12,27,925
+26,125,47,119,TN,"Maury County",12,33,832
+26,125,48,027,TX,"Bell County",12,18,311
+26,125,51,107,VA,"Loudoun County",12,28,1147
+26,125,53,053,WA,"Pierce County",12,20,429
+26,125,01,101,AL,"Montgomery County",11,17,254
+26,125,08,035,CO,"Douglas County",11,23,671
+26,125,12,033,FL,"Escambia County",11,20,489
+26,125,12,053,FL,"Hernando County",11,16,689
+26,125,12,085,FL,"Martin County",11,15,716
+26,125,17,163,IL,"St Clair County",11,25,258
+26,125,18,163,IN,"Vanderburgh County",11,14,415
+26,125,22,017,LA,"Caddo Parish",11,15,555
+26,125,28,033,MS,"De Soto County",11,24,691
+26,125,33,011,NH,"Hillsborough County",11,20,489
+26,125,34,021,NJ,"Mercer County",11,30,1500
+26,125,34,031,NJ,"Passaic County",11,25,440
+26,125,36,071,NY,"Orange County",11,37,1026
+26,125,39,003,OH,"Allen County",11,20,582
+26,125,39,133,OH,"Portage County",11,17,448
+26,125,42,049,PA,"Erie County",11,23,579
+26,125,42,071,PA,"Lancaster County",11,21,520
+26,125,42,129,PA,"Westmoreland County",11,16,1005
+26,125,48,215,TX,"Hidalgo County",11,23,320
+26,125,51,121,VA,"Montgomery County",11,18,391
+26,125,53,035,WA,"Kitsap County",11,26,453
+26,125,01,097,AL,"Mobile County",10,20,790
+26,125,06,019,CA,"Fresno County",10,37,415
+26,125,06,083,CA,"Santa Barbara County",10,20,613
+26,125,08,069,CO,"Larimer County",10,12,150
+26,125,12,083,FL,"Marion County",10,14,475
+26,125,12,087,FL,"Monroe County",10,16,486
+26,125,21,117,KY,"Kenton County",10,14,466
+26,125,26,015,MI,"Barry County",10,13,390
+26,125,26,043,MI,"Dickinson County",10,19,347
+26,125,26,135,MI,"Oscoda County",10,12,288
+26,125,26,159,MI,"Van Buren County",10,15,309
+26,125,36,109,NY,"Tompkins County",10,21,335
+26,125,39,045,OH,"Fairfield County",10,18,624
+26,125,39,085,OH,"Lake County",10,14,378
+26,125,40,119,OK,"Payne County",10,10,188
+26,125,42,043,PA,"Dauphin County",10,16,1081
+26,125,44,007,RI,"Providence County",10,20,286
+26,125,47,065,TN,"Hamilton County",10,15,689
+26,125,51,700,VA,"Newport News",10,29,352
+26,125,53,063,WA,"Spokane County",10,24,495
+26,125,55,059,WI,"Kenosha County",10,22,591
+26,125,58,000,SS,"Other Flows - Same State",97,153,2562
+26,125,59,000,DS,"Other Flows - Diff State",2185,4212,111670
+26,125,59,001,DS,"Other Flows - Northeast",327,582,16716
+26,125,59,003,DS,"Other Flows - Midwest",636,1225,34920
+26,125,59,005,DS,"Other Flows - South",938,1877,43848
+26,125,59,007,DS,"Other Flows - West",284,528,16186
+26,125,57,009,FR,"Foreign - Other flows",662,1146,37359
+26,127,96,000,MI,"Oceana County Tot Mig-US & For",578,1186,17695
+26,127,97,000,MI,"Oceana County Tot Mig-US",578,1186,17695
+26,127,97,001,MI,"Oceana County Tot Mig-Same St",414,842,13780
+26,127,97,003,MI,"Oceana County Tot Mig-Diff St",164,344,3915
+26,127,26,127,MI,"Oceana County Non-Migrants",6582,15622,246690
+26,127,26,121,MI,"Muskegon County",143,283,3998
+26,127,26,105,MI,"Mason County",51,103,1159
+26,127,26,123,MI,"Newaygo County",48,116,1100
+26,127,26,081,MI,"Kent County",43,88,1455
+26,127,26,139,MI,"Ottawa County",25,52,1655
+26,127,48,215,TX,"Hidalgo County",25,66,335
+26,127,17,031,IL,"Cook County",15,23,651
+26,127,26,163,MI,"Wayne County",13,22,966
+26,127,26,037,MI,"Clinton County",10,24,296
+26,127,58,000,SS,"Other Flows - Same State",81,154,3151
+26,127,59,000,DS,"Other Flows - Diff State",124,255,2928
+26,129,96,000,MI,"Ogemaw County Tot Mig-US & For",570,1096,18293
+26,129,97,000,MI,"Ogemaw County Tot Mig-US",570,1096,18293
+26,129,97,001,MI,"Ogemaw County Tot Mig-Same St",484,918,15546
+26,129,97,003,MI,"Ogemaw County Tot Mig-Diff St",86,178,2747
+26,129,26,129,MI,"Ogemaw County Non-Migrants",6350,14442,215729
+26,129,26,049,MI,"Genesee County",49,85,1788
+26,129,26,011,MI,"Arenac County",47,97,950
+26,129,26,125,MI,"Oakland County",43,84,1902
+26,129,26,163,MI,"Wayne County",37,73,1412
+26,129,26,145,MI,"Saginaw County",34,56,1381
+26,129,26,069,MI,"Iosco County",32,55,667
+26,129,26,099,MI,"Macomb County",28,51,1569
+26,129,26,143,MI,"Roscommon County",28,50,619
+26,129,26,017,MI,"Bay County",24,50,782
+26,129,26,051,MI,"Gladwin County",21,43,411
+26,129,26,135,MI,"Oscoda County",12,26,401
+26,129,26,147,MI,"St Clair County",11,27,500
+26,129,26,001,MI,"Alcona County",10,25,157
+26,129,58,000,SS,"Other Flows - Same State",108,196,3008
+26,129,59,000,DS,"Other Flows - Diff State",86,178,2747
+26,131,96,000,MI,"Ontonagon Count Tot Mig-US & For",169,345,5836
+26,131,97,000,MI,"Ontonagon Count Tot Mig-US",169,345,5836
+26,131,97,001,MI,"Ontonagon Count Tot Mig-Same St",87,179,2749
+26,131,97,003,MI,"Ontonagon Count Tot Mig-Diff St",82,166,3087
+26,131,26,131,MI,"Ontonagon Count Non-Migrants",2751,5844,88684
+26,131,26,061,MI,"Houghton County",19,35,491
+26,131,26,053,MI,"Gogebic County",13,31,409
+26,131,58,000,SS,"Other Flows - Same State",55,113,1849
+26,131,59,000,DS,"Other Flows - Diff State",82,166,3087
+26,133,96,000,MI,"Osceola County Tot Mig-US & For",580,1123,16650
+26,133,97,000,MI,"Osceola County Tot Mig-US",580,1123,16650
+26,133,97,001,MI,"Osceola County Tot Mig-Same St",498,965,14690
+26,133,97,003,MI,"Osceola County Tot Mig-Diff St",82,158,1960
+26,133,26,133,MI,"Osceola County Non-Migrants",6118,14292,212965
+26,133,26,107,MI,"Mecosta County",100,202,2204
+26,133,26,165,MI,"Wexford County",60,116,1894
+26,133,26,085,MI,"Lake County",54,106,1447
+26,133,26,125,MI,"Oakland County",31,56,2152
+26,133,26,035,MI,"Clare County",28,69,600
+26,133,26,081,MI,"Kent County",28,47,1104
+26,133,26,163,MI,"Wayne County",23,39,724
+26,133,26,049,MI,"Genesee County",15,31,508
+26,133,26,113,MI,"Missaukee County",14,31,246
+26,133,26,099,MI,"Macomb County",10,16,303
+26,133,58,000,SS,"Other Flows - Same State",135,252,3510
+26,133,59,000,DS,"Other Flows - Diff State",82,158,1960
+26,135,96,000,MI,"Oscoda County Tot Mig-US & For",187,379,5372
+26,135,97,000,MI,"Oscoda County Tot Mig-US",187,379,5372
+26,135,97,001,MI,"Oscoda County Tot Mig-Same St",153,302,4479
+26,135,97,003,MI,"Oscoda County Tot Mig-Diff St",34,77,893
+26,135,26,135,MI,"Oscoda County Non-Migrants",2052,4765,61029
+26,135,26,125,MI,"Oakland County",19,39,740
+26,135,26,049,MI,"Genesee County",17,31,470
+26,135,26,163,MI,"Wayne County",13,20,646
+26,135,26,099,MI,"Macomb County",12,25,315
+26,135,26,001,MI,"Alcona County",11,19,203
+26,135,58,000,SS,"Other Flows - Same State",81,168,2104
+26,135,59,000,DS,"Other Flows - Diff State",34,77,893
+26,137,96,000,MI,"Otsego County Tot Mig-US & For",698,1402,27399
+26,137,97,000,MI,"Otsego County Tot Mig-US",698,1402,27399
+26,137,97,001,MI,"Otsego County Tot Mig-Same St",554,1102,22150
+26,137,97,003,MI,"Otsego County Tot Mig-Diff St",144,300,5249
+26,137,26,137,MI,"Otsego County Non-Migrants",7366,17097,384310
+26,137,26,125,MI,"Oakland County",49,108,2399
+26,137,26,039,MI,"Crawford County",43,89,953
+26,137,26,031,MI,"Cheboygan County",40,71,1152
+26,137,26,009,MI,"Antrim County",30,58,791
+26,137,26,049,MI,"Genesee County",30,74,3037
+26,137,26,099,MI,"Macomb County",30,62,1369
+26,137,26,163,MI,"Wayne County",30,60,2254
+26,137,26,119,MI,"Montmorency County",26,41,601
+26,137,26,029,MI,"Charlevoix County",19,39,508
+26,137,26,055,MI,"Grand Traverse Count",19,44,606
+26,137,26,007,MI,"Alpena County",17,34,538
+26,137,26,081,MI,"Kent County",12,18,316
+26,137,26,145,MI,"Saginaw County",12,22,473
+26,137,26,033,MI,"Chippewa County",11,14,427
+26,137,26,047,MI,"Emmet County",11,20,205
+26,137,26,065,MI,"Ingham County",10,23,500
+26,137,26,103,MI,"Marquette County",10,20,244
+26,137,58,000,SS,"Other Flows - Same State",155,305,5776
+26,137,59,000,DS,"Other Flows - Diff State",144,300,5249
+26,137,59,001,DS,"Other Flows - Northeast",11,24,362
+26,137,59,003,DS,"Other Flows - Midwest",45,102,1920
+26,137,59,005,DS,"Other Flows - South",58,112,1731
+26,137,59,007,DS,"Other Flows - West",30,62,1237
+26,139,96,000,MI,"Ottawa County Tot Mig-US & For",6060,11995,256964
+26,139,97,000,MI,"Ottawa County Tot Mig-US",5996,11877,255898
+26,139,97,001,MI,"Ottawa County Tot Mig-Same St",4404,8418,186406
+26,139,97,003,MI,"Ottawa County Tot Mig-Diff St",1592,3459,69491
+26,139,98,000,MI,"Ottawa County Tot Mig-Foreign",64,118,1066
+26,139,26,139,MI,"Ottawa County Non-Migrants",75702,188876,4512995
+26,139,26,081,MI,"Kent County",1854,3723,89100
+26,139,26,005,MI,"Allegan County",685,1348,25986
+26,139,26,121,MI,"Muskegon County",567,1006,19738
+26,139,26,077,MI,"Kalamazoo County",119,189,5002
+26,139,17,031,IL,"Cook County",91,186,4044
+26,139,26,125,MI,"Oakland County",83,157,5538
+26,139,26,159,MI,"Van Buren County",75,138,1858
+26,139,26,021,MI,"Berrien County",66,126,2403
+26,139,26,163,MI,"Wayne County",64,127,3236
+26,139,48,215,TX,"Hidalgo County",63,171,1047
+26,139,26,065,MI,"Ingham County",61,100,2116
+26,139,26,123,MI,"Newaygo County",49,78,2002
+26,139,26,049,MI,"Genesee County",47,88,1771
+26,139,26,099,MI,"Macomb County",42,80,1881
+26,139,26,161,MI,"Washtenaw County",42,81,1883
+26,139,26,067,MI,"Ionia County",34,71,1246
+26,139,26,015,MI,"Barry County",33,54,1549
+26,139,26,055,MI,"Grand Traverse Count",33,55,892
+26,139,26,025,MI,"Calhoun County",32,66,1746
+26,139,26,145,MI,"Saginaw County",32,63,1057
+26,139,26,045,MI,"Eaton County",31,54,1063
+26,139,17,043,IL,"Du Page County",30,58,1971
+26,139,26,117,MI,"Montcalm County",26,44,677
+26,139,26,105,MI,"Mason County",24,39,898
+26,139,26,127,MI,"Oceana County",24,41,764
+26,139,18,089,IN,"Lake County",22,47,823
+26,139,26,017,MI,"Bay County",22,34,748
+26,139,26,107,MI,"Mecosta County",21,40,760
+26,139,26,093,MI,"Livingston County",20,44,1208
+26,139,06,073,CA,"San Diego County",19,34,460
+26,139,18,097,IN,"Marion County",18,49,1027
+26,139,48,061,TX,"Cameron County",18,47,324
+26,139,04,013,AZ,"Maricopa County",16,34,918
+26,139,06,037,CA,"Los Angeles County",16,35,333
+26,139,26,101,MI,"Manistee County",16,24,489
+26,139,57,005,FR,"Foreign - APO/FPO ZIPs",16,38,315
+26,139,12,025,FL,"Dade County",15,40,396
+26,139,17,097,IL,"Lake County",15,37,1490
+26,139,26,091,MI,"Lenawee County",15,31,756
+26,139,48,201,TX,"Harris County",15,35,446
+26,139,18,141,IN,"St Joseph County",14,22,588
+26,139,26,073,MI,"Isabella County",14,24,601
+26,139,26,087,MI,"Lapeer County",14,25,639
+26,139,06,067,CA,"Sacramento County",13,38,291
+26,139,26,075,MI,"Jackson County",13,25,529
+26,139,18,003,IN,"Allen County",12,34,676
+26,139,18,157,IN,"Tippecanoe County",12,28,511
+26,139,26,037,MI,"Clinton County",12,18,417
+26,139,39,095,OH,"Lucas County",12,34,582
+26,139,26,007,MI,"Alpena County",11,18,267
+26,139,26,147,MI,"St Clair County",11,27,587
+26,139,31,079,NE,"Hall County",11,22,441
+26,139,12,103,FL,"Pinellas County",10,13,276
+26,139,12,105,FL,"Polk County",10,19,353
+26,139,17,089,IL,"Kane County",10,36,1025
+26,139,19,167,IA,"Sioux County",10,21,403
+26,139,26,057,MI,"Gratiot County",10,27,340
+26,139,26,149,MI,"St Joseph County",10,18,383
+26,139,26,155,MI,"Shiawassee County",10,18,395
+26,139,53,033,WA,"King County",10,22,480
+26,139,58,000,SS,"Other Flows - Same State",182,317,5881
+26,139,59,000,DS,"Other Flows - Diff State",1130,2397,50586
+26,139,59,001,DS,"Other Flows - Northeast",142,282,7357
+26,139,59,003,DS,"Other Flows - Midwest",375,814,17272
+26,139,59,005,DS,"Other Flows - South",402,858,19262
+26,139,59,007,DS,"Other Flows - West",211,443,6696
+26,139,57,009,FR,"Foreign - Other flows",48,80,750
+26,141,96,000,MI,"Presque Isle Co Tot Mig-US & For",243,485,9276
+26,141,97,000,MI,"Presque Isle Co Tot Mig-US",243,485,9276
+26,141,97,001,MI,"Presque Isle Co Tot Mig-Same St",199,406,7330
+26,141,97,003,MI,"Presque Isle Co Tot Mig-Diff St",44,79,1946
+26,141,26,141,MI,"Presque Isle Co Non-Migrants",4475,9821,153102
+26,141,26,007,MI,"Alpena County",35,73,887
+26,141,26,163,MI,"Wayne County",24,50,1019
+26,141,26,125,MI,"Oakland County",21,35,1086
+26,141,26,031,MI,"Cheboygan County",16,42,418
+26,141,26,049,MI,"Genesee County",14,26,677
+26,141,58,000,SS,"Other Flows - Same State",89,180,3244
+26,141,59,000,DS,"Other Flows - Diff State",44,79,1946
+26,143,96,000,MI,"Roscommon Count Tot Mig-US & For",733,1416,26276
+26,143,97,000,MI,"Roscommon Count Tot Mig-US",733,1416,26276
+26,143,97,001,MI,"Roscommon Count Tot Mig-Same St",618,1183,22463
+26,143,97,003,MI,"Roscommon Count Tot Mig-Diff St",115,233,3813
+26,143,26,143,MI,"Roscommon Count Non-Migrants",7622,16107,258192
+26,143,26,163,MI,"Wayne County",91,184,3040
+26,143,26,125,MI,"Oakland County",69,145,3941
+26,143,26,049,MI,"Genesee County",64,120,2395
+26,143,26,099,MI,"Macomb County",57,104,2515
+26,143,26,039,MI,"Crawford County",38,76,825
+26,143,26,145,MI,"Saginaw County",29,55,1158
+26,143,26,129,MI,"Ogemaw County",23,37,511
+26,143,26,017,MI,"Bay County",16,27,456
+26,143,26,037,MI,"Clinton County",14,21,550
+26,143,26,113,MI,"Missaukee County",14,30,206
+26,143,26,035,MI,"Clare County",13,19,288
+26,143,26,093,MI,"Livingston County",13,28,597
+26,143,26,147,MI,"St Clair County",13,28,336
+26,143,26,155,MI,"Shiawassee County",12,22,302
+26,143,26,057,MI,"Gratiot County",10,20,211
+26,143,26,111,MI,"Midland County",10,20,1093
+26,143,58,000,SS,"Other Flows - Same State",132,247,4039
+26,143,59,000,DS,"Other Flows - Diff State",115,233,3813
+26,145,96,000,MI,"Saginaw County Tot Mig-US & For",3247,5982,110025
+26,145,97,000,MI,"Saginaw County Tot Mig-US",3169,5867,108084
+26,145,97,001,MI,"Saginaw County Tot Mig-Same St",2221,3963,77174
+26,145,97,003,MI,"Saginaw County Tot Mig-Diff St",948,1904,30910
+26,145,98,000,MI,"Saginaw County Tot Mig-Foreign",78,115,1940
+26,145,26,145,MI,"Saginaw County Non-Migrants",74563,166262,3376541
+26,145,26,017,MI,"Bay County",395,686,12327
+26,145,26,049,MI,"Genesee County",292,551,12737
+26,145,26,111,MI,"Midland County",181,293,6027
+26,145,26,157,MI,"Tuscola County",161,291,4821
+26,145,26,125,MI,"Oakland County",105,197,5971
+26,145,26,155,MI,"Shiawassee County",93,184,3192
+26,145,26,081,MI,"Kent County",87,161,2181
+26,145,26,163,MI,"Wayne County",84,153,3386
+26,145,26,057,MI,"Gratiot County",77,167,2935
+26,145,26,065,MI,"Ingham County",68,121,1986
+26,145,26,099,MI,"Macomb County",46,80,1839
+26,145,26,063,MI,"Huron County",39,64,1226
+26,145,26,073,MI,"Isabella County",33,61,943
+26,145,26,051,MI,"Gladwin County",32,54,1439
+26,145,26,161,MI,"Washtenaw County",32,50,969
+26,145,26,035,MI,"Clare County",28,58,823
+26,145,26,037,MI,"Clinton County",28,55,782
+26,145,26,077,MI,"Kalamazoo County",27,42,831
+26,145,17,031,IL,"Cook County",26,47,675
+26,145,26,011,MI,"Arenac County",26,42,787
+26,145,26,069,MI,"Iosco County",25,44,569
+26,145,04,013,AZ,"Maricopa County",23,39,790
+26,145,26,087,MI,"Lapeer County",22,39,576
+26,145,26,151,MI,"Sanilac County",20,28,578
+26,145,39,039,OH,"Defiance County",19,47,1208
+26,145,39,049,OH,"Franklin County",19,41,490
+26,145,26,129,MI,"Ogemaw County",16,37,435
+26,145,26,143,MI,"Roscommon County",16,29,560
+26,145,06,073,CA,"San Diego County",15,21,279
+26,145,26,075,MI,"Jackson County",15,30,632
+26,145,26,093,MI,"Livingston County",15,28,603
+26,145,57,005,FR,"Foreign - APO/FPO ZIPs",14,25,251
+26,145,26,039,MI,"Crawford County",13,20,294
+26,145,26,091,MI,"Lenawee County",13,21,491
+26,145,26,139,MI,"Ottawa County",13,31,514
+26,145,26,147,MI,"St Clair County",13,20,579
+26,145,26,055,MI,"Grand Traverse Count",12,16,305
+26,145,26,121,MI,"Muskegon County",12,29,457
+26,145,06,037,CA,"Los Angeles County",11,21,249
+26,145,26,107,MI,"Mecosta County",11,19,574
+26,145,32,003,NV,"Clark County",11,18,366
+26,145,26,025,MI,"Calhoun County",10,19,629
+26,145,26,045,MI,"Eaton County",10,14,238
+26,145,26,115,MI,"Monroe County",10,21,371
+26,145,58,000,SS,"Other Flows - Same State",141,208,3570
+26,145,59,000,DS,"Other Flows - Diff State",824,1670,26853
+26,145,59,001,DS,"Other Flows - Northeast",78,162,3257
+26,145,59,003,DS,"Other Flows - Midwest",221,475,8522
+26,145,59,005,DS,"Other Flows - South",423,858,11900
+26,145,59,007,DS,"Other Flows - West",102,175,3174
+26,145,57,009,FR,"Foreign - Other flows",64,90,1690
+26,147,96,000,MI,"St Clair County Tot Mig-US & For",3466,6893,145984
+26,147,97,000,MI,"St Clair County Tot Mig-US",3410,6800,144695
+26,147,97,001,MI,"St Clair County Tot Mig-Same St",2751,5521,120208
+26,147,97,003,MI,"St Clair County Tot Mig-Diff St",659,1279,24487
+26,147,98,000,MI,"St Clair County Tot Mig-Foreign",56,93,1289
+26,147,26,147,MI,"St Clair County Non-Migrants",58956,133750,2945749
+26,147,26,099,MI,"Macomb County",1504,3113,71222
+26,147,26,125,MI,"Oakland County",269,532,14006
+26,147,26,151,MI,"Sanilac County",221,410,6217
+26,147,26,163,MI,"Wayne County",220,470,10774
+26,147,26,087,MI,"Lapeer County",91,188,3616
+26,147,26,049,MI,"Genesee County",45,86,1496
+26,147,26,063,MI,"Huron County",24,41,620
+26,147,26,161,MI,"Washtenaw County",21,41,682
+26,147,26,065,MI,"Ingham County",19,32,622
+26,147,26,077,MI,"Kalamazoo County",19,33,451
+26,147,26,073,MI,"Isabella County",17,25,399
+26,147,26,081,MI,"Kent County",16,26,487
+26,147,26,145,MI,"Saginaw County",15,30,744
+26,147,26,157,MI,"Tuscola County",15,24,351
+26,147,12,103,FL,"Pinellas County",14,20,377
+26,147,12,101,FL,"Pasco County",13,16,349
+26,147,26,017,MI,"Bay County",13,22,382
+26,147,32,003,NV,"Clark County",13,23,312
+26,147,04,013,AZ,"Maricopa County",12,21,272
+26,147,17,031,IL,"Cook County",12,20,597
+26,147,26,093,MI,"Livingston County",12,22,448
+26,147,26,143,MI,"Roscommon County",12,26,193
+26,147,57,005,FR,"Foreign - APO/FPO ZIPs",12,15,214
+26,147,48,201,TX,"Harris County",11,20,338
+26,147,06,037,CA,"Los Angeles County",10,18,324
+26,147,12,011,FL,"Broward County",10,19,810
+26,147,26,025,MI,"Calhoun County",10,16,346
+26,147,26,075,MI,"Jackson County",10,22,441
+26,147,26,111,MI,"Midland County",10,22,527
+26,147,58,000,SS,"Other Flows - Same State",188,340,6184
+26,147,59,000,DS,"Other Flows - Diff State",564,1122,21108
+26,147,59,001,DS,"Other Flows - Northeast",61,144,3164
+26,147,59,003,DS,"Other Flows - Midwest",139,277,6249
+26,147,59,005,DS,"Other Flows - South",255,514,8736
+26,147,59,007,DS,"Other Flows - West",109,187,2958
+26,147,57,009,FR,"Foreign - Other flows",44,78,1075
+26,149,96,000,MI,"St Joseph Count Tot Mig-US & For",1261,2442,51215
+26,149,97,000,MI,"St Joseph Count Tot Mig-US",1251,2425,51065
+26,149,97,001,MI,"St Joseph Count Tot Mig-Same St",631,1148,21118
+26,149,97,003,MI,"St Joseph Count Tot Mig-Diff St",620,1277,29947
+26,149,98,000,MI,"St Joseph Count Tot Mig-Foreign",10,17,150
+26,149,26,149,MI,"St Joseph Count Non-Migrants",20768,47441,876894
+26,149,26,077,MI,"Kalamazoo County",168,275,8117
+26,149,26,023,MI,"Branch County",112,220,2844
+26,149,26,027,MI,"Cass County",104,199,2934
+26,149,18,039,IN,"Elkhart County",93,179,7759
+26,149,18,087,IN,"Lagrange County",88,192,2194
+26,149,17,031,IL,"Cook County",44,93,1767
+26,149,26,025,MI,"Calhoun County",36,60,786
+26,149,18,141,IN,"St Joseph County",33,73,8058
+26,149,26,005,MI,"Allegan County",19,40,564
+26,149,26,021,MI,"Berrien County",17,28,622
+26,149,26,081,MI,"Kent County",16,30,599
+26,149,26,125,MI,"Oakland County",15,30,611
+26,149,26,163,MI,"Wayne County",14,39,589
+26,149,26,049,MI,"Genesee County",11,22,219
+26,149,17,043,IL,"Du Page County",10,24,411
+26,149,58,000,SS,"Other Flows - Same State",119,205,3234
+26,149,59,000,DS,"Other Flows - Diff State",352,716,9758
+26,149,59,001,DS,"Other Flows - Northeast",10,22,250
+26,149,59,003,DS,"Other Flows - Midwest",159,328,4948
+26,149,59,005,DS,"Other Flows - South",118,240,2954
+26,149,59,007,DS,"Other Flows - West",65,126,1606
+26,149,57,009,FR,"Foreign - Other flows",10,17,150
+26,151,96,000,MI,"Sanilac County Tot Mig-US & For",947,1938,31444
+26,151,97,000,MI,"Sanilac County Tot Mig-US",947,1938,31444
+26,151,97,001,MI,"Sanilac County Tot Mig-Same St",810,1678,27062
+26,151,97,003,MI,"Sanilac County Tot Mig-Diff St",137,260,4382
+26,151,26,151,MI,"Sanilac County Non-Migrants",15567,36105,594580
+26,151,26,147,MI,"St Clair County",195,440,5850
+26,151,26,099,MI,"Macomb County",125,249,4859
+26,151,26,087,MI,"Lapeer County",109,213,3256
+26,151,26,157,MI,"Tuscola County",74,146,1826
+26,151,26,125,MI,"Oakland County",62,129,3159
+26,151,26,163,MI,"Wayne County",56,128,2570
+26,151,26,063,MI,"Huron County",48,96,1397
+26,151,26,049,MI,"Genesee County",25,49,796
+26,151,26,017,MI,"Bay County",10,18,295
+26,151,58,000,SS,"Other Flows - Same State",106,210,3055
+26,151,59,000,DS,"Other Flows - Diff State",137,260,4382
+26,151,59,001,DS,"Other Flows - Northeast",11,19,785
+26,151,59,003,DS,"Other Flows - Midwest",40,75,1359
+26,151,59,005,DS,"Other Flows - South",60,128,1629
+26,151,59,007,DS,"Other Flows - West",26,38,609
+26,153,96,000,MI,"Schoolcraft Cou Tot Mig-US & For",156,321,5560
+26,153,97,000,MI,"Schoolcraft Cou Tot Mig-US",156,321,5560
+26,153,97,001,MI,"Schoolcraft Cou Tot Mig-Same St",102,205,3598
+26,153,97,003,MI,"Schoolcraft Cou Tot Mig-Diff St",54,116,1962
+26,153,26,153,MI,"Schoolcraft Cou Non-Migrants",2890,6531,104830
+26,153,26,041,MI,"Delta County",13,27,450
+26,153,58,000,SS,"Other Flows - Same State",89,178,3149
+26,153,59,000,DS,"Other Flows - Diff State",54,116,1962
+26,155,96,000,MI,"Shiawassee Coun Tot Mig-US & For",1334,2651,44124
+26,155,97,000,MI,"Shiawassee Coun Tot Mig-US",1334,2651,44124
+26,155,97,001,MI,"Shiawassee Coun Tot Mig-Same St",1081,2105,36914
+26,155,97,003,MI,"Shiawassee Coun Tot Mig-Diff St",253,546,7210
+26,155,26,155,MI,"Shiawassee Coun Non-Migrants",21156,48921,920134
+26,155,26,049,MI,"Genesee County",308,667,10916
+26,155,26,065,MI,"Ingham County",169,326,5713
+26,155,26,037,MI,"Clinton County",108,183,3218
+26,155,26,093,MI,"Livingston County",97,186,3620
+26,155,26,145,MI,"Saginaw County",87,161,2824
+26,155,26,125,MI,"Oakland County",54,108,2461
+26,155,26,163,MI,"Wayne County",28,49,796
+26,155,26,045,MI,"Eaton County",25,41,726
+26,155,26,099,MI,"Macomb County",14,27,462
+26,155,26,057,MI,"Gratiot County",13,21,306
+26,155,26,075,MI,"Jackson County",13,30,1006
+26,155,26,073,MI,"Isabella County",12,16,279
+26,155,58,000,SS,"Other Flows - Same State",153,290,4587
+26,155,59,000,DS,"Other Flows - Diff State",253,546,7210
+26,157,96,000,MI,"Tuscola County Tot Mig-US & For",1049,2180,34772
+26,157,97,000,MI,"Tuscola County Tot Mig-US",1049,2180,34772
+26,157,97,001,MI,"Tuscola County Tot Mig-Same St",874,1789,30008
+26,157,97,003,MI,"Tuscola County Tot Mig-Diff St",175,391,4764
+26,157,26,157,MI,"Tuscola County Non-Migrants",17860,41650,732215
+26,157,26,049,MI,"Genesee County",160,350,5655
+26,157,26,145,MI,"Saginaw County",141,278,4899
+26,157,26,087,MI,"Lapeer County",110,237,3246
+26,157,26,063,MI,"Huron County",85,173,2371
+26,157,26,151,MI,"Sanilac County",81,159,2072
+26,157,26,125,MI,"Oakland County",62,131,4512
+26,157,26,017,MI,"Bay County",51,103,1551
+26,157,26,099,MI,"Macomb County",29,57,995
+26,157,26,163,MI,"Wayne County",20,38,504
+26,157,26,065,MI,"Ingham County",12,18,614
+26,157,58,000,SS,"Other Flows - Same State",123,245,3588
+26,157,59,000,DS,"Other Flows - Diff State",175,391,4764
+26,157,59,001,DS,"Other Flows - Northeast",12,33,344
+26,157,59,003,DS,"Other Flows - Midwest",40,95,1241
+26,157,59,005,DS,"Other Flows - South",94,203,2327
+26,157,59,007,DS,"Other Flows - West",29,60,853
+26,159,96,000,MI,"Van Buren Count Tot Mig-US & For",1644,3339,54947
+26,159,97,000,MI,"Van Buren Count Tot Mig-US",1644,3339,54947
+26,159,97,001,MI,"Van Buren Count Tot Mig-Same St",1205,2392,41194
+26,159,97,003,MI,"Van Buren Count Tot Mig-Diff St",439,947,13753
+26,159,26,159,MI,"Van Buren Count Non-Migrants",20390,47013,832861
+26,159,26,077,MI,"Kalamazoo County",495,995,17424
+26,159,26,005,MI,"Allegan County",213,429,5414
+26,159,26,021,MI,"Berrien County",173,361,7694
+26,159,26,027,MI,"Cass County",78,158,1994
+26,159,17,031,IL,"Cook County",46,88,1513
+26,159,26,139,MI,"Ottawa County",33,52,856
+26,159,26,081,MI,"Kent County",26,56,1068
+26,159,26,149,MI,"St Joseph County",20,38,629
+26,159,48,215,TX,"Hidalgo County",20,54,227
+26,159,18,141,IN,"St Joseph County",14,32,1329
+26,159,26,025,MI,"Calhoun County",13,28,469
+26,159,26,125,MI,"Oakland County",13,20,799
+26,159,26,163,MI,"Wayne County",12,29,639
+26,159,17,043,IL,"Du Page County",11,24,404
+26,159,58,000,SS,"Other Flows - Same State",129,226,4208
+26,159,59,000,DS,"Other Flows - Diff State",348,749,10281
+26,159,59,001,DS,"Other Flows - Northeast",12,28,807
+26,159,59,003,DS,"Other Flows - Midwest",120,251,3873
+26,159,59,005,DS,"Other Flows - South",159,374,4141
+26,159,59,007,DS,"Other Flows - West",57,96,1461
+26,161,96,000,MI,"Washtenaw Count Tot Mig-US & For",11676,19009,533168
+26,161,97,000,MI,"Washtenaw Count Tot Mig-US",10772,17940,522292
+26,161,97,001,MI,"Washtenaw Count Tot Mig-Same St",6107,10097,275407
+26,161,97,003,MI,"Washtenaw Count Tot Mig-Diff St",4665,7843,246884
+26,161,98,000,MI,"Washtenaw Count Tot Mig-Foreign",904,1069,10876
+26,161,26,161,MI,"Washtenaw Count Non-Migrants",97274,203963,6935800
+26,161,26,163,MI,"Wayne County",2377,4383,119703
+26,161,26,125,MI,"Oakland County",855,1373,48251
+26,161,26,093,MI,"Livingston County",447,710,20032
+26,161,26,115,MI,"Monroe County",287,474,11171
+26,161,26,075,MI,"Jackson County",270,442,11344
+26,161,26,091,MI,"Lenawee County",235,341,8296
+26,161,26,065,MI,"Ingham County",224,330,7502
+26,161,17,031,IL,"Cook County",222,298,11862
+26,161,26,099,MI,"Macomb County",210,324,8300
+26,161,26,049,MI,"Genesee County",177,277,6636
+26,161,26,081,MI,"Kent County",124,176,4201
+26,161,39,095,OH,"Lucas County",100,151,4717
+26,161,06,037,CA,"Los Angeles County",91,156,3738
+26,161,26,077,MI,"Kalamazoo County",88,125,3831
+26,161,26,145,MI,"Saginaw County",85,130,2807
+26,161,36,061,NY,"New York County",71,89,4067
+26,161,25,017,MA,"Middlesex County",69,98,3156
+26,161,39,035,OH,"Cuyahoga County",67,119,3498
+26,161,04,013,AZ,"Maricopa County",64,105,2691
+26,161,06,073,CA,"San Diego County",60,102,2670
+26,161,39,049,OH,"Franklin County",59,101,2821
+26,161,53,033,WA,"King County",59,88,3122
+26,161,26,025,MI,"Calhoun County",50,71,1764
+26,161,11,001,DC,"District Of Columbia",46,55,1900
+26,161,51,059,VA,"Fairfax County",46,81,3429
+26,161,06,085,CA,"Santa Clara County",44,83,3645
+26,161,06,001,CA,"Alameda County",42,51,1259
+26,161,26,055,MI,"Grand Traverse Count",42,67,1282
+26,161,26,147,MI,"St Clair County",42,63,1151
+26,161,27,053,MN,"Hennepin County",41,63,1574
+26,161,06,059,CA,"Orange County",40,82,15796
+26,161,17,043,IL,"Du Page County",40,75,2531
+26,161,39,061,OH,"Hamilton County",38,60,1500
+26,161,26,139,MI,"Ottawa County",37,50,1220
+26,161,48,113,TX,"Dallas County",37,53,1643
+26,161,06,075,CA,"San Francisco County",36,49,2476
+26,161,29,189,MO,"St Louis County",33,71,4706
+26,161,42,003,PA,"Allegheny County",33,66,1862
+26,161,18,097,IN,"Marion County",32,54,2024
+26,161,39,173,OH,"Wood County",32,48,1234
+26,161,24,031,MD,"Montgomery County",31,53,1669
+26,161,26,111,MI,"Midland County",31,49,1051
+26,161,48,201,TX,"Harris County",30,56,2191
+26,161,26,017,MI,"Bay County",29,37,1217
+26,161,26,045,MI,"Eaton County",29,39,992
+26,161,47,157,TN,"Shelby County",29,48,1256
+26,161,26,021,MI,"Berrien County",28,40,1064
+26,161,55,025,WI,"Dane County",28,42,1028
+26,161,41,051,OR,"Multnomah County",27,34,892
+26,161,55,079,WI,"Milwaukee County",27,43,1391
+26,161,25,025,MA,"Suffolk County",26,33,924
+26,161,48,453,TX,"Travis County",26,43,1154
+26,161,12,103,FL,"Pinellas County",25,37,3215
+26,161,25,021,MA,"Norfolk County",25,53,1460
+26,161,36,081,NY,"Queens County",25,36,642
+26,161,42,091,PA,"Montgomery County",25,53,2623
+26,161,18,157,IN,"Tippecanoe County",24,44,1386
+26,161,26,073,MI,"Isabella County",24,30,927
+26,161,26,103,MI,"Marquette County",24,32,474
+26,161,42,101,PA,"Philadelphia County",24,39,1152
+26,161,36,055,NY,"Monroe County",23,33,1341
+26,161,48,029,TX,"Bexar County",23,48,1259
+26,161,13,121,GA,"Fulton County",22,38,5439
+26,161,37,119,NC,"Mecklenburg County",22,33,1216
+26,161,39,153,OH,"Summit County",22,32,1016
+26,161,04,019,AZ,"Pima County",21,43,903
+26,161,26,059,MI,"Hillsdale County",21,36,638
+26,161,37,063,NC,"Durham County",21,39,1096
+26,161,39,113,OH,"Montgomery County",21,38,945
+26,161,48,439,TX,"Tarrant County",21,37,1016
+26,161,57,005,FR,"Foreign - APO/FPO ZIPs",21,29,446
+26,161,17,097,IL,"Lake County",20,47,1839
+26,161,34,023,NJ,"Middlesex County",20,32,897
+26,161,12,011,FL,"Broward County",19,34,780
+26,161,12,099,FL,"Palm Beach County",19,33,876
+26,161,18,003,IN,"Allen County",19,34,887
+26,161,21,111,KY,"Jefferson County",19,33,1109
+26,161,36,047,NY,"Kings County",19,29,975
+26,161,36,109,NY,"Tompkins County",19,39,1061
+26,161,51,013,VA,"Arlington County",19,25,871
+26,161,12,057,FL,"Hillsborough County",18,38,785
+26,161,17,019,IL,"Champaign County",18,23,554
+26,161,18,141,IN,"St Joseph County",18,38,1192
+26,161,26,069,MI,"Iosco County",18,32,681
+26,161,34,003,NJ,"Bergen County",18,32,939
+26,161,09,001,CT,"Fairfield County",17,30,970
+26,161,13,089,GA,"De Kalb County",17,20,572
+26,161,26,037,MI,"Clinton County",17,24,587
+26,161,26,087,MI,"Lapeer County",17,18,673
+26,161,26,155,MI,"Shiawassee County",17,27,491
+26,161,47,037,TN,"Davidson County",17,28,671
+26,161,49,035,UT,"Salt Lake County",17,34,553
+26,161,06,013,CA,"Contra Costa County",16,30,645
+26,161,08,013,CO,"Boulder County",16,26,424
+26,161,08,031,CO,"Denver County",16,25,696
+26,161,09,003,CT,"Hartford County",16,35,1882
+26,161,12,001,FL,"Alachua County",16,24,409
+26,161,12,025,FL,"Dade County",16,33,724
+26,161,26,121,MI,"Muskegon County",16,21,466
+26,161,36,029,NY,"Erie County",16,19,359
+26,161,36,103,NY,"Suffolk County",16,17,454
+26,161,06,081,CA,"San Mateo County",15,20,782
+26,161,18,105,IN,"Monroe County",15,21,424
+26,161,26,107,MI,"Mecosta County",15,18,296
+26,161,29,510,MO,"St Louis",15,24,547
+26,161,34,021,NJ,"Mercer County",15,36,860
+26,161,36,059,NY,"Nassau County",15,24,698
+26,161,39,093,OH,"Lorain County",15,28,1011
+26,161,42,027,PA,"Centre County",15,22,425
+26,161,18,057,IN,"Hamilton County",14,24,1185
+26,161,19,103,IA,"Johnson County",14,23,731
+26,161,24,033,MD,"Prince George's Coun",14,30,755
+26,161,26,009,MI,"Antrim County",14,18,325
+26,161,27,037,MN,"Dakota County",14,32,1116
+26,161,32,003,NV,"Clark County",14,17,496
+26,161,39,057,OH,"Greene County",14,23,741
+26,161,48,215,TX,"Hidalgo County",14,15,211
+26,161,13,067,GA,"Cobb County",13,25,487
+26,161,20,091,KS,"Johnson County",13,17,745
+26,161,21,067,KY,"Fayette County",13,26,548
+26,161,26,149,MI,"St Joseph County",13,16,237
+26,161,26,151,MI,"Sanilac County",13,14,241
+26,161,36,067,NY,"Onondaga County",13,22,754
+26,161,36,119,NY,"Westchester County",13,22,856
+26,161,42,017,PA,"Bucks County",13,34,1235
+26,161,12,115,FL,"Sarasota County",12,20,271
+26,161,26,015,MI,"Barry County",12,15,310
+26,161,26,033,MI,"Chippewa County",12,14,463
+26,161,36,005,NY,"Bronx County",12,21,227
+26,161,37,135,NC,"Orange County",12,16,841
+26,161,06,067,CA,"Sacramento County",11,22,1102
+26,161,08,005,CO,"Arapahoe County",11,20,297
+26,161,13,135,GA,"Gwinnett County",11,20,477
+26,161,24,005,MD,"Baltimore County",11,23,615
+26,161,26,137,MI,"Otsego County",11,16,194
+26,161,29,095,MO,"Jackson County",11,20,544
+26,161,31,055,NE,"Douglas County",11,18,383
+26,161,33,009,NH,"Grafton County",11,21,547
+26,161,35,001,NM,"Bernalillo County",11,19,472
+26,161,37,067,NC,"Forsyth County",11,18,400
+26,161,40,027,OK,"Cleveland County",11,15,443
+26,161,40,109,OK,"Oklahoma County",11,24,614
+26,161,48,085,TX,"Collin County",11,22,901
+26,161,06,111,CA,"Ventura County",10,19,527
+26,161,08,041,CO,"El Paso County",10,19,869
+26,161,09,009,CT,"New Haven County",10,20,402
+26,161,09,011,CT,"New London County",10,25,516
+26,161,12,095,FL,"Orange County",10,17,250
+26,161,17,089,IL,"Kane County",10,21,576
+26,161,19,153,IA,"Polk County",10,14,273
+26,161,19,169,IA,"Story County",10,16,276
+26,161,22,071,LA,"Orleans Parish",10,14,448
+26,161,26,047,MI,"Emmet County",10,12,495
+26,161,26,157,MI,"Tuscola County",10,13,314
+26,161,34,027,NJ,"Morris County",10,21,1236
+26,161,39,025,OH,"Clermont County",10,18,696
+26,161,39,041,OH,"Delaware County",10,26,1668
+26,161,40,143,OK,"Tulsa County",10,19,312
+26,161,42,029,PA,"Chester County",10,18,797
+26,161,50,007,VT,"Chittenden County",10,14,332
+26,161,53,053,WA,"Pierce County",10,20,635
+26,161,58,000,SS,"Other Flows - Same State",176,240,5779
+26,161,59,000,DS,"Other Flows - Diff State",1645,2847,70069
+26,161,59,001,DS,"Other Flows - Northeast",276,450,13825
+26,161,59,003,DS,"Other Flows - Midwest",478,833,22099
+26,161,59,005,DS,"Other Flows - South",626,1115,24713
+26,161,59,007,DS,"Other Flows - West",265,449,9432
+26,161,57,009,FR,"Foreign - Other flows",883,1040,10431
+26,163,96,000,MI,"Wayne County Tot Mig-US & For",24486,44130,957020
+26,163,97,000,MI,"Wayne County Tot Mig-US",23796,43138,939243
+26,163,97,001,MI,"Wayne County Tot Mig-Same St",14757,25571,601272
+26,163,97,003,MI,"Wayne County Tot Mig-Diff St",9039,17567,337970
+26,163,98,000,MI,"Wayne County Tot Mig-Foreign",690,992,17778
+26,163,26,163,MI,"Wayne County Non-Migrants",666015,1432693,30721866
+26,163,26,125,MI,"Oakland County",6536,11403,292522
+26,163,26,099,MI,"Macomb County",2294,4049,92510
+26,163,26,161,MI,"Washtenaw County",1992,3392,76697
+26,163,26,115,MI,"Monroe County",656,1234,25083
+26,163,26,093,MI,"Livingston County",480,798,22728
+26,163,17,031,IL,"Cook County",367,687,16054
+26,163,26,049,MI,"Genesee County",307,519,11095
+26,163,26,065,MI,"Ingham County",288,446,8454
+26,163,39,095,OH,"Lucas County",206,352,8089
+26,163,06,037,CA,"Los Angeles County",198,417,6631
+26,163,26,077,MI,"Kalamazoo County",181,272,5272
+26,163,26,081,MI,"Kent County",180,320,6397
+26,163,39,035,OH,"Cuyahoga County",154,272,7249
+26,163,26,147,MI,"St Clair County",152,242,4979
+26,163,26,091,MI,"Lenawee County",146,243,4986
+26,163,04,013,AZ,"Maricopa County",143,259,4347
+26,163,06,073,CA,"San Diego County",142,277,3595
+26,163,36,081,NY,"Queens County",139,361,2509
+26,163,26,075,MI,"Jackson County",123,209,4010
+26,163,57,005,FR,"Foreign - APO/FPO ZIPs",122,167,2373
+26,163,26,145,MI,"Saginaw County",121,191,4088
+26,163,32,003,NV,"Clark County",116,231,4671
+26,163,39,049,OH,"Franklin County",114,182,3880
+26,163,48,201,TX,"Harris County",111,238,4054
+26,163,06,059,CA,"Orange County",82,185,3612
+26,163,18,097,IN,"Marion County",79,132,3512
+26,163,47,037,TN,"Davidson County",76,142,2870
+26,163,17,043,IL,"Du Page County",75,138,5932
+26,163,39,061,OH,"Hamilton County",71,114,2180
+26,163,26,073,MI,"Isabella County",68,116,2207
+26,163,26,025,MI,"Calhoun County",67,133,3355
+26,163,26,045,MI,"Eaton County",66,117,2564
+26,163,47,157,TN,"Shelby County",66,120,1591
+26,163,13,089,GA,"De Kalb County",64,128,1512
+26,163,39,113,OH,"Montgomery County",64,117,9641
+26,163,13,121,GA,"Fulton County",63,129,2739
+26,163,12,011,FL,"Broward County",62,105,2039
+26,163,29,189,MO,"St Louis County",60,119,3509
+26,163,53,033,WA,"King County",60,117,2820
+26,163,36,047,NY,"Kings County",58,154,1200
+26,163,12,095,FL,"Orange County",57,106,2192
+26,163,48,113,TX,"Dallas County",57,99,1980
+26,163,18,089,IN,"Lake County",56,121,2573
+26,163,26,087,MI,"Lapeer County",56,99,2726
+26,163,48,439,TX,"Tarrant County",55,128,2960
+26,163,36,061,NY,"New York County",54,114,1935
+26,163,12,103,FL,"Pinellas County",51,93,1710
+26,163,12,057,FL,"Hillsborough County",50,101,2023
+26,163,13,067,GA,"Cobb County",50,105,1867
+26,163,26,139,MI,"Ottawa County",50,97,2326
+26,163,42,003,PA,"Allegheny County",50,88,2303
+26,163,27,053,MN,"Hennepin County",49,102,3098
+26,163,26,017,MI,"Bay County",48,66,1390
+26,163,12,025,FL,"Dade County",47,79,1023
+26,163,36,029,NY,"Erie County",47,102,1908
+26,163,37,051,NC,"Cumberland County",45,78,955
+26,163,15,003,HI,"Honolulu County",42,87,1088
+26,163,26,059,MI,"Hillsdale County",42,70,1383
+26,163,26,151,MI,"Sanilac County",42,81,1393
+26,163,12,031,FL,"Duval County",41,76,1297
+26,163,12,071,FL,"Lee County",41,66,1301
+26,163,21,111,KY,"Jefferson County",41,79,1935
+26,163,12,099,FL,"Palm Beach County",40,61,1788
+26,163,39,153,OH,"Summit County",40,75,2426
+26,163,06,001,CA,"Alameda County",38,72,1282
+26,163,26,021,MI,"Berrien County",37,63,2578
+26,163,26,069,MI,"Iosco County",37,65,1132
+26,163,55,079,WI,"Milwaukee County",37,75,1615
+26,163,12,101,FL,"Pasco County",36,69,860
+26,163,26,143,MI,"Roscommon County",36,66,950
+26,163,08,041,CO,"El Paso County",33,66,1202
+26,163,18,003,IN,"Allen County",33,62,1362
+26,163,24,033,MD,"Prince George's Coun",33,60,1023
+26,163,26,055,MI,"Grand Traverse Count",33,52,1037
+26,163,37,133,NC,"Onslow County",33,51,570
+26,163,40,143,OK,"Tulsa County",33,71,1053
+26,163,06,065,CA,"Riverside County",32,84,916
+26,163,18,141,IN,"St Joseph County",32,55,1350
+26,163,36,005,NY,"Bronx County",32,82,627
+26,163,48,215,TX,"Hidalgo County",32,77,811
+26,163,26,111,MI,"Midland County",31,52,1250
+26,163,37,119,NC,"Mecklenburg County",31,59,1385
+26,163,48,029,TX,"Bexar County",31,63,1274
+26,163,51,059,VA,"Fairfax County",31,58,2835
+26,163,51,810,VA,"Virginia Beach",31,70,989
+26,163,24,031,MD,"Montgomery County",30,52,950
+26,163,01,073,AL,"Jefferson County",29,61,702
+26,163,01,089,AL,"Madison County",29,54,719
+26,163,04,019,AZ,"Pima County",29,49,810
+26,163,17,097,IL,"Lake County",29,75,1726
+26,163,25,017,MA,"Middlesex County",29,38,1144
+26,163,26,107,MI,"Mecosta County",29,48,564
+26,163,48,141,TX,"El Paso County",29,84,1513
+26,163,53,061,WA,"Snohomish County",29,65,1064
+26,163,06,071,CA,"San Bernardino Count",28,66,907
+26,163,06,085,CA,"Santa Clara County",28,47,1004
+26,163,08,031,CO,"Denver County",28,53,1066
+26,163,09,011,CT,"New London County",28,39,1130
+26,163,12,021,FL,"Collier County",28,42,997
+26,163,26,023,MI,"Branch County",28,112,851
+26,163,26,037,MI,"Clinton County",28,45,778
+26,163,26,121,MI,"Muskegon County",28,53,794
+26,163,48,453,TX,"Travis County",28,51,903
+26,163,13,135,GA,"Gwinnett County",27,58,1222
+26,163,26,051,MI,"Gladwin County",27,58,1093
+26,163,11,001,DC,"District Of Columbia",26,35,855
+26,163,26,035,MI,"Clare County",26,38,530
+26,163,26,155,MI,"Shiawassee County",26,40,899
+26,163,27,037,MN,"Dakota County",26,42,1046
+26,163,36,055,NY,"Monroe County",26,47,997
+26,163,51,710,VA,Norfolk,26,48,590
+26,163,12,127,FL,"Volusia County",25,43,768
+26,163,39,173,OH,"Wood County",25,55,1401
+26,163,26,063,MI,"Huron County",24,30,694
+26,163,39,099,OH,"Mahoning County",24,50,779
+26,163,25,025,MA,"Suffolk County",23,39,807
+26,163,29,095,MO,"Jackson County",23,40,1431
+26,163,34,001,NJ,"Atlantic County",23,37,1017
+26,163,48,427,TX,"Starr County",23,78,748
+26,163,18,039,IN,"Elkhart County",22,38,872
+26,163,42,101,PA,"Philadelphia County",22,37,449
+26,163,47,119,TN,"Maury County",22,43,470
+26,163,01,101,AL,"Montgomery County",21,36,309
+26,163,12,009,FL,"Brevard County",21,42,511
+26,163,13,063,GA,"Clayton County",21,39,503
+26,163,20,091,KS,"Johnson County",21,39,1111
+26,163,21,067,KY,"Fayette County",21,35,1050
+26,163,26,007,MI,"Alpena County",21,35,459
+26,163,31,109,NE,"Lancaster County",21,38,-319
+26,163,39,093,OH,"Lorain County",21,44,896
+26,163,48,085,TX,"Collin County",21,45,1376
+26,163,55,025,WI,"Dane County",21,38,918
+26,163,06,019,CA,"Fresno County",20,60,523
+26,163,26,061,MI,"Houghton County",20,31,433
+26,163,26,129,MI,"Ogemaw County",20,24,300
+26,163,27,123,MN,"Ramsey County",20,30,529
+26,163,29,510,MO,"St Louis",20,34,651
+26,163,39,017,OH,"Butler County",20,37,1738
+26,163,48,479,TX,"Webb County",20,62,522
+26,163,09,001,CT,"Fairfield County",19,42,1260
+26,163,22,071,LA,"Orleans Parish",19,33,451
+26,163,26,039,MI,"Crawford County",19,25,490
+26,163,34,031,NJ,"Passaic County",19,39,493
+26,163,39,151,OH,"Stark County",19,33,670
+26,163,42,049,PA,"Erie County",19,29,432
+26,163,48,027,TX,"Bell County",19,39,465
+26,163,53,053,WA,"Pierce County",19,46,514
+26,163,01,097,AL,"Mobile County",18,35,302
+26,163,06,111,CA,"Ventura County",18,37,687
+26,163,13,215,GA,"Muscogee County",18,38,422
+26,163,22,051,LA,"Jefferson Parish",18,25,685
+26,163,26,011,MI,"Arenac County",18,33,489
+26,163,37,081,NC,"Guilford County",18,29,910
+26,163,45,019,SC,"Charleston County",18,34,543
+26,163,49,035,UT,"Salt Lake County",18,45,742
+26,163,06,013,CA,"Contra Costa County",17,40,905
+26,163,06,075,CA,"San Francisco County",17,24,450
+26,163,12,091,FL,"Okaloosa County",17,22,434
+26,163,12,105,FL,"Polk County",17,31,354
+26,163,12,115,FL,"Sarasota County",17,25,534
+26,163,18,057,IN,"Hamilton County",17,41,1179
+26,163,24,005,MD,"Baltimore County",17,38,1112
+26,163,26,119,MI,"Montmorency County",17,27,454
+26,163,28,047,MS,"Harrison County",17,33,358
+26,163,39,003,OH,"Allen County",17,36,972
+26,163,39,043,OH,"Erie County",17,34,822
+26,163,12,117,FL,"Seminole County",16,40,872
+26,163,17,089,IL,"Kane County",16,31,979
+26,163,17,143,IL,"Peoria County",16,28,514
+26,163,17,201,IL,"Winnebago County",16,31,612
+26,163,26,009,MI,"Antrim County",16,25,352
+26,163,26,123,MI,"Newaygo County",16,26,496
+26,163,36,059,NY,"Nassau County",16,27,393
+26,163,37,183,NC,"Wake County",16,38,596
+26,163,45,045,SC,"Greenville County",16,34,524
+26,163,47,093,TN,"Knox County",16,29,570
+26,163,06,067,CA,"Sacramento County",15,39,466
+26,163,10,003,DE,"New Castle County",15,37,946
+26,163,12,033,FL,"Escambia County",15,22,268
+26,163,26,001,MI,"Alcona County",15,29,430
+26,163,29,183,MO,"St Charles County",15,32,813
+26,163,34,013,NJ,"Essex County",15,32,477
+26,163,47,065,TN,"Hamilton County",15,35,206
+26,163,48,157,TX,"Fort Bend County",15,31,668
+26,163,12,073,FL,"Leon County",14,18,374
+26,163,18,157,IN,"Tippecanoe County",14,24,694
+26,163,22,033,LA,"East Baton Rouge Par",14,22,186
+26,163,26,079,MI,"Kalkaska County",14,25,268
+26,163,26,101,MI,"Manistee County",14,25,340
+26,163,26,103,MI,"Marquette County",14,19,204
+26,163,26,157,MI,"Tuscola County",14,16,486
+26,163,26,159,MI,"Van Buren County",14,21,307
+26,163,39,063,OH,"Hancock County",14,36,896
+26,163,39,155,OH,"Trumbull County",14,23,609
+26,163,40,109,OK,"Oklahoma County",14,32,470
+26,163,42,091,PA,"Montgomery County",14,28,988
+26,163,08,005,CO,"Arapahoe County",13,22,484
+26,163,12,015,FL,"Charlotte County",13,20,404
+26,163,12,097,FL,"Osceola County",13,21,308
+26,163,13,051,GA,"Chatham County",13,20,218
+26,163,21,047,KY,"Christian County",13,32,220
+26,163,25,021,MA,"Norfolk County",13,26,356
+26,163,26,005,MI,"Allegan County",13,19,352
+26,163,26,015,MI,"Barry County",13,19,336
+26,163,26,057,MI,"Gratiot County",13,26,352
+26,163,26,137,MI,"Otsego County",13,22,311
+26,163,26,165,MI,"Wexford County",13,18,317
+26,163,28,049,MS,"Hinds County",13,27,276
+26,163,34,005,NJ,"Burlington County",13,25,624
+26,163,35,001,NM,"Bernalillo County",13,30,357
+26,163,36,067,NY,"Onondaga County",13,21,363
+26,163,36,103,NY,"Suffolk County",13,23,676
+26,163,47,125,TN,"Montgomery County",13,29,259
+26,163,49,049,UT,"Utah County",13,37,477
+26,163,05,119,AR,"Pulaski County",12,19,251
+26,163,06,029,CA,"Kern County",12,42,164
+26,163,17,019,IL,"Champaign County",12,19,489
+26,163,26,047,MI,"Emmet County",12,15,468
+26,163,26,117,MI,"Montcalm County",12,22,347
+26,163,34,007,NJ,"Camden County",12,28,336
+26,163,34,017,NJ,"Hudson County",12,26,465
+26,163,36,119,NY,"Westchester County",12,27,538
+26,163,39,103,OH,"Medina County",12,28,578
+26,163,41,067,OR,"Washington County",12,30,595
+26,163,48,121,TX,"Denton County",12,31,842
+26,163,12,053,FL,"Hernando County",11,16,360
+26,163,12,111,FL,"St Lucie County",11,19,294
+26,163,17,197,IL,"Will County",11,20,760
+26,163,18,067,IN,"Howard County",11,27,929
+26,163,18,151,IN,"Steuben County",11,28,224
+26,163,19,153,IA,"Polk County",11,26,476
+26,163,20,061,KS,"Geary County",11,19,293
+26,163,26,033,MI,"Chippewa County",11,16,225
+26,163,26,141,MI,"Presque Isle County",11,19,201
+26,163,26,149,MI,"St Joseph County",11,17,287
+26,163,33,011,NH,"Hillsborough County",11,19,790
+26,163,36,001,NY,"Albany County",11,14,276
+26,163,37,049,NC,"Craven County",11,17,227
+26,163,39,057,OH,"Greene County",11,16,317
+26,163,39,143,OH,"Sandusky County",11,22,247
+26,163,41,051,OR,"Multnomah County",11,15,249
+26,163,42,129,PA,"Westmoreland County",11,22,288
+26,163,47,187,TN,"Williamson County",11,19,556
+26,163,51,153,VA,"Prince William Count",11,24,451
+26,163,51,650,VA,Hampton,11,15,204
+26,163,51,700,VA,"Newport News",11,17,216
+26,163,04,025,AZ,"Yavapai County",10,14,359
+26,163,06,053,CA,"Monterey County",10,22,196
+26,163,08,059,CO,"Jefferson County",10,21,515
+26,163,09,003,CT,"Hartford County",10,11,472
+26,163,10,001,DE,"Kent County",10,23,385
+26,163,12,017,FL,"Citrus County",10,16,340
+26,163,12,069,FL,"Lake County",10,15,270
+26,163,12,081,FL,"Manatee County",10,15,326
+26,163,13,245,GA,"Richmond County",10,21,213
+26,163,17,163,IL,"St Clair County",10,17,303
+26,163,20,173,KS,"Sedgwick County",10,25,392
+26,163,21,015,KY,"Boone County",10,10,290
+26,163,24,003,MD,"Anne Arundel County",10,20,463
+26,163,24,510,MD,Baltimore,10,21,483
+26,163,26,027,MI,"Cass County",10,16,298
+26,163,26,031,MI,"Cheboygan County",10,21,191
+26,163,26,085,MI,"Lake County",10,20,203
+26,163,29,047,MO,"Clay County",10,21,620
+26,163,31,055,NE,"Douglas County",10,18,245
+26,163,34,027,NJ,"Morris County",10,18,1418
+26,163,36,007,NY,"Broome County",10,25,259
+26,163,39,085,OH,"Lake County",10,16,325
+26,163,40,031,OK,"Comanche County",10,20,157
+26,163,42,017,PA,"Bucks County",10,23,681
+26,163,47,149,TN,"Rutherford County",10,17,235
+26,163,48,061,TX,"Cameron County",10,23,499
+26,163,55,105,WI,"Rock County",10,20,406
+26,163,58,000,SS,"Other Flows - Same State",88,141,2563
+26,163,59,000,DS,"Other Flows - Diff State",2500,4825,84710
+26,163,59,001,DS,"Other Flows - Northeast",365,688,15464
+26,163,59,003,DS,"Other Flows - Midwest",620,1204,24920
+26,163,59,005,DS,"Other Flows - South",1234,2396,35322
+26,163,59,007,DS,"Other Flows - West",281,537,9004
+26,163,57,009,FR,"Foreign - Other flows",568,825,15405
+26,165,96,000,MI,"Wexford County Tot Mig-US & For",881,1674,27491
+26,165,97,000,MI,"Wexford County Tot Mig-US",881,1674,27491
+26,165,97,001,MI,"Wexford County Tot Mig-Same St",692,1309,21582
+26,165,97,003,MI,"Wexford County Tot Mig-Diff St",189,365,5909
+26,165,26,165,MI,"Wexford County Non-Migrants",9798,22348,371724
+26,165,26,055,MI,"Grand Traverse Count",109,203,2933
+26,165,26,113,MI,"Missaukee County",68,140,1644
+26,165,26,133,MI,"Osceola County",51,92,1273
+26,165,26,125,MI,"Oakland County",41,95,1691
+26,165,26,081,MI,"Kent County",35,76,1375
+26,165,26,163,MI,"Wayne County",32,63,1649
+26,165,26,101,MI,"Manistee County",22,35,715
+26,165,26,145,MI,"Saginaw County",20,34,794
+26,165,26,049,MI,"Genesee County",18,32,437
+26,165,26,085,MI,"Lake County",18,22,396
+26,165,26,077,MI,"Kalamazoo County",17,27,483
+26,165,26,099,MI,"Macomb County",16,32,652
+26,165,26,065,MI,"Ingham County",15,21,569
+26,165,26,107,MI,"Mecosta County",15,25,359
+26,165,26,073,MI,"Isabella County",14,21,221
+26,165,26,019,MI,"Benzie County",12,22,239
+26,165,26,079,MI,"Kalkaska County",11,23,171
+26,165,26,009,MI,"Antrim County",10,23,292
+26,165,58,000,SS,"Other Flows - Same State",168,323,5690
+26,165,59,000,DS,"Other Flows - Diff State",189,365,5909
