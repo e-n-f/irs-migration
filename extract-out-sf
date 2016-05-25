@@ -1,0 +1,27 @@
+#!/bin/sh
+
+(
+	echo -n "1990 1991 "
+	grep '^06 075.*Total' 1990-1991/1990to1991CountyMigration/1990to1991CountyMigrationOutflow/C9091cao.txt |
+	awk '{ print $(NF - 1), $NF }'
+
+	echo -n "1991 1992 "
+	grep '^06 075.*Total' 1991-1992/1991to1992CountyMigration/1991to1992CountyMigrationOutflow/C9192cao.txt |
+	awk '{ print $(NF - 1), $NF }'
+
+	for i in */*/*Outflow/*[Cc][Aa]o.xls.csv */*/*Outflow/*[Cc]aor.xls.csv */co0506CAo.xls.csv 201*/countyoutflow*csv
+	do
+		echo $i | sed 's/\/.*//' | tr '\012-' '  '
+		(
+			grep '^06,075,00,001' $i
+			grep '^6,75,0,1' $i
+			grep '^06,075,96,000' $i
+		) | awk -F, '{print $7, $8}'
+	done
+
+	for i in */countyout*dat */co*us.dat
+	do
+		echo $i | sed 's/\/.*//' | tr '\012-' '  '
+		grep '^06 075 96 000' $i | cut -c50- | awk '{print $1, $2}'
+	done
+) | sort | tr -d '\015'
