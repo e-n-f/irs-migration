@@ -1,0 +1,4008 @@
+"2000 - 2001 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Ohio,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+39,000,96,000,OH,"Total Mig - US & For",261225,468827,11013764
+39,000,97,000,OH,"Total Mig - US",258799,464695,10928884
+39,000,97,001,OH,"Total Mig - US Same St",160789,285506,6006051
+39,000,97,003,OH,"Total Mig - US Diff St",98010,179189,4922833
+39,000,98,000,OH,"Total Mig - Foreign",2426,4132,84880
+39,001,96,000,OH,"Adams County Tot Mig-US & For",638,1312,15277
+39,001,97,000,OH,"Adams County Tot Mig-US",638,1312,15277
+39,001,97,001,OH,"Adams County Tot Mig-Same St",476,976,11429
+39,001,97,003,OH,"Adams County Tot Mig-Diff St",162,336,3849
+39,001,39,001,OH,"Adams County Non-Migrants",11244,25430,357521
+39,001,39,071,OH,"Highland County",78,151,1632
+39,001,39,015,OH,"Brown County",76,156,2001
+39,001,39,025,OH,"Clermont County",73,152,2037
+39,001,39,145,OH,"Scioto County",59,136,1195
+39,001,39,131,OH,"Pike County",36,84,603
+39,001,39,061,OH,"Hamilton County",31,52,814
+39,001,39,049,OH,"Franklin County",18,28,363
+39,001,39,027,OH,"Clinton County",17,35,549
+39,001,39,017,OH,"Butler County",15,33,435
+39,001,39,113,OH,"Montgomery County",15,27,371
+39,001,21,161,KY,"Mason County",14,32,354
+39,001,39,141,OH,"Ross County",10,27,267
+39,001,58,000,SS,"Other Flows - Same State",48,95,1162
+39,001,59,000,DS,"Other Flows - Diff State",148,304,3494
+39,003,96,000,OH,"Allen County Tot Mig-US & For",2267,3981,74057
+39,003,97,000,OH,"Allen County Tot Mig-US",2251,3958,73628
+39,003,97,001,OH,"Allen County Tot Mig-Same St",1411,2415,41710
+39,003,97,003,OH,"Allen County Tot Mig-Diff St",840,1543,31919
+39,003,98,000,OH,"Allen County Tot Mig-Foreign",16,23,429
+39,003,39,003,OH,"Allen County Non-Migrants",42210,90727,1810479
+39,003,39,011,OH,"Auglaize County",227,428,6923
+39,003,39,049,OH,"Franklin County",190,267,4649
+39,003,39,137,OH,"Putnam County",120,203,3411
+39,003,39,065,OH,"Hardin County",115,211,3081
+39,003,39,063,OH,"Hancock County",110,176,3065
+39,003,39,161,OH,"Van Wert County",70,129,1683
+39,003,39,095,OH,"Lucas County",68,119,2485
+39,003,39,113,OH,"Montgomery County",52,79,1639
+39,003,39,091,OH,"Logan County",44,81,1700
+39,003,39,149,OH,"Shelby County",37,69,945
+39,003,39,061,OH,"Hamilton County",36,53,1704
+39,003,18,003,IN,"Allen County",28,48,770
+39,003,39,173,OH,"Wood County",25,35,876
+39,003,39,035,OH,"Cuyahoga County",23,28,531
+39,003,39,107,OH,"Mercer County",22,38,577
+39,003,39,109,OH,"Miami County",18,40,737
+39,003,12,071,FL,"Lee County",17,30,891
+39,003,39,041,OH,"Delaware County",17,27,399
+39,003,17,031,IL,"Cook County",16,24,633
+39,003,26,163,MI,"Wayne County",16,34,718
+39,003,18,097,IN,"Marion County",14,22,302
+39,003,39,147,OH,"Seneca County",13,21,208
+39,003,04,013,AZ,"Maricopa County",12,22,560
+39,003,06,037,CA,"Los Angeles County",12,20,276
+39,003,39,045,OH,"Fairfield County",12,23,419
+39,003,39,057,OH,"Greene County",11,23,266
+39,003,39,017,OH,"Butler County",10,32,529
+39,003,39,025,OH,"Clermont County",10,21,477
+39,003,39,039,OH,"Defiance County",10,20,344
+39,003,39,093,OH,"Lorain County",10,17,439
+39,003,39,153,OH,"Summit County",10,16,225
+39,003,39,159,OH,"Union County",10,12,275
+39,003,58,000,SS,"Other Flows - Same State",141,247,4123
+39,003,59,000,DS,"Other Flows - Diff State",725,1343,27769
+39,003,59,001,DS,"Other Flows - Northeast",65,110,1853
+39,003,59,003,DS,"Other Flows - Midwest",192,358,7875
+39,003,59,005,DS,"Other Flows - South",369,703,13585
+39,003,59,007,DS,"Other Flows - West",99,172,4456
+39,003,57,009,FR,"Foreign - Other flows",16,23,429
+39,005,96,000,OH,"Ashland County Tot Mig-US & For",1262,2307,41790
+39,005,97,000,OH,"Ashland County Tot Mig-US",1250,2286,41605
+39,005,97,001,OH,"Ashland County Tot Mig-Same St",924,1678,29783
+39,005,97,003,OH,"Ashland County Tot Mig-Diff St",326,608,11822
+39,005,98,000,OH,"Ashland County Tot Mig-Foreign",12,21,185
+39,005,39,005,OH,"Ashland County Non-Migrants",20912,45098,872873
+39,005,39,139,OH,"Richland County",289,523,9464
+39,005,39,169,OH,"Wayne County",100,197,2960
+39,005,39,049,OH,"Franklin County",67,99,3095
+39,005,39,077,OH,"Huron County",54,83,1215
+39,005,39,103,OH,"Medina County",53,101,1791
+39,005,39,035,OH,"Cuyahoga County",41,69,1390
+39,005,39,083,OH,"Knox County",35,88,1076
+39,005,39,075,OH,"Holmes County",34,77,1070
+39,005,39,093,OH,"Lorain County",34,64,933
+39,005,39,033,OH,"Crawford County",26,45,638
+39,005,39,153,OH,"Summit County",24,40,781
+39,005,39,151,OH,"Stark County",16,33,476
+39,005,39,041,OH,"Delaware County",13,19,552
+39,005,58,000,SS,"Other Flows - Same State",138,240,4341
+39,005,59,000,DS,"Other Flows - Diff State",326,608,11822
+39,005,59,001,DS,"Other Flows - Northeast",23,42,671
+39,005,59,003,DS,"Other Flows - Midwest",73,162,2383
+39,005,59,005,DS,"Other Flows - South",180,320,7256
+39,005,59,007,DS,"Other Flows - West",50,84,1512
+39,005,57,009,FR,"Foreign - Other flows",12,21,185
+39,007,96,000,OH,"Ashtabula Count Tot Mig-US & For",1994,3593,56940
+39,007,97,000,OH,"Ashtabula Count Tot Mig-US",1969,3553,56586
+39,007,97,001,OH,"Ashtabula Count Tot Mig-Same St",1069,1876,30954
+39,007,97,003,OH,"Ashtabula Count Tot Mig-Diff St",900,1677,25632
+39,007,98,000,OH,"Ashtabula Count Tot Mig-Foreign",25,40,355
+39,007,39,007,OH,"Ashtabula Count Non-Migrants",39199,84725,1422368
+39,007,39,085,OH,"Lake County",354,611,10410
+39,007,39,035,OH,"Cuyahoga County",179,274,5782
+39,007,39,155,OH,"Trumbull County",116,263,3094
+39,007,39,055,OH,"Geauga County",100,185,2979
+39,007,39,049,OH,"Franklin County",77,105,1886
+39,007,42,049,PA,"Erie County",66,139,1686
+39,007,42,039,PA,"Crawford County",47,93,951
+39,007,39,153,OH,"Summit County",42,68,1170
+39,007,39,133,OH,"Portage County",33,50,900
+39,007,39,099,OH,"Mahoning County",20,38,535
+39,007,39,151,OH,"Stark County",20,50,622
+39,007,42,003,PA,"Allegheny County",18,24,324
+39,007,04,013,AZ,"Maricopa County",17,30,453
+39,007,06,073,CA,"San Diego County",17,25,463
+39,007,12,103,FL,"Pinellas County",17,28,432
+39,007,39,095,OH,"Lucas County",17,18,337
+39,007,12,101,FL,"Pasco County",13,19,351
+39,007,32,003,NV,"Clark County",11,22,495
+39,007,04,019,AZ,"Pima County",10,20,456
+39,007,12,011,FL,"Broward County",10,16,420
+39,007,12,057,FL,"Hillsborough County",10,19,256
+39,007,58,000,SS,"Other Flows - Same State",111,214,3238
+39,007,59,000,DS,"Other Flows - Diff State",664,1242,19347
+39,007,59,001,DS,"Other Flows - Northeast",114,190,2996
+39,007,59,003,DS,"Other Flows - Midwest",101,176,2969
+39,007,59,005,DS,"Other Flows - South",362,717,11135
+39,007,59,007,DS,"Other Flows - West",87,159,2248
+39,007,57,009,FR,"Foreign - Other flows",25,40,355
+39,009,96,000,OH,"Athens County Tot Mig-US & For",1736,2867,44092
+39,009,97,000,OH,"Athens County Tot Mig-US",1704,2815,43533
+39,009,97,001,OH,"Athens County Tot Mig-Same St",961,1669,22496
+39,009,97,003,OH,"Athens County Tot Mig-Diff St",743,1146,21037
+39,009,98,000,OH,"Athens County Tot Mig-Foreign",32,52,559
+39,009,39,009,OH,"Athens County Non-Migrants",19017,39434,709614
+39,009,39,049,OH,"Franklin County",221,313,4567
+39,009,39,073,OH,"Hocking County",98,225,2106
+39,009,39,167,OH,"Washington County",67,115,1740
+39,009,39,045,OH,"Fairfield County",66,114,1665
+39,009,39,105,OH,"Meigs County",56,127,1435
+39,009,39,035,OH,"Cuyahoga County",38,48,967
+39,009,39,041,OH,"Delaware County",26,44,892
+39,009,39,061,OH,"Hamilton County",26,28,569
+39,009,57,001,FR,"Foreign - Overseas",22,35,329
+39,009,17,031,IL,"Cook County",21,23,401
+39,009,54,107,WV,"Wood County",21,37,391
+39,009,39,115,OH,"Morgan County",19,32,295
+39,009,39,127,OH,"Perry County",19,38,452
+39,009,39,163,OH,"Vinton County",19,44,408
+39,009,39,079,OH,"Jackson County",18,33,437
+39,009,39,113,OH,"Montgomery County",18,22,326
+39,009,39,141,OH,"Ross County",18,35,375
+39,009,39,153,OH,"Summit County",18,30,369
+39,009,06,085,CA,"Santa Clara County",16,19,600
+39,009,42,003,PA,"Allegheny County",15,20,383
+39,009,39,089,OH,"Licking County",14,27,298
+39,009,06,037,CA,"Los Angeles County",12,16,301
+39,009,39,053,OH,"Gallia County",12,24,294
+39,009,39,119,OH,"Muskingum County",12,21,186
+39,009,04,013,AZ,"Maricopa County",11,18,188
+39,009,36,061,NY,"New York County",11,12,175
+39,009,58,000,SS,"Other Flows - Same State",196,349,5114
+39,009,59,000,DS,"Other Flows - Diff State",636,1001,18598
+39,009,59,001,DS,"Other Flows - Northeast",97,146,2857
+39,009,59,003,DS,"Other Flows - Midwest",123,193,3637
+39,009,59,005,DS,"Other Flows - South",314,517,9813
+39,009,59,007,DS,"Other Flows - West",102,145,2290
+39,009,57,009,FR,"Foreign - Other flows",10,17,230
+39,011,96,000,OH,"Auglaize County Tot Mig-US & For",1117,2000,44117
+39,011,97,000,OH,"Auglaize County Tot Mig-US",1117,2000,44117
+39,011,97,001,OH,"Auglaize County Tot Mig-Same St",854,1532,25992
+39,011,97,003,OH,"Auglaize County Tot Mig-Diff St",263,468,18125
+39,011,39,011,OH,"Auglaize County Non-Migrants",18017,40267,825617
+39,011,39,003,OH,"Allen County",223,455,6610
+39,011,39,107,OH,"Mercer County",138,253,3753
+39,011,39,149,OH,"Shelby County",116,208,3739
+39,011,39,049,OH,"Franklin County",63,88,2085
+39,011,39,113,OH,"Montgomery County",44,65,1312
+39,011,39,061,OH,"Hamilton County",26,28,729
+39,011,39,109,OH,"Miami County",24,49,723
+39,011,39,063,OH,"Hancock County",19,27,488
+39,011,39,091,OH,"Logan County",19,41,673
+39,011,39,095,OH,"Lucas County",16,19,357
+39,011,39,037,OH,"Darke County",14,35,427
+39,011,39,065,OH,"Hardin County",13,24,356
+39,011,39,057,OH,"Greene County",11,14,281
+39,011,39,161,OH,"Van Wert County",10,23,343
+39,011,58,000,SS,"Other Flows - Same State",118,203,4116
+39,011,59,000,DS,"Other Flows - Diff State",263,468,18125
+39,011,59,001,DS,"Other Flows - Northeast",10,21,495
+39,011,59,003,DS,"Other Flows - Midwest",66,117,2366
+39,011,59,005,DS,"Other Flows - South",143,252,4684
+39,011,59,007,DS,"Other Flows - West",44,78,10580
+39,013,96,000,OH,"Belmont County Tot Mig-US & For",1276,2269,38060
+39,013,97,000,OH,"Belmont County Tot Mig-US",1276,2269,38060
+39,013,97,001,OH,"Belmont County Tot Mig-Same St",645,1125,17582
+39,013,97,003,OH,"Belmont County Tot Mig-Diff St",631,1144,20477
+39,013,39,013,OH,"Belmont County Non-Migrants",27128,57380,946744
+39,013,54,069,WV,"Ohio County",159,298,3552
+39,013,39,049,OH,"Franklin County",156,226,4724
+39,013,39,081,OH,"Jefferson County",100,203,2278
+39,013,54,051,WV,"Marshall County",54,106,894
+39,013,39,067,OH,"Harrison County",48,96,1207
+39,013,39,059,OH,"Guernsey County",39,69,967
+39,013,39,111,OH,"Monroe County",35,82,1065
+39,013,42,003,PA,"Allegheny County",24,32,695
+39,013,39,041,OH,"Delaware County",23,45,1107
+39,013,39,151,OH,"Stark County",23,41,600
+39,013,39,035,OH,"Cuyahoga County",18,28,613
+39,013,39,045,OH,"Fairfield County",16,27,286
+39,013,54,009,WV,"Brooke County",16,29,339
+39,013,39,119,OH,"Muskingum County",14,18,116
+39,013,42,125,PA,"Washington County",13,25,437
+39,013,39,153,OH,"Summit County",12,16,277
+39,013,39,009,OH,"Athens County",11,12,134
+39,013,39,157,OH,"Tuscarawas County",11,21,277
+39,013,58,000,SS,"Other Flows - Same State",139,241,3932
+39,013,59,000,DS,"Other Flows - Diff State",365,654,14560
+39,013,59,001,DS,"Other Flows - Northeast",58,94,4226
+39,013,59,003,DS,"Other Flows - Midwest",53,95,1610
+39,013,59,005,DS,"Other Flows - South",224,419,7617
+39,013,59,007,DS,"Other Flows - West",30,46,1107
+39,015,96,000,OH,"Brown County Tot Mig-US & For",1179,2352,32143
+39,015,97,000,OH,"Brown County Tot Mig-US",1179,2352,32143
+39,015,97,001,OH,"Brown County Tot Mig-Same St",905,1796,25259
+39,015,97,003,OH,"Brown County Tot Mig-Diff St",274,556,6884
+39,015,39,015,OH,"Brown County Non-Migrants",14870,32839,543105
+39,015,39,025,OH,"Clermont County",467,909,12916
+39,015,39,061,OH,"Hamilton County",108,177,2747
+39,015,39,001,OH,"Adams County",93,217,2895
+39,015,39,071,OH,"Highland County",66,152,1391
+39,015,39,027,OH,"Clinton County",51,126,1705
+39,015,21,161,KY,"Mason County",42,99,870
+39,015,39,017,OH,"Butler County",27,52,879
+39,015,39,165,OH,"Warren County",15,26,441
+39,015,39,049,OH,"Franklin County",14,16,391
+39,015,21,037,KY,"Campbell County",11,21,154
+39,015,21,117,KY,"Kenton County",11,25,350
+39,015,58,000,SS,"Other Flows - Same State",64,121,1894
+39,015,59,000,DS,"Other Flows - Diff State",210,411,5509
+39,017,96,000,OH,"Butler County Tot Mig-US & For",9278,17143,423375
+39,017,97,000,OH,"Butler County Tot Mig-US",9214,17012,420218
+39,017,97,001,OH,"Butler County Tot Mig-Same St",5629,10038,228656
+39,017,97,003,OH,"Butler County Tot Mig-Diff St",3585,6974,191561
+39,017,98,000,OH,"Butler County Tot Mig-Foreign",64,131,3157
+39,017,39,017,OH,"Butler County Non-Migrants",122771,267770,6543645
+39,017,39,061,OH,"Hamilton County",2621,4274,101698
+39,017,39,165,OH,"Warren County",1234,2494,59217
+39,017,39,113,OH,"Montgomery County",435,777,14914
+39,017,39,025,OH,"Clermont County",411,748,16585
+39,017,39,049,OH,"Franklin County",183,291,6623
+39,017,39,135,OH,"Preble County",133,287,4078
+39,017,21,117,KY,"Kenton County",96,159,3653
+39,017,18,047,IN,"Franklin County",91,202,2620
+39,017,17,031,IL,"Cook County",85,132,3102
+39,017,21,015,KY,"Boone County",70,108,3084
+39,017,18,029,IN,"Dearborn County",59,121,2048
+39,017,39,035,OH,"Cuyahoga County",56,82,2033
+39,017,39,057,OH,"Greene County",52,89,2109
+39,017,18,097,IN,"Marion County",46,75,1947
+39,017,21,037,KY,"Campbell County",46,67,1689
+39,017,12,103,FL,"Pinellas County",45,77,1810
+39,017,39,027,OH,"Clinton County",44,83,1799
+39,017,06,037,CA,"Los Angeles County",42,64,1259
+39,017,21,111,KY,"Jefferson County",40,74,2457
+39,017,12,071,FL,"Lee County",34,58,3099
+39,017,39,015,OH,"Brown County",34,79,1114
+39,017,21,067,KY,"Fayette County",32,52,837
+39,017,57,005,FR,"Foreign - APO/FPO ZIPs",32,51,562
+39,017,04,013,AZ,"Maricopa County",30,67,2042
+39,017,06,073,CA,"San Diego County",30,46,1298
+39,017,17,043,IL,"Du Page County",30,58,2198
+39,017,26,163,MI,"Wayne County",30,67,2122
+39,017,39,153,OH,"Summit County",30,51,1436
+39,017,12,057,FL,"Hillsborough County",29,50,1434
+39,017,39,041,OH,"Delaware County",29,49,1568
+39,017,12,095,FL,"Orange County",27,43,725
+39,017,12,011,FL,"Broward County",26,44,1064
+39,017,26,125,MI,"Oakland County",26,48,2407
+39,017,48,085,TX,"Collin County",26,58,1844
+39,017,12,021,FL,"Collier County",25,47,2566
+39,017,12,099,FL,"Palm Beach County",25,58,1426
+39,017,37,119,NC,"Mecklenburg County",25,45,1996
+39,017,39,023,OH,"Clark County",25,42,585
+39,017,53,033,WA,"King County",24,40,1024
+39,017,39,109,OH,"Miami County",23,56,1088
+39,017,32,003,NV,"Clark County",21,41,640
+39,017,39,095,OH,"Lucas County",21,44,1135
+39,017,12,081,FL,"Manatee County",20,33,892
+39,017,12,083,FL,"Marion County",20,41,623
+39,017,12,115,FL,"Sarasota County",20,36,1105
+39,017,29,189,MO,"St Louis County",20,45,1768
+39,017,47,037,TN,"Davidson County",20,31,725
+39,017,47,093,TN,"Knox County",20,40,1357
+39,017,12,009,FL,"Brevard County",19,41,620
+39,017,47,157,TN,"Shelby County",19,48,1558
+39,017,48,201,TX,"Harris County",19,38,1429
+39,017,48,439,TX,"Tarrant County",19,49,1918
+39,017,36,061,NY,"New York County",18,24,1260
+39,017,39,045,OH,"Fairfield County",18,47,1020
+39,017,06,059,CA,"Orange County",17,27,1407
+39,017,12,105,FL,"Polk County",17,35,590
+39,017,39,071,OH,"Highland County",17,33,522
+39,017,42,003,PA,"Allegheny County",17,26,916
+39,017,13,135,GA,"Gwinnett County",16,37,1145
+39,017,39,001,OH,"Adams County",16,36,431
+39,017,45,051,SC,"Horry County",16,27,376
+39,017,12,069,FL,"Lake County",15,27,808
+39,017,18,177,IN,"Wayne County",15,30,530
+39,017,37,183,NC,"Wake County",15,37,740
+39,017,51,059,VA,"Fairfax County",15,28,1028
+39,017,08,031,CO,"Denver County",14,17,1065
+39,017,20,091,KS,"Johnson County",14,42,1319
+39,017,26,081,MI,"Kent County",14,23,648
+39,017,39,151,OH,"Stark County",14,32,799
+39,017,48,113,TX,"Dallas County",14,19,810
+39,017,04,019,AZ,"Pima County",13,25,825
+39,017,12,127,FL,"Volusia County",13,23,407
+39,017,18,057,IN,"Hamilton County",13,47,883
+39,017,26,099,MI,"Macomb County",13,32,1062
+39,017,39,093,OH,"Lorain County",13,23,613
+39,017,39,103,OH,"Medina County",13,33,831
+39,017,39,173,OH,"Wood County",13,26,452
+39,017,12,033,FL,"Escambia County",12,17,312
+39,017,12,101,FL,"Pasco County",12,18,379
+39,017,13,067,GA,"Cobb County",12,20,655
+39,017,21,125,KY,"Laurel County",12,26,411
+39,017,25,017,MA,"Middlesex County",12,18,1691
+39,017,06,001,CA,"Alameda County",11,29,1451
+39,017,08,035,CO,"Douglas County",11,24,1055
+39,017,12,015,FL,"Charlotte County",11,19,488
+39,017,18,041,IN,"Fayette County",11,20,259
+39,017,26,093,MI,"Livingston County",11,32,995
+39,017,37,051,NC,"Cumberland County",11,23,222
+39,017,39,009,OH,"Athens County",11,12,215
+39,017,45,013,SC,"Beaufort County",11,16,1471
+39,017,48,453,TX,"Travis County",11,16,596
+39,017,06,013,CA,"Contra Costa County",10,24,757
+39,017,06,071,CA,"San Bernardino Count",10,23,244
+39,017,08,041,CO,"El Paso County",10,20,581
+39,017,09,001,CT,"Fairfield County",10,22,689
+39,017,12,025,FL,"Dade County",10,15,243
+39,017,12,031,FL,"Duval County",10,17,500
+39,017,12,117,FL,"Seminole County",10,23,456
+39,017,13,121,GA,"Fulton County",10,23,589
+39,017,18,003,IN,"Allen County",10,21,537
+39,017,21,081,KY,"Grant County",10,15,267
+39,017,37,081,NC,"Guilford County",10,23,939
+39,017,51,810,VA,"Virginia Beach",10,18,266
+39,017,55,079,WI,"Milwaukee County",10,18,611
+39,017,58,000,SS,"Other Flows - Same State",183,350,7791
+39,017,59,000,DS,"Other Flows - Diff State",1782,3605,96693
+39,017,59,001,DS,"Other Flows - Northeast",241,511,16995
+39,017,59,003,DS,"Other Flows - Midwest",417,852,22562
+39,017,59,005,DS,"Other Flows - South",908,1824,44217
+39,017,59,007,DS,"Other Flows - West",216,418,12920
+39,017,57,009,FR,"Foreign - Other flows",32,80,2595
+39,019,96,000,OH,"Carroll County Tot Mig-US & For",852,1550,21888
+39,019,97,000,OH,"Carroll County Tot Mig-US",852,1550,21888
+39,019,97,001,OH,"Carroll County Tot Mig-Same St",691,1266,18322
+39,019,97,003,OH,"Carroll County Tot Mig-Diff St",161,284,3566
+39,019,39,019,OH,"Carroll County Non-Migrants",12244,26905,451650
+39,019,39,151,OH,"Stark County",309,568,8425
+39,019,39,157,OH,"Tuscarawas County",101,190,2827
+39,019,39,029,OH,"Columbiana County",90,191,2318
+39,019,39,153,OH,"Summit County",34,48,707
+39,019,39,081,OH,"Jefferson County",29,60,792
+39,019,39,067,OH,"Harrison County",28,60,742
+39,019,39,133,OH,"Portage County",15,21,375
+39,019,39,099,OH,"Mahoning County",13,27,329
+39,019,39,035,OH,"Cuyahoga County",12,15,306
+39,019,39,049,OH,"Franklin County",10,10,181
+39,019,58,000,SS,"Other Flows - Same State",50,76,1319
+39,019,59,000,DS,"Other Flows - Diff State",161,284,3566
+39,019,59,001,DS,"Other Flows - Northeast",18,28,565
+39,019,59,003,DS,"Other Flows - Midwest",19,23,480
+39,019,59,005,DS,"Other Flows - South",95,176,1878
+39,019,59,007,DS,"Other Flows - West",29,57,642
+39,021,96,000,OH,"Champaign Count Tot Mig-US & For",1328,2457,42421
+39,021,97,000,OH,"Champaign Count Tot Mig-US",1328,2457,42421
+39,021,97,001,OH,"Champaign Count Tot Mig-Same St",1079,1994,33728
+39,021,97,003,OH,"Champaign Count Tot Mig-Diff St",249,463,8693
+39,021,39,021,OH,"Champaign Count Non-Migrants",17849,38853,762138
+39,021,39,023,OH,"Clark County",352,636,10675
+39,021,39,091,OH,"Logan County",149,299,4432
+39,021,39,159,OH,"Union County",91,168,2972
+39,021,39,109,OH,"Miami County",86,157,2290
+39,021,39,049,OH,"Franklin County",85,140,2215
+39,021,39,113,OH,"Montgomery County",61,101,2049
+39,021,39,149,OH,"Shelby County",36,76,1124
+39,021,39,057,OH,"Greene County",27,42,838
+39,021,39,097,OH,"Madison County",27,62,1025
+39,021,39,041,OH,"Delaware County",26,51,1184
+39,021,39,101,OH,"Marion County",16,30,456
+39,021,39,061,OH,"Hamilton County",13,16,422
+39,021,39,065,OH,"Hardin County",12,26,393
+39,021,58,000,SS,"Other Flows - Same State",98,190,3653
+39,021,59,000,DS,"Other Flows - Diff State",249,463,8693
+39,021,59,001,DS,"Other Flows - Northeast",21,46,708
+39,021,59,003,DS,"Other Flows - Midwest",63,106,2398
+39,021,59,005,DS,"Other Flows - South",136,258,4700
+39,021,59,007,DS,"Other Flows - West",29,53,887
+39,023,96,000,OH,"Clark County Tot Mig-US & For",3021,5520,102738
+39,023,97,000,OH,"Clark County Tot Mig-US",3003,5499,102405
+39,023,97,001,OH,"Clark County Tot Mig-Same St",2054,3719,64364
+39,023,97,003,OH,"Clark County Tot Mig-Diff St",949,1780,38041
+39,023,98,000,OH,"Clark County Tot Mig-Foreign",18,21,333
+39,023,39,023,OH,"Clark County Non-Migrants",53124,111195,2205757
+39,023,39,113,OH,"Montgomery County",487,843,14108
+39,023,39,021,OH,"Champaign County",346,734,12308
+39,023,39,057,OH,"Greene County",330,589,9237
+39,023,39,049,OH,"Franklin County",264,411,8119
+39,023,39,109,OH,"Miami County",85,166,2690
+39,023,39,097,OH,"Madison County",70,118,1849
+39,023,39,061,OH,"Hamilton County",50,67,1607
+39,023,39,091,OH,"Logan County",43,83,1319
+39,023,39,017,OH,"Butler County",28,45,869
+39,023,39,041,OH,"Delaware County",25,45,1678
+39,023,04,013,AZ,"Maricopa County",22,39,2191
+39,023,39,159,OH,"Union County",22,41,779
+39,023,39,071,OH,"Highland County",21,38,374
+39,023,39,165,OH,"Warren County",21,41,655
+39,023,39,035,OH,"Cuyahoga County",16,23,523
+39,023,18,097,IN,"Marion County",15,21,462
+39,023,12,103,FL,"Pinellas County",14,20,364
+39,023,12,081,FL,"Manatee County",13,19,434
+39,023,39,149,OH,"Shelby County",13,24,353
+39,023,39,153,OH,"Summit County",13,27,611
+39,023,06,073,CA,"San Diego County",12,18,237
+39,023,39,025,OH,"Clermont County",12,14,464
+39,023,39,037,OH,"Darke County",12,21,295
+39,023,39,045,OH,"Fairfield County",12,21,437
+39,023,12,031,FL,"Duval County",10,10,146
+39,023,17,031,IL,"Cook County",10,16,311
+39,023,48,201,TX,"Harris County",10,19,716
+39,023,58,000,SS,"Other Flows - Same State",184,368,6089
+39,023,59,000,DS,"Other Flows - Diff State",843,1618,33181
+39,023,59,001,DS,"Other Flows - Northeast",68,127,2682
+39,023,59,003,DS,"Other Flows - Midwest",163,338,7789
+39,023,59,005,DS,"Other Flows - South",488,933,18395
+39,023,59,007,DS,"Other Flows - West",124,220,4315
+39,023,57,009,FR,"Foreign - Other flows",18,21,333
+39,025,96,000,OH,"Clermont County Tot Mig-US & For",6434,12021,317071
+39,025,97,000,OH,"Clermont County Tot Mig-US",6391,11940,313632
+39,025,97,001,OH,"Clermont County Tot Mig-Same St",4185,7465,168460
+39,025,97,003,OH,"Clermont County Tot Mig-Diff St",2206,4475,145172
+39,025,98,000,OH,"Clermont County Tot Mig-Foreign",43,81,3439
+39,025,39,025,OH,"Clermont County Non-Migrants",78028,175712,4329388
+39,025,39,061,OH,"Hamilton County",2096,3394,81042
+39,025,39,165,OH,"Warren County",559,1083,33062
+39,025,39,015,OH,"Brown County",538,1115,15667
+39,025,39,017,OH,"Butler County",392,704,15708
+39,025,21,117,KY,"Kenton County",148,249,6689
+39,025,21,037,KY,"Campbell County",133,202,4230
+39,025,39,027,OH,"Clinton County",114,256,3723
+39,025,39,049,OH,"Franklin County",87,129,3310
+39,025,21,015,KY,"Boone County",81,142,3787
+39,025,39,001,OH,"Adams County",72,160,1794
+39,025,39,113,OH,"Montgomery County",61,103,2174
+39,025,39,071,OH,"Highland County",45,85,1234
+39,025,17,031,IL,"Cook County",33,46,1444
+39,025,12,011,FL,"Broward County",32,66,2184
+39,025,04,013,AZ,"Maricopa County",29,55,2267
+39,025,12,103,FL,"Pinellas County",29,43,2780
+39,025,12,071,FL,"Lee County",28,47,1891
+39,025,18,097,IN,"Marion County",23,44,1157
+39,025,21,067,KY,"Fayette County",22,27,799
+39,025,21,111,KY,"Jefferson County",22,39,849
+39,025,39,035,OH,"Cuyahoga County",22,43,1220
+39,025,39,057,OH,"Greene County",22,34,692
+39,025,57,005,FR,"Foreign - APO/FPO ZIPs",21,23,242
+39,025,06,037,CA,"Los Angeles County",20,28,1762
+39,025,06,073,CA,"San Diego County",19,32,1280
+39,025,39,041,OH,"Delaware County",19,44,1828
+39,025,42,003,PA,"Allegheny County",19,42,1659
+39,025,18,029,IN,"Dearborn County",18,42,852
+39,025,26,125,MI,"Oakland County",18,34,1800
+39,025,06,059,CA,"Orange County",16,45,1835
+39,025,12,021,FL,"Collier County",16,28,1351
+39,025,18,057,IN,"Hamilton County",16,49,1586
+39,025,29,189,MO,"St Louis County",16,39,1704
+39,025,12,095,FL,"Orange County",15,25,584
+39,025,37,119,NC,"Mecklenburg County",15,42,1865
+39,025,17,043,IL,"Du Page County",14,36,1539
+39,025,17,097,IL,"Lake County",14,39,1346
+39,025,20,091,KS,"Johnson County",14,43,2347
+39,025,48,201,TX,"Harris County",14,29,930
+39,025,12,081,FL,"Manatee County",13,22,986
+39,025,12,057,FL,"Hillsborough County",12,24,690
+39,025,12,105,FL,"Polk County",12,20,351
+39,025,12,115,FL,"Sarasota County",12,21,609
+39,025,12,031,FL,"Duval County",11,21,365
+39,025,12,069,FL,"Lake County",11,25,589
+39,025,13,121,GA,"Fulton County",11,25,676
+39,025,25,017,MA,"Middlesex County",11,21,862
+39,025,26,163,MI,"Wayne County",11,19,842
+39,025,32,003,NV,"Clark County",11,16,307
+39,025,37,183,NC,"Wake County",11,21,2079
+39,025,39,153,OH,"Summit County",11,32,930
+39,025,48,085,TX,"Collin County",11,36,1386
+39,025,06,085,CA,"Santa Clara County",10,14,622
+39,025,12,101,FL,"Pasco County",10,19,278
+39,025,39,095,OH,"Lucas County",10,18,492
+39,025,47,093,TN,"Knox County",10,19,730
+39,025,47,157,TN,"Shelby County",10,19,698
+39,025,48,453,TX,"Travis County",10,28,1856
+39,025,51,059,VA,"Fairfax County",10,14,681
+39,025,58,000,SS,"Other Flows - Same State",137,265,5584
+39,025,59,000,DS,"Other Flows - Diff State",1185,2578,80050
+39,025,59,001,DS,"Other Flows - Northeast",185,408,17886
+39,025,59,003,DS,"Other Flows - Midwest",255,608,17522
+39,025,59,005,DS,"Other Flows - South",593,1217,32959
+39,025,59,007,DS,"Other Flows - West",152,345,11683
+39,025,57,009,FR,"Foreign - Other flows",22,58,3197
+39,027,96,000,OH,"Clinton County Tot Mig-US & For",1323,2535,44348
+39,027,97,000,OH,"Clinton County Tot Mig-US",1323,2535,44348
+39,027,97,001,OH,"Clinton County Tot Mig-Same St",999,1891,30310
+39,027,97,003,OH,"Clinton County Tot Mig-Diff St",324,644,14038
+39,027,39,027,OH,"Clinton County Non-Migrants",17734,38083,724564
+39,027,39,071,OH,"Highland County",200,423,5496
+39,027,39,165,OH,"Warren County",128,269,5874
+39,027,39,025,OH,"Clermont County",109,209,2874
+39,027,39,057,OH,"Greene County",81,157,2308
+39,027,39,047,OH,"Fayette County",75,140,2154
+39,027,39,061,OH,"Hamilton County",73,110,1996
+39,027,39,113,OH,"Montgomery County",68,106,1969
+39,027,39,015,OH,"Brown County",61,104,1675
+39,027,39,017,OH,"Butler County",39,78,1259
+39,027,39,049,OH,"Franklin County",33,46,1050
+39,027,39,001,OH,"Adams County",31,68,742
+39,027,39,023,OH,"Clark County",15,30,511
+39,027,39,141,OH,"Ross County",10,23,170
+39,027,58,000,SS,"Other Flows - Same State",76,128,2232
+39,027,59,000,DS,"Other Flows - Diff State",324,644,14038
+39,027,59,001,DS,"Other Flows - Northeast",31,50,1224
+39,027,59,003,DS,"Other Flows - Midwest",64,118,2033
+39,027,59,005,DS,"Other Flows - South",174,371,7935
+39,027,59,007,DS,"Other Flows - West",55,105,2846
+39,029,96,000,OH,"Columbiana Coun Tot Mig-US & For",2089,3787,62561
+39,029,97,000,OH,"Columbiana Coun Tot Mig-US",2071,3764,62302
+39,029,97,001,OH,"Columbiana Coun Tot Mig-Same St",1251,2216,36174
+39,029,97,003,OH,"Columbiana Coun Tot Mig-Diff St",820,1548,26128
+39,029,98,000,OH,"Columbiana Coun Tot Mig-Foreign",18,23,259
+39,029,39,029,OH,"Columbiana Coun Non-Migrants",41311,89643,1518549
+39,029,39,099,OH,"Mahoning County",427,767,12493
+39,029,39,151,OH,"Stark County",207,357,5189
+39,029,39,019,OH,"Carroll County",100,221,2658
+39,029,39,049,OH,"Franklin County",86,112,2370
+39,029,54,029,WV,"Hancock County",72,140,1489
+39,029,42,007,PA,"Beaver County",56,115,1308
+39,029,39,155,OH,"Trumbull County",55,97,1328
+39,029,39,081,OH,"Jefferson County",50,98,1000
+39,029,39,153,OH,"Summit County",50,71,1756
+39,029,39,035,OH,"Cuyahoga County",47,62,1469
+39,029,39,133,OH,"Portage County",39,66,1214
+39,029,42,003,PA,"Allegheny County",39,65,1509
+39,029,04,013,AZ,"Maricopa County",15,24,338
+39,029,12,071,FL,"Lee County",12,21,1719
+39,029,39,157,OH,"Tuscarawas County",12,27,551
+39,029,42,073,PA,"Lawrence County",12,23,301
+39,029,12,103,FL,"Pinellas County",11,19,496
+39,029,37,119,NC,"Mecklenburg County",11,12,269
+39,029,39,041,OH,"Delaware County",11,18,488
+39,029,39,095,OH,"Lucas County",11,13,233
+39,029,58,000,SS,"Other Flows - Same State",156,307,5425
+39,029,59,000,DS,"Other Flows - Diff State",592,1129,18701
+39,029,59,001,DS,"Other Flows - Northeast",85,193,2386
+39,029,59,003,DS,"Other Flows - Midwest",89,177,2928
+39,029,59,005,DS,"Other Flows - South",338,612,10606
+39,029,59,007,DS,"Other Flows - West",80,147,2781
+39,029,57,009,FR,"Foreign - Other flows",18,23,259
+39,031,96,000,OH,"Coshocton Count Tot Mig-US & For",846,1529,24384
+39,031,97,000,OH,"Coshocton Count Tot Mig-US",846,1529,24384
+39,031,97,001,OH,"Coshocton Count Tot Mig-Same St",650,1155,19100
+39,031,97,003,OH,"Coshocton Count Tot Mig-Diff St",196,374,5285
+39,031,39,031,OH,"Coshocton Count Non-Migrants",15836,34732,583392
+39,031,39,157,OH,"Tuscarawas County",135,243,3206
+39,031,39,119,OH,"Muskingum County",101,190,2840
+39,031,39,049,OH,"Franklin County",72,96,1626
+39,031,39,089,OH,"Licking County",69,103,2550
+39,031,39,083,OH,"Knox County",41,75,1324
+39,031,39,075,OH,"Holmes County",36,83,830
+39,031,39,059,OH,"Guernsey County",33,63,815
+39,031,39,151,OH,"Stark County",17,21,317
+39,031,39,153,OH,"Summit County",16,32,1142
+39,031,39,035,OH,"Cuyahoga County",12,17,331
+39,031,39,041,OH,"Delaware County",11,18,1036
+39,031,39,169,OH,"Wayne County",11,25,252
+39,031,58,000,SS,"Other Flows - Same State",96,189,2830
+39,031,59,000,DS,"Other Flows - Diff State",196,374,5285
+39,031,59,001,DS,"Other Flows - Northeast",17,33,556
+39,031,59,003,DS,"Other Flows - Midwest",40,86,1085
+39,031,59,005,DS,"Other Flows - South",106,191,2912
+39,031,59,007,DS,"Other Flows - West",33,64,732
+39,033,96,000,OH,"Crawford County Tot Mig-US & For",1297,2326,35325
+39,033,97,000,OH,"Crawford County Tot Mig-US",1297,2326,35325
+39,033,97,001,OH,"Crawford County Tot Mig-Same St",994,1748,25703
+39,033,97,003,OH,"Crawford County Tot Mig-Diff St",303,578,9622
+39,033,39,033,OH,"Crawford County Non-Migrants",21685,45207,798961
+39,033,39,139,OH,"Richland County",277,524,7768
+39,033,39,049,OH,"Franklin County",121,158,2722
+39,033,39,101,OH,"Marion County",115,230,2920
+39,033,39,117,OH,"Morrow County",73,139,1982
+39,033,39,175,OH,"Wyandot County",52,86,1174
+39,033,39,077,OH,"Huron County",50,93,1111
+39,033,39,147,OH,"Seneca County",37,75,920
+39,033,39,005,OH,"Ashland County",30,48,695
+39,033,39,041,OH,"Delaware County",25,33,721
+39,033,39,083,OH,"Knox County",15,33,380
+39,033,39,095,OH,"Lucas County",14,19,375
+39,033,39,063,OH,"Hancock County",13,18,390
+39,033,39,035,OH,"Cuyahoga County",10,14,156
+39,033,39,043,OH,"Erie County",10,18,260
+39,033,58,000,SS,"Other Flows - Same State",152,260,4129
+39,033,59,000,DS,"Other Flows - Diff State",303,578,9622
+39,033,59,001,DS,"Other Flows - Northeast",17,25,480
+39,033,59,003,DS,"Other Flows - Midwest",75,158,2291
+39,033,59,005,DS,"Other Flows - South",158,304,5195
+39,033,59,007,DS,"Other Flows - West",53,91,1656
+39,035,96,000,OH,"Cuyahoga County Tot Mig-US & For",24301,42279,1240174
+39,035,97,000,OH,"Cuyahoga County Tot Mig-US",23946,41632,1226987
+39,035,97,001,OH,"Cuyahoga County Tot Mig-Same St",12696,22426,581935
+39,035,97,003,OH,"Cuyahoga County Tot Mig-Diff St",11250,19206,645051
+39,035,98,000,OH,"Cuyahoga County Tot Mig-Foreign",355,647,13187
+39,035,39,035,OH,"Cuyahoga County Non-Migrants",532625,1054576,26165884
+39,035,39,153,OH,"Summit County",2250,3893,119729
+39,035,39,093,OH,"Lorain County",2229,4141,110509
+39,035,39,085,OH,"Lake County",2023,3502,77767
+39,035,39,103,OH,"Medina County",1731,3296,85019
+39,035,39,049,OH,"Franklin County",807,1136,26351
+39,035,39,133,OH,"Portage County",688,1248,27753
+39,035,39,055,OH,"Geauga County",660,1348,45641
+39,035,17,031,IL,"Cook County",494,641,30530
+39,035,06,037,CA,"Los Angeles County",249,363,12448
+39,035,04,013,AZ,"Maricopa County",219,345,12716
+39,035,42,003,PA,"Allegheny County",217,349,11754
+39,035,39,061,OH,"Hamilton County",202,265,6427
+39,035,32,003,NV,"Clark County",182,328,7740
+39,035,39,095,OH,"Lucas County",182,269,5706
+39,035,39,007,OH,"Ashtabula County",181,318,6051
+39,035,39,151,OH,"Stark County",178,319,7810
+39,035,36,061,NY,"New York County",174,208,11959
+39,035,12,011,FL,"Broward County",148,229,9751
+39,035,26,125,MI,"Oakland County",147,270,12091
+39,035,48,201,TX,"Harris County",147,240,8093
+39,035,57,005,FR,"Foreign - APO/FPO ZIPs",133,159,2080
+39,035,39,155,OH,"Trumbull County",130,238,4538
+39,035,12,099,FL,"Palm Beach County",126,239,11592
+39,035,12,071,FL,"Lee County",124,219,12634
+39,035,26,163,MI,"Wayne County",124,235,6447
+39,035,06,073,CA,"San Diego County",118,155,7916
+39,035,12,103,FL,"Pinellas County",118,202,8977
+39,035,39,043,OH,"Erie County",116,210,4476
+39,035,39,099,OH,"Mahoning County",116,171,3688
+39,035,06,085,CA,"Santa Clara County",114,156,8077
+39,035,12,057,FL,"Hillsborough County",113,211,4796
+39,035,39,113,OH,"Montgomery County",107,158,3679
+39,035,39,041,OH,"Delaware County",106,202,9155
+39,035,53,033,WA,"King County",106,166,6086
+39,035,17,043,IL,"Du Page County",103,220,8227
+39,035,12,095,FL,"Orange County",101,192,4117
+39,035,13,089,GA,"De Kalb County",99,183,2854
+39,035,37,119,NC,"Mecklenburg County",98,170,4626
+39,035,25,017,MA,"Middlesex County",97,132,5018
+39,035,51,059,VA,"Fairfax County",93,176,7093
+39,035,06,059,CA,"Orange County",92,163,7070
+39,035,13,121,GA,"Fulton County",89,135,5628
+39,035,36,047,NY,"Kings County",86,113,3074
+39,035,39,169,OH,"Wayne County",86,165,3448
+39,035,48,113,TX,"Dallas County",86,143,5370
+39,035,12,115,FL,"Sarasota County",82,157,7835
+39,035,06,001,CA,"Alameda County",81,130,4765
+39,035,18,097,IN,"Marion County",80,132,4649
+39,035,24,031,MD,"Montgomery County",80,122,3725
+39,035,12,025,FL,"Dade County",71,121,1415
+39,035,12,021,FL,"Collier County",69,123,11911
+39,035,13,067,GA,"Cobb County",66,111,2046
+39,035,11,001,DC,"District Of Columbia",65,77,2900
+39,035,08,031,CO,"Denver County",64,76,2059
+39,035,36,029,NY,"Erie County",64,107,2909
+39,035,06,075,CA,"San Francisco County",63,72,3732
+39,035,39,005,OH,"Ashland County",62,120,2444
+39,035,37,183,NC,"Wake County",60,112,3952
+39,035,26,161,MI,"Washtenaw County",59,89,3794
+39,035,42,101,PA,"Philadelphia County",58,83,2684
+39,035,39,123,OH,"Ottawa County",57,99,2937
+39,035,39,173,OH,"Wood County",56,88,1585
+39,035,42,049,PA,"Erie County",56,104,3016
+39,035,04,019,AZ,"Pima County",55,76,2437
+39,035,12,031,FL,"Duval County",52,93,1624
+39,035,39,017,OH,"Butler County",52,74,1910
+39,035,25,025,MA,"Suffolk County",51,55,2233
+39,035,39,009,OH,"Athens County",51,55,940
+39,035,39,057,OH,"Greene County",51,78,1512
+39,035,13,135,GA,"Gwinnett County",49,100,2850
+39,035,47,037,TN,"Davidson County",48,84,1971
+39,035,47,157,TN,"Shelby County",48,99,2483
+39,035,27,053,MN,"Hennepin County",47,91,2929
+39,035,24,510,MD,Baltimore,45,64,2118
+39,035,29,189,MO,"St Louis County",45,79,2095
+39,035,39,139,OH,"Richland County",44,80,1517
+39,035,39,077,OH,"Huron County",43,66,1534
+39,035,26,099,MI,"Macomb County",42,57,1679
+39,035,08,005,CO,"Arapahoe County",41,70,2522
+39,035,17,097,IL,"Lake County",41,96,3585
+39,035,25,021,MA,"Norfolk County",41,59,3302
+39,035,51,810,VA,"Virginia Beach",41,71,1425
+39,035,55,079,WI,"Milwaukee County",41,56,2238
+39,035,06,081,CA,"San Mateo County",40,61,3773
+39,035,06,013,CA,"Contra Costa County",39,72,4841
+39,035,12,101,FL,"Pasco County",39,67,2253
+39,035,24,005,MD,"Baltimore County",39,75,2484
+39,035,24,033,MD,"Prince George's Coun",39,55,978
+39,035,51,013,VA,"Arlington County",39,41,1410
+39,035,57,003,FR,"Foreign - Puerto Rico",39,118,619
+39,035,21,111,KY,"Jefferson County",38,71,1690
+39,035,36,055,NY,"Monroe County",37,78,2558
+39,035,08,013,CO,"Boulder County",36,45,1448
+39,035,09,001,CT,"Fairfield County",36,70,3689
+39,035,12,127,FL,"Volusia County",36,60,1236
+39,035,48,085,TX,"Collin County",36,74,2419
+39,035,48,439,TX,"Tarrant County",36,69,2647
+39,035,12,009,FL,"Brevard County",35,65,1602
+39,035,12,015,FL,"Charlotte County",35,63,1771
+39,035,18,057,IN,"Hamilton County",35,83,5075
+39,035,39,025,OH,"Clermont County",35,78,2396
+39,035,39,059,OH,"Guernsey County",35,71,1069
+39,035,34,017,NJ,"Hudson County",34,44,1470
+39,035,36,081,NY,"Queens County",34,44,1030
+39,035,06,071,CA,"San Bernardino Count",33,65,1208
+39,035,42,091,PA,"Montgomery County",33,56,2298
+39,035,08,041,CO,"El Paso County",32,59,1398
+39,035,12,081,FL,"Manatee County",32,56,2691
+39,035,48,453,TX,"Travis County",32,57,2033
+39,035,06,065,CA,"Riverside County",31,61,815
+39,035,09,009,CT,"New Haven County",31,50,1204
+39,035,34,003,NJ,"Bergen County",31,65,4603
+39,035,39,089,OH,"Licking County",31,44,1170
+39,035,36,119,NY,"Westchester County",30,55,2966
+39,035,39,045,OH,"Fairfield County",30,59,1397
+39,035,45,019,SC,"Charleston County",29,43,2387
+39,035,34,023,NJ,"Middlesex County",28,57,2241
+39,035,35,001,NM,"Bernalillo County",28,42,1234
+39,035,39,165,OH,"Warren County",28,75,1806
+39,035,44,007,RI,"Providence County",28,44,1368
+39,035,48,029,TX,"Bexar County",28,63,1744
+39,035,01,073,AL,"Jefferson County",27,57,819
+39,035,09,003,CT,"Hartford County",27,53,2313
+39,035,12,083,FL,"Marion County",27,47,849
+39,035,12,105,FL,"Polk County",27,46,1444
+39,035,24,003,MD,"Anne Arundel County",27,41,1370
+39,035,37,051,NC,"Cumberland County",27,41,728
+39,035,37,133,NC,"Onslow County",27,48,481
+39,035,42,019,PA,"Butler County",27,44,1693
+39,035,45,013,SC,"Beaufort County",27,49,1511
+39,035,45,045,SC,"Greenville County",27,50,1410
+39,035,55,025,WI,"Dane County",27,43,1627
+39,035,06,111,CA,"Ventura County",26,39,4126
+39,035,08,059,CO,"Jefferson County",26,45,5235
+39,035,39,157,OH,"Tuscarawas County",26,44,824
+39,035,20,091,KS,"Johnson County",25,42,1742
+39,035,12,117,FL,"Seminole County",24,47,1584
+39,035,29,510,MO,"St Louis",24,29,884
+39,035,34,013,NJ,"Essex County",24,46,1375
+39,035,42,045,PA,"Delaware County",24,43,1464
+39,035,51,510,VA,Alexandria,24,33,1141
+39,035,10,003,DE,"New Castle County",23,43,1570
+39,035,12,069,FL,"Lake County",23,39,1306
+39,035,12,097,FL,"Osceola County",23,50,816
+39,035,21,067,KY,"Fayette County",23,38,953
+39,035,26,081,MI,"Kent County",23,45,1592
+39,035,37,081,NC,"Guilford County",23,44,1350
+39,035,53,053,WA,"Pierce County",23,42,922
+39,035,53,061,WA,"Snohomish County",23,35,1008
+39,035,06,067,CA,"Sacramento County",22,43,951
+39,035,15,003,HI,"Honolulu County",22,44,940
+39,035,27,123,MN,"Ramsey County",22,33,1184
+39,035,36,013,NY,"Chautauqua County",22,32,903
+39,035,37,067,NC,"Forsyth County",22,46,1441
+39,035,22,071,LA,"Orleans Parish",21,31,888
+39,035,36,005,NY,"Bronx County",21,38,809
+39,035,48,121,TX,"Denton County",21,42,1368
+39,035,12,033,FL,"Escambia County",20,30,351
+39,035,12,087,FL,"Monroe County",20,33,2762
+39,035,18,003,IN,"Allen County",20,38,1083
+39,035,25,027,MA,"Worcester County",20,33,4009
+39,035,39,019,OH,"Carroll County",20,33,769
+39,035,48,027,TX,"Bell County",20,42,856
+39,035,13,051,GA,"Chatham County",19,28,645
+39,035,36,001,NY,"Albany County",19,35,1011
+39,035,39,063,OH,"Hancock County",19,26,595
+39,035,47,093,TN,"Knox County",19,41,766
+39,035,13,063,GA,"Clayton County",18,36,431
+39,035,18,089,IN,"Lake County",18,30,931
+39,035,31,055,NE,"Douglas County",18,30,689
+39,035,34,039,NJ,"Union County",18,37,1710
+39,035,39,003,OH,"Allen County",18,29,744
+39,035,41,051,OR,"Multnomah County",18,31,746
+39,035,42,029,PA,"Chester County",18,31,1469
+39,035,42,051,PA,"Fayette County",18,35,397
+39,035,51,710,VA,Norfolk,18,27,308
+39,035,12,001,FL,"Alachua County",17,26,572
+39,035,12,017,FL,"Citrus County",17,31,794
+39,035,12,091,FL,"Okaloosa County",17,29,618
+39,035,33,011,NH,"Hillsborough County",17,30,1105
+39,035,40,109,OK,"Oklahoma County",17,27,610
+39,035,42,007,PA,"Beaver County",17,33,518
+39,035,42,129,PA,"Westmoreland County",17,27,664
+39,035,49,035,UT,"Salt Lake County",17,29,1132
+39,035,36,067,NY,"Onondaga County",16,31,492
+39,035,36,103,NY,"Suffolk County",16,25,726
+39,035,37,063,NC,"Durham County",16,24,758
+39,035,41,067,OR,"Washington County",16,24,1100
+39,035,45,079,SC,"Richland County",16,26,450
+39,035,53,063,WA,"Spokane County",16,35,747
+39,035,24,027,MD,"Howard County",15,32,971
+39,035,34,035,NJ,"Somerset County",15,34,1466
+39,035,37,021,NC,"Buncombe County",15,24,851
+39,035,42,085,PA,"Mercer County",15,20,468
+39,035,47,065,TN,"Hamilton County",15,26,335
+39,035,51,087,VA,"Henrico County",15,25,1930
+39,035,05,119,AR,"Pulaski County",14,20,834
+39,035,08,069,CO,"Larimer County",14,21,640
+39,035,12,073,FL,"Leon County",14,29,456
+39,035,18,157,IN,"Tippecanoe County",14,16,637
+39,035,34,005,NJ,"Burlington County",14,36,1339
+39,035,36,059,NY,"Nassau County",14,25,907
+39,035,37,135,NC,"Orange County",14,23,644
+39,035,39,081,OH,"Jefferson County",14,38,416
+39,035,41,039,OR,"Lane County",14,20,501
+39,035,42,017,PA,"Bucks County",14,24,837
+39,035,42,039,PA,"Crawford County",14,27,350
+39,035,45,051,SC,"Horry County",14,23,525
+39,035,54,039,WV,"Kanawha County",14,27,355
+39,035,20,173,KS,"Sedgwick County",13,26,410
+39,035,26,077,MI,"Kalamazoo County",13,34,1077
+39,035,27,037,MN,"Dakota County",13,23,980
+39,035,36,091,NY,"Saratoga County",13,27,1105
+39,035,39,029,OH,"Columbiana County",13,20,332
+39,035,39,083,OH,"Knox County",13,19,534
+39,035,51,041,VA,"Chesterfield County",13,40,911
+39,035,51,700,VA,"Newport News",13,27,383
+39,035,55,133,WI,"Waukesha County",13,36,1274
+39,035,06,041,CA,"Marin County",12,19,730
+39,035,17,019,IL,"Champaign County",12,12,168
+39,035,17,089,IL,"Kane County",12,48,1542
+39,035,19,153,IA,"Polk County",12,22,513
+39,035,21,117,KY,"Kenton County",12,17,460
+39,035,24,021,MD,"Frederick County",12,18,351
+39,035,25,009,MA,"Essex County",12,20,3651
+39,035,26,049,MI,"Genesee County",12,25,434
+39,035,26,115,MI,"Monroe County",12,22,658
+39,035,37,129,NC,"New Hanover County",12,18,419
+39,035,39,075,OH,"Holmes County",12,15,370
+39,035,42,043,PA,"Dauphin County",12,24,352
+39,035,45,091,SC,"York County",12,24,583
+39,035,50,007,VT,"Chittenden County",12,21,557
+39,035,54,081,WV,"Raleigh County",12,27,127
+39,035,02,020,AK,"Anchorage Borough",11,17,207
+39,035,06,095,CA,"Solano County",11,16,338
+39,035,08,001,CO,"Adams County",11,16,602
+39,035,09,011,CT,"New London County",11,16,831
+39,035,12,111,FL,"St Lucie County",11,17,429
+39,035,17,197,IL,"Will County",11,19,519
+39,035,18,141,IN,"St Joseph County",11,14,433
+39,035,34,007,NJ,"Camden County",11,18,326
+39,035,34,021,NJ,"Mercer County",11,14,1397
+39,035,36,063,NY,"Niagara County",11,20,617
+39,035,39,023,OH,"Clark County",11,18,328
+39,035,39,101,OH,"Marion County",11,23,258
+39,035,39,167,OH,"Washington County",11,15,428
+39,035,48,157,TX,"Fort Bend County",11,28,574
+39,035,48,491,TX,"Williamson County",11,25,1325
+39,035,51,003,VA,"Albemarle County",11,12,1370
+39,035,51,107,VA,"Loudoun County",11,23,1228
+39,035,09,007,CT,"Middlesex County",10,18,891
+39,035,13,151,GA,"Henry County",10,27,512
+39,035,21,015,KY,"Boone County",10,22,544
+39,035,21,047,KY,"Christian County",10,17,184
+39,035,24,025,MD,"Harford County",10,15,498
+39,035,29,095,MO,"Jackson County",10,14,280
+39,035,36,071,NY,"Orange County",10,12,408
+39,035,36,087,NY,"Rockland County",10,24,568
+39,035,39,031,OH,"Coshocton County",10,16,181
+39,035,39,067,OH,"Harrison County",10,23,483
+39,035,39,119,OH,"Muskingum County",10,16,344
+39,035,42,027,PA,"Centre County",10,14,256
+39,035,42,133,PA,"York County",10,22,359
+39,035,47,187,TN,"Williamson County",10,25,1048
+39,035,48,141,TX,"El Paso County",10,26,510
+39,035,48,339,TX,"Montgomery County",10,23,434
+39,035,51,153,VA,"Prince William Count",10,15,321
+39,035,58,000,SS,"Other Flows - Same State",131,225,5365
+39,035,59,000,DS,"Other Flows - Diff State",2397,4414,114934
+39,035,59,001,DS,"Other Flows - Northeast",372,680,21993
+39,035,59,003,DS,"Other Flows - Midwest",514,946,27361
+39,035,59,005,DS,"Other Flows - South",1165,2221,46797
+39,035,59,007,DS,"Other Flows - West",346,567,18783
+39,035,57,009,FR,"Foreign - Other flows",183,370,10489
+39,037,96,000,OH,"Darke County Tot Mig-US & For",1167,2045,34960
+39,037,97,000,OH,"Darke County Tot Mig-US",1167,2045,34960
+39,037,97,001,OH,"Darke County Tot Mig-Same St",769,1318,23510
+39,037,97,003,OH,"Darke County Tot Mig-Diff St",398,727,11450
+39,037,39,037,OH,"Darke County Non-Migrants",21546,46483,881899
+39,037,39,109,OH,"Miami County",187,340,5368
+39,037,39,113,OH,"Montgomery County",170,263,5248
+39,037,18,135,IN,"Randolph County",90,197,2245
+39,037,39,107,OH,"Mercer County",65,126,2410
+39,037,39,135,OH,"Preble County",58,114,1563
+39,037,39,149,OH,"Shelby County",47,93,1645
+39,037,39,049,OH,"Franklin County",46,66,1430
+39,037,39,061,OH,"Hamilton County",29,39,760
+39,037,18,177,IN,"Wayne County",23,33,455
+39,037,39,011,OH,"Auglaize County",19,36,539
+39,037,39,057,OH,"Greene County",19,31,519
+39,037,39,017,OH,"Butler County",17,27,558
+39,037,39,021,OH,"Champaign County",12,22,307
+39,037,39,023,OH,"Clark County",11,21,441
+39,037,18,097,IN,"Marion County",10,13,230
+39,037,58,000,SS,"Other Flows - Same State",89,140,2721
+39,037,59,000,DS,"Other Flows - Diff State",275,484,8520
+39,037,59,001,DS,"Other Flows - Northeast",12,32,464
+39,037,59,003,DS,"Other Flows - Midwest",84,141,2842
+39,037,59,005,DS,"Other Flows - South",139,252,4372
+39,037,59,007,DS,"Other Flows - West",40,59,842
+39,039,96,000,OH,"Defiance County Tot Mig-US & For",1065,1977,33492
+39,039,97,000,OH,"Defiance County Tot Mig-US",1065,1977,33492
+39,039,97,001,OH,"Defiance County Tot Mig-Same St",644,1149,18481
+39,039,97,003,OH,"Defiance County Tot Mig-Diff St",421,828,15011
+39,039,39,039,OH,"Defiance County Non-Migrants",16509,35880,731932
+39,039,39,171,OH,"Williams County",151,282,4247
+39,039,39,125,OH,"Paulding County",104,231,2904
+39,039,39,069,OH,"Henry County",95,178,2917
+39,039,39,095,OH,"Lucas County",62,103,1959
+39,039,18,003,IN,"Allen County",51,85,1400
+39,039,39,051,OH,"Fulton County",40,59,1146
+39,039,39,049,OH,"Franklin County",28,33,610
+39,039,39,173,OH,"Wood County",27,39,736
+39,039,39,137,OH,"Putnam County",23,45,601
+39,039,18,033,IN,"De Kalb County",20,46,668
+39,039,18,151,IN,"Steuben County",12,23,471
+39,039,39,003,OH,"Allen County",12,18,331
+39,039,39,035,OH,"Cuyahoga County",12,16,403
+39,039,39,061,OH,"Hamilton County",12,13,246
+39,039,58,000,SS,"Other Flows - Same State",78,132,2381
+39,039,59,000,DS,"Other Flows - Diff State",338,674,12473
+39,039,59,001,DS,"Other Flows - Northeast",24,49,693
+39,039,59,003,DS,"Other Flows - Midwest",136,281,5819
+39,039,59,005,DS,"Other Flows - South",141,275,4957
+39,039,59,007,DS,"Other Flows - West",37,69,1004
+39,041,96,000,OH,"Delaware County Tot Mig-US & For",6038,10974,417528
+39,041,97,000,OH,"Delaware County Tot Mig-US",6007,10911,413373
+39,041,97,001,OH,"Delaware County Tot Mig-Same St",4176,6968,210665
+39,041,97,003,OH,"Delaware County Tot Mig-Diff St",1831,3943,202708
+39,041,98,000,OH,"Delaware County Tot Mig-Foreign",31,63,4155
+39,041,39,041,OH,"Delaware County Non-Migrants",57086,133341,4941943
+39,041,39,049,OH,"Franklin County",2807,4349,126758
+39,041,39,117,OH,"Morrow County",143,304,4474
+39,041,39,159,OH,"Union County",141,258,5766
+39,041,39,101,OH,"Marion County",123,257,3682
+39,041,39,089,OH,"Licking County",105,199,4544
+39,041,39,045,OH,"Fairfield County",98,195,5328
+39,041,39,083,OH,"Knox County",83,152,5282
+39,041,39,035,OH,"Cuyahoga County",53,89,4203
+39,041,17,031,IL,"Cook County",51,73,4093
+39,041,39,061,OH,"Hamilton County",49,72,2678
+39,041,39,097,OH,"Madison County",43,81,2570
+39,041,04,013,AZ,"Maricopa County",39,86,5106
+39,041,17,043,IL,"Du Page County",30,69,3040
+39,041,39,113,OH,"Montgomery County",29,52,1081
+39,041,39,153,OH,"Summit County",27,53,1812
+39,041,26,125,MI,"Oakland County",24,37,1796
+39,041,39,165,OH,"Warren County",24,69,4536
+39,041,06,037,CA,"Los Angeles County",22,36,1111
+39,041,06,073,CA,"San Diego County",22,48,1556
+39,041,39,017,OH,"Butler County",22,56,1412
+39,041,39,151,OH,"Stark County",22,43,1278
+39,041,48,439,TX,"Tarrant County",22,59,3143
+39,041,37,119,NC,"Mecklenburg County",21,53,2330
+39,041,39,033,OH,"Crawford County",21,44,832
+39,041,39,091,OH,"Logan County",21,34,1450
+39,041,42,003,PA,"Allegheny County",21,57,3228
+39,041,12,071,FL,"Lee County",20,30,1318
+39,041,12,057,FL,"Hillsborough County",19,45,1796
+39,041,53,033,WA,"King County",19,31,2184
+39,041,39,095,OH,"Lucas County",18,31,996
+39,041,39,009,OH,"Athens County",17,33,497
+39,041,48,085,TX,"Collin County",17,46,2536
+39,041,26,161,MI,"Washtenaw County",16,36,4911
+39,041,27,053,MN,"Hennepin County",16,42,1694
+39,041,29,189,MO,"St Louis County",16,36,1618
+39,041,39,099,OH,"Mahoning County",16,35,1266
+39,041,39,139,OH,"Richland County",16,26,435
+39,041,06,059,CA,"Orange County",15,36,4898
+39,041,21,111,KY,"Jefferson County",15,29,1880
+39,041,39,021,OH,"Champaign County",15,33,649
+39,041,39,093,OH,"Lorain County",15,28,906
+39,041,48,201,TX,"Harris County",15,38,2168
+39,041,06,085,CA,"Santa Clara County",14,22,1291
+39,041,39,057,OH,"Greene County",14,22,640
+39,041,39,103,OH,"Medina County",14,37,1134
+39,041,48,121,TX,"Denton County",14,34,1580
+39,041,08,031,CO,"Denver County",13,20,709
+39,041,12,103,FL,"Pinellas County",13,33,1160
+39,041,18,003,IN,"Allen County",13,31,877
+39,041,18,097,IN,"Marion County",13,22,642
+39,041,25,017,MA,"Middlesex County",13,19,584
+39,041,51,059,VA,"Fairfax County",13,34,1583
+39,041,12,011,FL,"Broward County",12,22,1238
+39,041,12,021,FL,"Collier County",12,24,7841
+39,041,12,095,FL,"Orange County",12,27,806
+39,041,13,121,GA,"Fulton County",12,22,996
+39,041,36,061,NY,"New York County",12,14,437
+39,041,39,023,OH,"Clark County",12,21,424
+39,041,39,063,OH,"Hancock County",12,15,382
+39,041,39,173,OH,"Wood County",12,18,388
+39,041,47,037,TN,"Davidson County",12,19,1947
+39,041,48,113,TX,"Dallas County",12,24,2423
+39,041,12,009,FL,"Brevard County",11,18,312
+39,041,12,081,FL,"Manatee County",11,19,1076
+39,041,32,003,NV,"Clark County",11,19,531
+39,041,39,129,OH,"Pickaway County",11,16,441
+39,041,39,141,OH,"Ross County",11,24,385
+39,041,51,013,VA,"Arlington County",11,12,498
+39,041,51,107,VA,"Loudoun County",11,33,2701
+39,041,08,013,CO,"Boulder County",10,28,1241
+39,041,11,001,DC,"District Of Columbia",10,12,347
+39,041,12,069,FL,"Lake County",10,18,1037
+39,041,12,115,FL,"Sarasota County",10,13,1029
+39,041,26,163,MI,"Wayne County",10,25,1069
+39,041,39,025,OH,"Clermont County",10,27,881
+39,041,39,155,OH,"Trumbull County",10,20,554
+39,041,39,169,OH,"Wayne County",10,20,278
+39,041,48,453,TX,"Travis County",10,24,931
+39,041,58,000,SS,"Other Flows - Same State",152,255,22721
+39,041,59,000,DS,"Other Flows - Diff State",1106,2468,117414
+39,041,59,001,DS,"Other Flows - Northeast",184,433,21054
+39,041,59,003,DS,"Other Flows - Midwest",239,573,22839
+39,041,59,005,DS,"Other Flows - South",505,1070,51689
+39,041,59,007,DS,"Other Flows - West",178,392,21832
+39,041,57,009,FR,"Foreign - Other flows",31,63,4155
+39,043,96,000,OH,"Erie County Tot Mig-US & For",2000,3446,67674
+39,043,97,000,OH,"Erie County Tot Mig-US",1986,3428,67457
+39,043,97,001,OH,"Erie County Tot Mig-Same St",1345,2317,41806
+39,043,97,003,OH,"Erie County Tot Mig-Diff St",641,1111,25651
+39,043,98,000,OH,"Erie County Tot Mig-Foreign",14,18,217
+39,043,39,043,OH,"Erie County Non-Migrants",32628,68184,1548467
+39,043,39,077,OH,"Huron County",286,561,8477
+39,043,39,093,OH,"Lorain County",265,478,8963
+39,043,39,035,OH,"Cuyahoga County",138,209,4762
+39,043,39,049,OH,"Franklin County",121,162,3434
+39,043,39,143,OH,"Sandusky County",99,198,2820
+39,043,39,095,OH,"Lucas County",73,124,2215
+39,043,39,123,OH,"Ottawa County",65,98,1678
+39,043,39,153,OH,"Summit County",34,56,1265
+39,043,39,173,OH,"Wood County",24,29,492
+39,043,26,163,MI,"Wayne County",17,29,1384
+39,043,39,041,OH,"Delaware County",17,22,1206
+39,043,39,103,OH,"Medina County",17,32,696
+39,043,39,139,OH,"Richland County",17,26,556
+39,043,39,147,OH,"Seneca County",15,31,368
+39,043,39,061,OH,"Hamilton County",14,24,366
+39,043,06,073,CA,"San Diego County",13,18,246
+39,043,26,125,MI,"Oakland County",13,26,995
+39,043,39,113,OH,"Montgomery County",13,16,248
+39,043,04,013,AZ,"Maricopa County",12,23,449
+39,043,39,085,OH,"Lake County",12,18,398
+39,043,42,003,PA,"Allegheny County",12,20,232
+39,043,21,111,KY,"Jefferson County",11,15,312
+39,043,12,011,FL,"Broward County",10,11,412
+39,043,12,071,FL,"Lee County",10,20,568
+39,043,39,151,OH,"Stark County",10,23,282
+39,043,58,000,SS,"Other Flows - Same State",125,210,3581
+39,043,59,000,DS,"Other Flows - Diff State",543,949,21054
+39,043,59,001,DS,"Other Flows - Northeast",60,99,2085
+39,043,59,003,DS,"Other Flows - Midwest",99,185,4395
+39,043,59,005,DS,"Other Flows - South",310,547,12728
+39,043,59,007,DS,"Other Flows - West",74,118,1846
+39,043,57,009,FR,"Foreign - Other flows",14,18,217
+39,045,96,000,OH,"Fairfield Count Tot Mig-US & For",4235,7764,162691
+39,045,97,000,OH,"Fairfield Count Tot Mig-US",4210,7730,162161
+39,045,97,001,OH,"Fairfield Count Tot Mig-Same St",3226,5691,113041
+39,045,97,003,OH,"Fairfield Count Tot Mig-Diff St",984,2039,49120
+39,045,98,000,OH,"Fairfield Count Tot Mig-Foreign",25,34,530
+39,045,39,045,OH,"Fairfield Count Non-Migrants",52753,116161,2592287
+39,045,39,049,OH,"Franklin County",1830,2919,60038
+39,045,39,089,OH,"Licking County",288,571,11120
+39,045,39,073,OH,"Hocking County",180,380,4937
+39,045,39,129,OH,"Pickaway County",157,286,4795
+39,045,39,127,OH,"Perry County",123,282,3533
+39,045,39,041,OH,"Delaware County",114,212,7884
+39,045,39,009,OH,"Athens County",57,100,1246
+39,045,39,119,OH,"Muskingum County",30,51,826
+39,045,39,141,OH,"Ross County",28,70,926
+39,045,39,113,OH,"Montgomery County",25,41,630
+39,045,04,013,AZ,"Maricopa County",23,44,1397
+39,045,39,035,OH,"Cuyahoga County",23,32,773
+39,045,39,061,OH,"Hamilton County",22,30,799
+39,045,17,031,IL,"Cook County",19,27,678
+39,045,39,083,OH,"Knox County",17,41,772
+39,045,39,145,OH,"Scioto County",15,28,481
+39,045,39,165,OH,"Warren County",15,42,1953
+39,045,39,095,OH,"Lucas County",14,28,470
+39,045,39,153,OH,"Summit County",14,32,575
+39,045,39,159,OH,"Union County",14,30,710
+39,045,39,167,OH,"Washington County",14,25,430
+39,045,12,103,FL,"Pinellas County",13,32,355
+39,045,42,003,PA,"Allegheny County",13,27,554
+39,045,12,057,FL,"Hillsborough County",12,24,357
+39,045,12,071,FL,"Lee County",12,21,712
+39,045,39,057,OH,"Greene County",12,19,429
+39,045,39,027,OH,"Clinton County",11,24,689
+39,045,58,000,SS,"Other Flows - Same State",223,448,9024
+39,045,59,000,DS,"Other Flows - Diff State",892,1864,45068
+39,045,59,001,DS,"Other Flows - Northeast",96,188,6092
+39,045,59,003,DS,"Other Flows - Midwest",143,368,7901
+39,045,59,005,DS,"Other Flows - South",522,1069,23768
+39,045,59,007,DS,"Other Flows - West",131,239,7307
+39,045,57,009,FR,"Foreign - Other flows",25,34,530
+39,047,96,000,OH,"Fayette County Tot Mig-US & For",811,1482,20963
+39,047,97,000,OH,"Fayette County Tot Mig-US",811,1482,20963
+39,047,97,001,OH,"Fayette County Tot Mig-Same St",654,1158,16669
+39,047,97,003,OH,"Fayette County Tot Mig-Diff St",157,324,4293
+39,047,39,047,OH,"Fayette County Non-Migrants",11007,22600,409779
+39,047,39,049,OH,"Franklin County",122,183,3117
+39,047,39,071,OH,"Highland County",117,205,2827
+39,047,39,027,OH,"Clinton County",84,162,2120
+39,047,39,141,OH,"Ross County",53,110,1264
+39,047,39,129,OH,"Pickaway County",52,100,1448
+39,047,39,097,OH,"Madison County",36,69,958
+39,047,39,057,OH,"Greene County",32,61,731
+39,047,39,023,OH,"Clark County",24,38,531
+39,047,39,113,OH,"Montgomery County",18,28,427
+39,047,39,131,OH,"Pike County",14,28,395
+39,047,39,165,OH,"Warren County",10,19,387
+39,047,58,000,SS,"Other Flows - Same State",92,155,2465
+39,047,59,000,DS,"Other Flows - Diff State",157,324,4293
+39,047,59,001,DS,"Other Flows - Northeast",12,17,254
+39,047,59,003,DS,"Other Flows - Midwest",32,63,705
+39,047,59,005,DS,"Other Flows - South",97,211,2983
+39,047,59,007,DS,"Other Flows - West",16,33,351
+39,049,96,000,OH,"Franklin County Tot Mig-US & For",28860,51029,1345116
+39,049,97,000,OH,"Franklin County Tot Mig-US",28561,50591,1337453
+39,049,97,001,OH,"Franklin County Tot Mig-Same St",16478,30098,753575
+39,049,97,003,OH,"Franklin County Tot Mig-Diff St",12083,20493,583879
+39,049,98,000,OH,"Franklin County Tot Mig-Foreign",299,438,7663
+39,049,39,049,OH,"Franklin County Non-Migrants",397683,777501,19067554
+39,049,39,041,OH,"Delaware County",5237,9783,335290
+39,049,39,045,OH,"Fairfield County",2612,5102,105659
+39,049,39,089,OH,"Licking County",1209,2331,49817
+39,049,39,035,OH,"Cuyahoga County",609,891,24337
+39,049,39,097,OH,"Madison County",523,966,18370
+39,049,39,129,OH,"Pickaway County",493,1033,17035
+39,049,17,031,IL,"Cook County",428,542,20428
+39,049,39,061,OH,"Hamilton County",402,555,13283
+39,049,39,159,OH,"Union County",347,671,18642
+39,049,39,113,OH,"Montgomery County",305,498,10392
+39,049,39,083,OH,"Knox County",272,548,10409
+39,049,04,013,AZ,"Maricopa County",257,410,11491
+39,049,39,153,OH,"Summit County",239,378,10093
+39,049,06,037,CA,"Los Angeles County",230,341,9159
+39,049,42,003,PA,"Allegheny County",177,276,8764
+39,049,39,095,OH,"Lucas County",168,265,5187
+39,049,06,073,CA,"San Diego County",167,245,6876
+39,049,39,023,OH,"Clark County",167,307,6868
+39,049,39,117,OH,"Morrow County",153,301,6640
+39,049,18,097,IN,"Marion County",149,259,6739
+39,049,39,141,OH,"Ross County",145,260,4537
+39,049,06,085,CA,"Santa Clara County",144,234,9541
+39,049,39,139,OH,"Richland County",143,226,4555
+39,049,39,151,OH,"Stark County",141,238,4755
+39,049,36,061,NY,"New York County",137,168,6496
+39,049,39,119,OH,"Muskingum County",133,253,4003
+39,049,39,017,OH,"Butler County",131,216,4542
+39,049,39,057,OH,"Greene County",129,196,4801
+39,049,12,057,FL,"Hillsborough County",126,225,6592
+39,049,39,009,OH,"Athens County",126,187,3657
+39,049,12,103,FL,"Pinellas County",122,187,4657
+39,049,39,101,OH,"Marion County",122,238,3891
+39,049,12,071,FL,"Lee County",117,186,6040
+39,049,53,033,WA,"King County",116,156,5795
+39,049,26,163,MI,"Wayne County",113,206,4911
+39,049,12,011,FL,"Broward County",112,181,7319
+39,049,26,125,MI,"Oakland County",112,183,5878
+39,049,39,073,OH,"Hocking County",111,194,4066
+39,049,37,119,NC,"Mecklenburg County",107,177,8787
+39,049,39,099,OH,"Mahoning County",107,173,2212
+39,049,32,003,NV,"Clark County",106,173,4788
+39,049,39,093,OH,"Lorain County",104,192,3425
+39,049,48,113,TX,"Dallas County",104,171,4934
+39,049,48,201,TX,"Harris County",104,167,4985
+39,049,51,059,VA,"Fairfax County",101,169,6869
+39,049,06,001,CA,"Alameda County",98,162,6105
+39,049,06,059,CA,"Orange County",97,145,4962
+39,049,13,121,GA,"Fulton County",95,141,5695
+39,049,39,025,OH,"Clermont County",95,178,4035
+39,049,39,145,OH,"Scioto County",94,179,1810
+39,049,39,165,OH,"Warren County",91,172,5040
+39,049,11,001,DC,"District Of Columbia",89,111,3383
+39,049,37,183,NC,"Wake County",89,155,4487
+39,049,25,017,MA,"Middlesex County",87,133,4702
+39,049,06,075,CA,"San Francisco County",86,97,3243
+39,049,12,099,FL,"Palm Beach County",86,144,5280
+39,049,08,031,CO,"Denver County",85,106,4529
+39,049,39,047,OH,"Fayette County",85,147,2693
+39,049,39,091,OH,"Logan County",85,139,3404
+39,049,12,095,FL,"Orange County",81,135,2667
+39,049,39,021,OH,"Champaign County",81,157,3085
+39,049,39,003,OH,"Allen County",80,126,2217
+39,049,57,005,FR,"Foreign - APO/FPO ZIPs",79,125,2122
+39,049,13,089,GA,"De Kalb County",78,126,3629
+39,049,17,043,IL,"Du Page County",78,119,4624
+39,049,39,127,OH,"Perry County",76,155,2191
+39,049,21,111,KY,"Jefferson County",75,129,3330
+39,049,39,155,OH,"Trumbull County",75,125,2094
+39,049,13,067,GA,"Cobb County",73,144,3681
+39,049,39,013,OH,"Belmont County",73,133,1986
+39,049,12,031,FL,"Duval County",72,122,2434
+39,049,36,047,NY,"Kings County",72,87,1436
+39,049,48,085,TX,"Collin County",72,151,7057
+39,049,24,031,MD,"Montgomery County",71,120,2837
+39,049,27,053,MN,"Hennepin County",66,121,3562
+39,049,13,135,GA,"Gwinnett County",65,123,3012
+39,049,29,189,MO,"St Louis County",65,116,3626
+39,049,12,115,FL,"Sarasota County",64,106,2954
+39,049,48,453,TX,"Travis County",64,92,2645
+39,049,39,103,OH,"Medina County",62,115,4281
+39,049,39,085,OH,"Lake County",61,105,1752
+39,049,08,005,CO,"Arapahoe County",59,89,2515
+39,049,39,133,OH,"Portage County",59,96,1916
+39,049,26,161,MI,"Washtenaw County",58,88,2703
+39,049,39,059,OH,"Guernsey County",57,116,1647
+39,049,39,131,OH,"Pike County",57,112,1368
+39,049,39,173,OH,"Wood County",56,86,1987
+39,049,48,439,TX,"Tarrant County",56,104,2407
+39,049,04,019,AZ,"Pima County",55,97,2471
+39,049,12,025,FL,"Dade County",55,74,2664
+39,049,18,057,IN,"Hamilton County",55,126,3991
+39,049,39,033,OH,"Crawford County",55,98,1793
+39,049,39,169,OH,"Wayne County",55,96,1786
+39,049,47,037,TN,"Davidson County",55,82,2252
+39,049,12,021,FL,"Collier County",54,89,7671
+39,049,39,081,OH,"Jefferson County",53,83,1270
+39,049,12,009,FL,"Brevard County",52,85,1804
+39,049,39,043,OH,"Erie County",52,82,1920
+39,049,39,053,OH,"Gallia County",52,93,960
+39,049,39,079,OH,"Jackson County",50,110,1327
+39,049,39,167,OH,"Washington County",50,84,1947
+39,049,42,101,PA,"Philadelphia County",50,67,2168
+39,049,25,025,MA,"Suffolk County",49,60,1655
+39,049,39,087,OH,"Lawrence County",47,81,1201
+39,049,39,109,OH,"Miami County",47,82,1655
+39,049,21,067,KY,"Fayette County",44,55,1397
+39,049,47,157,TN,"Shelby County",44,64,1105
+39,049,48,029,TX,"Bexar County",43,65,1757
+39,049,06,081,CA,"San Mateo County",42,53,2440
+39,049,12,117,FL,"Seminole County",42,73,1631
+39,049,41,051,OR,"Multnomah County",42,53,1502
+39,049,09,001,CT,"Fairfield County",41,74,16205
+39,049,36,081,NY,"Queens County",41,67,1207
+39,049,39,031,OH,"Coshocton County",41,66,1268
+39,049,17,097,IL,"Lake County",40,79,2715
+39,049,06,013,CA,"Contra Costa County",39,57,2304
+39,049,08,041,CO,"El Paso County",39,59,1133
+39,049,12,081,FL,"Manatee County",39,66,1765
+39,049,39,063,OH,"Hancock County",39,59,1198
+39,049,37,063,NC,"Durham County",38,56,1600
+39,049,12,127,FL,"Volusia County",37,66,1406
+39,049,55,079,WI,"Milwaukee County",37,66,1674
+39,049,12,101,FL,"Pasco County",36,69,2251
+39,049,34,023,NJ,"Middlesex County",36,57,1455
+39,049,39,157,OH,"Tuscarawas County",35,54,982
+39,049,39,163,OH,"Vinton County",35,63,952
+39,049,51,510,VA,Alexandria,35,50,1665
+39,049,18,003,IN,"Allen County",34,62,2302
+39,049,24,033,MD,"Prince George's Coun",34,54,945
+39,049,39,065,OH,"Hardin County",34,53,818
+39,049,06,071,CA,"San Bernardino Count",33,55,784
+39,049,12,083,FL,"Marion County",33,54,878
+39,049,36,055,NY,"Monroe County",33,49,1125
+39,049,08,013,CO,"Boulder County",32,51,1728
+39,049,12,105,FL,"Polk County",32,53,1423
+39,049,24,005,MD,"Baltimore County",32,48,1567
+39,049,26,099,MI,"Macomb County",32,55,1315
+39,049,54,039,WV,"Kanawha County",32,56,865
+39,049,06,065,CA,"Riverside County",31,52,1242
+39,049,08,059,CO,"Jefferson County",31,55,1449
+39,049,35,001,NM,"Bernalillo County",31,54,1345
+39,049,39,005,OH,"Ashland County",31,48,992
+39,049,39,147,OH,"Seneca County",31,36,772
+39,049,48,121,TX,"Denton County",30,53,1519
+39,049,08,035,CO,"Douglas County",29,51,3612
+39,049,20,091,KS,"Johnson County",29,72,2309
+39,049,25,021,MA,"Norfolk County",29,49,2235
+39,049,39,027,OH,"Clinton County",29,65,917
+39,049,45,013,SC,"Beaufort County",29,50,2121
+39,049,15,003,HI,"Honolulu County",28,41,617
+39,049,37,133,NC,"Onslow County",28,42,478
+39,049,39,029,OH,"Columbiana County",28,45,847
+39,049,42,091,PA,"Montgomery County",28,58,1652
+39,049,09,003,CT,"Hartford County",27,50,1876
+39,049,21,015,KY,"Boone County",27,66,1454
+39,049,39,115,OH,"Morgan County",27,51,501
+39,049,55,025,WI,"Dane County",27,45,1093
+39,049,09,009,CT,"New Haven County",26,48,1228
+39,049,12,001,FL,"Alachua County",26,43,1130
+39,049,21,117,KY,"Kenton County",26,42,1043
+39,049,26,081,MI,"Kent County",26,47,1018
+39,049,36,103,NY,"Suffolk County",26,35,1083
+39,049,36,119,NY,"Westchester County",26,33,1404
+39,049,39,123,OH,"Ottawa County",26,44,980
+39,049,45,019,SC,"Charleston County",26,38,1386
+39,049,49,035,UT,"Salt Lake County",26,44,1001
+39,049,08,001,CO,"Adams County",25,45,1342
+39,049,12,033,FL,"Escambia County",25,38,666
+39,049,24,510,MD,Baltimore,25,42,843
+39,049,34,003,NJ,"Bergen County",25,45,2032
+39,049,51,013,VA,"Arlington County",25,32,1174
+39,049,13,063,GA,"Clayton County",24,43,585
+39,049,36,005,NY,"Bronx County",24,47,431
+39,049,37,081,NC,"Guilford County",24,46,1104
+39,049,37,129,NC,"New Hanover County",24,40,1470
+39,049,39,071,OH,"Highland County",24,44,1427
+39,049,39,105,OH,"Meigs County",24,45,526
+39,049,51,153,VA,"Prince William Count",24,52,1643
+39,049,54,107,WV,"Wood County",24,44,452
+39,049,24,003,MD,"Anne Arundel County",23,50,1371
+39,049,36,029,NY,"Erie County",23,37,928
+39,049,39,007,OH,"Ashtabula County",23,37,597
+39,049,39,143,OH,"Sandusky County",23,36,893
+39,049,54,011,WV,"Cabell County",23,43,649
+39,049,29,095,MO,"Jackson County",22,40,657
+39,049,37,051,NC,"Cumberland County",22,41,484
+39,049,37,067,NC,"Forsyth County",22,36,984
+39,049,45,079,SC,"Richland County",22,49,790
+39,049,54,069,WV,"Ohio County",22,34,354
+39,049,01,073,AL,"Jefferson County",21,36,1031
+39,049,10,003,DE,"New Castle County",21,35,930
+39,049,12,069,FL,"Lake County",21,36,1079
+39,049,12,073,FL,"Leon County",21,32,856
+39,049,27,037,MN,"Dakota County",21,50,1467
+39,049,39,055,OH,"Geauga County",21,25,701
+39,049,45,051,SC,"Horry County",21,35,959
+39,049,47,093,TN,"Knox County",21,32,689
+39,049,54,059,WV,"Mingo County",21,47,387
+39,049,06,067,CA,"Sacramento County",20,29,806
+39,049,17,089,IL,"Kane County",20,42,1729
+39,049,18,089,IN,"Lake County",20,45,767
+39,049,39,011,OH,"Auglaize County",20,31,650
+39,049,42,125,PA,"Washington County",20,35,834
+39,049,51,810,VA,"Virginia Beach",20,29,629
+39,049,54,053,WV,"Mason County",20,36,466
+39,049,12,015,FL,"Charlotte County",19,28,957
+39,049,13,057,GA,"Cherokee County",19,39,1532
+39,049,17,197,IL,"Will County",19,36,1026
+39,049,25,027,MA,"Worcester County",19,33,1205
+39,049,29,510,MO,"St Louis",19,25,875
+39,049,42,129,PA,"Westmoreland County",19,42,830
+39,049,53,053,WA,"Pierce County",19,40,888
+39,049,54,099,WV,"Wayne County",19,40,330
+39,049,06,111,CA,"Ventura County",18,29,1019
+39,049,18,141,IN,"St Joseph County",18,37,885
+39,049,22,071,LA,"Orleans Parish",18,22,392
+39,049,26,065,MI,"Ingham County",18,22,575
+39,049,34,017,NJ,"Hudson County",18,19,685
+39,049,34,027,NJ,"Morris County",18,28,1403
+39,049,37,135,NC,"Orange County",18,33,997
+39,049,39,077,OH,"Huron County",18,32,456
+39,049,39,149,OH,"Shelby County",18,27,631
+39,049,41,067,OR,"Washington County",18,44,1295
+39,049,42,043,PA,"Dauphin County",18,36,660
+39,049,45,045,SC,"Greenville County",18,26,742
+39,049,48,027,TX,"Bell County",18,36,295
+39,049,51,087,VA,"Henrico County",18,27,841
+39,049,51,107,VA,"Loudoun County",18,30,1067
+39,049,06,053,CA,"Monterey County",17,28,422
+39,049,17,019,IL,"Champaign County",17,28,378
+39,049,23,005,ME,"Cumberland County",17,35,436
+39,049,25,009,MA,"Essex County",17,27,851
+39,049,33,011,NH,"Hillsborough County",17,29,1163
+39,049,36,071,NY,"Orange County",17,30,485
+39,049,39,137,OH,"Putnam County",17,24,459
+39,049,42,019,PA,"Butler County",17,39,983
+39,049,42,049,PA,"Erie County",17,28,805
+39,049,53,061,WA,"Snohomish County",17,28,583
+39,049,12,097,FL,"Osceola County",16,20,700
+39,049,12,111,FL,"St Lucie County",16,34,960
+39,049,21,089,KY,"Greenup County",16,33,507
+39,049,26,049,MI,"Genesee County",16,30,377
+39,049,26,077,MI,"Kalamazoo County",16,26,704
+39,049,39,039,OH,"Defiance County",16,22,861
+39,049,39,111,OH,"Monroe County",16,20,446
+39,049,48,491,TX,"Williamson County",16,31,1193
+39,049,06,083,CA,"Santa Barbara County",15,26,512
+39,049,21,019,KY,"Boyd County",15,30,371
+39,049,21,159,KY,"Martin County",15,43,174
+39,049,36,001,NY,"Albany County",15,24,564
+39,049,39,001,OH,"Adams County",15,27,424
+39,049,40,109,OK,"Oklahoma County",15,27,671
+39,049,42,011,PA,"Berks County",15,31,746
+39,049,42,017,PA,"Bucks County",15,32,1123
+39,049,42,071,PA,"Lancaster County",15,26,632
+39,049,44,007,RI,"Providence County",15,23,662
+39,049,47,187,TN,"Williamson County",15,35,1187
+39,049,48,141,TX,"El Paso County",15,24,876
+39,049,51,041,VA,"Chesterfield County",15,25,840
+39,049,08,069,CO,"Larimer County",14,25,483
+39,049,21,127,KY,"Lawrence County",14,37,380
+39,049,24,027,MD,"Howard County",14,24,979
+39,049,34,005,NJ,"Burlington County",14,20,435
+39,049,34,007,NJ,"Camden County",14,26,358
+39,049,34,021,NJ,"Mercer County",14,27,1058
+39,049,36,067,NY,"Onondaga County",14,21,475
+39,049,37,021,NC,"Buncombe County",14,28,470
+39,049,39,107,OH,"Mercer County",14,23,421
+39,049,40,143,OK,"Tulsa County",14,18,355
+39,049,41,005,OR,"Clackamas County",14,22,706
+39,049,45,015,SC,"Berkeley County",14,28,300
+39,049,48,157,TX,"Fort Bend County",14,34,768
+39,049,01,089,AL,"Madison County",13,33,616
+39,049,01,097,AL,"Mobile County",13,22,615
+39,049,12,053,FL,"Hernando County",13,24,445
+39,049,13,051,GA,"Chatham County",13,18,322
+39,049,34,013,NJ,"Essex County",13,23,822
+39,049,36,059,NY,"Nassau County",13,19,368
+39,049,45,091,SC,"York County",13,29,866
+39,049,51,710,VA,Norfolk,13,31,291
+39,049,55,133,WI,"Waukesha County",13,27,771
+39,049,02,020,AK,"Anchorage Borough",12,22,545
+39,049,18,105,IN,"Monroe County",12,17,388
+39,049,18,157,IN,"Tippecanoe County",12,22,490
+39,049,21,037,KY,"Campbell County",12,25,442
+39,049,21,047,KY,"Christian County",12,30,473
+39,049,27,123,MN,"Ramsey County",12,22,647
+39,049,37,025,NC,"Cabarrus County",12,35,894
+39,049,42,007,PA,"Beaver County",12,17,351
+39,049,42,027,PA,"Centre County",12,15,435
+39,049,42,029,PA,"Chester County",12,20,571
+39,049,42,045,PA,"Delaware County",12,15,775
+39,049,42,085,PA,"Mercer County",12,24,278
+39,049,47,125,TN,"Montgomery County",12,22,431
+39,049,53,035,WA,"Kitsap County",12,28,455
+39,049,12,091,FL,"Okaloosa County",11,25,589
+39,049,12,113,FL,"Santa Rosa County",11,28,648
+39,049,13,117,GA,"Forsyth County",11,32,1372
+39,049,24,025,MD,"Harford County",11,14,591
+39,049,36,027,NY,"Dutchess County",11,18,619
+39,049,39,135,OH,"Preble County",11,17,285
+39,049,39,175,OH,"Wyandot County",11,16,379
+39,049,51,700,VA,"Newport News",11,23,335
+39,049,01,101,AL,"Montgomery County",10,19,458
+39,049,05,119,AR,"Pulaski County",10,25,554
+39,049,06,097,CA,"Sonoma County",10,11,487
+39,049,12,017,FL,"Citrus County",10,20,626
+39,049,12,019,FL,"Clay County",10,21,408
+39,049,12,087,FL,"Monroe County",10,11,1280
+39,049,18,081,IN,"Johnson County",10,18,486
+39,049,18,163,IN,"Vanderburgh County",10,23,667
+39,049,19,153,IA,"Polk County",10,17,729
+39,049,20,173,KS,"Sedgwick County",10,17,265
+39,049,26,025,MI,"Calhoun County",10,22,426
+39,049,32,031,NV,"Washoe County",10,21,585
+39,049,34,035,NJ,"Somerset County",10,21,779
+39,049,39,037,OH,"Darke County",10,13,365
+39,049,39,051,OH,"Fulton County",10,22,405
+39,049,42,041,PA,"Cumberland County",10,28,714
+39,049,45,083,SC,"Spartanburg County",10,21,484
+39,049,47,155,TN,"Sevier County",10,22,284
+39,049,49,049,UT,"Utah County",10,14,119
+39,049,51,161,VA,"Roanoke County",10,21,659
+39,049,53,063,WA,"Spokane County",10,15,550
+39,049,54,019,WV,"Fayette County",10,17,199
+39,049,54,045,WV,"Logan County",10,23,151
+39,049,54,079,WV,"Putnam County",10,14,332
+39,049,58,000,SS,"Other Flows - Same State",55,101,1591
+39,049,59,000,DS,"Other Flows - Diff State",2704,5059,117757
+39,049,59,001,DS,"Other Flows - Northeast",406,712,16856
+39,049,59,003,DS,"Other Flows - Midwest",693,1336,32964
+39,049,59,005,DS,"Other Flows - South",1261,2401,51320
+39,049,59,007,DS,"Other Flows - West",344,610,16617
+39,049,57,009,FR,"Foreign - Other flows",220,313,5540
+39,051,96,000,OH,"Fulton County Tot Mig-US & For",1115,1980,35395
+39,051,97,000,OH,"Fulton County Tot Mig-US",1115,1980,35395
+39,051,97,001,OH,"Fulton County Tot Mig-Same St",793,1350,23640
+39,051,97,003,OH,"Fulton County Tot Mig-Diff St",322,630,11755
+39,051,39,051,OH,"Fulton County Non-Migrants",16591,37289,740744
+39,051,39,095,OH,"Lucas County",374,617,11639
+39,051,39,069,OH,"Henry County",117,215,3034
+39,051,39,171,OH,"Williams County",98,182,2813
+39,051,39,173,OH,"Wood County",51,91,1393
+39,051,39,039,OH,"Defiance County",43,67,1150
+39,051,26,091,MI,"Lenawee County",28,55,1090
+39,051,39,049,OH,"Franklin County",25,32,799
+39,051,26,115,MI,"Monroe County",14,30,627
+39,051,58,000,SS,"Other Flows - Same State",85,146,2811
+39,051,59,000,DS,"Other Flows - Diff State",280,545,10039
+39,051,59,001,DS,"Other Flows - Northeast",16,34,793
+39,051,59,003,DS,"Other Flows - Midwest",112,221,3812
+39,051,59,005,DS,"Other Flows - South",116,225,3600
+39,051,59,007,DS,"Other Flows - West",36,65,1833
+39,053,96,000,OH,"Gallia County Tot Mig-US & For",652,1297,19982
+39,053,97,000,OH,"Gallia County Tot Mig-US",652,1297,19982
+39,053,97,001,OH,"Gallia County Tot Mig-Same St",407,816,9494
+39,053,97,003,OH,"Gallia County Tot Mig-Diff St",245,481,10488
+39,053,39,053,OH,"Gallia County Non-Migrants",11164,24897,414666
+39,053,39,049,OH,"Franklin County",74,133,1935
+39,053,39,079,OH,"Jackson County",66,153,1596
+39,053,54,053,WV,"Mason County",53,108,1015
+39,053,39,087,OH,"Lawrence County",49,104,1014
+39,053,39,105,OH,"Meigs County",43,90,779
+39,053,39,163,OH,"Vinton County",15,36,343
+39,053,39,045,OH,"Fairfield County",13,23,310
+39,053,39,061,OH,"Hamilton County",11,21,274
+39,053,39,145,OH,"Scioto County",11,16,226
+39,053,39,041,OH,"Delaware County",10,21,350
+39,053,58,000,SS,"Other Flows - Same State",115,219,2667
+39,053,59,000,DS,"Other Flows - Diff State",192,373,9473
+39,053,59,001,DS,"Other Flows - Northeast",11,23,391
+39,053,59,003,DS,"Other Flows - Midwest",25,49,818
+39,053,59,005,DS,"Other Flows - South",140,279,7774
+39,053,59,007,DS,"Other Flows - West",16,22,490
+39,055,96,000,OH,"Geauga County Tot Mig-US & For",2320,4105,139461
+39,055,97,000,OH,"Geauga County Tot Mig-US",2309,4079,138887
+39,055,97,001,OH,"Geauga County Tot Mig-Same St",1634,2803,75325
+39,055,97,003,OH,"Geauga County Tot Mig-Diff St",675,1276,63562
+39,055,98,000,OH,"Geauga County Tot Mig-Foreign",11,26,575
+39,055,39,055,OH,"Geauga County Non-Migrants",33562,77816,2284797
+39,055,39,035,OH,"Cuyahoga County",499,825,29630
+39,055,39,085,OH,"Lake County",380,627,15565
+39,055,39,133,OH,"Portage County",201,370,8215
+39,055,39,007,OH,"Ashtabula County",154,325,5305
+39,055,39,153,OH,"Summit County",104,176,4947
+39,055,39,155,OH,"Trumbull County",87,180,3662
+39,055,39,049,OH,"Franklin County",66,73,2047
+39,055,17,031,IL,"Cook County",25,31,1109
+39,055,04,013,AZ,"Maricopa County",16,23,402
+39,055,12,071,FL,"Lee County",16,33,1167
+39,055,12,103,FL,"Pinellas County",16,24,774
+39,055,39,151,OH,"Stark County",13,20,761
+39,055,36,061,NY,"New York County",12,12,518
+39,055,39,095,OH,"Lucas County",12,14,495
+39,055,06,037,CA,"Los Angeles County",11,13,868
+39,055,12,021,FL,"Collier County",11,23,6953
+39,055,39,103,OH,"Medina County",11,19,513
+39,055,58,000,SS,"Other Flows - Same State",107,174,4184
+39,055,59,000,DS,"Other Flows - Diff State",568,1117,51771
+39,055,59,001,DS,"Other Flows - Northeast",116,223,12137
+39,055,59,003,DS,"Other Flows - Midwest",96,220,8388
+39,055,59,005,DS,"Other Flows - South",251,470,20306
+39,055,59,007,DS,"Other Flows - West",105,204,10939
+39,055,57,009,FR,"Foreign - Other flows",11,26,575
+39,057,96,000,OH,"Greene County Tot Mig-US & For",5754,10476,236637
+39,057,97,000,OH,"Greene County Tot Mig-US",5632,10220,231896
+39,057,97,001,OH,"Greene County Tot Mig-Same St",3592,6068,124349
+39,057,97,003,OH,"Greene County Tot Mig-Diff St",2040,4152,107546
+39,057,98,000,OH,"Greene County Tot Mig-Foreign",122,256,4741
+39,057,39,057,OH,"Greene County Non-Migrants",53098,114329,2909550
+39,057,39,113,OH,"Montgomery County",2212,3669,75078
+39,057,39,023,OH,"Clark County",316,567,9964
+39,057,39,049,OH,"Franklin County",208,297,5996
+39,057,39,165,OH,"Warren County",117,237,6385
+39,057,57,005,FR,"Foreign - APO/FPO ZIPs",109,230,4235
+39,057,39,061,OH,"Hamilton County",100,120,2989
+39,057,39,027,OH,"Clinton County",89,173,2775
+39,057,39,109,OH,"Miami County",78,159,3016
+39,057,39,017,OH,"Butler County",59,109,2832
+39,057,17,031,IL,"Cook County",44,60,1155
+39,057,48,029,TX,"Bexar County",41,113,2190
+39,057,39,071,OH,"Highland County",35,67,769
+39,057,08,041,CO,"El Paso County",34,87,1500
+39,057,39,035,OH,"Cuyahoga County",33,55,834
+39,057,06,037,CA,"Los Angeles County",30,55,1698
+39,057,12,091,FL,"Okaloosa County",30,73,2126
+39,057,51,059,VA,"Fairfax County",30,68,2332
+39,057,04,013,AZ,"Maricopa County",29,51,1535
+39,057,26,125,MI,"Oakland County",26,41,1798
+39,057,39,041,OH,"Delaware County",26,48,1599
+39,057,12,009,FL,"Brevard County",23,50,1126
+39,057,06,073,CA,"San Diego County",21,32,1020
+39,057,26,163,MI,"Wayne County",21,32,561
+39,057,39,021,OH,"Champaign County",21,32,722
+39,057,39,047,OH,"Fayette County",21,37,514
+39,057,12,103,FL,"Pinellas County",20,33,1096
+39,057,18,097,IN,"Marion County",20,36,861
+39,057,35,001,NM,"Bernalillo County",20,50,709
+39,057,06,085,CA,"Santa Clara County",19,25,793
+39,057,39,095,OH,"Lucas County",19,32,771
+39,057,21,111,KY,"Jefferson County",17,36,1090
+39,057,39,151,OH,"Stark County",17,36,455
+39,057,12,095,FL,"Orange County",16,37,523
+39,057,13,153,GA,"Houston County",16,38,844
+39,057,12,071,FL,"Lee County",15,31,993
+39,057,39,045,OH,"Fairfield County",15,31,743
+39,057,39,135,OH,"Preble County",15,25,435
+39,057,04,019,AZ,"Pima County",14,32,819
+39,057,15,003,HI,"Honolulu County",14,44,474
+39,057,28,047,MS,"Harrison County",14,35,629
+39,057,32,003,NV,"Clark County",14,22,702
+39,057,39,025,OH,"Clermont County",14,25,519
+39,057,01,101,AL,"Montgomery County",13,43,1029
+39,057,06,029,CA,"Kern County",13,35,1118
+39,057,12,031,FL,"Duval County",13,20,444
+39,057,12,115,FL,"Sarasota County",13,18,756
+39,057,17,163,IL,"St Clair County",13,36,701
+39,057,39,153,OH,"Summit County",13,28,704
+39,057,42,003,PA,"Allegheny County",13,27,369
+39,057,51,153,VA,"Prince William Count",13,42,1185
+39,057,53,053,WA,"Pierce County",13,31,886
+39,057,12,011,FL,"Broward County",12,28,978
+39,057,06,001,CA,"Alameda County",11,15,241
+39,057,13,067,GA,"Cobb County",11,20,728
+39,057,13,089,GA,"De Kalb County",11,14,484
+39,057,25,017,MA,"Middlesex County",11,30,1637
+39,057,31,153,NE,"Sarpy County",11,40,764
+39,057,45,045,SC,"Greenville County",11,31,700
+39,057,48,453,TX,"Travis County",11,15,551
+39,057,12,069,FL,"Lake County",10,18,335
+39,057,37,119,NC,"Mecklenburg County",10,19,681
+39,057,39,003,OH,"Allen County",10,16,412
+39,057,47,157,TN,"Shelby County",10,16,412
+39,057,51,013,VA,"Arlington County",10,14,639
+39,057,58,000,SS,"Other Flows - Same State",174,305,6837
+39,057,59,000,DS,"Other Flows - Diff State",1279,2559,66332
+39,057,59,001,DS,"Other Flows - Northeast",152,294,7975
+39,057,59,003,DS,"Other Flows - Midwest",250,490,14671
+39,057,59,005,DS,"Other Flows - South",650,1365,31367
+39,057,59,007,DS,"Other Flows - West",227,410,12320
+39,057,57,009,FR,"Foreign - Other flows",13,26,506
+39,059,96,000,OH,"Guernsey County Tot Mig-US & For",839,1533,23105
+39,059,97,000,OH,"Guernsey County Tot Mig-US",839,1533,23105
+39,059,97,001,OH,"Guernsey County Tot Mig-Same St",617,1132,16894
+39,059,97,003,OH,"Guernsey County Tot Mig-Diff St",222,401,6210
+39,059,39,059,OH,"Guernsey County Non-Migrants",15639,34132,518218
+39,059,39,119,OH,"Muskingum County",120,219,4692
+39,059,39,049,OH,"Franklin County",90,122,2010
+39,059,39,031,OH,"Coshocton County",46,93,1170
+39,059,39,157,OH,"Tuscarawas County",42,87,918
+39,059,39,013,OH,"Belmont County",34,63,599
+39,059,39,121,OH,"Noble County",34,76,918
+39,059,39,151,OH,"Stark County",29,61,718
+39,059,39,089,OH,"Licking County",21,42,572
+39,059,39,153,OH,"Summit County",21,40,378
+39,059,39,035,OH,"Cuyahoga County",18,27,514
+39,059,39,045,OH,"Fairfield County",13,26,294
+39,059,39,041,OH,"Delaware County",11,19,222
+39,059,58,000,SS,"Other Flows - Same State",138,257,3889
+39,059,59,000,DS,"Other Flows - Diff State",222,401,6210
+39,059,59,001,DS,"Other Flows - Northeast",24,50,1351
+39,059,59,003,DS,"Other Flows - Midwest",40,74,901
+39,059,59,005,DS,"Other Flows - South",132,242,3321
+39,059,59,007,DS,"Other Flows - West",26,35,637
+39,061,96,000,OH,"Hamilton County Tot Mig-US & For",19502,33940,966476
+39,061,97,000,OH,"Hamilton County Tot Mig-US",19264,33508,952499
+39,061,97,001,OH,"Hamilton County Tot Mig-Same St",9174,16532,409954
+39,061,97,003,OH,"Hamilton County Tot Mig-Diff St",10090,16976,542545
+39,061,98,000,OH,"Hamilton County Tot Mig-Foreign",238,432,13977
+39,061,39,061,OH,"Hamilton County Non-Migrants",312202,627226,16920175
+39,061,39,017,OH,"Butler County",3368,6249,142790
+39,061,39,025,OH,"Clermont County",2540,4691,115142
+39,061,39,165,OH,"Warren County",1228,2387,72856
+39,061,21,117,KY,"Kenton County",817,1339,30627
+39,061,21,037,KY,"Campbell County",500,802,18144
+39,061,39,049,OH,"Franklin County",487,701,19869
+39,061,18,029,IN,"Dearborn County",464,997,20350
+39,061,17,031,IL,"Cook County",358,456,16848
+39,061,21,015,KY,"Boone County",340,600,14204
+39,061,39,113,OH,"Montgomery County",311,461,10918
+39,061,39,035,OH,"Cuyahoga County",188,284,7789
+39,061,57,001,FR,"Foreign - Overseas",160,321,12243
+39,061,18,097,IN,"Marion County",154,248,6065
+39,061,06,037,CA,"Los Angeles County",134,209,6201
+39,061,21,111,KY,"Jefferson County",132,210,4761
+39,061,39,015,OH,"Brown County",129,241,5656
+39,061,04,013,AZ,"Maricopa County",119,179,4686
+39,061,36,061,NY,"New York County",96,126,6415
+39,061,06,073,CA,"San Diego County",91,118,4201
+39,061,21,067,KY,"Fayette County",88,141,4827
+39,061,12,071,FL,"Lee County",86,143,15546
+39,061,39,057,OH,"Greene County",85,120,2479
+39,061,13,121,GA,"Fulton County",84,132,4804
+39,061,42,003,PA,"Allegheny County",84,135,5394
+39,061,06,085,CA,"Santa Clara County",83,105,4027
+39,061,26,125,MI,"Oakland County",83,133,5119
+39,061,53,033,WA,"King County",82,139,9458
+39,061,12,103,FL,"Pinellas County",76,128,4343
+39,061,13,089,GA,"De Kalb County",73,129,2518
+39,061,18,047,IN,"Franklin County",72,165,2801
+39,061,39,095,OH,"Lucas County",72,116,2595
+39,061,06,075,CA,"San Francisco County",68,74,3780
+39,061,57,005,FR,"Foreign - APO/FPO ZIPs",68,94,1256
+39,061,47,037,TN,"Davidson County",67,98,2281
+39,061,39,027,OH,"Clinton County",64,129,2274
+39,061,48,453,TX,"Travis County",64,125,4584
+39,061,12,115,FL,"Sarasota County",63,116,13465
+39,061,12,057,FL,"Hillsborough County",62,106,2692
+39,061,12,011,FL,"Broward County",61,100,2580
+39,061,29,189,MO,"St Louis County",60,93,3240
+39,061,36,047,NY,"Kings County",57,69,1707
+39,061,39,153,OH,"Summit County",57,88,2156
+39,061,48,201,TX,"Harris County",57,87,2677
+39,061,13,067,GA,"Cobb County",56,84,2691
+39,061,48,113,TX,"Dallas County",55,88,3232
+39,061,06,059,CA,"Orange County",53,74,4115
+39,061,08,031,CO,"Denver County",52,63,3211
+39,061,12,095,FL,"Orange County",51,88,2471
+39,061,26,163,MI,"Wayne County",51,99,3419
+39,061,11,001,DC,"District Of Columbia",50,63,2574
+39,061,17,043,IL,"Du Page County",50,80,3238
+39,061,25,025,MA,"Suffolk County",48,55,2078
+39,061,06,001,CA,"Alameda County",47,67,2432
+39,061,12,099,FL,"Palm Beach County",47,82,6655
+39,061,32,003,NV,"Clark County",47,81,2168
+39,061,37,119,NC,"Mecklenburg County",47,73,3053
+39,061,25,017,MA,"Middlesex County",45,64,3632
+39,061,37,183,NC,"Wake County",45,81,2563
+39,061,39,041,OH,"Delaware County",44,92,3113
+39,061,12,021,FL,"Collier County",42,65,8675
+39,061,12,031,FL,"Duval County",42,74,2569
+39,061,18,057,IN,"Hamilton County",42,93,3119
+39,061,27,053,MN,"Hennepin County",41,60,2341
+39,061,39,001,OH,"Adams County",41,65,1316
+39,061,42,101,PA,"Philadelphia County",40,51,1165
+39,061,13,135,GA,"Gwinnett County",39,73,1678
+39,061,26,161,MI,"Washtenaw County",39,56,1987
+39,061,39,071,OH,"Highland County",39,89,1340
+39,061,47,157,TN,"Shelby County",39,65,1881
+39,061,24,031,MD,"Montgomery County",37,62,1963
+39,061,04,019,AZ,"Pima County",35,52,1267
+39,061,09,001,CT,"Fairfield County",33,60,4687
+39,061,18,137,IN,"Ripley County",33,79,1136
+39,061,51,059,VA,"Fairfax County",33,44,1895
+39,061,45,019,SC,"Charleston County",31,44,2825
+39,061,21,199,KY,"Pulaski County",30,59,708
+39,061,12,081,FL,"Manatee County",29,47,2429
+39,061,12,025,FL,"Dade County",28,36,1102
+39,061,39,045,OH,"Fairfield County",28,47,1169
+39,061,20,091,KS,"Johnson County",27,61,3097
+39,061,36,081,NY,"Queens County",27,42,731
+39,061,44,007,RI,"Providence County",27,39,2236
+39,061,08,013,CO,"Boulder County",26,44,1836
+39,061,24,005,MD,"Baltimore County",26,55,2859
+39,061,34,017,NJ,"Hudson County",26,28,1216
+39,061,39,023,OH,"Clark County",26,41,687
+39,061,06,067,CA,"Sacramento County",25,41,957
+39,061,12,127,FL,"Volusia County",25,44,963
+39,061,39,003,OH,"Allen County",25,41,1233
+39,061,39,009,OH,"Athens County",25,27,522
+39,061,51,013,VA,"Arlington County",25,28,1202
+39,061,06,081,CA,"San Mateo County",24,35,1220
+39,061,12,117,FL,"Seminole County",24,43,1939
+39,061,18,115,IN,"Ohio County",24,45,679
+39,061,48,439,TX,"Tarrant County",24,33,1110
+39,061,01,073,AL,"Jefferson County",23,46,951
+39,061,08,059,CO,"Jefferson County",23,33,935
+39,061,25,021,MA,"Norfolk County",23,42,2640
+39,061,39,093,OH,"Lorain County",23,29,918
+39,061,41,051,OR,"Multnomah County",23,34,801
+39,061,45,045,SC,"Greenville County",23,35,1592
+39,061,48,029,TX,"Bexar County",23,41,2060
+39,061,12,009,FL,"Brevard County",22,32,1969
+39,061,24,510,MD,Baltimore,22,29,997
+39,061,26,081,MI,"Kent County",22,40,2460
+39,061,36,055,NY,"Monroe County",22,34,1070
+39,061,39,151,OH,"Stark County",22,30,768
+39,061,47,093,TN,"Knox County",22,31,1108
+39,061,55,025,WI,"Dane County",22,33,1067
+39,061,55,079,WI,"Milwaukee County",22,40,791
+39,061,08,005,CO,"Arapahoe County",21,34,1399
+39,061,12,101,FL,"Pasco County",21,31,765
+39,061,17,097,IL,"Lake County",21,39,1612
+39,061,18,155,IN,"Switzerland County",21,40,658
+39,061,21,081,KY,"Grant County",21,32,450
+39,061,29,510,MO,"St Louis",21,29,731
+39,061,39,085,OH,"Lake County",21,32,913
+39,061,48,085,TX,"Collin County",21,40,2172
+39,061,06,071,CA,"San Bernardino Count",20,35,616
+39,061,12,069,FL,"Lake County",20,36,815
+39,061,26,099,MI,"Macomb County",20,25,741
+39,061,37,051,NC,"Cumberland County",20,27,333
+39,061,39,109,OH,"Miami County",20,24,599
+39,061,42,091,PA,"Montgomery County",20,31,1195
+39,061,06,013,CA,"Contra Costa County",19,39,1792
+39,061,18,105,IN,"Monroe County",19,21,490
+39,061,21,191,KY,"Pendleton County",19,31,369
+39,061,39,099,OH,"Mahoning County",19,35,542
+39,061,45,013,SC,"Beaufort County",19,31,1477
+39,061,49,035,UT,"Salt Lake County",19,30,1014
+39,061,09,003,CT,"Hartford County",18,33,978
+39,061,37,081,NC,"Guilford County",18,33,847
+39,061,37,133,NC,"Onslow County",18,19,332
+39,061,39,103,OH,"Medina County",18,32,1277
+39,061,08,041,CO,"El Paso County",17,34,889
+39,061,48,121,TX,"Denton County",17,35,1131
+39,061,13,051,GA,"Chatham County",16,27,489
+39,061,13,063,GA,"Clayton County",16,27,342
+39,061,15,003,HI,"Honolulu County",16,22,417
+39,061,18,157,IN,"Tippecanoe County",16,21,524
+39,061,34,027,NJ,"Morris County",16,25,1483
+39,061,39,135,OH,"Preble County",16,29,562
+39,061,41,067,OR,"Washington County",16,28,1061
+39,061,18,003,IN,"Allen County",15,22,503
+39,061,18,077,IN,"Jefferson County",15,26,456
+39,061,24,003,MD,"Anne Arundel County",15,28,855
+39,061,36,029,NY,"Erie County",15,22,780
+39,061,39,063,OH,"Hancock County",15,22,759
+39,061,45,079,SC,"Richland County",15,34,914
+39,061,48,027,TX,"Bell County",15,25,455
+39,061,51,810,VA,"Virginia Beach",15,25,450
+39,061,12,083,FL,"Marion County",14,22,602
+39,061,12,105,FL,"Polk County",14,23,816
+39,061,22,071,LA,"Orleans Parish",14,21,748
+39,061,34,023,NJ,"Middlesex County",14,24,895
+39,061,39,141,OH,"Ross County",14,15,250
+39,061,39,173,OH,"Wood County",14,20,693
+39,061,47,065,TN,"Hamilton County",14,18,411
+39,061,08,035,CO,"Douglas County",13,30,1229
+39,061,08,069,CO,"Larimer County",13,22,737
+39,061,12,061,FL,"Indian River County",13,24,1617
+39,061,18,005,IN,"Bartholomew County",13,18,570
+39,061,18,163,IN,"Vanderburgh County",13,21,551
+39,061,21,023,KY,"Bracken County",13,28,837
+39,061,29,095,MO,"Jackson County",13,27,883
+39,061,33,011,NH,"Hillsborough County",13,28,931
+39,061,34,035,NJ,"Somerset County",13,30,1961
+39,061,35,001,NM,"Bernalillo County",13,18,652
+39,061,36,119,NY,"Westchester County",13,26,704
+39,061,37,063,NC,"Durham County",13,14,406
+39,061,39,089,OH,"Licking County",13,20,311
+39,061,53,053,WA,"Pierce County",13,27,533
+39,061,55,133,WI,"Waukesha County",13,38,2602
+39,061,12,085,FL,"Martin County",12,25,831
+39,061,18,177,IN,"Wayne County",12,23,519
+39,061,21,125,KY,"Laurel County",12,28,286
+39,061,21,151,KY,"Madison County",12,24,301
+39,061,21,187,KY,"Owen County",12,26,486
+39,061,26,065,MI,"Ingham County",12,16,476
+39,061,27,123,MN,"Ramsey County",12,12,428
+39,061,36,087,NY,"Rockland County",12,20,614
+39,061,42,029,PA,"Chester County",12,28,1354
+39,061,47,187,TN,"Williamson County",12,26,805
+39,061,06,053,CA,"Monterey County",11,14,283
+39,061,08,001,CO,"Adams County",11,16,531
+39,061,10,003,DE,"New Castle County",11,23,621
+39,061,12,015,FL,"Charlotte County",11,15,637
+39,061,12,109,FL,"St Johns County",11,30,1209
+39,061,18,141,IN,"St Joseph County",11,16,433
+39,061,21,047,KY,"Christian County",11,19,127
+39,061,21,093,KY,"Hardin County",11,17,244
+39,061,36,027,NY,"Dutchess County",11,19,792
+39,061,36,103,NY,"Suffolk County",11,13,387
+39,061,39,159,OH,"Union County",11,15,309
+39,061,40,109,OK,"Oklahoma County",11,20,206
+39,061,48,373,TX,"Polk County",11,22,525
+39,061,50,007,VT,"Chittenden County",11,19,754
+39,061,06,041,CA,"Marin County",10,13,823
+39,061,06,065,CA,"Riverside County",10,22,216
+39,061,09,009,CT,"New Haven County",10,16,740
+39,061,19,103,IA,"Johnson County",10,10,231
+39,061,21,003,KY,"Allen County",10,12,432
+39,061,21,077,KY,"Gallatin County",10,17,334
+39,061,21,161,KY,"Mason County",10,16,326
+39,061,24,027,MD,"Howard County",10,14,451
+39,061,24,033,MD,"Prince George's Coun",10,18,423
+39,061,34,003,NJ,"Bergen County",10,21,1064
+39,061,34,021,NJ,"Mercer County",10,16,1076
+39,061,37,067,NC,"Forsyth County",10,18,373
+39,061,37,135,NC,"Orange County",10,19,708
+39,061,39,149,OH,"Shelby County",10,13,366
+39,061,42,017,PA,"Bucks County",10,20,864
+39,061,42,027,PA,"Centre County",10,16,461
+39,061,47,155,TN,"Sevier County",10,16,302
+39,061,51,510,VA,Alexandria,10,14,640
+39,061,58,000,SS,"Other Flows - Same State",201,347,7783
+39,061,59,000,DS,"Other Flows - Diff State",2220,4059,117225
+39,061,59,001,DS,"Other Flows - Northeast",322,601,23524
+39,061,59,003,DS,"Other Flows - Midwest",523,971,25481
+39,061,59,005,DS,"Other Flows - South",1073,1970,49773
+39,061,59,007,DS,"Other Flows - West",302,517,18447
+39,061,57,009,FR,"Foreign - Other flows",10,17,477
+39,063,96,000,OH,"Hancock County Tot Mig-US & For",1797,3160,75792
+39,063,97,000,OH,"Hancock County Tot Mig-US",1785,3142,75514
+39,063,97,001,OH,"Hancock County Tot Mig-Same St",1114,1907,35222
+39,063,97,003,OH,"Hancock County Tot Mig-Diff St",671,1235,40292
+39,063,98,000,OH,"Hancock County Tot Mig-Foreign",12,18,279
+39,063,39,063,OH,"Hancock County Non-Migrants",28148,60087,1380837
+39,063,39,173,OH,"Wood County",194,363,6505
+39,063,39,147,OH,"Seneca County",136,230,3185
+39,063,39,049,OH,"Franklin County",93,111,2911
+39,063,39,095,OH,"Lucas County",88,156,2758
+39,063,39,003,OH,"Allen County",75,134,2996
+39,063,39,175,OH,"Wyandot County",70,137,1868
+39,063,39,065,OH,"Hardin County",64,122,1930
+39,063,39,137,OH,"Putnam County",43,73,1083
+39,063,39,035,OH,"Cuyahoga County",34,47,1233
+39,063,39,061,OH,"Hamilton County",24,27,593
+39,063,39,143,OH,"Sandusky County",24,39,535
+39,063,26,163,MI,"Wayne County",19,34,1381
+39,063,39,069,OH,"Henry County",17,33,394
+39,063,39,113,OH,"Montgomery County",17,25,486
+39,063,17,031,IL,"Cook County",16,18,477
+39,063,39,041,OH,"Delaware County",15,24,684
+39,063,26,125,MI,"Oakland County",13,22,775
+39,063,39,091,OH,"Logan County",13,25,390
+39,063,39,123,OH,"Ottawa County",13,18,579
+39,063,12,071,FL,"Lee County",12,19,1026
+39,063,39,017,OH,"Butler County",12,23,632
+39,063,04,013,AZ,"Maricopa County",10,15,399
+39,063,18,097,IN,"Marion County",10,17,359
+39,063,26,115,MI,"Monroe County",10,19,283
+39,063,26,161,MI,"Washtenaw County",10,16,498
+39,063,39,039,OH,"Defiance County",10,21,396
+39,063,48,201,TX,"Harris County",10,17,876
+39,063,58,000,SS,"Other Flows - Same State",172,299,6064
+39,063,59,000,DS,"Other Flows - Diff State",561,1058,34216
+39,063,59,001,DS,"Other Flows - Northeast",60,101,2908
+39,063,59,003,DS,"Other Flows - Midwest",135,278,7470
+39,063,59,005,DS,"Other Flows - South",278,523,20713
+39,063,59,007,DS,"Other Flows - West",88,156,3126
+39,063,57,009,FR,"Foreign - Other flows",12,18,279
+39,065,96,000,OH,"Hardin County Tot Mig-US & For",840,1582,27528
+39,065,97,000,OH,"Hardin County Tot Mig-US",840,1582,27528
+39,065,97,001,OH,"Hardin County Tot Mig-Same St",651,1208,21239
+39,065,97,003,OH,"Hardin County Tot Mig-Diff St",189,374,6289
+39,065,39,065,OH,"Hardin County Non-Migrants",11442,24385,429673
+39,065,39,091,OH,"Logan County",124,240,3725
+39,065,39,003,OH,"Allen County",123,226,3550
+39,065,39,063,OH,"Hancock County",86,166,2329
+39,065,39,049,OH,"Franklin County",66,101,2484
+39,065,39,175,OH,"Wyandot County",37,65,1031
+39,065,39,011,OH,"Auglaize County",25,54,851
+39,065,39,101,OH,"Marion County",25,47,598
+39,065,39,159,OH,"Union County",21,41,593
+39,065,39,173,OH,"Wood County",16,35,603
+39,065,39,113,OH,"Montgomery County",10,12,275
+39,065,58,000,SS,"Other Flows - Same State",118,221,5200
+39,065,59,000,DS,"Other Flows - Diff State",189,374,6289
+39,065,59,001,DS,"Other Flows - Northeast",23,42,888
+39,065,59,003,DS,"Other Flows - Midwest",55,106,1649
+39,065,59,005,DS,"Other Flows - South",82,171,2940
+39,065,59,007,DS,"Other Flows - West",29,55,812
+39,067,96,000,OH,"Harrison County Tot Mig-US & For",432,787,9973
+39,067,97,000,OH,"Harrison County Tot Mig-US",432,787,9973
+39,067,97,001,OH,"Harrison County Tot Mig-Same St",335,620,7916
+39,067,97,003,OH,"Harrison County Tot Mig-Diff St",97,167,2057
+39,067,39,067,OH,"Harrison County Non-Migrants",5946,12749,193418
+39,067,39,157,OH,"Tuscarawas County",109,208,2508
+39,067,39,081,OH,"Jefferson County",52,108,1666
+39,067,39,013,OH,"Belmont County",39,73,836
+39,067,39,019,OH,"Carroll County",35,56,721
+39,067,39,049,OH,"Franklin County",17,19,373
+39,067,39,151,OH,"Stark County",17,32,293
+39,067,39,153,OH,"Summit County",17,31,292
+39,067,58,000,SS,"Other Flows - Same State",49,93,1227
+39,067,59,000,DS,"Other Flows - Diff State",97,167,2057
+39,067,59,001,DS,"Other Flows - Northeast",12,22,220
+39,067,59,003,DS,"Other Flows - Midwest",17,33,350
+39,067,59,005,DS,"Other Flows - South",54,87,1164
+39,067,59,007,DS,"Other Flows - West",14,25,324
+39,069,96,000,OH,"Henry County Tot Mig-US & For",722,1331,21593
+39,069,97,000,OH,"Henry County Tot Mig-US",722,1331,21593
+39,069,97,001,OH,"Henry County Tot Mig-Same St",530,950,15402
+39,069,97,003,OH,"Henry County Tot Mig-Diff St",192,381,6191
+39,069,39,069,OH,"Henry County Non-Migrants",11449,24845,476674
+39,069,39,039,OH,"Defiance County",121,218,3316
+39,069,39,051,OH,"Fulton County",90,176,2432
+39,069,39,095,OH,"Lucas County",80,139,2943
+39,069,39,173,OH,"Wood County",69,110,2072
+39,069,39,137,OH,"Putnam County",31,57,982
+39,069,39,171,OH,"Williams County",26,48,724
+39,069,39,063,OH,"Hancock County",17,22,373
+39,069,39,049,OH,"Franklin County",16,24,430
+39,069,39,125,OH,"Paulding County",10,23,243
+39,069,58,000,SS,"Other Flows - Same State",70,133,1886
+39,069,59,000,DS,"Other Flows - Diff State",192,381,6191
+39,069,59,001,DS,"Other Flows - Northeast",11,24,362
+39,069,59,003,DS,"Other Flows - Midwest",72,134,2245
+39,069,59,005,DS,"Other Flows - South",90,190,2950
+39,069,59,007,DS,"Other Flows - West",19,33,634
+39,071,96,000,OH,"Highland County Tot Mig-US & For",966,1937,24829
+39,071,97,000,OH,"Highland County Tot Mig-US",966,1937,24829
+39,071,97,001,OH,"Highland County Tot Mig-Same St",802,1593,20279
+39,071,97,003,OH,"Highland County Tot Mig-Diff St",164,344,4549
+39,071,39,071,OH,"Highland County Non-Migrants",13078,28188,441548
+39,071,39,027,OH,"Clinton County",187,346,4178
+39,071,39,047,OH,"Fayette County",125,260,2983
+39,071,39,141,OH,"Ross County",77,166,2111
+39,071,39,001,OH,"Adams County",61,138,1673
+39,071,39,015,OH,"Brown County",52,115,1645
+39,071,39,049,OH,"Franklin County",48,69,1129
+39,071,39,025,OH,"Clermont County",44,81,1400
+39,071,39,113,OH,"Montgomery County",35,66,715
+39,071,39,061,OH,"Hamilton County",26,35,489
+39,071,39,131,OH,"Pike County",24,59,504
+39,071,39,017,OH,"Butler County",19,42,652
+39,071,39,165,OH,"Warren County",16,26,408
+39,071,39,057,OH,"Greene County",12,25,320
+39,071,58,000,SS,"Other Flows - Same State",76,165,2073
+39,071,59,000,DS,"Other Flows - Diff State",164,344,4549
+39,073,96,000,OH,"Hocking County Tot Mig-US & For",721,1392,19180
+39,073,97,000,OH,"Hocking County Tot Mig-US",721,1392,19180
+39,073,97,001,OH,"Hocking County Tot Mig-Same St",618,1197,16048
+39,073,97,003,OH,"Hocking County Tot Mig-Diff St",103,195,3132
+39,073,39,073,OH,"Hocking County Non-Migrants",9898,21559,338083
+39,073,39,045,OH,"Fairfield County",183,358,4796
+39,073,39,049,OH,"Franklin County",106,170,2523
+39,073,39,009,OH,"Athens County",92,189,2640
+39,073,39,129,OH,"Pickaway County",46,86,1276
+39,073,39,141,OH,"Ross County",34,63,778
+39,073,39,127,OH,"Perry County",31,74,698
+39,073,39,163,OH,"Vinton County",25,66,593
+39,073,39,089,OH,"Licking County",15,24,348
+39,073,39,079,OH,"Jackson County",12,28,305
+39,073,58,000,SS,"Other Flows - Same State",74,139,2091
+39,073,59,000,DS,"Other Flows - Diff State",103,195,3132
+39,075,96,000,OH,"Holmes County Tot Mig-US & For",547,1077,14992
+39,075,97,000,OH,"Holmes County Tot Mig-US",547,1077,14992
+39,075,97,001,OH,"Holmes County Tot Mig-Same St",416,799,11016
+39,075,97,003,OH,"Holmes County Tot Mig-Diff St",131,278,3976
+39,075,39,075,OH,"Holmes County Non-Migrants",11773,29329,437990
+39,075,39,169,OH,"Wayne County",154,300,4104
+39,075,39,031,OH,"Coshocton County",57,98,1278
+39,075,39,157,OH,"Tuscarawas County",55,111,1736
+39,075,39,005,OH,"Ashland County",35,68,854
+39,075,39,151,OH,"Stark County",27,51,801
+39,075,39,083,OH,"Knox County",23,62,510
+39,075,39,049,OH,"Franklin County",17,23,604
+39,075,58,000,SS,"Other Flows - Same State",48,86,1129
+39,075,59,000,DS,"Other Flows - Diff State",131,278,3976
+39,075,59,001,DS,"Other Flows - Northeast",14,38,474
+39,075,59,003,DS,"Other Flows - Midwest",24,61,524
+39,075,59,005,DS,"Other Flows - South",73,139,2318
+39,075,59,007,DS,"Other Flows - West",20,40,660
+39,077,96,000,OH,"Huron County Tot Mig-US & For",1664,3132,52412
+39,077,97,000,OH,"Huron County Tot Mig-US",1664,3132,52412
+39,077,97,001,OH,"Huron County Tot Mig-Same St",1203,2207,37605
+39,077,97,003,OH,"Huron County Tot Mig-Diff St",461,925,14806
+39,077,39,077,OH,"Huron County Non-Migrants",24909,54987,1032819
+39,077,39,043,OH,"Erie County",331,577,9850
+39,077,39,093,OH,"Lorain County",128,219,4807
+39,077,39,139,OH,"Richland County",113,228,3644
+39,077,39,143,OH,"Sandusky County",112,233,3402
+39,077,39,049,OH,"Franklin County",69,90,1876
+39,077,39,147,OH,"Seneca County",69,131,1859
+39,077,39,033,OH,"Crawford County",68,159,1996
+39,077,39,005,OH,"Ashland County",55,119,1861
+39,077,39,035,OH,"Cuyahoga County",44,72,1285
+39,077,39,095,OH,"Lucas County",26,40,737
+39,077,39,173,OH,"Wood County",21,26,441
+39,077,39,123,OH,"Ottawa County",19,33,780
+39,077,39,153,OH,"Summit County",18,29,567
+39,077,39,103,OH,"Medina County",11,17,427
+39,077,39,041,OH,"Delaware County",10,30,473
+39,077,58,000,SS,"Other Flows - Same State",109,204,3600
+39,077,59,000,DS,"Other Flows - Diff State",461,925,14806
+39,077,59,001,DS,"Other Flows - Northeast",34,66,844
+39,077,59,003,DS,"Other Flows - Midwest",102,192,4464
+39,077,59,005,DS,"Other Flows - South",264,566,8257
+39,077,59,007,DS,"Other Flows - West",61,101,1241
+39,079,96,000,OH,"Jackson County Tot Mig-US & For",689,1361,18982
+39,079,97,000,OH,"Jackson County Tot Mig-US",689,1361,18982
+39,079,97,001,OH,"Jackson County Tot Mig-Same St",504,979,13118
+39,079,97,003,OH,"Jackson County Tot Mig-Diff St",185,382,5864
+39,079,39,079,OH,"Jackson County Non-Migrants",11674,25577,407005
+39,079,39,131,OH,"Pike County",73,148,1791
+39,079,39,049,OH,"Franklin County",67,89,1437
+39,079,39,163,OH,"Vinton County",65,136,1341
+39,079,39,053,OH,"Gallia County",63,134,1308
+39,079,39,141,OH,"Ross County",46,101,1129
+39,079,39,009,OH,"Athens County",23,37,636
+39,079,39,145,OH,"Scioto County",23,46,600
+39,079,39,129,OH,"Pickaway County",19,45,782
+39,079,39,045,OH,"Fairfield County",15,28,511
+39,079,58,000,SS,"Other Flows - Same State",110,215,3583
+39,079,59,000,DS,"Other Flows - Diff State",185,382,5864
+39,079,59,001,DS,"Other Flows - Northeast",13,25,556
+39,079,59,003,DS,"Other Flows - Midwest",26,64,927
+39,079,59,005,DS,"Other Flows - South",120,244,3485
+39,079,59,007,DS,"Other Flows - West",26,49,895
+39,081,96,000,OH,"Jefferson Count Tot Mig-US & For",1288,2209,34829
+39,081,97,000,OH,"Jefferson Count Tot Mig-US",1278,2197,34753
+39,081,97,001,OH,"Jefferson Count Tot Mig-Same St",659,1131,18598
+39,081,97,003,OH,"Jefferson Count Tot Mig-Diff St",619,1066,16156
+39,081,98,000,OH,"Jefferson Count Tot Mig-Foreign",10,12,76
+39,081,39,081,OH,"Jefferson Count Non-Migrants",25552,53213,970782
+39,081,39,013,OH,"Belmont County",112,213,2795
+39,081,39,049,OH,"Franklin County",112,156,2974
+39,081,39,067,OH,"Harrison County",68,133,2145
+39,081,54,029,WV,"Hancock County",61,107,1374
+39,081,39,029,OH,"Columbiana County",58,106,1382
+39,081,54,009,WV,"Brooke County",55,98,1506
+39,081,42,003,PA,"Allegheny County",54,83,1390
+39,081,39,153,OH,"Summit County",43,54,957
+39,081,39,019,OH,"Carroll County",38,81,936
+39,081,39,035,OH,"Cuyahoga County",35,50,1029
+39,081,39,151,OH,"Stark County",24,45,898
+39,081,54,069,WV,"Ohio County",15,34,551
+39,081,39,099,OH,"Mahoning County",13,27,582
+39,081,39,041,OH,"Delaware County",12,18,491
+39,081,39,157,OH,"Tuscarawas County",11,18,260
+39,081,39,045,OH,"Fairfield County",10,15,268
+39,081,58,000,SS,"Other Flows - Same State",123,215,3880
+39,081,59,000,DS,"Other Flows - Diff State",434,744,11335
+39,081,59,001,DS,"Other Flows - Northeast",77,119,1804
+39,081,59,003,DS,"Other Flows - Midwest",68,121,1628
+39,081,59,005,DS,"Other Flows - South",226,406,5980
+39,081,59,007,DS,"Other Flows - West",63,98,1921
+39,081,57,009,FR,"Foreign - Other flows",10,12,76
+39,083,96,000,OH,"Knox County Tot Mig-US & For",1244,2259,40184
+39,083,97,000,OH,"Knox County Tot Mig-US",1230,2240,39906
+39,083,97,001,OH,"Knox County Tot Mig-Same St",874,1580,28463
+39,083,97,003,OH,"Knox County Tot Mig-Diff St",356,660,11443
+39,083,98,000,OH,"Knox County Tot Mig-Foreign",14,19,278
+39,083,39,083,OH,"Knox County Non-Migrants",20730,44959,843974
+39,083,39,049,OH,"Franklin County",220,333,6250
+39,083,39,089,OH,"Licking County",141,257,3985
+39,083,39,041,OH,"Delaware County",80,153,5530
+39,083,39,139,OH,"Richland County",69,104,1933
+39,083,39,117,OH,"Morrow County",67,113,1446
+39,083,39,031,OH,"Coshocton County",34,92,887
+39,083,39,101,OH,"Marion County",22,49,661
+39,083,39,005,OH,"Ashland County",18,41,639
+39,083,39,075,OH,"Holmes County",16,32,394
+39,083,39,045,OH,"Fairfield County",15,35,449
+39,083,39,119,OH,"Muskingum County",14,36,509
+39,083,17,031,IL,"Cook County",12,13,231
+39,083,39,033,OH,"Crawford County",11,18,205
+39,083,39,035,OH,"Cuyahoga County",11,18,346
+39,083,39,093,OH,"Lorain County",10,19,273
+39,083,58,000,SS,"Other Flows - Same State",146,280,4957
+39,083,59,000,DS,"Other Flows - Diff State",344,647,11212
+39,083,59,001,DS,"Other Flows - Northeast",26,39,697
+39,083,59,003,DS,"Other Flows - Midwest",49,87,1387
+39,083,59,005,DS,"Other Flows - South",202,402,7255
+39,083,59,007,DS,"Other Flows - West",67,119,1872
+39,083,57,009,FR,"Foreign - Other flows",14,19,278
+39,085,96,000,OH,"Lake County Tot Mig-US & For",4854,8203,265632
+39,085,97,000,OH,"Lake County Tot Mig-US",4820,8153,264357
+39,085,97,001,OH,"Lake County Tot Mig-Same St",3202,5230,122010
+39,085,97,003,OH,"Lake County Tot Mig-Diff St",1618,2923,142346
+39,085,98,000,OH,"Lake County Tot Mig-Foreign",34,50,1275
+39,085,39,085,OH,"Lake County Non-Migrants",92952,188833,4546813
+39,085,39,035,OH,"Cuyahoga County",1574,2323,53441
+39,085,39,055,OH,"Geauga County",412,821,21909
+39,085,39,007,OH,"Ashtabula County",392,757,12050
+39,085,39,153,OH,"Summit County",194,298,9606
+39,085,39,049,OH,"Franklin County",131,170,4495
+39,085,39,133,OH,"Portage County",100,164,3503
+39,085,39,093,OH,"Lorain County",56,98,2962
+39,085,12,103,FL,"Pinellas County",46,70,2316
+39,085,39,103,OH,"Medina County",43,88,2369
+39,085,04,013,AZ,"Maricopa County",42,75,1591
+39,085,12,071,FL,"Lee County",42,78,2781
+39,085,32,003,NV,"Clark County",36,64,1120
+39,085,17,031,IL,"Cook County",32,40,1173
+39,085,06,037,CA,"Los Angeles County",31,41,1837
+39,085,42,003,PA,"Allegheny County",31,43,1001
+39,085,39,095,OH,"Lucas County",29,35,674
+39,085,12,099,FL,"Palm Beach County",28,54,1995
+39,085,39,151,OH,"Stark County",28,44,1111
+39,085,42,049,PA,"Erie County",26,54,1172
+39,085,39,041,OH,"Delaware County",25,50,1458
+39,085,06,073,CA,"San Diego County",24,40,1116
+39,085,57,005,FR,"Foreign - APO/FPO ZIPs",22,22,333
+39,085,48,201,TX,"Harris County",20,33,1195
+39,085,39,061,OH,"Hamilton County",19,25,731
+39,085,39,155,OH,"Trumbull County",19,36,573
+39,085,12,021,FL,"Collier County",18,28,11673
+39,085,39,099,OH,"Mahoning County",18,32,770
+39,085,12,057,FL,"Hillsborough County",16,26,763
+39,085,26,125,MI,"Oakland County",15,21,700
+39,085,12,011,FL,"Broward County",14,31,856
+39,085,12,015,FL,"Charlotte County",14,25,890
+39,085,37,133,NC,"Onslow County",14,19,303
+39,085,39,173,OH,"Wood County",14,18,603
+39,085,12,115,FL,"Sarasota County",13,17,368
+39,085,39,113,OH,"Montgomery County",13,21,473
+39,085,39,169,OH,"Wayne County",13,36,811
+39,085,06,059,CA,"Orange County",12,31,962
+39,085,12,105,FL,"Polk County",12,26,553
+39,085,25,017,MA,"Middlesex County",12,18,580
+39,085,37,119,NC,"Mecklenburg County",12,30,621
+39,085,48,113,TX,"Dallas County",12,24,292
+39,085,36,055,NY,"Monroe County",11,20,385
+39,085,37,183,NC,"Wake County",11,21,580
+39,085,12,101,FL,"Pasco County",10,22,502
+39,085,24,031,MD,"Montgomery County",10,15,375
+39,085,26,163,MI,"Wayne County",10,21,509
+39,085,39,029,OH,"Columbiana County",10,23,513
+39,085,58,000,SS,"Other Flows - Same State",112,191,3959
+39,085,59,000,DS,"Other Flows - Diff State",1044,1936,104136
+39,085,59,001,DS,"Other Flows - Northeast",189,351,9553
+39,085,59,003,DS,"Other Flows - Midwest",172,338,8210
+39,085,59,005,DS,"Other Flows - South",523,971,24326
+39,085,59,007,DS,"Other Flows - West",160,276,62048
+39,085,57,009,FR,"Foreign - Other flows",12,28,942
+39,087,96,000,OH,"Lawrence County Tot Mig-US & For",1151,2292,31638
+39,087,97,000,OH,"Lawrence County Tot Mig-US",1151,2292,31638
+39,087,97,001,OH,"Lawrence County Tot Mig-Same St",354,716,9618
+39,087,97,003,OH,"Lawrence County Tot Mig-Diff St",797,1576,22020
+39,087,39,087,OH,"Lawrence County Non-Migrants",20585,45778,682711
+39,087,54,011,WV,"Cabell County",209,401,5073
+39,087,21,019,KY,"Boyd County",87,186,2128
+39,087,39,145,OH,"Scioto County",77,160,1816
+39,087,39,049,OH,"Franklin County",73,126,1970
+39,087,39,053,OH,"Gallia County",52,117,1182
+39,087,54,099,WV,"Wayne County",52,102,956
+39,087,21,089,KY,"Greenup County",50,109,1547
+39,087,54,039,WV,"Kanawha County",13,18,282
+39,087,21,067,KY,"Fayette County",12,20,244
+39,087,39,061,OH,"Hamilton County",10,14,258
+39,087,58,000,SS,"Other Flows - Same State",142,299,4391
+39,087,59,000,DS,"Other Flows - Diff State",374,740,11791
+39,087,59,001,DS,"Other Flows - Northeast",26,46,831
+39,087,59,003,DS,"Other Flows - Midwest",41,90,1080
+39,087,59,005,DS,"Other Flows - South",274,542,9015
+39,087,59,007,DS,"Other Flows - West",33,62,865
+39,089,96,000,OH,"Licking County Tot Mig-US & For",3312,5948,122264
+39,089,97,000,OH,"Licking County Tot Mig-US",3295,5917,121143
+39,089,97,001,OH,"Licking County Tot Mig-Same St",2485,4341,82020
+39,089,97,003,OH,"Licking County Tot Mig-Diff St",810,1576,39124
+39,089,98,000,OH,"Licking County Tot Mig-Foreign",17,31,1121
+39,089,39,089,OH,"Licking County Non-Migrants",53061,112284,2394573
+39,089,39,049,OH,"Franklin County",1047,1680,33070
+39,089,39,045,OH,"Fairfield County",299,537,10935
+39,089,39,119,OH,"Muskingum County",205,435,6196
+39,089,39,083,OH,"Knox County",185,366,6202
+39,089,39,041,OH,"Delaware County",122,224,5348
+39,089,39,031,OH,"Coshocton County",78,174,2334
+39,089,39,127,OH,"Perry County",74,146,2364
+39,089,39,035,OH,"Cuyahoga County",36,55,1293
+39,089,39,061,OH,"Hamilton County",30,39,784
+39,089,39,113,OH,"Montgomery County",25,36,781
+39,089,39,095,OH,"Lucas County",18,40,833
+39,089,39,151,OH,"Stark County",17,30,815
+39,089,39,115,OH,"Morgan County",16,28,381
+39,089,12,071,FL,"Lee County",15,33,529
+39,089,39,059,OH,"Guernsey County",14,23,469
+39,089,39,153,OH,"Summit County",14,23,511
+39,089,39,009,OH,"Athens County",13,20,227
+39,089,39,073,OH,"Hocking County",12,15,296
+39,089,17,031,IL,"Cook County",11,11,303
+39,089,39,057,OH,"Greene County",11,13,259
+39,089,39,129,OH,"Pickaway County",11,18,248
+39,089,39,017,OH,"Butler County",10,15,493
+39,089,39,117,OH,"Morrow County",10,17,200
+39,089,39,159,OH,"Union County",10,20,298
+39,089,58,000,SS,"Other Flows - Same State",228,387,7682
+39,089,59,000,DS,"Other Flows - Diff State",784,1532,38291
+39,089,59,001,DS,"Other Flows - Northeast",94,194,4670
+39,089,59,003,DS,"Other Flows - Midwest",123,253,6844
+39,089,59,005,DS,"Other Flows - South",433,868,22345
+39,089,59,007,DS,"Other Flows - West",134,217,4432
+39,089,57,009,FR,"Foreign - Other flows",17,31,1121
+39,091,96,000,OH,"Logan County Tot Mig-US & For",1120,2141,41226
+39,091,97,000,OH,"Logan County Tot Mig-US",1120,2141,41226
+39,091,97,001,OH,"Logan County Tot Mig-Same St",843,1585,25223
+39,091,97,003,OH,"Logan County Tot Mig-Diff St",277,556,16003
+39,091,39,091,OH,"Logan County Non-Migrants",16475,35194,687791
+39,091,39,021,OH,"Champaign County",160,328,5029
+39,091,39,049,OH,"Franklin County",131,186,3634
+39,091,39,159,OH,"Union County",88,169,2894
+39,091,39,065,OH,"Hardin County",81,174,2292
+39,091,39,149,OH,"Shelby County",59,115,1658
+39,091,39,011,OH,"Auglaize County",42,93,1292
+39,091,39,003,OH,"Allen County",32,68,1084
+39,091,39,113,OH,"Montgomery County",30,62,896
+39,091,37,119,NC,"Mecklenburg County",27,70,5628
+39,091,39,041,OH,"Delaware County",25,40,681
+39,091,39,023,OH,"Clark County",22,43,550
+39,091,39,101,OH,"Marion County",16,24,199
+39,091,39,061,OH,"Hamilton County",11,12,659
+39,091,39,109,OH,"Miami County",10,28,291
+39,091,58,000,SS,"Other Flows - Same State",136,243,4063
+39,091,59,000,DS,"Other Flows - Diff State",250,486,10375
+39,091,59,001,DS,"Other Flows - Northeast",18,38,414
+39,091,59,003,DS,"Other Flows - Midwest",65,130,2638
+39,091,59,005,DS,"Other Flows - South",140,267,6498
+39,091,59,007,DS,"Other Flows - West",27,51,825
+39,093,96,000,OH,"Lorain County Tot Mig-US & For",5438,9689,211197
+39,093,97,000,OH,"Lorain County Tot Mig-US",5366,9552,209554
+39,093,97,001,OH,"Lorain County Tot Mig-Same St",3357,5749,119449
+39,093,97,003,OH,"Lorain County Tot Mig-Diff St",2009,3803,90105
+39,093,98,000,OH,"Lorain County Tot Mig-Foreign",72,137,1643
+39,093,39,093,OH,"Lorain County Non-Migrants",108678,230207,4970874
+39,093,39,035,OH,"Cuyahoga County",1666,2626,58575
+39,093,39,043,OH,"Erie County",337,681,14350
+39,093,39,103,OH,"Medina County",206,391,8082
+39,093,39,049,OH,"Franklin County",198,281,5118
+39,093,39,077,OH,"Huron County",186,370,6061
+39,093,39,005,OH,"Ashland County",105,222,3124
+39,093,39,153,OH,"Summit County",86,144,3309
+39,093,39,095,OH,"Lucas County",70,115,2509
+39,093,04,013,AZ,"Maricopa County",55,103,2099
+39,093,21,111,KY,"Jefferson County",43,85,1594
+39,093,17,031,IL,"Cook County",42,54,1107
+39,093,12,071,FL,"Lee County",39,62,2262
+39,093,57,005,FR,"Foreign - APO/FPO ZIPs",35,55,721
+39,093,32,003,NV,"Clark County",34,66,1009
+39,093,39,085,OH,"Lake County",33,60,1440
+39,093,39,133,OH,"Portage County",32,53,826
+39,093,12,103,FL,"Pinellas County",31,47,903
+39,093,39,169,OH,"Wayne County",31,72,1135
+39,093,26,163,MI,"Wayne County",30,57,1561
+39,093,39,041,OH,"Delaware County",27,62,1557
+39,093,39,173,OH,"Wood County",25,33,672
+39,093,39,061,OH,"Hamilton County",24,34,472
+39,093,39,113,OH,"Montgomery County",24,36,751
+39,093,39,151,OH,"Stark County",24,42,1041
+39,093,12,101,FL,"Pasco County",22,46,945
+39,093,39,055,OH,"Geauga County",22,32,1076
+39,093,06,073,CA,"San Diego County",21,34,496
+39,093,26,125,MI,"Oakland County",21,37,1266
+39,093,39,123,OH,"Ottawa County",21,36,1182
+39,093,12,057,FL,"Hillsborough County",20,41,1036
+39,093,48,201,TX,"Harris County",19,36,684
+39,093,12,011,FL,"Broward County",18,28,1232
+39,093,12,021,FL,"Collier County",17,30,2074
+39,093,26,161,MI,"Washtenaw County",17,31,1326
+39,093,04,019,AZ,"Pima County",16,29,685
+39,093,39,007,OH,"Ashtabula County",16,36,394
+39,093,42,003,PA,"Allegheny County",16,25,711
+39,093,57,003,FR,"Foreign - Puerto Rico",15,42,241
+39,093,12,095,FL,"Orange County",14,25,398
+39,093,12,115,FL,"Sarasota County",14,28,649
+39,093,12,033,FL,"Escambia County",13,16,756
+39,093,12,105,FL,"Polk County",13,34,268
+39,093,39,099,OH,"Mahoning County",13,26,366
+39,093,39,143,OH,"Sandusky County",13,28,695
+39,093,39,155,OH,"Trumbull County",13,20,461
+39,093,47,037,TN,"Davidson County",13,18,303
+39,093,06,037,CA,"Los Angeles County",12,20,536
+39,093,12,031,FL,"Duval County",12,14,211
+39,093,12,097,FL,"Osceola County",12,20,231
+39,093,12,099,FL,"Palm Beach County",12,25,631
+39,093,13,121,GA,"Fulton County",12,20,441
+39,093,36,061,NY,"New York County",12,13,390
+39,093,37,119,NC,"Mecklenburg County",12,25,649
+39,093,39,089,OH,"Licking County",12,17,434
+39,093,06,001,CA,"Alameda County",11,19,397
+39,093,06,059,CA,"Orange County",11,25,770
+39,093,12,127,FL,"Volusia County",11,22,408
+39,093,13,135,GA,"Gwinnett County",11,20,512
+39,093,39,083,OH,"Knox County",11,20,315
+39,093,25,025,MA,"Suffolk County",10,13,231
+39,093,37,051,NC,"Cumberland County",10,18,275
+39,093,48,113,TX,"Dallas County",10,16,251
+39,093,51,059,VA,"Fairfax County",10,14,560
+39,093,51,810,VA,"Virginia Beach",10,14,213
+39,093,58,000,SS,"Other Flows - Same State",162,312,5505
+39,093,59,000,DS,"Other Flows - Diff State",1303,2573,60033
+39,093,59,001,DS,"Other Flows - Northeast",246,444,11675
+39,093,59,003,DS,"Other Flows - Midwest",243,529,11976
+39,093,59,005,DS,"Other Flows - South",648,1298,27541
+39,093,59,007,DS,"Other Flows - West",166,302,8842
+39,093,57,009,FR,"Foreign - Other flows",22,40,681
+39,095,96,000,OH,"Lucas County Tot Mig-US & For",8947,15909,381083
+39,095,97,000,OH,"Lucas County Tot Mig-US",8851,15772,378911
+39,095,97,001,OH,"Lucas County Tot Mig-Same St",3907,6889,148042
+39,095,97,003,OH,"Lucas County Tot Mig-Diff St",4944,8883,230869
+39,095,98,000,OH,"Lucas County Tot Mig-Foreign",96,137,2172
+39,095,39,095,OH,"Lucas County Non-Migrants",170638,350450,7894020
+39,095,39,173,OH,"Wood County",1472,2701,57629
+39,095,26,115,MI,"Monroe County",689,1360,31763
+39,095,39,049,OH,"Franklin County",389,561,12545
+39,095,39,051,OH,"Fulton County",355,737,13616
+39,095,39,035,OH,"Cuyahoga County",252,358,8948
+39,095,26,163,MI,"Wayne County",208,393,10064
+39,095,39,123,OH,"Ottawa County",172,346,7673
+39,095,17,031,IL,"Cook County",127,168,4362
+39,095,26,125,MI,"Oakland County",123,203,6844
+39,095,39,061,OH,"Hamilton County",105,141,3149
+39,095,04,013,AZ,"Maricopa County",97,169,4511
+39,095,26,091,MI,"Lenawee County",97,186,5000
+39,095,26,161,MI,"Washtenaw County",97,160,3858
+39,095,39,143,OH,"Sandusky County",91,168,2761
+39,095,39,069,OH,"Henry County",77,167,2492
+39,095,39,063,OH,"Hancock County",74,140,2851
+39,095,06,037,CA,"Los Angeles County",72,100,2325
+39,095,39,041,OH,"Delaware County",61,110,2788
+39,095,39,113,OH,"Montgomery County",59,94,1834
+39,095,39,153,OH,"Summit County",58,83,3594
+39,095,57,005,FR,"Foreign - APO/FPO ZIPs",58,73,928
+39,095,06,085,CA,"Santa Clara County",55,62,1857
+39,095,12,103,FL,"Pinellas County",52,93,1698
+39,095,06,073,CA,"San Diego County",51,72,1593
+39,095,39,017,OH,"Butler County",48,92,2125
+39,095,12,071,FL,"Lee County",47,75,3621
+39,095,39,003,OH,"Allen County",47,81,1661
+39,095,39,043,OH,"Erie County",47,68,1177
+39,095,18,003,IN,"Allen County",45,91,1764
+39,095,12,057,FL,"Hillsborough County",43,78,2283
+39,095,39,093,OH,"Lorain County",43,76,2111
+39,095,39,171,OH,"Williams County",42,78,1260
+39,095,26,099,MI,"Macomb County",41,64,2174
+39,095,18,097,IN,"Marion County",40,64,1591
+39,095,39,151,OH,"Stark County",38,74,1571
+39,095,39,039,OH,"Defiance County",36,60,1559
+39,095,32,003,NV,"Clark County",33,64,1370
+39,095,39,103,OH,"Medina County",32,54,1680
+39,095,17,043,IL,"Du Page County",31,57,2195
+39,095,37,119,NC,"Mecklenburg County",30,56,881
+39,095,12,011,FL,"Broward County",28,41,1807
+39,095,39,147,OH,"Seneca County",28,44,763
+39,095,39,165,OH,"Warren County",28,68,1730
+39,095,42,003,PA,"Allegheny County",28,39,1247
+39,095,12,081,FL,"Manatee County",26,54,2273
+39,095,26,059,MI,"Hillsdale County",26,43,1230
+39,095,26,081,MI,"Kent County",26,54,1141
+39,095,04,019,AZ,"Pima County",25,42,1152
+39,095,13,089,GA,"De Kalb County",23,46,557
+39,095,39,077,OH,"Huron County",23,40,559
+39,095,12,009,FL,"Brevard County",22,35,933
+39,095,48,113,TX,"Dallas County",22,25,880
+39,095,06,001,CA,"Alameda County",21,24,608
+39,095,12,127,FL,"Volusia County",21,31,735
+39,095,48,201,TX,"Harris County",21,38,1966
+39,095,53,033,WA,"King County",21,29,660
+39,095,12,099,FL,"Palm Beach County",20,33,956
+39,095,12,105,FL,"Polk County",20,40,632
+39,095,21,111,KY,"Jefferson County",20,39,830
+39,095,27,053,MN,"Hennepin County",20,31,1428
+39,095,39,085,OH,"Lake County",20,27,686
+39,095,06,075,CA,"San Francisco County",19,20,684
+39,095,12,021,FL,"Collier County",19,32,1218
+39,095,13,067,GA,"Cobb County",19,31,428
+39,095,36,061,NY,"New York County",19,25,855
+39,095,13,121,GA,"Fulton County",18,27,782
+39,095,26,075,MI,"Jackson County",18,35,931
+39,095,48,439,TX,"Tarrant County",18,36,1084
+39,095,06,059,CA,"Orange County",17,23,872
+39,095,08,031,CO,"Denver County",17,27,848
+39,095,12,115,FL,"Sarasota County",17,34,1075
+39,095,18,141,IN,"St Joseph County",17,27,608
+39,095,26,077,MI,"Kalamazoo County",17,28,697
+39,095,08,013,CO,"Boulder County",16,24,430
+39,095,12,025,FL,"Dade County",16,28,673
+39,095,12,031,FL,"Duval County",16,23,4460
+39,095,12,069,FL,"Lake County",16,28,917
+39,095,12,117,FL,"Seminole County",16,31,835
+39,095,21,015,KY,"Boone County",16,37,1154
+39,095,29,189,MO,"St Louis County",16,27,722
+39,095,36,029,NY,"Erie County",16,28,1414
+39,095,39,045,OH,"Fairfield County",16,22,760
+39,095,42,101,PA,"Philadelphia County",16,24,623
+39,095,45,019,SC,"Charleston County",16,21,366
+39,095,13,135,GA,"Gwinnett County",15,29,707
+39,095,24,031,MD,"Montgomery County",15,23,806
+39,095,26,049,MI,"Genesee County",15,27,582
+39,095,26,093,MI,"Livingston County",15,29,1169
+39,095,36,055,NY,"Monroe County",15,23,720
+39,095,39,099,OH,"Mahoning County",15,20,406
+39,095,48,029,TX,"Bexar County",15,31,406
+39,095,17,097,IL,"Lake County",14,37,1788
+39,095,39,023,OH,"Clark County",14,25,505
+39,095,39,057,OH,"Greene County",14,23,342
+39,095,45,045,SC,"Greenville County",14,21,507
+39,095,47,037,TN,"Davidson County",14,17,301
+39,095,18,057,IN,"Hamilton County",13,28,860
+39,095,26,065,MI,"Ingham County",13,22,725
+39,095,26,147,MI,"St Clair County",13,25,472
+39,095,35,001,NM,"Bernalillo County",13,19,706
+39,095,37,183,NC,"Wake County",13,21,581
+39,095,39,025,OH,"Clermont County",13,21,644
+39,095,39,133,OH,"Portage County",13,18,398
+39,095,39,137,OH,"Putnam County",13,28,380
+39,095,47,157,TN,"Shelby County",13,19,396
+39,095,48,121,TX,"Denton County",13,26,887
+39,095,48,453,TX,"Travis County",13,20,845
+39,095,06,067,CA,"Sacramento County",12,20,488
+39,095,06,071,CA,"San Bernardino Count",12,25,301
+39,095,11,001,DC,"District Of Columbia",12,13,240
+39,095,26,025,MI,"Calhoun County",12,30,734
+39,095,26,139,MI,"Ottawa County",12,26,735
+39,095,36,047,NY,"Kings County",12,16,234
+39,095,39,155,OH,"Trumbull County",12,18,345
+39,095,12,095,FL,"Orange County",11,22,370
+39,095,18,151,IN,"Steuben County",11,20,754
+39,095,21,067,KY,"Fayette County",11,17,311
+39,095,24,003,MD,"Anne Arundel County",11,27,467
+39,095,26,023,MI,"Branch County",11,24,409
+39,095,36,081,NY,"Queens County",11,18,220
+39,095,37,051,NC,"Cumberland County",11,11,172
+39,095,37,129,NC,"New Hanover County",11,26,695
+39,095,39,139,OH,"Richland County",11,16,308
+39,095,48,085,TX,"Collin County",11,16,895
+39,095,51,059,VA,"Fairfax County",11,15,333
+39,095,24,033,MD,"Prince George's Coun",10,18,296
+39,095,25,017,MA,"Middlesex County",10,10,313
+39,095,26,145,MI,"Saginaw County",10,21,333
+39,095,34,023,NJ,"Middlesex County",10,19,456
+39,095,37,133,NC,"Onslow County",10,15,147
+39,095,39,009,OH,"Athens County",10,16,739
+39,095,39,149,OH,"Shelby County",10,19,160
+39,095,42,043,PA,"Dauphin County",10,21,926
+39,095,47,065,TN,"Hamilton County",10,19,303
+39,095,51,710,VA,Norfolk,10,17,213
+39,095,58,000,SS,"Other Flows - Same State",169,295,6292
+39,095,59,000,DS,"Other Flows - Diff State",1703,3225,77598
+39,095,59,001,DS,"Other Flows - Northeast",271,481,13981
+39,095,59,003,DS,"Other Flows - Midwest",408,807,18530
+39,095,59,005,DS,"Other Flows - South",755,1468,30234
+39,095,59,007,DS,"Other Flows - West",269,469,14853
+39,095,57,009,FR,"Foreign - Other flows",38,64,1243
+39,097,96,000,OH,"Madison County Tot Mig-US & For",1208,2219,41959
+39,097,97,000,OH,"Madison County Tot Mig-US",1208,2219,41959
+39,097,97,001,OH,"Madison County Tot Mig-Same St",1021,1866,33652
+39,097,97,003,OH,"Madison County Tot Mig-Diff St",187,353,8307
+39,097,39,097,OH,"Madison County Non-Migrants",12879,27812,566409
+39,097,39,049,OH,"Franklin County",556,967,17334
+39,097,39,023,OH,"Clark County",86,163,2735
+39,097,39,159,OH,"Union County",55,97,2014
+39,097,39,041,OH,"Delaware County",51,91,2484
+39,097,39,047,OH,"Fayette County",43,88,1205
+39,097,39,129,OH,"Pickaway County",43,90,1216
+39,097,39,021,OH,"Champaign County",27,57,1150
+39,097,39,045,OH,"Fairfield County",25,54,796
+39,097,39,089,OH,"Licking County",19,32,483
+39,097,58,000,SS,"Other Flows - Same State",116,227,4237
+39,097,59,000,DS,"Other Flows - Diff State",187,353,8307
+39,097,59,001,DS,"Other Flows - Northeast",16,32,728
+39,097,59,003,DS,"Other Flows - Midwest",38,70,1555
+39,097,59,005,DS,"Other Flows - South",112,208,3919
+39,097,59,007,DS,"Other Flows - West",21,43,2106
+39,099,96,000,OH,"Mahoning County Tot Mig-US & For",4671,8094,164962
+39,099,97,000,OH,"Mahoning County Tot Mig-US",4640,8045,164376
+39,099,97,001,OH,"Mahoning County Tot Mig-Same St",2771,4830,90423
+39,099,97,003,OH,"Mahoning County Tot Mig-Diff St",1869,3215,73953
+39,099,98,000,OH,"Mahoning County Tot Mig-Foreign",31,49,587
+39,099,39,099,OH,"Mahoning County Non-Migrants",96599,197096,3966176
+39,099,39,155,OH,"Trumbull County",972,1779,28647
+39,099,39,029,OH,"Columbiana County",389,756,12996
+39,099,39,049,OH,"Franklin County",324,539,7912
+39,099,39,035,OH,"Cuyahoga County",224,314,7429
+39,099,39,151,OH,"Stark County",217,385,5649
+39,099,39,153,OH,"Summit County",143,208,5144
+39,099,39,133,OH,"Portage County",139,227,4541
+39,099,42,003,PA,"Allegheny County",88,125,3216
+39,099,04,013,AZ,"Maricopa County",54,81,1866
+39,099,32,003,NV,"Clark County",53,83,1582
+39,099,42,085,PA,"Mercer County",52,95,1652
+39,099,42,073,PA,"Lawrence County",41,78,868
+39,099,17,031,IL,"Cook County",39,55,1365
+39,099,39,007,OH,"Ashtabula County",27,42,644
+39,099,12,011,FL,"Broward County",25,38,764
+39,099,12,071,FL,"Lee County",25,45,2169
+39,099,39,041,OH,"Delaware County",25,34,954
+39,099,39,061,OH,"Hamilton County",25,31,724
+39,099,12,095,FL,"Orange County",24,35,679
+39,099,37,119,NC,"Mecklenburg County",23,33,638
+39,099,39,095,OH,"Lucas County",23,36,808
+39,099,06,037,CA,"Los Angeles County",22,34,448
+39,099,39,113,OH,"Montgomery County",22,32,5318
+39,099,39,085,OH,"Lake County",20,23,514
+39,099,39,103,OH,"Medina County",20,46,1051
+39,099,06,073,CA,"San Diego County",18,21,487
+39,099,12,021,FL,"Collier County",18,29,1615
+39,099,26,125,MI,"Oakland County",18,29,1078
+39,099,39,093,OH,"Lorain County",18,33,559
+39,099,42,007,PA,"Beaver County",18,26,719
+39,099,26,163,MI,"Wayne County",17,22,566
+39,099,12,057,FL,"Hillsborough County",16,21,502
+39,099,12,069,FL,"Lake County",16,22,522
+39,099,13,089,GA,"De Kalb County",16,28,621
+39,099,12,103,FL,"Pinellas County",14,25,346
+39,099,12,127,FL,"Volusia County",14,24,513
+39,099,12,115,FL,"Sarasota County",13,24,1299
+39,099,36,061,NY,"New York County",13,13,347
+39,099,36,081,NY,"Queens County",13,17,437
+39,099,42,019,PA,"Butler County",13,23,773
+39,099,48,201,TX,"Harris County",13,25,763
+39,099,12,081,FL,"Manatee County",12,18,526
+39,099,12,099,FL,"Palm Beach County",12,23,687
+39,099,12,105,FL,"Polk County",11,19,308
+39,099,26,099,MI,"Macomb County",11,18,525
+39,099,26,161,MI,"Washtenaw County",11,16,425
+39,099,37,183,NC,"Wake County",11,17,353
+39,099,39,017,OH,"Butler County",11,21,398
+39,099,42,049,PA,"Erie County",11,15,323
+39,099,12,031,FL,"Duval County",10,19,223
+39,099,39,019,OH,"Carroll County",10,14,341
+39,099,39,089,OH,"Licking County",10,21,398
+39,099,39,139,OH,"Richland County",10,21,301
+39,099,39,157,OH,"Tuscarawas County",10,15,440
+39,099,48,027,TX,"Bell County",10,15,175
+39,099,58,000,SS,"Other Flows - Same State",132,253,5654
+39,099,59,000,DS,"Other Flows - Diff State",1094,2004,44572
+39,099,59,001,DS,"Other Flows - Northeast",203,371,8021
+39,099,59,003,DS,"Other Flows - Midwest",186,345,7959
+39,099,59,005,DS,"Other Flows - South",563,1050,20558
+39,099,59,007,DS,"Other Flows - West",142,238,8034
+39,099,57,009,FR,"Foreign - Other flows",31,49,587
+39,101,96,000,OH,"Marion County Tot Mig-US & For",1340,2480,43415
+39,101,97,000,OH,"Marion County Tot Mig-US",1340,2480,43415
+39,101,97,001,OH,"Marion County Tot Mig-Same St",978,1795,28933
+39,101,97,003,OH,"Marion County Tot Mig-Diff St",362,685,14481
+39,101,39,101,OH,"Marion County Non-Migrants",24753,52330,957845
+39,101,39,041,OH,"Delaware County",194,350,5485
+39,101,39,049,OH,"Franklin County",192,298,5511
+39,101,39,117,OH,"Morrow County",113,234,3198
+39,101,39,033,OH,"Crawford County",71,135,1976
+39,101,39,159,OH,"Union County",59,115,1666
+39,101,39,175,OH,"Wyandot County",35,69,1068
+39,101,39,065,OH,"Hardin County",32,64,963
+39,101,39,139,OH,"Richland County",22,44,696
+39,101,39,091,OH,"Logan County",20,34,779
+39,101,39,063,OH,"Hancock County",16,25,523
+39,101,39,083,OH,"Knox County",16,35,572
+39,101,39,035,OH,"Cuyahoga County",15,19,359
+39,101,39,045,OH,"Fairfield County",13,23,926
+39,101,39,021,OH,"Champaign County",10,26,312
+39,101,39,087,OH,"Lawrence County",10,23,137
+39,101,39,113,OH,"Montgomery County",10,11,277
+39,101,58,000,SS,"Other Flows - Same State",150,290,4485
+39,101,59,000,DS,"Other Flows - Diff State",362,685,14481
+39,101,59,001,DS,"Other Flows - Northeast",27,55,1510
+39,101,59,003,DS,"Other Flows - Midwest",103,214,4290
+39,101,59,005,DS,"Other Flows - South",177,326,6782
+39,101,59,007,DS,"Other Flows - West",55,90,1900
+39,103,96,000,OH,"Medina County Tot Mig-US & For",3984,7059,175881
+39,103,97,000,OH,"Medina County Tot Mig-US",3964,7029,175159
+39,103,97,001,OH,"Medina County Tot Mig-Same St",2815,4753,109242
+39,103,97,003,OH,"Medina County Tot Mig-Diff St",1149,2276,65917
+39,103,98,000,OH,"Medina County Tot Mig-Foreign",20,30,723
+39,103,39,103,OH,"Medina County Non-Migrants",58083,129978,3237734
+39,103,39,035,OH,"Cuyahoga County",1095,1718,44305
+39,103,39,153,OH,"Summit County",508,773,18291
+39,103,39,169,OH,"Wayne County",373,745,11827
+39,103,39,093,OH,"Lorain County",192,374,9444
+39,103,39,049,OH,"Franklin County",97,141,3186
+39,103,39,005,OH,"Ashland County",80,159,3076
+39,103,39,151,OH,"Stark County",67,113,2429
+39,103,39,133,OH,"Portage County",34,58,1442
+39,103,04,013,AZ,"Maricopa County",32,68,1151
+39,103,39,095,OH,"Lucas County",30,39,741
+39,103,39,085,OH,"Lake County",28,41,1144
+39,103,17,031,IL,"Cook County",27,36,1044
+39,103,39,139,OH,"Richland County",24,49,1105
+39,103,42,003,PA,"Allegheny County",19,48,1493
+39,103,06,037,CA,"Los Angeles County",16,22,1866
+39,103,12,021,FL,"Collier County",16,29,2598
+39,103,26,125,MI,"Oakland County",16,25,1439
+39,103,39,113,OH,"Montgomery County",16,27,626
+39,103,32,003,NV,"Clark County",15,23,533
+39,103,39,041,OH,"Delaware County",15,28,1044
+39,103,39,061,OH,"Hamilton County",15,21,580
+39,103,39,157,OH,"Tuscarawas County",15,36,573
+39,103,37,119,NC,"Mecklenburg County",14,28,1147
+39,103,39,007,OH,"Ashtabula County",13,27,610
+39,103,12,011,FL,"Broward County",12,15,414
+39,103,12,103,FL,"Pinellas County",12,24,529
+39,103,39,043,OH,"Erie County",12,19,549
+39,103,39,165,OH,"Warren County",12,25,946
+39,103,06,065,CA,"Riverside County",11,25,820
+39,103,12,071,FL,"Lee County",11,18,1116
+39,103,06,073,CA,"San Diego County",10,20,392
+39,103,17,043,IL,"Du Page County",10,26,960
+39,103,39,009,OH,"Athens County",10,14,188
+39,103,39,055,OH,"Geauga County",10,27,584
+39,103,39,099,OH,"Mahoning County",10,22,370
+39,103,58,000,SS,"Other Flows - Same State",159,297,6181
+39,103,59,000,DS,"Other Flows - Diff State",928,1869,50417
+39,103,59,001,DS,"Other Flows - Northeast",145,312,9676
+39,103,59,003,DS,"Other Flows - Midwest",178,425,12142
+39,103,59,005,DS,"Other Flows - South",487,929,23117
+39,103,59,007,DS,"Other Flows - West",118,203,5482
+39,103,57,009,FR,"Foreign - Other flows",20,30,723
+39,105,96,000,OH,"Meigs County Tot Mig-US & For",375,723,7881
+39,105,97,000,OH,"Meigs County Tot Mig-US",375,723,7881
+39,105,97,001,OH,"Meigs County Tot Mig-Same St",224,412,4708
+39,105,97,003,OH,"Meigs County Tot Mig-Diff St",151,311,3173
+39,105,39,105,OH,"Meigs County Non-Migrants",6837,15209,217773
+39,105,39,009,OH,"Athens County",51,91,1208
+39,105,39,053,OH,"Gallia County",46,101,1017
+39,105,54,053,WV,"Mason County",40,90,944
+39,105,39,049,OH,"Franklin County",31,54,529
+39,105,54,107,WV,"Wood County",19,32,329
+39,105,39,167,OH,"Washington County",18,26,296
+39,105,39,079,OH,"Jackson County",14,27,290
+39,105,58,000,SS,"Other Flows - Same State",64,113,1367
+39,105,59,000,DS,"Other Flows - Diff State",92,189,1900
+39,107,96,000,OH,"Mercer County Tot Mig-US & For",864,1513,28248
+39,107,97,000,OH,"Mercer County Tot Mig-US",864,1513,28248
+39,107,97,001,OH,"Mercer County Tot Mig-Same St",602,996,19356
+39,107,97,003,OH,"Mercer County Tot Mig-Diff St",262,517,8891
+39,107,39,107,OH,"Mercer County Non-Migrants",15370,35188,635289
+39,107,39,011,OH,"Auglaize County",175,317,5184
+39,107,39,037,OH,"Darke County",64,107,2446
+39,107,39,113,OH,"Montgomery County",52,66,1260
+39,107,39,049,OH,"Franklin County",46,55,1269
+39,107,39,161,OH,"Van Wert County",45,88,1303
+39,107,39,003,OH,"Allen County",39,61,1084
+39,107,39,149,OH,"Shelby County",19,38,571
+39,107,39,061,OH,"Hamilton County",18,20,557
+39,107,39,109,OH,"Miami County",16,36,604
+39,107,39,057,OH,"Greene County",14,22,573
+39,107,18,001,IN,"Adams County",12,20,203
+39,107,18,003,IN,"Allen County",12,15,261
+39,107,39,095,OH,"Lucas County",11,19,542
+39,107,20,079,KS,"Harvey County",10,29,1012
+39,107,39,017,OH,"Butler County",10,13,278
+39,107,39,035,OH,"Cuyahoga County",10,10,272
+39,107,39,041,OH,"Delaware County",10,17,416
+39,107,58,000,SS,"Other Flows - Same State",73,127,2998
+39,107,59,000,DS,"Other Flows - Diff State",228,453,7416
+39,107,59,001,DS,"Other Flows - Northeast",11,22,553
+39,107,59,003,DS,"Other Flows - Midwest",81,169,2718
+39,107,59,005,DS,"Other Flows - South",104,214,3287
+39,107,59,007,DS,"Other Flows - West",32,48,859
+39,109,96,000,OH,"Miami County Tot Mig-US & For",2477,4600,94965
+39,109,97,000,OH,"Miami County Tot Mig-US",2462,4575,94388
+39,109,97,001,OH,"Miami County Tot Mig-Same St",1724,3158,58332
+39,109,97,003,OH,"Miami County Tot Mig-Diff St",738,1417,36056
+39,109,98,000,OH,"Miami County Tot Mig-Foreign",15,25,578
+39,109,39,109,OH,"Miami County Non-Migrants",38298,81960,1815423
+39,109,39,113,OH,"Montgomery County",676,1149,22208
+39,109,39,149,OH,"Shelby County",209,411,7532
+39,109,39,037,OH,"Darke County",172,352,5306
+39,109,39,023,OH,"Clark County",107,216,3192
+39,109,39,049,OH,"Franklin County",79,111,2342
+39,109,39,057,OH,"Greene County",72,116,2138
+39,109,39,021,OH,"Champaign County",68,130,2126
+39,109,39,011,OH,"Auglaize County",36,84,1340
+39,109,39,061,OH,"Hamilton County",32,35,943
+39,109,39,017,OH,"Butler County",29,52,1239
+39,109,39,165,OH,"Warren County",29,58,1274
+39,109,39,135,OH,"Preble County",17,30,448
+39,109,39,107,OH,"Mercer County",16,27,608
+39,109,12,103,FL,"Pinellas County",15,28,346
+39,109,18,097,IN,"Marion County",15,19,339
+39,109,39,091,OH,"Logan County",15,38,552
+39,109,39,041,OH,"Delaware County",14,24,782
+39,109,39,095,OH,"Lucas County",12,18,363
+39,109,17,031,IL,"Cook County",11,13,266
+39,109,21,111,KY,"Jefferson County",11,16,255
+39,109,39,003,OH,"Allen County",11,23,360
+39,109,58,000,SS,"Other Flows - Same State",130,284,5579
+39,109,59,000,DS,"Other Flows - Diff State",686,1341,34850
+39,109,59,001,DS,"Other Flows - Northeast",62,128,4128
+39,109,59,003,DS,"Other Flows - Midwest",145,303,7458
+39,109,59,005,DS,"Other Flows - South",374,712,19390
+39,109,59,007,DS,"Other Flows - West",105,198,3874
+39,109,57,009,FR,"Foreign - Other flows",15,25,578
+39,111,96,000,OH,"Monroe County Tot Mig-US & For",297,548,6788
+39,111,97,000,OH,"Monroe County Tot Mig-US",297,548,6788
+39,111,97,001,OH,"Monroe County Tot Mig-Same St",200,388,4658
+39,111,97,003,OH,"Monroe County Tot Mig-Diff St",97,160,2130
+39,111,39,111,OH,"Monroe County Non-Migrants",5163,11805,157742
+39,111,39,013,OH,"Belmont County",54,95,1403
+39,111,39,167,OH,"Washington County",44,101,847
+39,111,39,049,OH,"Franklin County",19,22,424
+39,111,39,059,OH,"Guernsey County",15,30,330
+39,111,39,121,OH,"Noble County",15,34,321
+39,111,54,103,WV,"Wetzel County",10,22,213
+39,111,58,000,SS,"Other Flows - Same State",53,106,1333
+39,111,59,000,DS,"Other Flows - Diff State",87,138,1917
+39,113,96,000,OH,"Montgomery Coun Tot Mig-US & For",13366,24666,586914
+39,113,97,000,OH,"Montgomery Coun Tot Mig-US",13205,24308,581191
+39,113,97,001,OH,"Montgomery Coun Tot Mig-Same St",7456,13313,293555
+39,113,97,003,OH,"Montgomery Coun Tot Mig-Diff St",5749,10995,287636
+39,113,98,000,OH,"Montgomery Coun Tot Mig-Foreign",161,358,5723
+39,113,39,113,OH,"Montgomery Coun Non-Migrants",215210,432551,10053015
+39,113,39,057,OH,"Greene County",2085,3891,83108
+39,113,39,165,OH,"Warren County",959,1910,51350
+39,113,39,109,OH,"Miami County",728,1343,26750
+39,113,39,049,OH,"Franklin County",665,971,22954
+39,113,39,017,OH,"Butler County",540,946,19996
+39,113,39,023,OH,"Clark County",447,804,13713
+39,113,39,061,OH,"Hamilton County",418,563,14146
+39,113,39,135,OH,"Preble County",278,569,9699
+39,113,39,037,OH,"Darke County",139,231,4163
+39,113,17,031,IL,"Cook County",126,181,7553
+39,113,57,005,FR,"Foreign - APO/FPO ZIPs",115,273,3449
+39,113,39,035,OH,"Cuyahoga County",112,171,4936
+39,113,04,013,AZ,"Maricopa County",96,169,4992
+39,113,18,097,IN,"Marion County",94,173,3548
+39,113,26,125,MI,"Oakland County",91,181,7308
+39,113,12,103,FL,"Pinellas County",81,143,2725
+39,113,39,027,OH,"Clinton County",78,135,2498
+39,113,39,025,OH,"Clermont County",77,115,3075
+39,113,06,037,CA,"Los Angeles County",74,121,3542
+39,113,39,041,OH,"Delaware County",74,139,4334
+39,113,06,073,CA,"San Diego County",72,116,3582
+39,113,26,163,MI,"Wayne County",66,126,2924
+39,113,39,021,OH,"Champaign County",62,112,2328
+39,113,12,057,FL,"Hillsborough County",61,95,3011
+39,113,39,095,OH,"Lucas County",61,123,2551
+39,113,48,029,TX,"Bexar County",51,130,2167
+39,113,12,115,FL,"Sarasota County",49,89,5648
+39,113,12,011,FL,"Broward County",48,83,2296
+39,113,21,111,KY,"Jefferson County",47,91,1838
+39,113,12,071,FL,"Lee County",46,68,3525
+39,113,32,003,NV,"Clark County",46,84,1799
+39,113,12,095,FL,"Orange County",45,81,2138
+39,113,39,149,OH,"Shelby County",45,75,1587
+39,113,12,091,FL,"Okaloosa County",44,97,2659
+39,113,51,059,VA,"Fairfax County",44,93,2963
+39,113,13,121,GA,"Fulton County",43,74,1772
+39,113,37,119,NC,"Mecklenburg County",43,82,2307
+39,113,39,091,OH,"Logan County",43,74,2133
+39,113,39,107,OH,"Mercer County",39,60,1424
+39,113,39,045,OH,"Fairfield County",38,79,1777
+39,113,39,153,OH,"Summit County",38,70,1595
+39,113,47,037,TN,"Davidson County",38,56,1133
+39,113,39,071,OH,"Highland County",37,62,839
+39,113,04,019,AZ,"Pima County",36,60,1276
+39,113,08,041,CO,"El Paso County",36,91,2111
+39,113,12,009,FL,"Brevard County",36,75,1309
+39,113,13,067,GA,"Cobb County",36,58,1641
+39,113,13,135,GA,"Gwinnett County",36,85,1841
+39,113,21,067,KY,"Fayette County",36,68,1681
+39,113,24,031,MD,"Montgomery County",36,81,2508
+39,113,12,099,FL,"Palm Beach County",34,48,1704
+39,113,06,059,CA,"Orange County",33,49,1375
+39,113,21,117,KY,"Kenton County",33,57,1100
+39,113,12,031,FL,"Duval County",32,55,933
+39,113,18,057,IN,"Hamilton County",32,69,2459
+39,113,18,177,IN,"Wayne County",32,66,961
+39,113,06,085,CA,"Santa Clara County",30,52,1933
+39,113,48,113,TX,"Dallas County",30,45,1647
+39,113,37,183,NC,"Wake County",29,53,1264
+39,113,39,003,OH,"Allen County",29,43,818
+39,113,42,003,PA,"Allegheny County",29,45,856
+39,113,24,033,MD,"Prince George's Coun",26,57,1005
+39,113,25,017,MA,"Middlesex County",26,53,1284
+39,113,48,201,TX,"Harris County",26,51,1113
+39,113,12,127,FL,"Volusia County",25,51,1007
+39,113,26,099,MI,"Macomb County",25,36,1258
+39,113,39,151,OH,"Stark County",25,42,1189
+39,113,47,093,TN,"Knox County",25,42,780
+39,113,12,081,FL,"Manatee County",24,40,1992
+39,113,12,117,FL,"Seminole County",23,57,1478
+39,113,18,003,IN,"Allen County",23,55,1782
+39,113,39,093,OH,"Lorain County",23,50,1241
+39,113,51,153,VA,"Prince William Count",23,77,1530
+39,113,17,043,IL,"Du Page County",22,48,1523
+39,113,27,053,MN,"Hennepin County",22,37,2422
+39,113,48,439,TX,"Tarrant County",22,40,831
+39,113,51,810,VA,"Virginia Beach",22,41,619
+39,113,53,033,WA,"King County",22,40,1160
+39,113,12,025,FL,"Dade County",21,32,1489
+39,113,13,089,GA,"De Kalb County",21,31,654
+39,113,15,003,HI,"Honolulu County",21,55,953
+39,113,21,015,KY,"Boone County",21,46,1160
+39,113,36,047,NY,"Kings County",21,26,719
+39,113,39,173,OH,"Wood County",21,28,730
+39,113,45,051,SC,"Horry County",21,34,789
+39,113,06,001,CA,"Alameda County",20,40,799
+39,113,26,161,MI,"Washtenaw County",20,34,1025
+39,113,35,001,NM,"Bernalillo County",20,52,1070
+39,113,37,051,NC,"Cumberland County",20,35,413
+39,113,39,009,OH,"Athens County",20,32,566
+39,113,48,085,TX,"Collin County",20,32,1052
+39,113,08,031,CO,"Denver County",19,20,713
+39,113,11,001,DC,"District Of Columbia",19,29,1028
+39,113,12,101,FL,"Pasco County",19,52,684
+39,113,29,189,MO,"St Louis County",19,42,1487
+39,113,45,019,SC,"Charleston County",19,36,1170
+39,113,06,075,CA,"San Francisco County",18,19,696
+39,113,12,015,FL,"Charlotte County",18,30,1478
+39,113,12,021,FL,"Collier County",18,24,1613
+39,113,39,011,OH,"Auglaize County",18,37,524
+39,113,39,047,OH,"Fayette County",18,27,340
+39,113,48,453,TX,"Travis County",18,27,737
+39,113,08,013,CO,"Boulder County",17,21,674
+39,113,12,069,FL,"Lake County",17,32,711
+39,113,17,097,IL,"Lake County",17,39,1031
+39,113,36,061,NY,"New York County",17,21,806
+39,113,39,099,OH,"Mahoning County",17,33,569
+39,113,47,157,TN,"Shelby County",17,39,639
+39,113,01,101,AL,"Montgomery County",16,43,801
+39,113,06,071,CA,"San Bernardino Count",16,38,659
+39,113,08,005,CO,"Arapahoe County",16,29,475
+39,113,24,003,MD,"Anne Arundel County",16,28,716
+39,113,39,001,OH,"Adams County",16,25,246
+39,113,39,063,OH,"Hancock County",16,37,1424
+39,113,39,089,OH,"Licking County",16,29,414
+39,113,39,097,OH,"Madison County",16,26,681
+39,113,53,053,WA,"Pierce County",16,33,417
+39,113,06,029,CA,"Kern County",15,43,795
+39,113,06,065,CA,"Riverside County",15,25,767
+39,113,06,095,CA,"Solano County",15,33,629
+39,113,09,003,CT,"Hartford County",15,22,714
+39,113,39,141,OH,"Ross County",15,26,560
+39,113,39,145,OH,"Scioto County",15,35,381
+39,113,01,089,AL,"Madison County",14,28,680
+39,113,06,013,CA,"Contra Costa County",14,25,1908
+39,113,13,051,GA,"Chatham County",14,23,372
+39,113,17,163,IL,"St Clair County",14,40,724
+39,113,21,037,KY,"Campbell County",14,16,498
+39,113,26,049,MI,"Genesee County",14,28,727
+39,113,36,055,NY,"Monroe County",14,41,820
+39,113,39,015,OH,"Brown County",14,22,395
+39,113,41,051,OR,"Multnomah County",14,19,688
+39,113,51,510,VA,Alexandria,14,17,521
+39,113,12,005,FL,"Bay County",13,36,519
+39,113,12,105,FL,"Polk County",13,23,1723
+39,113,13,153,GA,"Houston County",13,23,531
+39,113,21,093,KY,"Hardin County",13,36,595
+39,113,26,081,MI,"Kent County",13,28,741
+39,113,40,143,OK,"Tulsa County",13,19,277
+39,113,48,027,TX,"Bell County",13,20,209
+39,113,02,020,AK,"Anchorage Borough",12,33,547
+39,113,18,089,IN,"Lake County",12,18,327
+39,113,26,065,MI,"Ingham County",12,24,711
+39,113,31,153,NE,"Sarpy County",12,32,532
+39,113,39,053,OH,"Gallia County",12,20,798
+39,113,39,103,OH,"Medina County",12,23,773
+39,113,39,139,OH,"Richland County",12,16,411
+39,113,42,101,PA,"Philadelphia County",12,22,636
+39,113,51,013,VA,"Arlington County",12,20,547
+39,113,51,107,VA,"Loudoun County",12,28,773
+39,113,51,650,VA,Hampton,12,27,411
+39,113,55,079,WI,"Milwaukee County",12,17,490
+39,113,06,067,CA,"Sacramento County",11,15,464
+39,113,12,001,FL,"Alachua County",11,15,392
+39,113,12,033,FL,"Escambia County",11,19,231
+39,113,12,111,FL,"St Lucie County",11,22,587
+39,113,13,063,GA,"Clayton County",11,22,197
+39,113,18,095,IN,"Madison County",11,19,453
+39,113,18,105,IN,"Monroe County",11,21,414
+39,113,18,157,IN,"Tippecanoe County",11,13,318
+39,113,24,005,MD,"Baltimore County",11,21,581
+39,113,26,021,MI,"Berrien County",11,19,390
+39,113,29,183,MO,"St Charles County",11,19,523
+39,113,36,029,NY,"Erie County",11,20,408
+39,113,45,015,SC,"Berkeley County",11,17,278
+39,113,47,013,TN,"Campbell County",11,22,654
+39,113,48,141,TX,"El Paso County",11,22,530
+39,113,49,011,UT,"Davis County",11,29,435
+39,113,51,199,VA,"York County",11,34,609
+39,113,08,059,CO,"Jefferson County",10,15,677
+39,113,12,083,FL,"Marion County",10,19,424
+39,113,13,117,GA,"Forsyth County",10,26,865
+39,113,18,035,IN,"Delaware County",10,15,361
+39,113,20,091,KS,"Johnson County",10,18,888
+39,113,21,199,KY,"Pulaski County",10,15,223
+39,113,25,025,MA,"Suffolk County",10,12,2139
+39,113,35,035,NM,"Otero County",10,36,291
+39,113,39,161,OH,"Van Wert County",10,15,262
+39,113,40,109,OK,"Oklahoma County",10,23,552
+39,113,41,067,OR,"Washington County",10,19,689
+39,113,45,013,SC,"Beaufort County",10,18,510
+39,113,45,045,SC,"Greenville County",10,25,2308
+39,113,48,167,TX,"Galveston County",10,15,340
+39,113,53,061,WA,"Snohomish County",10,17,361
+39,113,58,000,SS,"Other Flows - Same State",168,304,6277
+39,113,59,000,DS,"Other Flows - Diff State",2252,4473,107662
+39,113,59,001,DS,"Other Flows - Northeast",335,653,16614
+39,113,59,003,DS,"Other Flows - Midwest",493,990,24127
+39,113,59,005,DS,"Other Flows - South",1188,2348,53921
+39,113,59,007,DS,"Other Flows - West",236,482,13000
+39,113,57,009,FR,"Foreign - Other flows",46,85,2274
+39,115,96,000,OH,"Morgan County Tot Mig-US & For",380,698,9724
+39,115,97,000,OH,"Morgan County Tot Mig-US",380,698,9724
+39,115,97,001,OH,"Morgan County Tot Mig-Same St",310,575,7623
+39,115,97,003,OH,"Morgan County Tot Mig-Diff St",70,123,2100
+39,115,39,115,OH,"Morgan County Non-Migrants",6262,14065,214474
+39,115,39,119,OH,"Muskingum County",99,174,2374
+39,115,39,167,OH,"Washington County",52,103,1361
+39,115,39,049,OH,"Franklin County",38,63,878
+39,115,39,009,OH,"Athens County",24,50,522
+39,115,39,045,OH,"Fairfield County",17,26,540
+39,115,39,127,OH,"Perry County",17,38,376
+39,115,39,089,OH,"Licking County",11,23,203
+39,115,58,000,SS,"Other Flows - Same State",52,98,1369
+39,115,59,000,DS,"Other Flows - Diff State",70,123,2100
+39,117,96,000,OH,"Morrow County Tot Mig-US & For",765,1465,22843
+39,117,97,000,OH,"Morrow County Tot Mig-US",765,1465,22843
+39,117,97,001,OH,"Morrow County Tot Mig-Same St",622,1193,18149
+39,117,97,003,OH,"Morrow County Tot Mig-Diff St",143,272,4694
+39,117,39,117,OH,"Morrow County Non-Migrants",8824,19908,361767
+39,117,39,139,OH,"Richland County",118,241,3349
+39,117,39,101,OH,"Marion County",111,204,3385
+39,117,39,041,OH,"Delaware County",104,239,2786
+39,117,39,049,OH,"Franklin County",92,141,2924
+39,117,39,083,OH,"Knox County",58,117,1405
+39,117,39,033,OH,"Crawford County",55,107,1562
+39,117,58,000,SS,"Other Flows - Same State",84,144,2739
+39,117,59,000,DS,"Other Flows - Diff State",143,272,4694
+39,117,59,001,DS,"Other Flows - Northeast",14,22,289
+39,117,59,003,DS,"Other Flows - Midwest",25,53,1115
+39,117,59,005,DS,"Other Flows - South",86,169,2816
+39,117,59,007,DS,"Other Flows - West",18,28,473
+39,119,96,000,OH,"Muskingum Count Tot Mig-US & For",1495,2791,51306
+39,119,97,000,OH,"Muskingum Count Tot Mig-US",1479,2768,51061
+39,119,97,001,OH,"Muskingum Count Tot Mig-Same St",1128,2107,40137
+39,119,97,003,OH,"Muskingum Count Tot Mig-Diff St",351,661,10925
+39,119,98,000,OH,"Muskingum Count Tot Mig-Foreign",16,23,245
+39,119,39,119,OH,"Muskingum Count Non-Migrants",30816,64912,1149775
+39,119,39,089,OH,"Licking County",210,418,6559
+39,119,39,049,OH,"Franklin County",180,270,5497
+39,119,39,127,OH,"Perry County",116,265,2424
+39,119,39,031,OH,"Coshocton County",110,211,3043
+39,119,39,059,OH,"Guernsey County",91,199,1994
+39,119,39,115,OH,"Morgan County",83,165,2374
+39,119,39,045,OH,"Fairfield County",71,122,2487
+39,119,39,041,OH,"Delaware County",25,42,1048
+39,119,39,009,OH,"Athens County",17,31,362
+39,119,39,083,OH,"Knox County",17,32,556
+39,119,39,035,OH,"Cuyahoga County",15,20,432
+39,119,39,151,OH,"Stark County",15,27,237
+39,119,39,061,OH,"Hamilton County",13,18,513
+39,119,39,113,OH,"Montgomery County",13,18,383
+39,119,58,000,SS,"Other Flows - Same State",152,269,12228
+39,119,59,000,DS,"Other Flows - Diff State",351,661,10925
+39,119,59,001,DS,"Other Flows - Northeast",42,76,1538
+39,119,59,003,DS,"Other Flows - Midwest",42,83,1589
+39,119,59,005,DS,"Other Flows - South",223,420,6371
+39,119,59,007,DS,"Other Flows - West",44,82,1427
+39,119,57,009,FR,"Foreign - Other flows",16,23,245
+39,121,96,000,OH,"Noble County Tot Mig-US & For",188,397,4801
+39,121,97,000,OH,"Noble County Tot Mig-US",188,397,4801
+39,121,97,001,OH,"Noble County Tot Mig-Same St",163,339,4036
+39,121,97,003,OH,"Noble County Tot Mig-Diff St",25,58,765
+39,121,39,121,OH,"Noble County Non-Migrants",3163,7023,102181
+39,121,39,059,OH,"Guernsey County",50,116,1312
+39,121,39,167,OH,"Washington County",32,61,818
+39,121,39,119,OH,"Muskingum County",12,16,205
+39,121,39,049,OH,"Franklin County",11,18,297
+39,121,39,111,OH,"Monroe County",10,26,192
+39,121,58,000,SS,"Other Flows - Same State",48,102,1212
+39,121,59,000,DS,"Other Flows - Diff State",25,58,765
+39,123,96,000,OH,"Ottawa County Tot Mig-US & For",1060,1773,36551
+39,123,97,000,OH,"Ottawa County Tot Mig-US",1060,1773,36551
+39,123,97,001,OH,"Ottawa County Tot Mig-Same St",738,1225,24667
+39,123,97,003,OH,"Ottawa County Tot Mig-Diff St",322,548,11884
+39,123,39,123,OH,"Ottawa County Non-Migrants",16547,34006,746327
+39,123,39,095,OH,"Lucas County",191,308,5737
+39,123,39,143,OH,"Sandusky County",133,231,4317
+39,123,39,173,OH,"Wood County",112,177,3713
+39,123,39,043,OH,"Erie County",68,113,2022
+39,123,39,049,OH,"Franklin County",51,68,2067
+39,123,39,035,OH,"Cuyahoga County",42,64,1718
+39,123,39,077,OH,"Huron County",25,44,698
+39,123,04,013,AZ,"Maricopa County",17,35,691
+39,123,26,115,MI,"Monroe County",15,31,724
+39,123,39,093,OH,"Lorain County",13,32,1095
+39,123,39,147,OH,"Seneca County",11,23,338
+39,123,12,071,FL,"Lee County",10,18,449
+39,123,58,000,SS,"Other Flows - Same State",92,165,2963
+39,123,59,000,DS,"Other Flows - Diff State",280,464,10020
+39,123,59,001,DS,"Other Flows - Northeast",16,18,392
+39,123,59,003,DS,"Other Flows - Midwest",68,103,1848
+39,123,59,005,DS,"Other Flows - South",155,285,6547
+39,123,59,007,DS,"Other Flows - West",41,58,1233
+39,125,96,000,OH,"Paulding County Tot Mig-US & For",459,820,13304
+39,125,97,000,OH,"Paulding County Tot Mig-US",459,820,13304
+39,125,97,001,OH,"Paulding County Tot Mig-Same St",294,525,7811
+39,125,97,003,OH,"Paulding County Tot Mig-Diff St",165,295,5493
+39,125,39,125,OH,"Paulding County Non-Migrants",7234,16061,283681
+39,125,39,039,OH,"Defiance County",125,250,3627
+39,125,18,003,IN,"Allen County",53,100,2263
+39,125,39,161,OH,"Van Wert County",45,79,1091
+39,125,39,137,OH,"Putnam County",25,50,566
+39,125,39,049,OH,"Franklin County",18,19,521
+39,125,58,000,SS,"Other Flows - Same State",81,127,2005
+39,125,59,000,DS,"Other Flows - Diff State",112,195,3230
+39,127,96,000,OH,"Perry County Tot Mig-US & For",616,1209,15169
+39,127,97,000,OH,"Perry County Tot Mig-US",616,1209,15169
+39,127,97,001,OH,"Perry County Tot Mig-Same St",543,1070,13019
+39,127,97,003,OH,"Perry County Tot Mig-Diff St",73,139,2150
+39,127,39,127,OH,"Perry County Non-Migrants",9055,20428,301153
+39,127,39,045,OH,"Fairfield County",120,234,2786
+39,127,39,119,OH,"Muskingum County",115,238,2558
+39,127,39,049,OH,"Franklin County",89,140,2168
+39,127,39,089,OH,"Licking County",77,168,1955
+39,127,39,009,OH,"Athens County",25,56,577
+39,127,39,115,OH,"Morgan County",25,51,628
+39,127,39,073,OH,"Hocking County",24,53,531
+39,127,58,000,SS,"Other Flows - Same State",68,130,1816
+39,127,59,000,DS,"Other Flows - Diff State",73,139,2150
+39,129,96,000,OH,"Pickaway County Tot Mig-US & For",1374,2691,44996
+39,129,97,000,OH,"Pickaway County Tot Mig-US",1374,2691,44996
+39,129,97,001,OH,"Pickaway County Tot Mig-Same St",1171,2284,37209
+39,129,97,003,OH,"Pickaway County Tot Mig-Diff St",203,407,7787
+39,129,39,129,OH,"Pickaway County Non-Migrants",16279,35305,682100
+39,129,39,049,OH,"Franklin County",519,935,15484
+39,129,39,045,OH,"Fairfield County",176,361,5404
+39,129,39,141,OH,"Ross County",147,311,4139
+39,129,39,073,OH,"Hocking County",53,135,1893
+39,129,39,047,OH,"Fayette County",49,97,1383
+39,129,39,097,OH,"Madison County",34,76,959
+39,129,39,131,OH,"Pike County",18,31,557
+39,129,39,009,OH,"Athens County",17,36,600
+39,129,39,079,OH,"Jackson County",15,34,430
+39,129,39,089,OH,"Licking County",14,24,413
+39,129,39,145,OH,"Scioto County",13,23,255
+39,129,58,000,SS,"Other Flows - Same State",116,221,5692
+39,129,59,000,DS,"Other Flows - Diff State",203,407,7787
+39,129,59,001,DS,"Other Flows - Northeast",16,32,655
+39,129,59,003,DS,"Other Flows - Midwest",38,81,1661
+39,129,59,005,DS,"Other Flows - South",119,247,4434
+39,129,59,007,DS,"Other Flows - West",30,47,1037
+39,131,96,000,OH,"Pike County Tot Mig-US & For",847,1703,21064
+39,131,97,000,OH,"Pike County Tot Mig-US",847,1703,21064
+39,131,97,001,OH,"Pike County Tot Mig-Same St",680,1378,16169
+39,131,97,003,OH,"Pike County Tot Mig-Diff St",167,325,4895
+39,131,39,131,OH,"Pike County Non-Migrants",11848,26825,409265
+39,131,39,141,OH,"Ross County",164,347,4218
+39,131,39,145,OH,"Scioto County",163,330,3600
+39,131,39,049,OH,"Franklin County",65,100,1410
+39,131,39,079,OH,"Jackson County",62,128,1515
+39,131,39,001,OH,"Adams County",37,94,708
+39,131,39,071,OH,"Highland County",29,52,634
+39,131,39,045,OH,"Fairfield County",19,38,501
+39,131,39,129,OH,"Pickaway County",15,27,344
+39,131,58,000,SS,"Other Flows - Same State",126,262,3239
+39,131,59,000,DS,"Other Flows - Diff State",167,325,4895
+39,131,59,001,DS,"Other Flows - Northeast",13,27,450
+39,131,59,003,DS,"Other Flows - Midwest",33,55,758
+39,131,59,005,DS,"Other Flows - South",101,203,3030
+39,131,59,007,DS,"Other Flows - West",20,40,656
+39,133,96,000,OH,"Portage County Tot Mig-US & For",4385,7498,159898
+39,133,97,000,OH,"Portage County Tot Mig-US",4347,7437,158887
+39,133,97,001,OH,"Portage County Tot Mig-Same St",3093,5217,105768
+39,133,97,003,OH,"Portage County Tot Mig-Diff St",1254,2220,53119
+39,133,98,000,OH,"Portage County Tot Mig-Foreign",38,61,1011
+39,133,39,133,OH,"Portage County Non-Migrants",54471,114114,2449224
+39,133,39,153,OH,"Summit County",1358,2227,46229
+39,133,39,035,OH,"Cuyahoga County",489,770,16745
+39,133,39,151,OH,"Stark County",232,405,6893
+39,133,39,155,OH,"Trumbull County",218,427,6023
+39,133,39,055,OH,"Geauga County",129,256,6955
+39,133,39,099,OH,"Mahoning County",119,199,4248
+39,133,39,049,OH,"Franklin County",91,122,2895
+39,133,39,085,OH,"Lake County",74,124,2828
+39,133,39,103,OH,"Medina County",62,115,2451
+39,133,39,029,OH,"Columbiana County",40,79,887
+39,133,17,031,IL,"Cook County",32,42,864
+39,133,04,013,AZ,"Maricopa County",28,58,1123
+39,133,39,093,OH,"Lorain County",24,42,881
+39,133,39,169,OH,"Wayne County",23,39,675
+39,133,39,007,OH,"Ashtabula County",20,34,585
+39,133,42,003,PA,"Allegheny County",20,28,414
+39,133,32,003,NV,"Clark County",19,31,559
+39,133,57,005,FR,"Foreign - APO/FPO ZIPs",18,25,377
+39,133,06,073,CA,"San Diego County",17,22,599
+39,133,12,103,FL,"Pinellas County",16,35,576
+39,133,39,041,OH,"Delaware County",16,25,822
+39,133,06,037,CA,"Los Angeles County",14,19,746
+39,133,12,011,FL,"Broward County",13,29,568
+39,133,12,021,FL,"Collier County",13,26,2347
+39,133,26,125,MI,"Oakland County",13,21,840
+39,133,39,095,OH,"Lucas County",13,16,353
+39,133,39,113,OH,"Montgomery County",13,20,465
+39,133,42,085,PA,"Mercer County",13,20,261
+39,133,12,071,FL,"Lee County",12,21,405
+39,133,12,101,FL,"Pasco County",12,20,395
+39,133,39,173,OH,"Wood County",12,27,439
+39,133,39,019,OH,"Carroll County",11,23,345
+39,133,08,041,CO,"El Paso County",10,17,261
+39,133,37,119,NC,"Mecklenburg County",10,18,918
+39,133,39,059,OH,"Guernsey County",10,17,228
+39,133,53,033,WA,"King County",10,17,587
+39,133,58,000,SS,"Other Flows - Same State",139,250,4820
+39,133,59,000,DS,"Other Flows - Diff State",1002,1796,41657
+39,133,59,001,DS,"Other Flows - Northeast",191,341,8286
+39,133,59,003,DS,"Other Flows - Midwest",151,303,7741
+39,133,59,005,DS,"Other Flows - South",535,945,19990
+39,133,59,007,DS,"Other Flows - West",125,207,5641
+39,133,57,009,FR,"Foreign - Other flows",20,36,634
+39,135,96,000,OH,"Preble County Tot Mig-US & For",980,1800,65710
+39,135,97,000,OH,"Preble County Tot Mig-US",980,1800,65710
+39,135,97,001,OH,"Preble County Tot Mig-Same St",624,1109,55552
+39,135,97,003,OH,"Preble County Tot Mig-Diff St",356,691,10158
+39,135,39,135,OH,"Preble County Non-Migrants",15174,33388,631141
+39,135,39,113,OH,"Montgomery County",280,497,45242
+39,135,39,017,OH,"Butler County",132,252,4197
+39,135,18,177,IN,"Wayne County",103,174,2827
+39,135,39,037,OH,"Darke County",46,85,1116
+39,135,39,165,OH,"Warren County",27,44,857
+39,135,39,109,OH,"Miami County",25,40,741
+39,135,39,061,OH,"Hamilton County",18,25,441
+39,135,39,049,OH,"Franklin County",17,25,545
+39,135,39,057,OH,"Greene County",15,20,330
+39,135,58,000,SS,"Other Flows - Same State",64,121,2083
+39,135,59,000,DS,"Other Flows - Diff State",253,517,7330
+39,135,59,001,DS,"Other Flows - Northeast",16,34,448
+39,135,59,003,DS,"Other Flows - Midwest",75,166,2284
+39,135,59,005,DS,"Other Flows - South",128,249,3866
+39,135,59,007,DS,"Other Flows - West",34,68,732
+39,137,96,000,OH,"Putnam County Tot Mig-US & For",618,1078,19437
+39,137,97,000,OH,"Putnam County Tot Mig-US",618,1078,19437
+39,137,97,001,OH,"Putnam County Tot Mig-Same St",491,853,14101
+39,137,97,003,OH,"Putnam County Tot Mig-Diff St",127,225,5336
+39,137,39,137,OH,"Putnam County Non-Migrants",13523,31247,613071
+39,137,39,003,OH,"Allen County",141,276,4170
+39,137,39,063,OH,"Hancock County",71,133,2004
+39,137,39,049,OH,"Franklin County",49,53,1319
+39,137,39,039,OH,"Defiance County",31,77,860
+39,137,39,069,OH,"Henry County",26,35,742
+39,137,39,173,OH,"Wood County",24,39,792
+39,137,39,095,OH,"Lucas County",18,26,529
+39,137,39,161,OH,"Van Wert County",18,27,485
+39,137,39,125,OH,"Paulding County",14,21,263
+39,137,58,000,SS,"Other Flows - Same State",99,166,2938
+39,137,59,000,DS,"Other Flows - Diff State",127,225,5336
+39,137,59,001,DS,"Other Flows - Northeast",15,23,729
+39,137,59,003,DS,"Other Flows - Midwest",41,66,1582
+39,137,59,005,DS,"Other Flows - South",56,115,2548
+39,137,59,007,DS,"Other Flows - West",15,21,477
+39,139,96,000,OH,"Richland County Tot Mig-US & For",2446,4443,95291
+39,139,97,000,OH,"Richland County Tot Mig-US",2433,4430,95098
+39,139,97,001,OH,"Richland County Tot Mig-Same St",1660,2956,64219
+39,139,97,003,OH,"Richland County Tot Mig-Diff St",773,1474,30879
+39,139,98,000,OH,"Richland County Tot Mig-Foreign",13,13,193
+39,139,39,139,OH,"Richland County Non-Migrants",43964,91815,1779468
+39,139,39,005,OH,"Ashland County",269,499,8193
+39,139,39,033,OH,"Crawford County",264,487,6494
+39,139,39,049,OH,"Franklin County",264,367,20702
+39,139,39,117,OH,"Morrow County",154,311,5161
+39,139,39,083,OH,"Knox County",77,138,2517
+39,139,39,077,OH,"Huron County",74,151,2089
+39,139,39,035,OH,"Cuyahoga County",66,82,1719
+39,139,39,041,OH,"Delaware County",42,67,2048
+39,139,39,153,OH,"Summit County",34,56,1062
+39,139,39,151,OH,"Stark County",32,63,1035
+39,139,39,101,OH,"Marion County",30,57,766
+39,139,39,093,OH,"Lorain County",23,58,900
+39,139,39,061,OH,"Hamilton County",20,26,877
+39,139,39,169,OH,"Wayne County",18,32,633
+39,139,04,013,AZ,"Maricopa County",17,34,2172
+39,139,39,043,OH,"Erie County",17,27,473
+39,139,39,095,OH,"Lucas County",17,32,790
+39,139,39,103,OH,"Medina County",16,25,820
+39,139,39,089,OH,"Licking County",14,28,480
+39,139,39,099,OH,"Mahoning County",14,31,497
+39,139,12,071,FL,"Lee County",13,20,1207
+39,139,39,045,OH,"Fairfield County",13,31,511
+39,139,42,003,PA,"Allegheny County",13,22,365
+39,139,17,031,IL,"Cook County",12,19,237
+39,139,26,163,MI,"Wayne County",11,21,448
+39,139,39,003,OH,"Allen County",11,19,257
+39,139,39,017,OH,"Butler County",11,16,272
+39,139,39,063,OH,"Hancock County",10,18,443
+39,139,58,000,SS,"Other Flows - Same State",170,335,5481
+39,139,59,000,DS,"Other Flows - Diff State",707,1358,26450
+39,139,59,001,DS,"Other Flows - Northeast",69,134,2580
+39,139,59,003,DS,"Other Flows - Midwest",136,289,6311
+39,139,59,005,DS,"Other Flows - South",405,785,15003
+39,139,59,007,DS,"Other Flows - West",97,150,2555
+39,139,57,009,FR,"Foreign - Other flows",13,13,193
+39,141,96,000,OH,"Ross County Tot Mig-US & For",1275,2385,41886
+39,141,97,000,OH,"Ross County Tot Mig-US",1275,2385,41886
+39,141,97,001,OH,"Ross County Tot Mig-Same St",967,1789,28793
+39,141,97,003,OH,"Ross County Tot Mig-Diff St",308,596,13093
+39,141,39,141,OH,"Ross County Non-Migrants",23169,48886,903618
+39,141,39,049,OH,"Franklin County",199,311,6482
+39,141,39,131,OH,"Pike County",147,317,3594
+39,141,39,129,OH,"Pickaway County",123,239,3760
+39,141,39,071,OH,"Highland County",84,167,1849
+39,141,39,045,OH,"Fairfield County",47,81,1618
+39,141,39,079,OH,"Jackson County",42,91,1110
+39,141,39,073,OH,"Hocking County",36,63,908
+39,141,39,047,OH,"Fayette County",29,53,660
+39,141,39,163,OH,"Vinton County",26,51,625
+39,141,39,041,OH,"Delaware County",20,33,1036
+39,141,39,113,OH,"Montgomery County",20,32,855
+39,141,39,145,OH,"Scioto County",19,36,645
+39,141,39,009,OH,"Athens County",15,31,474
+39,141,39,061,OH,"Hamilton County",15,17,384
+39,141,39,027,OH,"Clinton County",14,20,316
+39,141,04,013,AZ,"Maricopa County",13,18,475
+39,141,39,089,OH,"Licking County",10,15,342
+39,141,39,097,OH,"Madison County",10,18,260
+39,141,39,165,OH,"Warren County",10,21,500
+39,141,58,000,SS,"Other Flows - Same State",101,193,3374
+39,141,59,000,DS,"Other Flows - Diff State",295,578,12617
+39,141,59,001,DS,"Other Flows - Northeast",26,38,1128
+39,141,59,003,DS,"Other Flows - Midwest",45,85,2007
+39,141,59,005,DS,"Other Flows - South",191,377,7822
+39,141,59,007,DS,"Other Flows - West",33,78,1659
+39,143,96,000,OH,"Sandusky County Tot Mig-US & For",1343,2318,43162
+39,143,97,000,OH,"Sandusky County Tot Mig-US",1343,2318,43162
+39,143,97,001,OH,"Sandusky County Tot Mig-Same St",961,1605,28629
+39,143,97,003,OH,"Sandusky County Tot Mig-Diff St",382,713,14533
+39,143,39,143,OH,"Sandusky County Non-Migrants",23108,48540,930821
+39,143,39,147,OH,"Seneca County",172,286,4722
+39,143,39,123,OH,"Ottawa County",159,285,5247
+39,143,39,095,OH,"Lucas County",121,205,3986
+39,143,39,173,OH,"Wood County",111,178,3403
+39,143,39,043,OH,"Erie County",80,120,2334
+39,143,39,077,OH,"Huron County",71,130,1990
+39,143,39,049,OH,"Franklin County",46,57,1046
+39,143,39,063,OH,"Hancock County",30,53,718
+39,143,39,035,OH,"Cuyahoga County",27,34,899
+39,143,04,013,AZ,"Maricopa County",13,24,355
+39,143,39,061,OH,"Hamilton County",10,11,368
+39,143,39,153,OH,"Summit County",10,15,160
+39,143,58,000,SS,"Other Flows - Same State",124,231,3756
+39,143,59,000,DS,"Other Flows - Diff State",369,689,14178
+39,143,59,001,DS,"Other Flows - Northeast",29,40,714
+39,143,59,003,DS,"Other Flows - Midwest",113,202,3810
+39,143,59,005,DS,"Other Flows - South",188,375,8045
+39,143,59,007,DS,"Other Flows - West",39,72,1609
+39,145,96,000,OH,"Scioto County Tot Mig-US & For",1213,2332,32451
+39,145,97,000,OH,"Scioto County Tot Mig-US",1213,2332,32451
+39,145,97,001,OH,"Scioto County Tot Mig-Same St",778,1491,20381
+39,145,97,003,OH,"Scioto County Tot Mig-Diff St",435,841,12070
+39,145,39,145,OH,"Scioto County Non-Migrants",21560,47438,748809
+39,145,39,131,OH,"Pike County",175,386,4109
+39,145,39,049,OH,"Franklin County",156,256,3737
+39,145,39,001,OH,"Adams County",81,178,3067
+39,145,21,089,KY,"Greenup County",71,181,1781
+39,145,39,087,OH,"Lawrence County",71,167,1528
+39,145,39,141,OH,"Ross County",48,88,1277
+39,145,39,079,OH,"Jackson County",38,76,973
+39,145,39,045,OH,"Fairfield County",18,31,643
+39,145,21,019,KY,"Boyd County",16,27,366
+39,145,54,011,WV,"Cabell County",15,27,352
+39,145,39,061,OH,"Hamilton County",14,20,671
+39,145,39,113,OH,"Montgomery County",14,20,387
+39,145,39,053,OH,"Gallia County",13,21,277
+39,145,21,135,KY,"Lewis County",11,22,197
+39,145,39,017,OH,"Butler County",11,15,290
+39,145,39,041,OH,"Delaware County",10,21,411
+39,145,58,000,SS,"Other Flows - Same State",129,212,3012
+39,145,59,000,DS,"Other Flows - Diff State",322,584,9374
+39,145,59,001,DS,"Other Flows - Northeast",16,31,615
+39,145,59,003,DS,"Other Flows - Midwest",51,111,1364
+39,145,59,005,DS,"Other Flows - South",220,392,6335
+39,145,59,007,DS,"Other Flows - West",35,50,1060
+39,147,96,000,OH,"Seneca County Tot Mig-US & For",1240,2120,37392
+39,147,97,000,OH,"Seneca County Tot Mig-US",1228,2104,37232
+39,147,97,001,OH,"Seneca County Tot Mig-Same St",943,1634,27257
+39,147,97,003,OH,"Seneca County Tot Mig-Diff St",285,470,9975
+39,147,98,000,OH,"Seneca County Tot Mig-Foreign",12,16,159
+39,147,39,147,OH,"Seneca County Non-Migrants",21846,46005,852074
+39,147,39,143,OH,"Sandusky County",171,302,5271
+39,147,39,063,OH,"Hancock County",169,291,4697
+39,147,39,175,OH,"Wyandot County",84,156,2116
+39,147,39,173,OH,"Wood County",83,149,2533
+39,147,39,077,OH,"Huron County",66,147,2162
+39,147,39,049,OH,"Franklin County",62,79,1949
+39,147,39,095,OH,"Lucas County",57,86,1305
+39,147,39,033,OH,"Crawford County",38,73,880
+39,147,39,035,OH,"Cuyahoga County",20,23,598
+39,147,39,123,OH,"Ottawa County",19,36,538
+39,147,39,043,OH,"Erie County",16,35,581
+39,147,39,041,OH,"Delaware County",15,21,415
+39,147,39,061,OH,"Hamilton County",11,17,439
+39,147,58,000,SS,"Other Flows - Same State",132,219,3773
+39,147,59,000,DS,"Other Flows - Diff State",285,470,9975
+39,147,59,001,DS,"Other Flows - Northeast",34,52,902
+39,147,59,003,DS,"Other Flows - Midwest",73,137,2669
+39,147,59,005,DS,"Other Flows - South",130,213,3832
+39,147,59,007,DS,"Other Flows - West",48,68,2572
+39,147,57,009,FR,"Foreign - Other flows",12,16,159
+39,149,96,000,OH,"Shelby County Tot Mig-US & For",1041,1846,41266
+39,149,97,000,OH,"Shelby County Tot Mig-US",1041,1846,41266
+39,149,97,001,OH,"Shelby County Tot Mig-Same St",765,1331,27921
+39,149,97,003,OH,"Shelby County Tot Mig-Diff St",276,515,13344
+39,149,39,149,OH,"Shelby County Non-Migrants",17855,39044,816352
+39,149,39,109,OH,"Miami County",229,419,7375
+39,149,39,011,OH,"Auglaize County",97,189,3127
+39,149,39,113,OH,"Montgomery County",69,104,2048
+39,149,39,049,OH,"Franklin County",58,75,1338
+39,149,39,091,OH,"Logan County",54,104,1216
+39,149,39,037,OH,"Darke County",33,61,915
+39,149,39,021,OH,"Champaign County",29,60,867
+39,149,39,061,OH,"Hamilton County",25,29,1034
+39,149,39,003,OH,"Allen County",22,40,674
+39,149,39,057,OH,"Greene County",18,30,705
+39,149,39,107,OH,"Mercer County",17,38,411
+39,149,39,095,OH,"Lucas County",14,21,389
+39,149,39,041,OH,"Delaware County",13,19,5314
+39,149,39,035,OH,"Cuyahoga County",12,20,470
+39,149,58,000,SS,"Other Flows - Same State",75,122,2040
+39,149,59,000,DS,"Other Flows - Diff State",276,515,13344
+39,149,59,001,DS,"Other Flows - Northeast",25,53,1104
+39,149,59,003,DS,"Other Flows - Midwest",79,154,3287
+39,149,59,005,DS,"Other Flows - South",136,245,5101
+39,149,59,007,DS,"Other Flows - West",36,63,3853
+39,151,96,000,OH,"Stark County Tot Mig-US & For",6467,11411,239825
+39,151,97,000,OH,"Stark County Tot Mig-US",6403,11308,238466
+39,151,97,001,OH,"Stark County Tot Mig-Same St",3965,6816,128822
+39,151,97,003,OH,"Stark County Tot Mig-Diff St",2438,4492,109644
+39,151,98,000,OH,"Stark County Tot Mig-Foreign",64,103,1359
+39,151,39,151,OH,"Stark County Non-Migrants",147650,308599,6554934
+39,151,39,153,OH,"Summit County",1194,1965,39482
+39,151,39,157,OH,"Tuscarawas County",346,619,10080
+39,151,39,019,OH,"Carroll County",343,697,9592
+39,151,39,049,OH,"Franklin County",276,375,8321
+39,151,39,035,OH,"Cuyahoga County",274,397,9331
+39,151,39,133,OH,"Portage County",230,376,7019
+39,151,39,169,OH,"Wayne County",203,362,5967
+39,151,39,099,OH,"Mahoning County",182,338,5594
+39,151,39,029,OH,"Columbiana County",152,282,4304
+39,151,39,103,OH,"Medina County",73,138,3559
+39,151,04,013,AZ,"Maricopa County",55,99,2980
+39,151,39,041,OH,"Delaware County",52,91,3353
+39,151,17,031,IL,"Cook County",46,68,1910
+39,151,57,005,FR,"Foreign - APO/FPO ZIPs",43,63,857
+39,151,32,003,NV,"Clark County",42,63,1137
+39,151,39,061,OH,"Hamilton County",42,55,1326
+39,151,42,003,PA,"Allegheny County",41,89,8701
+39,151,12,071,FL,"Lee County",40,66,1651
+39,151,37,119,NC,"Mecklenburg County",37,67,1456
+39,151,39,155,OH,"Trumbull County",36,69,1252
+39,151,06,037,CA,"Los Angeles County",33,40,714
+39,151,39,113,OH,"Montgomery County",33,51,1306
+39,151,12,103,FL,"Pinellas County",32,55,1232
+39,151,06,073,CA,"San Diego County",30,41,616
+39,151,39,095,OH,"Lucas County",26,54,1278
+39,151,12,099,FL,"Palm Beach County",24,38,1412
+39,151,12,115,FL,"Sarasota County",24,37,887
+39,151,26,163,MI,"Wayne County",24,39,982
+39,151,39,017,OH,"Butler County",24,43,947
+39,151,39,075,OH,"Holmes County",24,51,591
+39,151,39,085,OH,"Lake County",24,42,862
+39,151,39,139,OH,"Richland County",24,45,656
+39,151,12,021,FL,"Collier County",23,38,1074
+39,151,12,057,FL,"Hillsborough County",23,46,1829
+39,151,26,125,MI,"Oakland County",23,40,1367
+39,151,39,059,OH,"Guernsey County",22,38,423
+39,151,39,089,OH,"Licking County",22,36,790
+39,151,48,201,TX,"Harris County",21,41,1022
+39,151,39,031,OH,"Coshocton County",20,48,585
+39,151,39,045,OH,"Fairfield County",20,44,997
+39,151,39,173,OH,"Wood County",20,30,456
+39,151,12,095,FL,"Orange County",19,31,627
+39,151,12,069,FL,"Lake County",17,26,768
+39,151,39,005,OH,"Ashland County",17,36,575
+39,151,39,093,OH,"Lorain County",17,33,312
+39,151,12,031,FL,"Duval County",16,30,860
+39,151,18,097,IN,"Marion County",16,26,464
+39,151,39,067,OH,"Harrison County",16,30,548
+39,151,12,011,FL,"Broward County",15,32,522
+39,151,12,127,FL,"Volusia County",15,34,420
+39,151,37,133,NC,"Onslow County",15,27,241
+39,151,39,119,OH,"Muskingum County",15,38,708
+39,151,47,037,TN,"Davidson County",15,25,319
+39,151,04,019,AZ,"Pima County",14,24,433
+39,151,12,101,FL,"Pasco County",14,28,606
+39,151,12,117,FL,"Seminole County",14,30,531
+39,151,13,135,GA,"Gwinnett County",14,26,539
+39,151,42,019,PA,"Butler County",14,32,984
+39,151,45,013,SC,"Beaufort County",14,21,417
+39,151,53,033,WA,"King County",14,20,830
+39,151,08,041,CO,"El Paso County",13,22,281
+39,151,12,081,FL,"Manatee County",13,19,788
+39,151,13,089,GA,"De Kalb County",13,20,366
+39,151,13,121,GA,"Fulton County",13,29,494
+39,151,17,043,IL,"Du Page County",13,23,621
+39,151,39,025,OH,"Clermont County",13,27,476
+39,151,39,063,OH,"Hancock County",13,26,588
+39,151,39,081,OH,"Jefferson County",13,24,611
+39,151,48,439,TX,"Tarrant County",13,22,867
+39,151,51,810,VA,"Virginia Beach",13,19,270
+39,151,39,083,OH,"Knox County",12,25,337
+39,151,39,167,OH,"Washington County",12,22,454
+39,151,45,019,SC,"Charleston County",12,15,397
+39,151,45,051,SC,"Horry County",12,31,907
+39,151,12,009,FL,"Brevard County",11,29,454
+39,151,12,105,FL,"Polk County",11,17,338
+39,151,21,067,KY,"Fayette County",11,13,358
+39,151,36,047,NY,"Kings County",11,14,217
+39,151,36,061,NY,"New York County",11,13,287
+39,151,37,183,NC,"Wake County",11,19,512
+39,151,48,453,TX,"Travis County",11,15,381
+39,151,49,035,UT,"Salt Lake County",11,24,399
+39,151,12,109,FL,"St Johns County",10,27,675
+39,151,12,111,FL,"St Lucie County",10,18,678
+39,151,17,097,IL,"Lake County",10,32,752
+39,151,21,111,KY,"Jefferson County",10,12,220
+39,151,25,017,MA,"Middlesex County",10,16,392
+39,151,26,099,MI,"Macomb County",10,16,422
+39,151,37,051,NC,"Cumberland County",10,18,179
+39,151,39,003,OH,"Allen County",10,25,544
+39,151,39,007,OH,"Ashtabula County",10,18,296
+39,151,39,009,OH,"Athens County",10,11,177
+39,151,39,111,OH,"Monroe County",10,19,258
+39,151,45,045,SC,"Greenville County",10,16,537
+39,151,58,000,SS,"Other Flows - Same State",135,236,4865
+39,151,59,000,DS,"Other Flows - Diff State",1411,2714,60323
+39,151,59,001,DS,"Other Flows - Northeast",252,465,11793
+39,151,59,003,DS,"Other Flows - Midwest",236,501,11179
+39,151,59,005,DS,"Other Flows - South",717,1394,29050
+39,151,59,007,DS,"Other Flows - West",206,354,8301
+39,151,57,009,FR,"Foreign - Other flows",21,40,502
+39,153,96,000,OH,"Summit County Tot Mig-US & For",11196,19875,517351
+39,153,97,000,OH,"Summit County Tot Mig-US",11080,19672,512493
+39,153,97,001,OH,"Summit County Tot Mig-Same St",6728,11530,264915
+39,153,97,003,OH,"Summit County Tot Mig-Diff St",4352,8142,247578
+39,153,98,000,OH,"Summit County Tot Mig-Foreign",116,203,4859
+39,153,39,153,OH,"Summit County Non-Migrants",207248,423713,10305356
+39,153,39,035,OH,"Cuyahoga County",1565,2315,60566
+39,153,39,133,OH,"Portage County",1299,2279,46728
+39,153,39,151,OH,"Stark County",1257,2299,46292
+39,153,39,103,OH,"Medina County",618,1119,32840
+39,153,39,049,OH,"Franklin County",355,513,11661
+39,153,39,169,OH,"Wayne County",302,575,8899
+39,153,39,085,OH,"Lake County",115,201,5005
+39,153,17,031,IL,"Cook County",107,135,5688
+39,153,04,013,AZ,"Maricopa County",96,167,7346
+39,153,39,055,OH,"Geauga County",91,174,7017
+39,153,39,099,OH,"Mahoning County",90,166,2714
+39,153,39,093,OH,"Lorain County",87,149,3184
+39,153,39,061,OH,"Hamilton County",84,134,3666
+39,153,42,003,PA,"Allegheny County",79,119,6450
+39,153,39,155,OH,"Trumbull County",77,125,2266
+39,153,39,041,OH,"Delaware County",68,152,7647
+39,153,37,119,NC,"Mecklenburg County",67,111,6715
+39,153,06,037,CA,"Los Angeles County",59,100,2321
+39,153,12,103,FL,"Pinellas County",57,98,2297
+39,153,39,095,OH,"Lucas County",57,88,1909
+39,153,32,003,NV,"Clark County",54,86,2546
+39,153,57,005,FR,"Foreign - APO/FPO ZIPs",54,68,860
+39,153,48,201,TX,"Harris County",52,96,2577
+39,153,39,059,OH,"Guernsey County",46,102,1523
+39,153,26,125,MI,"Oakland County",44,104,5367
+39,153,12,099,FL,"Palm Beach County",43,65,3431
+39,153,12,071,FL,"Lee County",42,73,1724
+39,153,12,057,FL,"Hillsborough County",41,78,2171
+39,153,12,011,FL,"Broward County",40,77,2730
+39,153,39,157,OH,"Tuscarawas County",39,78,1257
+39,153,06,073,CA,"San Diego County",38,54,1723
+39,153,26,163,MI,"Wayne County",38,72,2355
+39,153,36,061,NY,"New York County",38,42,3941
+39,153,12,095,FL,"Orange County",37,57,1171
+39,153,13,121,GA,"Fulton County",37,68,1564
+39,153,39,113,OH,"Montgomery County",37,68,1722
+39,153,39,019,OH,"Carroll County",35,69,1123
+39,153,37,183,NC,"Wake County",33,73,2010
+39,153,17,043,IL,"Du Page County",32,68,2410
+39,153,39,029,OH,"Columbiana County",32,54,832
+39,153,12,021,FL,"Collier County",31,62,5199
+39,153,12,115,FL,"Sarasota County",31,63,1832
+39,153,51,059,VA,"Fairfax County",30,42,1407
+39,153,13,067,GA,"Cobb County",29,49,1862
+39,153,12,031,FL,"Duval County",28,47,878
+39,153,18,097,IN,"Marion County",28,40,1289
+39,153,12,009,FL,"Brevard County",27,48,1036
+39,153,39,007,OH,"Ashtabula County",27,55,842
+39,153,47,037,TN,"Davidson County",26,48,1351
+39,153,48,113,TX,"Dallas County",26,45,1276
+39,153,48,439,TX,"Tarrant County",26,60,2255
+39,153,04,019,AZ,"Pima County",25,37,944
+39,153,06,001,CA,"Alameda County",25,46,1548
+39,153,12,105,FL,"Polk County",25,41,667
+39,153,29,189,MO,"St Louis County",25,46,2271
+39,153,39,017,OH,"Butler County",25,47,1486
+39,153,39,083,OH,"Knox County",25,54,1336
+39,153,39,139,OH,"Richland County",25,45,1097
+39,153,53,033,WA,"King County",25,42,1304
+39,153,08,041,CO,"El Paso County",24,50,1036
+39,153,12,127,FL,"Volusia County",24,39,944
+39,153,13,089,GA,"De Kalb County",24,43,791
+39,153,39,043,OH,"Erie County",24,32,993
+39,153,24,031,MD,"Montgomery County",23,37,1195
+39,153,39,057,OH,"Greene County",23,35,956
+39,153,06,085,CA,"Santa Clara County",22,35,1095
+39,153,39,045,OH,"Fairfield County",22,55,1044
+39,153,06,059,CA,"Orange County",21,40,1575
+39,153,12,101,FL,"Pasco County",21,53,502
+39,153,25,017,MA,"Middlesex County",21,36,1010
+39,153,25,025,MA,"Suffolk County",21,25,671
+39,153,26,099,MI,"Macomb County",21,33,1037
+39,153,08,013,CO,"Boulder County",20,32,1253
+39,153,11,001,DC,"District Of Columbia",20,25,713
+39,153,36,055,NY,"Monroe County",19,28,915
+39,153,39,005,OH,"Ashland County",19,37,515
+39,153,39,173,OH,"Wood County",19,37,1013
+39,153,42,049,PA,"Erie County",19,41,1172
+39,153,06,071,CA,"San Bernardino Count",18,28,548
+39,153,09,003,CT,"Hartford County",18,41,1411
+39,153,36,029,NY,"Erie County",18,48,1873
+39,153,37,133,NC,"Onslow County",18,34,266
+39,153,39,009,OH,"Athens County",18,23,395
+39,153,45,045,SC,"Greenville County",18,32,1215
+39,153,45,013,SC,"Beaufort County",17,31,930
+39,153,45,019,SC,"Charleston County",17,34,658
+39,153,08,031,CO,"Denver County",16,17,426
+39,153,17,097,IL,"Lake County",16,34,1648
+39,153,36,047,NY,"Kings County",16,21,596
+39,153,39,031,OH,"Coshocton County",16,24,256
+39,153,39,123,OH,"Ottawa County",16,26,1008
+39,153,47,157,TN,"Shelby County",16,33,1107
+39,153,21,111,KY,"Jefferson County",15,31,590
+39,153,26,161,MI,"Washtenaw County",15,22,631
+39,153,27,053,MN,"Hennepin County",15,25,751
+39,153,39,075,OH,"Holmes County",15,34,491
+39,153,48,085,TX,"Collin County",15,33,2085
+39,153,48,453,TX,"Travis County",15,28,746
+39,153,12,033,FL,"Escambia County",14,25,385
+39,153,12,081,FL,"Manatee County",14,37,839
+39,153,15,003,HI,"Honolulu County",14,26,382
+39,153,37,051,NC,"Cumberland County",14,25,261
+39,153,55,079,WI,"Milwaukee County",14,25,612
+39,153,06,013,CA,"Contra Costa County",13,37,2783
+39,153,06,065,CA,"Riverside County",13,25,613
+39,153,06,067,CA,"Sacramento County",13,21,690
+39,153,06,075,CA,"San Francisco County",13,14,720
+39,153,13,117,GA,"Forsyth County",13,37,1116
+39,153,13,135,GA,"Gwinnett County",13,17,540
+39,153,18,057,IN,"Hamilton County",13,34,1658
+39,153,18,089,IN,"Lake County",13,33,702
+39,153,24,033,MD,"Prince George's Coun",13,24,729
+39,153,39,067,OH,"Harrison County",13,25,466
+39,153,48,121,TX,"Denton County",13,26,643
+39,153,08,001,CO,"Adams County",12,25,404
+39,153,12,069,FL,"Lake County",12,25,1023
+39,153,12,091,FL,"Okaloosa County",12,26,683
+39,153,24,005,MD,"Baltimore County",12,26,864
+39,153,26,081,MI,"Kent County",12,32,1085
+39,153,39,063,OH,"Hancock County",12,22,433
+39,153,42,091,PA,"Montgomery County",12,19,1064
+39,153,42,125,PA,"Washington County",12,30,638
+39,153,45,051,SC,"Horry County",12,25,370
+39,153,12,025,FL,"Dade County",11,14,353
+39,153,12,053,FL,"Hernando County",11,21,451
+39,153,12,111,FL,"St Lucie County",11,18,379
+39,153,12,117,FL,"Seminole County",11,18,485
+39,153,13,051,GA,"Chatham County",11,21,2771
+39,153,17,089,IL,"Kane County",11,36,2691
+39,153,39,023,OH,"Clark County",11,22,207
+39,153,39,165,OH,"Warren County",11,24,555
+39,153,42,019,PA,"Butler County",11,35,833
+39,153,45,091,SC,"York County",11,18,406
+39,153,06,081,CA,"San Mateo County",10,15,377
+39,153,37,063,NC,"Durham County",10,11,310
+39,153,39,013,OH,"Belmont County",10,18,318
+39,153,39,167,OH,"Washington County",10,15,271
+39,153,41,051,OR,"Multnomah County",10,16,297
+39,153,42,029,PA,"Chester County",10,21,964
+39,153,42,101,PA,"Philadelphia County",10,14,270
+39,153,47,093,TN,"Knox County",10,22,473
+39,153,48,157,TX,"Fort Bend County",10,33,694
+39,153,51,810,VA,"Virginia Beach",10,11,184
+39,153,55,025,WI,"Dane County",10,14,399
+39,153,58,000,SS,"Other Flows - Same State",133,240,4383
+39,153,59,000,DS,"Other Flows - Diff State",1874,3722,95391
+39,153,59,001,DS,"Other Flows - Northeast",379,710,21702
+39,153,59,003,DS,"Other Flows - Midwest",327,724,21691
+39,153,59,005,DS,"Other Flows - South",925,1836,40182
+39,153,59,007,DS,"Other Flows - West",243,452,11816
+39,153,57,009,FR,"Foreign - Other flows",62,135,3999
+39,155,96,000,OH,"Trumbull County Tot Mig-US & For",3906,6803,129510
+39,155,97,000,OH,"Trumbull County Tot Mig-US",3867,6738,128533
+39,155,97,001,OH,"Trumbull County Tot Mig-Same St",2126,3590,61903
+39,155,97,003,OH,"Trumbull County Tot Mig-Diff St",1741,3148,66631
+39,155,98,000,OH,"Trumbull County Tot Mig-Foreign",39,65,977
+39,155,39,155,OH,"Trumbull County Non-Migrants",86907,177440,3558005
+39,155,39,099,OH,"Mahoning County",924,1618,26002
+39,155,39,049,OH,"Franklin County",184,253,4421
+39,155,39,035,OH,"Cuyahoga County",180,257,5623
+39,155,39,133,OH,"Portage County",180,296,4783
+39,155,42,085,PA,"Mercer County",178,302,4694
+39,155,39,153,OH,"Summit County",126,202,4221
+39,155,39,007,OH,"Ashtabula County",84,162,2707
+39,155,39,055,OH,"Geauga County",75,143,2281
+39,155,39,151,OH,"Stark County",60,120,1776
+39,155,42,003,PA,"Allegheny County",55,83,2480
+39,155,04,013,AZ,"Maricopa County",38,59,1678
+39,155,39,029,OH,"Columbiana County",35,70,1059
+39,155,12,071,FL,"Lee County",30,53,3187
+39,155,57,005,FR,"Foreign - APO/FPO ZIPs",29,46,455
+39,155,39,061,OH,"Hamilton County",28,37,1069
+39,155,39,095,OH,"Lucas County",28,43,616
+39,155,32,003,NV,"Clark County",26,42,725
+39,155,12,103,FL,"Pinellas County",24,39,630
+39,155,12,057,FL,"Hillsborough County",22,35,761
+39,155,26,125,MI,"Oakland County",21,39,1744
+39,155,39,085,OH,"Lake County",21,29,690
+39,155,06,037,CA,"Los Angeles County",20,24,549
+39,155,39,041,OH,"Delaware County",18,30,678
+39,155,12,009,FL,"Brevard County",17,27,511
+39,155,12,011,FL,"Broward County",17,30,600
+39,155,42,019,PA,"Butler County",17,43,719
+39,155,39,017,OH,"Butler County",16,36,611
+39,155,42,073,PA,"Lawrence County",16,21,416
+39,155,39,103,OH,"Medina County",15,27,595
+39,155,12,101,FL,"Pasco County",14,25,409
+39,155,12,105,FL,"Polk County",14,30,1391
+39,155,12,115,FL,"Sarasota County",14,24,593
+39,155,12,081,FL,"Manatee County",13,24,1295
+39,155,12,099,FL,"Palm Beach County",13,18,958
+39,155,26,163,MI,"Wayne County",13,29,763
+39,155,39,093,OH,"Lorain County",13,24,341
+39,155,37,051,NC,"Cumberland County",12,22,190
+39,155,39,113,OH,"Montgomery County",12,23,320
+39,155,39,139,OH,"Richland County",12,25,492
+39,155,42,049,PA,"Erie County",12,25,412
+39,155,45,051,SC,"Horry County",12,21,306
+39,155,13,121,GA,"Fulton County",11,24,372
+39,155,08,041,CO,"El Paso County",10,21,293
+39,155,12,021,FL,"Collier County",10,16,1712
+39,155,12,095,FL,"Orange County",10,22,255
+39,155,39,045,OH,"Fairfield County",10,15,377
+39,155,48,029,TX,"Bexar County",10,23,455
+39,155,58,000,SS,"Other Flows - Same State",105,180,3240
+39,155,59,000,DS,"Other Flows - Diff State",1092,2027,38534
+39,155,59,001,DS,"Other Flows - Northeast",170,311,5087
+39,155,59,003,DS,"Other Flows - Midwest",179,376,7045
+39,155,59,005,DS,"Other Flows - South",573,1054,20145
+39,155,59,007,DS,"Other Flows - West",170,286,6257
+39,155,57,009,FR,"Foreign - Other flows",10,19,522
+39,157,96,000,OH,"Tuscarawas Coun Tot Mig-US & For",1611,2946,47781
+39,157,97,000,OH,"Tuscarawas Coun Tot Mig-US",1599,2928,47630
+39,157,97,001,OH,"Tuscarawas Coun Tot Mig-Same St",1175,2161,33356
+39,157,97,003,OH,"Tuscarawas Coun Tot Mig-Diff St",424,767,14274
+39,157,98,000,OH,"Tuscarawas Coun Tot Mig-Foreign",12,18,151
+39,157,39,157,OH,"Tuscarawas Coun Non-Migrants",34139,73008,1310046
+39,157,39,151,OH,"Stark County",321,585,10000
+39,157,39,031,OH,"Coshocton County",130,242,2826
+39,157,39,049,OH,"Franklin County",92,146,2678
+39,157,39,019,OH,"Carroll County",89,160,2369
+39,157,39,067,OH,"Harrison County",85,186,1944
+39,157,39,075,OH,"Holmes County",67,159,1890
+39,157,39,153,OH,"Summit County",59,82,1476
+39,157,39,059,OH,"Guernsey County",50,110,1264
+39,157,39,169,OH,"Wayne County",44,91,1107
+39,157,39,035,OH,"Cuyahoga County",32,40,712
+39,157,39,133,OH,"Portage County",23,30,540
+39,157,42,003,PA,"Allegheny County",12,17,457
+39,157,06,073,CA,"San Diego County",11,16,182
+39,157,39,041,OH,"Delaware County",11,16,304
+39,157,04,013,AZ,"Maricopa County",10,15,217
+39,157,39,029,OH,"Columbiana County",10,20,300
+39,157,39,089,OH,"Licking County",10,14,278
+39,157,39,099,OH,"Mahoning County",10,21,268
+39,157,58,000,SS,"Other Flows - Same State",142,259,5400
+39,157,59,000,DS,"Other Flows - Diff State",391,719,13419
+39,157,59,001,DS,"Other Flows - Northeast",48,85,1217
+39,157,59,003,DS,"Other Flows - Midwest",60,108,1981
+39,157,59,005,DS,"Other Flows - South",214,401,8069
+39,157,59,007,DS,"Other Flows - West",69,125,2152
+39,157,57,009,FR,"Foreign - Other flows",12,18,151
+39,159,96,000,OH,"Union County Tot Mig-US & For",969,1762,35511
+39,159,97,000,OH,"Union County Tot Mig-US",969,1762,35511
+39,159,97,001,OH,"Union County Tot Mig-Same St",758,1372,26444
+39,159,97,003,OH,"Union County Tot Mig-Diff St",211,390,9066
+39,159,39,159,OH,"Union County Non-Migrants",11808,26233,570720
+39,159,39,049,OH,"Franklin County",239,360,8321
+39,159,39,041,OH,"Delaware County",111,205,4815
+39,159,39,021,OH,"Champaign County",91,201,2795
+39,159,39,091,OH,"Logan County",80,155,2872
+39,159,39,101,OH,"Marion County",57,118,1684
+39,159,39,097,OH,"Madison County",35,60,884
+39,159,39,065,OH,"Hardin County",16,31,402
+39,159,39,089,OH,"Licking County",10,14,306
+39,159,58,000,SS,"Other Flows - Same State",119,228,4365
+39,159,59,000,DS,"Other Flows - Diff State",211,390,9066
+39,159,59,001,DS,"Other Flows - Northeast",14,27,454
+39,159,59,003,DS,"Other Flows - Midwest",46,88,1997
+39,159,59,005,DS,"Other Flows - South",117,216,4963
+39,159,59,007,DS,"Other Flows - West",34,59,1651
+39,161,96,000,OH,"Van Wert County Tot Mig-US & For",560,1033,17188
+39,161,97,000,OH,"Van Wert County Tot Mig-US",560,1033,17188
+39,161,97,001,OH,"Van Wert County Tot Mig-Same St",327,562,8517
+39,161,97,003,OH,"Van Wert County Tot Mig-Diff St",233,471,8671
+39,161,39,161,OH,"Van Wert County Non-Migrants",11369,24141,444336
+39,161,39,003,OH,"Allen County",64,103,1465
+39,161,39,107,OH,"Mercer County",51,94,1256
+39,161,18,003,IN,"Allen County",43,72,1055
+39,161,39,049,OH,"Franklin County",33,50,1001
+39,161,18,001,IN,"Adams County",31,65,786
+39,161,39,125,OH,"Paulding County",31,60,777
+39,161,39,137,OH,"Putnam County",25,50,637
+39,161,39,011,OH,"Auglaize County",15,28,316
+39,161,39,063,OH,"Hancock County",10,20,234
+39,161,39,095,OH,"Lucas County",10,12,287
+39,161,58,000,SS,"Other Flows - Same State",88,145,2544
+39,161,59,000,DS,"Other Flows - Diff State",159,334,6830
+39,161,59,001,DS,"Other Flows - Northeast",11,19,326
+39,161,59,003,DS,"Other Flows - Midwest",63,144,2460
+39,161,59,005,DS,"Other Flows - South",67,141,3561
+39,161,59,007,DS,"Other Flows - West",18,30,482
+39,163,96,000,OH,"Vinton County Tot Mig-US & For",242,499,5374
+39,163,97,000,OH,"Vinton County Tot Mig-US",242,499,5374
+39,163,97,001,OH,"Vinton County Tot Mig-Same St",211,437,4806
+39,163,97,003,OH,"Vinton County Tot Mig-Diff St",31,62,568
+39,163,39,163,OH,"Vinton County Non-Migrants",3292,7401,109164
+39,163,39,079,OH,"Jackson County",75,171,1520
+39,163,39,141,OH,"Ross County",23,56,493
+39,163,39,009,OH,"Athens County",22,38,392
+39,163,39,049,OH,"Franklin County",20,33,581
+39,163,39,073,OH,"Hocking County",15,30,276
+39,163,39,053,OH,"Gallia County",14,36,321
+39,163,58,000,SS,"Other Flows - Same State",42,73,1222
+39,163,59,000,DS,"Other Flows - Diff State",31,62,568
+39,165,96,000,OH,"Warren County Tot Mig-US & For",4689,9071,241031
+39,165,97,000,OH,"Warren County Tot Mig-US",4669,9033,239778
+39,165,97,001,OH,"Warren County Tot Mig-Same St",3214,5857,133812
+39,165,97,003,OH,"Warren County Tot Mig-Diff St",1455,3176,105966
+39,165,98,000,OH,"Warren County Tot Mig-Foreign",20,38,1253
+39,165,39,165,OH,"Warren County Non-Migrants",51246,118139,3186739
+39,165,39,017,OH,"Butler County",881,1682,31526
+39,165,39,113,OH,"Montgomery County",697,1246,30625
+39,165,39,061,OH,"Hamilton County",569,845,23877
+39,165,39,025,OH,"Clermont County",389,749,18023
+39,165,39,027,OH,"Clinton County",158,331,5452
+39,165,39,049,OH,"Franklin County",106,159,4370
+39,165,39,057,OH,"Greene County",94,172,4234
+39,165,21,117,KY,"Kenton County",31,48,1138
+39,165,21,015,KY,"Boone County",28,53,1924
+39,165,21,111,KY,"Jefferson County",25,47,1777
+39,165,04,013,AZ,"Maricopa County",23,48,2327
+39,165,17,031,IL,"Cook County",23,37,1292
+39,165,39,035,OH,"Cuyahoga County",22,44,1222
+39,165,39,071,OH,"Highland County",21,45,592
+39,165,39,109,OH,"Miami County",20,44,854
+39,165,39,135,OH,"Preble County",20,51,794
+39,165,39,095,OH,"Lucas County",19,43,1207
+39,165,39,015,OH,"Brown County",18,32,858
+39,165,39,041,OH,"Delaware County",17,35,1329
+39,165,39,153,OH,"Summit County",15,34,1318
+39,165,06,037,CA,"Los Angeles County",14,24,580
+39,165,12,011,FL,"Broward County",14,35,907
+39,165,12,021,FL,"Collier County",14,34,1320
+39,165,12,103,FL,"Pinellas County",14,15,292
+39,165,21,037,KY,"Campbell County",14,30,450
+39,165,21,067,KY,"Fayette County",14,27,669
+39,165,12,057,FL,"Hillsborough County",13,30,5728
+39,165,18,097,IN,"Marion County",13,30,798
+39,165,06,059,CA,"Orange County",12,25,912
+39,165,12,071,FL,"Lee County",12,20,411
+39,165,12,095,FL,"Orange County",12,24,703
+39,165,26,125,MI,"Oakland County",12,31,2960
+39,165,48,439,TX,"Tarrant County",12,29,739
+39,165,12,115,FL,"Sarasota County",11,17,631
+39,165,17,043,IL,"Du Page County",11,27,946
+39,165,18,057,IN,"Hamilton County",11,26,885
+39,165,29,189,MO,"St Louis County",11,34,1029
+39,165,39,001,OH,"Adams County",11,25,297
+39,165,39,023,OH,"Clark County",11,24,626
+39,165,39,141,OH,"Ross County",11,21,378
+39,165,08,041,CO,"El Paso County",10,26,443
+39,165,12,099,FL,"Palm Beach County",10,20,528
+39,165,12,127,FL,"Volusia County",10,24,611
+39,165,26,163,MI,"Wayne County",10,10,643
+39,165,37,119,NC,"Mecklenburg County",10,20,944
+39,165,42,003,PA,"Allegheny County",10,27,846
+39,165,47,093,TN,"Knox County",10,21,525
+39,165,57,001,FR,"Foreign - Overseas",10,25,893
+39,165,58,000,SS,"Other Flows - Same State",135,275,6229
+39,165,59,000,DS,"Other Flows - Diff State",1041,2337,73005
+39,165,59,001,DS,"Other Flows - Northeast",140,350,11334
+39,165,59,003,DS,"Other Flows - Midwest",228,565,16756
+39,165,59,005,DS,"Other Flows - South",524,1128,34609
+39,165,59,007,DS,"Other Flows - West",149,294,10306
+39,165,57,009,FR,"Foreign - Other flows",10,13,360
+39,167,96,000,OH,"Washington Coun Tot Mig-US & For",1300,2407,39048
+39,167,97,000,OH,"Washington Coun Tot Mig-US",1285,2390,38837
+39,167,97,001,OH,"Washington Coun Tot Mig-Same St",547,1012,14875
+39,167,97,003,OH,"Washington Coun Tot Mig-Diff St",738,1378,23962
+39,167,98,000,OH,"Washington Coun Tot Mig-Foreign",15,17,211
+39,167,39,167,OH,"Washington Coun Non-Migrants",21490,46148,850478
+39,167,54,107,WV,"Wood County",244,467,5967
+39,167,39,009,OH,"Athens County",102,200,2811
+39,167,39,049,OH,"Franklin County",90,125,2094
+39,167,39,115,OH,"Morgan County",56,122,1376
+39,167,39,111,OH,"Monroe County",31,85,686
+39,167,39,121,OH,"Noble County",31,72,709
+39,167,54,073,WV,"Pleasants County",19,48,518
+39,167,39,089,OH,"Licking County",16,23,503
+39,167,39,153,OH,"Summit County",16,23,461
+39,167,39,061,OH,"Hamilton County",15,22,370
+39,167,39,045,OH,"Fairfield County",14,29,500
+39,167,39,119,OH,"Muskingum County",14,20,409
+39,167,39,041,OH,"Delaware County",12,21,493
+39,167,39,059,OH,"Guernsey County",12,20,332
+39,167,39,113,OH,"Montgomery County",12,15,251
+39,167,58,000,SS,"Other Flows - Same State",126,235,3881
+39,167,59,000,DS,"Other Flows - Diff State",475,863,17477
+39,167,59,001,DS,"Other Flows - Northeast",50,94,2366
+39,167,59,003,DS,"Other Flows - Midwest",49,85,1787
+39,167,59,005,DS,"Other Flows - South",306,576,10628
+39,167,59,007,DS,"Other Flows - West",70,108,2696
+39,167,57,009,FR,"Foreign - Other flows",15,17,211
+39,169,96,000,OH,"Wayne County Tot Mig-US & For",2441,4346,75352
+39,169,97,000,OH,"Wayne County Tot Mig-US",2422,4316,74420
+39,169,97,001,OH,"Wayne County Tot Mig-Same St",1695,2980,50579
+39,169,97,003,OH,"Wayne County Tot Mig-Diff St",727,1336,23842
+39,169,98,000,OH,"Wayne County Tot Mig-Foreign",19,30,932
+39,169,39,169,OH,"Wayne County Non-Migrants",41541,92421,1787628
+39,169,39,103,OH,"Medina County",293,539,8216
+39,169,39,153,OH,"Summit County",281,460,9071
+39,169,39,151,OH,"Stark County",229,393,6532
+39,169,39,075,OH,"Holmes County",173,389,4501
+39,169,39,005,OH,"Ashland County",129,247,3886
+39,169,39,035,OH,"Cuyahoga County",92,131,3256
+39,169,39,049,OH,"Franklin County",84,112,2078
+39,169,39,157,OH,"Tuscarawas County",45,78,1226
+39,169,39,133,OH,"Portage County",28,39,730
+39,169,39,031,OH,"Coshocton County",26,40,658
+39,169,39,139,OH,"Richland County",24,35,637
+39,169,39,095,OH,"Lucas County",20,28,512
+39,169,04,013,AZ,"Maricopa County",17,28,655
+39,169,39,041,OH,"Delaware County",17,27,722
+39,169,39,093,OH,"Lorain County",17,30,510
+39,169,39,045,OH,"Fairfield County",13,30,554
+39,169,39,019,OH,"Carroll County",11,24,456
+39,169,39,155,OH,"Trumbull County",11,14,337
+39,169,42,003,PA,"Allegheny County",11,19,292
+39,169,17,031,IL,"Cook County",10,16,328
+39,169,39,077,OH,"Huron County",10,26,312
+39,169,58,000,SS,"Other Flows - Same State",192,338,6385
+39,169,59,000,DS,"Other Flows - Diff State",689,1273,22567
+39,169,59,001,DS,"Other Flows - Northeast",113,199,3514
+39,169,59,003,DS,"Other Flows - Midwest",121,245,5366
+39,169,59,005,DS,"Other Flows - South",360,694,10987
+39,169,59,007,DS,"Other Flows - West",95,135,2700
+39,169,57,009,FR,"Foreign - Other flows",19,30,932
+39,171,96,000,OH,"Williams County Tot Mig-US & For",835,1532,28505
+39,171,97,000,OH,"Williams County Tot Mig-US",835,1532,28505
+39,171,97,001,OH,"Williams County Tot Mig-Same St",444,776,12443
+39,171,97,003,OH,"Williams County Tot Mig-Diff St",391,756,16062
+39,171,39,171,OH,"Williams County Non-Migrants",15193,32063,625852
+39,171,39,039,OH,"Defiance County",148,281,4023
+39,171,39,051,OH,"Fulton County",72,117,2044
+39,171,39,095,OH,"Lucas County",45,71,1217
+39,171,39,049,OH,"Franklin County",29,39,706
+39,171,18,151,IN,"Steuben County",27,60,3337
+39,171,18,003,IN,"Allen County",26,44,1370
+39,171,26,059,MI,"Hillsdale County",25,44,606
+39,171,39,069,OH,"Henry County",18,32,408
+39,171,18,033,IN,"De Kalb County",17,33,448
+39,171,39,173,OH,"Wood County",15,20,541
+39,171,26,163,MI,"Wayne County",12,24,280
+39,171,26,091,MI,"Lenawee County",10,24,420
+39,171,58,000,SS,"Other Flows - Same State",117,216,3504
+39,171,59,000,DS,"Other Flows - Diff State",274,527,9601
+39,171,59,001,DS,"Other Flows - Northeast",18,36,697
+39,171,59,003,DS,"Other Flows - Midwest",108,208,3842
+39,171,59,005,DS,"Other Flows - South",106,214,3735
+39,171,59,007,DS,"Other Flows - West",42,69,1327
+39,173,96,000,OH,"Wood County Tot Mig-US & For",3861,6648,158349
+39,173,97,000,OH,"Wood County Tot Mig-US",3825,6599,157545
+39,173,97,001,OH,"Wood County Tot Mig-Same St",2619,4401,89243
+39,173,97,003,OH,"Wood County Tot Mig-Diff St",1206,2198,68302
+39,173,98,000,OH,"Wood County Tot Mig-Foreign",36,49,804
+39,173,39,173,OH,"Wood County Non-Migrants",41578,88886,2181992
+39,173,39,095,OH,"Lucas County",1418,2363,47908
+39,173,39,063,OH,"Hancock County",236,424,7125
+39,173,39,049,OH,"Franklin County",144,180,3722
+39,173,39,123,OH,"Ottawa County",90,177,4132
+39,173,39,143,OH,"Sandusky County",84,169,2933
+39,173,39,069,OH,"Henry County",74,138,2232
+39,173,39,035,OH,"Cuyahoga County",73,99,3232
+39,173,39,147,OH,"Seneca County",66,122,1765
+39,173,26,115,MI,"Monroe County",43,94,12431
+39,173,39,061,OH,"Hamilton County",39,46,1097
+39,173,39,051,OH,"Fulton County",31,58,1275
+39,173,39,041,OH,"Delaware County",30,50,1454
+39,173,17,031,IL,"Cook County",29,31,858
+39,173,26,163,MI,"Wayne County",27,49,1352
+39,173,26,161,MI,"Washtenaw County",26,37,773
+39,173,39,113,OH,"Montgomery County",26,50,939
+39,173,39,003,OH,"Allen County",23,39,687
+39,173,04,013,AZ,"Maricopa County",22,49,926
+39,173,26,125,MI,"Oakland County",20,37,1375
+39,173,18,003,IN,"Allen County",19,42,1332
+39,173,06,037,CA,"Los Angeles County",18,28,524
+39,173,39,043,OH,"Erie County",17,27,499
+39,173,39,077,OH,"Huron County",16,22,520
+39,173,39,153,OH,"Summit County",16,36,1171
+39,173,39,137,OH,"Putnam County",15,21,422
+39,173,39,165,OH,"Warren County",15,25,551
+39,173,57,005,FR,"Foreign - APO/FPO ZIPs",15,21,291
+39,173,18,097,IN,"Marion County",14,21,337
+39,173,26,091,MI,"Lenawee County",14,38,593
+39,173,39,017,OH,"Butler County",13,23,462
+39,173,12,103,FL,"Pinellas County",12,14,452
+39,173,37,119,NC,"Mecklenburg County",12,24,1211
+39,173,39,039,OH,"Defiance County",12,16,327
+39,173,39,085,OH,"Lake County",12,29,610
+39,173,17,043,IL,"Du Page County",11,14,422
+39,173,26,081,MI,"Kent County",11,23,536
+39,173,12,021,FL,"Collier County",10,14,2759
+39,173,12,057,FL,"Hillsborough County",10,12,338
+39,173,12,081,FL,"Manatee County",10,17,3207
+39,173,26,099,MI,"Macomb County",10,20,370
+39,173,37,183,NC,"Wake County",10,22,428
+39,173,39,093,OH,"Lorain County",10,18,497
+39,173,58,000,SS,"Other Flows - Same State",159,269,5682
+39,173,59,000,DS,"Other Flows - Diff State",878,1612,38079
+39,173,59,001,DS,"Other Flows - Northeast",138,237,5831
+39,173,59,003,DS,"Other Flows - Midwest",181,370,8090
+39,173,59,005,DS,"Other Flows - South",419,745,18587
+39,173,59,007,DS,"Other Flows - West",140,260,5570
+39,173,57,009,FR,"Foreign - Other flows",21,28,513
+39,175,96,000,OH,"Wyandot County Tot Mig-US & For",513,940,14102
+39,175,97,000,OH,"Wyandot County Tot Mig-US",513,940,14102
+39,175,97,001,OH,"Wyandot County Tot Mig-Same St",422,754,11405
+39,175,97,003,OH,"Wyandot County Tot Mig-Diff St",91,186,2697
+39,175,39,175,OH,"Wyandot County Non-Migrants",7970,16513,301335
+39,175,39,063,OH,"Hancock County",85,147,2552
+39,175,39,147,OH,"Seneca County",77,131,1821
+39,175,39,033,OH,"Crawford County",65,121,1585
+39,175,39,101,OH,"Marion County",38,73,1060
+39,175,39,065,OH,"Hardin County",37,83,865
+39,175,39,049,OH,"Franklin County",32,36,877
+39,175,39,041,OH,"Delaware County",11,16,437
+39,175,58,000,SS,"Other Flows - Same State",77,147,2209
+39,175,59,000,DS,"Other Flows - Diff State",91,186,2697
+39,175,59,001,DS,"Other Flows - Northeast",10,15,174
+39,175,59,003,DS,"Other Flows - Midwest",22,48,958
+39,175,59,005,DS,"Other Flows - South",47,97,1215
+39,175,59,007,DS,"Other Flows - West",12,26,351

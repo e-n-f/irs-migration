@@ -1,0 +1,632 @@
+"2000 - 2001 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Maine,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+23,000,96,000,ME,"Total Mig - US & For",31901,56822,1279080
+23,000,97,000,ME,"Total Mig - US",31168,55689,1261727
+23,000,97,001,ME,"Total Mig - US Same St",15384,26766,491273
+23,000,97,003,ME,"Total Mig - US Diff St",15784,28923,770453
+23,000,98,000,ME,"Total Mig - Foreign",733,1133,17353
+23,001,96,000,ME,"Androscoggin Co Tot Mig-US & For",2265,4085,71333
+23,001,97,000,ME,"Androscoggin Co Tot Mig-US",2221,4015,70681
+23,001,97,001,ME,"Androscoggin Co Tot Mig-Same St",1414,2459,40449
+23,001,97,003,ME,"Androscoggin Co Tot Mig-Diff St",807,1556,30232
+23,001,98,000,ME,"Androscoggin Co Tot Mig-Foreign",44,70,652
+23,001,23,001,ME,"Androscoggin Co Non-Migrants",36395,77821,1462706
+23,001,23,005,ME,"Cumberland County",484,830,15902
+23,001,23,017,ME,"Oxford County",214,379,5211
+23,001,23,011,ME,"Kennebec County",202,359,5297
+23,001,23,007,ME,"Franklin County",128,219,2992
+23,001,23,023,ME,"Sagadahoc County",120,230,3860
+23,001,23,031,ME,"York County",87,144,2934
+23,001,23,019,ME,"Penobscot County",63,115,1463
+23,001,25,017,MA,"Middlesex County",30,55,1325
+23,001,23,003,ME,"Aroostook County",24,38,512
+23,001,23,015,ME,"Lincoln County",24,40,646
+23,001,23,025,ME,"Somerset County",22,33,548
+23,001,33,011,NH,"Hillsborough County",22,33,787
+23,001,57,005,FR,"Foreign - APO/FPO ZIPs",20,38,435
+23,001,25,027,MA,"Worcester County",18,38,577
+23,001,25,009,MA,"Essex County",14,27,540
+23,001,25,023,MA,"Plymouth County",13,23,431
+23,001,33,017,NH,"Strafford County",13,23,602
+23,001,09,003,CT,"Hartford County",12,19,215
+23,001,23,009,ME,"Hancock County",12,19,360
+23,001,23,027,ME,"Waldo County",12,20,293
+23,001,33,015,NH,"Rockingham County",12,25,625
+23,001,09,009,CT,"New Haven County",10,18,383
+23,001,23,013,ME,"Knox County",10,16,177
+23,001,25,025,MA,"Suffolk County",10,16,233
+23,001,58,000,SS,"Other Flows - Same State",12,17,254
+23,001,59,000,DS,"Other Flows - Diff State",653,1279,24514
+23,001,59,001,DS,"Other Flows - Northeast",194,362,9284
+23,001,59,003,DS,"Other Flows - Midwest",80,164,3167
+23,001,59,005,DS,"Other Flows - South",263,536,8187
+23,001,59,007,DS,"Other Flows - West",116,217,3877
+23,001,57,009,FR,"Foreign - Other flows",24,32,217
+23,003,96,000,ME,"Aroostook Count Tot Mig-US & For",901,1703,23915
+23,003,97,000,ME,"Aroostook Count Tot Mig-US",841,1601,22754
+23,003,97,001,ME,"Aroostook Count Tot Mig-Same St",333,595,8820
+23,003,97,003,ME,"Aroostook Count Tot Mig-Diff St",508,1006,13934
+23,003,98,000,ME,"Aroostook Count Tot Mig-Foreign",60,102,1161
+23,003,23,003,ME,"Aroostook Count Non-Migrants",25277,55998,875856
+23,003,23,019,ME,"Penobscot County",113,202,2571
+23,003,23,005,ME,"Cumberland County",69,123,1749
+23,003,23,031,ME,"York County",34,57,1069
+23,003,23,011,ME,"Kennebec County",25,39,577
+23,003,23,029,ME,"Washington County",18,37,469
+23,003,57,005,FR,"Foreign - APO/FPO ZIPs",18,33,429
+23,003,09,003,CT,"Hartford County",17,36,433
+23,003,23,001,ME,"Androscoggin County",17,29,503
+23,003,23,027,ME,"Waldo County",12,29,637
+23,003,09,009,CT,"New Haven County",11,17,170
+23,003,23,023,ME,"Sagadahoc County",10,21,306
+23,003,33,015,NH,"Rockingham County",10,19,279
+23,003,58,000,SS,"Other Flows - Same State",35,58,938
+23,003,59,000,DS,"Other Flows - Diff State",470,934,13051
+23,003,59,001,DS,"Other Flows - Northeast",159,299,4934
+23,003,59,003,DS,"Other Flows - Midwest",54,101,1389
+23,003,59,005,DS,"Other Flows - South",167,342,4429
+23,003,59,007,DS,"Other Flows - West",90,192,2299
+23,003,57,009,FR,"Foreign - Other flows",42,69,732
+23,005,96,000,ME,"Cumberland Coun Tot Mig-US & For",7695,12908,369134
+23,005,97,000,ME,"Cumberland Coun Tot Mig-US",7501,12574,360737
+23,005,97,001,ME,"Cumberland Coun Tot Mig-Same St",3210,5010,112950
+23,005,97,003,ME,"Cumberland Coun Tot Mig-Diff St",4291,7564,247787
+23,005,98,000,ME,"Cumberland Coun Tot Mig-Foreign",194,334,8396
+23,005,23,005,ME,"Cumberland Coun Non-Migrants",100103,206891,5924790
+23,005,23,031,ME,"York County",1036,1657,35968
+23,005,23,001,ME,"Androscoggin County",431,732,15609
+23,005,23,023,ME,"Sagadahoc County",401,664,10620
+23,005,23,011,ME,"Kennebec County",279,417,15556
+23,005,23,019,ME,"Penobscot County",241,350,7170
+23,005,25,017,MA,"Middlesex County",225,369,16806
+23,005,23,017,ME,"Oxford County",216,335,6722
+23,005,23,003,ME,"Aroostook County",127,163,2814
+23,005,57,005,FR,"Foreign - APO/FPO ZIPs",112,219,2821
+23,005,25,025,MA,"Suffolk County",109,143,7250
+23,005,33,015,NH,"Rockingham County",98,169,7075
+23,005,23,015,ME,"Lincoln County",95,127,2808
+23,005,23,013,ME,"Knox County",93,132,7636
+23,005,25,009,MA,"Essex County",88,165,4820
+23,005,25,027,MA,"Worcester County",84,132,4180
+23,005,25,021,MA,"Norfolk County",80,140,5300
+23,005,33,011,NH,"Hillsborough County",77,125,3328
+23,005,23,009,ME,"Hancock County",69,101,2324
+23,005,23,007,ME,"Franklin County",64,81,1300
+23,005,09,001,CT,"Fairfield County",57,103,13864
+23,005,23,025,ME,"Somerset County",52,90,1702
+23,005,50,007,VT,"Chittenden County",51,94,3069
+23,005,33,017,NH,"Strafford County",48,63,1283
+23,005,06,037,CA,"Los Angeles County",46,61,1456
+23,005,23,029,ME,"Washington County",46,80,1131
+23,005,36,061,NY,"New York County",46,73,3168
+23,005,09,009,CT,"New Haven County",45,59,1747
+23,005,12,031,FL,"Duval County",44,104,1606
+23,005,09,003,CT,"Hartford County",43,68,3721
+23,005,25,023,MA,"Plymouth County",42,79,1726
+23,005,23,027,ME,"Waldo County",39,51,1145
+23,005,33,003,NH,"Carroll County",39,65,1227
+23,005,25,001,MA,"Barnstable County",36,66,1481
+23,005,12,011,FL,"Broward County",35,54,2405
+23,005,04,013,AZ,"Maricopa County",32,58,1548
+23,005,25,005,MA,"Bristol County",32,49,1437
+23,005,17,031,IL,"Cook County",29,52,1226
+23,005,25,013,MA,"Hampden County",29,47,1038
+23,005,06,073,CA,"San Diego County",28,60,828
+23,005,09,011,CT,"New London County",28,55,1396
+23,005,51,810,VA,"Virginia Beach",28,72,1499
+23,005,06,075,CA,"San Francisco County",27,35,1102
+23,005,33,013,NH,"Merrimack County",27,39,1055
+23,005,44,007,RI,"Providence County",27,34,811
+23,005,11,001,DC,"District Of Columbia",26,33,2654
+23,005,53,033,WA,"King County",26,42,844
+23,005,12,099,FL,"Palm Beach County",25,42,1733
+23,005,12,103,FL,"Pinellas County",25,42,739
+23,005,36,047,NY,"Kings County",25,37,1218
+23,005,36,103,NY,"Suffolk County",24,53,1623
+23,005,51,059,VA,"Fairfax County",23,55,2375
+23,005,12,071,FL,"Lee County",22,36,1015
+23,005,36,055,NY,"Monroe County",22,31,851
+23,005,12,033,FL,"Escambia County",21,43,446
+23,005,15,003,HI,"Honolulu County",21,50,656
+23,005,24,003,MD,"Anne Arundel County",21,61,1613
+23,005,33,005,NH,"Cheshire County",21,37,803
+23,005,41,051,OR,"Multnomah County",21,32,632
+23,005,47,037,TN,"Davidson County",20,41,710
+23,005,25,015,MA,"Hampshire County",19,31,768
+23,005,36,081,NY,"Queens County",19,26,532
+23,005,37,183,NC,"Wake County",19,34,2014
+23,005,49,035,UT,"Salt Lake County",19,35,545
+23,005,06,059,CA,"Orange County",18,42,12048
+23,005,27,053,MN,"Hennepin County",17,28,645
+23,005,39,049,OH,"Franklin County",17,35,436
+23,005,06,085,CA,"Santa Clara County",16,25,1680
+23,005,12,019,FL,"Clay County",16,43,566
+23,005,12,095,FL,"Orange County",16,20,173
+23,005,25,003,MA,"Berkshire County",16,32,599
+23,005,33,007,NH,"Coos County",16,21,443
+23,005,36,059,NY,"Nassau County",16,31,942
+23,005,42,003,PA,"Allegheny County",16,30,1995
+23,005,48,113,TX,"Dallas County",16,34,891
+23,005,12,127,FL,"Volusia County",15,24,345
+23,005,36,119,NY,"Westchester County",15,22,503
+23,005,50,027,VT,"Windsor County",15,22,565
+23,005,51,013,VA,"Arlington County",15,26,949
+23,005,08,005,CO,"Arapahoe County",14,31,901
+23,005,08,013,CO,"Boulder County",14,21,949
+23,005,08,041,CO,"El Paso County",14,21,659
+23,005,13,121,GA,"Fulton County",14,23,1028
+23,005,24,031,MD,"Montgomery County",14,26,750
+23,005,36,091,NY,"Saratoga County",14,20,1055
+23,005,42,101,PA,"Philadelphia County",14,23,651
+23,005,48,201,TX,"Harris County",14,33,957
+23,005,04,019,AZ,"Pima County",13,21,631
+23,005,06,071,CA,"San Bernardino Count",13,21,312
+23,005,12,009,FL,"Brevard County",13,24,325
+23,005,12,085,FL,"Martin County",13,17,714
+23,005,12,115,FL,"Sarasota County",13,25,598
+23,005,33,009,NH,"Grafton County",13,18,536
+23,005,42,029,PA,"Chester County",13,16,844
+23,005,44,005,RI,"Newport County",13,34,647
+23,005,50,021,VT,"Rutland County",13,22,652
+23,005,09,007,CT,"Middlesex County",12,18,645
+23,005,13,067,GA,"Cobb County",12,28,919
+23,005,25,011,MA,"Franklin County",12,24,419
+23,005,33,001,NH,"Belknap County",12,26,466
+23,005,34,003,NJ,"Bergen County",12,16,731
+23,005,36,071,NY,"Orange County",12,36,787
+23,005,42,091,PA,"Montgomery County",12,31,899
+23,005,44,009,RI,"Washington County",12,18,1019
+23,005,08,031,CO,"Denver County",11,16,550
+23,005,09,013,CT,"Tolland County",11,20,588
+23,005,12,025,FL,"Dade County",11,20,629
+23,005,13,089,GA,"De Kalb County",11,20,7180
+23,005,17,097,IL,"Lake County",11,20,513
+23,005,32,003,NV,"Clark County",11,18,341
+23,005,34,017,NJ,"Hudson County",11,14,430
+23,005,34,027,NJ,"Morris County",11,22,635
+23,005,37,133,NC,"Onslow County",11,24,308
+23,005,48,029,TX,"Bexar County",11,19,270
+23,005,51,710,VA,Norfolk,11,23,285
+23,005,02,020,AK,"Anchorage Borough",10,13,414
+23,005,06,001,CA,"Alameda County",10,16,543
+23,005,08,059,CO,"Jefferson County",10,23,520
+23,005,29,189,MO,"St Louis County",10,17,975
+23,005,34,021,NJ,"Mercer County",10,18,754
+23,005,34,039,NJ,"Union County",10,14,509
+23,005,35,001,NM,"Bernalillo County",10,16,257
+23,005,37,119,NC,"Mecklenburg County",10,21,518
+23,005,47,157,TN,"Shelby County",10,18,519
+23,005,53,061,WA,"Snohomish County",10,20,383
+23,005,58,000,SS,"Other Flows - Same State",21,30,444
+23,005,59,000,DS,"Other Flows - Diff State",1506,2750,70568
+23,005,59,001,DS,"Other Flows - Northeast",337,604,18318
+23,005,59,003,DS,"Other Flows - Midwest",328,597,16368
+23,005,59,005,DS,"Other Flows - South",615,1148,26860
+23,005,59,007,DS,"Other Flows - West",226,401,9023
+23,005,57,009,FR,"Foreign - Other flows",82,115,5575
+23,007,96,000,ME,"Franklin County Tot Mig-US & For",689,1220,23296
+23,007,97,000,ME,"Franklin County Tot Mig-US",672,1197,23096
+23,007,97,001,ME,"Franklin County Tot Mig-Same St",397,707,11580
+23,007,97,003,ME,"Franklin County Tot Mig-Diff St",275,490,11515
+23,007,98,000,ME,"Franklin County Tot Mig-Foreign",17,23,200
+23,007,23,007,ME,"Franklin County Non-Migrants",9873,21492,370129
+23,007,23,001,ME,"Androscoggin County",93,178,2408
+23,007,23,025,ME,"Somerset County",54,113,1249
+23,007,23,005,ME,"Cumberland County",50,83,2210
+23,007,23,011,ME,"Kennebec County",46,74,1333
+23,007,23,017,ME,"Oxford County",42,75,992
+23,007,23,019,ME,"Penobscot County",33,44,1070
+23,007,23,031,ME,"York County",19,35,541
+23,007,23,003,ME,"Aroostook County",15,26,378
+23,007,25,009,MA,"Essex County",14,15,227
+23,007,23,013,ME,"Knox County",12,26,556
+23,007,58,000,SS,"Other Flows - Same State",33,53,843
+23,007,59,000,DS,"Other Flows - Diff State",261,475,11288
+23,007,59,001,DS,"Other Flows - Northeast",113,192,4687
+23,007,59,003,DS,"Other Flows - Midwest",23,36,737
+23,007,59,005,DS,"Other Flows - South",87,175,4445
+23,007,59,007,DS,"Other Flows - West",38,72,1419
+23,007,57,009,FR,"Foreign - Other flows",17,23,200
+23,009,96,000,ME,"Hancock County Tot Mig-US & For",1345,2297,63696
+23,009,97,000,ME,"Hancock County Tot Mig-US",1307,2241,63005
+23,009,97,001,ME,"Hancock County Tot Mig-Same St",564,950,18405
+23,009,97,003,ME,"Hancock County Tot Mig-Diff St",743,1291,44599
+23,009,98,000,ME,"Hancock County Tot Mig-Foreign",38,56,691
+23,009,23,009,ME,"Hancock County Non-Migrants",18614,38769,849398
+23,009,23,019,ME,"Penobscot County",209,341,6710
+23,009,23,029,ME,"Washington County",69,128,1880
+23,009,23,027,ME,"Waldo County",59,113,1533
+23,009,23,005,ME,"Cumberland County",47,73,1608
+23,009,23,003,ME,"Aroostook County",39,73,1170
+23,009,23,011,ME,"Kennebec County",31,47,1232
+23,009,23,031,ME,"York County",24,40,1494
+23,009,25,017,MA,"Middlesex County",23,31,1326
+23,009,23,021,ME,"Piscataquis County",16,26,374
+23,009,23,013,ME,"Knox County",15,28,316
+23,009,23,025,ME,"Somerset County",15,19,285
+23,009,23,017,ME,"Oxford County",14,20,373
+23,009,33,015,NH,"Rockingham County",14,20,477
+23,009,25,009,MA,"Essex County",12,24,449
+23,009,33,011,NH,"Hillsborough County",11,16,352
+23,009,57,005,FR,"Foreign - APO/FPO ZIPs",11,24,273
+23,009,12,033,FL,"Escambia County",10,14,198
+23,009,12,103,FL,"Pinellas County",10,14,215
+23,009,25,027,MA,"Worcester County",10,14,233
+23,009,36,061,NY,"New York County",10,12,1362
+23,009,58,000,SS,"Other Flows - Same State",26,42,1430
+23,009,59,000,DS,"Other Flows - Diff State",643,1146,39987
+23,009,59,001,DS,"Other Flows - Northeast",243,415,17614
+23,009,59,003,DS,"Other Flows - Midwest",78,136,3695
+23,009,59,005,DS,"Other Flows - South",205,382,14641
+23,009,59,007,DS,"Other Flows - West",117,213,4038
+23,009,57,009,FR,"Foreign - Other flows",27,32,418
+23,011,96,000,ME,"Kennebec County Tot Mig-US & For",2598,4712,81499
+23,011,97,000,ME,"Kennebec County Tot Mig-US",2538,4626,80467
+23,011,97,001,ME,"Kennebec County Tot Mig-Same St",1523,2763,44997
+23,011,97,003,ME,"Kennebec County Tot Mig-Diff St",1015,1863,35470
+23,011,98,000,ME,"Kennebec County Tot Mig-Foreign",60,86,1032
+23,011,23,011,ME,"Kennebec County Non-Migrants",44233,94968,1865996
+23,011,23,025,ME,"Somerset County",258,475,6286
+23,011,23,005,ME,"Cumberland County",246,415,7886
+23,011,23,001,ME,"Androscoggin County",235,471,8242
+23,011,23,019,ME,"Penobscot County",131,228,3780
+23,011,23,015,ME,"Lincoln County",117,198,3235
+23,011,23,023,ME,"Sagadahoc County",101,210,2889
+23,011,23,027,ME,"Waldo County",99,174,2917
+23,011,23,031,ME,"York County",84,142,3009
+23,011,23,007,ME,"Franklin County",60,111,1691
+23,011,23,003,ME,"Aroostook County",51,98,1211
+23,011,23,013,ME,"Knox County",47,76,1366
+23,011,25,017,MA,"Middlesex County",37,61,1530
+23,011,23,017,ME,"Oxford County",36,69,1126
+23,011,33,011,NH,"Hillsborough County",30,59,1034
+23,011,57,005,FR,"Foreign - APO/FPO ZIPs",24,48,798
+23,011,25,009,MA,"Essex County",22,50,562
+23,011,23,009,ME,"Hancock County",20,26,466
+23,011,25,027,MA,"Worcester County",20,36,635
+23,011,23,029,ME,"Washington County",19,40,517
+23,011,09,003,CT,"Hartford County",16,24,467
+23,011,12,103,FL,"Pinellas County",16,28,485
+23,011,33,015,NH,"Rockingham County",16,24,527
+23,011,33,017,NH,"Strafford County",15,31,401
+23,011,25,025,MA,"Suffolk County",14,18,563
+23,011,09,009,CT,"New Haven County",13,22,218
+23,011,25,023,MA,"Plymouth County",13,29,495
+23,011,25,021,MA,"Norfolk County",12,17,557
+23,011,25,001,MA,"Barnstable County",11,24,271
+23,011,33,003,NH,"Carroll County",11,21,262
+23,011,33,013,NH,"Merrimack County",11,16,401
+23,011,12,101,FL,"Pasco County",10,14,237
+23,011,12,127,FL,"Volusia County",10,17,208
+23,011,25,005,MA,"Bristol County",10,18,389
+23,011,58,000,SS,"Other Flows - Same State",19,30,375
+23,011,59,000,DS,"Other Flows - Diff State",728,1354,26227
+23,011,59,001,DS,"Other Flows - Northeast",210,386,8539
+23,011,59,003,DS,"Other Flows - Midwest",90,162,3071
+23,011,59,005,DS,"Other Flows - South",274,539,9690
+23,011,59,007,DS,"Other Flows - West",154,267,4927
+23,011,57,009,FR,"Foreign - Other flows",36,38,234
+23,013,96,000,ME,"Knox County Tot Mig-US & For",1004,1776,53821
+23,013,97,000,ME,"Knox County Tot Mig-US",1004,1776,53821
+23,013,97,001,ME,"Knox County Tot Mig-Same St",434,793,14573
+23,013,97,003,ME,"Knox County Tot Mig-Diff St",570,983,39248
+23,013,23,013,ME,"Knox County Non-Migrants",14557,30265,664657
+23,013,23,015,ME,"Lincoln County",91,181,2595
+23,013,23,027,ME,"Waldo County",89,167,3039
+23,013,23,005,ME,"Cumberland County",64,105,3021
+23,013,23,011,ME,"Kennebec County",46,90,1724
+23,013,23,019,ME,"Penobscot County",27,40,749
+23,013,23,031,ME,"York County",21,45,779
+23,013,23,009,ME,"Hancock County",19,34,453
+23,013,23,003,ME,"Aroostook County",18,37,603
+23,013,25,017,MA,"Middlesex County",18,33,1009
+23,013,25,009,MA,"Essex County",16,21,708
+23,013,10,003,DE,"New Castle County",14,27,1376
+23,013,23,025,ME,"Somerset County",11,19,281
+23,013,23,029,ME,"Washington County",11,22,266
+23,013,36,061,NY,"New York County",11,13,559
+23,013,23,001,ME,"Androscoggin County",10,13,308
+23,013,23,007,ME,"Franklin County",10,16,227
+23,013,25,021,MA,"Norfolk County",10,17,984
+23,013,25,027,MA,"Worcester County",10,13,487
+23,013,33,011,NH,"Hillsborough County",10,20,331
+23,013,58,000,SS,"Other Flows - Same State",17,24,529
+23,013,59,000,DS,"Other Flows - Diff State",481,839,33793
+23,013,59,001,DS,"Other Flows - Northeast",193,328,16176
+23,013,59,003,DS,"Other Flows - Midwest",58,97,5613
+23,013,59,005,DS,"Other Flows - South",138,252,7990
+23,013,59,007,DS,"Other Flows - West",92,162,4015
+23,015,96,000,ME,"Lincoln County Tot Mig-US & For",1043,1836,52164
+23,015,97,000,ME,"Lincoln County Tot Mig-US",1027,1819,51896
+23,015,97,001,ME,"Lincoln County Tot Mig-Same St",515,923,21443
+23,015,97,003,ME,"Lincoln County Tot Mig-Diff St",512,896,30454
+23,015,98,000,ME,"Lincoln County Tot Mig-Foreign",16,17,267
+23,015,23,015,ME,"Lincoln County Non-Migrants",12690,26723,576674
+23,015,23,011,ME,"Kennebec County",117,203,7957
+23,015,23,013,ME,"Knox County",102,191,2568
+23,015,23,005,ME,"Cumberland County",89,153,3770
+23,015,23,023,ME,"Sagadahoc County",81,163,2719
+23,015,23,019,ME,"Penobscot County",27,41,791
+23,015,23,031,ME,"York County",23,40,974
+23,015,25,017,MA,"Middlesex County",22,36,1223
+23,015,23,001,ME,"Androscoggin County",18,32,570
+23,015,09,009,CT,"New Haven County",16,24,588
+23,015,23,027,ME,"Waldo County",16,29,342
+23,015,25,009,MA,"Essex County",16,21,579
+23,015,25,025,MA,"Suffolk County",14,22,702
+23,015,23,017,ME,"Oxford County",12,18,656
+23,015,09,001,CT,"Fairfield County",11,21,1513
+23,015,25,027,MA,"Worcester County",10,17,680
+23,015,33,015,NH,"Rockingham County",10,18,400
+23,015,58,000,SS,"Other Flows - Same State",30,53,1094
+23,015,59,000,DS,"Other Flows - Diff State",413,737,24770
+23,015,59,001,DS,"Other Flows - Northeast",184,324,8933
+23,015,59,003,DS,"Other Flows - Midwest",52,91,4160
+23,015,59,005,DS,"Other Flows - South",118,217,9287
+23,015,59,007,DS,"Other Flows - West",59,105,2390
+23,015,57,009,FR,"Foreign - Other flows",16,17,267
+23,017,96,000,ME,"Oxford County Tot Mig-US & For",1261,2359,40876
+23,017,97,000,ME,"Oxford County Tot Mig-US",1246,2336,40675
+23,017,97,001,ME,"Oxford County Tot Mig-Same St",680,1306,19683
+23,017,97,003,ME,"Oxford County Tot Mig-Diff St",566,1030,20992
+23,017,98,000,ME,"Oxford County Tot Mig-Foreign",15,23,201
+23,017,23,017,ME,"Oxford County Non-Migrants",18846,41072,700762
+23,017,23,001,ME,"Androscoggin County",237,464,6082
+23,017,23,005,ME,"Cumberland County",195,360,6624
+23,017,23,031,ME,"York County",88,174,2430
+23,017,33,003,NH,"Carroll County",66,125,1659
+23,017,23,007,ME,"Franklin County",44,93,1108
+23,017,25,017,MA,"Middlesex County",34,53,1233
+23,017,25,009,MA,"Essex County",33,55,1499
+23,017,23,011,ME,"Kennebec County",29,49,946
+23,017,23,019,ME,"Penobscot County",20,35,439
+23,017,33,015,NH,"Rockingham County",17,33,501
+23,017,25,023,MA,"Plymouth County",16,38,558
+23,017,23,003,ME,"Aroostook County",14,29,375
+23,017,25,021,MA,"Norfolk County",12,19,690
+23,017,33,007,NH,"Coos County",12,22,249
+23,017,25,005,MA,"Bristol County",11,25,591
+23,017,58,000,SS,"Other Flows - Same State",53,102,1679
+23,017,59,000,DS,"Other Flows - Diff State",365,660,14013
+23,017,59,001,DS,"Other Flows - Northeast",141,246,6408
+23,017,59,003,DS,"Other Flows - Midwest",41,65,1683
+23,017,59,005,DS,"Other Flows - South",138,260,4859
+23,017,59,007,DS,"Other Flows - West",45,89,1063
+23,017,57,009,FR,"Foreign - Other flows",15,23,201
+23,019,96,000,ME,"Penobscot Count Tot Mig-US & For",3055,5304,96012
+23,019,97,000,ME,"Penobscot Count Tot Mig-US",2932,5163,95188
+23,019,97,001,ME,"Penobscot Count Tot Mig-Same St",1579,2645,44428
+23,019,97,003,ME,"Penobscot Count Tot Mig-Diff St",1353,2518,50759
+23,019,98,000,ME,"Penobscot Count Tot Mig-Foreign",123,141,824
+23,019,23,019,ME,"Penobscot Count Non-Migrants",50927,109013,2089075
+23,019,23,009,ME,"Hancock County",223,371,6731
+23,019,23,003,ME,"Aroostook County",214,358,5349
+23,019,23,027,ME,"Waldo County",171,308,4887
+23,019,23,025,ME,"Somerset County",159,276,3959
+23,019,23,005,ME,"Cumberland County",154,244,4658
+23,019,23,021,ME,"Piscataquis County",143,247,3180
+23,019,23,011,ME,"Kennebec County",140,234,4310
+23,019,23,029,ME,"Washington County",100,155,2416
+23,019,23,031,ME,"York County",83,138,2455
+23,019,23,001,ME,"Androscoggin County",66,99,2181
+23,019,25,017,MA,"Middlesex County",35,56,1245
+23,019,25,027,MA,"Worcester County",32,57,948
+23,019,23,007,ME,"Franklin County",28,36,835
+23,019,23,015,ME,"Lincoln County",28,57,900
+23,019,33,011,NH,"Hillsborough County",28,45,898
+23,019,23,017,ME,"Oxford County",27,46,827
+23,019,23,013,ME,"Knox County",23,46,867
+23,019,25,009,MA,"Essex County",22,32,920
+23,019,33,017,NH,"Strafford County",21,39,642
+23,019,09,003,CT,"Hartford County",20,34,582
+23,019,09,009,CT,"New Haven County",19,35,597
+23,019,25,025,MA,"Suffolk County",19,27,373
+23,019,33,015,NH,"Rockingham County",19,31,709
+23,019,25,021,MA,"Norfolk County",15,26,654
+23,019,04,013,AZ,"Maricopa County",14,25,494
+23,019,25,023,MA,"Plymouth County",14,33,417
+23,019,37,051,NC,"Cumberland County",13,27,378
+23,019,09,001,CT,"Fairfield County",12,28,1527
+23,019,09,011,CT,"New London County",12,22,354
+23,019,25,005,MA,"Bristol County",12,22,257
+23,019,25,001,MA,"Barnstable County",11,22,356
+23,019,57,005,FR,"Foreign - APO/FPO ZIPs",11,20,224
+23,019,06,073,CA,"San Diego County",10,21,366
+23,019,12,099,FL,"Palm Beach County",10,12,388
+23,019,12,101,FL,"Pasco County",10,19,219
+23,019,25,013,MA,"Hampden County",10,13,344
+23,019,58,000,SS,"Other Flows - Same State",20,30,872
+23,019,59,000,DS,"Other Flows - Diff State",995,1892,38091
+23,019,59,001,DS,"Other Flows - Northeast",281,475,8152
+23,019,59,003,DS,"Other Flows - Midwest",150,330,6615
+23,019,59,005,DS,"Other Flows - South",399,759,14971
+23,019,59,007,DS,"Other Flows - West",165,328,8352
+23,019,57,009,FR,"Foreign - Other flows",112,121,600
+23,021,96,000,ME,"Piscataquis Cou Tot Mig-US & For",385,727,11978
+23,021,97,000,ME,"Piscataquis Cou Tot Mig-US",385,727,11978
+23,021,97,001,ME,"Piscataquis Cou Tot Mig-Same St",213,392,6328
+23,021,97,003,ME,"Piscataquis Cou Tot Mig-Diff St",172,335,5650
+23,021,23,021,ME,"Piscataquis Cou Non-Migrants",5846,12888,203563
+23,021,23,019,ME,"Penobscot County",98,189,2714
+23,021,23,025,ME,"Somerset County",26,55,783
+23,021,23,005,ME,"Cumberland County",19,23,591
+23,021,23,011,ME,"Kennebec County",18,25,952
+23,021,23,031,ME,"York County",15,31,414
+23,021,58,000,SS,"Other Flows - Same State",37,69,874
+23,021,59,000,DS,"Other Flows - Diff State",172,335,5650
+23,023,96,000,ME,"Sagadahoc Count Tot Mig-US & For",1433,2733,51328
+23,023,97,000,ME,"Sagadahoc Count Tot Mig-US",1389,2651,50205
+23,023,97,001,ME,"Sagadahoc Count Tot Mig-Same St",817,1480,26613
+23,023,97,003,ME,"Sagadahoc Count Tot Mig-Diff St",572,1171,23592
+23,023,98,000,ME,"Sagadahoc Count Tot Mig-Foreign",44,82,1123
+23,023,23,023,ME,"Sagadahoc Count Non-Migrants",12325,27111,550645
+23,023,23,005,ME,"Cumberland County",435,815,14215
+23,023,23,001,ME,"Androscoggin County",105,198,3388
+23,023,23,011,ME,"Kennebec County",90,151,2747
+23,023,23,015,ME,"Lincoln County",77,128,2482
+23,023,23,031,ME,"York County",27,40,731
+23,023,12,031,FL,"Duval County",23,58,1037
+23,023,23,019,ME,"Penobscot County",17,29,653
+23,023,06,073,CA,"San Diego County",16,33,516
+23,023,23,013,ME,"Knox County",13,20,583
+23,023,25,017,MA,"Middlesex County",13,22,917
+23,023,25,021,MA,"Norfolk County",13,22,1210
+23,023,24,037,MD,"St Mary's County",11,24,347
+23,023,25,025,MA,"Suffolk County",11,19,409
+23,023,58,000,SS,"Other Flows - Same State",53,99,1814
+23,023,59,000,DS,"Other Flows - Diff State",485,993,19156
+23,023,59,001,DS,"Other Flows - Northeast",173,312,7875
+23,023,59,003,DS,"Other Flows - Midwest",50,84,1834
+23,023,59,005,DS,"Other Flows - South",177,428,6619
+23,023,59,007,DS,"Other Flows - West",85,169,2827
+23,023,57,009,FR,"Foreign - Other flows",44,82,1123
+23,025,96,000,ME,"Somerset County Tot Mig-US & For",945,1857,32744
+23,025,97,000,ME,"Somerset County Tot Mig-US",935,1837,32468
+23,025,97,001,ME,"Somerset County Tot Mig-Same St",575,1143,15002
+23,025,97,003,ME,"Somerset County Tot Mig-Diff St",360,694,17466
+23,025,98,000,ME,"Somerset County Tot Mig-Foreign",10,20,276
+23,025,23,025,ME,"Somerset County Non-Migrants",15209,33571,539420
+23,025,23,011,ME,"Kennebec County",185,354,4863
+23,025,23,019,ME,"Penobscot County",161,305,4105
+23,025,23,007,ME,"Franklin County",47,101,1237
+23,025,23,005,ME,"Cumberland County",37,61,1111
+23,025,23,021,ME,"Piscataquis County",33,80,743
+23,025,23,027,ME,"Waldo County",28,58,823
+23,025,23,031,ME,"York County",18,40,427
+23,025,23,003,ME,"Aroostook County",15,37,393
+23,025,25,017,MA,"Middlesex County",14,27,529
+23,025,33,011,NH,"Hillsborough County",13,20,397
+23,025,23,001,ME,"Androscoggin County",11,25,299
+23,025,23,009,ME,"Hancock County",10,22,383
+23,025,58,000,SS,"Other Flows - Same State",30,60,619
+23,025,59,000,DS,"Other Flows - Diff State",333,647,16539
+23,025,59,001,DS,"Other Flows - Northeast",158,316,10153
+23,025,59,003,DS,"Other Flows - Midwest",21,48,545
+23,025,59,005,DS,"Other Flows - South",96,180,3060
+23,025,59,007,DS,"Other Flows - West",58,103,2782
+23,025,57,009,FR,"Foreign - Other flows",10,20,276
+23,027,96,000,ME,"Waldo County Tot Mig-US & For",1105,2024,36827
+23,027,97,000,ME,"Waldo County Tot Mig-US",1105,2024,36827
+23,027,97,001,ME,"Waldo County Tot Mig-Same St",691,1267,20763
+23,027,97,003,ME,"Waldo County Tot Mig-Diff St",414,757,16064
+23,027,23,027,ME,"Waldo County Non-Migrants",12700,27422,475647
+23,027,23,019,ME,"Penobscot County",156,276,4179
+23,027,23,013,ME,"Knox County",112,221,4462
+23,027,23,009,ME,"Hancock County",105,201,3147
+23,027,23,011,ME,"Kennebec County",88,156,2412
+23,027,23,025,ME,"Somerset County",51,98,1345
+23,027,23,005,ME,"Cumberland County",38,58,885
+23,027,23,031,ME,"York County",29,52,751
+23,027,23,003,ME,"Aroostook County",27,58,926
+23,027,23,029,ME,"Washington County",21,33,694
+23,027,25,017,MA,"Middlesex County",21,28,711
+23,027,23,015,ME,"Lincoln County",16,28,623
+23,027,23,001,ME,"Androscoggin County",15,30,536
+23,027,23,021,ME,"Piscataquis County",13,22,246
+23,027,25,009,MA,"Essex County",11,31,601
+23,027,33,011,NH,"Hillsborough County",10,27,325
+23,027,58,000,SS,"Other Flows - Same State",20,34,557
+23,027,59,000,DS,"Other Flows - Diff State",372,671,14427
+23,027,59,001,DS,"Other Flows - Northeast",171,295,6868
+23,027,59,003,DS,"Other Flows - Midwest",36,71,1362
+23,027,59,005,DS,"Other Flows - South",95,179,3390
+23,027,59,007,DS,"Other Flows - West",70,126,2807
+23,029,96,000,ME,"Washington Coun Tot Mig-US & For",579,1010,18040
+23,029,97,000,ME,"Washington Coun Tot Mig-US",554,969,17522
+23,029,97,001,ME,"Washington Coun Tot Mig-Same St",245,411,5879
+23,029,97,003,ME,"Washington Coun Tot Mig-Diff St",309,558,11643
+23,029,98,000,ME,"Washington Coun Tot Mig-Foreign",25,41,518
+23,029,23,029,ME,"Washington Coun Non-Migrants",11722,25380,368787
+23,029,23,019,ME,"Penobscot County",74,118,1737
+23,029,23,009,ME,"Hancock County",56,93,1308
+23,029,23,005,ME,"Cumberland County",35,66,837
+23,029,23,011,ME,"Kennebec County",15,16,382
+23,029,23,003,ME,"Aroostook County",14,29,402
+23,029,23,031,ME,"York County",14,24,231
+23,029,25,017,MA,"Middlesex County",11,15,532
+23,029,58,000,SS,"Other Flows - Same State",37,65,983
+23,029,59,000,DS,"Other Flows - Diff State",298,543,11111
+23,029,59,001,DS,"Other Flows - Northeast",132,231,4828
+23,029,59,003,DS,"Other Flows - Midwest",26,47,1148
+23,029,59,005,DS,"Other Flows - South",101,195,3824
+23,029,59,007,DS,"Other Flows - West",39,70,1310
+23,029,57,009,FR,"Foreign - Other flows",25,41,518
+23,031,96,000,ME,"York County Tot Mig-US & For",5598,10271,252419
+23,031,97,000,ME,"York County Tot Mig-US",5529,10161,250890
+23,031,97,001,ME,"York County Tot Mig-Same St",2194,3922,79360
+23,031,97,003,ME,"York County Tot Mig-Diff St",3335,6239,171530
+23,031,98,000,ME,"York County Tot Mig-Foreign",69,110,1529
+23,031,23,031,ME,"York County Non-Migrants",68668,147337,3312020
+23,031,23,005,ME,"Cumberland County",1606,2933,61704
+23,031,33,015,NH,"Rockingham County",395,678,20514
+23,031,33,017,NH,"Strafford County",395,723,13619
+23,031,25,017,MA,"Middlesex County",221,377,11375
+23,031,25,009,MA,"Essex County",194,408,10530
+23,031,33,011,NH,"Hillsborough County",94,162,4743
+23,031,23,019,ME,"Penobscot County",91,156,2953
+23,031,23,011,ME,"Kennebec County",87,149,3001
+23,031,25,027,MA,"Worcester County",78,164,4596
+23,031,25,025,MA,"Suffolk County",76,116,7835
+23,031,09,011,CT,"New London County",70,190,2686
+23,031,23,001,ME,"Androscoggin County",69,128,2326
+23,031,23,003,ME,"Aroostook County",67,112,1811
+23,031,23,017,ME,"Oxford County",58,95,1388
+23,031,25,021,MA,"Norfolk County",55,96,2928
+23,031,33,013,NH,"Merrimack County",36,56,1543
+23,031,33,003,NH,"Carroll County",34,58,999
+23,031,23,029,ME,"Washington County",33,58,807
+23,031,23,023,ME,"Sagadahoc County",31,50,916
+23,031,09,003,CT,"Hartford County",29,57,2693
+23,031,09,009,CT,"New Haven County",27,64,1516
+23,031,23,025,ME,"Somerset County",26,45,576
+23,031,25,023,MA,"Plymouth County",24,56,1224
+23,031,23,007,ME,"Franklin County",23,34,769
+23,031,23,021,ME,"Piscataquis County",23,32,527
+23,031,23,027,ME,"Waldo County",23,38,892
+23,031,25,013,MA,"Hampden County",22,41,906
+23,031,06,073,CA,"San Diego County",21,53,6624
+23,031,09,001,CT,"Fairfield County",21,42,3634
+23,031,57,005,FR,"Foreign - APO/FPO ZIPs",21,51,820
+23,031,12,103,FL,"Pinellas County",20,26,584
+23,031,23,009,ME,"Hancock County",20,33,565
+23,031,23,015,ME,"Lincoln County",20,31,670
+23,031,04,013,AZ,"Maricopa County",19,32,863
+23,031,25,001,MA,"Barnstable County",19,32,536
+23,031,33,005,NH,"Cheshire County",19,27,565
+23,031,12,099,FL,"Palm Beach County",18,38,976
+23,031,25,005,MA,"Bristol County",17,29,650
+23,031,50,007,VT,"Chittenden County",17,29,818
+23,031,06,037,CA,"Los Angeles County",16,27,448
+23,031,33,001,NH,"Belknap County",16,25,810
+23,031,09,005,CT,"Litchfield County",15,29,622
+23,031,12,101,FL,"Pasco County",15,23,438
+23,031,44,007,RI,"Providence County",15,26,794
+23,031,12,115,FL,"Sarasota County",14,28,443
+23,031,25,015,MA,"Hampshire County",14,25,460
+23,031,36,061,NY,"New York County",14,22,1241
+23,031,25,003,MA,"Berkshire County",13,17,536
+23,031,33,009,NH,"Grafton County",13,24,367
+23,031,53,033,WA,"King County",13,22,597
+23,031,36,103,NY,"Suffolk County",12,20,358
+23,031,51,810,VA,"Virginia Beach",12,30,310
+23,031,32,003,NV,"Clark County",11,26,525
+23,031,48,201,TX,"Harris County",11,28,2659
+23,031,12,011,FL,"Broward County",10,16,832
+23,031,12,105,FL,"Polk County",10,22,232
+23,031,17,031,IL,"Cook County",10,13,1695
+23,031,45,015,SC,"Berkeley County",10,24,371
+23,031,50,023,VT,"Washington County",10,10,201
+23,031,51,059,VA,"Fairfax County",10,24,1092
+23,031,58,000,SS,"Other Flows - Same State",17,28,455
+23,031,59,000,DS,"Other Flows - Diff State",1150,2204,53542
+23,031,59,001,DS,"Other Flows - Northeast",346,656,17319
+23,031,59,003,DS,"Other Flows - Midwest",173,354,9817
+23,031,59,005,DS,"Other Flows - South",430,809,19066
+23,031,59,007,DS,"Other Flows - West",201,385,7340
+23,031,57,009,FR,"Foreign - Other flows",48,59,710

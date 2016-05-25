@@ -1,0 +1,2056 @@
+"2000 - 2001 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+SouthCarolina,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+45,000,96,000,SC,"Total Mig - US & For",106603,204770,4115684
+45,000,97,000,SC,"Total Mig - US",103970,200205,4055015
+45,000,97,001,SC,"Total Mig - US Same St",50579,96427,1591152
+45,000,97,003,SC,"Total Mig - US Diff St",53391,103778,2463863
+45,000,98,000,SC,"Total Mig - Foreign",2633,4565,60670
+45,001,96,000,SC,"Abbeville Count Tot Mig-US & For",501,1078,15584
+45,001,97,000,SC,"Abbeville Count Tot Mig-US",501,1078,15584
+45,001,97,001,SC,"Abbeville Count Tot Mig-Same St",376,795,11800
+45,001,97,003,SC,"Abbeville Count Tot Mig-Diff St",125,283,3784
+45,001,45,001,SC,"Abbeville Count Non-Migrants",8944,19874,303046
+45,001,45,047,SC,"Greenwood County",129,270,4717
+45,001,45,007,SC,"Anderson County",119,262,3304
+45,001,45,045,SC,"Greenville County",26,48,871
+45,001,45,059,SC,"Laurens County",22,48,642
+45,001,45,065,SC,"Mccormick County",21,46,446
+45,001,45,083,SC,"Spartanburg County",11,26,282
+45,001,58,000,SS,"Other Flows - Same State",48,95,1539
+45,001,59,000,DS,"Other Flows - Diff State",125,283,3784
+45,001,59,001,DS,"Other Flows - Northeast",12,31,650
+45,001,59,003,DS,"Other Flows - Midwest",19,36,576
+45,001,59,005,DS,"Other Flows - South",80,168,2138
+45,001,59,007,DS,"Other Flows - West",14,48,420
+45,003,96,000,SC,"Aiken County Tot Mig-US & For",3025,6009,124599
+45,003,97,000,SC,"Aiken County Tot Mig-US",2994,5955,124060
+45,003,97,001,SC,"Aiken County Tot Mig-Same St",919,1815,30070
+45,003,97,003,SC,"Aiken County Tot Mig-Diff St",2075,4140,93990
+45,003,98,000,SC,"Aiken County Tot Mig-Foreign",31,54,539
+45,003,45,003,SC,"Aiken County Non-Migrants",51012,117416,2323864
+45,003,13,245,GA,"Richmond County",456,902,12816
+45,003,45,037,SC,"Edgefield County",185,380,4249
+45,003,13,073,GA,"Columbia County",167,329,8769
+45,003,45,063,SC,"Lexington County",142,307,4123
+45,003,45,011,SC,"Barnwell County",90,170,2309
+45,003,45,079,SC,"Richland County",88,150,2996
+45,003,45,075,SC,"Orangeburg County",46,83,1490
+45,003,45,013,SC,"Beaufort County",44,79,2957
+45,003,45,081,SC,"Saluda County",38,90,1095
+45,003,45,045,SC,"Greenville County",28,54,1638
+45,003,45,019,SC,"Charleston County",27,37,1189
+45,003,45,047,SC,"Greenwood County",25,47,735
+45,003,37,119,NC,"Mecklenburg County",23,42,3250
+45,003,45,015,SC,"Berkeley County",22,39,501
+45,003,45,005,SC,"Allendale County",21,43,633
+45,003,13,033,GA,"Burke County",20,41,684
+45,003,13,089,GA,"De Kalb County",20,47,764
+45,003,13,121,GA,"Fulton County",20,30,608
+45,003,13,067,GA,"Cobb County",16,34,620
+45,003,57,005,FR,"Foreign - APO/FPO ZIPs",16,30,348
+45,003,37,051,NC,"Cumberland County",15,30,418
+45,003,12,025,FL,"Dade County",14,22,500
+45,003,36,081,NY,"Queens County",14,26,215
+45,003,45,051,SC,"Horry County",14,27,806
+45,003,17,031,IL,"Cook County",13,19,463
+45,003,13,051,GA,"Chatham County",12,23,230
+45,003,36,047,NY,"Kings County",12,18,374
+45,003,12,103,FL,"Pinellas County",11,20,369
+45,003,13,163,GA,"Jefferson County",11,16,202
+45,003,42,101,PA,"Philadelphia County",11,21,189
+45,003,45,009,SC,"Bamberg County",11,31,221
+45,003,47,093,TN,"Knox County",11,24,521
+45,003,06,037,CA,"Los Angeles County",10,24,166
+45,003,12,011,FL,"Broward County",10,23,-706
+45,003,12,031,FL,"Duval County",10,21,526
+45,003,36,005,NY,"Bronx County",10,17,317
+45,003,45,007,SC,"Anderson County",10,18,446
+45,003,45,065,SC,"Mccormick County",10,20,294
+45,003,45,071,SC,"Newberry County",10,10,298
+45,003,58,000,SS,"Other Flows - Same State",108,230,4089
+45,003,59,000,DS,"Other Flows - Diff State",1189,2411,62697
+45,003,59,001,DS,"Other Flows - Northeast",179,347,13054
+45,003,59,003,DS,"Other Flows - Midwest",176,376,13966
+45,003,59,005,DS,"Other Flows - South",717,1437,30205
+45,003,59,007,DS,"Other Flows - West",117,251,5471
+45,003,57,009,FR,"Foreign - Other flows",15,24,190
+45,005,96,000,SC,"Allendale Count Tot Mig-US & For",132,260,3089
+45,005,97,000,SC,"Allendale Count Tot Mig-US",132,260,3089
+45,005,97,001,SC,"Allendale Count Tot Mig-Same St",94,187,2204
+45,005,97,003,SC,"Allendale Count Tot Mig-Diff St",38,73,885
+45,005,45,005,SC,"Allendale Count Non-Migrants",3349,7674,89616
+45,005,45,049,SC,"Hampton County",26,54,576
+45,005,45,011,SC,"Barnwell County",25,50,530
+45,005,58,000,SS,"Other Flows - Same State",43,83,1099
+45,005,59,000,DS,"Other Flows - Diff State",38,73,885
+45,007,96,000,SC,"Anderson County Tot Mig-US & For",4180,8363,150592
+45,007,97,000,SC,"Anderson County Tot Mig-US",4133,8282,149712
+45,007,97,001,SC,"Anderson County Tot Mig-Same St",2528,4969,82726
+45,007,97,003,SC,"Anderson County Tot Mig-Diff St",1605,3313,66986
+45,007,98,000,SC,"Anderson County Tot Mig-Foreign",47,81,880
+45,007,45,007,SC,"Anderson County Non-Migrants",63253,139192,2651576
+45,007,45,045,SC,"Greenville County",1065,2109,36958
+45,007,45,077,SC,"Pickens County",558,1100,17493
+45,007,45,073,SC,"Oconee County",213,405,6912
+45,007,45,001,SC,"Abbeville County",129,267,3066
+45,007,45,083,SC,"Spartanburg County",79,147,2645
+45,007,45,047,SC,"Greenwood County",67,133,1681
+45,007,45,059,SC,"Laurens County",58,112,1646
+45,007,45,079,SC,"Richland County",51,88,1844
+45,007,45,019,SC,"Charleston County",50,83,1586
+45,007,13,147,GA,"Hart County",35,81,1332
+45,007,45,063,SC,"Lexington County",34,75,979
+45,007,45,091,SC,"York County",26,38,803
+45,007,13,067,GA,"Cobb County",24,48,1452
+45,007,13,121,GA,"Fulton County",23,42,1591
+45,007,37,119,NC,"Mecklenburg County",22,41,765
+45,007,12,031,FL,"Duval County",21,40,465
+45,007,45,051,SC,"Horry County",21,44,743
+45,007,13,089,GA,"De Kalb County",19,29,373
+45,007,37,021,NC,"Buncombe County",19,30,1178
+45,007,45,015,SC,"Berkeley County",19,55,765
+45,007,45,003,SC,"Aiken County",18,31,697
+45,007,13,135,GA,"Gwinnett County",17,31,563
+45,007,12,103,FL,"Pinellas County",15,27,549
+45,007,13,119,GA,"Franklin County",15,30,415
+45,007,57,005,FR,"Foreign - APO/FPO ZIPs",15,30,408
+45,007,12,011,FL,"Broward County",14,37,454
+45,007,13,105,GA,"Elbert County",14,29,217
+45,007,37,071,NC,"Gaston County",14,29,451
+45,007,45,035,SC,"Dorchester County",14,35,736
+45,007,45,041,SC,"Florence County",14,31,760
+45,007,13,245,GA,"Richmond County",13,19,496
+45,007,45,013,SC,"Beaufort County",13,21,290
+45,007,12,095,FL,"Orange County",12,21,290
+45,007,13,257,GA,"Stephens County",12,25,432
+45,007,37,089,NC,"Henderson County",12,26,383
+45,007,37,183,NC,"Wake County",12,26,431
+45,007,12,127,FL,"Volusia County",11,23,491
+45,007,13,073,GA,"Columbia County",11,31,819
+45,007,17,031,IL,"Cook County",10,18,229
+45,007,58,000,SS,"Other Flows - Same State",99,195,3122
+45,007,59,000,DS,"Other Flows - Diff State",1260,2630,53611
+45,007,59,001,DS,"Other Flows - Northeast",200,404,9239
+45,007,59,003,DS,"Other Flows - Midwest",224,495,10246
+45,007,59,005,DS,"Other Flows - South",740,1541,29982
+45,007,59,007,DS,"Other Flows - West",96,190,4145
+45,007,57,009,FR,"Foreign - Other flows",32,51,472
+45,009,96,000,SC,"Bamberg County Tot Mig-US & For",251,481,5819
+45,009,97,000,SC,"Bamberg County Tot Mig-US",251,481,5819
+45,009,97,001,SC,"Bamberg County Tot Mig-Same St",171,332,3773
+45,009,97,003,SC,"Bamberg County Tot Mig-Diff St",80,149,2047
+45,009,45,009,SC,"Bamberg County Non-Migrants",5027,11562,152152
+45,009,45,075,SC,"Orangeburg County",50,102,1008
+45,009,45,011,SC,"Barnwell County",40,70,759
+45,009,45,063,SC,"Lexington County",14,27,396
+45,009,45,003,SC,"Aiken County",10,22,209
+45,009,45,079,SC,"Richland County",10,20,222
+45,009,58,000,SS,"Other Flows - Same State",47,91,1180
+45,009,59,000,DS,"Other Flows - Diff State",80,149,2047
+45,011,96,000,SC,"Barnwell County Tot Mig-US & For",350,725,9179
+45,011,97,000,SC,"Barnwell County Tot Mig-US",350,725,9179
+45,011,97,001,SC,"Barnwell County Tot Mig-Same St",231,503,5525
+45,011,97,003,SC,"Barnwell County Tot Mig-Diff St",119,222,3653
+45,011,45,011,SC,"Barnwell County Non-Migrants",6864,15946,250934
+45,011,45,003,SC,"Aiken County",57,128,1294
+45,011,45,009,SC,"Bamberg County",48,101,1005
+45,011,45,005,SC,"Allendale County",31,82,642
+45,011,45,075,SC,"Orangeburg County",18,39,464
+45,011,45,079,SC,"Richland County",12,20,313
+45,011,45,063,SC,"Lexington County",10,15,177
+45,011,58,000,SS,"Other Flows - Same State",55,118,1629
+45,011,59,000,DS,"Other Flows - Diff State",119,222,3653
+45,013,96,000,SC,"Beaufort County Tot Mig-US & For",5711,10731,410597
+45,013,97,000,SC,"Beaufort County Tot Mig-US",5269,9981,396633
+45,013,97,001,SC,"Beaufort County Tot Mig-Same St",725,1368,35965
+45,013,97,003,SC,"Beaufort County Tot Mig-Diff St",4544,8613,360668
+45,013,98,000,SC,"Beaufort County Tot Mig-Foreign",442,750,13964
+45,013,45,013,SC,"Beaufort County Non-Migrants",42126,88796,2570174
+45,013,57,005,FR,"Foreign - APO/FPO ZIPs",400,677,9051
+45,013,37,133,NC,"Onslow County",159,358,4330
+45,013,13,051,GA,"Chatham County",120,237,5631
+45,013,45,019,SC,"Charleston County",109,167,3935
+45,013,06,073,CA,"San Diego County",102,224,3623
+45,013,12,033,FL,"Escambia County",92,156,1966
+45,013,45,053,SC,"Jasper County",88,170,2491
+45,013,12,031,FL,"Duval County",58,123,1560
+45,013,45,049,SC,"Hampton County",58,122,1313
+45,013,45,079,SC,"Richland County",58,94,2056
+45,013,37,049,NC,"Craven County",49,124,1440
+45,013,37,119,NC,"Mecklenburg County",49,79,2624
+45,013,51,810,VA,"Virginia Beach",48,98,1571
+45,013,51,059,VA,"Fairfax County",47,102,14770
+45,013,13,121,GA,"Fulton County",45,77,7316
+45,013,13,067,GA,"Cobb County",42,79,4014
+45,013,45,063,SC,"Lexington County",42,67,9250
+45,013,45,029,SC,"Colleton County",41,85,1385
+45,013,17,031,IL,"Cook County",40,62,5307
+45,013,45,045,SC,"Greenville County",40,82,2125
+45,013,12,025,FL,"Dade County",39,69,1530
+45,013,36,103,NY,"Suffolk County",38,64,5323
+45,013,51,153,VA,"Prince William Count",37,93,1759
+45,013,06,071,CA,"San Bernardino Count",35,88,1204
+45,013,09,001,CT,"Fairfield County",34,67,8279
+45,013,45,051,SC,"Horry County",34,69,1078
+45,013,13,135,GA,"Gwinnett County",32,61,1457
+45,013,13,089,GA,"De Kalb County",29,52,1738
+45,013,15,003,HI,"Honolulu County",29,79,1898
+45,013,39,049,OH,"Franklin County",29,50,2121
+45,013,42,003,PA,"Allegheny County",29,53,1881
+45,013,45,003,SC,"Aiken County",29,57,1109
+45,013,45,015,SC,"Berkeley County",28,73,865
+45,013,39,035,OH,"Cuyahoga County",27,49,1511
+45,013,12,095,FL,"Orange County",25,51,1332
+45,013,26,125,MI,"Oakland County",25,43,8355
+45,013,37,183,NC,"Wake County",25,44,1543
+45,013,12,011,FL,"Broward County",24,44,952
+45,013,34,003,NJ,"Bergen County",24,42,4119
+45,013,48,201,TX,"Harris County",23,43,688
+45,013,06,037,CA,"Los Angeles County",22,46,789
+45,013,06,059,CA,"Orange County",22,45,1142
+45,013,12,099,FL,"Palm Beach County",22,37,1387
+45,013,24,031,MD,"Montgomery County",21,52,2210
+45,013,36,029,NY,"Erie County",21,37,1800
+45,013,42,091,PA,"Montgomery County",21,33,2493
+45,013,12,057,FL,"Hillsborough County",20,32,649
+45,013,13,245,GA,"Richmond County",19,29,632
+45,013,36,119,NY,"Westchester County",19,37,1671
+45,013,39,061,OH,"Hamilton County",19,31,1477
+45,013,42,017,PA,"Bucks County",19,33,1660
+45,013,42,129,PA,"Westmoreland County",19,34,1199
+45,013,51,710,VA,Norfolk,19,50,515
+45,013,36,061,NY,"New York County",18,27,1767
+45,013,09,003,CT,"Hartford County",17,30,1195
+45,013,36,005,NY,"Bronx County",17,32,398
+45,013,39,153,OH,"Summit County",17,31,930
+45,013,12,127,FL,"Volusia County",16,30,3698
+45,013,13,031,GA,"Bulloch County",16,25,543
+45,013,36,047,NY,"Kings County",16,25,393
+45,013,51,550,VA,Chesapeake,16,44,669
+45,013,12,009,FL,"Brevard County",15,35,552
+45,013,12,071,FL,"Lee County",15,28,771
+45,013,24,033,MD,"Prince George's Coun",15,32,611
+45,013,24,037,MD,"St Mary's County",15,46,576
+45,013,34,031,NJ,"Passaic County",15,31,161
+45,013,36,059,NY,"Nassau County",15,31,1866
+45,013,45,075,SC,"Orangeburg County",15,35,545
+45,013,51,179,VA,"Stafford County",15,45,953
+45,013,26,163,MI,"Wayne County",14,24,2092
+45,013,36,081,NY,"Queens County",14,26,707
+45,013,39,151,OH,"Stark County",14,21,417
+45,013,45,035,SC,"Dorchester County",14,31,499
+45,013,45,091,SC,"York County",14,24,646
+45,013,09,009,CT,"New Haven County",13,20,1260
+45,013,12,019,FL,"Clay County",13,36,442
+45,013,12,103,FL,"Pinellas County",13,16,350
+45,013,12,105,FL,"Polk County",13,20,421
+45,013,17,043,IL,"Du Page County",13,19,2931
+45,013,24,003,MD,"Anne Arundel County",13,27,1134
+45,013,25,009,MA,"Essex County",13,20,2794
+45,013,27,053,MN,"Hennepin County",13,18,39295
+45,013,34,027,NJ,"Morris County",13,22,2560
+45,013,34,039,NJ,"Union County",13,23,1399
+45,013,37,067,NC,"Forsyth County",13,21,610
+45,013,37,081,NC,"Guilford County",13,30,816
+45,013,37,129,NC,"New Hanover County",13,23,1352
+45,013,42,029,PA,"Chester County",13,24,1117
+45,013,42,071,PA,"Lancaster County",13,18,947
+45,013,45,041,SC,"Florence County",13,38,648
+45,013,45,085,SC,"Sumter County",13,26,365
+45,013,48,113,TX,"Dallas County",13,21,924
+45,013,04,027,AZ,"Yuma County",12,36,437
+45,013,12,117,FL,"Seminole County",12,22,479
+45,013,24,027,MD,"Howard County",12,20,1780
+45,013,34,023,NJ,"Middlesex County",12,22,1700
+45,013,36,055,NY,"Monroe County",12,16,1008
+45,013,36,067,NY,"Onondaga County",12,19,723
+45,013,45,007,SC,"Anderson County",12,21,456
+45,013,45,083,SC,"Spartanburg County",12,15,507
+45,013,04,013,AZ,"Maricopa County",11,20,476
+45,013,25,013,MA,"Hampden County",11,23,893
+45,013,25,017,MA,"Middlesex County",11,15,675
+45,013,29,189,MO,"St Louis County",11,21,1802
+45,013,34,013,NJ,"Essex County",11,24,7895
+45,013,34,017,NJ,"Hudson County",11,19,516
+45,013,34,025,NJ,"Monmouth County",11,24,444
+45,013,34,035,NJ,"Somerset County",11,21,1140
+45,013,36,007,NY,"Broome County",11,18,555
+45,013,36,027,NY,"Dutchess County",11,23,2695
+45,013,39,017,OH,"Butler County",11,16,1471
+45,013,48,029,TX,"Bexar County",11,28,286
+45,013,11,001,DC,"District Of Columbia",10,25,1900
+45,013,12,083,FL,"Marion County",10,24,174
+45,013,17,097,IL,"Lake County",10,21,3445
+45,013,21,111,KY,"Jefferson County",10,17,789
+45,013,28,075,MS,"Lauderdale County",10,28,253
+45,013,32,003,NV,"Clark County",10,15,838
+45,013,37,051,NC,"Cumberland County",10,22,363
+45,013,37,063,NC,"Durham County",10,14,447
+45,013,39,113,OH,"Montgomery County",10,18,510
+45,013,42,101,PA,"Philadelphia County",10,21,492
+45,013,45,005,SC,"Allendale County",10,19,461
+45,013,45,043,SC,"Georgetown County",10,22,396
+45,013,45,077,SC,"Pickens County",10,14,226
+45,013,51,087,VA,"Henrico County",10,20,776
+45,013,58,000,SS,"Other Flows - Same State",75,137,5611
+45,013,59,000,DS,"Other Flows - Diff State",2124,3873,131592
+45,013,59,001,DS,"Other Flows - Northeast",373,623,29442
+45,013,59,003,DS,"Other Flows - Midwest",469,813,34808
+45,013,59,005,DS,"Other Flows - South",1102,2096,59279
+45,013,59,007,DS,"Other Flows - West",180,341,8063
+45,013,57,009,FR,"Foreign - Other flows",42,73,4913
+45,015,96,000,SC,"Berkeley County Tot Mig-US & For",6377,12556,188007
+45,015,97,000,SC,"Berkeley County Tot Mig-US",6243,12268,183923
+45,015,97,001,SC,"Berkeley County Tot Mig-Same St",3073,6210,93423
+45,015,97,003,SC,"Berkeley County Tot Mig-Diff St",3170,6058,90500
+45,015,98,000,SC,"Berkeley County Tot Mig-Foreign",134,288,4084
+45,015,45,015,SC,"Berkeley County Non-Migrants",46581,107250,1788436
+45,015,45,019,SC,"Charleston County",1882,3757,57911
+45,015,45,035,SC,"Dorchester County",627,1335,19016
+45,015,57,005,FR,"Foreign - APO/FPO ZIPs",121,259,3364
+45,015,45,075,SC,"Orangeburg County",69,147,1865
+45,015,45,079,SC,"Richland County",60,117,1689
+45,015,51,810,VA,"Virginia Beach",59,181,2304
+45,015,06,073,CA,"San Diego County",54,104,1610
+45,015,13,039,GA,"Camden County",51,160,2385
+45,015,45,029,SC,"Colleton County",50,109,1355
+45,015,12,031,FL,"Duval County",47,99,1381
+45,015,45,051,SC,"Horry County",47,79,1373
+45,015,53,035,WA,"Kitsap County",43,148,1934
+45,015,45,063,SC,"Lexington County",41,87,1759
+45,015,45,045,SC,"Greenville County",37,76,1879
+45,015,06,037,CA,"Los Angeles County",35,53,990
+45,015,51,710,VA,Norfolk,35,94,1091
+45,015,15,003,HI,"Honolulu County",29,81,1237
+45,015,37,119,NC,"Mecklenburg County",29,52,1338
+45,015,45,013,SC,"Beaufort County",29,66,794
+45,015,48,201,TX,"Harris County",27,56,657
+45,015,51,650,VA,Hampton,27,66,839
+45,015,51,700,VA,"Newport News",25,80,838
+45,015,04,013,AZ,"Maricopa County",24,31,359
+45,015,45,085,SC,"Sumter County",24,41,611
+45,015,45,003,SC,"Aiken County",22,43,512
+45,015,45,041,SC,"Florence County",21,44,507
+45,015,45,043,SC,"Georgetown County",21,39,567
+45,015,37,051,NC,"Cumberland County",20,42,482
+45,015,37,133,NC,"Onslow County",20,39,528
+45,015,37,183,NC,"Wake County",20,42,590
+45,015,08,041,CO,"El Paso County",18,25,378
+45,015,12,011,FL,"Broward County",18,29,475
+45,015,13,051,GA,"Chatham County",18,33,504
+45,015,13,089,GA,"De Kalb County",18,36,453
+45,015,45,083,SC,"Spartanburg County",18,32,690
+45,015,12,025,FL,"Dade County",17,31,632
+45,015,06,059,CA,"Orange County",16,28,624
+45,015,12,103,FL,"Pinellas County",16,25,421
+45,015,24,003,MD,"Anne Arundel County",16,22,375
+45,015,45,089,SC,"Williamsburg County",16,36,389
+45,015,09,011,CT,"New London County",15,49,642
+45,015,12,033,FL,"Escambia County",15,31,420
+45,015,12,095,FL,"Orange County",15,26,439
+45,015,17,031,IL,"Cook County",15,16,216
+45,015,51,059,VA,"Fairfax County",15,30,679
+45,015,51,550,VA,Chesapeake,15,42,865
+45,015,24,033,MD,"Prince George's Coun",14,22,271
+45,015,36,081,NY,"Queens County",14,33,439
+45,015,39,049,OH,"Franklin County",14,28,300
+45,015,53,033,WA,"King County",14,22,268
+45,015,12,009,FL,"Brevard County",13,23,355
+45,015,13,135,GA,"Gwinnett County",13,30,369
+45,015,13,215,GA,"Muscogee County",13,30,359
+45,015,36,005,NY,"Bronx County",13,20,304
+45,015,36,047,NY,"Kings County",13,30,367
+45,015,36,103,NY,"Suffolk County",13,27,270
+45,015,13,067,GA,"Cobb County",12,28,756
+45,015,21,093,KY,"Hardin County",12,34,458
+45,015,45,007,SC,"Anderson County",12,16,261
+45,015,12,057,FL,"Hillsborough County",11,17,250
+45,015,13,121,GA,"Fulton County",11,16,455
+45,015,26,163,MI,"Wayne County",11,17,388
+45,015,39,113,OH,"Montgomery County",11,17,278
+45,015,47,037,TN,"Davidson County",11,19,407
+45,015,48,029,TX,"Bexar County",11,12,120
+45,015,53,053,WA,"Pierce County",11,32,358
+45,015,01,097,AL,"Mobile County",10,23,303
+45,015,04,019,AZ,"Pima County",10,22,273
+45,015,13,179,GA,"Liberty County",10,21,267
+45,015,24,005,MD,"Baltimore County",10,14,318
+45,015,32,003,NV,"Clark County",10,17,311
+45,015,42,003,PA,"Allegheny County",10,18,587
+45,015,45,077,SC,"Pickens County",10,18,222
+45,015,53,061,WA,"Snohomish County",10,30,267
+45,015,58,000,SS,"Other Flows - Same State",87,168,2023
+45,015,59,000,DS,"Other Flows - Diff State",2093,3705,55715
+45,015,59,001,DS,"Other Flows - Northeast",358,586,9503
+45,015,59,003,DS,"Other Flows - Midwest",461,787,11377
+45,015,59,005,DS,"Other Flows - South",954,1804,27603
+45,015,59,007,DS,"Other Flows - West",320,528,7232
+45,015,57,009,FR,"Foreign - Other flows",13,29,721
+45,017,96,000,SC,"Calhoun County Tot Mig-US & For",352,688,24695
+45,017,97,000,SC,"Calhoun County Tot Mig-US",352,688,24695
+45,017,97,001,SC,"Calhoun County Tot Mig-Same St",281,556,7530
+45,017,97,003,SC,"Calhoun County Tot Mig-Diff St",71,132,17165
+45,017,45,017,SC,"Calhoun County Non-Migrants",4958,10902,175803
+45,017,45,075,SC,"Orangeburg County",136,277,3394
+45,017,45,063,SC,"Lexington County",60,113,1759
+45,017,45,079,SC,"Richland County",47,90,1205
+45,017,58,000,SS,"Other Flows - Same State",38,76,1173
+45,017,59,000,DS,"Other Flows - Diff State",71,132,17165
+45,019,96,000,SC,"Charleston Coun Tot Mig-US & For",11162,18684,463096
+45,019,97,000,SC,"Charleston Coun Tot Mig-US",10886,18218,456038
+45,019,97,001,SC,"Charleston Coun Tot Mig-Same St",4493,7560,143939
+45,019,97,003,SC,"Charleston Coun Tot Mig-Diff St",6393,10658,312100
+45,019,98,000,SC,"Charleston Coun Tot Mig-Foreign",276,466,7057
+45,019,45,019,SC,"Charleston Coun Non-Migrants",104895,214342,5145937
+45,019,45,015,SC,"Berkeley County",1659,2949,43891
+45,019,45,035,SC,"Dorchester County",872,1633,27253
+45,019,45,079,SC,"Richland County",296,436,12062
+45,019,45,045,SC,"Greenville County",205,315,9553
+45,019,37,119,NC,"Mecklenburg County",164,255,15511
+45,019,45,051,SC,"Horry County",150,202,4198
+45,019,57,005,FR,"Foreign - APO/FPO ZIPs",146,297,4374
+45,019,45,063,SC,"Lexington County",143,221,4642
+45,019,45,013,SC,"Beaufort County",142,231,5689
+45,019,13,121,GA,"Fulton County",116,180,10063
+45,019,45,029,SC,"Colleton County",103,191,3063
+45,019,13,089,GA,"De Kalb County",91,133,4436
+45,019,45,075,SC,"Orangeburg County",91,138,3191
+45,019,45,083,SC,"Spartanburg County",81,119,4949
+45,019,37,183,NC,"Wake County",77,110,4534
+45,019,13,067,GA,"Cobb County",73,129,3728
+45,019,45,041,SC,"Florence County",72,105,3036
+45,019,45,043,SC,"Georgetown County",72,126,3291
+45,019,12,031,FL,"Duval County",70,112,3506
+45,019,45,085,SC,"Sumter County",67,100,1929
+45,019,45,091,SC,"York County",66,105,2553
+45,019,13,051,GA,"Chatham County",63,118,2395
+45,019,06,073,CA,"San Diego County",62,107,2747
+45,019,37,081,NC,"Guilford County",62,92,6295
+45,019,13,135,GA,"Gwinnett County",60,108,2841
+45,019,45,003,SC,"Aiken County",60,95,2015
+45,019,24,003,MD,"Anne Arundel County",55,74,3051
+45,019,51,059,VA,"Fairfax County",55,96,3588
+45,019,45,077,SC,"Pickens County",54,73,1646
+45,019,37,129,NC,"New Hanover County",48,63,1216
+45,019,45,007,SC,"Anderson County",48,66,1460
+45,019,12,095,FL,"Orange County",47,61,1527
+45,019,12,057,FL,"Hillsborough County",45,82,1714
+45,019,37,051,NC,"Cumberland County",40,73,1300
+45,019,51,810,VA,"Virginia Beach",40,72,2972
+45,019,17,031,IL,"Cook County",38,60,1794
+45,019,48,201,TX,"Harris County",38,75,2852
+45,019,12,011,FL,"Broward County",37,64,1119
+45,019,12,103,FL,"Pinellas County",37,62,2058
+45,019,42,003,PA,"Allegheny County",37,63,1734
+45,019,47,093,TN,"Knox County",37,54,1282
+45,019,06,037,CA,"Los Angeles County",36,68,1402
+45,019,12,025,FL,"Dade County",36,54,1340
+45,019,37,021,NC,"Buncombe County",36,48,1040
+45,019,37,067,NC,"Forsyth County",36,50,1243
+45,019,24,031,MD,"Montgomery County",35,50,1541
+45,019,36,005,NY,"Bronx County",34,62,801
+45,019,36,047,NY,"Kings County",34,54,831
+45,019,37,133,NC,"Onslow County",34,56,924
+45,019,36,061,NY,"New York County",32,51,2965
+45,019,12,099,FL,"Palm Beach County",31,45,1475
+45,019,39,061,OH,"Hamilton County",31,44,2825
+45,019,09,001,CT,"Fairfield County",29,60,11690
+45,019,25,017,MA,"Middlesex County",29,43,2940
+45,019,36,029,NY,"Erie County",29,46,1049
+45,019,36,055,NY,"Monroe County",29,45,1431
+45,019,36,103,NY,"Suffolk County",29,48,1769
+45,019,39,035,OH,"Cuyahoga County",29,43,2387
+45,019,45,055,SC,"Kershaw County",29,41,979
+45,019,12,009,FL,"Brevard County",28,42,1304
+45,019,13,245,GA,"Richmond County",27,47,655
+45,019,24,033,MD,"Prince George's Coun",27,54,1268
+45,019,45,031,SC,"Darlington County",27,39,779
+45,019,45,047,SC,"Greenwood County",27,47,1164
+45,019,45,073,SC,"Oconee County",27,32,772
+45,019,39,049,OH,"Franklin County",26,38,1386
+45,019,29,189,MO,"St Louis County",25,42,1062
+45,019,47,037,TN,"Davidson County",25,37,776
+45,019,13,179,GA,"Liberty County",24,49,573
+45,019,37,063,NC,"Durham County",24,38,2115
+45,019,48,029,TX,"Bexar County",24,44,1033
+45,019,51,550,VA,Chesapeake,24,47,1046
+45,019,51,700,VA,"Newport News",24,38,628
+45,019,01,073,AL,"Jefferson County",23,34,1012
+45,019,04,013,AZ,"Maricopa County",22,43,1591
+45,019,09,003,CT,"Hartford County",22,32,1380
+45,019,24,005,MD,"Baltimore County",22,35,1516
+45,019,25,025,MA,"Suffolk County",22,32,871
+45,019,26,163,MI,"Wayne County",22,38,919
+45,019,51,710,VA,Norfolk,22,40,747
+45,019,01,101,AL,"Montgomery County",21,39,1412
+45,019,13,039,GA,"Camden County",21,40,752
+45,019,34,025,NJ,"Monmouth County",21,41,1496
+45,019,11,001,DC,"District Of Columbia",20,28,1177
+45,019,13,059,GA,"Clarke County",20,27,561
+45,019,51,153,VA,"Prince William Count",20,46,905
+45,019,51,760,VA,Richmond,20,27,876
+45,019,06,059,CA,"Orange County",19,41,1236
+45,019,18,097,IN,"Marion County",19,33,852
+45,019,22,071,LA,"Orleans Parish",19,36,1811
+45,019,36,081,NY,"Queens County",19,31,482
+45,019,37,071,NC,"Gaston County",19,32,769
+45,019,39,113,OH,"Montgomery County",19,36,1170
+45,019,47,157,TN,"Shelby County",19,36,857
+45,019,48,113,TX,"Dallas County",19,35,1180
+45,019,51,041,VA,"Chesterfield County",19,34,942
+45,019,12,001,FL,"Alachua County",18,23,572
+45,019,12,071,FL,"Lee County",18,35,874
+45,019,13,063,GA,"Clayton County",18,29,625
+45,019,17,043,IL,"Du Page County",18,28,782
+45,019,36,119,NY,"Westchester County",18,36,1366
+45,019,15,003,HI,"Honolulu County",17,25,457
+45,019,28,087,MS,"Lowndes County",17,32,728
+45,019,37,049,NC,"Craven County",17,25,462
+45,019,39,153,OH,"Summit County",17,34,658
+45,019,45,067,SC,"Marion County",17,25,443
+45,019,45,089,SC,"Williamsburg County",17,28,343
+45,019,51,087,VA,"Henrico County",17,29,994
+45,019,51,650,VA,Hampton,17,33,498
+45,019,05,119,AR,"Pulaski County",16,25,409
+45,019,08,041,CO,"El Paso County",16,33,621
+45,019,09,009,CT,"New Haven County",16,22,795
+45,019,12,091,FL,"Okaloosa County",16,37,495
+45,019,21,067,KY,"Fayette County",16,22,714
+45,019,26,099,MI,"Macomb County",16,27,809
+45,019,26,125,MI,"Oakland County",16,31,2246
+45,019,27,053,MN,"Hennepin County",16,22,746
+45,019,34,027,NJ,"Morris County",16,25,2372
+45,019,36,067,NY,"Onondaga County",16,28,579
+45,019,37,127,NC,"Nash County",16,23,824
+45,019,37,179,NC,"Union County",16,31,824
+45,019,39,095,OH,"Lucas County",16,21,366
+45,019,42,091,PA,"Montgomery County",16,26,1194
+45,019,45,027,SC,"Clarendon County",16,24,359
+45,019,51,003,VA,"Albemarle County",16,29,811
+45,019,53,033,WA,"King County",16,25,628
+45,019,02,020,AK,"Anchorage Borough",15,37,468
+45,019,12,117,FL,"Seminole County",15,28,582
+45,019,28,047,MS,"Harrison County",15,30,424
+45,019,37,035,NC,"Catawba County",15,24,848
+45,019,45,021,SC,"Cherokee County",15,21,313
+45,019,45,057,SC,"Lancaster County",15,25,417
+45,019,01,097,AL,"Mobile County",14,25,352
+45,019,04,019,AZ,"Pima County",14,20,432
+45,019,12,033,FL,"Escambia County",14,29,531
+45,019,13,073,GA,"Columbia County",14,29,528
+45,019,34,005,NJ,"Burlington County",14,30,640
+45,019,37,025,NC,"Cabarrus County",14,29,1150
+45,019,45,059,SC,"Laurens County",14,26,734
+45,019,45,071,SC,"Newberry County",14,16,731
+45,019,06,075,CA,"San Francisco County",13,18,949
+45,019,12,127,FL,"Volusia County",13,14,646
+45,019,21,093,KY,"Hardin County",13,29,330
+45,019,34,035,NJ,"Somerset County",13,23,947
+45,019,37,031,NC,"Carteret County",13,19,354
+45,019,37,147,NC,"Pitt County",13,23,325
+45,019,42,101,PA,"Philadelphia County",13,25,391
+45,019,51,510,VA,Alexandria,13,20,1043
+45,019,53,035,WA,"Kitsap County",13,25,647
+45,019,54,011,WV,"Cabell County",13,20,634
+45,019,06,083,CA,"Santa Barbara County",12,18,303
+45,019,08,031,CO,"Denver County",12,17,396
+45,019,12,115,FL,"Sarasota County",12,18,-335
+45,019,37,019,NC,"Brunswick County",12,23,300
+45,019,37,189,NC,"Watauga County",12,18,220
+45,019,39,151,OH,"Stark County",12,15,397
+45,019,42,011,PA,"Berks County",12,17,519
+45,019,42,045,PA,"Delaware County",12,17,784
+45,019,42,049,PA,"Erie County",12,18,398
+45,019,42,133,PA,"York County",12,13,229
+45,019,45,025,SC,"Chesterfield County",12,14,381
+45,019,48,453,TX,"Travis County",12,17,512
+45,019,48,485,TX,"Wichita County",12,22,208
+45,019,51,740,VA,Portsmouth,12,22,391
+45,019,55,079,WI,"Milwaukee County",12,23,655
+45,019,09,011,CT,"New London County",11,16,206
+45,019,10,001,DE,"Kent County",11,22,253
+45,019,12,073,FL,"Leon County",11,23,560
+45,019,13,021,GA,"Bibb County",11,15,487
+45,019,25,023,MA,"Plymouth County",11,14,579
+45,019,32,003,NV,"Clark County",11,20,282
+45,019,34,021,NJ,"Mercer County",11,15,285
+45,019,37,135,NC,"Orange County",11,22,457
+45,019,40,109,OK,"Oklahoma County",11,19,275
+45,019,42,129,PA,"Westmoreland County",11,24,531
+45,019,45,011,SC,"Barnwell County",11,17,227
+45,019,48,439,TX,"Tarrant County",11,18,398
+45,019,53,053,WA,"Pierce County",11,26,455
+45,019,01,089,AL,"Madison County",10,18,608
+45,019,06,071,CA,"San Bernardino Count",10,18,185
+45,019,12,087,FL,"Monroe County",10,15,298
+45,019,17,097,IL,"Lake County",10,20,601
+45,019,24,027,MD,"Howard County",10,17,514
+45,019,24,510,MD,Baltimore,10,14,467
+45,019,26,081,MI,"Kent County",10,22,447
+45,019,36,045,NY,"Jefferson County",10,16,246
+45,019,36,059,NY,"Nassau County",10,15,524
+45,019,42,017,PA,"Bucks County",10,18,478
+45,019,42,029,PA,"Chester County",10,12,456
+45,019,45,049,SC,"Hampton County",10,12,323
+45,019,51,013,VA,"Arlington County",10,14,692
+45,019,53,063,WA,"Spokane County",10,14,158
+45,019,54,061,WV,"Monongalia County",10,16,296
+45,019,58,000,SS,"Other Flows - Same State",61,88,1550
+45,019,59,000,DS,"Other Flows - Diff State",2543,4282,105442
+45,019,59,001,DS,"Other Flows - Northeast",470,698,23932
+45,019,59,003,DS,"Other Flows - Midwest",537,917,25794
+45,019,59,005,DS,"Other Flows - South",1226,2114,44389
+45,019,59,007,DS,"Other Flows - West",310,553,11327
+45,019,57,009,FR,"Foreign - Other flows",130,169,2684
+45,021,96,000,SC,"Cherokee County Tot Mig-US & For",961,1970,27370
+45,021,97,000,SC,"Cherokee County Tot Mig-US",950,1947,27177
+45,021,97,001,SC,"Cherokee County Tot Mig-Same St",502,1060,14600
+45,021,97,003,SC,"Cherokee County Tot Mig-Diff St",448,887,12577
+45,021,98,000,SC,"Cherokee County Tot Mig-Foreign",11,23,193
+45,021,45,021,SC,"Cherokee County Non-Migrants",19007,42094,697260
+45,021,45,083,SC,"Spartanburg County",308,674,8688
+45,021,37,045,NC,"Cleveland County",103,206,2573
+45,021,45,091,SC,"York County",51,88,1344
+45,021,37,071,NC,"Gaston County",46,83,876
+45,021,45,045,SC,"Greenville County",28,53,1028
+45,021,37,119,NC,"Mecklenburg County",22,33,816
+45,021,37,161,NC,"Rutherford County",22,42,565
+45,021,45,087,SC,"Union County",21,46,355
+45,021,45,059,SC,"Laurens County",11,22,420
+45,021,58,000,SS,"Other Flows - Same State",83,177,2767
+45,021,59,000,DS,"Other Flows - Diff State",255,523,7747
+45,021,59,001,DS,"Other Flows - Northeast",30,64,718
+45,021,59,003,DS,"Other Flows - Midwest",43,100,1505
+45,021,59,005,DS,"Other Flows - South",166,327,4914
+45,021,59,007,DS,"Other Flows - West",16,32,610
+45,021,57,009,FR,"Foreign - Other flows",11,23,193
+45,023,96,000,SC,"Chester County Tot Mig-US & For",651,1320,19231
+45,023,97,000,SC,"Chester County Tot Mig-US",641,1306,19065
+45,023,97,001,SC,"Chester County Tot Mig-Same St",448,909,12798
+45,023,97,003,SC,"Chester County Tot Mig-Diff St",193,397,6268
+45,023,98,000,SC,"Chester County Tot Mig-Foreign",10,14,166
+45,023,45,023,SC,"Chester County Non-Migrants",12677,28025,428466
+45,023,45,091,SC,"York County",230,481,6610
+45,023,45,057,SC,"Lancaster County",100,188,2618
+45,023,37,119,NC,"Mecklenburg County",43,86,1242
+45,023,45,087,SC,"Union County",18,45,482
+45,023,45,039,SC,"Fairfield County",17,39,383
+45,023,45,079,SC,"Richland County",11,18,452
+45,023,58,000,SS,"Other Flows - Same State",72,138,2252
+45,023,59,000,DS,"Other Flows - Diff State",150,311,5025
+45,023,57,009,FR,"Foreign - Other flows",10,14,166
+45,025,96,000,SC,"Chesterfield Co Tot Mig-US & For",804,1654,21955
+45,025,97,000,SC,"Chesterfield Co Tot Mig-US",804,1654,21955
+45,025,97,001,SC,"Chesterfield Co Tot Mig-Same St",356,728,10082
+45,025,97,003,SC,"Chesterfield Co Tot Mig-Diff St",448,926,11873
+45,025,45,025,SC,"Chesterfield Co Non-Migrants",14886,33177,493638
+45,025,37,179,NC,"Union County",101,214,2466
+45,025,45,031,SC,"Darlington County",83,179,2209
+45,025,45,069,SC,"Marlboro County",69,140,1466
+45,025,45,057,SC,"Lancaster County",39,68,974
+45,025,37,007,NC,"Anson County",38,86,886
+45,025,37,119,NC,"Mecklenburg County",37,65,875
+45,025,45,055,SC,"Kershaw County",27,60,873
+45,025,45,041,SC,"Florence County",19,44,590
+45,025,45,051,SC,"Horry County",15,21,331
+45,025,37,153,NC,"Richmond County",14,28,433
+45,025,45,063,SC,"Lexington County",11,30,540
+45,025,45,079,SC,"Richland County",11,22,357
+45,025,37,025,NC,"Cabarrus County",10,22,230
+45,025,45,023,SC,"Chester County",10,17,257
+45,025,58,000,SS,"Other Flows - Same State",72,147,2486
+45,025,59,000,DS,"Other Flows - Diff State",248,511,6983
+45,025,59,001,DS,"Other Flows - Northeast",34,79,908
+45,025,59,003,DS,"Other Flows - Midwest",23,49,1011
+45,025,59,005,DS,"Other Flows - South",177,355,4616
+45,025,59,007,DS,"Other Flows - West",14,28,448
+45,027,96,000,SC,"Clarendon Count Tot Mig-US & For",753,1570,22151
+45,027,97,000,SC,"Clarendon Count Tot Mig-US",740,1548,21845
+45,027,97,001,SC,"Clarendon Count Tot Mig-Same St",454,973,12305
+45,027,97,003,SC,"Clarendon Count Tot Mig-Diff St",286,575,9539
+45,027,98,000,SC,"Clarendon Count Tot Mig-Foreign",13,22,307
+45,027,45,027,SC,"Clarendon Count Non-Migrants",10954,24964,334584
+45,027,45,085,SC,"Sumter County",161,356,3845
+45,027,45,041,SC,"Florence County",60,130,1668
+45,027,45,089,SC,"Williamsburg County",42,104,920
+45,027,45,079,SC,"Richland County",27,52,678
+45,027,45,075,SC,"Orangeburg County",20,49,906
+45,027,45,015,SC,"Berkeley County",18,43,542
+45,027,45,061,SC,"Lee County",18,33,431
+45,027,45,019,SC,"Charleston County",16,27,443
+45,027,45,063,SC,"Lexington County",16,31,320
+45,027,45,051,SC,"Horry County",12,22,522
+45,027,58,000,SS,"Other Flows - Same State",64,126,2029
+45,027,59,000,DS,"Other Flows - Diff State",286,575,9539
+45,027,59,001,DS,"Other Flows - Northeast",82,165,3006
+45,027,59,003,DS,"Other Flows - Midwest",29,51,1442
+45,027,59,005,DS,"Other Flows - South",165,341,4793
+45,027,59,007,DS,"Other Flows - West",10,18,297
+45,027,57,009,FR,"Foreign - Other flows",13,22,307
+45,029,96,000,SC,"Colleton County Tot Mig-US & For",742,1534,22337
+45,029,97,000,SC,"Colleton County Tot Mig-US",742,1534,22337
+45,029,97,001,SC,"Colleton County Tot Mig-Same St",441,912,14138
+45,029,97,003,SC,"Colleton County Tot Mig-Diff St",301,622,8199
+45,029,45,029,SC,"Colleton County Non-Migrants",12433,28488,386061
+45,029,45,019,SC,"Charleston County",128,259,4404
+45,029,45,035,SC,"Dorchester County",68,158,1748
+45,029,45,015,SC,"Berkeley County",55,133,1309
+45,029,45,013,SC,"Beaufort County",39,82,1057
+45,029,45,049,SC,"Hampton County",25,52,626
+45,029,45,075,SC,"Orangeburg County",21,41,393
+45,029,45,079,SC,"Richland County",14,22,1034
+45,029,45,063,SC,"Lexington County",12,21,432
+45,029,58,000,SS,"Other Flows - Same State",79,144,3137
+45,029,59,000,DS,"Other Flows - Diff State",301,622,8199
+45,029,59,001,DS,"Other Flows - Northeast",71,144,1760
+45,029,59,003,DS,"Other Flows - Midwest",25,59,966
+45,029,59,005,DS,"Other Flows - South",187,388,4994
+45,029,59,007,DS,"Other Flows - West",18,31,480
+45,031,96,000,SC,"Darlington Coun Tot Mig-US & For",1307,2686,40021
+45,031,97,000,SC,"Darlington Coun Tot Mig-US",1292,2662,39205
+45,031,97,001,SC,"Darlington Coun Tot Mig-Same St",863,1783,23527
+45,031,97,003,SC,"Darlington Coun Tot Mig-Diff St",429,879,15678
+45,031,98,000,SC,"Darlington Coun Tot Mig-Foreign",15,24,816
+45,031,45,031,SC,"Darlington Coun Non-Migrants",24420,53945,873435
+45,031,45,041,SC,"Florence County",476,1011,12563
+45,031,45,025,SC,"Chesterfield County",86,175,2383
+45,031,45,061,SC,"Lee County",40,85,981
+45,031,45,051,SC,"Horry County",34,58,707
+45,031,45,069,SC,"Marlboro County",25,41,554
+45,031,45,079,SC,"Richland County",24,48,933
+45,031,45,063,SC,"Lexington County",18,38,579
+45,031,45,055,SC,"Kershaw County",17,33,503
+45,031,37,119,NC,"Mecklenburg County",16,29,743
+45,031,45,085,SC,"Sumter County",15,27,366
+45,031,45,033,SC,"Dillon County",13,22,208
+45,031,45,045,SC,"Greenville County",13,34,399
+45,031,45,089,SC,"Williamsburg County",13,27,371
+45,031,24,033,MD,"Prince George's Coun",11,18,245
+45,031,45,019,SC,"Charleston County",10,20,252
+45,031,45,067,SC,"Marion County",10,15,506
+45,031,58,000,SS,"Other Flows - Same State",69,149,2222
+45,031,59,000,DS,"Other Flows - Diff State",402,832,14690
+45,031,59,001,DS,"Other Flows - Northeast",64,130,2125
+45,031,59,003,DS,"Other Flows - Midwest",50,113,3143
+45,031,59,005,DS,"Other Flows - South",258,530,8538
+45,031,59,007,DS,"Other Flows - West",30,59,885
+45,031,57,009,FR,"Foreign - Other flows",15,24,816
+45,033,96,000,SC,"Dillon County Tot Mig-US & For",484,1020,11411
+45,033,97,000,SC,"Dillon County Tot Mig-US",484,1020,11411
+45,033,97,001,SC,"Dillon County Tot Mig-Same St",260,551,5841
+45,033,97,003,SC,"Dillon County Tot Mig-Diff St",224,469,5569
+45,033,45,033,SC,"Dillon County Non-Migrants",10800,24272,296280
+45,033,45,067,SC,"Marion County",93,209,2025
+45,033,37,155,NC,"Robeson County",36,87,676
+45,033,45,041,SC,"Florence County",35,79,1176
+45,033,45,051,SC,"Horry County",32,58,529
+45,033,45,069,SC,"Marlboro County",28,63,502
+45,033,37,047,NC,"Columbus County",10,23,195
+45,033,58,000,SS,"Other Flows - Same State",72,142,1609
+45,033,59,000,DS,"Other Flows - Diff State",178,359,4698
+45,033,59,001,DS,"Other Flows - Northeast",30,59,541
+45,033,59,003,DS,"Other Flows - Midwest",12,21,411
+45,033,59,005,DS,"Other Flows - South",126,264,3570
+45,033,59,007,DS,"Other Flows - West",10,15,176
+45,035,96,000,SC,"Dorchester Coun Tot Mig-US & For",3372,7230,128987
+45,035,97,000,SC,"Dorchester Coun Tot Mig-US",3335,7150,127712
+45,035,97,001,SC,"Dorchester Coun Tot Mig-Same St",2175,4565,73606
+45,035,97,003,SC,"Dorchester Coun Tot Mig-Diff St",1160,2585,54105
+45,035,98,000,SC,"Dorchester Coun Tot Mig-Foreign",37,80,1275
+45,035,45,035,SC,"Dorchester Coun Non-Migrants",26691,62378,1177588
+45,035,45,019,SC,"Charleston County",1153,2392,40625
+45,035,45,015,SC,"Berkeley County",633,1347,20691
+45,035,45,029,SC,"Colleton County",71,153,1733
+45,035,45,075,SC,"Orangeburg County",67,146,1716
+45,035,45,079,SC,"Richland County",56,105,1938
+45,035,45,063,SC,"Lexington County",26,64,967
+45,035,45,051,SC,"Horry County",24,43,667
+45,035,45,045,SC,"Greenville County",22,46,651
+45,035,37,119,NC,"Mecklenburg County",21,41,705
+45,035,45,013,SC,"Beaufort County",18,36,719
+45,035,12,031,FL,"Duval County",15,31,420
+45,035,13,135,GA,"Gwinnett County",13,27,680
+45,035,51,810,VA,"Virginia Beach",13,34,702
+45,035,12,009,FL,"Brevard County",11,23,611
+45,035,45,041,SC,"Florence County",11,29,662
+45,035,12,025,FL,"Dade County",10,18,312
+45,035,13,039,GA,"Camden County",10,24,304
+45,035,13,067,GA,"Cobb County",10,18,289
+45,035,34,005,NJ,"Burlington County",10,19,590
+45,035,36,047,NY,"Kings County",10,19,260
+45,035,58,000,SS,"Other Flows - Same State",94,204,3237
+45,035,59,000,DS,"Other Flows - Diff State",1037,2331,49235
+45,035,59,001,DS,"Other Flows - Northeast",169,380,8281
+45,035,59,003,DS,"Other Flows - Midwest",196,426,10702
+45,035,59,005,DS,"Other Flows - South",564,1269,24926
+45,035,59,007,DS,"Other Flows - West",108,256,5326
+45,035,57,009,FR,"Foreign - Other flows",37,80,1275
+45,037,96,000,SC,"Edgefield Count Tot Mig-US & For",343,741,9911
+45,037,97,000,SC,"Edgefield Count Tot Mig-US",343,741,9911
+45,037,97,001,SC,"Edgefield Count Tot Mig-Same St",230,495,5754
+45,037,97,003,SC,"Edgefield Count Tot Mig-Diff St",113,246,4157
+45,037,45,037,SC,"Edgefield Count Non-Migrants",5447,12283,195131
+45,037,45,003,SC,"Aiken County",138,298,3753
+45,037,45,081,SC,"Saluda County",27,61,804
+45,037,13,245,GA,"Richmond County",19,42,787
+45,037,45,047,SC,"Greenwood County",15,35,293
+45,037,13,073,GA,"Columbia County",14,36,1046
+45,037,45,063,SC,"Lexington County",13,28,368
+45,037,58,000,SS,"Other Flows - Same State",37,73,536
+45,037,59,000,DS,"Other Flows - Diff State",80,168,2323
+45,039,96,000,SC,"Fairfield Count Tot Mig-US & For",505,1055,22054
+45,039,97,000,SC,"Fairfield Count Tot Mig-US",505,1055,22054
+45,039,97,001,SC,"Fairfield Count Tot Mig-Same St",372,757,14608
+45,039,97,003,SC,"Fairfield Count Tot Mig-Diff St",133,298,7447
+45,039,45,039,SC,"Fairfield Count Non-Migrants",8401,18154,285482
+45,039,45,079,SC,"Richland County",179,368,7435
+45,039,45,063,SC,"Lexington County",44,81,1634
+45,039,45,023,SC,"Chester County",31,69,836
+45,039,45,055,SC,"Kershaw County",25,48,907
+45,039,45,091,SC,"York County",18,31,1015
+45,039,37,119,NC,"Mecklenburg County",12,24,442
+45,039,45,071,SC,"Newberry County",11,19,247
+45,039,45,057,SC,"Lancaster County",10,17,235
+45,039,58,000,SS,"Other Flows - Same State",54,124,2298
+45,039,59,000,DS,"Other Flows - Diff State",121,274,7005
+45,041,96,000,SC,"Florence County Tot Mig-US & For",2584,5162,88783
+45,041,97,000,SC,"Florence County Tot Mig-US",2561,5126,88346
+45,041,97,001,SC,"Florence County Tot Mig-Same St",1456,2871,44513
+45,041,97,003,SC,"Florence County Tot Mig-Diff St",1105,2255,43833
+45,041,98,000,SC,"Florence County Tot Mig-Foreign",23,36,437
+45,041,45,041,SC,"Florence County Non-Migrants",41520,92260,1651136
+45,041,45,031,SC,"Darlington County",415,849,13315
+45,041,45,089,SC,"Williamsburg County",158,344,3333
+45,041,45,051,SC,"Horry County",111,190,3141
+45,041,45,067,SC,"Marion County",99,185,2532
+45,041,45,079,SC,"Richland County",89,166,2663
+45,041,45,085,SC,"Sumter County",62,128,2278
+45,041,45,027,SC,"Clarendon County",55,120,1440
+45,041,45,033,SC,"Dillon County",55,111,1542
+45,041,45,019,SC,"Charleston County",49,86,2197
+45,041,45,043,SC,"Georgetown County",43,91,1793
+45,041,45,063,SC,"Lexington County",43,71,1505
+45,041,45,061,SC,"Lee County",34,69,860
+45,041,45,045,SC,"Greenville County",31,58,1146
+45,041,37,119,NC,"Mecklenburg County",30,50,946
+45,041,45,025,SC,"Chesterfield County",30,66,1014
+45,041,45,069,SC,"Marlboro County",27,43,648
+45,041,45,015,SC,"Berkeley County",22,40,831
+45,041,45,075,SC,"Orangeburg County",21,26,552
+45,041,37,183,NC,"Wake County",19,39,607
+45,041,45,083,SC,"Spartanburg County",19,39,740
+45,041,36,047,NY,"Kings County",17,34,518
+45,041,37,133,NC,"Onslow County",17,32,378
+45,041,13,089,GA,"De Kalb County",15,24,281
+45,041,45,055,SC,"Kershaw County",14,20,344
+45,041,37,051,NC,"Cumberland County",13,21,389
+45,041,37,129,NC,"New Hanover County",13,26,650
+45,041,37,155,NC,"Robeson County",12,23,354
+45,041,57,005,FR,"Foreign - APO/FPO ZIPs",12,21,221
+45,041,37,081,NC,"Guilford County",11,16,698
+45,041,45,091,SC,"York County",11,19,372
+45,041,13,067,GA,"Cobb County",10,19,401
+45,041,13,121,GA,"Fulton County",10,20,265
+45,041,47,037,TN,"Davidson County",10,15,160
+45,041,58,000,SS,"Other Flows - Same State",68,150,2267
+45,041,59,000,DS,"Other Flows - Diff State",928,1936,38186
+45,041,59,001,DS,"Other Flows - Northeast",185,373,6918
+45,041,59,003,DS,"Other Flows - Midwest",135,275,6590
+45,041,59,005,DS,"Other Flows - South",539,1144,21752
+45,041,59,007,DS,"Other Flows - West",69,144,2926
+45,041,57,009,FR,"Foreign - Other flows",11,15,216
+45,043,96,000,SC,"Georgetown Coun Tot Mig-US & For",1652,3063,91772
+45,043,97,000,SC,"Georgetown Coun Tot Mig-US",1631,3037,91501
+45,043,97,001,SC,"Georgetown Coun Tot Mig-Same St",794,1480,33186
+45,043,97,003,SC,"Georgetown Coun Tot Mig-Diff St",837,1557,58315
+45,043,98,000,SC,"Georgetown Coun Tot Mig-Foreign",21,26,271
+45,043,45,043,SC,"Georgetown Coun Non-Migrants",20838,45288,903828
+45,043,45,051,SC,"Horry County",434,747,16514
+45,043,45,089,SC,"Williamsburg County",52,122,1109
+45,043,45,041,SC,"Florence County",46,90,1652
+45,043,45,019,SC,"Charleston County",45,84,1918
+45,043,45,079,SC,"Richland County",39,64,1571
+45,043,37,119,NC,"Mecklenburg County",33,63,4216
+45,043,45,015,SC,"Berkeley County",23,50,789
+45,043,45,063,SC,"Lexington County",18,38,762
+45,043,45,045,SC,"Greenville County",17,40,2332
+45,043,51,059,VA,"Fairfax County",16,22,949
+45,043,45,091,SC,"York County",13,24,503
+45,043,37,081,NC,"Guilford County",12,22,405
+45,043,13,121,GA,"Fulton County",11,18,719
+45,043,24,003,MD,"Anne Arundel County",11,20,696
+45,043,45,085,SC,"Sumter County",11,22,2089
+45,043,34,025,NJ,"Monmouth County",10,22,735
+45,043,36,103,NY,"Suffolk County",10,18,825
+45,043,37,019,NC,"Brunswick County",10,21,589
+45,043,45,067,SC,"Marion County",10,17,321
+45,043,58,000,SS,"Other Flows - Same State",86,182,3627
+45,043,59,000,DS,"Other Flows - Diff State",724,1351,49181
+45,043,59,001,DS,"Other Flows - Northeast",227,425,19355
+45,043,59,003,DS,"Other Flows - Midwest",97,163,8033
+45,043,59,005,DS,"Other Flows - South",369,717,19775
+45,043,59,007,DS,"Other Flows - West",31,46,2018
+45,043,57,009,FR,"Foreign - Other flows",21,26,271
+45,045,96,000,SC,"Greenville Coun Tot Mig-US & For",10255,19858,454634
+45,045,97,000,SC,"Greenville Coun Tot Mig-US",10115,19592,449248
+45,045,97,001,SC,"Greenville Coun Tot Mig-Same St",4460,8209,147230
+45,045,97,003,SC,"Greenville Coun Tot Mig-Diff St",5655,11383,302018
+45,045,98,000,SC,"Greenville Coun Tot Mig-Foreign",140,266,5386
+45,045,45,045,SC,"Greenville Coun Non-Migrants",132755,290159,7011527
+45,045,45,083,SC,"Spartanburg County",969,1814,29770
+45,045,45,007,SC,"Anderson County",859,1590,28181
+45,045,45,077,SC,"Pickens County",694,1288,19370
+45,045,45,059,SC,"Laurens County",413,799,12736
+45,045,45,079,SC,"Richland County",245,410,9838
+45,045,37,119,NC,"Mecklenburg County",181,323,10843
+45,045,45,019,SC,"Charleston County",148,261,6537
+45,045,45,063,SC,"Lexington County",131,238,6030
+45,045,45,047,SC,"Greenwood County",128,234,3721
+45,045,45,073,SC,"Oconee County",117,208,3935
+45,045,37,021,NC,"Buncombe County",100,187,3604
+45,045,45,051,SC,"Horry County",95,153,2929
+45,045,13,121,GA,"Fulton County",79,151,5661
+45,045,13,135,GA,"Gwinnett County",70,142,4129
+45,045,13,067,GA,"Cobb County",59,112,3366
+45,045,12,031,FL,"Duval County",58,105,2807
+45,045,12,099,FL,"Palm Beach County",54,123,3454
+45,045,45,041,SC,"Florence County",54,92,1959
+45,045,37,081,NC,"Guilford County",52,98,2710
+45,045,45,003,SC,"Aiken County",52,99,2138
+45,045,37,183,NC,"Wake County",51,111,3512
+45,045,12,025,FL,"Dade County",50,102,1679
+45,045,13,089,GA,"De Kalb County",50,100,2810
+45,045,37,089,NC,"Henderson County",49,84,2023
+45,045,45,021,SC,"Cherokee County",49,87,1414
+45,045,45,091,SC,"York County",48,90,1983
+45,045,06,037,CA,"Los Angeles County",47,99,2081
+45,045,12,011,FL,"Broward County",47,107,1772
+45,045,45,015,SC,"Berkeley County",47,96,1272
+45,045,13,051,GA,"Chatham County",45,89,2142
+45,045,45,013,SC,"Beaufort County",41,82,2193
+45,045,45,035,SC,"Dorchester County",41,75,1664
+45,045,45,085,SC,"Sumter County",41,84,1458
+45,045,26,125,MI,"Oakland County",40,75,2232
+45,045,12,095,FL,"Orange County",37,88,1695
+45,045,45,071,SC,"Newberry County",37,62,896
+45,045,13,245,GA,"Richmond County",36,59,1293
+45,045,45,075,SC,"Orangeburg County",36,75,1159
+45,045,12,103,FL,"Pinellas County",34,61,1405
+45,045,45,001,SC,"Abbeville County",34,64,1112
+45,045,48,201,TX,"Harris County",34,71,1871
+45,045,04,013,AZ,"Maricopa County",33,88,2746
+45,045,12,057,FL,"Hillsborough County",33,64,1900
+45,045,37,067,NC,"Forsyth County",33,91,2231
+45,045,37,149,NC,"Polk County",33,51,1167
+45,045,47,037,TN,"Davidson County",32,54,1404
+45,045,12,127,FL,"Volusia County",30,67,1058
+45,045,17,031,IL,"Cook County",30,63,8358
+45,045,47,157,TN,"Shelby County",29,66,1886
+45,045,26,163,MI,"Wayne County",28,55,2030
+45,045,48,113,TX,"Dallas County",28,59,1854
+45,045,57,005,FR,"Foreign - APO/FPO ZIPs",28,56,829
+45,045,39,035,OH,"Cuyahoga County",27,50,1410
+45,045,47,093,TN,"Knox County",27,43,1012
+45,045,51,059,VA,"Fairfax County",27,62,1537
+45,045,37,051,NC,"Cumberland County",26,61,1045
+45,045,29,189,MO,"St Louis County",24,54,2587
+45,045,36,029,NY,"Erie County",23,46,1250
+45,045,36,047,NY,"Kings County",23,46,452
+45,045,37,045,NC,"Cleveland County",23,43,733
+45,045,39,061,OH,"Hamilton County",23,35,1592
+45,045,42,003,PA,"Allegheny County",23,52,1236
+45,045,12,105,FL,"Polk County",22,45,688
+45,045,17,043,IL,"Du Page County",22,57,1880
+45,045,36,081,NY,"Queens County",22,59,548
+45,045,37,025,NC,"Cabarrus County",22,64,1379
+45,045,45,043,SC,"Georgetown County",22,39,2208
+45,045,51,810,VA,"Virginia Beach",22,42,772
+45,045,18,097,IN,"Marion County",21,48,1131
+45,045,36,093,NY,"Schenectady County",21,52,2544
+45,045,37,071,NC,"Gaston County",21,49,1090
+45,045,37,175,NC,"Transylvania County",21,38,770
+45,045,45,057,SC,"Lancaster County",21,36,621
+45,045,45,087,SC,"Union County",21,30,777
+45,045,36,091,NY,"Saratoga County",20,61,2302
+45,045,36,103,NY,"Suffolk County",20,37,1593
+45,045,06,059,CA,"Orange County",19,42,1724
+45,045,09,003,CT,"Hartford County",19,31,915
+45,045,12,009,FL,"Brevard County",19,36,829
+45,045,36,067,NY,"Onondaga County",19,40,887
+45,045,47,065,TN,"Hamilton County",19,55,1781
+45,045,12,033,FL,"Escambia County",18,35,790
+45,045,13,073,GA,"Columbia County",18,50,1409
+45,045,34,005,NJ,"Burlington County",18,49,1274
+45,045,39,049,OH,"Franklin County",18,26,742
+45,045,39,153,OH,"Summit County",18,32,1215
+45,045,06,073,CA,"San Diego County",17,27,675
+45,045,13,215,GA,"Muscogee County",17,32,707
+45,045,33,011,NH,"Hillsborough County",17,40,1034
+45,045,51,041,VA,"Chesterfield County",17,44,864
+45,045,01,073,AL,"Jefferson County",16,31,1127
+45,045,05,119,AR,"Pulaski County",16,34,725
+45,045,12,071,FL,"Lee County",16,22,659
+45,045,12,117,FL,"Seminole County",16,30,724
+45,045,21,111,KY,"Jefferson County",16,27,851
+45,045,36,055,NY,"Monroe County",16,26,616
+45,045,37,035,NC,"Catawba County",16,29,698
+45,045,37,063,NC,"Durham County",16,33,1281
+45,045,37,147,NC,"Pitt County",16,28,499
+45,045,48,439,TX,"Tarrant County",16,32,803
+45,045,13,021,GA,"Bibb County",15,39,438
+45,045,13,059,GA,"Clarke County",15,22,425
+45,045,18,105,IN,"Monroe County",15,25,576
+45,045,25,017,MA,"Middlesex County",15,28,630
+45,045,37,129,NC,"New Hanover County",15,28,731
+45,045,37,179,NC,"Union County",15,38,747
+45,045,09,001,CT,"Fairfield County",14,28,2948
+45,045,12,001,FL,"Alachua County",14,26,412
+45,045,12,115,FL,"Sarasota County",14,23,468
+45,045,37,133,NC,"Onslow County",14,23,616
+45,045,39,095,OH,"Lucas County",14,21,507
+45,045,42,017,PA,"Bucks County",14,25,775
+45,045,47,163,TN,"Sullivan County",14,26,715
+45,045,53,033,WA,"King County",14,30,1288
+45,045,12,073,FL,"Leon County",13,27,599
+45,045,13,139,GA,"Hall County",13,25,611
+45,045,15,003,HI,"Honolulu County",13,24,357
+45,045,26,099,MI,"Macomb County",13,20,637
+45,045,34,013,NJ,"Essex County",13,26,410
+45,045,34,039,NJ,"Union County",13,26,235
+45,045,36,001,NY,"Albany County",13,25,1158
+45,045,37,161,NC,"Rutherford County",13,21,370
+45,045,01,101,AL,"Montgomery County",12,23,641
+45,045,12,091,FL,"Okaloosa County",12,20,523
+45,045,13,153,GA,"Houston County",12,24,410
+45,045,34,027,NJ,"Morris County",12,24,1256
+45,045,36,005,NY,"Bronx County",12,30,406
+45,045,36,063,NY,"Niagara County",12,20,555
+45,045,42,091,PA,"Montgomery County",12,28,775
+45,045,45,023,SC,"Chester County",12,30,468
+45,045,45,055,SC,"Kershaw County",12,24,335
+45,045,45,089,SC,"Williamsburg County",12,15,291
+45,045,47,179,TN,"Washington County",12,18,428
+45,045,48,029,TX,"Bexar County",12,25,926
+45,045,51,550,VA,Chesapeake,12,28,564
+45,045,01,089,AL,"Madison County",11,28,574
+45,045,06,013,CA,"Contra Costa County",11,15,466
+45,045,10,003,DE,"New Castle County",11,33,911
+45,045,12,101,FL,"Pasco County",11,23,526
+45,045,12,111,FL,"St Lucie County",11,19,522
+45,045,13,095,GA,"Dougherty County",11,20,577
+45,045,13,147,GA,"Hart County",11,19,315
+45,045,25,009,MA,"Essex County",11,29,496
+45,045,26,161,MI,"Washtenaw County",11,19,636
+45,045,27,053,MN,"Hennepin County",11,17,755
+45,045,34,003,NJ,"Bergen County",11,24,618
+45,045,36,059,NY,"Nassau County",11,19,560
+45,045,36,061,NY,"New York County",11,18,851
+45,045,39,057,OH,"Greene County",11,31,700
+45,045,45,031,SC,"Darlington County",11,23,309
+45,045,01,097,AL,"Mobile County",10,22,243
+45,045,06,001,CA,"Alameda County",10,23,738
+45,045,08,005,CO,"Arapahoe County",10,18,380
+45,045,09,007,CT,"Middlesex County",10,15,566
+45,045,12,019,FL,"Clay County",10,19,307
+45,045,13,057,GA,"Cherokee County",10,20,506
+45,045,25,027,MA,"Worcester County",10,19,517
+45,045,32,003,NV,"Clark County",10,22,432
+45,045,34,023,NJ,"Middlesex County",10,20,552
+45,045,34,031,NJ,"Passaic County",10,20,294
+45,045,37,001,NC,"Alamance County",10,18,321
+45,045,37,087,NC,"Haywood County",10,15,396
+45,045,37,097,NC,"Iredell County",10,20,528
+45,045,37,159,NC,"Rowan County",10,24,298
+45,045,39,113,OH,"Montgomery County",10,25,2308
+45,045,39,151,OH,"Stark County",10,16,537
+45,045,42,049,PA,"Erie County",10,23,436
+45,045,45,065,SC,"Mccormick County",10,13,236
+45,045,48,141,TX,"El Paso County",10,20,390
+45,045,49,035,UT,"Salt Lake County",10,23,526
+45,045,51,650,VA,Hampton,10,18,449
+45,045,54,011,WV,"Cabell County",10,17,641
+45,045,58,000,SS,"Other Flows - Same State",60,98,1688
+45,045,59,000,DS,"Other Flows - Diff State",2490,5016,123904
+45,045,59,001,DS,"Other Flows - Northeast",424,799,24843
+45,045,59,003,DS,"Other Flows - Midwest",581,1160,29484
+45,045,59,005,DS,"Other Flows - South",1262,2583,57517
+45,045,59,007,DS,"Other Flows - West",223,474,12059
+45,045,57,009,FR,"Foreign - Other flows",112,210,4558
+45,047,96,000,SC,"Greenwood Count Tot Mig-US & For",1268,2541,43423
+45,047,97,000,SC,"Greenwood Count Tot Mig-US",1243,2500,41998
+45,047,97,001,SC,"Greenwood Count Tot Mig-Same St",797,1536,23674
+45,047,97,003,SC,"Greenwood Count Tot Mig-Diff St",446,964,18325
+45,047,98,000,SC,"Greenwood Count Tot Mig-Foreign",25,41,1425
+45,047,45,047,SC,"Greenwood Count Non-Migrants",22958,49972,958365
+45,047,45,001,SC,"Abbeville County",155,331,4167
+45,047,45,059,SC,"Laurens County",130,256,3817
+45,047,45,045,SC,"Greenville County",86,159,2514
+45,047,45,007,SC,"Anderson County",56,102,1584
+45,047,45,065,SC,"Mccormick County",53,108,1460
+45,047,45,003,SC,"Aiken County",29,45,889
+45,047,45,079,SC,"Richland County",28,54,976
+45,047,45,083,SC,"Spartanburg County",27,49,662
+45,047,45,037,SC,"Edgefield County",26,50,435
+45,047,45,081,SC,"Saluda County",24,48,962
+45,047,45,071,SC,"Newberry County",23,38,438
+45,047,45,019,SC,"Charleston County",22,43,760
+45,047,45,063,SC,"Lexington County",21,43,831
+45,047,45,013,SC,"Beaufort County",19,41,880
+45,047,45,077,SC,"Pickens County",18,22,336
+45,047,45,073,SC,"Oconee County",10,17,531
+45,047,58,000,SS,"Other Flows - Same State",70,130,2433
+45,047,59,000,DS,"Other Flows - Diff State",446,964,18325
+45,047,59,001,DS,"Other Flows - Northeast",53,132,1941
+45,047,59,003,DS,"Other Flows - Midwest",54,108,3039
+45,047,59,005,DS,"Other Flows - South",310,646,11936
+45,047,59,007,DS,"Other Flows - West",29,78,1409
+45,047,57,009,FR,"Foreign - Other flows",25,41,1425
+45,049,96,000,SC,"Hampton County Tot Mig-US & For",309,642,7571
+45,049,97,000,SC,"Hampton County Tot Mig-US",309,642,7571
+45,049,97,001,SC,"Hampton County Tot Mig-Same St",181,387,4374
+45,049,97,003,SC,"Hampton County Tot Mig-Diff St",128,255,3197
+45,049,45,049,SC,"Hampton County Non-Migrants",6637,15487,217761
+45,049,45,013,SC,"Beaufort County",54,121,1183
+45,049,45,005,SC,"Allendale County",36,91,895
+45,049,45,029,SC,"Colleton County",16,35,279
+45,049,45,053,SC,"Jasper County",16,37,421
+45,049,58,000,SS,"Other Flows - Same State",59,103,1597
+45,049,59,000,DS,"Other Flows - Diff State",128,255,3197
+45,051,96,000,SC,"Horry County Tot Mig-US & For",6596,11528,234330
+45,051,97,000,SC,"Horry County Tot Mig-US",6551,11454,236327
+45,051,97,001,SC,"Horry County Tot Mig-Same St",1547,2748,47212
+45,051,97,003,SC,"Horry County Tot Mig-Diff St",5004,8706,189115
+45,051,98,000,SC,"Horry County Tot Mig-Foreign",45,74,-1996
+45,051,45,051,SC,"Horry County Non-Migrants",69673,138469,2686356
+45,051,45,043,SC,"Georgetown County",389,714,10686
+45,051,45,067,SC,"Marion County",123,229,3196
+45,051,45,041,SC,"Florence County",117,204,4329
+45,051,37,119,NC,"Mecklenburg County",116,198,4184
+45,051,37,019,NC,"Brunswick County",113,190,3336
+45,051,45,079,SC,"Richland County",100,159,3888
+45,051,37,047,NC,"Columbus County",97,188,1714
+45,051,45,019,SC,"Charleston County",84,149,3870
+45,051,45,063,SC,"Lexington County",79,129,2114
+45,051,37,183,NC,"Wake County",70,110,5198
+45,051,45,045,SC,"Greenville County",65,103,2552
+45,051,45,091,SC,"York County",57,116,1569
+45,051,37,129,NC,"New Hanover County",54,95,2613
+45,051,37,051,NC,"Cumberland County",51,80,1298
+45,051,37,081,NC,"Guilford County",51,79,1457
+45,051,37,071,NC,"Gaston County",47,93,1443
+45,051,45,033,SC,"Dillon County",47,77,1544
+45,051,45,089,SC,"Williamsburg County",47,85,1309
+45,051,36,103,NY,"Suffolk County",44,81,2209
+45,051,42,003,PA,"Allegheny County",43,71,2372
+45,051,54,039,WV,"Kanawha County",43,75,1621
+45,051,37,025,NC,"Cabarrus County",40,69,1110
+45,051,45,015,SC,"Berkeley County",37,74,1362
+45,051,51,059,VA,"Fairfax County",37,70,2046
+45,051,37,133,NC,"Onslow County",34,67,1301
+45,051,37,155,NC,"Robeson County",33,59,714
+45,051,45,085,SC,"Sumter County",32,55,654
+45,051,09,003,CT,"Hartford County",31,55,1081
+45,051,37,057,NC,"Davidson County",31,57,951
+45,051,45,003,SC,"Aiken County",30,64,1367
+45,051,45,007,SC,"Anderson County",30,53,726
+45,051,12,099,FL,"Palm Beach County",29,55,848
+45,051,24,005,MD,"Baltimore County",29,43,935
+45,051,45,031,SC,"Darlington County",29,45,651
+45,051,13,121,GA,"Fulton County",28,43,1186
+45,051,45,057,SC,"Lancaster County",28,45,53
+45,051,09,009,CT,"New Haven County",26,52,947
+45,051,12,011,FL,"Broward County",26,45,727
+45,051,24,031,MD,"Montgomery County",26,42,1542
+45,051,36,071,NY,"Orange County",26,54,1222
+45,051,36,119,NY,"Westchester County",26,39,1039
+45,051,37,021,NC,"Buncombe County",26,49,841
+45,051,12,095,FL,"Orange County",25,36,791
+45,051,24,033,MD,"Prince George's Coun",25,52,918
+45,051,34,029,NJ,"Ocean County",25,36,1033
+45,051,36,027,NY,"Dutchess County",25,49,984
+45,051,37,067,NC,"Forsyth County",25,45,916
+45,051,45,083,SC,"Spartanburg County",25,45,501
+45,051,24,003,MD,"Anne Arundel County",23,41,1634
+45,051,37,125,NC,"Moore County",23,31,778
+45,051,36,059,NY,"Nassau County",22,36,975
+45,051,36,067,NY,"Onondaga County",22,35,758
+45,051,45,069,SC,"Marlboro County",22,40,978
+45,051,51,153,VA,"Prince William Count",22,36,831
+45,051,12,009,FL,"Brevard County",21,46,694
+45,051,13,067,GA,"Cobb County",21,38,1059
+45,051,39,049,OH,"Franklin County",21,35,959
+45,051,39,113,OH,"Montgomery County",21,34,789
+45,051,17,031,IL,"Cook County",20,30,651
+45,051,25,017,MA,"Middlesex County",20,32,867
+45,051,34,003,NJ,"Bergen County",20,39,1046
+45,051,34,025,NJ,"Monmouth County",20,38,850
+45,051,36,081,NY,"Queens County",20,38,748
+45,051,37,179,NC,"Union County",20,37,633
+45,051,45,077,SC,"Pickens County",20,29,688
+45,051,09,001,CT,"Fairfield County",19,31,2928
+45,051,12,025,FL,"Dade County",19,32,374
+45,051,12,031,FL,"Duval County",19,33,380
+45,051,13,135,GA,"Gwinnett County",19,31,1040
+45,051,34,005,NJ,"Burlington County",19,43,892
+45,051,34,013,NJ,"Essex County",19,37,1151
+45,051,36,111,NY,"Ulster County",18,30,732
+45,051,37,063,NC,"Durham County",18,30,759
+45,051,45,027,SC,"Clarendon County",18,25,517
+45,051,45,035,SC,"Dorchester County",18,37,590
+45,051,54,081,WV,"Raleigh County",18,28,315
+45,051,34,021,NJ,"Mercer County",17,30,878
+45,051,34,027,NJ,"Morris County",17,35,1540
+45,051,37,159,NC,"Rowan County",17,24,601
+45,051,42,133,PA,"York County",17,27,864
+45,051,45,025,SC,"Chesterfield County",17,33,659
+45,051,13,051,GA,"Chatham County",16,32,628
+45,051,13,089,GA,"De Kalb County",16,22,561
+45,051,24,017,MD,"Charles County",16,23,605
+45,051,36,007,NY,"Broome County",16,23,528
+45,051,36,055,NY,"Monroe County",16,23,464
+45,051,37,097,NC,"Iredell County",16,38,514
+45,051,37,157,NC,"Rockingham County",16,24,239
+45,051,39,017,OH,"Butler County",16,27,376
+45,051,42,017,PA,"Bucks County",16,26,576
+45,051,42,129,PA,"Westmoreland County",16,27,440
+45,051,45,055,SC,"Kershaw County",16,32,413
+45,051,10,003,DE,"New Castle County",15,27,958
+45,051,24,021,MD,"Frederick County",15,27,772
+45,051,34,023,NJ,"Middlesex County",15,33,1254
+45,051,36,029,NY,"Erie County",15,22,727
+45,051,51,041,VA,"Chesterfield County",15,29,708
+45,051,54,011,WV,"Cabell County",15,15,224
+45,051,54,079,WV,"Putnam County",15,22,354
+45,051,33,011,NH,"Hillsborough County",14,18,442
+45,051,36,093,NY,"Schenectady County",14,21,363
+45,051,36,101,NY,"Steuben County",14,23,356
+45,051,37,045,NC,"Cleveland County",14,27,448
+45,051,37,165,NC,"Scotland County",14,19,547
+45,051,39,035,OH,"Cuyahoga County",14,23,525
+45,051,42,055,PA,"Franklin County",14,27,429
+45,051,42,071,PA,"Lancaster County",14,23,310
+45,051,42,079,PA,"Luzerne County",14,22,266
+45,051,45,013,SC,"Beaufort County",14,26,445
+45,051,45,075,SC,"Orangeburg County",14,28,313
+45,051,51,087,VA,"Henrico County",14,25,677
+45,051,57,005,FR,"Foreign - APO/FPO ZIPs",14,29,354
+45,051,12,103,FL,"Pinellas County",13,17,459
+45,051,25,013,MA,"Hampden County",13,20,450
+45,051,32,003,NV,"Clark County",13,24,606
+45,051,34,007,NJ,"Camden County",13,18,249
+45,051,34,031,NJ,"Passaic County",13,18,849
+45,051,36,047,NY,"Kings County",13,23,267
+45,051,36,065,NY,"Oneida County",13,18,300
+45,051,37,035,NC,"Catawba County",13,28,461
+45,051,37,151,NC,"Randolph County",13,26,374
+45,051,45,021,SC,"Cherokee County",13,21,385
+45,051,45,059,SC,"Laurens County",13,18,352
+45,051,48,201,TX,"Harris County",13,25,687
+45,051,54,003,WV,"Berkeley County",13,26,675
+45,051,04,013,AZ,"Maricopa County",12,16,196
+45,051,06,073,CA,"San Diego County",12,21,596
+45,051,12,105,FL,"Polk County",12,22,299
+45,051,37,085,NC,"Harnett County",12,23,388
+45,051,37,147,NC,"Pitt County",12,19,564
+45,051,37,153,NC,"Richmond County",12,20,174
+45,051,39,151,OH,"Stark County",12,31,907
+45,051,39,153,OH,"Summit County",12,25,370
+45,051,39,155,OH,"Trumbull County",12,21,306
+45,051,42,045,PA,"Delaware County",12,17,464
+45,051,42,091,PA,"Montgomery County",12,26,844
+45,051,42,125,PA,"Washington County",12,17,300
+45,051,45,047,SC,"Greenwood County",12,17,320
+45,051,47,155,TN,"Sevier County",12,21,546
+45,051,48,029,TX,"Bexar County",12,18,269
+45,051,51,161,VA,"Roanoke County",12,19,320
+45,051,54,107,WV,"Wood County",12,20,345
+45,051,18,097,IN,"Marion County",11,19,321
+45,051,25,027,MA,"Worcester County",11,19,494
+45,051,34,015,NJ,"Gloucester County",11,25,516
+45,051,36,001,NY,"Albany County",11,19,378
+45,051,37,023,NC,"Burke County",11,12,251
+45,051,37,089,NC,"Henderson County",11,20,252
+45,051,37,127,NC,"Nash County",11,16,334
+45,051,54,033,WV,"Harrison County",11,14,282
+45,051,54,049,WV,"Marion County",11,12,150
+45,051,06,037,CA,"Los Angeles County",10,19,362
+45,051,09,005,CT,"Litchfield County",10,18,304
+45,051,15,003,HI,"Honolulu County",10,22,275
+45,051,24,009,MD,"Calvert County",10,20,399
+45,051,36,061,NY,"New York County",10,15,5363
+45,051,36,063,NY,"Niagara County",10,20,368
+45,051,36,087,NY,"Rockland County",10,20,513
+45,051,36,091,NY,"Saratoga County",10,19,307
+45,051,37,001,NC,"Alamance County",10,18,299
+45,051,42,029,PA,"Chester County",10,15,499
+45,051,42,101,PA,"Philadelphia County",10,19,315
+45,051,47,037,TN,"Davidson County",10,18,2139
+45,051,47,065,TN,"Hamilton County",10,20,689
+45,051,58,000,SS,"Other Flows - Same State",51,96,1179
+45,051,59,000,DS,"Other Flows - Diff State",2181,3826,73446
+45,051,59,001,DS,"Other Flows - Northeast",481,819,16313
+45,051,59,003,DS,"Other Flows - Midwest",456,806,16093
+45,051,59,005,DS,"Other Flows - South",1096,1943,35455
+45,051,59,007,DS,"Other Flows - West",148,258,5586
+45,051,57,009,FR,"Foreign - Other flows",31,45,-2350
+45,053,96,000,SC,"Jasper County Tot Mig-US & For",240,482,5782
+45,053,97,000,SC,"Jasper County Tot Mig-US",240,482,5782
+45,053,97,001,SC,"Jasper County Tot Mig-Same St",121,259,2888
+45,053,97,003,SC,"Jasper County Tot Mig-Diff St",119,223,2894
+45,053,45,053,SC,"Jasper County Non-Migrants",2829,6301,84943
+45,053,45,013,SC,"Beaufort County",89,191,2229
+45,053,13,051,GA,"Chatham County",31,60,768
+45,053,45,049,SC,"Hampton County",19,44,297
+45,053,58,000,SS,"Other Flows - Same State",13,24,362
+45,053,59,000,DS,"Other Flows - Diff State",88,163,2126
+45,055,96,000,SC,"Kershaw County Tot Mig-US & For",1246,2617,45037
+45,055,97,000,SC,"Kershaw County Tot Mig-US",1225,2580,44534
+45,055,97,001,SC,"Kershaw County Tot Mig-Same St",791,1669,27086
+45,055,97,003,SC,"Kershaw County Tot Mig-Diff St",434,911,17448
+45,055,98,000,SC,"Kershaw County Tot Mig-Foreign",21,37,502
+45,055,45,055,SC,"Kershaw County Non-Migrants",19524,43871,779267
+45,055,45,079,SC,"Richland County",333,703,12136
+45,055,45,063,SC,"Lexington County",66,129,1918
+45,055,45,057,SC,"Lancaster County",61,127,1682
+45,055,45,085,SC,"Sumter County",56,137,1677
+45,055,45,061,SC,"Lee County",47,112,1089
+45,055,45,039,SC,"Fairfield County",33,74,1056
+45,055,45,031,SC,"Darlington County",27,51,1158
+45,055,45,025,SC,"Chesterfield County",26,53,653
+45,055,45,091,SC,"York County",15,33,613
+45,055,37,119,NC,"Mecklenburg County",14,33,1180
+45,055,45,045,SC,"Greenville County",13,27,587
+45,055,45,023,SC,"Chester County",12,24,508
+45,055,45,041,SC,"Florence County",12,24,970
+45,055,45,051,SC,"Horry County",11,20,214
+45,055,45,003,SC,"Aiken County",10,18,456
+45,055,58,000,SS,"Other Flows - Same State",69,137,2368
+45,055,59,000,DS,"Other Flows - Diff State",420,878,16268
+45,055,59,001,DS,"Other Flows - Northeast",95,197,3515
+45,055,59,003,DS,"Other Flows - Midwest",54,109,1782
+45,055,59,005,DS,"Other Flows - South",241,512,10008
+45,055,59,007,DS,"Other Flows - West",30,60,963
+45,055,57,009,FR,"Foreign - Other flows",21,37,502
+45,057,96,000,SC,"Lancaster Count Tot Mig-US & For",990,2064,34114
+45,057,97,000,SC,"Lancaster Count Tot Mig-US",979,2045,33948
+45,057,97,001,SC,"Lancaster Count Tot Mig-Same St",517,1064,16042
+45,057,97,003,SC,"Lancaster Count Tot Mig-Diff St",462,981,17905
+45,057,98,000,SC,"Lancaster Count Tot Mig-Foreign",11,19,166
+45,057,45,057,SC,"Lancaster Count Non-Migrants",20371,45397,793261
+45,057,45,091,SC,"York County",164,341,6764
+45,057,37,119,NC,"Mecklenburg County",109,207,4672
+45,057,45,023,SC,"Chester County",107,216,2571
+45,057,45,055,SC,"Kershaw County",68,132,1523
+45,057,37,179,NC,"Union County",55,135,1822
+45,057,45,025,SC,"Chesterfield County",40,82,1015
+45,057,45,045,SC,"Greenville County",15,30,453
+45,057,45,051,SC,"Horry County",13,20,205
+45,057,45,079,SC,"Richland County",13,26,565
+45,057,45,063,SC,"Lexington County",10,27,383
+45,057,58,000,SS,"Other Flows - Same State",87,190,2565
+45,057,59,000,DS,"Other Flows - Diff State",298,639,11411
+45,057,59,001,DS,"Other Flows - Northeast",51,100,1664
+45,057,59,003,DS,"Other Flows - Midwest",49,109,2692
+45,057,59,005,DS,"Other Flows - South",166,346,5876
+45,057,59,007,DS,"Other Flows - West",32,84,1178
+45,057,57,009,FR,"Foreign - Other flows",11,19,166
+45,059,96,000,SC,"Laurens County Tot Mig-US & For",1391,2834,39946
+45,059,97,000,SC,"Laurens County Tot Mig-US",1379,2813,39281
+45,059,97,001,SC,"Laurens County Tot Mig-Same St",1050,2111,29048
+45,059,97,003,SC,"Laurens County Tot Mig-Diff St",329,702,10233
+45,059,98,000,SC,"Laurens County Tot Mig-Foreign",12,21,665
+45,059,45,059,SC,"Laurens County Non-Migrants",22541,49480,818307
+45,059,45,045,SC,"Greenville County",439,929,12866
+45,059,45,047,SC,"Greenwood County",155,301,4216
+45,059,45,083,SC,"Spartanburg County",136,255,3638
+45,059,45,007,SC,"Anderson County",65,125,1779
+45,059,45,071,SC,"Newberry County",54,112,960
+45,059,45,077,SC,"Pickens County",27,55,701
+45,059,45,001,SC,"Abbeville County",21,48,822
+45,059,45,063,SC,"Lexington County",20,35,521
+45,059,45,079,SC,"Richland County",15,23,358
+45,059,45,019,SC,"Charleston County",13,26,480
+45,059,45,087,SC,"Union County",13,25,227
+45,059,12,057,FL,"Hillsborough County",10,25,286
+45,059,45,021,SC,"Cherokee County",10,18,319
+45,059,58,000,SS,"Other Flows - Same State",82,159,2162
+45,059,59,000,DS,"Other Flows - Diff State",319,677,9947
+45,059,59,001,DS,"Other Flows - Northeast",38,73,1279
+45,059,59,003,DS,"Other Flows - Midwest",48,107,1306
+45,059,59,005,DS,"Other Flows - South",211,445,6781
+45,059,59,007,DS,"Other Flows - West",22,52,580
+45,059,57,009,FR,"Foreign - Other flows",12,21,665
+45,061,96,000,SC,"Lee County Tot Mig-US & For",492,1043,11045
+45,061,97,000,SC,"Lee County Tot Mig-US",492,1043,11045
+45,061,97,001,SC,"Lee County Tot Mig-Same St",379,805,8235
+45,061,97,003,SC,"Lee County Tot Mig-Diff St",113,238,2811
+45,061,45,061,SC,"Lee County Non-Migrants",7387,16546,198162
+45,061,45,085,SC,"Sumter County",181,400,4023
+45,061,45,031,SC,"Darlington County",59,124,1196
+45,061,45,055,SC,"Kershaw County",32,73,683
+45,061,45,041,SC,"Florence County",30,59,701
+45,061,45,079,SC,"Richland County",21,40,617
+45,061,45,027,SC,"Clarendon County",15,38,265
+45,061,58,000,SS,"Other Flows - Same State",41,71,749
+45,061,59,000,DS,"Other Flows - Diff State",113,238,2811
+45,063,96,000,SC,"Lexington Count Tot Mig-US & For",6884,13280,256063
+45,063,97,000,SC,"Lexington Count Tot Mig-US",6799,13130,254253
+45,063,97,001,SC,"Lexington Count Tot Mig-Same St",4553,8469,148326
+45,063,97,003,SC,"Lexington Count Tot Mig-Diff St",2246,4661,105926
+45,063,98,000,SC,"Lexington Count Tot Mig-Foreign",85,150,1810
+45,063,45,063,SC,"Lexington Count Non-Migrants",80932,180810,3981536
+45,063,45,079,SC,"Richland County",2704,4942,89103
+45,063,45,003,SC,"Aiken County",186,357,5533
+45,063,45,075,SC,"Orangeburg County",180,366,5917
+45,063,45,019,SC,"Charleston County",140,241,5246
+45,063,45,045,SC,"Greenville County",113,225,5040
+45,063,45,071,SC,"Newberry County",104,198,2770
+45,063,45,051,SC,"Horry County",79,129,2437
+45,063,37,119,NC,"Mecklenburg County",76,150,3677
+45,063,45,055,SC,"Kershaw County",73,144,2010
+45,063,45,085,SC,"Sumter County",72,148,2298
+45,063,45,081,SC,"Saluda County",70,156,1693
+45,063,45,015,SC,"Berkeley County",62,116,2062
+45,063,45,091,SC,"York County",62,108,2243
+45,063,45,017,SC,"Calhoun County",59,116,1469
+45,063,45,041,SC,"Florence County",59,94,1944
+45,063,45,039,SC,"Fairfield County",53,112,1739
+45,063,45,083,SC,"Spartanburg County",53,101,1577
+45,063,45,007,SC,"Anderson County",43,83,1590
+45,063,45,013,SC,"Beaufort County",38,70,1567
+45,063,57,005,FR,"Foreign - APO/FPO ZIPs",38,75,1041
+45,063,45,047,SC,"Greenwood County",34,66,1388
+45,063,12,031,FL,"Duval County",32,64,1514
+45,063,45,035,SC,"Dorchester County",32,74,1050
+45,063,13,135,GA,"Gwinnett County",29,59,2280
+45,063,13,245,GA,"Richmond County",29,57,917
+45,063,37,051,NC,"Cumberland County",26,59,645
+45,063,45,031,SC,"Darlington County",26,42,714
+45,063,45,029,SC,"Colleton County",25,44,617
+45,063,37,183,NC,"Wake County",23,45,1093
+45,063,45,011,SC,"Barnwell County",23,51,624
+45,063,45,077,SC,"Pickens County",23,29,722
+45,063,13,073,GA,"Columbia County",22,40,995
+45,063,45,037,SC,"Edgefield County",22,40,664
+45,063,12,011,FL,"Broward County",20,33,1003
+45,063,12,095,FL,"Orange County",20,37,709
+45,063,45,043,SC,"Georgetown County",19,33,630
+45,063,12,099,FL,"Palm Beach County",18,29,1045
+45,063,13,067,GA,"Cobb County",18,41,920
+45,063,17,031,IL,"Cook County",18,27,620
+45,063,45,009,SC,"Bamberg County",18,38,547
+45,063,45,089,SC,"Williamsburg County",18,41,410
+45,063,12,025,FL,"Dade County",17,37,648
+45,063,13,089,GA,"De Kalb County",17,24,601
+45,063,13,121,GA,"Fulton County",17,34,692
+45,063,45,027,SC,"Clarendon County",17,23,319
+45,063,45,067,SC,"Marion County",17,29,333
+45,063,12,127,FL,"Volusia County",16,35,511
+45,063,45,059,SC,"Laurens County",16,37,486
+45,063,12,057,FL,"Hillsborough County",15,27,525
+45,063,37,133,NC,"Onslow County",15,23,368
+45,063,12,103,FL,"Pinellas County",14,24,458
+45,063,36,047,NY,"Kings County",14,22,288
+45,063,45,023,SC,"Chester County",14,25,446
+45,063,45,057,SC,"Lancaster County",14,20,426
+45,063,36,055,NY,"Monroe County",13,29,584
+45,063,45,087,SC,"Union County",13,27,492
+45,063,51,059,VA,"Fairfax County",13,26,724
+45,063,12,117,FL,"Seminole County",12,26,562
+45,063,37,071,NC,"Gaston County",12,19,383
+45,063,37,081,NC,"Guilford County",12,17,557
+45,063,37,067,NC,"Forsyth County",11,17,451
+45,063,45,061,SC,"Lee County",11,22,327
+45,063,47,093,TN,"Knox County",11,23,732
+45,063,12,071,FL,"Lee County",10,26,564
+45,063,36,059,NY,"Nassau County",10,26,388
+45,063,37,021,NC,"Buncombe County",10,23,372
+45,063,37,025,NC,"Cabarrus County",10,21,337
+45,063,42,101,PA,"Philadelphia County",10,20,495
+45,063,45,025,SC,"Chesterfield County",10,22,323
+45,063,45,069,SC,"Marlboro County",10,16,314
+45,063,48,113,TX,"Dallas County",10,22,479
+45,063,58,000,SS,"Other Flows - Same State",41,84,1258
+45,063,59,000,DS,"Other Flows - Diff State",1646,3499,79789
+45,063,59,001,DS,"Other Flows - Northeast",307,582,17466
+45,063,59,003,DS,"Other Flows - Midwest",299,650,14326
+45,063,59,005,DS,"Other Flows - South",862,1893,39219
+45,063,59,007,DS,"Other Flows - West",178,374,8777
+45,063,57,009,FR,"Foreign - Other flows",47,75,769
+45,065,96,000,SC,"Mccormick Count Tot Mig-US & For",258,500,20228
+45,065,97,000,SC,"Mccormick Count Tot Mig-US",258,500,20228
+45,065,97,001,SC,"Mccormick Count Tot Mig-Same St",86,155,2498
+45,065,97,003,SC,"Mccormick Count Tot Mig-Diff St",172,345,17730
+45,065,45,065,SC,"Mccormick Count Non-Migrants",3155,6621,110783
+45,065,45,047,SC,"Greenwood County",28,45,564
+45,065,45,001,SC,"Abbeville County",16,30,431
+45,065,13,245,GA,"Richmond County",13,28,478
+45,065,13,181,GA,"Lincoln County",12,26,214
+45,065,13,073,GA,"Columbia County",11,31,571
+45,065,45,037,SC,"Edgefield County",11,19,221
+45,065,58,000,SS,"Other Flows - Same State",31,61,1283
+45,065,59,000,DS,"Other Flows - Diff State",136,260,16468
+45,067,96,000,SC,"Marion County Tot Mig-US & For",534,1085,13327
+45,067,97,000,SC,"Marion County Tot Mig-US",534,1085,13327
+45,067,97,001,SC,"Marion County Tot Mig-Same St",340,687,8963
+45,067,97,003,SC,"Marion County Tot Mig-Diff St",194,398,4364
+45,067,45,067,SC,"Marion County Non-Migrants",11834,25927,327756
+45,067,45,051,SC,"Horry County",107,222,2179
+45,067,45,033,SC,"Dillon County",78,162,1330
+45,067,45,041,SC,"Florence County",59,124,1493
+45,067,45,031,SC,"Darlington County",18,27,547
+45,067,58,000,SS,"Other Flows - Same State",78,152,3414
+45,067,59,000,DS,"Other Flows - Diff State",194,398,4364
+45,069,96,000,SC,"Marlboro County Tot Mig-US & For",433,843,10082
+45,069,97,000,SC,"Marlboro County Tot Mig-US",433,843,10082
+45,069,97,001,SC,"Marlboro County Tot Mig-Same St",193,361,4534
+45,069,97,003,SC,"Marlboro County Tot Mig-Diff St",240,482,5547
+45,069,45,069,SC,"Marlboro County Non-Migrants",10220,22266,280174
+45,069,45,025,SC,"Chesterfield County",69,126,1258
+45,069,37,165,NC,"Scotland County",51,105,1245
+45,069,37,153,NC,"Richmond County",25,46,421
+45,069,45,033,SC,"Dillon County",22,48,483
+45,069,45,031,SC,"Darlington County",21,41,618
+45,069,45,041,SC,"Florence County",16,26,631
+45,069,36,047,NY,"Kings County",13,29,279
+45,069,45,051,SC,"Horry County",10,17,172
+45,069,58,000,SS,"Other Flows - Same State",55,103,1373
+45,069,59,000,DS,"Other Flows - Diff State",151,302,3603
+45,071,96,000,SC,"Newberry County Tot Mig-US & For",602,1165,20226
+45,071,97,000,SC,"Newberry County Tot Mig-US",602,1165,20226
+45,071,97,001,SC,"Newberry County Tot Mig-Same St",423,810,14076
+45,071,97,003,SC,"Newberry County Tot Mig-Diff St",179,355,6150
+45,071,45,071,SC,"Newberry County Non-Migrants",12659,26957,457479
+45,071,45,063,SC,"Lexington County",117,222,4669
+45,071,45,079,SC,"Richland County",84,156,3098
+45,071,45,059,SC,"Laurens County",34,74,714
+45,071,45,047,SC,"Greenwood County",26,49,758
+45,071,45,087,SC,"Union County",19,43,495
+45,071,45,039,SC,"Fairfield County",17,39,330
+45,071,45,045,SC,"Greenville County",16,28,503
+45,071,45,081,SC,"Saluda County",13,28,292
+45,071,45,083,SC,"Spartanburg County",12,23,588
+45,071,37,119,NC,"Mecklenburg County",10,23,790
+45,071,45,075,SC,"Orangeburg County",10,17,381
+45,071,58,000,SS,"Other Flows - Same State",75,131,2249
+45,071,59,000,DS,"Other Flows - Diff State",169,332,5360
+45,071,59,001,DS,"Other Flows - Northeast",21,37,520
+45,071,59,003,DS,"Other Flows - Midwest",24,42,786
+45,071,59,005,DS,"Other Flows - South",111,227,3660
+45,071,59,007,DS,"Other Flows - West",13,26,393
+45,073,96,000,SC,"Oconee County Tot Mig-US & For",1376,2663,72768
+45,073,97,000,SC,"Oconee County Tot Mig-US",1376,2663,72768
+45,073,97,001,SC,"Oconee County Tot Mig-Same St",623,1194,23671
+45,073,97,003,SC,"Oconee County Tot Mig-Diff St",753,1469,49098
+45,073,45,073,SC,"Oconee County Non-Migrants",23989,51581,1018216
+45,073,45,077,SC,"Pickens County",199,368,7005
+45,073,45,007,SC,"Anderson County",174,341,5080
+45,073,45,045,SC,"Greenville County",82,150,4495
+45,073,13,135,GA,"Gwinnett County",27,58,1847
+45,073,45,063,SC,"Lexington County",20,32,789
+45,073,13,257,GA,"Stephens County",18,40,426
+45,073,45,019,SC,"Charleston County",15,31,555
+45,073,13,121,GA,"Fulton County",13,24,2122
+45,073,45,083,SC,"Spartanburg County",13,24,506
+45,073,13,067,GA,"Cobb County",12,23,710
+45,073,12,011,FL,"Broward County",11,19,487
+45,073,37,119,NC,"Mecklenburg County",11,19,422
+45,073,45,015,SC,"Berkeley County",11,28,631
+45,073,13,241,GA,"Rabun County",10,21,451
+45,073,45,079,SC,"Richland County",10,14,324
+45,073,45,091,SC,"York County",10,14,431
+45,073,58,000,SS,"Other Flows - Same State",89,192,3854
+45,073,59,000,DS,"Other Flows - Diff State",651,1265,42632
+45,073,59,001,DS,"Other Flows - Northeast",104,198,12056
+45,073,59,003,DS,"Other Flows - Midwest",122,222,10626
+45,073,59,005,DS,"Other Flows - South",371,746,17459
+45,073,59,007,DS,"Other Flows - West",54,99,2490
+45,075,96,000,SC,"Orangeburg Coun Tot Mig-US & For",1488,2898,40366
+45,075,97,000,SC,"Orangeburg Coun Tot Mig-US",1457,2844,39779
+45,075,97,001,SC,"Orangeburg Coun Tot Mig-Same St",894,1705,22412
+45,075,97,003,SC,"Orangeburg Coun Tot Mig-Diff St",563,1139,17367
+45,075,98,000,SC,"Orangeburg Coun Tot Mig-Foreign",31,54,587
+45,075,45,075,SC,"Orangeburg Coun Non-Migrants",29511,65027,959502
+45,075,45,079,SC,"Richland County",110,193,3013
+45,075,45,017,SC,"Calhoun County",97,207,2284
+45,075,45,063,SC,"Lexington County",90,150,1954
+45,075,45,009,SC,"Bamberg County",85,179,1936
+45,075,45,035,SC,"Dorchester County",83,190,2137
+45,075,45,015,SC,"Berkeley County",78,174,1993
+45,075,45,019,SC,"Charleston County",74,138,2168
+45,075,45,003,SC,"Aiken County",36,63,936
+45,075,45,045,SC,"Greenville County",22,37,643
+45,075,45,027,SC,"Clarendon County",21,38,401
+45,075,45,085,SC,"Sumter County",19,37,541
+45,075,36,005,NY,"Bronx County",17,34,309
+45,075,36,047,NY,"Kings County",15,29,374
+45,075,45,011,SC,"Barnwell County",15,34,295
+45,075,45,041,SC,"Florence County",15,26,393
+45,075,45,051,SC,"Horry County",14,22,292
+45,075,34,017,NJ,"Hudson County",13,27,253
+45,075,45,029,SC,"Colleton County",13,22,329
+45,075,45,089,SC,"Williamsburg County",13,25,290
+45,075,12,025,FL,"Dade County",12,22,165
+45,075,13,245,GA,"Richmond County",12,23,288
+45,075,36,081,NY,"Queens County",12,24,296
+45,075,37,119,NC,"Mecklenburg County",11,21,387
+45,075,45,043,SC,"Georgetown County",11,18,280
+45,075,45,091,SC,"York County",11,17,217
+45,075,13,089,GA,"De Kalb County",10,15,125
+45,075,13,121,GA,"Fulton County",10,22,239
+45,075,45,013,SC,"Beaufort County",10,15,434
+45,075,58,000,SS,"Other Flows - Same State",77,120,1878
+45,075,59,000,DS,"Other Flows - Diff State",451,922,14932
+45,075,59,001,DS,"Other Flows - Northeast",84,169,3600
+45,075,59,003,DS,"Other Flows - Midwest",51,93,1564
+45,075,59,005,DS,"Other Flows - South",284,606,8926
+45,075,59,007,DS,"Other Flows - West",32,54,842
+45,075,57,009,FR,"Foreign - Other flows",31,54,587
+45,077,96,000,SC,"Pickens County Tot Mig-US & For",2978,5385,91616
+45,077,97,000,SC,"Pickens County Tot Mig-US",2733,5133,90740
+45,077,97,001,SC,"Pickens County Tot Mig-Same St",1861,3521,57404
+45,077,97,003,SC,"Pickens County Tot Mig-Diff St",872,1612,33336
+45,077,98,000,SC,"Pickens County Tot Mig-Foreign",245,252,876
+45,077,45,077,SC,"Pickens County Non-Migrants",32393,71731,1374577
+45,077,45,045,SC,"Greenville County",837,1708,26203
+45,077,45,007,SC,"Anderson County",430,831,12210
+45,077,45,073,SC,"Oconee County",217,389,7610
+45,077,45,083,SC,"Spartanburg County",59,85,2302
+45,077,45,019,SC,"Charleston County",45,71,1286
+45,077,45,051,SC,"Horry County",27,43,600
+45,077,45,063,SC,"Lexington County",24,40,684
+45,077,45,091,SC,"York County",24,31,623
+45,077,45,059,SC,"Laurens County",20,34,438
+45,077,45,079,SC,"Richland County",20,32,541
+45,077,45,047,SC,"Greenwood County",17,26,608
+45,077,45,015,SC,"Berkeley County",15,25,342
+45,077,13,121,GA,"Fulton County",14,23,557
+45,077,37,119,NC,"Mecklenburg County",13,15,363
+45,077,45,003,SC,"Aiken County",13,23,422
+45,077,12,095,FL,"Orange County",12,19,730
+45,077,37,021,NC,"Buncombe County",11,16,323
+45,077,37,183,NC,"Wake County",11,25,763
+45,077,45,001,SC,"Abbeville County",11,19,284
+45,077,13,089,GA,"De Kalb County",10,24,405
+45,077,45,035,SC,"Dorchester County",10,19,429
+45,077,58,000,SS,"Other Flows - Same State",92,145,2821
+45,077,59,000,DS,"Other Flows - Diff State",801,1490,30194
+45,077,59,001,DS,"Other Flows - Northeast",115,210,6342
+45,077,59,003,DS,"Other Flows - Midwest",113,194,4212
+45,077,59,005,DS,"Other Flows - South",501,930,17294
+45,077,59,007,DS,"Other Flows - West",72,156,2347
+45,077,57,009,FR,"Foreign - Other flows",245,252,876
+45,079,96,000,SC,"Richland County Tot Mig-US & For",10337,19319,361926
+45,079,97,000,SC,"Richland County Tot Mig-US",9778,18357,350642
+45,079,97,001,SC,"Richland County Tot Mig-Same St",5363,9470,167125
+45,079,97,003,SC,"Richland County Tot Mig-Diff St",4415,8887,183517
+45,079,98,000,SC,"Richland County Tot Mig-Foreign",559,962,11284
+45,079,45,079,SC,"Richland County Non-Migrants",100864,210660,4762059
+45,079,45,063,SC,"Lexington County",2360,4380,79214
+45,079,45,055,SC,"Kershaw County",297,527,8113
+45,079,57,005,FR,"Foreign - APO/FPO ZIPs",274,637,7948
+45,079,45,019,SC,"Charleston County",248,376,8360
+45,079,45,085,SC,"Sumter County",246,433,7869
+45,079,45,045,SC,"Greenville County",212,356,7532
+45,079,45,039,SC,"Fairfield County",176,372,5540
+45,079,45,075,SC,"Orangeburg County",163,304,4594
+45,079,45,041,SC,"Florence County",144,251,4433
+45,079,37,119,NC,"Mecklenburg County",140,237,6606
+45,079,45,051,SC,"Horry County",120,194,3507
+45,079,37,051,NC,"Cumberland County",114,281,3941
+45,079,45,003,SC,"Aiken County",114,180,3418
+45,079,45,091,SC,"York County",94,172,3068
+45,079,45,083,SC,"Spartanburg County",86,126,2420
+45,079,45,015,SC,"Berkeley County",82,148,2426
+45,079,45,071,SC,"Newberry County",81,143,2333
+45,079,45,013,SC,"Beaufort County",76,147,2026
+45,079,45,043,SC,"Georgetown County",74,114,1651
+45,079,48,027,TX,"Bell County",68,191,2588
+45,079,45,031,SC,"Darlington County",66,92,1749
+45,079,13,121,GA,"Fulton County",63,107,3262
+45,079,13,245,GA,"Richmond County",62,123,1751
+45,079,45,007,SC,"Anderson County",62,104,2258
+45,079,45,035,SC,"Dorchester County",59,87,1701
+45,079,45,089,SC,"Williamsburg County",59,99,1245
+45,079,37,183,NC,"Wake County",54,83,4228
+45,079,13,179,GA,"Liberty County",51,122,1496
+45,079,13,215,GA,"Muscogee County",51,137,1908
+45,079,45,017,SC,"Calhoun County",51,83,1596
+45,079,13,089,GA,"De Kalb County",49,84,1914
+45,079,15,003,HI,"Honolulu County",49,135,1680
+45,079,45,047,SC,"Greenwood County",48,72,1322
+45,079,45,027,SC,"Clarendon County",45,77,991
+45,079,36,047,NY,"Kings County",43,88,1019
+45,079,51,059,VA,"Fairfax County",40,87,3218
+45,079,13,135,GA,"Gwinnett County",39,70,1822
+45,079,13,051,GA,"Chatham County",37,56,1202
+45,079,13,067,GA,"Cobb County",36,68,1726
+45,079,20,061,KS,"Geary County",33,86,974
+45,079,36,045,NY,"Jefferson County",32,104,1062
+45,079,45,077,SC,"Pickens County",31,51,965
+45,079,12,031,FL,"Duval County",30,63,1113
+45,079,45,057,SC,"Lancaster County",30,49,997
+45,079,17,031,IL,"Cook County",29,44,1409
+45,079,36,061,NY,"New York County",29,46,1470
+45,079,48,029,TX,"Bexar County",29,83,1232
+45,079,12,011,FL,"Broward County",28,48,738
+45,079,12,057,FL,"Hillsborough County",28,52,908
+45,079,53,053,WA,"Pierce County",28,75,870
+45,079,22,115,LA,"Vernon Parish",27,72,794
+45,079,37,081,NC,"Guilford County",27,46,1140
+45,079,45,011,SC,"Barnwell County",27,49,549
+45,079,45,025,SC,"Chesterfield County",27,38,661
+45,079,37,021,NC,"Buncombe County",26,36,986
+45,079,08,041,CO,"El Paso County",25,71,721
+45,079,45,029,SC,"Colleton County",25,33,449
+45,079,45,061,SC,"Lee County",25,40,510
+45,079,48,141,TX,"El Paso County",25,59,860
+45,079,48,201,TX,"Harris County",25,54,1326
+45,079,12,025,FL,"Dade County",24,32,739
+45,079,12,099,FL,"Palm Beach County",24,50,1166
+45,079,24,033,MD,"Prince George's Coun",24,54,889
+45,079,37,067,NC,"Forsyth County",24,41,1266
+45,079,45,009,SC,"Bamberg County",24,49,560
+45,079,04,013,AZ,"Maricopa County",23,42,1018
+45,079,12,095,FL,"Orange County",23,42,1023
+45,079,47,125,TN,"Montgomery County",23,57,630
+45,079,37,129,NC,"New Hanover County",22,33,827
+45,079,39,049,OH,"Franklin County",22,49,790
+45,079,42,003,PA,"Allegheny County",22,40,1725
+45,079,42,101,PA,"Philadelphia County",22,45,459
+45,079,45,059,SC,"Laurens County",22,32,649
+45,079,45,023,SC,"Chester County",21,45,602
+45,079,45,067,SC,"Marion County",21,34,400
+45,079,06,037,CA,"Los Angeles County",20,33,538
+45,079,37,133,NC,"Onslow County",20,41,502
+45,079,45,033,SC,"Dillon County",20,26,395
+45,079,51,153,VA,"Prince William Count",20,42,744
+45,079,51,810,VA,"Virginia Beach",20,50,458
+45,079,21,093,KY,"Hardin County",19,49,659
+45,079,36,059,NY,"Nassau County",19,34,674
+45,079,36,081,NY,"Queens County",19,31,442
+45,079,47,037,TN,"Davidson County",19,33,819
+45,079,06,073,CA,"San Diego County",18,32,2551
+45,079,24,003,MD,"Anne Arundel County",18,36,817
+45,079,36,005,NY,"Bronx County",18,35,436
+45,079,36,029,NY,"Erie County",18,34,1917
+45,079,40,031,OK,"Comanche County",18,58,618
+45,079,45,081,SC,"Saluda County",18,23,342
+45,079,47,157,TN,"Shelby County",18,28,616
+45,079,48,453,TX,"Travis County",18,29,629
+45,079,11,001,DC,"District Of Columbia",17,28,549
+45,079,21,047,KY,"Christian County",17,47,677
+45,079,24,005,MD,"Baltimore County",17,33,431
+45,079,45,049,SC,"Hampton County",17,26,433
+45,079,45,069,SC,"Marlboro County",17,27,413
+45,079,48,439,TX,"Tarrant County",17,38,1249
+45,079,51,710,VA,Norfolk,17,22,337
+45,079,06,071,CA,"San Bernardino Count",16,50,635
+45,079,12,103,FL,"Pinellas County",16,25,775
+45,079,13,073,GA,"Columbia County",16,29,572
+45,079,24,031,MD,"Montgomery County",16,25,767
+45,079,39,035,OH,"Cuyahoga County",16,26,450
+45,079,45,087,SC,"Union County",16,24,359
+45,079,25,025,MA,"Suffolk County",15,23,733
+45,079,37,063,NC,"Durham County",15,29,813
+45,079,39,061,OH,"Hamilton County",15,34,914
+45,079,51,650,VA,Hampton,15,21,510
+45,079,12,073,FL,"Leon County",14,30,464
+45,079,21,067,KY,"Fayette County",14,21,322
+45,079,26,125,MI,"Oakland County",14,26,972
+45,079,34,013,NJ,"Essex County",14,25,501
+45,079,45,073,SC,"Oconee County",14,21,424
+45,079,48,099,TX,"Coryell County",14,40,385
+45,079,37,025,NC,"Cabarrus County",13,28,747
+45,079,37,071,NC,"Gaston County",13,23,524
+45,079,45,021,SC,"Cherokee County",13,17,447
+45,079,12,009,FL,"Brevard County",12,20,307
+45,079,13,059,GA,"Clarke County",12,23,307
+45,079,17,097,IL,"Lake County",12,31,373
+45,079,23,005,ME,"Cumberland County",12,24,648
+45,079,34,005,NJ,"Burlington County",12,26,332
+45,079,36,067,NY,"Onondaga County",12,26,458
+45,079,45,037,SC,"Edgefield County",12,19,186
+45,079,51,013,VA,"Arlington County",12,17,465
+45,079,51,700,VA,"Newport News",12,27,438
+45,079,01,073,AL,"Jefferson County",11,27,743
+45,079,01,101,AL,"Montgomery County",11,30,531
+45,079,09,001,CT,"Fairfield County",11,25,370
+45,079,21,111,KY,"Jefferson County",11,20,592
+45,079,22,033,LA,"East Baton Rouge Par",11,19,432
+45,079,24,510,MD,Baltimore,11,20,232
+45,079,34,017,NJ,"Hudson County",11,18,316
+45,079,34,025,NJ,"Monmouth County",11,23,502
+45,079,36,103,NY,"Suffolk County",11,16,203
+45,079,51,041,VA,"Chesterfield County",11,24,674
+45,079,53,033,WA,"King County",11,17,267
+45,079,02,090,AK,"Fairbanks North Star",10,26,327
+45,079,04,019,AZ,"Pima County",10,14,257
+45,079,09,009,CT,"New Haven County",10,25,470
+45,079,12,001,FL,"Alachua County",10,16,456
+45,079,12,105,FL,"Polk County",10,13,332
+45,079,12,117,FL,"Seminole County",10,18,407
+45,079,13,063,GA,"Clayton County",10,29,397
+45,079,34,027,NJ,"Morris County",10,18,323
+45,079,36,071,NY,"Orange County",10,13,284
+45,079,37,089,NC,"Henderson County",10,15,406
+45,079,42,091,PA,"Montgomery County",10,25,641
+45,079,47,093,TN,"Knox County",10,16,560
+45,079,48,113,TX,"Dallas County",10,23,1038
+45,079,58,000,SS,"Other Flows - Same State",20,30,419
+45,079,59,000,DS,"Other Flows - Diff State",1895,3722,79188
+45,079,59,001,DS,"Other Flows - Northeast",298,556,11864
+45,079,59,003,DS,"Other Flows - Midwest",424,833,19690
+45,079,59,005,DS,"Other Flows - South",999,1987,40687
+45,079,59,007,DS,"Other Flows - West",174,346,6948
+45,079,57,009,FR,"Foreign - Other flows",285,325,3336
+45,081,96,000,SC,"Saluda County Tot Mig-US & For",238,480,6777
+45,081,97,000,SC,"Saluda County Tot Mig-US",238,480,6777
+45,081,97,001,SC,"Saluda County Tot Mig-Same St",188,372,5384
+45,081,97,003,SC,"Saluda County Tot Mig-Diff St",50,108,1392
+45,081,45,081,SC,"Saluda County Non-Migrants",4789,10584,157834
+45,081,45,063,SC,"Lexington County",53,102,1551
+45,081,45,003,SC,"Aiken County",24,55,580
+45,081,45,037,SC,"Edgefield County",24,67,617
+45,081,45,047,SC,"Greenwood County",21,40,544
+45,081,45,079,SC,"Richland County",19,26,477
+45,081,45,071,SC,"Newberry County",12,22,250
+45,081,58,000,SS,"Other Flows - Same State",35,60,1365
+45,081,59,000,DS,"Other Flows - Diff State",50,108,1392
+45,083,96,000,SC,"Spartanburg Cou Tot Mig-US & For",4378,8806,153541
+45,083,97,000,SC,"Spartanburg Cou Tot Mig-US",4341,8756,152930
+45,083,97,001,SC,"Spartanburg Cou Tot Mig-Same St",2268,4441,72911
+45,083,97,003,SC,"Spartanburg Cou Tot Mig-Diff St",2073,4315,80019
+45,083,98,000,SC,"Spartanburg Cou Tot Mig-Foreign",37,50,611
+45,083,45,083,SC,"Spartanburg Cou Non-Migrants",84361,186302,3718936
+45,083,45,045,SC,"Greenville County",918,1820,31619
+45,083,45,021,SC,"Cherokee County",324,658,9042
+45,083,45,087,SC,"Union County",184,349,4661
+45,083,45,059,SC,"Laurens County",132,296,3238
+45,083,45,007,SC,"Anderson County",100,189,3185
+45,083,37,149,NC,"Polk County",94,184,2726
+45,083,37,119,NC,"Mecklenburg County",75,165,3787
+45,083,37,161,NC,"Rutherford County",67,131,2015
+45,083,45,079,SC,"Richland County",61,115,2529
+45,083,45,063,SC,"Lexington County",58,122,2700
+45,083,45,019,SC,"Charleston County",57,94,1868
+45,083,45,077,SC,"Pickens County",53,95,1574
+45,083,45,091,SC,"York County",47,92,1735
+45,083,45,051,SC,"Horry County",35,50,877
+45,083,37,021,NC,"Buncombe County",32,64,1215
+45,083,37,045,NC,"Cleveland County",32,64,1125
+45,083,45,047,SC,"Greenwood County",29,59,1263
+45,083,37,183,NC,"Wake County",26,56,1271
+45,083,45,015,SC,"Berkeley County",26,57,870
+45,083,13,135,GA,"Gwinnett County",25,48,1383
+45,083,37,071,NC,"Gaston County",23,44,831
+45,083,13,067,GA,"Cobb County",22,31,710
+45,083,45,003,SC,"Aiken County",22,48,1139
+45,083,45,071,SC,"Newberry County",22,38,376
+45,083,45,013,SC,"Beaufort County",21,37,558
+45,083,45,073,SC,"Oconee County",21,42,692
+45,083,12,095,FL,"Orange County",20,37,697
+45,083,37,089,NC,"Henderson County",19,42,747
+45,083,13,121,GA,"Fulton County",17,21,670
+45,083,37,081,NC,"Guilford County",15,29,449
+45,083,57,005,FR,"Foreign - APO/FPO ZIPs",15,25,253
+45,083,12,057,FL,"Hillsborough County",14,29,541
+45,083,12,099,FL,"Palm Beach County",14,36,668
+45,083,13,089,GA,"De Kalb County",14,31,330
+45,083,17,031,IL,"Cook County",14,29,317
+45,083,12,011,FL,"Broward County",13,29,905
+45,083,45,057,SC,"Lancaster County",13,24,422
+45,083,47,163,TN,"Sullivan County",13,28,651
+45,083,06,037,CA,"Los Angeles County",12,32,519
+45,083,36,029,NY,"Erie County",12,32,308
+45,083,45,001,SC,"Abbeville County",12,16,360
+45,083,45,055,SC,"Kershaw County",12,20,547
+45,083,47,093,TN,"Knox County",12,18,254
+45,083,01,073,AL,"Jefferson County",11,17,645
+45,083,12,031,FL,"Duval County",11,26,461
+45,083,45,035,SC,"Dorchester County",11,26,499
+45,083,45,075,SC,"Orangeburg County",11,15,211
+45,083,47,065,TN,"Hamilton County",11,21,345
+45,083,12,009,FL,"Brevard County",10,18,235
+45,083,36,081,NY,"Queens County",10,30,166
+45,083,37,035,NC,"Catawba County",10,19,326
+45,083,37,051,NC,"Cumberland County",10,26,338
+45,083,39,049,OH,"Franklin County",10,21,484
+45,083,45,041,SC,"Florence County",10,16,427
+45,083,48,201,TX,"Harris County",10,21,439
+45,083,58,000,SS,"Other Flows - Same State",89,163,2519
+45,083,59,000,DS,"Other Flows - Diff State",1395,2936,54458
+45,083,59,001,DS,"Other Flows - Northeast",220,476,7896
+45,083,59,003,DS,"Other Flows - Midwest",233,487,12251
+45,083,59,005,DS,"Other Flows - South",788,1628,29302
+45,083,59,007,DS,"Other Flows - West",154,345,5009
+45,083,57,009,FR,"Foreign - Other flows",22,25,358
+45,085,96,000,SC,"Sumter County Tot Mig-US & For",2687,5340,74603
+45,085,97,000,SC,"Sumter County Tot Mig-US",2447,4783,67425
+45,085,97,001,SC,"Sumter County Tot Mig-Same St",872,1677,21285
+45,085,97,003,SC,"Sumter County Tot Mig-Diff St",1575,3106,46141
+45,085,98,000,SC,"Sumter County Tot Mig-Foreign",240,557,7178
+45,085,45,085,SC,"Sumter County Non-Migrants",32963,75139,1182146
+45,085,45,061,SC,"Lee County",187,421,4011
+45,085,45,027,SC,"Clarendon County",166,331,3643
+45,085,45,079,SC,"Richland County",121,200,3564
+45,085,45,063,SC,"Lexington County",52,89,1001
+45,085,45,041,SC,"Florence County",49,88,1042
+45,085,45,055,SC,"Kershaw County",40,83,957
+45,085,48,485,TX,"Wichita County",40,67,998
+45,085,48,029,TX,"Bexar County",34,64,1127
+45,085,45,051,SC,"Horry County",32,58,979
+45,085,45,019,SC,"Charleston County",29,52,662
+45,085,28,047,MS,"Harrison County",24,44,537
+45,085,04,013,AZ,"Maricopa County",23,59,1116
+45,085,37,119,NC,"Mecklenburg County",22,43,600
+45,085,12,091,FL,"Okaloosa County",19,41,487
+45,085,37,051,NC,"Cumberland County",19,40,483
+45,085,45,015,SC,"Berkeley County",19,41,570
+45,085,45,031,SC,"Darlington County",18,31,486
+45,085,01,101,AL,"Montgomery County",16,36,742
+45,085,45,075,SC,"Orangeburg County",15,35,268
+45,085,12,031,FL,"Duval County",13,28,285
+45,085,35,009,NM,"Curry County",13,33,388
+45,085,38,101,ND,"Ward County",13,35,395
+45,085,40,109,OK,"Oklahoma County",13,24,231
+45,085,45,045,SC,"Greenville County",13,13,320
+45,085,45,003,SC,"Aiken County",12,17,286
+45,085,51,059,VA,"Fairfax County",12,34,613
+45,085,02,020,AK,"Anchorage Borough",11,29,370
+45,085,13,153,GA,"Houston County",11,28,452
+45,085,13,245,GA,"Richmond County",11,16,249
+45,085,15,003,HI,"Honolulu County",11,30,492
+45,085,24,033,MD,"Prince George's Coun",11,25,445
+45,085,36,061,NY,"New York County",11,22,189
+45,085,45,013,SC,"Beaufort County",11,25,336
+45,085,51,650,VA,Hampton,11,21,370
+45,085,08,041,CO,"El Paso County",10,17,254
+45,085,34,013,NJ,"Essex County",10,18,172
+45,085,36,005,NY,"Bronx County",10,17,208
+45,085,36,047,NY,"Kings County",10,21,114
+45,085,37,191,NC,"Wayne County",10,17,220
+45,085,45,043,SC,"Georgetown County",10,18,404
+45,085,45,091,SC,"York County",10,16,323
+45,085,58,000,SS,"Other Flows - Same State",88,159,2434
+45,085,59,000,DS,"Other Flows - Diff State",1187,2297,34602
+45,085,59,001,DS,"Other Flows - Northeast",201,368,6269
+45,085,59,003,DS,"Other Flows - Midwest",185,344,5215
+45,085,59,005,DS,"Other Flows - South",640,1231,17777
+45,085,59,007,DS,"Other Flows - West",161,354,5341
+45,085,57,009,FR,"Foreign - Other flows",240,557,7178
+45,087,96,000,SC,"Union County Tot Mig-US & For",370,712,10159
+45,087,97,000,SC,"Union County Tot Mig-US",370,712,10159
+45,087,97,001,SC,"Union County Tot Mig-Same St",260,499,6674
+45,087,97,003,SC,"Union County Tot Mig-Diff St",110,213,3484
+45,087,45,087,SC,"Union County Non-Migrants",10949,23093,350682
+45,087,45,083,SC,"Spartanburg County",120,240,2872
+45,087,45,071,SC,"Newberry County",23,52,496
+45,087,45,021,SC,"Cherokee County",17,33,417
+45,087,45,023,SC,"Chester County",15,26,408
+45,087,45,045,SC,"Greenville County",15,23,421
+45,087,45,059,SC,"Laurens County",12,22,370
+45,087,45,091,SC,"York County",11,23,458
+45,087,58,000,SS,"Other Flows - Same State",47,80,1232
+45,087,59,000,DS,"Other Flows - Diff State",110,213,3484
+45,089,96,000,SC,"Williamsburg Co Tot Mig-US & For",495,1014,10139
+45,089,97,000,SC,"Williamsburg Co Tot Mig-US",495,1014,10139
+45,089,97,001,SC,"Williamsburg Co Tot Mig-Same St",310,633,6427
+45,089,97,003,SC,"Williamsburg Co Tot Mig-Diff St",185,381,3712
+45,089,45,089,SC,"Williamsburg Co Non-Migrants",11643,26586,311600
+45,089,45,041,SC,"Florence County",106,223,2003
+45,089,45,043,SC,"Georgetown County",55,107,1115
+45,089,45,027,SC,"Clarendon County",33,75,651
+45,089,45,051,SC,"Horry County",28,60,594
+45,089,45,079,SC,"Richland County",14,28,314
+45,089,45,019,SC,"Charleston County",11,18,367
+45,089,45,063,SC,"Lexington County",10,15,171
+45,089,58,000,SS,"Other Flows - Same State",53,107,1210
+45,089,59,000,DS,"Other Flows - Diff State",185,381,3712
+45,091,96,000,SC,"York County Tot Mig-US & For",4559,9091,196740
+45,091,97,000,SC,"York County Tot Mig-US",4523,9025,196167
+45,091,97,001,SC,"York County Tot Mig-Same St",1260,2266,41759
+45,091,97,003,SC,"York County Tot Mig-Diff St",3263,6759,154408
+45,091,98,000,SC,"York County Tot Mig-Foreign",36,66,573
+45,091,45,091,SC,"York County Non-Migrants",57237,129415,2752645
+45,091,37,119,NC,"Mecklenburg County",859,1704,46735
+45,091,37,071,NC,"Gaston County",292,635,10465
+45,091,45,023,SC,"Chester County",246,468,6367
+45,091,45,057,SC,"Lancaster County",236,455,8319
+45,091,45,079,SC,"Richland County",116,195,4316
+45,091,45,019,SC,"Charleston County",61,91,1851
+45,091,37,179,NC,"Union County",58,121,3613
+45,091,45,051,SC,"Horry County",55,84,1811
+45,091,45,045,SC,"Greenville County",53,92,2616
+45,091,45,063,SC,"Lexington County",51,107,2115
+45,091,37,045,NC,"Cleveland County",48,96,1121
+45,091,37,025,NC,"Cabarrus County",41,87,1513
+45,091,45,083,SC,"Spartanburg County",39,73,1504
+45,091,45,021,SC,"Cherokee County",37,68,935
+45,091,45,003,SC,"Aiken County",29,51,1227
+45,091,37,081,NC,"Guilford County",27,52,1307
+45,091,37,051,NC,"Cumberland County",23,53,608
+45,091,45,041,SC,"Florence County",22,49,790
+45,091,37,097,NC,"Iredell County",21,46,758
+45,091,12,011,FL,"Broward County",20,41,656
+45,091,45,007,SC,"Anderson County",20,34,747
+45,091,45,025,SC,"Chesterfield County",20,30,566
+45,091,45,055,SC,"Kershaw County",20,36,813
+45,091,37,183,NC,"Wake County",19,39,1158
+45,091,37,129,NC,"New Hanover County",18,28,706
+45,091,13,121,GA,"Fulton County",17,30,1563
+45,091,45,015,SC,"Berkeley County",17,30,342
+45,091,12,057,FL,"Hillsborough County",16,38,1103
+45,091,37,035,NC,"Catawba County",16,28,742
+45,091,45,075,SC,"Orangeburg County",16,25,511
+45,091,45,077,SC,"Pickens County",16,25,535
+45,091,45,085,SC,"Sumter County",16,38,585
+45,091,37,067,NC,"Forsyth County",15,39,939
+45,091,45,013,SC,"Beaufort County",15,26,768
+45,091,45,035,SC,"Dorchester County",15,30,493
+45,091,45,087,SC,"Union County",15,21,291
+45,091,57,005,FR,"Foreign - APO/FPO ZIPs",15,27,351
+45,091,06,037,CA,"Los Angeles County",14,33,318
+45,091,12,095,FL,"Orange County",14,25,1087
+45,091,13,135,GA,"Gwinnett County",14,29,809
+45,091,36,029,NY,"Erie County",14,22,373
+45,091,45,043,SC,"Georgetown County",14,23,478
+45,091,45,073,SC,"Oconee County",14,25,488
+45,091,17,031,IL,"Cook County",13,25,653
+45,091,37,133,NC,"Onslow County",13,30,400
+45,091,39,049,OH,"Franklin County",13,29,866
+45,091,45,047,SC,"Greenwood County",13,26,633
+45,091,12,031,FL,"Duval County",12,24,586
+45,091,12,103,FL,"Pinellas County",12,30,644
+45,091,39,035,OH,"Cuyahoga County",12,24,583
+45,091,45,059,SC,"Laurens County",12,24,364
+45,091,06,073,CA,"San Diego County",11,22,414
+45,091,13,073,GA,"Columbia County",11,26,412
+45,091,37,021,NC,"Buncombe County",11,19,432
+45,091,39,153,OH,"Summit County",11,18,406
+45,091,45,061,SC,"Lee County",11,15,270
+45,091,12,099,FL,"Palm Beach County",10,15,381
+45,091,12,105,FL,"Polk County",10,21,657
+45,091,12,117,FL,"Seminole County",10,28,603
+45,091,13,051,GA,"Chatham County",10,26,533
+45,091,36,063,NY,"Niagara County",10,16,367
+45,091,36,103,NY,"Suffolk County",10,17,312
+45,091,37,159,NC,"Rowan County",10,20,346
+45,091,42,003,PA,"Allegheny County",10,21,678
+45,091,45,039,SC,"Fairfield County",10,12,143
+45,091,47,037,TN,"Davidson County",10,19,465
+45,091,48,201,TX,"Harris County",10,21,633
+45,091,54,039,WV,"Kanawha County",10,18,274
+45,091,58,000,SS,"Other Flows - Same State",71,113,1880
+45,091,59,000,DS,"Other Flows - Diff State",1488,3144,68189
+45,091,59,001,DS,"Other Flows - Northeast",315,622,14385
+45,091,59,003,DS,"Other Flows - Midwest",295,682,16656
+45,091,59,005,DS,"Other Flows - South",762,1579,31935
+45,091,59,007,DS,"Other Flows - West",116,261,5212
+45,091,57,009,FR,"Foreign - Other flows",21,39,222

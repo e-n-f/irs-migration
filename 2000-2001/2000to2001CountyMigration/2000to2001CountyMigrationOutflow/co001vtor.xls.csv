@@ -1,0 +1,418 @@
+"2000 - 2001 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Vermont,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+50,000,96,000,VT,"Total Mig - US & For",16561,26895,604720
+50,000,97,000,VT,"Total Mig - US",16283,26491,597687
+50,000,97,001,VT,"Total Mig - US Same St",6304,10456,198493
+50,000,97,003,VT,"Total Mig - US Diff St",9979,16035,399194
+50,000,98,000,VT,"Total Mig - Foreign",278,404,7033
+50,001,96,000,VT,"Addison County Tot Mig-US & For",924,1469,29610
+50,001,97,000,VT,"Addison County Tot Mig-US",899,1439,29119
+50,001,97,001,VT,"Addison County Tot Mig-Same St",475,759,14466
+50,001,97,003,VT,"Addison County Tot Mig-Diff St",424,680,14653
+50,001,98,000,VT,"Addison County Tot Mig-Foreign",25,30,491
+50,001,50,001,VT,"Addison County Non-Migrants",12728,27816,608442
+50,001,50,007,VT,"Chittenden County",241,372,8411
+50,001,50,021,VT,"Rutland County",111,173,2887
+50,001,50,023,VT,"Washington County",27,52,891
+50,001,50,011,VT,"Franklin County",26,36,552
+50,001,50,027,VT,"Windsor County",22,37,538
+50,001,36,031,NY,"Essex County",19,37,504
+50,001,25,017,MA,"Middlesex County",17,27,911
+50,001,50,017,VT,"Orange County",16,34,373
+50,001,08,013,CO,"Boulder County",10,10,357
+50,001,58,000,SS,"Other Flows - Same State",32,55,813
+50,001,59,000,DS,"Other Flows - Diff State",378,606,12880
+50,001,59,001,DS,"Other Flows - Northeast",189,300,6010
+50,001,59,003,DS,"Other Flows - Midwest",20,41,980
+50,001,59,005,DS,"Other Flows - South",107,169,3750
+50,001,59,007,DS,"Other Flows - West",62,96,2140
+50,001,57,009,FR,"Foreign - Other flows",25,30,491
+50,003,96,000,VT,"Bennington Coun Tot Mig-US & For",914,1525,36576
+50,003,97,000,VT,"Bennington Coun Tot Mig-US",887,1494,36238
+50,003,97,001,VT,"Bennington Coun Tot Mig-Same St",201,330,6286
+50,003,97,003,VT,"Bennington Coun Tot Mig-Diff St",686,1164,29952
+50,003,98,000,VT,"Bennington Coun Tot Mig-Foreign",27,31,338
+50,003,50,003,VT,"Bennington Coun Non-Migrants",13728,28689,636591
+50,003,50,021,VT,"Rutland County",76,133,2530
+50,003,36,083,NY,"Rensselaer County",65,133,2004
+50,003,25,003,MA,"Berkshire County",43,67,1249
+50,003,50,025,VT,"Windham County",43,73,1274
+50,003,50,007,VT,"Chittenden County",40,49,1330
+50,003,36,115,NY,"Washington County",30,55,926
+50,003,25,017,MA,"Middlesex County",19,20,2219
+50,003,36,061,NY,"New York County",17,19,1880
+50,003,36,091,NY,"Saratoga County",15,31,887
+50,003,09,003,CT,"Hartford County",11,18,539
+50,003,25,025,MA,"Suffolk County",11,11,340
+50,003,36,047,NY,"Kings County",11,11,202
+50,003,50,027,VT,"Windsor County",11,21,299
+50,003,58,000,SS,"Other Flows - Same State",31,54,853
+50,003,59,000,DS,"Other Flows - Diff State",464,799,19706
+50,003,59,001,DS,"Other Flows - Northeast",202,341,9068
+50,003,59,003,DS,"Other Flows - Midwest",40,92,2455
+50,003,59,005,DS,"Other Flows - South",141,244,5236
+50,003,59,007,DS,"Other Flows - West",81,122,2946
+50,003,57,009,FR,"Foreign - Other flows",27,31,338
+50,005,96,000,VT,"Caledonia Count Tot Mig-US & For",748,1281,21635
+50,005,97,000,VT,"Caledonia Count Tot Mig-US",736,1261,21400
+50,005,97,001,VT,"Caledonia Count Tot Mig-Same St",323,574,8229
+50,005,97,003,VT,"Caledonia Count Tot Mig-Diff St",413,687,13172
+50,005,98,000,VT,"Caledonia Count Tot Mig-Foreign",12,20,235
+50,005,50,005,VT,"Caledonia Count Non-Migrants",10419,22770,407934
+50,005,50,019,VT,"Orleans County",67,129,1710
+50,005,50,023,VT,"Washington County",67,112,1864
+50,005,33,009,NH,"Grafton County",66,116,1537
+50,005,50,007,VT,"Chittenden County",52,67,1377
+50,005,50,009,VT,"Essex County",43,77,967
+50,005,50,015,VT,"Lamoille County",33,65,606
+50,005,50,017,VT,"Orange County",26,54,745
+50,005,50,027,VT,"Windsor County",17,38,575
+50,005,33,013,NH,"Merrimack County",12,26,482
+50,005,25,017,MA,"Middlesex County",10,11,195
+50,005,58,000,SS,"Other Flows - Same State",18,32,386
+50,005,59,000,DS,"Other Flows - Diff State",325,534,10958
+50,005,59,001,DS,"Other Flows - Northeast",155,267,3750
+50,005,59,003,DS,"Other Flows - Midwest",17,27,615
+50,005,59,005,DS,"Other Flows - South",88,144,4945
+50,005,59,007,DS,"Other Flows - West",65,96,1648
+50,005,57,009,FR,"Foreign - Other flows",12,20,235
+50,007,96,000,VT,"Chittenden Coun Tot Mig-US & For",4583,7408,197230
+50,007,97,000,VT,"Chittenden Coun Tot Mig-US",4496,7263,194153
+50,007,97,001,VT,"Chittenden Coun Tot Mig-Same St",1580,2580,55534
+50,007,97,003,VT,"Chittenden Coun Tot Mig-Diff St",2916,4683,138619
+50,007,98,000,VT,"Chittenden Coun Tot Mig-Foreign",87,145,3076
+50,007,50,007,VT,"Chittenden Coun Non-Migrants",57557,120789,3317995
+50,007,50,011,VT,"Franklin County",387,683,12966
+50,007,50,023,VT,"Washington County",278,451,9867
+50,007,50,001,VT,"Addison County",259,430,8706
+50,007,50,015,VT,"Lamoille County",202,300,8055
+50,007,50,013,VT,"Grand Isle County",156,281,6421
+50,007,25,017,MA,"Middlesex County",138,204,6439
+50,007,25,025,MA,"Suffolk County",99,110,2483
+50,007,50,021,VT,"Rutland County",66,97,1866
+50,007,50,019,VT,"Orleans County",60,95,1768
+50,007,23,005,ME,"Cumberland County",51,94,3069
+50,007,33,011,NH,"Hillsborough County",50,83,2241
+50,007,50,027,VT,"Windsor County",47,58,1694
+50,007,25,021,MA,"Norfolk County",42,48,1223
+50,007,36,061,NY,"New York County",42,47,1983
+50,007,06,073,CA,"San Diego County",39,60,1919
+50,007,25,027,MA,"Worcester County",39,74,2584
+50,007,25,009,MA,"Essex County",38,55,1740
+50,007,50,005,VT,"Caledonia County",38,59,1289
+50,007,50,017,VT,"Orange County",34,57,1471
+50,007,33,009,NH,"Grafton County",33,54,1352
+50,007,36,047,NY,"Kings County",33,39,937
+50,007,48,453,TX,"Travis County",32,54,1894
+50,007,36,019,NY,"Clinton County",31,54,1081
+50,007,50,025,VT,"Windham County",31,36,644
+50,007,06,037,CA,"Los Angeles County",29,40,791
+50,007,09,001,CT,"Fairfield County",28,46,1497
+50,007,04,013,AZ,"Maricopa County",26,43,1310
+50,007,37,183,NC,"Wake County",26,48,1199
+50,007,09,009,CT,"New Haven County",25,43,1213
+50,007,33,013,NH,"Merrimack County",25,49,946
+50,007,12,071,FL,"Lee County",24,38,2196
+50,007,41,051,OR,"Multnomah County",24,37,619
+50,007,08,013,CO,"Boulder County",23,25,650
+50,007,25,023,MA,"Plymouth County",23,28,619
+50,007,17,031,IL,"Cook County",22,39,1037
+50,007,36,001,NY,"Albany County",21,34,676
+50,007,36,027,NY,"Dutchess County",21,48,1789
+50,007,06,075,CA,"San Francisco County",20,22,646
+50,007,06,085,CA,"Santa Clara County",20,29,1130
+50,007,09,003,CT,"Hartford County",20,30,607
+50,007,12,099,FL,"Palm Beach County",19,33,4733
+50,007,44,007,RI,"Providence County",19,29,609
+50,007,04,019,AZ,"Pima County",18,28,575
+50,007,36,031,NY,"Essex County",18,30,624
+50,007,49,035,UT,"Salt Lake County",18,34,666
+50,007,11,001,DC,"District Of Columbia",17,17,402
+50,007,23,031,ME,"York County",17,29,818
+50,007,36,091,NY,"Saratoga County",17,29,884
+50,007,51,059,VA,"Fairfax County",17,28,624
+50,007,53,033,WA,"King County",17,29,961
+50,007,06,001,CA,"Alameda County",16,20,644
+50,007,27,053,MN,"Hennepin County",16,25,894
+50,007,37,119,NC,"Mecklenburg County",16,26,634
+50,007,12,057,FL,"Hillsborough County",15,25,504
+50,007,12,095,FL,"Orange County",15,24,546
+50,007,32,003,NV,"Clark County",15,22,461
+50,007,36,081,NY,"Queens County",15,17,435
+50,007,42,101,PA,"Philadelphia County",15,24,604
+50,007,48,201,TX,"Harris County",15,29,705
+50,007,25,013,MA,"Hampden County",14,20,617
+50,007,33,015,NH,"Rockingham County",14,25,1079
+50,007,36,055,NY,"Monroe County",14,26,605
+50,007,57,005,FR,"Foreign - APO/FPO ZIPs",14,21,290
+50,007,12,103,FL,"Pinellas County",13,15,403
+50,007,25,015,MA,"Hampshire County",13,22,694
+50,007,36,103,NY,"Suffolk County",13,21,635
+50,007,36,119,NY,"Westchester County",13,22,1085
+50,007,39,035,OH,"Cuyahoga County",13,30,518
+50,007,41,067,OR,"Washington County",13,27,891
+50,007,06,059,CA,"Orange County",12,20,617
+50,007,08,031,CO,"Denver County",12,17,464
+50,007,12,021,FL,"Collier County",12,20,2008
+50,007,25,005,MA,"Bristol County",12,19,532
+50,007,33,005,NH,"Cheshire County",12,19,503
+50,007,36,083,NY,"Rensselaer County",12,18,474
+50,007,12,011,FL,"Broward County",11,17,479
+50,007,12,115,FL,"Sarasota County",11,19,612
+50,007,24,031,MD,"Montgomery County",11,16,766
+50,007,33,017,NH,"Strafford County",11,17,560
+50,007,35,001,NM,"Bernalillo County",11,15,692
+50,007,29,189,MO,"St Louis County",10,24,1289
+50,007,42,003,PA,"Allegheny County",10,20,668
+50,007,51,013,VA,"Arlington County",10,13,443
+50,007,58,000,SS,"Other Flows - Same State",22,33,788
+50,007,59,000,DS,"Other Flows - Diff State",1280,2148,59790
+50,007,59,001,DS,"Other Flows - Northeast",373,578,15555
+50,007,59,003,DS,"Other Flows - Midwest",158,281,7434
+50,007,59,005,DS,"Other Flows - South",482,869,26383
+50,007,59,007,DS,"Other Flows - West",267,420,10418
+50,007,57,009,FR,"Foreign - Other flows",73,124,2786
+50,009,96,000,VT,"Essex County Tot Mig-US & For",206,351,5526
+50,009,97,000,VT,"Essex County Tot Mig-US",206,351,5526
+50,009,97,001,VT,"Essex County Tot Mig-Same St",83,140,2030
+50,009,97,003,VT,"Essex County Tot Mig-Diff St",123,211,3495
+50,009,50,009,VT,"Essex County Non-Migrants",2247,5040,73554
+50,009,33,007,NH,"Coos County",48,93,1082
+50,009,50,005,VT,"Caledonia County",48,82,1197
+50,009,50,019,VT,"Orleans County",20,41,500
+50,009,58,000,SS,"Other Flows - Same State",15,17,334
+50,009,59,000,DS,"Other Flows - Diff State",75,118,2414
+50,011,96,000,VT,"Franklin County Tot Mig-US & For",824,1439,30505
+50,011,97,000,VT,"Franklin County Tot Mig-US",824,1439,30505
+50,011,97,001,VT,"Franklin County Tot Mig-Same St",467,778,14906
+50,011,97,003,VT,"Franklin County Tot Mig-Diff St",357,661,15599
+50,011,50,011,VT,"Franklin County Non-Migrants",14125,31644,561588
+50,011,50,007,VT,"Chittenden County",305,492,10336
+50,011,50,013,VT,"Grand Isle County",52,93,1512
+50,011,50,015,VT,"Lamoille County",44,71,983
+50,011,50,019,VT,"Orleans County",20,45,665
+50,011,50,023,VT,"Washington County",14,19,517
+50,011,36,019,NY,"Clinton County",11,21,439
+50,011,50,021,VT,"Rutland County",10,19,281
+50,011,58,000,SS,"Other Flows - Same State",22,39,613
+50,011,59,000,DS,"Other Flows - Diff State",346,640,15160
+50,011,59,001,DS,"Other Flows - Northeast",151,268,4849
+50,011,59,003,DS,"Other Flows - Midwest",28,56,1218
+50,011,59,005,DS,"Other Flows - South",109,190,7062
+50,011,59,007,DS,"Other Flows - West",58,126,2032
+50,013,96,000,VT,"Grand Isle Coun Tot Mig-US & For",246,410,10047
+50,013,97,000,VT,"Grand Isle Coun Tot Mig-US",246,410,10047
+50,013,97,001,VT,"Grand Isle Coun Tot Mig-Same St",163,275,6658
+50,013,97,003,VT,"Grand Isle Coun Tot Mig-Diff St",83,135,3388
+50,013,50,013,VT,"Grand Isle Coun Non-Migrants",2476,5400,127490
+50,013,50,007,VT,"Chittenden County",101,171,4830
+50,013,50,011,VT,"Franklin County",38,72,1100
+50,013,36,019,NY,"Clinton County",18,43,978
+50,013,58,000,SS,"Other Flows - Same State",24,32,728
+50,013,59,000,DS,"Other Flows - Diff State",65,92,2410
+50,015,96,000,VT,"Lamoille County Tot Mig-US & For",678,1067,22402
+50,015,97,000,VT,"Lamoille County Tot Mig-US",678,1067,22402
+50,015,97,001,VT,"Lamoille County Tot Mig-Same St",348,577,10954
+50,015,97,003,VT,"Lamoille County Tot Mig-Diff St",330,490,11448
+50,015,50,015,VT,"Lamoille County Non-Migrants",8349,17397,374834
+50,015,50,007,VT,"Chittenden County",123,201,4080
+50,015,50,023,VT,"Washington County",80,125,2939
+50,015,50,011,VT,"Franklin County",36,59,1237
+50,015,50,019,VT,"Orleans County",32,58,925
+50,015,50,005,VT,"Caledonia County",30,58,619
+50,015,25,017,MA,"Middlesex County",11,15,320
+50,015,25,025,MA,"Suffolk County",11,12,362
+50,015,58,000,SS,"Other Flows - Same State",47,76,1154
+50,015,59,000,DS,"Other Flows - Diff State",308,463,10766
+50,015,59,001,DS,"Other Flows - Northeast",146,220,4302
+50,015,59,003,DS,"Other Flows - Midwest",19,30,850
+50,015,59,005,DS,"Other Flows - South",81,126,4041
+50,015,59,007,DS,"Other Flows - West",62,87,1574
+50,017,96,000,VT,"Orange County Tot Mig-US & For",831,1419,25026
+50,017,97,000,VT,"Orange County Tot Mig-US",831,1419,25026
+50,017,97,001,VT,"Orange County Tot Mig-Same St",450,765,12580
+50,017,97,003,VT,"Orange County Tot Mig-Diff St",381,654,12446
+50,017,50,017,VT,"Orange County Non-Migrants",10534,23047,465107
+50,017,50,023,VT,"Washington County",187,313,4942
+50,017,50,027,VT,"Windsor County",137,226,3950
+50,017,33,009,NH,"Grafton County",93,184,2985
+50,017,50,007,VT,"Chittenden County",42,60,1457
+50,017,50,005,VT,"Caledonia County",28,67,652
+50,017,50,021,VT,"Rutland County",17,22,449
+50,017,50,001,VT,"Addison County",13,26,434
+50,017,25,025,MA,"Suffolk County",10,10,202
+50,017,58,000,SS,"Other Flows - Same State",26,51,695
+50,017,59,000,DS,"Other Flows - Diff State",278,460,9259
+50,017,59,001,DS,"Other Flows - Northeast",134,213,4619
+50,017,59,003,DS,"Other Flows - Midwest",18,31,582
+50,017,59,005,DS,"Other Flows - South",81,136,2765
+50,017,59,007,DS,"Other Flows - West",45,80,1292
+50,019,96,000,VT,"Orleans County Tot Mig-US & For",526,858,14542
+50,019,97,000,VT,"Orleans County Tot Mig-US",515,842,14281
+50,019,97,001,VT,"Orleans County Tot Mig-Same St",241,391,6455
+50,019,97,003,VT,"Orleans County Tot Mig-Diff St",274,451,7827
+50,019,98,000,VT,"Orleans County Tot Mig-Foreign",11,16,261
+50,019,50,019,VT,"Orleans County Non-Migrants",9400,20578,329588
+50,019,50,007,VT,"Chittenden County",69,87,1580
+50,019,50,005,VT,"Caledonia County",65,124,1434
+50,019,50,015,VT,"Lamoille County",27,39,589
+50,019,50,023,VT,"Washington County",23,37,1419
+50,019,50,009,VT,"Essex County",19,36,538
+50,019,50,011,VT,"Franklin County",15,22,370
+50,019,25,017,MA,"Middlesex County",10,13,229
+50,019,50,027,VT,"Windsor County",10,19,224
+50,019,58,000,SS,"Other Flows - Same State",13,27,301
+50,019,59,000,DS,"Other Flows - Diff State",264,438,7597
+50,019,59,001,DS,"Other Flows - Northeast",115,192,3744
+50,019,59,003,DS,"Other Flows - Midwest",13,21,216
+50,019,59,005,DS,"Other Flows - South",85,138,2143
+50,019,59,007,DS,"Other Flows - West",51,87,1494
+50,019,57,009,FR,"Foreign - Other flows",11,16,261
+50,021,96,000,VT,"Rutland County Tot Mig-US & For",1356,2158,44322
+50,021,97,000,VT,"Rutland County Tot Mig-US",1346,2148,44131
+50,021,97,001,VT,"Rutland County Tot Mig-Same St",424,682,12541
+50,021,97,003,VT,"Rutland County Tot Mig-Diff St",922,1466,31590
+50,021,98,000,VT,"Rutland County Tot Mig-Foreign",10,10,191
+50,021,50,021,VT,"Rutland County Non-Migrants",23747,49480,1002936
+50,021,50,007,VT,"Chittenden County",119,158,3566
+50,021,50,027,VT,"Windsor County",89,152,2493
+50,021,50,001,VT,"Addison County",83,148,2363
+50,021,36,115,NY,"Washington County",63,132,1734
+50,021,50,003,VT,"Bennington County",51,80,1485
+50,021,25,017,MA,"Middlesex County",34,35,957
+50,021,25,025,MA,"Suffolk County",19,22,564
+50,021,50,023,VT,"Washington County",18,27,655
+50,021,50,025,VT,"Windham County",17,34,574
+50,021,36,113,NY,"Warren County",15,29,409
+50,021,50,017,VT,"Orange County",15,25,462
+50,021,09,009,CT,"New Haven County",14,22,512
+50,021,25,027,MA,"Worcester County",14,20,307
+50,021,36,001,NY,"Albany County",14,20,262
+50,021,36,091,NY,"Saratoga County",14,26,752
+50,021,23,005,ME,"Cumberland County",13,22,652
+50,021,25,009,MA,"Essex County",13,15,521
+50,021,09,003,CT,"Hartford County",11,21,508
+50,021,25,021,MA,"Norfolk County",11,14,562
+50,021,33,009,NH,"Grafton County",11,19,206
+50,021,50,015,VT,"Lamoille County",11,13,197
+50,021,25,001,MA,"Barnstable County",10,12,202
+50,021,50,011,VT,"Franklin County",10,23,359
+50,021,58,000,SS,"Other Flows - Same State",11,22,388
+50,021,59,000,DS,"Other Flows - Diff State",666,1057,23443
+50,021,59,001,DS,"Other Flows - Northeast",263,420,8660
+50,021,59,003,DS,"Other Flows - Midwest",45,79,1875
+50,021,59,005,DS,"Other Flows - South",238,391,9502
+50,021,59,007,DS,"Other Flows - West",120,167,3407
+50,021,57,009,FR,"Foreign - Other flows",10,10,191
+50,023,96,000,VT,"Washington Coun Tot Mig-US & For",1511,2409,51327
+50,023,97,000,VT,"Washington Coun Tot Mig-US",1475,2353,50315
+50,023,97,001,VT,"Washington Coun Tot Mig-Same St",726,1203,23998
+50,023,97,003,VT,"Washington Coun Tot Mig-Diff St",749,1150,26317
+50,023,98,000,VT,"Washington Coun Tot Mig-Foreign",36,56,1012
+50,023,50,023,VT,"Washington Coun Non-Migrants",20958,43505,963029
+50,023,50,007,VT,"Chittenden County",238,339,8517
+50,023,50,017,VT,"Orange County",218,411,6484
+50,023,50,015,VT,"Lamoille County",69,119,2355
+50,023,50,005,VT,"Caledonia County",49,98,1759
+50,023,25,017,MA,"Middlesex County",42,50,1322
+50,023,50,001,VT,"Addison County",35,57,754
+50,023,50,019,VT,"Orleans County",28,45,1229
+50,023,50,027,VT,"Windsor County",26,40,902
+50,023,57,001,FR,"Foreign - Overseas",25,41,818
+50,023,50,011,VT,"Franklin County",19,28,726
+50,023,50,021,VT,"Rutland County",19,27,624
+50,023,25,025,MA,"Suffolk County",13,15,658
+50,023,33,009,NH,"Grafton County",11,19,322
+50,023,36,047,NY,"Kings County",11,11,302
+50,023,50,003,VT,"Bennington County",11,16,273
+50,023,06,037,CA,"Los Angeles County",10,16,209
+50,023,23,031,ME,"York County",10,10,201
+50,023,58,000,SS,"Other Flows - Same State",14,23,377
+50,023,59,000,DS,"Other Flows - Diff State",652,1029,23303
+50,023,59,001,DS,"Other Flows - Northeast",271,421,9279
+50,023,59,003,DS,"Other Flows - Midwest",54,82,1604
+50,023,59,005,DS,"Other Flows - South",212,359,8902
+50,023,59,007,DS,"Other Flows - West",115,167,3518
+50,023,57,009,FR,"Foreign - Other flows",11,15,195
+50,025,96,000,VT,"Windham County Tot Mig-US & For",1377,2113,50653
+50,025,97,000,VT,"Windham County Tot Mig-US",1352,2076,50234
+50,025,97,001,VT,"Windham County Tot Mig-Same St",270,444,7499
+50,025,97,003,VT,"Windham County Tot Mig-Diff St",1082,1632,42736
+50,025,98,000,VT,"Windham County Tot Mig-Foreign",25,37,418
+50,025,50,025,VT,"Windham County Non-Migrants",16432,33776,723635
+50,025,33,005,NH,"Cheshire County",181,311,6882
+50,025,50,027,VT,"Windsor County",98,184,2670
+50,025,50,007,VT,"Chittenden County",47,61,1386
+50,025,25,011,MA,"Franklin County",46,71,1244
+50,025,25,017,MA,"Middlesex County",40,52,1398
+50,025,50,003,VT,"Bennington County",40,62,1192
+50,025,33,019,NH,"Sullivan County",36,70,862
+50,025,25,015,MA,"Hampshire County",30,43,999
+50,025,50,023,VT,"Washington County",23,26,396
+50,025,25,013,MA,"Hampden County",20,36,708
+50,025,33,011,NH,"Hillsborough County",20,30,1066
+50,025,25,027,MA,"Worcester County",18,24,608
+50,025,50,021,VT,"Rutland County",18,35,526
+50,025,04,013,AZ,"Maricopa County",15,19,415
+50,025,09,003,CT,"Hartford County",15,23,424
+50,025,12,115,FL,"Sarasota County",13,24,1609
+50,025,36,061,NY,"New York County",13,13,1084
+50,025,25,009,MA,"Essex County",12,16,473
+50,025,09,009,CT,"New Haven County",11,13,488
+50,025,25,001,MA,"Barnstable County",11,18,474
+50,025,25,025,MA,"Suffolk County",11,13,439
+50,025,50,001,VT,"Addison County",11,17,544
+50,025,25,003,MA,"Berkshire County",10,10,181
+50,025,58,000,SS,"Other Flows - Same State",33,59,786
+50,025,59,000,DS,"Other Flows - Diff State",580,846,23380
+50,025,59,001,DS,"Other Flows - Northeast",230,328,9156
+50,025,59,003,DS,"Other Flows - Midwest",40,56,1144
+50,025,59,005,DS,"Other Flows - South",180,288,9478
+50,025,59,007,DS,"Other Flows - West",130,174,3602
+50,025,57,009,FR,"Foreign - Other flows",25,37,418
+50,027,96,000,VT,"Windsor County Tot Mig-US & For",1837,2988,65320
+50,027,97,000,VT,"Windsor County Tot Mig-US",1815,2961,64677
+50,027,97,001,VT,"Windsor County Tot Mig-Same St",553,958,16357
+50,027,97,003,VT,"Windsor County Tot Mig-Diff St",1262,2003,48319
+50,027,98,000,VT,"Windsor County Tot Mig-Foreign",22,27,643
+50,027,50,027,VT,"Windsor County Non-Migrants",21682,45326,1071806
+50,027,33,009,NH,"Grafton County",192,301,6769
+50,027,50,017,VT,"Orange County",151,294,4388
+50,027,33,019,NH,"Sullivan County",115,213,4297
+50,027,50,021,VT,"Rutland County",96,154,3423
+50,027,50,025,VT,"Windham County",92,174,1967
+50,027,50,007,VT,"Chittenden County",76,100,2382
+50,027,50,023,VT,"Washington County",46,80,1413
+50,027,25,017,MA,"Middlesex County",41,54,1746
+50,027,33,005,NH,"Cheshire County",35,67,1151
+50,027,25,025,MA,"Suffolk County",32,34,980
+50,027,33,011,NH,"Hillsborough County",26,45,1105
+50,027,33,013,NH,"Merrimack County",24,51,986
+50,027,50,001,VT,"Addison County",24,44,1034
+50,027,23,005,ME,"Cumberland County",15,22,565
+50,027,50,003,VT,"Bennington County",15,32,617
+50,027,50,015,VT,"Lamoille County",15,24,307
+50,027,25,009,MA,"Essex County",14,17,324
+50,027,25,015,MA,"Hampshire County",14,26,515
+50,027,25,021,MA,"Norfolk County",14,18,1417
+50,027,50,005,VT,"Caledonia County",14,22,288
+50,027,09,001,CT,"Fairfield County",13,20,849
+50,027,09,003,CT,"Hartford County",13,22,345
+50,027,33,015,NH,"Rockingham County",13,19,573
+50,027,50,019,VT,"Orleans County",13,22,301
+50,027,04,013,AZ,"Maricopa County",10,14,201
+50,027,06,073,CA,"San Diego County",10,14,281
+50,027,12,099,FL,"Palm Beach County",10,18,1231
+50,027,58,000,SS,"Other Flows - Same State",11,12,237
+50,027,59,000,DS,"Other Flows - Diff State",671,1048,24983
+50,027,59,001,DS,"Other Flows - Northeast",258,428,12110
+50,027,59,003,DS,"Other Flows - Midwest",44,60,1080
+50,027,59,005,DS,"Other Flows - South",228,353,8332
+50,027,59,007,DS,"Other Flows - West",141,207,3461
+50,027,57,009,FR,"Foreign - Other flows",22,27,643

@@ -1,0 +1,2399 @@
+"2000 - 2001 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Wisconsin,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+55,000,96,000,WI,"Total Mig - US & For",130406,226654,5389671
+55,000,97,000,WI,"Total Mig - US",129349,224941,5356058
+55,000,97,001,WI,"Total Mig - US Same St",82928,143343,3207475
+55,000,97,003,WI,"Total Mig - US Diff St",46421,81598,2148583
+55,000,98,000,WI,"Total Mig - Foreign",1057,1713,33613
+55,001,96,000,WI,"Adams County Tot Mig-US & For",721,1293,19692
+55,001,97,000,WI,"Adams County Tot Mig-US",721,1293,19692
+55,001,97,001,WI,"Adams County Tot Mig-Same St",555,1001,15395
+55,001,97,003,WI,"Adams County Tot Mig-Diff St",166,292,4298
+55,001,55,001,WI,"Adams County Non-Migrants",7773,16615,290660
+55,001,55,111,WI,"Sauk County",71,126,1955
+55,001,55,141,WI,"Wood County",67,117,1878
+55,001,55,021,WI,"Columbia County",64,109,1680
+55,001,55,025,WI,"Dane County",53,77,1570
+55,001,55,057,WI,"Juneau County",49,118,1278
+55,001,55,097,WI,"Portage County",36,66,835
+55,001,55,077,WI,"Marquette County",27,41,602
+55,001,55,079,WI,"Milwaukee County",25,33,530
+55,001,55,137,WI,"Waushara County",18,39,553
+55,001,55,133,WI,"Waukesha County",17,31,569
+55,001,55,105,WI,"Rock County",16,40,552
+55,001,04,013,AZ,"Maricopa County",15,25,294
+55,001,58,000,SS,"Other Flows - Same State",112,204,3392
+55,001,59,000,DS,"Other Flows - Diff State",151,267,4003
+55,003,96,000,WI,"Ashland County Tot Mig-US & For",459,845,12707
+55,003,97,000,WI,"Ashland County Tot Mig-US",459,845,12707
+55,003,97,001,WI,"Ashland County Tot Mig-Same St",298,553,8333
+55,003,97,003,WI,"Ashland County Tot Mig-Diff St",161,292,4374
+55,003,55,003,WI,"Ashland County Non-Migrants",6399,14399,245703
+55,003,55,007,WI,"Bayfield County",73,173,2105
+55,003,55,099,WI,"Price County",27,55,654
+55,003,55,031,WI,"Douglas County",18,25,633
+55,003,55,073,WI,"Marathon County",16,24,388
+55,003,55,025,WI,"Dane County",15,21,444
+55,003,55,009,WI,"Brown County",10,12,171
+55,003,55,139,WI,"Winnebago County",10,15,223
+55,003,58,000,SS,"Other Flows - Same State",129,228,3714
+55,003,59,000,DS,"Other Flows - Diff State",161,292,4374
+55,003,59,001,DS,"Other Flows - Northeast",10,25,275
+55,003,59,003,DS,"Other Flows - Midwest",92,165,2591
+55,003,59,005,DS,"Other Flows - South",27,47,983
+55,003,59,007,DS,"Other Flows - West",32,55,525
+55,005,96,000,WI,"Barron County Tot Mig-US & For",1082,1888,29508
+55,005,97,000,WI,"Barron County Tot Mig-US",1082,1888,29508
+55,005,97,001,WI,"Barron County Tot Mig-Same St",700,1231,18726
+55,005,97,003,WI,"Barron County Tot Mig-Diff St",382,657,10782
+55,005,55,005,WI,"Barron County Non-Migrants",17700,39659,722048
+55,005,55,095,WI,"Polk County",88,178,2421
+55,005,55,017,WI,"Chippewa County",83,159,1929
+55,005,55,035,WI,"Eau Claire County",72,101,1746
+55,005,55,129,WI,"Washburn County",59,107,1912
+55,005,55,033,WI,"Dunn County",57,104,1564
+55,005,27,053,MN,"Hennepin County",54,69,1283
+55,005,55,109,WI,"St Croix County",48,71,1239
+55,005,55,107,WI,"Rusk County",34,69,895
+55,005,55,093,WI,"Pierce County",26,30,515
+55,005,55,113,WI,"Sawyer County",24,44,845
+55,005,27,123,MN,"Ramsey County",23,28,621
+55,005,55,025,WI,"Dane County",22,33,530
+55,005,55,013,WI,"Burnett County",18,37,651
+55,005,55,031,WI,"Douglas County",16,24,339
+55,005,55,079,WI,"Milwaukee County",15,27,303
+55,005,27,037,MN,"Dakota County",13,17,475
+55,005,27,003,MN,"Anoka County",12,14,258
+55,005,04,013,AZ,"Maricopa County",10,19,602
+55,005,17,031,IL,"Cook County",10,13,238
+55,005,58,000,SS,"Other Flows - Same State",138,247,3837
+55,005,59,000,DS,"Other Flows - Diff State",260,497,7305
+55,005,59,001,DS,"Other Flows - Northeast",10,24,241
+55,005,59,003,DS,"Other Flows - Midwest",132,264,4283
+55,005,59,005,DS,"Other Flows - South",54,100,1229
+55,005,59,007,DS,"Other Flows - West",64,109,1551
+55,007,96,000,WI,"Bayfield County Tot Mig-US & For",388,646,10995
+55,007,97,000,WI,"Bayfield County Tot Mig-US",388,646,10995
+55,007,97,001,WI,"Bayfield County Tot Mig-Same St",262,440,6595
+55,007,97,003,WI,"Bayfield County Tot Mig-Diff St",126,206,4400
+55,007,55,007,WI,"Bayfield County Non-Migrants",4791,10455,188070
+55,007,55,003,WI,"Ashland County",102,180,2456
+55,007,55,031,WI,"Douglas County",39,59,1074
+55,007,55,113,WI,"Sawyer County",14,25,380
+55,007,55,025,WI,"Dane County",13,17,357
+55,007,27,053,MN,"Hennepin County",10,11,236
+55,007,58,000,SS,"Other Flows - Same State",94,159,2328
+55,007,59,000,DS,"Other Flows - Diff State",116,195,4164
+55,009,96,000,WI,"Brown County Tot Mig-US & For",4817,8419,199649
+55,009,97,000,WI,"Brown County Tot Mig-US",4778,8350,198776
+55,009,97,001,WI,"Brown County Tot Mig-Same St",2982,5175,110382
+55,009,97,003,WI,"Brown County Tot Mig-Diff St",1796,3175,88395
+55,009,98,000,WI,"Brown County Tot Mig-Foreign",39,69,873
+55,009,55,009,WI,"Brown County Non-Migrants",88348,195107,5026412
+55,009,55,087,WI,"Outagamie County",450,823,15441
+55,009,55,083,WI,"Oconto County",439,866,18306
+55,009,55,079,WI,"Milwaukee County",234,308,7113
+55,009,55,025,WI,"Dane County",209,274,6641
+55,009,55,075,WI,"Marinette County",153,297,5555
+55,009,55,061,WI,"Kewaunee County",150,305,6015
+55,009,55,139,WI,"Winnebago County",148,228,4793
+55,009,55,071,WI,"Manitowoc County",133,224,4793
+55,009,55,115,WI,"Shawano County",128,245,6184
+55,009,55,029,WI,"Door County",119,211,4735
+55,009,17,031,IL,"Cook County",104,145,3545
+55,009,55,133,WI,"Waukesha County",83,138,4391
+55,009,27,053,MN,"Hennepin County",81,117,3238
+55,009,55,015,WI,"Calumet County",75,119,2750
+55,009,04,013,AZ,"Maricopa County",58,119,3423
+55,009,55,117,WI,"Sheboygan County",52,78,1806
+55,009,55,073,WI,"Marathon County",43,73,1684
+55,009,55,135,WI,"Waupaca County",42,69,1269
+55,009,27,123,MN,"Ramsey County",37,60,1043
+55,009,55,039,WI,"Fond Du Lac County",34,51,854
+55,009,55,097,WI,"Portage County",34,64,1151
+55,009,55,063,WI,"La Crosse County",33,62,1156
+55,009,55,131,WI,"Washington County",33,55,1511
+55,009,55,035,WI,"Eau Claire County",31,53,987
+55,009,17,043,IL,"Du Page County",29,62,1641
+55,009,06,073,CA,"San Diego County",26,32,640
+55,009,06,037,CA,"Los Angeles County",25,52,537
+55,009,26,041,MI,"Delta County",24,47,849
+55,009,26,109,MI,"Menominee County",24,46,868
+55,009,53,033,WA,"King County",24,39,926
+55,009,55,141,WI,"Wood County",24,40,695
+55,009,55,089,WI,"Ozaukee County",23,34,1195
+55,009,26,103,MI,"Marquette County",22,42,551
+55,009,55,059,WI,"Kenosha County",22,46,810
+55,009,55,101,WI,"Racine County",22,43,1450
+55,009,26,043,MI,"Dickinson County",20,26,634
+55,009,55,055,WI,"Jefferson County",20,31,634
+55,009,55,085,WI,"Oneida County",19,44,890
+55,009,27,037,MN,"Dakota County",18,27,520
+55,009,12,103,FL,"Pinellas County",17,17,399
+55,009,26,071,MI,"Iron County",16,25,525
+55,009,55,127,WI,"Walworth County",16,21,451
+55,009,57,005,FR,"Foreign - APO/FPO ZIPs",15,17,251
+55,009,55,041,WI,"Forest County",14,27,451
+55,009,55,078,WI,"Menominee County",14,29,314
+55,009,32,003,NV,"Clark County",13,15,1189
+55,009,48,113,TX,"Dallas County",13,29,543
+55,009,55,137,WI,"Waushara County",13,17,421
+55,009,06,059,CA,"Orange County",12,21,980
+55,009,08,005,CO,"Arapahoe County",12,15,668
+55,009,17,097,IL,"Lake County",12,17,384
+55,009,55,125,WI,"Vilas County",12,24,546
+55,009,26,061,MI,"Houghton County",11,18,184
+55,009,26,125,MI,"Oakland County",11,22,700
+55,009,40,143,OK,"Tulsa County",11,14,384
+55,009,47,037,TN,"Davidson County",11,14,331
+55,009,04,019,AZ,"Pima County",10,21,581
+55,009,08,031,CO,"Denver County",10,12,188
+55,009,12,071,FL,"Lee County",10,18,500
+55,009,27,003,MN,"Anoka County",10,18,370
+55,009,31,055,NE,"Douglas County",10,20,586
+55,009,55,021,WI,"Columbia County",10,15,365
+55,009,55,069,WI,"Lincoln County",10,21,506
+55,009,55,105,WI,"Rock County",10,15,330
+55,009,58,000,SS,"Other Flows - Same State",130,225,4190
+55,009,59,000,DS,"Other Flows - Diff State",1115,2065,61465
+55,009,59,001,DS,"Other Flows - Northeast",122,242,10598
+55,009,59,003,DS,"Other Flows - Midwest",364,707,17649
+55,009,59,005,DS,"Other Flows - South",401,732,24304
+55,009,59,007,DS,"Other Flows - West",228,384,8913
+55,009,57,009,FR,"Foreign - Other flows",24,52,622
+55,011,96,000,WI,"Buffalo County Tot Mig-US & For",437,695,13810
+55,011,97,000,WI,"Buffalo County Tot Mig-US",437,695,13810
+55,011,97,001,WI,"Buffalo County Tot Mig-Same St",282,451,8376
+55,011,97,003,WI,"Buffalo County Tot Mig-Diff St",155,244,5434
+55,011,55,011,WI,"Buffalo County Non-Migrants",6035,13814,234908
+55,011,55,035,WI,"Eau Claire County",77,112,1955
+55,011,55,121,WI,"Trempealeau County",53,97,1586
+55,011,27,169,MN,"Winona County",47,68,1381
+55,011,55,091,WI,"Pepin County",27,50,962
+55,011,55,063,WI,"La Crosse County",22,28,397
+55,011,55,033,WI,"Dunn County",16,23,744
+55,011,55,017,WI,"Chippewa County",13,25,381
+55,011,55,025,WI,"Dane County",11,13,286
+55,011,55,093,WI,"Pierce County",11,18,352
+55,011,58,000,SS,"Other Flows - Same State",52,85,1714
+55,011,59,000,DS,"Other Flows - Diff State",108,176,4053
+55,013,96,000,WI,"Burnett County Tot Mig-US & For",445,717,12510
+55,013,97,000,WI,"Burnett County Tot Mig-US",445,717,12510
+55,013,97,001,WI,"Burnett County Tot Mig-Same St",213,353,5764
+55,013,97,003,WI,"Burnett County Tot Mig-Diff St",232,364,6746
+55,013,55,013,WI,"Burnett County Non-Migrants",6580,14117,248643
+55,013,55,095,WI,"Polk County",61,111,1487
+55,013,55,129,WI,"Washburn County",38,67,961
+55,013,55,005,WI,"Barron County",35,58,899
+55,013,27,123,MN,"Ramsey County",22,32,923
+55,013,27,037,MN,"Dakota County",19,26,405
+55,013,27,053,MN,"Hennepin County",18,25,512
+55,013,27,003,MN,"Anoka County",16,20,431
+55,013,27,025,MN,"Chisago County",15,28,546
+55,013,27,163,MN,"Washington County",12,19,299
+55,013,55,031,WI,"Douglas County",11,14,718
+55,013,27,115,MN,"Pine County",10,22,274
+55,013,58,000,SS,"Other Flows - Same State",68,103,1699
+55,013,59,000,DS,"Other Flows - Diff State",120,192,3354
+55,015,96,000,WI,"Calumet County Tot Mig-US & For",1645,2933,69538
+55,015,97,000,WI,"Calumet County Tot Mig-US",1645,2933,69538
+55,015,97,001,WI,"Calumet County Tot Mig-Same St",1332,2369,53628
+55,015,97,003,WI,"Calumet County Tot Mig-Diff St",313,564,15910
+55,015,55,015,WI,"Calumet County Non-Migrants",17596,42466,1012387
+55,015,55,087,WI,"Outagamie County",590,1130,25231
+55,015,55,139,WI,"Winnebago County",227,371,8870
+55,015,55,071,WI,"Manitowoc County",102,175,3403
+55,015,55,009,WI,"Brown County",71,121,2624
+55,015,55,039,WI,"Fond Du Lac County",58,94,2014
+55,015,55,117,WI,"Sheboygan County",48,73,2297
+55,015,55,025,WI,"Dane County",36,55,1209
+55,015,55,079,WI,"Milwaukee County",28,37,841
+55,015,55,135,WI,"Waupaca County",19,38,804
+55,015,55,133,WI,"Waukesha County",17,24,846
+55,015,27,053,MN,"Hennepin County",16,19,839
+55,015,17,031,IL,"Cook County",12,12,529
+55,015,27,123,MN,"Ramsey County",10,12,253
+55,015,55,131,WI,"Washington County",10,26,699
+55,015,58,000,SS,"Other Flows - Same State",126,225,4788
+55,015,59,000,DS,"Other Flows - Diff State",275,521,14289
+55,015,59,001,DS,"Other Flows - Northeast",17,41,1454
+55,015,59,003,DS,"Other Flows - Midwest",93,180,4703
+55,015,59,005,DS,"Other Flows - South",92,193,5363
+55,015,59,007,DS,"Other Flows - West",73,107,2770
+55,017,96,000,WI,"Chippewa County Tot Mig-US & For",1360,2328,42763
+55,017,97,000,WI,"Chippewa County Tot Mig-US",1360,2328,42763
+55,017,97,001,WI,"Chippewa County Tot Mig-Same St",1016,1723,29997
+55,017,97,003,WI,"Chippewa County Tot Mig-Diff St",344,605,12767
+55,017,55,017,WI,"Chippewa County Non-Migrants",21150,48483,919071
+55,017,55,035,WI,"Eau Claire County",480,785,13579
+55,017,55,033,WI,"Dunn County",82,133,2557
+55,017,55,005,WI,"Barron County",63,123,1879
+55,017,55,019,WI,"Clark County",40,73,974
+55,017,55,107,WI,"Rusk County",37,81,1151
+55,017,55,025,WI,"Dane County",35,45,862
+55,017,27,053,MN,"Hennepin County",34,45,1156
+55,017,55,109,WI,"St Croix County",26,48,1120
+55,017,55,073,WI,"Marathon County",20,42,753
+55,017,27,037,MN,"Dakota County",19,34,700
+55,017,55,011,WI,"Buffalo County",16,24,444
+55,017,55,079,WI,"Milwaukee County",16,23,415
+55,017,27,123,MN,"Ramsey County",15,21,371
+55,017,55,119,WI,"Taylor County",15,23,431
+55,017,55,063,WI,"La Crosse County",12,19,325
+55,017,55,141,WI,"Wood County",12,18,320
+55,017,27,163,MN,"Washington County",10,15,356
+55,017,55,093,WI,"Pierce County",10,17,376
+55,017,58,000,SS,"Other Flows - Same State",152,269,4813
+55,017,59,000,DS,"Other Flows - Diff State",266,490,10183
+55,017,59,001,DS,"Other Flows - Northeast",16,30,568
+55,017,59,003,DS,"Other Flows - Midwest",109,207,3701
+55,017,59,005,DS,"Other Flows - South",63,114,1690
+55,017,59,007,DS,"Other Flows - West",78,139,4223
+55,019,96,000,WI,"Clark County Tot Mig-US & For",820,1478,22492
+55,019,97,000,WI,"Clark County Tot Mig-US",820,1478,22492
+55,019,97,001,WI,"Clark County Tot Mig-Same St",655,1165,17682
+55,019,97,003,WI,"Clark County Tot Mig-Diff St",165,313,4810
+55,019,55,019,WI,"Clark County Non-Migrants",11904,29111,447772
+55,019,55,141,WI,"Wood County",124,203,3354
+55,019,55,073,WI,"Marathon County",111,217,3752
+55,019,55,119,WI,"Taylor County",68,133,1677
+55,019,55,035,WI,"Eau Claire County",57,82,1393
+55,019,55,017,WI,"Chippewa County",45,86,1172
+55,019,55,053,WI,"Jackson County",32,57,915
+55,019,55,025,WI,"Dane County",24,36,545
+55,019,27,053,MN,"Hennepin County",16,16,427
+55,019,55,097,WI,"Portage County",16,19,332
+55,019,55,033,WI,"Dunn County",12,30,467
+55,019,55,005,WI,"Barron County",10,18,174
+55,019,55,063,WI,"La Crosse County",10,13,238
+55,019,55,079,WI,"Milwaukee County",10,10,190
+55,019,55,139,WI,"Winnebago County",10,10,178
+55,019,58,000,SS,"Other Flows - Same State",126,251,3296
+55,019,59,000,DS,"Other Flows - Diff State",149,297,4383
+55,019,59,001,DS,"Other Flows - Northeast",13,24,356
+55,019,59,003,DS,"Other Flows - Midwest",72,146,1977
+55,019,59,005,DS,"Other Flows - South",33,69,1067
+55,019,59,007,DS,"Other Flows - West",31,58,984
+55,021,96,000,WI,"Columbia County Tot Mig-US & For",1537,2760,48500
+55,021,97,000,WI,"Columbia County Tot Mig-US",1537,2760,48500
+55,021,97,001,WI,"Columbia County Tot Mig-Same St",1215,2150,38093
+55,021,97,003,WI,"Columbia County Tot Mig-Diff St",322,610,10407
+55,021,55,021,WI,"Columbia County Non-Migrants",20125,44917,975428
+55,021,55,025,WI,"Dane County",446,723,15089
+55,021,55,111,WI,"Sauk County",148,265,4459
+55,021,55,027,WI,"Dodge County",111,222,3226
+55,021,55,077,WI,"Marquette County",87,183,2777
+55,021,55,001,WI,"Adams County",58,114,1519
+55,021,55,079,WI,"Milwaukee County",27,41,812
+55,021,55,055,WI,"Jefferson County",26,50,736
+55,021,55,047,WI,"Green Lake County",21,32,468
+55,021,55,133,WI,"Waukesha County",21,35,827
+55,021,55,057,WI,"Juneau County",20,34,569
+55,021,55,063,WI,"La Crosse County",15,26,375
+55,021,55,105,WI,"Rock County",14,22,454
+55,021,55,139,WI,"Winnebago County",14,29,528
+55,021,55,081,WI,"Monroe County",12,25,231
+55,021,55,097,WI,"Portage County",12,18,249
+55,021,17,031,IL,"Cook County",11,15,151
+55,021,55,039,WI,"Fond Du Lac County",11,19,303
+55,021,27,053,MN,"Hennepin County",10,10,273
+55,021,58,000,SS,"Other Flows - Same State",172,312,5470
+55,021,59,000,DS,"Other Flows - Diff State",301,585,9983
+55,021,59,001,DS,"Other Flows - Northeast",16,32,655
+55,021,59,003,DS,"Other Flows - Midwest",128,282,4055
+55,021,59,005,DS,"Other Flows - South",81,146,3286
+55,021,59,007,DS,"Other Flows - West",76,125,1987
+55,023,96,000,WI,"Crawford County Tot Mig-US & For",558,1027,15654
+55,023,97,000,WI,"Crawford County Tot Mig-US",558,1027,15654
+55,023,97,001,WI,"Crawford County Tot Mig-Same St",372,683,10005
+55,023,97,003,WI,"Crawford County Tot Mig-Diff St",186,344,5649
+55,023,55,023,WI,"Crawford County Non-Migrants",6416,14738,230308
+55,023,55,043,WI,"Grant County",91,164,2315
+55,023,55,063,WI,"La Crosse County",61,97,1348
+55,023,55,123,WI,"Vernon County",47,86,1278
+55,023,19,043,IA,"Clayton County",45,97,1287
+55,023,55,025,WI,"Dane County",36,49,883
+55,023,55,103,WI,"Richland County",30,65,984
+55,023,19,005,IA,"Allamakee County",12,24,352
+55,023,55,081,WI,"Monroe County",10,29,189
+55,023,58,000,SS,"Other Flows - Same State",97,193,3008
+55,023,59,000,DS,"Other Flows - Diff State",129,223,4010
+55,025,96,000,WI,"Dane County Tot Mig-US & For",11263,18226,527751
+55,025,97,000,WI,"Dane County Tot Mig-US",11073,17930,522912
+55,025,97,001,WI,"Dane County Tot Mig-Same St",5057,8327,230706
+55,025,97,003,WI,"Dane County Tot Mig-Diff St",6016,9603,292206
+55,025,98,000,WI,"Dane County Tot Mig-Foreign",190,296,4838
+55,025,55,025,WI,"Dane County Non-Migrants",164007,337250,10112280
+55,025,55,021,WI,"Columbia County",617,1130,28726
+55,025,55,079,WI,"Milwaukee County",583,760,19818
+55,025,17,031,IL,"Cook County",525,744,25219
+55,025,55,105,WI,"Rock County",483,838,15684
+55,025,55,055,WI,"Jefferson County",322,546,15404
+55,025,27,053,MN,"Hennepin County",302,377,10276
+55,025,55,111,WI,"Sauk County",301,530,13370
+55,025,55,133,WI,"Waukesha County",253,409,12832
+55,025,55,045,WI,"Green County",245,467,10988
+55,025,55,049,WI,"Iowa County",229,410,30480
+55,025,04,013,AZ,"Maricopa County",133,187,8562
+55,025,55,009,WI,"Brown County",130,207,4644
+55,025,55,063,WI,"La Crosse County",119,180,3966
+55,025,27,123,MN,"Ramsey County",116,164,3861
+55,025,55,139,WI,"Winnebago County",113,170,3924
+55,025,55,027,WI,"Dodge County",110,177,3939
+55,025,53,033,WA,"King County",107,135,4040
+55,025,06,037,CA,"Los Angeles County",103,136,3461
+55,025,06,073,CA,"San Diego County",101,131,3424
+55,025,55,087,WI,"Outagamie County",96,152,3822
+55,025,55,043,WI,"Grant County",90,153,2651
+55,025,06,085,CA,"Santa Clara County",87,119,4909
+55,025,55,097,WI,"Portage County",80,115,2400
+55,025,06,001,CA,"Alameda County",74,94,3292
+55,025,36,061,NY,"New York County",72,82,3063
+55,025,25,017,MA,"Middlesex County",71,99,2951
+55,025,55,127,WI,"Walworth County",69,108,2550
+55,025,17,043,IL,"Du Page County",68,106,3000
+55,025,55,073,WI,"Marathon County",68,96,2372
+55,025,55,035,WI,"Eau Claire County",65,94,2195
+55,025,17,097,IL,"Lake County",63,118,3576
+55,025,41,051,OR,"Multnomah County",61,70,1701
+55,025,55,101,WI,"Racine County",57,74,1663
+55,025,27,037,MN,"Dakota County",53,105,2604
+55,025,55,117,WI,"Sheboygan County",53,82,1637
+55,025,55,039,WI,"Fond Du Lac County",52,80,2202
+55,025,55,065,WI,"Lafayette County",52,86,1757
+55,025,55,103,WI,"Richland County",51,73,1550
+55,025,55,001,WI,"Adams County",50,100,2368
+55,025,55,059,WI,"Kenosha County",50,89,2046
+55,025,08,031,CO,"Denver County",49,58,1552
+55,025,55,131,WI,"Washington County",49,82,1876
+55,025,17,201,IL,"Winnebago County",48,85,1514
+55,025,11,001,DC,"District Of Columbia",47,56,2030
+55,025,36,047,NY,"Kings County",47,58,1569
+55,025,55,077,WI,"Marquette County",46,70,2305
+55,025,06,075,CA,"San Francisco County",45,47,1674
+55,025,55,057,WI,"Juneau County",44,73,1114
+55,025,55,141,WI,"Wood County",43,77,1347
+55,025,04,019,AZ,"Pima County",41,72,2668
+55,025,06,081,CA,"San Mateo County",41,60,1926
+55,025,48,113,TX,"Dallas County",39,54,1299
+55,025,48,453,TX,"Travis County",39,59,1480
+55,025,08,013,CO,"Boulder County",38,55,1866
+55,025,57,005,FR,"Foreign - APO/FPO ZIPs",36,45,753
+55,025,32,003,NV,"Clark County",35,56,1784
+55,025,48,201,TX,"Harris County",35,56,1753
+55,025,06,059,CA,"Orange County",34,57,1198
+55,025,12,103,FL,"Pinellas County",32,42,1343
+55,025,55,015,WI,"Calumet County",31,53,1118
+55,025,55,081,WI,"Monroe County",31,47,1163
+55,025,26,161,MI,"Washtenaw County",30,48,1282
+55,025,27,109,MN,"Olmsted County",30,44,1127
+55,025,51,059,VA,"Fairfax County",30,52,1825
+55,025,24,031,MD,"Montgomery County",29,43,1671
+55,025,55,137,WI,"Waushara County",29,48,850
+55,025,25,025,MA,"Suffolk County",28,36,691
+55,025,26,125,MI,"Oakland County",28,54,1558
+55,025,29,189,MO,"St Louis County",28,56,1308
+55,025,39,049,OH,"Franklin County",28,55,1044
+55,025,47,037,TN,"Davidson County",28,36,729
+55,025,55,085,WI,"Oneida County",28,44,5656
+55,025,08,005,CO,"Arapahoe County",27,40,1172
+55,025,55,089,WI,"Ozaukee County",27,50,1074
+55,025,13,121,GA,"Fulton County",26,28,795
+55,025,18,097,IN,"Marion County",26,40,1357
+55,025,19,153,IA,"Polk County",26,46,1337
+55,025,37,183,NC,"Wake County",26,50,1565
+55,025,19,103,IA,"Johnson County",25,44,894
+55,025,08,041,CO,"El Paso County",24,65,1035
+55,025,12,071,FL,"Lee County",24,34,2639
+55,025,08,069,CO,"Larimer County",23,40,1436
+55,025,12,099,FL,"Palm Beach County",23,30,552
+55,025,17,089,IL,"Kane County",23,44,1063
+55,025,26,065,MI,"Ingham County",23,48,1039
+55,025,13,089,GA,"De Kalb County",22,32,693
+55,025,27,163,MN,"Washington County",22,46,1226
+55,025,48,439,TX,"Tarrant County",22,51,961
+55,025,55,023,WI,"Crawford County",22,42,950
+55,025,55,071,WI,"Manitowoc County",22,39,488
+55,025,19,113,IA,"Linn County",21,46,621
+55,025,48,029,TX,"Bexar County",21,34,818
+55,025,06,013,CA,"Contra Costa County",20,30,755
+55,025,25,021,MA,"Norfolk County",20,37,906
+55,025,34,023,NJ,"Middlesex County",20,39,1149
+55,025,35,001,NM,"Bernalillo County",20,35,851
+55,025,39,035,OH,"Cuyahoga County",20,24,811
+55,025,55,005,WI,"Barron County",20,39,773
+55,025,55,123,WI,"Vernon County",20,32,719
+55,025,55,135,WI,"Waupaca County",20,28,976
+55,025,06,067,CA,"Sacramento County",19,35,1030
+55,025,12,011,FL,"Broward County",19,29,960
+55,025,12,057,FL,"Hillsborough County",19,28,654
+55,025,12,115,FL,"Sarasota County",19,38,1386
+55,025,19,061,IA,"Dubuque County",19,31,584
+55,025,55,033,WI,"Dunn County",19,31,731
+55,025,55,053,WI,"Jackson County",19,28,575
+55,025,55,125,WI,"Vilas County",19,37,834
+55,025,19,163,IA,"Scott County",18,45,856
+55,025,06,065,CA,"Riverside County",17,27,1581
+55,025,08,059,CO,"Jefferson County",17,27,922
+55,025,12,095,FL,"Orange County",17,21,474
+55,025,26,163,MI,"Wayne County",17,25,689
+55,025,37,119,NC,"Mecklenburg County",17,26,859
+55,025,41,067,OR,"Washington County",17,43,1051
+55,025,47,157,TN,"Shelby County",17,28,714
+55,025,53,061,WA,"Snohomish County",17,36,990
+55,025,55,019,WI,"Clark County",17,23,493
+55,025,55,047,WI,"Green Lake County",17,32,952
+55,025,12,021,FL,"Collier County",16,24,22599
+55,025,12,025,FL,"Dade County",16,26,539
+55,025,24,510,MD,Baltimore,16,20,397
+55,025,49,035,UT,"Salt Lake County",16,35,831
+55,025,55,017,WI,"Chippewa County",16,24,624
+55,025,55,029,WI,"Door County",16,27,1379
+55,025,55,109,WI,"St Croix County",16,30,682
+55,025,06,071,CA,"San Bernardino Count",15,28,759
+55,025,39,061,OH,"Hamilton County",15,28,906
+55,025,02,020,AK,"Anchorage Borough",14,23,588
+55,025,12,015,FL,"Charlotte County",14,25,970
+55,025,15,003,HI,"Honolulu County",14,17,370
+55,025,17,111,IL,"Mchenry County",14,27,633
+55,025,26,077,MI,"Kalamazoo County",14,19,654
+55,025,27,003,MN,"Anoka County",14,27,622
+55,025,31,055,NE,"Douglas County",14,22,694
+55,025,42,003,PA,"Allegheny County",14,28,913
+55,025,42,101,PA,"Philadelphia County",14,21,372
+55,025,53,053,WA,"Pierce County",14,28,633
+55,025,55,113,WI,"Sawyer County",14,22,300
+55,025,12,001,FL,"Alachua County",13,21,535
+55,025,29,095,MO,"Jackson County",13,20,365
+55,025,36,055,NY,"Monroe County",13,18,412
+55,025,41,003,OR,"Benton County",13,15,329
+55,025,42,045,PA,"Delaware County",13,34,612
+55,025,55,069,WI,"Lincoln County",13,16,396
+55,025,55,075,WI,"Marinette County",13,30,607
+55,025,06,087,CA,"Santa Cruz County",12,12,453
+55,025,12,073,FL,"Leon County",12,19,443
+55,025,13,067,GA,"Cobb County",12,16,312
+55,025,17,113,IL,"Mclean County",12,20,458
+55,025,17,167,IL,"Sangamon County",12,19,561
+55,025,17,197,IL,"Will County",12,26,701
+55,025,26,103,MI,"Marquette County",12,17,378
+55,025,29,019,MO,"Boone County",12,21,702
+55,025,41,039,OR,"Lane County",12,13,222
+55,025,50,007,VT,"Chittenden County",12,21,523
+55,025,51,510,VA,Alexandria,12,16,535
+55,025,55,007,WI,"Bayfield County",12,25,869
+55,025,12,009,FL,"Brevard County",11,17,535
+55,025,17,037,IL,"De Kalb County",11,17,374
+55,025,17,177,IL,"Stephenson County",11,18,252
+55,025,20,091,KS,"Johnson County",11,18,535
+55,025,24,005,MD,"Baltimore County",11,15,203
+55,025,26,081,MI,"Kent County",11,26,718
+55,025,27,137,MN,"St Louis County",11,17,296
+55,025,29,510,MO,"St Louis",11,19,384
+55,025,30,031,MT,"Gallatin County",11,14,440
+55,025,30,063,MT,"Missoula County",11,12,153
+55,025,34,017,NJ,"Hudson County",11,11,190
+55,025,42,091,PA,"Montgomery County",11,17,659
+55,025,44,007,RI,"Providence County",11,21,383
+55,025,46,099,SD,"Minnehaha County",11,20,472
+55,025,55,031,WI,"Douglas County",11,14,339
+55,025,09,003,CT,"Hartford County",10,19,460
+55,025,09,009,CT,"New Haven County",10,15,349
+55,025,18,089,IN,"Lake County",10,20,299
+55,025,18,157,IN,"Tippecanoe County",10,15,357
+55,025,25,027,MA,"Worcester County",10,24,455
+55,025,26,099,MI,"Macomb County",10,27,448
+55,025,27,169,MN,"Winona County",10,15,348
+55,025,36,029,NY,"Erie County",10,17,384
+55,025,36,081,NY,"Queens County",10,14,225
+55,025,36,109,NY,"Tompkins County",10,17,487
+55,025,36,119,NY,"Westchester County",10,11,448
+55,025,38,017,ND,"Cass County",10,20,361
+55,025,48,491,TX,"Williamson County",10,20,707
+55,025,51,013,VA,"Arlington County",10,11,273
+55,025,58,000,SS,"Other Flows - Same State",85,138,8527
+55,025,59,000,DS,"Other Flows - Diff State",1773,3182,85740
+55,025,59,001,DS,"Other Flows - Northeast",263,438,10771
+55,025,59,003,DS,"Other Flows - Midwest",534,1021,22961
+55,025,59,005,DS,"Other Flows - South",643,1148,37419
+55,025,59,007,DS,"Other Flows - West",333,575,14590
+55,025,57,009,FR,"Foreign - Other flows",154,251,4085
+55,027,96,000,WI,"Dodge County Tot Mig-US & For",2282,4085,82691
+55,027,97,000,WI,"Dodge County Tot Mig-US",2272,4067,82298
+55,027,97,001,WI,"Dodge County Tot Mig-Same St",1784,3171,62879
+55,027,97,003,WI,"Dodge County Tot Mig-Diff St",488,896,19419
+55,027,98,000,WI,"Dodge County Tot Mig-Foreign",10,18,393
+55,027,55,027,WI,"Dodge County Non-Migrants",31975,72481,1524157
+55,027,55,055,WI,"Jefferson County",343,709,11961
+55,027,55,039,WI,"Fond Du Lac County",260,471,9978
+55,027,55,131,WI,"Washington County",195,329,7376
+55,027,55,025,WI,"Dane County",158,243,5555
+55,027,55,133,WI,"Waukesha County",146,248,5374
+55,027,55,079,WI,"Milwaukee County",122,162,3576
+55,027,55,021,WI,"Columbia County",112,211,3131
+55,027,55,139,WI,"Winnebago County",58,78,1774
+55,027,55,009,WI,"Brown County",29,42,765
+55,027,17,031,IL,"Cook County",28,38,1761
+55,027,55,047,WI,"Green Lake County",27,53,1936
+55,027,04,013,AZ,"Maricopa County",23,37,725
+55,027,55,087,WI,"Outagamie County",23,47,858
+55,027,55,089,WI,"Ozaukee County",22,40,692
+55,027,55,127,WI,"Walworth County",18,29,464
+55,027,27,053,MN,"Hennepin County",17,21,414
+55,027,55,001,WI,"Adams County",15,28,399
+55,027,55,117,WI,"Sheboygan County",15,25,768
+55,027,55,073,WI,"Marathon County",14,35,488
+55,027,55,097,WI,"Portage County",13,14,200
+55,027,55,101,WI,"Racine County",12,19,275
+55,027,55,137,WI,"Waushara County",11,19,614
+55,027,55,069,WI,"Lincoln County",10,15,292
+55,027,55,071,WI,"Manitowoc County",10,20,355
+55,027,55,077,WI,"Marquette County",10,17,277
+55,027,55,105,WI,"Rock County",10,23,342
+55,027,58,000,SS,"Other Flows - Same State",151,294,5431
+55,027,59,000,DS,"Other Flows - Diff State",420,800,16519
+55,027,59,001,DS,"Other Flows - Northeast",21,31,730
+55,027,59,003,DS,"Other Flows - Midwest",162,323,7039
+55,027,59,005,DS,"Other Flows - South",147,300,5428
+55,027,59,007,DS,"Other Flows - West",90,146,3321
+55,027,57,009,FR,"Foreign - Other flows",10,18,393
+55,029,96,000,WI,"Door County Tot Mig-US & For",630,968,23367
+55,029,97,000,WI,"Door County Tot Mig-US",630,968,23367
+55,029,97,001,WI,"Door County Tot Mig-Same St",378,588,13314
+55,029,97,003,WI,"Door County Tot Mig-Diff St",252,380,10054
+55,029,55,029,WI,"Door County Non-Migrants",11479,24462,570357
+55,029,55,009,WI,"Brown County",129,186,3962
+55,029,55,061,WI,"Kewaunee County",39,75,1435
+55,029,55,025,WI,"Dane County",30,35,1200
+55,029,55,079,WI,"Milwaukee County",23,31,716
+55,029,55,087,WI,"Outagamie County",21,37,877
+55,029,55,139,WI,"Winnebago County",18,24,491
+55,029,17,031,IL,"Cook County",16,23,832
+55,029,55,071,WI,"Manitowoc County",16,22,606
+55,029,58,000,SS,"Other Flows - Same State",102,178,4027
+55,029,59,000,DS,"Other Flows - Diff State",236,357,9222
+55,031,96,000,WI,"Douglas County Tot Mig-US & For",928,1559,27614
+55,031,97,000,WI,"Douglas County Tot Mig-US",917,1545,27347
+55,031,97,001,WI,"Douglas County Tot Mig-Same St",252,465,7677
+55,031,97,003,WI,"Douglas County Tot Mig-Diff St",665,1080,19670
+55,031,98,000,WI,"Douglas County Tot Mig-Foreign",11,14,266
+55,031,55,031,WI,"Douglas County Non-Migrants",15734,33653,646476
+55,031,27,137,MN,"St Louis County",203,327,6966
+55,031,27,053,MN,"Hennepin County",51,72,1385
+55,031,27,123,MN,"Ramsey County",42,61,1067
+55,031,55,007,WI,"Bayfield County",37,59,1272
+55,031,55,129,WI,"Washburn County",30,67,1303
+55,031,27,017,MN,"Carlton County",23,38,627
+55,031,55,025,WI,"Dane County",22,30,491
+55,031,27,037,MN,"Dakota County",15,21,467
+55,031,55,113,WI,"Sawyer County",15,29,343
+55,031,27,003,MN,"Anoka County",13,20,337
+55,031,55,035,WI,"Eau Claire County",13,28,380
+55,031,04,013,AZ,"Maricopa County",12,16,228
+55,031,27,163,MN,"Washington County",10,13,234
+55,031,58,000,SS,"Other Flows - Same State",135,252,3889
+55,031,59,000,DS,"Other Flows - Diff State",296,512,8359
+55,031,59,001,DS,"Other Flows - Northeast",19,40,713
+55,031,59,003,DS,"Other Flows - Midwest",114,210,2951
+55,031,59,005,DS,"Other Flows - South",82,142,2728
+55,031,59,007,DS,"Other Flows - West",81,120,1968
+55,031,57,009,FR,"Foreign - Other flows",11,14,266
+55,033,96,000,WI,"Dunn County Tot Mig-US & For",1196,2091,36514
+55,033,97,000,WI,"Dunn County Tot Mig-US",1186,2074,36377
+55,033,97,001,WI,"Dunn County Tot Mig-Same St",781,1375,23239
+55,033,97,003,WI,"Dunn County Tot Mig-Diff St",405,699,13138
+55,033,98,000,WI,"Dunn County Tot Mig-Foreign",10,17,138
+55,033,55,033,WI,"Dunn County Non-Migrants",13071,29607,571479
+55,033,55,035,WI,"Eau Claire County",229,353,6545
+55,033,55,109,WI,"St Croix County",107,193,3467
+55,033,55,017,WI,"Chippewa County",81,152,2222
+55,033,27,053,MN,"Hennepin County",72,103,1880
+55,033,55,093,WI,"Pierce County",40,72,1157
+55,033,55,005,WI,"Barron County",34,69,1026
+55,033,27,123,MN,"Ramsey County",33,56,972
+55,033,55,091,WI,"Pepin County",27,58,662
+55,033,55,025,WI,"Dane County",26,35,797
+55,033,55,079,WI,"Milwaukee County",21,31,554
+55,033,55,095,WI,"Polk County",21,51,704
+55,033,27,037,MN,"Dakota County",20,40,766
+55,033,55,011,WI,"Buffalo County",17,31,463
+55,033,55,073,WI,"Marathon County",16,35,752
+55,033,27,109,MN,"Olmsted County",13,19,383
+55,033,27,163,MN,"Washington County",13,20,521
+55,033,04,013,AZ,"Maricopa County",11,18,433
+55,033,55,063,WI,"La Crosse County",10,19,377
+55,033,55,087,WI,"Outagamie County",10,22,208
+55,033,58,000,SS,"Other Flows - Same State",142,254,4304
+55,033,59,000,DS,"Other Flows - Diff State",243,443,8182
+55,033,59,001,DS,"Other Flows - Northeast",10,11,294
+55,033,59,003,DS,"Other Flows - Midwest",103,201,4013
+55,033,59,005,DS,"Other Flows - South",61,115,1977
+55,033,59,007,DS,"Other Flows - West",69,116,1899
+55,033,57,009,FR,"Foreign - Other flows",10,17,138
+55,035,96,000,WI,"Eau Claire Coun Tot Mig-US & For",2749,4619,94588
+55,035,97,000,WI,"Eau Claire Coun Tot Mig-US",2727,4586,94425
+55,035,97,001,WI,"Eau Claire Coun Tot Mig-Same St",1716,2931,57108
+55,035,97,003,WI,"Eau Claire Coun Tot Mig-Diff St",1011,1655,37318
+55,035,98,000,WI,"Eau Claire Coun Tot Mig-Foreign",22,33,163
+55,035,55,035,WI,"Eau Claire Coun Non-Migrants",30741,67896,1560277
+55,035,55,017,WI,"Chippewa County",485,854,17532
+55,035,55,033,WI,"Dunn County",219,395,8151
+55,035,27,053,MN,"Hennepin County",135,172,3960
+55,035,55,025,WI,"Dane County",121,171,3728
+55,035,55,121,WI,"Trempealeau County",85,148,2295
+55,035,27,123,MN,"Ramsey County",66,90,2084
+55,035,27,037,MN,"Dakota County",63,81,2397
+55,035,55,005,WI,"Barron County",57,114,1989
+55,035,55,109,WI,"St Croix County",57,98,2242
+55,035,55,063,WI,"La Crosse County",52,83,1602
+55,035,55,011,WI,"Buffalo County",45,77,1698
+55,035,55,079,WI,"Milwaukee County",40,54,1036
+55,035,55,053,WI,"Jackson County",35,51,734
+55,035,55,073,WI,"Marathon County",34,74,1127
+55,035,55,093,WI,"Pierce County",28,36,619
+55,035,55,133,WI,"Waukesha County",28,37,712
+55,035,55,019,WI,"Clark County",27,54,653
+55,035,17,031,IL,"Cook County",23,32,591
+55,035,55,091,WI,"Pepin County",23,43,683
+55,035,04,013,AZ,"Maricopa County",20,30,709
+55,035,27,163,MN,"Washington County",20,41,1446
+55,035,55,087,WI,"Outagamie County",20,34,694
+55,035,55,139,WI,"Winnebago County",20,28,628
+55,035,55,141,WI,"Wood County",20,36,575
+55,035,55,009,WI,"Brown County",19,27,589
+55,035,55,107,WI,"Rusk County",19,29,443
+55,035,27,003,MN,"Anoka County",18,31,823
+55,035,27,109,MN,"Olmsted County",17,26,426
+55,035,55,031,WI,"Douglas County",15,24,413
+55,035,55,113,WI,"Sawyer County",15,32,581
+55,035,55,097,WI,"Portage County",14,18,304
+55,035,55,027,WI,"Dodge County",13,26,401
+55,035,55,099,WI,"Price County",13,18,280
+55,035,55,039,WI,"Fond Du Lac County",12,17,306
+55,035,55,081,WI,"Monroe County",12,27,602
+55,035,55,085,WI,"Oneida County",12,21,431
+55,035,55,131,WI,"Washington County",12,18,346
+55,035,32,003,NV,"Clark County",11,15,239
+55,035,55,013,WI,"Burnett County",11,18,378
+55,035,27,137,MN,"St Louis County",10,14,174
+55,035,48,201,TX,"Harris County",10,18,177
+55,035,55,095,WI,"Polk County",10,14,292
+55,035,58,000,SS,"Other Flows - Same State",143,255,5043
+55,035,59,000,DS,"Other Flows - Diff State",618,1105,24289
+55,035,59,001,DS,"Other Flows - Northeast",33,51,1057
+55,035,59,003,DS,"Other Flows - Midwest",224,422,9225
+55,035,59,005,DS,"Other Flows - South",183,334,7821
+55,035,59,007,DS,"Other Flows - West",178,298,6185
+55,035,57,009,FR,"Foreign - Other flows",22,33,163
+55,037,96,000,WI,"Florence County Tot Mig-US & For",141,235,3275
+55,037,97,000,WI,"Florence County Tot Mig-US",141,235,3275
+55,037,97,001,WI,"Florence County Tot Mig-Same St",63,101,1426
+55,037,97,003,WI,"Florence County Tot Mig-Diff St",78,134,1850
+55,037,55,037,WI,"Florence County Non-Migrants",1799,4041,68768
+55,037,26,043,MI,"Dickinson County",37,66,714
+55,037,55,009,WI,"Brown County",13,17,208
+55,037,58,000,SS,"Other Flows - Same State",50,84,1217
+55,037,59,000,DS,"Other Flows - Diff State",41,68,1135
+55,039,96,000,WI,"Fond Du Lac Cou Tot Mig-US & For",2170,3677,85708
+55,039,97,000,WI,"Fond Du Lac Cou Tot Mig-US",2150,3647,85114
+55,039,97,001,WI,"Fond Du Lac Cou Tot Mig-Same St",1577,2623,58671
+55,039,97,003,WI,"Fond Du Lac Cou Tot Mig-Diff St",573,1024,26443
+55,039,98,000,WI,"Fond Du Lac Cou Tot Mig-Foreign",20,30,595
+55,039,55,039,WI,"Fond Du Lac Cou Non-Migrants",36611,81582,1872177
+55,039,55,139,WI,"Winnebago County",266,428,9195
+55,039,55,027,WI,"Dodge County",205,382,8051
+55,039,55,079,WI,"Milwaukee County",177,226,4992
+55,039,55,131,WI,"Washington County",133,239,4417
+55,039,55,025,WI,"Dane County",116,172,3501
+55,039,55,047,WI,"Green Lake County",71,132,2979
+55,039,55,117,WI,"Sheboygan County",67,116,2319
+55,039,55,087,WI,"Outagamie County",66,116,6620
+55,039,55,015,WI,"Calumet County",64,100,2208
+55,039,55,009,WI,"Brown County",55,82,1578
+55,039,55,133,WI,"Waukesha County",53,84,2740
+55,039,17,031,IL,"Cook County",21,37,1170
+55,039,55,137,WI,"Waushara County",20,39,671
+55,039,27,053,MN,"Hennepin County",19,28,485
+55,039,55,073,WI,"Marathon County",17,38,543
+55,039,55,077,WI,"Marquette County",17,34,521
+55,039,55,089,WI,"Ozaukee County",17,27,446
+55,039,55,101,WI,"Racine County",15,25,381
+55,039,04,013,AZ,"Maricopa County",14,22,418
+55,039,55,059,WI,"Kenosha County",14,16,357
+55,039,55,063,WI,"La Crosse County",13,16,306
+55,039,27,123,MN,"Ramsey County",12,18,329
+55,039,55,021,WI,"Columbia County",12,18,330
+55,039,55,071,WI,"Manitowoc County",12,21,252
+55,039,55,085,WI,"Oneida County",12,24,549
+55,039,55,105,WI,"Rock County",12,23,513
+55,039,55,097,WI,"Portage County",11,15,304
+55,039,58,000,SS,"Other Flows - Same State",132,250,4897
+55,039,59,000,DS,"Other Flows - Diff State",507,919,24041
+55,039,59,001,DS,"Other Flows - Northeast",51,77,1934
+55,039,59,003,DS,"Other Flows - Midwest",177,324,8731
+55,039,59,005,DS,"Other Flows - South",179,340,8425
+55,039,59,007,DS,"Other Flows - West",100,178,4952
+55,039,57,009,FR,"Foreign - Other flows",20,30,595
+55,041,96,000,WI,"Forest County Tot Mig-US & For",213,384,5894
+55,041,97,000,WI,"Forest County Tot Mig-US",213,384,5894
+55,041,97,001,WI,"Forest County Tot Mig-Same St",152,271,4382
+55,041,97,003,WI,"Forest County Tot Mig-Diff St",61,113,1512
+55,041,55,041,WI,"Forest County Non-Migrants",3142,7155,118134
+55,041,55,085,WI,"Oneida County",21,32,613
+55,041,55,009,WI,"Brown County",17,26,428
+55,041,55,083,WI,"Oconto County",13,32,331
+55,041,55,067,WI,"Langlade County",11,14,236
+55,041,58,000,SS,"Other Flows - Same State",90,167,2775
+55,041,59,000,DS,"Other Flows - Diff State",61,113,1512
+55,043,96,000,WI,"Grant County Tot Mig-US & For",1281,2127,36897
+55,043,97,000,WI,"Grant County Tot Mig-US",1281,2127,36897
+55,043,97,001,WI,"Grant County Tot Mig-Same St",842,1406,22996
+55,043,97,003,WI,"Grant County Tot Mig-Diff St",439,721,13901
+55,043,55,043,WI,"Grant County Non-Migrants",18164,41339,722418
+55,043,55,025,WI,"Dane County",221,299,6344
+55,043,55,049,WI,"Iowa County",93,171,2528
+55,043,55,023,WI,"Crawford County",85,157,2225
+55,043,19,061,IA,"Dubuque County",81,123,1916
+55,043,55,103,WI,"Richland County",68,155,1955
+55,043,55,065,WI,"Lafayette County",50,119,1014
+55,043,55,063,WI,"La Crosse County",43,49,921
+55,043,55,111,WI,"Sauk County",32,54,983
+55,043,17,085,IL,"Jo Daviess County",24,38,972
+55,043,55,079,WI,"Milwaukee County",22,28,618
+55,043,55,105,WI,"Rock County",22,37,584
+55,043,55,139,WI,"Winnebago County",19,27,388
+55,043,55,009,WI,"Brown County",15,25,493
+55,043,17,031,IL,"Cook County",14,18,416
+55,043,27,053,MN,"Hennepin County",14,15,309
+55,043,55,133,WI,"Waukesha County",13,26,449
+55,043,55,127,WI,"Walworth County",12,12,200
+55,043,58,000,SS,"Other Flows - Same State",147,247,4295
+55,043,59,000,DS,"Other Flows - Diff State",306,527,10288
+55,045,96,000,WI,"Green County Tot Mig-US & For",840,1464,29020
+55,045,97,000,WI,"Green County Tot Mig-US",840,1464,29020
+55,045,97,001,WI,"Green County Tot Mig-Same St",581,1026,19416
+55,045,97,003,WI,"Green County Tot Mig-Diff St",259,438,9604
+55,045,55,045,WI,"Green County Non-Migrants",13336,30066,626345
+55,045,55,025,WI,"Dane County",224,334,7748
+55,045,55,105,WI,"Rock County",122,235,3669
+55,045,55,065,WI,"Lafayette County",59,125,2099
+55,045,17,177,IL,"Stephenson County",25,51,676
+55,045,55,079,WI,"Milwaukee County",15,25,386
+55,045,17,031,IL,"Cook County",14,25,1524
+55,045,17,201,IL,"Winnebago County",14,31,631
+55,045,55,043,WI,"Grant County",14,21,312
+55,045,55,127,WI,"Walworth County",13,28,477
+55,045,55,133,WI,"Waukesha County",13,18,368
+55,045,55,049,WI,"Iowa County",12,25,478
+55,045,58,000,SS,"Other Flows - Same State",109,215,3880
+55,045,59,000,DS,"Other Flows - Diff State",206,331,6773
+55,045,59,001,DS,"Other Flows - Northeast",12,17,412
+55,045,59,003,DS,"Other Flows - Midwest",92,169,3600
+55,045,59,005,DS,"Other Flows - South",61,87,1587
+55,045,59,007,DS,"Other Flows - West",41,58,1175
+55,047,96,000,WI,"Green Lake Coun Tot Mig-US & For",544,945,16658
+55,047,97,000,WI,"Green Lake Coun Tot Mig-US",544,945,16658
+55,047,97,001,WI,"Green Lake Coun Tot Mig-Same St",436,762,13538
+55,047,97,003,WI,"Green Lake Coun Tot Mig-Diff St",108,183,3120
+55,047,55,047,WI,"Green Lake Coun Non-Migrants",7452,16478,323004
+55,047,55,039,WI,"Fond Du Lac County",111,193,3104
+55,047,55,139,WI,"Winnebago County",84,136,2416
+55,047,55,137,WI,"Waushara County",34,73,1094
+55,047,55,027,WI,"Dodge County",31,57,823
+55,047,55,077,WI,"Marquette County",25,45,870
+55,047,55,025,WI,"Dane County",21,25,609
+55,047,55,079,WI,"Milwaukee County",17,27,331
+55,047,55,021,WI,"Columbia County",16,23,462
+55,047,55,087,WI,"Outagamie County",12,20,390
+55,047,58,000,SS,"Other Flows - Same State",85,163,3439
+55,047,59,000,DS,"Other Flows - Diff State",108,183,3120
+55,049,96,000,WI,"Iowa County Tot Mig-US & For",574,1031,19333
+55,049,97,000,WI,"Iowa County Tot Mig-US",574,1031,19333
+55,049,97,001,WI,"Iowa County Tot Mig-Same St",452,802,14899
+55,049,97,003,WI,"Iowa County Tot Mig-Diff St",122,229,4434
+55,049,55,049,WI,"Iowa County Non-Migrants",8080,18587,363249
+55,049,55,025,WI,"Dane County",191,305,6633
+55,049,55,043,WI,"Grant County",73,151,1907
+55,049,55,065,WI,"Lafayette County",37,84,1444
+55,049,55,111,WI,"Sauk County",37,68,1027
+55,049,55,103,WI,"Richland County",30,50,912
+55,049,55,023,WI,"Crawford County",10,21,397
+55,049,55,045,WI,"Green County",10,17,491
+55,049,58,000,SS,"Other Flows - Same State",64,106,2088
+55,049,59,000,DS,"Other Flows - Diff State",122,229,4434
+55,051,96,000,WI,"Iron County Tot Mig-US & For",172,272,4222
+55,051,97,000,WI,"Iron County Tot Mig-US",172,272,4222
+55,051,97,001,WI,"Iron County Tot Mig-Same St",80,112,1850
+55,051,97,003,WI,"Iron County Tot Mig-Diff St",92,160,2372
+55,051,55,051,WI,"Iron County Non-Migrants",2395,5012,89268
+55,051,26,053,MI,"Gogebic County",35,68,777
+55,051,58,000,SS,"Other Flows - Same State",80,112,1850
+55,051,59,000,DS,"Other Flows - Diff State",57,92,1595
+55,053,96,000,WI,"Jackson County Tot Mig-US & For",435,763,10981
+55,053,97,000,WI,"Jackson County Tot Mig-US",435,763,10981
+55,053,97,001,WI,"Jackson County Tot Mig-Same St",333,586,8818
+55,053,97,003,WI,"Jackson County Tot Mig-Diff St",102,177,2164
+55,053,55,053,WI,"Jackson County Non-Migrants",6773,15056,261137
+55,053,55,121,WI,"Trempealeau County",59,110,1609
+55,053,55,035,WI,"Eau Claire County",40,75,922
+55,053,55,063,WI,"La Crosse County",40,72,1353
+55,053,55,081,WI,"Monroe County",34,61,711
+55,053,55,019,WI,"Clark County",24,44,809
+55,053,55,025,WI,"Dane County",22,26,478
+55,053,55,079,WI,"Milwaukee County",11,16,179
+55,053,58,000,SS,"Other Flows - Same State",103,182,2756
+55,053,59,000,DS,"Other Flows - Diff State",102,177,2164
+55,055,96,000,WI,"Jefferson Count Tot Mig-US & For",2442,4286,82673
+55,055,97,000,WI,"Jefferson Count Tot Mig-US",2432,4270,82431
+55,055,97,001,WI,"Jefferson Count Tot Mig-Same St",1877,3256,62714
+55,055,97,003,WI,"Jefferson Count Tot Mig-Diff St",555,1014,19717
+55,055,98,000,WI,"Jefferson Count Tot Mig-Foreign",10,16,242
+55,055,55,055,WI,"Jefferson Count Non-Migrants",29031,64866,1493784
+55,055,55,025,WI,"Dane County",397,601,13706
+55,055,55,027,WI,"Dodge County",396,792,14705
+55,055,55,133,WI,"Waukesha County",333,577,9195
+55,055,55,079,WI,"Milwaukee County",157,220,4621
+55,055,55,105,WI,"Rock County",126,222,3618
+55,055,55,127,WI,"Walworth County",122,221,4510
+55,055,55,131,WI,"Washington County",34,58,1565
+55,055,55,021,WI,"Columbia County",31,62,973
+55,055,04,013,AZ,"Maricopa County",23,32,814
+55,055,55,001,WI,"Adams County",19,44,842
+55,055,27,053,MN,"Hennepin County",17,22,592
+55,055,55,009,WI,"Brown County",16,23,462
+55,055,17,031,IL,"Cook County",15,19,535
+55,055,55,111,WI,"Sauk County",15,25,392
+55,055,55,101,WI,"Racine County",14,20,475
+55,055,55,139,WI,"Winnebago County",12,13,304
+55,055,55,039,WI,"Fond Du Lac County",11,23,358
+55,055,55,063,WI,"La Crosse County",10,20,401
+55,055,58,000,SS,"Other Flows - Same State",184,335,6587
+55,055,59,000,DS,"Other Flows - Diff State",500,941,17777
+55,055,59,001,DS,"Other Flows - Northeast",27,43,1235
+55,055,59,003,DS,"Other Flows - Midwest",198,386,6966
+55,055,59,005,DS,"Other Flows - South",154,283,4486
+55,055,59,007,DS,"Other Flows - West",121,229,5090
+55,055,57,009,FR,"Foreign - Other flows",10,16,242
+55,057,96,000,WI,"Juneau County Tot Mig-US & For",693,1259,19710
+55,057,97,000,WI,"Juneau County Tot Mig-US",693,1259,19710
+55,057,97,001,WI,"Juneau County Tot Mig-Same St",534,973,15251
+55,057,97,003,WI,"Juneau County Tot Mig-Diff St",159,286,4460
+55,057,55,057,WI,"Juneau County Non-Migrants",9251,20484,356383
+55,057,55,111,WI,"Sauk County",110,206,3012
+55,057,55,081,WI,"Monroe County",91,187,2697
+55,057,55,025,WI,"Dane County",64,95,1833
+55,057,55,063,WI,"La Crosse County",33,39,739
+55,057,55,001,WI,"Adams County",32,64,784
+55,057,55,141,WI,"Wood County",23,37,731
+55,057,55,123,WI,"Vernon County",19,40,878
+55,057,55,021,WI,"Columbia County",16,29,622
+55,057,55,079,WI,"Milwaukee County",16,22,449
+55,057,55,103,WI,"Richland County",10,26,362
+55,057,58,000,SS,"Other Flows - Same State",120,228,3143
+55,057,59,000,DS,"Other Flows - Diff State",159,286,4460
+55,059,96,000,WI,"Kenosha County Tot Mig-US & For",3660,6823,149848
+55,059,97,000,WI,"Kenosha County Tot Mig-US",3626,6759,148823
+55,059,97,001,WI,"Kenosha County Tot Mig-Same St",1646,2993,62289
+55,059,97,003,WI,"Kenosha County Tot Mig-Diff St",1980,3766,86534
+55,059,98,000,WI,"Kenosha County Tot Mig-Foreign",34,64,1025
+55,059,55,059,WI,"Kenosha County Non-Migrants",55135,122949,2789930
+55,059,55,101,WI,"Racine County",661,1235,24768
+55,059,17,097,IL,"Lake County",456,822,19135
+55,059,55,079,WI,"Milwaukee County",284,400,9456
+55,059,17,031,IL,"Cook County",193,338,8308
+55,059,55,127,WI,"Walworth County",159,315,5499
+55,059,55,025,WI,"Dane County",84,116,3014
+55,059,55,133,WI,"Waukesha County",68,134,3346
+55,059,17,111,IL,"Mchenry County",51,105,3348
+55,059,04,013,AZ,"Maricopa County",46,73,1515
+55,059,17,043,IL,"Du Page County",34,55,1847
+55,059,06,073,CA,"San Diego County",27,50,793
+55,059,27,053,MN,"Hennepin County",27,32,978
+55,059,55,139,WI,"Winnebago County",26,38,808
+55,059,55,131,WI,"Washington County",21,51,1036
+55,059,48,439,TX,"Tarrant County",19,48,891
+55,059,32,003,NV,"Clark County",17,33,851
+55,059,17,089,IL,"Kane County",16,29,1321
+55,059,55,001,WI,"Adams County",16,29,549
+55,059,17,197,IL,"Will County",15,32,716
+55,059,55,117,WI,"Sheboygan County",15,29,822
+55,059,06,037,CA,"Los Angeles County",14,17,371
+55,059,12,103,FL,"Pinellas County",14,25,861
+55,059,48,029,TX,"Bexar County",14,30,532
+55,059,55,009,WI,"Brown County",14,29,782
+55,059,12,031,FL,"Duval County",13,22,346
+55,059,55,035,WI,"Eau Claire County",13,31,770
+55,059,55,125,WI,"Vilas County",13,23,474
+55,059,04,019,AZ,"Pima County",12,22,3796
+55,059,55,105,WI,"Rock County",12,31,478
+55,059,55,141,WI,"Wood County",12,34,413
+55,059,12,011,FL,"Broward County",11,17,343
+55,059,12,095,FL,"Orange County",11,21,342
+55,059,27,123,MN,"Ramsey County",11,12,244
+55,059,48,201,TX,"Harris County",11,21,354
+55,059,55,089,WI,"Ozaukee County",11,25,560
+55,059,55,039,WI,"Fond Du Lac County",10,26,361
+55,059,55,063,WI,"La Crosse County",10,15,437
+55,059,55,085,WI,"Oneida County",10,20,285
+55,059,55,087,WI,"Outagamie County",10,21,705
+55,059,55,097,WI,"Portage County",10,16,261
+55,059,55,111,WI,"Sauk County",10,21,264
+55,059,55,135,WI,"Waupaca County",10,18,236
+55,059,58,000,SS,"Other Flows - Same State",167,336,6964
+55,059,59,000,DS,"Other Flows - Diff State",968,1962,39644
+55,059,59,001,DS,"Other Flows - Northeast",65,104,3418
+55,059,59,003,DS,"Other Flows - Midwest",319,619,12478
+55,059,59,005,DS,"Other Flows - South",412,913,15937
+55,059,59,007,DS,"Other Flows - West",172,326,7810
+55,059,57,009,FR,"Foreign - Other flows",34,64,1025
+55,061,96,000,WI,"Kewaunee County Tot Mig-US & For",392,643,11748
+55,061,97,000,WI,"Kewaunee County Tot Mig-US",392,643,11748
+55,061,97,001,WI,"Kewaunee County Tot Mig-Same St",332,551,10336
+55,061,97,003,WI,"Kewaunee County Tot Mig-Diff St",60,92,1412
+55,061,55,061,WI,"Kewaunee County Non-Migrants",6832,15453,309964
+55,061,55,009,WI,"Brown County",182,287,5525
+55,061,55,029,WI,"Door County",31,59,1067
+55,061,55,071,WI,"Manitowoc County",21,37,785
+55,061,55,087,WI,"Outagamie County",13,22,401
+55,061,55,025,WI,"Dane County",11,14,391
+55,061,55,079,WI,"Milwaukee County",10,14,256
+55,061,55,139,WI,"Winnebago County",10,10,198
+55,061,58,000,SS,"Other Flows - Same State",54,108,1714
+55,061,59,000,DS,"Other Flows - Diff State",60,92,1412
+55,063,96,000,WI,"La Crosse Count Tot Mig-US & For",2630,4305,86657
+55,063,97,000,WI,"La Crosse Count Tot Mig-US",2610,4281,86314
+55,063,97,001,WI,"La Crosse Count Tot Mig-Same St",1283,2131,39383
+55,063,97,003,WI,"La Crosse Count Tot Mig-Diff St",1327,2150,46931
+55,063,98,000,WI,"La Crosse Count Tot Mig-Foreign",20,24,343
+55,063,55,063,WI,"La Crosse Count Non-Migrants",37878,82863,1970522
+55,063,55,025,WI,"Dane County",175,254,5292
+55,063,55,123,WI,"Vernon County",153,270,4876
+55,063,55,081,WI,"Monroe County",144,263,3660
+55,063,27,053,MN,"Hennepin County",130,148,3180
+55,063,27,055,MN,"Houston County",110,199,4395
+55,063,55,121,WI,"Trempealeau County",106,205,3568
+55,063,55,079,WI,"Milwaukee County",78,122,2338
+55,063,27,109,MN,"Olmsted County",68,114,2496
+55,063,55,053,WI,"Jackson County",59,88,1087
+55,063,27,123,MN,"Ramsey County",57,83,1263
+55,063,55,035,WI,"Eau Claire County",54,82,1588
+55,063,27,169,MN,"Winona County",48,71,1419
+55,063,17,031,IL,"Cook County",39,49,1210
+55,063,27,037,MN,"Dakota County",39,62,1492
+55,063,55,009,WI,"Brown County",31,59,1216
+55,063,55,133,WI,"Waukesha County",30,46,1009
+55,063,04,013,AZ,"Maricopa County",28,50,1010
+55,063,55,023,WI,"Crawford County",27,41,919
+55,063,55,141,WI,"Wood County",23,39,655
+55,063,55,057,WI,"Juneau County",21,44,687
+55,063,55,043,WI,"Grant County",20,30,388
+55,063,55,087,WI,"Outagamie County",20,35,788
+55,063,55,139,WI,"Winnebago County",20,31,663
+55,063,55,017,WI,"Chippewa County",18,30,612
+55,063,55,097,WI,"Portage County",15,25,630
+55,063,55,073,WI,"Marathon County",14,29,400
+55,063,55,109,WI,"St Croix County",14,27,451
+55,063,55,011,WI,"Buffalo County",13,28,555
+55,063,55,101,WI,"Racine County",13,21,403
+55,063,55,103,WI,"Richland County",13,17,320
+55,063,55,111,WI,"Sauk County",13,16,345
+55,063,17,043,IL,"Du Page County",12,15,347
+55,063,19,153,IA,"Polk County",12,21,455
+55,063,55,055,WI,"Jefferson County",12,16,274
+55,063,27,045,MN,"Fillmore County",11,14,187
+55,063,55,127,WI,"Walworth County",11,23,495
+55,063,19,005,IA,"Allamakee County",10,20,282
+55,063,55,033,WI,"Dunn County",10,17,156
+55,063,55,039,WI,"Fond Du Lac County",10,13,252
+55,063,55,105,WI,"Rock County",10,11,273
+55,063,55,117,WI,"Sheboygan County",10,14,145
+55,063,58,000,SS,"Other Flows - Same State",146,235,5339
+55,063,59,000,DS,"Other Flows - Diff State",763,1304,29196
+55,063,59,001,DS,"Other Flows - Northeast",37,58,1534
+55,063,59,003,DS,"Other Flows - Midwest",322,567,12853
+55,063,59,005,DS,"Other Flows - South",230,399,7697
+55,063,59,007,DS,"Other Flows - West",174,280,7112
+55,063,57,009,FR,"Foreign - Other flows",20,24,343
+55,065,96,000,WI,"Lafayette Count Tot Mig-US & For",387,643,10954
+55,065,97,000,WI,"Lafayette Count Tot Mig-US",387,643,10954
+55,065,97,001,WI,"Lafayette Count Tot Mig-Same St",291,474,7991
+55,065,97,003,WI,"Lafayette Count Tot Mig-Diff St",96,169,2963
+55,065,55,065,WI,"Lafayette Count Non-Migrants",5596,12988,202252
+55,065,55,045,WI,"Green County",75,123,1826
+55,065,55,025,WI,"Dane County",60,80,1870
+55,065,55,043,WI,"Grant County",60,114,1564
+55,065,55,049,WI,"Iowa County",26,44,664
+55,065,55,105,WI,"Rock County",11,20,400
+55,065,17,085,IL,"Jo Daviess County",10,24,252
+55,065,58,000,SS,"Other Flows - Same State",59,93,1667
+55,065,59,000,DS,"Other Flows - Diff State",86,145,2711
+55,067,96,000,WI,"Langlade County Tot Mig-US & For",425,747,11036
+55,067,97,000,WI,"Langlade County Tot Mig-US",425,747,11036
+55,067,97,001,WI,"Langlade County Tot Mig-Same St",323,571,8365
+55,067,97,003,WI,"Langlade County Tot Mig-Diff St",102,176,2671
+55,067,55,067,WI,"Langlade County Non-Migrants",7549,16742,304314
+55,067,55,073,WI,"Marathon County",79,143,1956
+55,067,55,069,WI,"Lincoln County",21,37,569
+55,067,55,085,WI,"Oneida County",20,30,516
+55,067,55,115,WI,"Shawano County",20,37,424
+55,067,55,139,WI,"Winnebago County",20,31,675
+55,067,55,025,WI,"Dane County",17,23,391
+55,067,55,087,WI,"Outagamie County",17,32,457
+55,067,55,009,WI,"Brown County",15,28,557
+55,067,55,079,WI,"Milwaukee County",12,17,247
+55,067,55,041,WI,"Forest County",10,17,193
+55,067,58,000,SS,"Other Flows - Same State",92,176,2381
+55,067,59,000,DS,"Other Flows - Diff State",102,176,2671
+55,069,96,000,WI,"Lincoln County Tot Mig-US & For",696,1133,20825
+55,069,97,000,WI,"Lincoln County Tot Mig-US",696,1133,20825
+55,069,97,001,WI,"Lincoln County Tot Mig-Same St",546,895,15827
+55,069,97,003,WI,"Lincoln County Tot Mig-Diff St",150,238,4998
+55,069,55,069,WI,"Lincoln County Non-Migrants",11722,26346,510441
+55,069,55,073,WI,"Marathon County",213,355,5966
+55,069,55,085,WI,"Oneida County",59,100,2126
+55,069,55,097,WI,"Portage County",27,43,627
+55,069,55,025,WI,"Dane County",18,25,476
+55,069,55,079,WI,"Milwaukee County",17,23,540
+55,069,55,087,WI,"Outagamie County",16,29,480
+55,069,55,139,WI,"Winnebago County",14,20,355
+55,069,55,067,WI,"Langlade County",12,23,368
+55,069,55,133,WI,"Waukesha County",11,13,316
+55,069,55,141,WI,"Wood County",11,15,644
+55,069,55,035,WI,"Eau Claire County",10,10,181
+55,069,55,099,WI,"Price County",10,18,293
+55,069,58,000,SS,"Other Flows - Same State",128,221,3455
+55,069,59,000,DS,"Other Flows - Diff State",150,238,4998
+55,071,96,000,WI,"Manitowoc Count Tot Mig-US & For",1424,2340,49724
+55,071,97,000,WI,"Manitowoc Count Tot Mig-US",1424,2340,49724
+55,071,97,001,WI,"Manitowoc Count Tot Mig-Same St",994,1584,33138
+55,071,97,003,WI,"Manitowoc Count Tot Mig-Diff St",430,756,16586
+55,071,55,071,WI,"Manitowoc Count Non-Migrants",31202,69659,1487611
+55,071,55,009,WI,"Brown County",180,281,6000
+55,071,55,117,WI,"Sheboygan County",165,259,5804
+55,071,55,015,WI,"Calumet County",116,201,3589
+55,071,55,079,WI,"Milwaukee County",102,135,2644
+55,071,55,025,WI,"Dane County",73,101,2752
+55,071,55,087,WI,"Outagamie County",52,83,1503
+55,071,55,139,WI,"Winnebago County",47,63,1159
+55,071,55,061,WI,"Kewaunee County",23,40,987
+55,071,55,133,WI,"Waukesha County",21,38,1468
+55,071,17,031,IL,"Cook County",20,26,393
+55,071,55,029,WI,"Door County",18,34,603
+55,071,27,053,MN,"Hennepin County",16,20,456
+55,071,55,039,WI,"Fond Du Lac County",15,21,414
+55,071,04,013,AZ,"Maricopa County",13,19,478
+55,071,55,075,WI,"Marinette County",13,20,341
+55,071,55,131,WI,"Washington County",12,18,429
+55,071,55,083,WI,"Oconto County",11,20,274
+55,071,58,000,SS,"Other Flows - Same State",146,270,5172
+55,071,59,000,DS,"Other Flows - Diff State",381,691,15259
+55,071,59,001,DS,"Other Flows - Northeast",33,54,1422
+55,071,59,003,DS,"Other Flows - Midwest",153,294,7776
+55,071,59,005,DS,"Other Flows - South",128,239,4027
+55,071,59,007,DS,"Other Flows - West",67,104,2034
+55,073,96,000,WI,"Marathon County Tot Mig-US & For",2589,4568,102837
+55,073,97,000,WI,"Marathon County Tot Mig-US",2573,4544,102362
+55,073,97,001,WI,"Marathon County Tot Mig-Same St",1707,2949,61291
+55,073,97,003,WI,"Marathon County Tot Mig-Diff St",866,1595,41072
+55,073,98,000,WI,"Marathon County Tot Mig-Foreign",16,24,474
+55,073,55,073,WI,"Marathon County Non-Migrants",46983,108168,2379629
+55,073,55,069,WI,"Lincoln County",177,314,6399
+55,073,55,141,WI,"Wood County",169,286,5326
+55,073,55,025,WI,"Dane County",167,248,7097
+55,073,55,097,WI,"Portage County",138,215,4245
+55,073,55,019,WI,"Clark County",101,215,3289
+55,073,55,079,WI,"Milwaukee County",89,125,2467
+55,073,55,009,WI,"Brown County",80,138,2743
+55,073,27,053,MN,"Hennepin County",73,98,2067
+55,073,55,067,WI,"Langlade County",67,119,1788
+55,073,55,115,WI,"Shawano County",61,117,1846
+55,073,55,085,WI,"Oneida County",54,93,5467
+55,073,55,035,WI,"Eau Claire County",52,79,1406
+55,073,55,139,WI,"Winnebago County",52,80,1396
+55,073,55,087,WI,"Outagamie County",50,75,1673
+55,073,55,133,WI,"Waukesha County",39,74,1608
+55,073,27,123,MN,"Ramsey County",33,67,1024
+55,073,55,119,WI,"Taylor County",31,58,983
+55,073,55,063,WI,"La Crosse County",28,43,1090
+55,073,17,031,IL,"Cook County",26,40,1119
+55,073,55,105,WI,"Rock County",23,40,732
+55,073,04,013,AZ,"Maricopa County",22,41,686
+55,073,55,135,WI,"Waupaca County",21,38,588
+55,073,55,017,WI,"Chippewa County",20,41,777
+55,073,55,125,WI,"Vilas County",20,43,673
+55,073,55,033,WI,"Dunn County",19,35,452
+55,073,55,015,WI,"Calumet County",17,42,697
+55,073,27,037,MN,"Dakota County",16,30,767
+55,073,55,099,WI,"Price County",15,19,506
+55,073,55,131,WI,"Washington County",15,34,623
+55,073,27,163,MN,"Washington County",13,21,523
+55,073,55,117,WI,"Sheboygan County",13,28,353
+55,073,08,005,CO,"Arapahoe County",12,19,569
+55,073,17,043,IL,"Du Page County",12,22,689
+55,073,55,021,WI,"Columbia County",12,22,460
+55,073,27,003,MN,"Anoka County",10,19,402
+55,073,55,039,WI,"Fond Du Lac County",10,23,405
+55,073,55,055,WI,"Jefferson County",10,27,551
+55,073,55,071,WI,"Manitowoc County",10,17,250
+55,073,55,089,WI,"Ozaukee County",10,14,293
+55,073,55,111,WI,"Sauk County",10,21,414
+55,073,58,000,SS,"Other Flows - Same State",127,226,4692
+55,073,59,000,DS,"Other Flows - Diff State",649,1238,33224
+55,073,59,001,DS,"Other Flows - Northeast",57,143,3927
+55,073,59,003,DS,"Other Flows - Midwest",236,457,14369
+55,073,59,005,DS,"Other Flows - South",202,360,7535
+55,073,59,007,DS,"Other Flows - West",154,278,7393
+55,073,57,009,FR,"Foreign - Other flows",16,24,474
+55,075,96,000,WI,"Marinette Count Tot Mig-US & For",1097,1890,33358
+55,075,97,000,WI,"Marinette Count Tot Mig-US",1097,1890,33358
+55,075,97,001,WI,"Marinette Count Tot Mig-Same St",612,972,16688
+55,075,97,003,WI,"Marinette Count Tot Mig-Diff St",485,918,16671
+55,075,55,075,WI,"Marinette Count Non-Migrants",15886,35628,644521
+55,075,55,009,WI,"Brown County",208,301,5485
+55,075,26,109,MI,"Menominee County",142,250,4282
+55,075,55,083,WI,"Oconto County",94,181,2387
+55,075,55,079,WI,"Milwaukee County",51,70,1410
+55,075,26,043,MI,"Dickinson County",41,79,1222
+55,075,55,139,WI,"Winnebago County",37,48,930
+55,075,55,087,WI,"Outagamie County",33,46,1169
+55,075,55,025,WI,"Dane County",24,35,678
+55,075,55,133,WI,"Waukesha County",20,30,527
+55,075,27,053,MN,"Hennepin County",13,17,413
+55,075,55,037,WI,"Florence County",12,26,317
+55,075,55,071,WI,"Manitowoc County",11,16,185
+55,075,58,000,SS,"Other Flows - Same State",122,219,3598
+55,075,59,000,DS,"Other Flows - Diff State",289,572,10753
+55,075,59,001,DS,"Other Flows - Northeast",24,49,660
+55,075,59,003,DS,"Other Flows - Midwest",123,239,6073
+55,075,59,005,DS,"Other Flows - South",74,154,2045
+55,075,59,007,DS,"Other Flows - West",68,130,1976
+55,077,96,000,WI,"Marquette Count Tot Mig-US & For",438,809,12291
+55,077,97,000,WI,"Marquette Count Tot Mig-US",438,809,12291
+55,077,97,001,WI,"Marquette Count Tot Mig-Same St",366,688,9778
+55,077,97,003,WI,"Marquette Count Tot Mig-Diff St",72,121,2512
+55,077,55,077,WI,"Marquette Count Non-Migrants",5008,10776,186085
+55,077,55,021,WI,"Columbia County",88,183,2417
+55,077,55,001,WI,"Adams County",43,92,1276
+55,077,55,025,WI,"Dane County",41,61,1194
+55,077,55,047,WI,"Green Lake County",30,59,916
+55,077,55,137,WI,"Waushara County",21,39,540
+55,077,55,139,WI,"Winnebago County",17,25,422
+55,077,55,039,WI,"Fond Du Lac County",16,29,541
+55,077,55,111,WI,"Sauk County",13,18,346
+55,077,58,000,SS,"Other Flows - Same State",97,182,2126
+55,077,59,000,DS,"Other Flows - Diff State",72,121,2512
+55,078,96,000,WI,"Menominee Count Tot Mig-US & For",103,189,2225
+55,078,97,000,WI,"Menominee Count Tot Mig-US",103,189,2225
+55,078,97,001,WI,"Menominee Count Tot Mig-Same St",85,160,1876
+55,078,97,003,WI,"Menominee Count Tot Mig-Diff St",18,29,348
+55,078,55,078,WI,"Menominee Count Non-Migrants",1573,3790,44807
+55,078,55,115,WI,"Shawano County",43,90,1059
+55,078,55,009,WI,"Brown County",12,25,244
+55,078,58,000,SS,"Other Flows - Same State",30,45,574
+55,078,59,000,DS,"Other Flows - Diff State",18,29,348
+55,079,96,000,WI,"Milwaukee Count Tot Mig-US & For",18872,34016,920966
+55,079,97,000,WI,"Milwaukee Count Tot Mig-US",18650,33661,914351
+55,079,97,001,WI,"Milwaukee Count Tot Mig-Same St",10798,19919,550067
+55,079,97,003,WI,"Milwaukee Count Tot Mig-Diff St",7852,13742,364284
+55,079,98,000,WI,"Milwaukee Count Tot Mig-Foreign",222,355,6615
+55,079,55,079,WI,"Milwaukee Count Non-Migrants",346654,706849,16241410
+55,079,55,133,WI,"Waukesha County",4596,8593,248078
+55,079,55,131,WI,"Washington County",955,1818,49775
+55,079,55,089,WI,"Ozaukee County",943,1819,76658
+55,079,55,101,WI,"Racine County",907,1795,41462
+55,079,17,031,IL,"Cook County",887,1361,34519
+55,079,55,025,WI,"Dane County",582,861,20552
+55,079,04,013,AZ,"Maricopa County",270,421,14664
+55,079,27,053,MN,"Hennepin County",243,343,13758
+55,079,55,127,WI,"Walworth County",226,436,9611
+55,079,55,059,WI,"Kenosha County",212,362,9042
+55,079,55,009,WI,"Brown County",207,368,6984
+55,079,55,117,WI,"Sheboygan County",192,356,7231
+55,079,55,055,WI,"Jefferson County",164,317,6763
+55,079,55,027,WI,"Dodge County",156,307,6350
+55,079,06,037,CA,"Los Angeles County",146,229,4490
+55,079,55,139,WI,"Winnebago County",140,241,4942
+55,079,17,097,IL,"Lake County",138,261,12670
+55,079,32,003,NV,"Clark County",130,225,11500
+55,079,55,039,WI,"Fond Du Lac County",124,214,4725
+55,079,06,073,CA,"San Diego County",117,163,4191
+55,079,55,087,WI,"Outagamie County",116,198,4094
+55,079,17,043,IL,"Du Page County",110,190,4565
+55,079,27,123,MN,"Ramsey County",95,150,2749
+55,079,48,201,TX,"Harris County",78,157,2807
+55,079,53,033,WA,"King County",76,117,3697
+55,079,48,113,TX,"Dallas County",73,126,2516
+55,079,55,073,WI,"Marathon County",71,122,2741
+55,079,57,005,FR,"Foreign - APO/FPO ZIPs",70,86,1285
+55,079,12,095,FL,"Orange County",67,143,1977
+55,079,55,105,WI,"Rock County",67,109,2300
+55,079,55,071,WI,"Manitowoc County",66,113,2157
+55,079,55,075,WI,"Marinette County",64,122,2048
+55,079,36,061,NY,"New York County",63,81,4704
+55,079,29,189,MO,"St Louis County",59,121,2689
+55,079,55,085,WI,"Oneida County",57,108,8616
+55,079,06,059,CA,"Orange County",55,72,4051
+55,079,55,001,WI,"Adams County",55,105,2078
+55,079,47,157,TN,"Shelby County",54,113,1206
+55,079,13,089,GA,"De Kalb County",53,93,1547
+55,079,18,097,IN,"Marion County",52,84,1494
+55,079,55,115,WI,"Shawano County",51,83,1581
+55,079,04,019,AZ,"Pima County",50,84,3019
+55,079,06,001,CA,"Alameda County",49,66,2342
+55,079,06,085,CA,"Santa Clara County",49,67,3388
+55,079,08,031,CO,"Denver County",49,58,2051
+55,079,12,011,FL,"Broward County",49,86,1941
+55,079,27,037,MN,"Dakota County",49,83,2203
+55,079,55,137,WI,"Waushara County",49,82,1958
+55,079,13,067,GA,"Cobb County",48,75,1609
+55,079,55,063,WI,"La Crosse County",48,78,2561
+55,079,12,025,FL,"Dade County",45,62,3087
+55,079,12,057,FL,"Hillsborough County",45,110,1481
+55,079,12,103,FL,"Pinellas County",42,81,1722
+55,079,41,051,OR,"Multnomah County",42,51,1684
+55,079,55,125,WI,"Vilas County",42,81,1692
+55,079,55,035,WI,"Eau Claire County",41,86,1504
+55,079,55,097,WI,"Portage County",41,65,1308
+55,079,12,071,FL,"Lee County",40,74,7833
+55,079,17,201,IL,"Winnebago County",40,74,1335
+55,079,26,125,MI,"Oakland County",40,73,2180
+55,079,39,035,OH,"Cuyahoga County",40,85,3954
+55,079,55,135,WI,"Waupaca County",40,78,1589
+55,079,48,029,TX,"Bexar County",39,81,1352
+55,079,12,099,FL,"Palm Beach County",38,59,3087
+55,079,36,047,NY,"Kings County",38,53,856
+55,079,48,453,TX,"Travis County",38,50,2040
+55,079,18,089,IN,"Lake County",37,82,835
+55,079,55,083,WI,"Oconto County",37,67,1358
+55,079,55,111,WI,"Sauk County",37,71,1362
+55,079,13,121,GA,"Fulton County",36,61,2158
+55,079,25,017,MA,"Middlesex County",36,50,1728
+55,079,08,005,CO,"Arapahoe County",34,48,1613
+55,079,26,163,MI,"Wayne County",34,65,1099
+55,079,39,049,OH,"Franklin County",34,73,1171
+55,079,06,075,CA,"San Francisco County",33,39,1601
+55,079,55,021,WI,"Columbia County",33,46,1063
+55,079,55,029,WI,"Door County",33,55,1552
+55,079,26,081,MI,"Kent County",32,52,1403
+55,079,47,037,TN,"Davidson County",32,47,1267
+55,079,55,015,WI,"Calumet County",32,64,1469
+55,079,11,001,DC,"District Of Columbia",31,38,1243
+55,079,37,119,NC,"Mecklenburg County",31,59,1826
+55,079,48,439,TX,"Tarrant County",31,73,1339
+55,079,57,003,FR,"Foreign - Puerto Rico",31,80,490
+55,079,17,111,IL,"Mchenry County",30,39,1273
+55,079,08,041,CO,"El Paso County",29,60,1110
+55,079,12,021,FL,"Collier County",29,50,3244
+55,079,17,089,IL,"Kane County",29,62,1594
+55,079,31,055,NE,"Douglas County",29,49,1103
+55,079,17,197,IL,"Will County",27,54,1094
+55,079,55,047,WI,"Green Lake County",27,37,1238
+55,079,55,141,WI,"Wood County",27,42,763
+55,079,06,013,CA,"Contra Costa County",26,50,1508
+55,079,06,071,CA,"San Bernardino Count",26,46,532
+55,079,08,059,CO,"Jefferson County",26,49,1124
+55,079,25,025,MA,"Suffolk County",26,27,926
+55,079,42,101,PA,"Philadelphia County",26,48,1030
+55,079,09,003,CT,"Hartford County",25,60,1131
+55,079,26,161,MI,"Washtenaw County",25,41,1062
+55,079,55,069,WI,"Lincoln County",25,43,1057
+55,079,06,081,CA,"San Mateo County",24,33,1500
+55,079,12,115,FL,"Sarasota County",24,46,1255
+55,079,39,061,OH,"Hamilton County",24,33,1209
+55,079,06,065,CA,"Riverside County",23,40,971
+55,079,08,013,CO,"Boulder County",23,36,1193
+55,079,48,085,TX,"Collin County",23,41,1275
+55,079,51,059,VA,"Fairfax County",23,44,1467
+55,079,13,135,GA,"Gwinnett County",22,34,889
+55,079,29,510,MO,"St Louis",22,31,584
+55,079,55,067,WI,"Langlade County",22,40,704
+55,079,55,077,WI,"Marquette County",22,43,937
+55,079,19,153,IA,"Polk County",21,38,733
+55,079,22,071,LA,"Orleans Parish",21,35,597
+55,079,42,003,PA,"Allegheny County",21,36,1588
+55,079,55,041,WI,"Forest County",21,36,1028
+55,079,55,057,WI,"Juneau County",21,41,606
+55,079,12,031,FL,"Duval County",20,34,643
+55,079,49,035,UT,"Salt Lake County",20,34,1614
+55,079,55,081,WI,"Monroe County",20,32,707
+55,079,24,031,MD,"Montgomery County",19,32,954
+55,079,25,021,MA,"Norfolk County",19,26,1031
+55,079,27,003,MN,"Anoka County",19,36,775
+55,079,37,183,NC,"Wake County",19,30,722
+55,079,21,111,KY,"Jefferson County",18,38,1099
+55,079,29,095,MO,"Jackson County",18,33,970
+55,079,06,067,CA,"Sacramento County",17,39,684
+55,079,15,003,HI,"Honolulu County",17,30,315
+55,079,39,113,OH,"Montgomery County",17,25,768
+55,079,53,053,WA,"Pierce County",17,28,643
+55,079,01,073,AL,"Jefferson County",16,37,563
+55,079,12,117,FL,"Seminole County",16,39,985
+55,079,12,127,FL,"Volusia County",16,38,959
+55,079,17,019,IL,"Champaign County",16,30,675
+55,079,27,163,MN,"Washington County",16,30,949
+55,079,28,049,MS,"Hinds County",16,40,212
+55,079,36,081,NY,"Queens County",16,19,428
+55,079,55,033,WI,"Dunn County",16,23,442
+55,079,55,053,WI,"Jackson County",16,29,732
+55,079,08,035,CO,"Douglas County",15,35,1057
+55,079,09,001,CT,"Fairfield County",15,21,654
+55,079,12,097,FL,"Osceola County",15,32,459
+55,079,12,101,FL,"Pasco County",15,29,681
+55,079,18,057,IN,"Hamilton County",15,50,1395
+55,079,20,091,KS,"Johnson County",15,33,984
+55,079,35,001,NM,"Bernalillo County",15,22,434
+55,079,41,067,OR,"Washington County",15,22,809
+55,079,53,061,WA,"Snohomish County",15,25,858
+55,079,55,099,WI,"Price County",15,23,551
+55,079,05,119,AR,"Pulaski County",14,26,398
+55,079,08,001,CO,"Adams County",14,29,698
+55,079,12,009,FL,"Brevard County",14,22,517
+55,079,24,005,MD,"Baltimore County",14,37,1219
+55,079,26,065,MI,"Ingham County",14,18,268
+55,079,34,017,NJ,"Hudson County",14,20,552
+55,079,37,051,NC,"Cumberland County",14,28,350
+55,079,37,133,NC,"Onslow County",14,26,214
+55,079,39,095,OH,"Lucas County",14,25,648
+55,079,48,121,TX,"Denton County",14,32,704
+55,079,55,043,WI,"Grant County",14,19,423
+55,079,13,051,GA,"Chatham County",13,21,1246
+55,079,18,003,IN,"Allen County",13,29,721
+55,079,18,141,IN,"St Joseph County",13,27,621
+55,079,19,103,IA,"Johnson County",13,18,446
+55,079,27,169,MN,"Winona County",13,20,322
+55,079,28,007,MS,"Attala County",13,30,150
+55,079,48,215,TX,"Hidalgo County",13,28,374
+55,079,55,023,WI,"Crawford County",13,19,232
+55,079,04,021,AZ,"Pinal County",12,20,331
+55,079,12,069,FL,"Lake County",12,19,709
+55,079,12,081,FL,"Manatee County",12,18,675
+55,079,12,105,FL,"Polk County",12,30,678
+55,079,17,163,IL,"St Clair County",12,19,254
+55,079,19,113,IA,"Linn County",12,26,553
+55,079,26,049,MI,"Genesee County",12,16,506
+55,079,26,077,MI,"Kalamazoo County",12,23,295
+55,079,26,099,MI,"Macomb County",12,23,842
+55,079,26,103,MI,"Marquette County",12,20,355
+55,079,28,047,MS,"Harrison County",12,22,219
+55,079,45,019,SC,"Charleston County",12,23,655
+55,079,48,027,TX,"Bell County",12,20,226
+55,079,48,141,TX,"El Paso County",12,29,298
+55,079,55,017,WI,"Chippewa County",12,17,374
+55,079,55,061,WI,"Kewaunee County",12,26,467
+55,079,05,069,AR,"Jefferson County",11,28,138
+55,079,17,113,IL,"Mclean County",11,21,288
+55,079,22,051,LA,"Jefferson Parish",11,29,240
+55,079,26,021,MI,"Berrien County",11,34,526
+55,079,27,109,MN,"Olmsted County",11,20,456
+55,079,32,031,NV,"Washoe County",11,13,557
+55,079,34,027,NJ,"Morris County",11,19,486
+55,079,40,109,OK,"Oklahoma County",11,21,362
+55,079,47,093,TN,"Knox County",11,16,613
+55,079,48,491,TX,"Williamson County",11,30,739
+55,079,51,013,VA,"Arlington County",11,13,614
+55,079,51,510,VA,Alexandria,11,14,390
+55,079,53,011,WA,"Clark County",11,24,411
+55,079,55,103,WI,"Richland County",11,18,317
+55,079,55,113,WI,"Sawyer County",11,17,270
+55,079,01,097,AL,"Mobile County",10,23,242
+55,079,18,127,IN,"Porter County",10,15,230
+55,079,19,163,IA,"Scott County",10,18,332
+55,079,24,003,MD,"Anne Arundel County",10,20,206
+55,079,24,033,MD,"Prince George's Coun",10,15,304
+55,079,37,081,NC,"Guilford County",10,21,442
+55,079,40,143,OK,"Tulsa County",10,16,643
+55,079,47,113,TN,"Madison County",10,27,101
+55,079,55,003,WI,"Ashland County",10,15,113
+55,079,55,005,WI,"Barron County",10,20,444
+55,079,55,123,WI,"Vernon County",10,14,346
+55,079,58,000,SS,"Other Flows - Same State",79,145,3116
+55,079,59,000,DS,"Other Flows - Diff State",2142,4083,93367
+55,079,59,001,DS,"Other Flows - Northeast",294,554,17979
+55,079,59,003,DS,"Other Flows - Midwest",612,1178,25217
+55,079,59,005,DS,"Other Flows - South",880,1766,36426
+55,079,59,007,DS,"Other Flows - West",356,585,13744
+55,079,57,009,FR,"Foreign - Other flows",121,189,4840
+55,081,96,000,WI,"Monroe County Tot Mig-US & For",1007,1922,29697
+55,081,97,000,WI,"Monroe County Tot Mig-US",990,1883,28983
+55,081,97,001,WI,"Monroe County Tot Mig-Same St",645,1190,17261
+55,081,97,003,WI,"Monroe County Tot Mig-Diff St",345,693,11722
+55,081,98,000,WI,"Monroe County Tot Mig-Foreign",17,39,714
+55,081,55,081,WI,"Monroe County Non-Migrants",14394,32913,563296
+55,081,55,063,WI,"La Crosse County",200,322,5307
+55,081,55,057,WI,"Juneau County",91,189,2356
+55,081,55,025,WI,"Dane County",43,54,1051
+55,081,55,123,WI,"Vernon County",43,115,994
+55,081,55,053,WI,"Jackson County",34,58,939
+55,081,55,141,WI,"Wood County",21,39,502
+55,081,55,035,WI,"Eau Claire County",19,28,543
+55,081,55,079,WI,"Milwaukee County",19,26,446
+55,081,27,123,MN,"Ramsey County",12,14,272
+55,081,55,121,WI,"Trempealeau County",11,20,271
+55,081,27,169,MN,"Winona County",10,10,234
+55,081,55,087,WI,"Outagamie County",10,13,192
+55,081,58,000,SS,"Other Flows - Same State",154,326,4660
+55,081,59,000,DS,"Other Flows - Diff State",323,669,11216
+55,081,59,001,DS,"Other Flows - Northeast",20,36,806
+55,081,59,003,DS,"Other Flows - Midwest",146,313,5076
+55,081,59,005,DS,"Other Flows - South",89,194,2992
+55,081,59,007,DS,"Other Flows - West",68,126,2341
+55,081,57,009,FR,"Foreign - Other flows",17,39,714
+55,083,96,000,WI,"Oconto County Tot Mig-US & For",867,1457,26468
+55,083,97,000,WI,"Oconto County Tot Mig-US",867,1457,26468
+55,083,97,001,WI,"Oconto County Tot Mig-Same St",719,1185,22176
+55,083,97,003,WI,"Oconto County Tot Mig-Diff St",148,272,4292
+55,083,55,083,WI,"Oconto County Non-Migrants",12487,28268,533233
+55,083,55,009,WI,"Brown County",369,575,11689
+55,083,55,075,WI,"Marinette County",80,138,2138
+55,083,55,115,WI,"Shawano County",54,95,1656
+55,083,55,087,WI,"Outagamie County",49,83,1861
+55,083,55,079,WI,"Milwaukee County",17,20,332
+55,083,55,139,WI,"Winnebago County",16,25,338
+55,083,55,025,WI,"Dane County",13,20,308
+55,083,55,041,WI,"Forest County",12,32,325
+55,083,58,000,SS,"Other Flows - Same State",109,197,3528
+55,083,59,000,DS,"Other Flows - Diff State",148,272,4292
+55,083,59,001,DS,"Other Flows - Northeast",12,32,494
+55,083,59,003,DS,"Other Flows - Midwest",64,103,1966
+55,083,59,005,DS,"Other Flows - South",45,88,1396
+55,083,59,007,DS,"Other Flows - West",27,49,436
+55,085,96,000,WI,"Oneida County Tot Mig-US & For",996,1693,35822
+55,085,97,000,WI,"Oneida County Tot Mig-US",996,1693,35822
+55,085,97,001,WI,"Oneida County Tot Mig-Same St",641,1077,18775
+55,085,97,003,WI,"Oneida County Tot Mig-Diff St",355,616,17047
+55,085,55,085,WI,"Oneida County Non-Migrants",14225,30452,672042
+55,085,55,125,WI,"Vilas County",98,184,2838
+55,085,55,073,WI,"Marathon County",67,106,1659
+55,085,55,025,WI,"Dane County",55,68,1742
+55,085,55,069,WI,"Lincoln County",49,99,1550
+55,085,55,079,WI,"Milwaukee County",43,66,1150
+55,085,55,133,WI,"Waukesha County",26,44,821
+55,085,04,013,AZ,"Maricopa County",20,27,1249
+55,085,55,087,WI,"Outagamie County",19,31,467
+55,085,55,139,WI,"Winnebago County",19,34,469
+55,085,55,067,WI,"Langlade County",18,26,326
+55,085,55,097,WI,"Portage County",18,36,534
+55,085,55,009,WI,"Brown County",17,24,536
+55,085,55,041,WI,"Forest County",16,24,466
+55,085,55,141,WI,"Wood County",14,22,351
+55,085,17,031,IL,"Cook County",12,23,612
+55,085,55,099,WI,"Price County",12,18,253
+55,085,55,035,WI,"Eau Claire County",10,16,281
+55,085,55,059,WI,"Kenosha County",10,16,355
+55,085,58,000,SS,"Other Flows - Same State",150,263,4975
+55,085,59,000,DS,"Other Flows - Diff State",323,566,15186
+55,085,59,001,DS,"Other Flows - Northeast",17,28,613
+55,085,59,003,DS,"Other Flows - Midwest",143,241,5292
+55,085,59,005,DS,"Other Flows - South",96,171,6968
+55,085,59,007,DS,"Other Flows - West",67,126,2313
+55,087,96,000,WI,"Outagamie Count Tot Mig-US & For",4576,7961,178833
+55,087,97,000,WI,"Outagamie Count Tot Mig-US",4552,7920,177580
+55,087,97,001,WI,"Outagamie Count Tot Mig-Same St",3468,5957,128532
+55,087,97,003,WI,"Outagamie Count Tot Mig-Diff St",1084,1963,49048
+55,087,98,000,WI,"Outagamie Count Tot Mig-Foreign",24,41,1253
+55,087,55,087,WI,"Outagamie Count Non-Migrants",59562,137611,3335709
+55,087,55,139,WI,"Winnebago County",1158,1927,38040
+55,087,55,015,WI,"Calumet County",593,1140,25592
+55,087,55,009,WI,"Brown County",424,731,14627
+55,087,55,135,WI,"Waupaca County",246,442,9683
+55,087,55,025,WI,"Dane County",159,203,5658
+55,087,55,079,WI,"Milwaukee County",144,174,4984
+55,087,55,115,WI,"Shawano County",98,188,3630
+55,087,27,053,MN,"Hennepin County",56,94,2376
+55,087,17,031,IL,"Cook County",52,70,1635
+55,087,55,083,WI,"Oconto County",45,80,2119
+55,087,55,097,WI,"Portage County",42,64,1435
+55,087,55,133,WI,"Waukesha County",41,77,2414
+55,087,55,039,WI,"Fond Du Lac County",34,76,1822
+55,087,55,071,WI,"Manitowoc County",34,57,1113
+55,087,55,073,WI,"Marathon County",29,41,951
+55,087,27,123,MN,"Ramsey County",26,42,766
+55,087,55,117,WI,"Sheboygan County",24,46,1022
+55,087,55,137,WI,"Waushara County",23,47,1093
+55,087,55,067,WI,"Langlade County",22,37,820
+55,087,55,085,WI,"Oneida County",22,44,847
+55,087,55,075,WI,"Marinette County",21,46,1389
+55,087,04,013,AZ,"Maricopa County",19,28,682
+55,087,17,043,IL,"Du Page County",18,28,707
+55,087,55,029,WI,"Door County",17,31,636
+55,087,55,131,WI,"Washington County",17,24,859
+55,087,55,027,WI,"Dodge County",16,27,619
+55,087,27,037,MN,"Dakota County",15,31,780
+55,087,55,033,WI,"Dunn County",15,23,559
+55,087,55,063,WI,"La Crosse County",15,23,718
+55,087,55,089,WI,"Ozaukee County",15,29,623
+55,087,26,103,MI,"Marquette County",14,29,384
+55,087,55,059,WI,"Kenosha County",14,32,828
+55,087,55,141,WI,"Wood County",14,16,397
+55,087,26,041,MI,"Delta County",13,33,531
+55,087,55,035,WI,"Eau Claire County",12,16,379
+55,087,55,101,WI,"Racine County",12,22,419
+55,087,53,033,WA,"King County",11,18,484
+55,087,55,021,WI,"Columbia County",11,26,446
+55,087,12,071,FL,"Lee County",10,13,314
+55,087,55,125,WI,"Vilas County",10,20,276
+55,087,55,127,WI,"Walworth County",10,17,237
+55,087,57,005,FR,"Foreign - APO/FPO ZIPs",10,12,216
+55,087,58,000,SS,"Other Flows - Same State",131,231,4298
+55,087,59,000,DS,"Other Flows - Diff State",850,1577,40390
+55,087,59,001,DS,"Other Flows - Northeast",75,142,4645
+55,087,59,003,DS,"Other Flows - Midwest",257,507,12305
+55,087,59,005,DS,"Other Flows - South",307,603,15615
+55,087,59,007,DS,"Other Flows - West",211,325,7826
+55,087,57,009,FR,"Foreign - Other flows",14,29,1038
+55,089,96,000,WI,"Ozaukee County Tot Mig-US & For",2462,4328,209390
+55,089,97,000,WI,"Ozaukee County Tot Mig-US",2451,4305,209108
+55,089,97,001,WI,"Ozaukee County Tot Mig-Same St",1710,2883,135442
+55,089,97,003,WI,"Ozaukee County Tot Mig-Diff St",741,1422,73666
+55,089,98,000,WI,"Ozaukee County Tot Mig-Foreign",11,23,282
+55,089,55,089,WI,"Ozaukee County Non-Migrants",31029,73460,3023173
+55,089,55,079,WI,"Milwaukee County",691,1034,85283
+55,089,55,131,WI,"Washington County",305,559,14829
+55,089,55,117,WI,"Sheboygan County",179,361,7444
+55,089,55,133,WI,"Waukesha County",146,270,8835
+55,089,55,025,WI,"Dane County",81,106,5050
+55,089,17,031,IL,"Cook County",44,52,2327
+55,089,04,013,AZ,"Maricopa County",36,66,2851
+55,089,55,039,WI,"Fond Du Lac County",26,36,1006
+55,089,27,053,MN,"Hennepin County",25,31,795
+55,089,55,027,WI,"Dodge County",23,45,717
+55,089,55,009,WI,"Brown County",22,32,715
+55,089,55,139,WI,"Winnebago County",20,31,672
+55,089,55,101,WI,"Racine County",19,32,834
+55,089,55,059,WI,"Kenosha County",18,36,1168
+55,089,55,087,WI,"Outagamie County",15,34,824
+55,089,17,043,IL,"Du Page County",14,33,1256
+55,089,17,097,IL,"Lake County",11,34,932
+55,089,55,071,WI,"Manitowoc County",11,22,549
+55,089,11,001,DC,"District Of Columbia",10,10,299
+55,089,12,021,FL,"Collier County",10,19,23027
+55,089,26,125,MI,"Oakland County",10,19,1241
+55,089,48,201,TX,"Harris County",10,19,697
+55,089,55,015,WI,"Calumet County",10,21,620
+55,089,55,125,WI,"Vilas County",10,16,1376
+55,089,58,000,SS,"Other Flows - Same State",134,248,5521
+55,089,59,000,DS,"Other Flows - Diff State",571,1139,40241
+55,089,59,001,DS,"Other Flows - Northeast",61,122,5095
+55,089,59,003,DS,"Other Flows - Midwest",180,387,12908
+55,089,59,005,DS,"Other Flows - South",181,353,12282
+55,089,59,007,DS,"Other Flows - West",149,277,9956
+55,089,57,009,FR,"Foreign - Other flows",11,23,282
+55,091,96,000,WI,"Pepin County Tot Mig-US & For",159,279,4479
+55,091,97,000,WI,"Pepin County Tot Mig-US",159,279,4479
+55,091,97,001,WI,"Pepin County Tot Mig-Same St",116,211,3170
+55,091,97,003,WI,"Pepin County Tot Mig-Diff St",43,68,1309
+55,091,55,091,WI,"Pepin County Non-Migrants",2133,4848,89127
+55,091,55,011,WI,"Buffalo County",21,45,568
+55,091,55,093,WI,"Pierce County",21,33,446
+55,091,55,035,WI,"Eau Claire County",19,33,458
+55,091,55,033,WI,"Dunn County",12,21,363
+55,091,58,000,SS,"Other Flows - Same State",43,79,1336
+55,091,59,000,DS,"Other Flows - Diff State",43,68,1309
+55,093,96,000,WI,"Pierce County Tot Mig-US & For",1106,1780,46082
+55,093,97,000,WI,"Pierce County Tot Mig-US",1106,1780,46082
+55,093,97,001,WI,"Pierce County Tot Mig-Same St",526,860,18057
+55,093,97,003,WI,"Pierce County Tot Mig-Diff St",580,920,28025
+55,093,55,093,WI,"Pierce County Non-Migrants",13229,30319,699838
+55,093,55,109,WI,"St Croix County",234,371,9215
+55,093,27,037,MN,"Dakota County",73,122,2507
+55,093,27,053,MN,"Hennepin County",71,88,2550
+55,093,55,033,WI,"Dunn County",66,118,1932
+55,093,27,123,MN,"Ramsey County",65,92,2266
+55,093,27,049,MN,"Goodhue County",61,110,2190
+55,093,27,163,MN,"Washington County",54,77,2721
+55,093,55,035,WI,"Eau Claire County",29,38,677
+55,093,04,013,AZ,"Maricopa County",19,27,2628
+55,093,55,025,WI,"Dane County",17,21,390
+55,093,55,095,WI,"Polk County",17,34,611
+55,093,55,013,WI,"Burnett County",15,26,561
+55,093,55,091,WI,"Pepin County",15,25,387
+55,093,27,003,MN,"Anoka County",13,22,470
+55,093,55,005,WI,"Barron County",13,14,338
+55,093,58,000,SS,"Other Flows - Same State",120,213,3945
+55,093,59,000,DS,"Other Flows - Diff State",224,382,12693
+55,093,59,001,DS,"Other Flows - Northeast",12,20,621
+55,093,59,003,DS,"Other Flows - Midwest",108,190,7087
+55,093,59,005,DS,"Other Flows - South",46,88,2742
+55,093,59,007,DS,"Other Flows - West",58,84,2243
+55,095,96,000,WI,"Polk County Tot Mig-US & For",877,1498,31434
+55,095,97,000,WI,"Polk County Tot Mig-US",877,1498,31434
+55,095,97,001,WI,"Polk County Tot Mig-Same St",461,811,14758
+55,095,97,003,WI,"Polk County Tot Mig-Diff St",416,687,16676
+55,095,55,095,WI,"Polk County Non-Migrants",14103,32125,641040
+55,095,55,109,WI,"St Croix County",142,247,4761
+55,095,55,005,WI,"Barron County",87,166,2418
+55,095,27,123,MN,"Ramsey County",63,83,1442
+55,095,55,013,WI,"Burnett County",61,131,2670
+55,095,27,053,MN,"Hennepin County",40,52,1155
+55,095,27,163,MN,"Washington County",32,54,1513
+55,095,27,025,MN,"Chisago County",29,48,913
+55,095,27,037,MN,"Dakota County",27,37,722
+55,095,55,033,WI,"Dunn County",27,36,816
+55,095,55,035,WI,"Eau Claire County",24,35,508
+55,095,27,003,MN,"Anoka County",21,34,612
+55,095,55,093,WI,"Pierce County",20,32,517
+55,095,04,013,AZ,"Maricopa County",11,18,448
+55,095,55,017,WI,"Chippewa County",11,14,241
+55,095,58,000,SS,"Other Flows - Same State",89,150,2829
+55,095,59,000,DS,"Other Flows - Diff State",193,361,9871
+55,097,96,000,WI,"Portage County Tot Mig-US & For",1724,3010,58511
+55,097,97,000,WI,"Portage County Tot Mig-US",1724,3010,58511
+55,097,97,001,WI,"Portage County Tot Mig-Same St",1160,1980,36825
+55,097,97,003,WI,"Portage County Tot Mig-Diff St",564,1030,21686
+55,097,55,097,WI,"Portage County Non-Migrants",23728,53725,1177975
+55,097,55,141,WI,"Wood County",198,338,6613
+55,097,55,073,WI,"Marathon County",153,268,5616
+55,097,55,025,WI,"Dane County",136,190,4319
+55,097,55,135,WI,"Waupaca County",74,146,2067
+55,097,55,079,WI,"Milwaukee County",72,98,1579
+55,097,55,087,WI,"Outagamie County",50,86,1724
+55,097,55,139,WI,"Winnebago County",50,64,1318
+55,097,27,053,MN,"Hennepin County",36,70,839
+55,097,55,009,WI,"Brown County",33,50,1100
+55,097,55,137,WI,"Waushara County",32,63,912
+55,097,27,123,MN,"Ramsey County",26,64,663
+55,097,55,133,WI,"Waukesha County",24,47,1104
+55,097,55,001,WI,"Adams County",22,47,518
+55,097,55,063,WI,"La Crosse County",22,29,562
+55,097,55,085,WI,"Oneida County",19,32,823
+55,097,17,031,IL,"Cook County",17,23,505
+55,097,55,035,WI,"Eau Claire County",17,31,563
+55,097,55,039,WI,"Fond Du Lac County",15,28,456
+55,097,55,111,WI,"Sauk County",15,29,526
+55,097,55,117,WI,"Sheboygan County",14,19,232
+55,097,04,013,AZ,"Maricopa County",13,21,297
+55,097,55,105,WI,"Rock County",13,31,347
+55,097,06,073,CA,"San Diego County",11,22,2094
+55,097,58,000,SS,"Other Flows - Same State",201,384,6446
+55,097,59,000,DS,"Other Flows - Diff State",461,830,17288
+55,097,59,001,DS,"Other Flows - Northeast",24,41,799
+55,097,59,003,DS,"Other Flows - Midwest",173,313,6628
+55,097,59,005,DS,"Other Flows - South",147,277,6080
+55,097,59,007,DS,"Other Flows - West",117,199,3781
+55,099,96,000,WI,"Price County Tot Mig-US & For",414,729,11896
+55,099,97,000,WI,"Price County Tot Mig-US",414,729,11896
+55,099,97,001,WI,"Price County Tot Mig-Same St",296,526,8173
+55,099,97,003,WI,"Price County Tot Mig-Diff St",118,203,3723
+55,099,55,099,WI,"Price County Non-Migrants",5697,12755,229232
+55,099,55,073,WI,"Marathon County",38,56,1272
+55,099,55,119,WI,"Taylor County",30,70,623
+55,099,55,003,WI,"Ashland County",25,44,602
+55,099,55,035,WI,"Eau Claire County",18,31,538
+55,099,55,025,WI,"Dane County",11,14,223
+55,099,55,139,WI,"Winnebago County",11,20,361
+55,099,55,107,WI,"Rusk County",10,20,463
+55,099,58,000,SS,"Other Flows - Same State",153,271,4092
+55,099,59,000,DS,"Other Flows - Diff State",118,203,3723
+55,101,96,000,WI,"Racine County Tot Mig-US & For",4114,7603,187017
+55,101,97,000,WI,"Racine County Tot Mig-US",4077,7522,185435
+55,101,97,001,WI,"Racine County Tot Mig-Same St",2526,4521,102833
+55,101,97,003,WI,"Racine County Tot Mig-Diff St",1551,3001,82602
+55,101,98,000,WI,"Racine County Tot Mig-Foreign",37,81,1582
+55,101,55,101,WI,"Racine County Non-Migrants",69465,154792,3708627
+55,101,55,079,WI,"Milwaukee County",882,1405,31920
+55,101,55,059,WI,"Kenosha County",486,887,16986
+55,101,55,133,WI,"Waukesha County",267,545,15593
+55,101,55,127,WI,"Walworth County",182,378,7294
+55,101,55,025,WI,"Dane County",116,174,6499
+55,101,17,031,IL,"Cook County",107,188,4320
+55,101,17,097,IL,"Lake County",59,101,3521
+55,101,04,013,AZ,"Maricopa County",52,95,3912
+55,101,55,009,WI,"Brown County",34,68,1371
+55,101,27,053,MN,"Hennepin County",32,58,1680
+55,101,55,055,WI,"Jefferson County",29,60,1505
+55,101,32,003,NV,"Clark County",27,48,747
+55,101,55,105,WI,"Rock County",27,58,884
+55,101,55,131,WI,"Washington County",26,51,1723
+55,101,55,073,WI,"Marathon County",22,43,900
+55,101,55,085,WI,"Oneida County",21,40,890
+55,101,55,001,WI,"Adams County",20,44,993
+55,101,55,139,WI,"Winnebago County",20,26,505
+55,101,06,073,CA,"San Diego County",19,28,490
+55,101,55,087,WI,"Outagamie County",18,28,707
+55,101,55,117,WI,"Sheboygan County",18,26,726
+55,101,06,037,CA,"Los Angeles County",17,30,1342
+55,101,17,043,IL,"Du Page County",17,28,783
+55,101,27,123,MN,"Ramsey County",17,24,277
+55,101,55,063,WI,"La Crosse County",16,25,448
+55,101,57,005,FR,"Foreign - APO/FPO ZIPs",16,23,199
+55,101,55,027,WI,"Dodge County",15,35,769
+55,101,55,039,WI,"Fond Du Lac County",15,24,492
+55,101,55,089,WI,"Ozaukee County",15,29,982
+55,101,55,125,WI,"Vilas County",14,23,797
+55,101,53,033,WA,"King County",13,19,606
+55,101,55,057,WI,"Juneau County",13,29,444
+55,101,55,075,WI,"Marinette County",13,27,371
+55,101,55,137,WI,"Waushara County",13,30,350
+55,101,12,069,FL,"Lake County",12,19,618
+55,101,12,071,FL,"Lee County",12,21,935
+55,101,12,103,FL,"Pinellas County",12,19,326
+55,101,17,201,IL,"Winnebago County",12,30,640
+55,101,55,029,WI,"Door County",12,27,1086
+55,101,12,011,FL,"Broward County",11,21,391
+55,101,12,099,FL,"Palm Beach County",11,19,853
+55,101,17,089,IL,"Kane County",11,29,711
+55,101,27,037,MN,"Dakota County",11,21,769
+55,101,29,095,MO,"Jackson County",11,22,552
+55,101,48,439,TX,"Tarrant County",11,22,322
+55,101,55,033,WI,"Dunn County",11,18,331
+55,101,55,097,WI,"Portage County",11,18,238
+55,101,55,111,WI,"Sauk County",11,20,239
+55,101,55,035,WI,"Eau Claire County",10,17,208
+55,101,55,081,WI,"Monroe County",10,16,298
+55,101,58,000,SS,"Other Flows - Same State",179,350,7283
+55,101,59,000,DS,"Other Flows - Diff State",1077,2159,58806
+55,101,59,001,DS,"Other Flows - Northeast",97,172,6285
+55,101,59,003,DS,"Other Flows - Midwest",356,737,18063
+55,101,59,005,DS,"Other Flows - South",422,839,25808
+55,101,59,007,DS,"Other Flows - West",202,411,8651
+55,101,57,009,FR,"Foreign - Other flows",21,58,1383
+55,103,96,000,WI,"Richland County Tot Mig-US & For",469,845,12922
+55,103,97,000,WI,"Richland County Tot Mig-US",469,845,12922
+55,103,97,001,WI,"Richland County Tot Mig-Same St",378,667,10429
+55,103,97,003,WI,"Richland County Tot Mig-Diff St",91,178,2493
+55,103,55,103,WI,"Richland County Non-Migrants",6517,14772,261758
+55,103,55,111,WI,"Sauk County",75,160,2382
+55,103,55,025,WI,"Dane County",65,86,1947
+55,103,55,043,WI,"Grant County",54,96,1292
+55,103,55,123,WI,"Vernon County",32,62,631
+55,103,55,063,WI,"La Crosse County",23,31,484
+55,103,55,049,WI,"Iowa County",22,39,646
+55,103,55,023,WI,"Crawford County",14,24,328
+55,103,58,000,SS,"Other Flows - Same State",93,169,2719
+55,103,59,000,DS,"Other Flows - Diff State",91,178,2493
+55,105,96,000,WI,"Rock County Tot Mig-US & For",3076,5398,118417
+55,105,97,000,WI,"Rock County Tot Mig-US",3042,5351,117821
+55,105,97,001,WI,"Rock County Tot Mig-Same St",1551,2615,61314
+55,105,97,003,WI,"Rock County Tot Mig-Diff St",1491,2736,56507
+55,105,98,000,WI,"Rock County Tot Mig-Foreign",34,47,596
+55,105,55,105,WI,"Rock County Non-Migrants",54879,120802,2618526
+55,105,55,025,WI,"Dane County",479,732,18577
+55,105,17,201,IL,"Winnebago County",280,532,8949
+55,105,55,127,WI,"Walworth County",137,241,4409
+55,105,55,079,WI,"Milwaukee County",132,188,4108
+55,105,55,045,WI,"Green County",118,227,3892
+55,105,55,055,WI,"Jefferson County",102,184,4041
+55,105,17,031,IL,"Cook County",91,134,2043
+55,105,55,133,WI,"Waukesha County",63,108,8196
+55,105,04,013,AZ,"Maricopa County",35,66,1308
+55,105,27,053,MN,"Hennepin County",31,48,1019
+55,105,55,139,WI,"Winnebago County",28,50,1232
+55,105,55,009,WI,"Brown County",24,31,805
+55,105,55,087,WI,"Outagamie County",23,49,1164
+55,105,55,101,WI,"Racine County",22,44,889
+55,105,55,043,WI,"Grant County",21,51,898
+55,105,55,057,WI,"Juneau County",21,36,671
+55,105,55,059,WI,"Kenosha County",21,39,663
+55,105,57,005,FR,"Foreign - APO/FPO ZIPs",21,30,468
+55,105,06,037,CA,"Los Angeles County",20,30,575
+55,105,55,001,WI,"Adams County",19,37,859
+55,105,18,097,IN,"Marion County",18,37,1024
+55,105,55,111,WI,"Sauk County",18,31,561
+55,105,17,097,IL,"Lake County",17,32,702
+55,105,17,111,IL,"Mchenry County",17,23,585
+55,105,55,021,WI,"Columbia County",17,27,501
+55,105,55,035,WI,"Eau Claire County",17,22,437
+55,105,55,039,WI,"Fond Du Lac County",17,32,365
+55,105,55,063,WI,"La Crosse County",17,31,524
+55,105,06,073,CA,"San Diego County",16,34,435
+55,105,17,007,IL,"Boone County",16,34,688
+55,105,26,125,MI,"Oakland County",15,24,1082
+55,105,55,097,WI,"Portage County",15,31,440
+55,105,55,141,WI,"Wood County",15,28,473
+55,105,55,081,WI,"Monroe County",14,21,484
+55,105,12,071,FL,"Lee County",13,28,800
+55,105,17,089,IL,"Kane County",13,28,910
+55,105,55,027,WI,"Dodge County",13,22,514
+55,105,55,073,WI,"Marathon County",13,15,348
+55,105,17,043,IL,"Du Page County",12,21,322
+55,105,55,131,WI,"Washington County",12,23,492
+55,105,12,103,FL,"Pinellas County",10,15,323
+55,105,17,177,IL,"Stephenson County",10,13,228
+55,105,27,123,MN,"Ramsey County",10,11,195
+55,105,32,003,NV,"Clark County",10,15,255
+55,105,48,439,TX,"Tarrant County",10,30,577
+55,105,53,033,WA,"King County",10,15,295
+55,105,55,089,WI,"Ozaukee County",10,24,503
+55,105,55,117,WI,"Sheboygan County",10,15,361
+55,105,58,000,SS,"Other Flows - Same State",153,276,4905
+55,105,59,000,DS,"Other Flows - Diff State",837,1566,34193
+55,105,59,001,DS,"Other Flows - Northeast",52,84,1979
+55,105,59,003,DS,"Other Flows - Midwest",298,607,14104
+55,105,59,005,DS,"Other Flows - South",339,641,12993
+55,105,59,007,DS,"Other Flows - West",148,234,5116
+55,105,57,009,FR,"Foreign - Other flows",13,17,129
+55,107,96,000,WI,"Rusk County Tot Mig-US & For",384,619,10081
+55,107,97,000,WI,"Rusk County Tot Mig-US",384,619,10081
+55,107,97,001,WI,"Rusk County Tot Mig-Same St",280,462,7425
+55,107,97,003,WI,"Rusk County Tot Mig-Diff St",104,157,2656
+55,107,55,107,WI,"Rusk County Non-Migrants",5233,11844,181983
+55,107,55,005,WI,"Barron County",55,75,1258
+55,107,55,017,WI,"Chippewa County",43,89,1305
+55,107,55,035,WI,"Eau Claire County",34,48,798
+55,107,55,033,WI,"Dunn County",15,20,230
+55,107,55,113,WI,"Sawyer County",15,29,557
+55,107,55,099,WI,"Price County",12,17,265
+55,107,55,109,WI,"St Croix County",11,16,294
+55,107,58,000,SS,"Other Flows - Same State",95,168,2719
+55,107,59,000,DS,"Other Flows - Diff State",104,157,2656
+55,109,96,000,WI,"St Croix County Tot Mig-US & For",1676,2894,68628
+55,109,97,000,WI,"St Croix County Tot Mig-US",1676,2894,68628
+55,109,97,001,WI,"St Croix County Tot Mig-Same St",777,1441,28423
+55,109,97,003,WI,"St Croix County Tot Mig-Diff St",899,1453,40205
+55,109,55,109,WI,"St Croix County Non-Migrants",22058,51910,1364661
+55,109,55,095,WI,"Polk County",198,390,7472
+55,109,55,093,WI,"Pierce County",160,300,5509
+55,109,27,123,MN,"Ramsey County",142,200,4348
+55,109,27,163,MN,"Washington County",131,230,6194
+55,109,55,033,WI,"Dunn County",107,179,3087
+55,109,27,053,MN,"Hennepin County",95,123,3120
+55,109,27,037,MN,"Dakota County",68,99,2615
+55,109,55,035,WI,"Eau Claire County",45,72,1407
+55,109,55,005,WI,"Barron County",42,81,1816
+55,109,55,013,WI,"Burnett County",25,44,834
+55,109,27,003,MN,"Anoka County",24,35,1197
+55,109,55,017,WI,"Chippewa County",20,47,668
+55,109,55,025,WI,"Dane County",15,18,459
+55,109,55,129,WI,"Washburn County",14,26,678
+55,109,27,025,MN,"Chisago County",10,18,382
+55,109,27,049,MN,"Goodhue County",10,15,483
+55,109,27,109,MN,"Olmsted County",10,18,550
+55,109,55,031,WI,"Douglas County",10,19,226
+55,109,58,000,SS,"Other Flows - Same State",141,265,6266
+55,109,59,000,DS,"Other Flows - Diff State",409,715,21316
+55,109,59,001,DS,"Other Flows - Northeast",20,35,1132
+55,109,59,003,DS,"Other Flows - Midwest",179,326,6790
+55,109,59,005,DS,"Other Flows - South",96,182,6724
+55,109,59,007,DS,"Other Flows - West",114,172,6670
+55,111,96,000,WI,"Sauk County Tot Mig-US & For",1502,2628,53588
+55,111,97,000,WI,"Sauk County Tot Mig-US",1489,2615,53491
+55,111,97,001,WI,"Sauk County Tot Mig-Same St",1115,1954,36739
+55,111,97,003,WI,"Sauk County Tot Mig-Diff St",374,661,16752
+55,111,98,000,WI,"Sauk County Tot Mig-Foreign",13,13,97
+55,111,55,111,WI,"Sauk County Non-Migrants",20580,45548,942107
+55,111,55,025,WI,"Dane County",358,517,11571
+55,111,55,021,WI,"Columbia County",155,297,5444
+55,111,55,057,WI,"Juneau County",98,195,3014
+55,111,55,001,WI,"Adams County",83,167,2554
+55,111,55,103,WI,"Richland County",70,137,1904
+55,111,55,049,WI,"Iowa County",35,56,1218
+55,111,55,063,WI,"La Crosse County",30,49,897
+55,111,55,079,WI,"Milwaukee County",27,34,856
+55,111,17,031,IL,"Cook County",20,29,371
+55,111,55,105,WI,"Rock County",18,30,591
+55,111,55,055,WI,"Jefferson County",17,32,622
+55,111,27,053,MN,"Hennepin County",16,18,618
+55,111,55,077,WI,"Marquette County",16,32,633
+55,111,55,043,WI,"Grant County",13,29,403
+55,111,55,101,WI,"Racine County",13,32,400
+55,111,04,013,AZ,"Maricopa County",12,20,299
+55,111,55,035,WI,"Eau Claire County",12,18,381
+55,111,55,123,WI,"Vernon County",11,23,309
+55,111,55,009,WI,"Brown County",10,16,325
+55,111,55,081,WI,"Monroe County",10,19,288
+55,111,55,133,WI,"Waukesha County",10,15,898
+55,111,58,000,SS,"Other Flows - Same State",129,256,4432
+55,111,59,000,DS,"Other Flows - Diff State",326,594,15464
+55,111,59,001,DS,"Other Flows - Northeast",16,34,1048
+55,111,59,003,DS,"Other Flows - Midwest",134,243,5411
+55,111,59,005,DS,"Other Flows - South",100,186,6740
+55,111,59,007,DS,"Other Flows - West",76,131,2265
+55,111,57,009,FR,"Foreign - Other flows",13,13,97
+55,113,96,000,WI,"Sawyer County Tot Mig-US & For",383,667,11260
+55,113,97,000,WI,"Sawyer County Tot Mig-US",383,667,11260
+55,113,97,001,WI,"Sawyer County Tot Mig-Same St",227,403,5796
+55,113,97,003,WI,"Sawyer County Tot Mig-Diff St",156,264,5464
+55,113,55,113,WI,"Sawyer County Non-Migrants",6005,12932,234094
+55,113,55,129,WI,"Washburn County",32,67,1045
+55,113,55,005,WI,"Barron County",25,52,523
+55,113,55,035,WI,"Eau Claire County",25,40,435
+55,113,27,053,MN,"Hennepin County",17,23,347
+55,113,55,007,WI,"Bayfield County",14,20,493
+55,113,27,123,MN,"Ramsey County",10,14,277
+55,113,55,031,WI,"Douglas County",10,17,214
+55,113,55,107,WI,"Rusk County",10,21,477
+55,113,58,000,SS,"Other Flows - Same State",111,186,2610
+55,113,59,000,DS,"Other Flows - Diff State",129,227,4840
+55,115,96,000,WI,"Shawano County Tot Mig-US & For",866,1514,27006
+55,115,97,000,WI,"Shawano County Tot Mig-US",866,1514,27006
+55,115,97,001,WI,"Shawano County Tot Mig-Same St",679,1187,20598
+55,115,97,003,WI,"Shawano County Tot Mig-Diff St",187,327,6408
+55,115,55,115,WI,"Shawano County Non-Migrants",13376,30084,567692
+55,115,55,009,WI,"Brown County",139,214,4321
+55,115,55,073,WI,"Marathon County",74,124,1561
+55,115,55,087,WI,"Outagamie County",74,135,3571
+55,115,55,135,WI,"Waupaca County",55,112,1556
+55,115,55,083,WI,"Oconto County",46,88,1350
+55,115,55,079,WI,"Milwaukee County",37,60,967
+55,115,55,067,WI,"Langlade County",33,77,856
+55,115,55,139,WI,"Winnebago County",28,37,743
+55,115,55,078,WI,"Menominee County",25,46,422
+55,115,55,025,WI,"Dane County",17,27,476
+55,115,55,097,WI,"Portage County",13,18,315
+55,115,55,015,WI,"Calumet County",10,18,252
+55,115,58,000,SS,"Other Flows - Same State",128,231,4207
+55,115,59,000,DS,"Other Flows - Diff State",187,327,6408
+55,117,96,000,WI,"Sheboygan Count Tot Mig-US & For",2124,3518,80753
+55,117,97,000,WI,"Sheboygan Count Tot Mig-US",2108,3500,80507
+55,117,97,001,WI,"Sheboygan Count Tot Mig-Same St",1423,2302,49067
+55,117,97,003,WI,"Sheboygan Count Tot Mig-Diff St",685,1198,31440
+55,117,98,000,WI,"Sheboygan Count Tot Mig-Foreign",16,18,246
+55,117,55,117,WI,"Sheboygan Count Non-Migrants",42992,96037,2247749
+55,117,55,079,WI,"Milwaukee County",220,294,6372
+55,117,55,089,WI,"Ozaukee County",185,328,7088
+55,117,55,071,WI,"Manitowoc County",156,282,5536
+55,117,55,025,WI,"Dane County",95,119,2544
+55,117,55,015,WI,"Calumet County",85,141,2939
+55,117,55,131,WI,"Washington County",81,133,3147
+55,117,55,039,WI,"Fond Du Lac County",80,152,2795
+55,117,55,009,WI,"Brown County",78,134,2558
+55,117,55,139,WI,"Winnebago County",52,64,1280
+55,117,55,133,WI,"Waukesha County",51,80,2286
+55,117,55,087,WI,"Outagamie County",48,67,1842
+55,117,04,013,AZ,"Maricopa County",30,41,1355
+55,117,17,031,IL,"Cook County",28,36,808
+55,117,27,053,MN,"Hennepin County",26,36,687
+55,117,55,073,WI,"Marathon County",22,38,647
+55,117,55,101,WI,"Racine County",18,31,556
+55,117,04,019,AZ,"Pima County",14,19,864
+55,117,55,027,WI,"Dodge County",14,20,458
+55,117,55,075,WI,"Marinette County",13,22,464
+55,117,17,097,IL,"Lake County",12,26,710
+55,117,55,035,WI,"Eau Claire County",12,12,214
+55,117,55,097,WI,"Portage County",12,14,199
+55,117,55,063,WI,"La Crosse County",11,13,336
+55,117,55,083,WI,"Oconto County",11,18,470
+55,117,55,115,WI,"Shawano County",11,19,375
+55,117,55,135,WI,"Waupaca County",11,21,461
+55,117,55,029,WI,"Door County",10,23,566
+55,117,58,000,SS,"Other Flows - Same State",147,277,5934
+55,117,59,000,DS,"Other Flows - Diff State",575,1040,27015
+55,117,59,001,DS,"Other Flows - Northeast",35,67,1925
+55,117,59,003,DS,"Other Flows - Midwest",226,416,9306
+55,117,59,005,DS,"Other Flows - South",201,373,10596
+55,117,59,007,DS,"Other Flows - West",113,184,5188
+55,117,57,009,FR,"Foreign - Other flows",16,18,246
+55,119,96,000,WI,"Taylor County Tot Mig-US & For",422,739,11598
+55,119,97,000,WI,"Taylor County Tot Mig-US",422,739,11598
+55,119,97,001,WI,"Taylor County Tot Mig-Same St",313,541,8302
+55,119,97,003,WI,"Taylor County Tot Mig-Diff St",109,198,3296
+55,119,55,119,WI,"Taylor County Non-Migrants",6534,15181,263456
+55,119,55,019,WI,"Clark County",64,135,1646
+55,119,55,073,WI,"Marathon County",52,79,1245
+55,119,55,035,WI,"Eau Claire County",22,30,486
+55,119,55,099,WI,"Price County",22,33,455
+55,119,55,017,WI,"Chippewa County",15,21,371
+55,119,55,025,WI,"Dane County",15,23,526
+55,119,55,079,WI,"Milwaukee County",12,21,191
+55,119,55,141,WI,"Wood County",12,17,277
+55,119,58,000,SS,"Other Flows - Same State",99,182,3106
+55,119,59,000,DS,"Other Flows - Diff State",109,198,3296
+55,121,96,000,WI,"Trempealeau Cou Tot Mig-US & For",666,1189,18836
+55,121,97,000,WI,"Trempealeau Cou Tot Mig-US",666,1189,18836
+55,121,97,001,WI,"Trempealeau Cou Tot Mig-Same St",492,881,13092
+55,121,97,003,WI,"Trempealeau Cou Tot Mig-Diff St",174,308,5744
+55,121,55,121,WI,"Trempealeau Cou Non-Migrants",9551,21217,371484
+55,121,55,063,WI,"La Crosse County",126,207,3383
+55,121,55,035,WI,"Eau Claire County",110,217,2826
+55,121,55,053,WI,"Jackson County",67,130,1466
+55,121,55,011,WI,"Buffalo County",47,87,1366
+55,121,27,169,MN,"Winona County",29,40,988
+55,121,55,017,WI,"Chippewa County",19,30,685
+55,121,55,025,WI,"Dane County",15,18,324
+55,121,55,109,WI,"St Croix County",11,21,416
+55,121,55,005,WI,"Barron County",10,21,316
+55,121,58,000,SS,"Other Flows - Same State",87,150,2310
+55,121,59,000,DS,"Other Flows - Diff State",145,268,4756
+55,123,96,000,WI,"Vernon County Tot Mig-US & For",559,987,14909
+55,123,97,000,WI,"Vernon County Tot Mig-US",559,987,14909
+55,123,97,001,WI,"Vernon County Tot Mig-Same St",434,758,11298
+55,123,97,003,WI,"Vernon County Tot Mig-Diff St",125,229,3611
+55,123,55,123,WI,"Vernon County Non-Migrants",8606,19795,317032
+55,123,55,063,WI,"La Crosse County",144,221,3631
+55,123,55,081,WI,"Monroe County",47,93,1294
+55,123,55,023,WI,"Crawford County",39,99,924
+55,123,55,103,WI,"Richland County",36,70,835
+55,123,55,025,WI,"Dane County",33,39,866
+55,123,55,057,WI,"Juneau County",26,47,611
+55,123,55,111,WI,"Sauk County",14,21,401
+55,123,27,053,MN,"Hennepin County",11,11,277
+55,123,58,000,SS,"Other Flows - Same State",95,168,2736
+55,123,59,000,DS,"Other Flows - Diff State",114,218,3334
+55,125,96,000,WI,"Vilas County Tot Mig-US & For",514,883,17956
+55,125,97,000,WI,"Vilas County Tot Mig-US",514,883,17956
+55,125,97,001,WI,"Vilas County Tot Mig-Same St",311,565,10318
+55,125,97,003,WI,"Vilas County Tot Mig-Diff St",203,318,7637
+55,125,55,125,WI,"Vilas County Non-Migrants",7512,15603,320390
+55,125,55,085,WI,"Oneida County",101,210,3847
+55,125,55,079,WI,"Milwaukee County",24,32,735
+55,125,55,051,WI,"Iron County",14,23,305
+55,125,55,073,WI,"Marathon County",13,18,597
+55,125,55,087,WI,"Outagamie County",13,25,339
+55,125,55,009,WI,"Brown County",12,20,288
+55,125,55,133,WI,"Waukesha County",12,16,526
+55,125,55,025,WI,"Dane County",11,16,376
+55,125,58,000,SS,"Other Flows - Same State",111,205,3304
+55,125,59,000,DS,"Other Flows - Diff State",203,318,7637
+55,127,96,000,WI,"Walworth County Tot Mig-US & For",2582,4388,95238
+55,127,97,000,WI,"Walworth County Tot Mig-US",2564,4359,94586
+55,127,97,001,WI,"Walworth County Tot Mig-Same St",1532,2569,49298
+55,127,97,003,WI,"Walworth County Tot Mig-Diff St",1032,1790,45289
+55,127,98,000,WI,"Walworth County Tot Mig-Foreign",18,29,652
+55,127,55,127,WI,"Walworth County Non-Migrants",31454,70429,1698831
+55,127,55,133,WI,"Waukesha County",256,428,10733
+55,127,55,079,WI,"Milwaukee County",227,294,6075
+55,127,55,105,WI,"Rock County",217,415,7253
+55,127,55,101,WI,"Racine County",174,325,5679
+55,127,55,025,WI,"Dane County",143,174,3453
+55,127,17,031,IL,"Cook County",131,187,4790
+55,127,55,059,WI,"Kenosha County",122,227,3970
+55,127,55,055,WI,"Jefferson County",110,179,3203
+55,127,17,111,IL,"Mchenry County",87,160,4126
+55,127,17,097,IL,"Lake County",55,114,3690
+55,127,04,013,AZ,"Maricopa County",38,65,1534
+55,127,17,201,IL,"Winnebago County",33,52,1094
+55,127,17,043,IL,"Du Page County",20,31,925
+55,127,55,139,WI,"Winnebago County",18,20,379
+55,127,17,007,IL,"Boone County",15,31,393
+55,127,55,131,WI,"Washington County",15,32,669
+55,127,32,003,NV,"Clark County",14,25,330
+55,127,12,021,FL,"Collier County",13,21,2017
+55,127,27,053,MN,"Hennepin County",13,15,365
+55,127,55,063,WI,"La Crosse County",13,19,347
+55,127,06,073,CA,"San Diego County",12,19,425
+55,127,55,081,WI,"Monroe County",12,24,237
+55,127,55,117,WI,"Sheboygan County",12,20,346
+55,127,55,027,WI,"Dodge County",11,28,412
+55,127,55,087,WI,"Outagamie County",11,19,396
+55,127,06,037,CA,"Los Angeles County",10,14,660
+55,127,12,071,FL,"Lee County",10,15,321
+55,127,17,089,IL,"Kane County",10,14,465
+55,127,58,000,SS,"Other Flows - Same State",191,365,6146
+55,127,59,000,DS,"Other Flows - Diff State",571,1027,24154
+55,127,59,001,DS,"Other Flows - Northeast",42,64,1450
+55,127,59,003,DS,"Other Flows - Midwest",193,357,8426
+55,127,59,005,DS,"Other Flows - South",213,403,7235
+55,127,59,007,DS,"Other Flows - West",123,203,7043
+55,127,57,009,FR,"Foreign - Other flows",18,29,652
+55,129,96,000,WI,"Washburn County Tot Mig-US & For",385,690,10450
+55,129,97,000,WI,"Washburn County Tot Mig-US",385,690,10450
+55,129,97,001,WI,"Washburn County Tot Mig-Same St",250,450,6646
+55,129,97,003,WI,"Washburn County Tot Mig-Diff St",135,240,3803
+55,129,55,129,WI,"Washburn County Non-Migrants",4932,10819,191591
+55,129,55,005,WI,"Barron County",78,143,1933
+55,129,55,013,WI,"Burnett County",27,49,733
+55,129,55,113,WI,"Sawyer County",27,49,996
+55,129,55,031,WI,"Douglas County",20,32,629
+55,129,55,035,WI,"Eau Claire County",20,29,353
+55,129,27,053,MN,"Hennepin County",18,25,631
+55,129,58,000,SS,"Other Flows - Same State",78,148,2003
+55,129,59,000,DS,"Other Flows - Diff State",117,215,3172
+55,131,96,000,WI,"Washington Coun Tot Mig-US & For",3105,5399,147805
+55,131,97,000,WI,"Washington Coun Tot Mig-US",3086,5373,147394
+55,131,97,001,WI,"Washington Coun Tot Mig-Same St",2436,4141,110971
+55,131,97,003,WI,"Washington Coun Tot Mig-Diff St",650,1232,36423
+55,131,98,000,WI,"Washington Coun Tot Mig-Foreign",19,26,411
+55,131,55,131,WI,"Washington Coun Non-Migrants",44286,102406,2747894
+55,131,55,079,WI,"Milwaukee County",641,932,23744
+55,131,55,133,WI,"Waukesha County",504,862,26094
+55,131,55,027,WI,"Dodge County",252,475,10207
+55,131,55,089,WI,"Ozaukee County",248,445,12754
+55,131,55,039,WI,"Fond Du Lac County",154,304,6646
+55,131,55,117,WI,"Sheboygan County",92,175,3942
+55,131,55,025,WI,"Dane County",83,103,2577
+55,131,55,139,WI,"Winnebago County",51,84,1914
+55,131,55,087,WI,"Outagamie County",34,67,1892
+55,131,17,031,IL,"Cook County",28,37,1017
+55,131,27,053,MN,"Hennepin County",27,37,1207
+55,131,55,009,WI,"Brown County",27,40,919
+55,131,55,127,WI,"Walworth County",25,38,760
+55,131,55,101,WI,"Racine County",24,38,1075
+55,131,04,013,AZ,"Maricopa County",21,37,718
+55,131,55,055,WI,"Jefferson County",21,47,1012
+55,131,55,015,WI,"Calumet County",17,37,988
+55,131,55,063,WI,"La Crosse County",17,36,707
+55,131,55,097,WI,"Portage County",14,15,280
+55,131,55,125,WI,"Vilas County",13,25,1185
+55,131,55,135,WI,"Waupaca County",13,29,456
+55,131,17,043,IL,"Du Page County",12,27,1028
+55,131,27,123,MN,"Ramsey County",12,16,247
+55,131,55,001,WI,"Adams County",11,24,404
+55,131,55,105,WI,"Rock County",11,17,318
+55,131,55,075,WI,"Marinette County",10,21,332
+55,131,55,115,WI,"Shawano County",10,28,380
+55,131,58,000,SS,"Other Flows - Same State",164,299,12385
+55,131,59,000,DS,"Other Flows - Diff State",550,1078,32206
+55,131,59,001,DS,"Other Flows - Northeast",35,62,1606
+55,131,59,003,DS,"Other Flows - Midwest",189,408,10224
+55,131,59,005,DS,"Other Flows - South",193,366,14850
+55,131,59,007,DS,"Other Flows - West",133,242,5526
+55,131,57,009,FR,"Foreign - Other flows",19,26,411
+55,133,96,000,WI,"Waukesha County Tot Mig-US & For",10222,17641,557628
+55,133,97,000,WI,"Waukesha County Tot Mig-US",10147,17493,553896
+55,133,97,001,WI,"Waukesha County Tot Mig-Same St",7051,11547,322072
+55,133,97,003,WI,"Waukesha County Tot Mig-Diff St",3096,5946,231824
+55,133,98,000,WI,"Waukesha County Tot Mig-Foreign",75,148,3732
+55,133,55,133,WI,"Waukesha County Non-Migrants",133194,308660,10578798
+55,133,55,079,WI,"Milwaukee County",3700,5399,146810
+55,133,55,131,WI,"Washington County",594,1138,34626
+55,133,55,055,WI,"Jefferson County",426,841,22401
+55,133,55,025,WI,"Dane County",379,549,15859
+55,133,55,127,WI,"Walworth County",301,577,13800
+55,133,55,101,WI,"Racine County",261,493,14416
+55,133,55,027,WI,"Dodge County",220,416,10820
+55,133,17,031,IL,"Cook County",197,259,10419
+55,133,55,089,WI,"Ozaukee County",143,273,10597
+55,133,04,013,AZ,"Maricopa County",141,252,10788
+55,133,27,053,MN,"Hennepin County",132,188,6265
+55,133,55,139,WI,"Winnebago County",89,154,4467
+55,133,55,009,WI,"Brown County",82,156,5679
+55,133,55,059,WI,"Kenosha County",62,125,3801
+55,133,17,043,IL,"Du Page County",52,121,3892
+55,133,17,097,IL,"Lake County",49,101,3437
+55,133,55,117,WI,"Sheboygan County",49,88,1598
+55,133,06,073,CA,"San Diego County",44,71,6028
+55,133,55,063,WI,"La Crosse County",44,78,1916
+55,133,55,087,WI,"Outagamie County",44,89,2334
+55,133,32,003,NV,"Clark County",43,75,2208
+55,133,55,039,WI,"Fond Du Lac County",41,70,1677
+55,133,06,037,CA,"Los Angeles County",35,57,1497
+55,133,12,071,FL,"Lee County",35,65,4186
+55,133,55,125,WI,"Vilas County",33,62,3868
+55,133,55,001,WI,"Adams County",32,53,1330
+55,133,55,073,WI,"Marathon County",31,61,2056
+55,133,53,033,WA,"King County",30,44,5558
+55,133,29,189,MO,"St Louis County",28,70,3261
+55,133,55,029,WI,"Door County",28,45,2510
+55,133,27,037,MN,"Dakota County",27,54,1919
+55,133,27,123,MN,"Ramsey County",27,37,1013
+55,133,12,095,FL,"Orange County",26,44,1440
+55,133,12,103,FL,"Pinellas County",26,43,1602
+55,133,57,005,FR,"Foreign - APO/FPO ZIPs",26,32,561
+55,133,06,059,CA,"Orange County",25,50,3328
+55,133,17,089,IL,"Kane County",25,56,2666
+55,133,55,085,WI,"Oneida County",25,48,1197
+55,133,55,105,WI,"Rock County",25,43,823
+55,133,06,085,CA,"Santa Clara County",24,44,1770
+55,133,55,069,WI,"Lincoln County",24,42,952
+55,133,04,019,AZ,"Pima County",23,36,1149
+55,133,55,097,WI,"Portage County",22,43,958
+55,133,55,135,WI,"Waupaca County",22,37,953
+55,133,55,137,WI,"Waushara County",22,43,1080
+55,133,12,057,FL,"Hillsborough County",21,43,1656
+55,133,48,453,TX,"Travis County",21,33,1393
+55,133,55,035,WI,"Eau Claire County",21,39,671
+55,133,55,111,WI,"Sauk County",21,34,1103
+55,133,06,001,CA,"Alameda County",20,31,2309
+55,133,26,125,MI,"Oakland County",20,56,2645
+55,133,48,439,TX,"Tarrant County",20,49,1384
+55,133,08,031,CO,"Denver County",19,23,1158
+55,133,18,057,IN,"Hamilton County",19,50,1889
+55,133,25,017,MA,"Middlesex County",19,32,1856
+55,133,49,035,UT,"Salt Lake County",19,28,2498
+55,133,55,015,WI,"Calumet County",19,34,1347
+55,133,55,077,WI,"Marquette County",19,32,954
+55,133,17,111,IL,"Mchenry County",18,37,1585
+55,133,48,201,TX,"Harris County",18,35,1042
+55,133,55,075,WI,"Marinette County",18,34,754
+55,133,55,141,WI,"Wood County",18,40,684
+55,133,12,011,FL,"Broward County",17,28,857
+55,133,17,201,IL,"Winnebago County",17,35,938
+55,133,51,059,VA,"Fairfax County",17,29,935
+55,133,55,057,WI,"Juneau County",17,26,693
+55,133,08,041,CO,"El Paso County",16,37,800
+55,133,12,021,FL,"Collier County",16,32,3232
+55,133,26,081,MI,"Kent County",16,34,1154
+55,133,55,021,WI,"Columbia County",16,33,552
+55,133,12,081,FL,"Manatee County",15,41,1421
+55,133,20,091,KS,"Johnson County",15,33,1169
+55,133,21,111,KY,"Jefferson County",15,37,1443
+55,133,37,119,NC,"Mecklenburg County",15,37,1779
+55,133,55,043,WI,"Grant County",15,26,949
+55,133,08,035,CO,"Douglas County",14,28,1219
+55,133,12,117,FL,"Seminole County",14,30,572
+55,133,13,121,GA,"Fulton County",14,23,1016
+55,133,15,003,HI,"Honolulu County",14,28,416
+55,133,39,049,OH,"Franklin County",14,29,1590
+55,133,08,005,CO,"Arapahoe County",13,17,749
+55,133,13,135,GA,"Gwinnett County",13,39,2824
+55,133,27,003,MN,"Anoka County",13,30,782
+55,133,37,183,NC,"Wake County",13,33,1544
+55,133,48,085,TX,"Collin County",13,32,1010
+55,133,06,071,CA,"San Bernardino Count",12,18,805
+55,133,08,059,CO,"Jefferson County",12,17,861
+55,133,11,001,DC,"District Of Columbia",12,12,402
+55,133,12,069,FL,"Lake County",12,22,754
+55,133,12,115,FL,"Sarasota County",12,21,1427
+55,133,35,001,NM,"Bernalillo County",12,25,417
+55,133,55,083,WI,"Oconto County",12,19,448
+55,133,08,013,CO,"Boulder County",11,14,643
+55,133,17,197,IL,"Will County",11,27,1012
+55,133,27,163,MN,"Washington County",11,32,882
+55,133,55,047,WI,"Green Lake County",11,16,352
+55,133,06,065,CA,"Riverside County",10,21,2788
+55,133,06,075,CA,"San Francisco County",10,10,523
+55,133,08,069,CO,"Larimer County",10,25,493
+55,133,09,003,CT,"Hartford County",10,26,884
+55,133,12,099,FL,"Palm Beach County",10,18,703
+55,133,12,127,FL,"Volusia County",10,15,352
+55,133,39,035,OH,"Cuyahoga County",10,21,1208
+55,133,48,029,TX,"Bexar County",10,22,1172
+55,133,48,113,TX,"Dallas County",10,14,515
+55,133,55,019,WI,"Clark County",10,21,446
+55,133,55,033,WI,"Dunn County",10,11,284
+55,133,55,067,WI,"Langlade County",10,22,515
+55,133,55,071,WI,"Manitowoc County",10,17,483
+55,133,55,115,WI,"Shawano County",10,16,343
+55,133,58,000,SS,"Other Flows - Same State",115,204,4964
+55,133,59,000,DS,"Other Flows - Diff State",1404,2870,98691
+55,133,59,001,DS,"Other Flows - Northeast",206,460,18299
+55,133,59,003,DS,"Other Flows - Midwest",468,1002,29798
+55,133,59,005,DS,"Other Flows - South",471,948,35513
+55,133,59,007,DS,"Other Flows - West",259,460,15081
+55,133,57,009,FR,"Foreign - Other flows",49,116,3171
+55,135,96,000,WI,"Waupaca County Tot Mig-US & For",1194,2019,38104
+55,135,97,000,WI,"Waupaca County Tot Mig-US",1194,2019,38104
+55,135,97,001,WI,"Waupaca County Tot Mig-Same St",917,1540,26452
+55,135,97,003,WI,"Waupaca County Tot Mig-Diff St",277,479,11653
+55,135,55,135,WI,"Waupaca County Non-Migrants",17835,40149,776386
+55,135,55,087,WI,"Outagamie County",272,421,6884
+55,135,55,139,WI,"Winnebago County",119,190,3689
+55,135,55,097,WI,"Portage County",78,146,2438
+55,135,55,115,WI,"Shawano County",63,122,1727
+55,135,55,009,WI,"Brown County",51,76,1392
+55,135,55,079,WI,"Milwaukee County",39,60,1285
+55,135,55,137,WI,"Waushara County",35,70,1045
+55,135,55,025,WI,"Dane County",30,36,754
+55,135,55,015,WI,"Calumet County",25,40,822
+55,135,55,133,WI,"Waukesha County",17,25,598
+55,135,55,039,WI,"Fond Du Lac County",15,21,397
+55,135,55,073,WI,"Marathon County",13,31,359
+55,135,47,107,TN,"Mcminn County",12,35,864
+55,135,27,123,MN,"Ramsey County",10,11,258
+55,135,55,085,WI,"Oneida County",10,18,329
+55,135,58,000,SS,"Other Flows - Same State",150,284,4734
+55,135,59,000,DS,"Other Flows - Diff State",255,433,10531
+55,135,59,001,DS,"Other Flows - Northeast",12,16,292
+55,135,59,003,DS,"Other Flows - Midwest",105,181,3328
+55,135,59,005,DS,"Other Flows - South",70,135,4533
+55,135,59,007,DS,"Other Flows - West",68,101,2378
+55,137,96,000,WI,"Waushara County Tot Mig-US & For",587,1033,20657
+55,137,97,000,WI,"Waushara County Tot Mig-US",587,1033,20657
+55,137,97,001,WI,"Waushara County Tot Mig-Same St",455,798,13083
+55,137,97,003,WI,"Waushara County Tot Mig-Diff St",132,235,7573
+55,137,55,137,WI,"Waushara County Non-Migrants",7488,16558,288187
+55,137,55,139,WI,"Winnebago County",86,138,2383
+55,137,55,047,WI,"Green Lake County",47,102,1251
+55,137,55,135,WI,"Waupaca County",39,64,572
+55,137,55,087,WI,"Outagamie County",35,65,1185
+55,137,55,097,WI,"Portage County",35,64,915
+55,137,55,077,WI,"Marquette County",26,50,646
+55,137,55,039,WI,"Fond Du Lac County",23,41,641
+55,137,55,079,WI,"Milwaukee County",23,31,645
+55,137,55,025,WI,"Dane County",20,26,534
+55,137,55,001,WI,"Adams County",19,39,787
+55,137,55,133,WI,"Waukesha County",12,20,798
+55,137,58,000,SS,"Other Flows - Same State",90,158,2725
+55,137,59,000,DS,"Other Flows - Diff State",132,235,7573
+55,139,96,000,WI,"Winnebago Count Tot Mig-US & For",4174,7243,161421
+55,139,97,000,WI,"Winnebago Count Tot Mig-US",4156,7206,160125
+55,139,97,001,WI,"Winnebago Count Tot Mig-Same St",3093,5267,107620
+55,139,97,003,WI,"Winnebago Count Tot Mig-Diff St",1063,1939,52505
+55,139,98,000,WI,"Winnebago Count Tot Mig-Foreign",18,37,1295
+55,139,55,139,WI,"Winnebago Count Non-Migrants",56465,121896,3026190
+55,139,55,087,WI,"Outagamie County",1208,2062,42759
+55,139,55,015,WI,"Calumet County",279,545,11760
+55,139,55,039,WI,"Fond Du Lac County",222,396,7861
+55,139,55,079,WI,"Milwaukee County",197,260,5176
+55,139,55,025,WI,"Dane County",146,193,4078
+55,139,55,009,WI,"Brown County",137,235,5218
+55,139,55,135,WI,"Waupaca County",119,206,3674
+55,139,55,137,WI,"Waushara County",113,216,4071
+55,139,55,047,WI,"Green Lake County",66,137,1883
+55,139,27,053,MN,"Hennepin County",59,94,2173
+55,139,17,031,IL,"Cook County",51,78,1888
+55,139,55,133,WI,"Waukesha County",39,55,1464
+55,139,55,117,WI,"Sheboygan County",38,64,1392
+55,139,55,027,WI,"Dodge County",36,65,1365
+55,139,55,097,WI,"Portage County",32,41,770
+55,139,55,115,WI,"Shawano County",30,55,1246
+55,139,55,073,WI,"Marathon County",28,43,680
+55,139,55,071,WI,"Manitowoc County",27,49,782
+55,139,55,131,WI,"Washington County",26,56,1425
+55,139,27,123,MN,"Ramsey County",24,38,704
+55,139,04,013,AZ,"Maricopa County",22,30,607
+55,139,55,141,WI,"Wood County",22,37,708
+55,139,55,083,WI,"Oconto County",17,32,668
+55,139,55,055,WI,"Jefferson County",16,22,430
+55,139,55,069,WI,"Lincoln County",16,32,517
+55,139,55,075,WI,"Marinette County",16,29,501
+55,139,55,085,WI,"Oneida County",16,27,915
+55,139,55,101,WI,"Racine County",16,34,622
+55,139,55,021,WI,"Columbia County",15,19,469
+55,139,55,089,WI,"Ozaukee County",15,30,714
+55,139,06,037,CA,"Los Angeles County",13,19,728
+55,139,06,059,CA,"Orange County",13,27,764
+55,139,55,059,WI,"Kenosha County",13,19,308
+55,139,55,063,WI,"La Crosse County",13,24,366
+55,139,55,127,WI,"Walworth County",13,19,480
+55,139,55,035,WI,"Eau Claire County",12,22,474
+55,139,55,105,WI,"Rock County",12,18,372
+55,139,17,043,IL,"Du Page County",10,19,830
+55,139,27,037,MN,"Dakota County",10,22,580
+55,139,32,003,NV,"Clark County",10,15,241
+55,139,48,201,TX,"Harris County",10,27,803
+55,139,55,029,WI,"Door County",10,11,326
+55,139,55,067,WI,"Langlade County",10,15,472
+55,139,55,077,WI,"Marquette County",10,17,328
+55,139,58,000,SS,"Other Flows - Same State",108,182,3343
+55,139,59,000,DS,"Other Flows - Diff State",841,1570,43187
+55,139,59,001,DS,"Other Flows - Northeast",60,112,2997
+55,139,59,003,DS,"Other Flows - Midwest",272,546,13439
+55,139,59,005,DS,"Other Flows - South",301,553,18465
+55,139,59,007,DS,"Other Flows - West",208,359,8286
+55,139,57,009,FR,"Foreign - Other flows",18,37,1295
+55,141,96,000,WI,"Wood County Tot Mig-US & For",1679,2974,75597
+55,141,97,000,WI,"Wood County Tot Mig-US",1669,2962,75424
+55,141,97,001,WI,"Wood County Tot Mig-Same St",1186,2098,43641
+55,141,97,003,WI,"Wood County Tot Mig-Diff St",483,864,31783
+55,141,98,000,WI,"Wood County Tot Mig-Foreign",10,12,173
+55,141,55,141,WI,"Wood County Non-Migrants",27886,62741,1514208
+55,141,55,097,WI,"Portage County",227,409,8385
+55,141,55,073,WI,"Marathon County",182,340,7267
+55,141,55,019,WI,"Clark County",93,181,3157
+55,141,55,025,WI,"Dane County",84,114,2149
+55,141,55,001,WI,"Adams County",56,108,2786
+55,141,55,079,WI,"Milwaukee County",43,58,934
+55,141,55,087,WI,"Outagamie County",42,80,1317
+55,141,27,053,MN,"Hennepin County",39,52,1836
+55,141,55,139,WI,"Winnebago County",35,65,1419
+55,141,55,035,WI,"Eau Claire County",33,51,1140
+55,141,55,009,WI,"Brown County",30,49,1066
+55,141,55,133,WI,"Waukesha County",29,45,1023
+55,141,55,063,WI,"La Crosse County",28,47,976
+55,141,55,057,WI,"Juneau County",19,26,486
+55,141,55,119,WI,"Taylor County",17,28,471
+55,141,27,037,MN,"Dakota County",16,23,624
+55,141,55,085,WI,"Oneida County",16,33,1817
+55,141,04,013,AZ,"Maricopa County",14,26,800
+55,141,27,123,MN,"Ramsey County",12,18,232
+55,141,55,069,WI,"Lincoln County",12,22,382
+55,141,55,135,WI,"Waupaca County",12,25,868
+55,141,55,137,WI,"Waushara County",12,18,546
+55,141,55,039,WI,"Fond Du Lac County",11,15,272
+55,141,55,117,WI,"Sheboygan County",11,25,402
+55,141,55,081,WI,"Monroe County",10,19,170
+55,141,55,105,WI,"Rock County",10,17,256
+55,141,58,000,SS,"Other Flows - Same State",174,323,6353
+55,141,59,000,DS,"Other Flows - Diff State",402,745,28292
+55,141,59,001,DS,"Other Flows - Northeast",20,43,1178
+55,141,59,003,DS,"Other Flows - Midwest",147,293,7415
+55,141,59,005,DS,"Other Flows - South",122,213,14545
+55,141,59,007,DS,"Other Flows - West",113,196,5154
+55,141,57,009,FR,"Foreign - Other flows",10,12,173

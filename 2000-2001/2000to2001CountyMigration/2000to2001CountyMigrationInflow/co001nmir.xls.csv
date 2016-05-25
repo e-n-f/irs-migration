@@ -1,0 +1,963 @@
+"2000 - 2001 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+NewMexico,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+35,000,96,000,NM,"Total Mig - US & For",47297,96374,1504131
+35,000,97,000,NM,"Total Mig - US",45945,93582,1471814
+35,000,97,001,NM,"Total Mig - US Same St",18669,38237,482038
+35,000,97,003,NM,"Total Mig - US Diff St",27276,55345,989775
+35,000,98,000,NM,"Total Mig - Foreign",1352,2792,32317
+35,001,96,000,NM,"Bernalillo Coun Tot Mig-US & For",14342,26487,491089
+35,001,97,000,NM,"Bernalillo Coun Tot Mig-US",13882,25641,479734
+35,001,97,001,NM,"Bernalillo Coun Tot Mig-Same St",5417,9908,141365
+35,001,97,003,NM,"Bernalillo Coun Tot Mig-Diff St",8465,15733,338368
+35,001,98,000,NM,"Bernalillo Coun Tot Mig-Foreign",460,846,11355
+35,001,35,001,NM,"Bernalillo Coun Non-Migrants",175147,360100,7435439
+35,001,35,043,NM,"Sandoval County",1353,2530,41022
+35,001,35,061,NM,"Valencia County",759,1556,19537
+35,001,35,049,NM,"Santa Fe County",643,1085,18554
+35,001,04,013,AZ,"Maricopa County",393,748,16030
+35,001,35,013,NM,"Dona Ana County",341,565,9119
+35,001,35,031,NM,"Mckinley County",312,586,6216
+35,001,35,045,NM,"San Juan County",281,487,6084
+35,001,48,141,TX,"El Paso County",277,598,6575
+35,001,06,037,CA,"Los Angeles County",227,429,7583
+35,001,57,005,FR,"Foreign - APO/FPO ZIPs",225,541,8096
+35,001,35,006,NM,"Cibola County",185,335,3929
+35,001,32,003,NV,"Clark County",167,322,6699
+35,001,35,057,NM,"Torrance County",165,336,3767
+35,001,06,073,CA,"San Diego County",159,301,5218
+35,001,35,039,NM,"Rio Arriba County",156,266,3339
+35,001,35,005,NM,"Chaves County",154,265,3193
+35,001,35,047,NM,"San Miguel County",147,273,3716
+35,001,04,019,AZ,"Pima County",139,272,5538
+35,001,35,055,NM,"Taos County",127,200,2473
+35,001,48,029,TX,"Bexar County",115,221,5221
+35,001,48,113,TX,"Dallas County",115,229,5861
+35,001,48,201,TX,"Harris County",114,198,4980
+35,001,35,053,NM,"Socorro County",102,172,1984
+35,001,48,439,TX,"Tarrant County",101,182,3689
+35,001,08,041,CO,"El Paso County",96,223,3701
+35,001,08,031,CO,"Denver County",93,148,2568
+35,001,53,033,WA,"King County",93,142,4616
+35,001,17,031,IL,"Cook County",92,136,3562
+35,001,35,015,NM,"Eddy County",90,148,2314
+35,001,35,035,NM,"Otero County",90,175,2885
+35,001,06,059,CA,"Orange County",88,184,4847
+35,001,49,035,UT,"Salt Lake County",82,188,3786
+35,001,35,009,NM,"Curry County",78,151,1847
+35,001,06,085,CA,"Santa Clara County",69,119,7025
+35,001,48,453,TX,"Travis County",68,107,2839
+35,001,06,071,CA,"San Bernardino Count",67,139,1811
+35,001,08,005,CO,"Arapahoe County",64,106,2189
+35,001,40,109,OK,"Oklahoma County",62,130,2631
+35,001,35,017,NM,"Grant County",58,107,1082
+35,001,06,001,CA,"Alameda County",54,107,3326
+35,001,08,059,CO,"Jefferson County",53,93,2280
+35,001,35,007,NM,"Colfax County",52,87,1324
+35,001,06,065,CA,"Riverside County",50,113,1578
+35,001,35,028,NM,"Los Alamos County",49,91,2427
+35,001,08,001,CO,"Adams County",48,99,1808
+35,001,08,013,CO,"Boulder County",47,85,2726
+35,001,51,059,VA,"Fairfax County",47,81,3165
+35,001,04,001,AZ,"Apache County",46,85,1005
+35,001,25,017,MA,"Middlesex County",46,72,1784
+35,001,35,025,NM,"Lea County",46,82,1074
+35,001,48,303,TX,"Lubbock County",45,75,1446
+35,001,27,053,MN,"Hennepin County",43,54,1419
+35,001,35,027,NM,"Lincoln County",43,71,920
+35,001,08,069,CO,"Larimer County",41,57,1254
+35,001,15,003,HI,"Honolulu County",41,82,1618
+35,001,12,011,FL,"Broward County",37,56,1843
+35,001,04,005,AZ,"Coconino County",36,64,1017
+35,001,53,053,WA,"Pierce County",35,84,1060
+35,001,24,031,MD,"Montgomery County",33,62,2937
+35,001,41,067,OR,"Washington County",33,54,1504
+35,001,48,375,TX,"Potter County",33,76,837
+35,001,02,020,AK,"Anchorage Borough",32,67,1397
+35,001,41,051,OR,"Multnomah County",32,47,1106
+35,001,06,075,CA,"San Francisco County",31,36,1623
+35,001,08,067,CO,"La Plata County",31,49,749
+35,001,20,091,KS,"Johnson County",31,72,1997
+35,001,31,055,NE,"Douglas County",31,53,1434
+35,001,39,049,OH,"Franklin County",31,54,1345
+35,001,06,067,CA,"Sacramento County",30,70,1171
+35,001,12,057,FL,"Hillsborough County",30,56,1033
+35,001,40,143,OK,"Tulsa County",30,51,949
+35,001,12,091,FL,"Okaloosa County",29,74,1429
+35,001,35,041,NM,"Roosevelt County",29,49,512
+35,001,48,121,TX,"Denton County",29,52,1273
+35,001,37,051,NC,"Cumberland County",28,55,613
+35,001,39,035,OH,"Cuyahoga County",28,42,1234
+35,001,49,049,UT,"Utah County",28,59,1924
+35,001,35,029,NM,"Luna County",27,52,580
+35,001,48,085,TX,"Collin County",27,48,1314
+35,001,06,053,CA,"Monterey County",26,62,884
+35,001,12,009,FL,"Brevard County",26,51,1423
+35,001,35,033,NM,"Mora County",26,40,602
+35,001,04,025,AZ,"Yavapai County",25,41,787
+35,001,48,027,TX,"Bell County",25,49,1032
+35,001,53,061,WA,"Snohomish County",25,39,815
+35,001,53,063,WA,"Spokane County",25,44,812
+35,001,04,017,AZ,"Navajo County",24,51,838
+35,001,06,111,CA,"Ventura County",24,45,603
+35,001,08,035,CO,"Douglas County",24,46,1168
+35,001,08,077,CO,"Mesa County",24,54,1092
+35,001,18,097,IN,"Marion County",24,38,1006
+35,001,48,381,TX,"Randall County",24,39,788
+35,001,48,485,TX,"Wichita County",24,51,822
+35,001,49,011,UT,"Davis County",24,62,1263
+35,001,06,083,CA,"Santa Barbara County",23,56,845
+35,001,36,061,NY,"New York County",23,28,1280
+35,001,56,021,WY,"Laramie County",23,50,907
+35,001,05,119,AR,"Pulaski County",22,48,1196
+35,001,06,013,CA,"Contra Costa County",22,43,1192
+35,001,35,037,NM,"Quay County",22,44,528
+35,001,36,047,NY,"Kings County",22,28,2804
+35,001,06,081,CA,"San Mateo County",21,28,1417
+35,001,35,051,NM,"Sierra County",21,36,949
+35,001,48,329,TX,"Midland County",21,43,685
+35,001,48,355,TX,"Nueces County",21,39,783
+35,001,08,101,CO,"Pueblo County",20,40,480
+35,001,17,043,IL,"Du Page County",20,37,1037
+35,001,20,173,KS,"Sedgwick County",20,34,853
+35,001,29,095,MO,"Jackson County",20,41,648
+35,001,39,057,OH,"Greene County",20,50,709
+35,001,39,113,OH,"Montgomery County",20,52,1070
+35,001,48,135,TX,"Ector County",20,38,585
+35,001,55,025,WI,"Dane County",20,35,851
+35,001,13,121,GA,"Fulton County",19,26,744
+35,001,24,003,MD,"Anne Arundel County",19,37,702
+35,001,29,189,MO,"St Louis County",19,26,1385
+35,001,32,031,NV,"Washoe County",19,32,582
+35,001,35,019,NM,"Guadalupe County",19,34,475
+35,001,42,003,PA,"Allegheny County",19,28,610
+35,001,48,441,TX,"Taylor County",19,39,551
+35,001,51,013,VA,"Arlington County",19,28,1566
+35,001,06,019,CA,"Fresno County",18,36,517
+35,001,06,029,CA,"Kern County",18,45,704
+35,001,12,025,FL,"Dade County",18,28,477
+35,001,16,001,ID,"Ada County",18,25,391
+35,001,40,027,OK,"Cleveland County",18,42,663
+35,001,41,005,OR,"Clackamas County",18,36,737
+35,001,53,011,WA,"Clark County",18,40,885
+35,001,42,101,PA,"Philadelphia County",17,26,442
+35,001,46,103,SD,"Pennington County",17,24,351
+35,001,47,157,TN,"Shelby County",17,29,544
+35,001,12,099,FL,"Palm Beach County",16,25,1160
+35,001,24,033,MD,"Prince George's Coun",16,36,735
+35,001,26,163,MI,"Wayne County",16,29,804
+35,001,27,123,MN,"Ramsey County",16,25,620
+35,001,06,077,CA,"San Joaquin County",15,36,911
+35,001,06,095,CA,"Solano County",15,40,727
+35,001,26,161,MI,"Washtenaw County",15,21,614
+35,001,30,111,MT,"Yellowstone County",15,22,476
+35,001,36,029,NY,"Erie County",15,23,605
+35,001,36,081,NY,"Queens County",15,26,665
+35,001,55,079,WI,"Milwaukee County",15,22,434
+35,001,04,003,AZ,"Cochise County",14,23,320
+35,001,12,103,FL,"Pinellas County",14,18,358
+35,001,17,097,IL,"Lake County",14,24,658
+35,001,25,025,MA,"Suffolk County",14,20,366
+35,001,31,153,NE,"Sarpy County",14,37,769
+35,001,41,039,OR,"Lane County",14,24,528
+35,001,51,153,VA,"Prince William Count",14,27,630
+35,001,51,810,VA,"Virginia Beach",14,22,321
+35,001,06,097,CA,"Sonoma County",13,19,295
+35,001,11,001,DC,"District Of Columbia",13,21,813
+35,001,12,005,FL,"Bay County",13,33,519
+35,001,12,095,FL,"Orange County",13,21,312
+35,001,19,113,IA,"Linn County",13,29,930
+35,001,25,009,MA,"Essex County",13,17,582
+35,001,28,047,MS,"Harrison County",13,24,393
+35,001,37,183,NC,"Wake County",13,17,826
+35,001,39,061,OH,"Hamilton County",13,18,652
+35,001,39,095,OH,"Lucas County",13,19,706
+35,001,47,037,TN,"Davidson County",13,28,859
+35,001,48,491,TX,"Williamson County",13,26,593
+35,001,04,015,AZ,"Mohave County",12,16,278
+35,001,06,087,CA,"Santa Cruz County",12,18,4428
+35,001,09,003,CT,"Hartford County",12,24,702
+35,001,13,089,GA,"De Kalb County",12,21,859
+35,001,13,185,GA,"Lowndes County",12,28,409
+35,001,17,163,IL,"St Clair County",12,25,361
+35,001,31,109,NE,"Lancaster County",12,21,469
+35,001,34,005,NJ,"Burlington County",12,28,499
+35,001,34,027,NJ,"Morris County",12,14,442
+35,001,35,003,NM,"Catron County",12,24,288
+35,001,35,011,NM,"De Baca County",12,21,278
+35,001,36,055,NY,"Monroe County",12,18,400
+35,001,45,019,SC,"Charleston County",12,15,334
+35,001,48,041,TX,"Brazos County",12,38,779
+35,001,48,215,TX,"Hidalgo County",12,23,323
+35,001,48,309,TX,"Mclennan County",12,23,646
+35,001,53,067,WA,"Thurston County",12,20,434
+35,001,55,133,WI,"Waukesha County",12,25,417
+35,001,18,003,IN,"Allen County",11,13,923
+35,001,19,153,IA,"Polk County",11,14,369
+35,001,20,055,KS,"Finney County",11,25,335
+35,001,22,033,LA,"East Baton Rouge Par",11,19,312
+35,001,26,099,MI,"Macomb County",11,16,309
+35,001,26,125,MI,"Oakland County",11,17,700
+35,001,29,510,MO,"St Louis",11,17,232
+35,001,36,071,NY,"Orange County",11,15,352
+35,001,36,103,NY,"Suffolk County",11,17,420
+35,001,48,339,TX,"Montgomery County",11,21,1002
+35,001,49,057,UT,"Weber County",11,22,409
+35,001,50,007,VT,"Chittenden County",11,15,692
+35,001,51,700,VA,"Newport News",11,29,587
+35,001,53,035,WA,"Kitsap County",11,21,403
+35,001,01,073,AL,"Jefferson County",10,19,647
+35,001,02,090,AK,"Fairbanks North Star",10,14,269
+35,001,06,023,CA,"Humboldt County",10,15,148
+35,001,12,113,FL,"Santa Rosa County",10,29,552
+35,001,13,153,GA,"Houston County",10,34,420
+35,001,15,001,HI,"Hawaii County",10,17,387
+35,001,17,201,IL,"Winnebago County",10,22,760
+35,001,22,071,LA,"Orleans Parish",10,18,281
+35,001,25,021,MA,"Norfolk County",10,16,410
+35,001,30,063,MT,"Missoula County",10,10,200
+35,001,33,011,NH,"Hillsborough County",10,16,529
+35,001,34,023,NJ,"Middlesex County",10,20,231
+35,001,42,017,PA,"Bucks County",10,22,668
+35,001,45,079,SC,"Richland County",10,20,618
+35,001,48,099,TX,"Coryell County",10,28,259
+35,001,53,073,WA,"Whatcom County",10,16,211
+35,001,53,077,WA,"Yakima County",10,23,374
+35,001,56,025,WY,"Natrona County",10,19,201
+35,001,58,000,SS,"Other Flows - Same State",18,40,349
+35,001,59,000,DS,"Other Flows - Diff State",2563,4670,90506
+35,001,59,001,DS,"Other Flows - Northeast",343,530,12878
+35,001,59,003,DS,"Other Flows - Midwest",638,1112,20361
+35,001,59,005,DS,"Other Flows - South",1089,2105,40284
+35,001,59,007,DS,"Other Flows - West",493,923,16983
+35,001,57,009,FR,"Foreign - Other flows",235,305,3259
+35,003,96,000,NM,"Catron County Tot Mig-US & For",124,217,4008
+35,003,97,000,NM,"Catron County Tot Mig-US",124,217,4008
+35,003,97,001,NM,"Catron County Tot Mig-Same St",43,82,813
+35,003,97,003,NM,"Catron County Tot Mig-Diff St",81,135,3195
+35,003,35,003,NM,"Catron County Non-Migrants",914,1916,21174
+35,003,35,017,NM,"Grant County",11,27,250
+35,003,04,013,AZ,"Maricopa County",10,17,312
+35,003,58,000,SS,"Other Flows - Same State",32,55,563
+35,003,59,000,DS,"Other Flows - Diff State",71,118,2883
+35,005,96,000,NM,"Chaves County Tot Mig-US & For",1020,2205,26055
+35,005,97,000,NM,"Chaves County Tot Mig-US",1009,2178,25879
+35,005,97,001,NM,"Chaves County Tot Mig-Same St",390,808,8948
+35,005,97,003,NM,"Chaves County Tot Mig-Diff St",619,1370,16930
+35,005,98,000,NM,"Chaves County Tot Mig-Foreign",11,27,176
+35,005,35,005,NM,"Chaves County Non-Migrants",16837,40196,495338
+35,005,35,015,NM,"Eddy County",86,192,2456
+35,005,35,001,NM,"Bernalillo County",68,122,1428
+35,005,35,013,NM,"Dona Ana County",44,106,950
+35,005,35,027,NM,"Lincoln County",33,60,681
+35,005,04,013,AZ,"Maricopa County",24,60,568
+35,005,06,037,CA,"Los Angeles County",24,62,569
+35,005,48,141,TX,"El Paso County",24,59,529
+35,005,35,025,NM,"Lea County",23,45,482
+35,005,35,035,NM,"Otero County",21,47,531
+35,005,48,303,TX,"Lubbock County",18,39,294
+35,005,06,073,CA,"San Diego County",16,42,342
+35,005,35,041,NM,"Roosevelt County",16,27,271
+35,005,35,009,NM,"Curry County",15,29,297
+35,005,04,019,AZ,"Pima County",11,25,223
+35,005,32,003,NV,"Clark County",11,31,174
+35,005,48,439,TX,"Tarrant County",10,19,373
+35,005,58,000,SS,"Other Flows - Same State",84,180,1850
+35,005,59,000,DS,"Other Flows - Diff State",481,1033,13858
+35,005,59,001,DS,"Other Flows - Northeast",15,27,502
+35,005,59,003,DS,"Other Flows - Midwest",82,176,2515
+35,005,59,005,DS,"Other Flows - South",239,524,6301
+35,005,59,007,DS,"Other Flows - West",145,306,4540
+35,005,57,009,FR,"Foreign - Other flows",11,27,176
+35,006,96,000,NM,"Cibola County Tot Mig-US & For",598,1253,15238
+35,006,97,000,NM,"Cibola County Tot Mig-US",598,1253,15238
+35,006,97,001,NM,"Cibola County Tot Mig-Same St",364,779,8031
+35,006,97,003,NM,"Cibola County Tot Mig-Diff St",234,474,7208
+35,006,35,006,NM,"Cibola County Non-Migrants",6526,15342,184662
+35,006,35,001,NM,"Bernalillo County",132,271,2693
+35,006,35,031,NM,"Mckinley County",97,222,1749
+35,006,35,061,NM,"Valencia County",32,70,738
+35,006,35,043,NM,"Sandoval County",23,54,661
+35,006,35,045,NM,"San Juan County",17,37,422
+35,006,04,013,AZ,"Maricopa County",14,27,329
+35,006,35,013,NM,"Dona Ana County",12,21,304
+35,006,32,003,NV,"Clark County",11,17,312
+35,006,04,001,AZ,"Apache County",10,26,485
+35,006,58,000,SS,"Other Flows - Same State",51,104,1463
+35,006,59,000,DS,"Other Flows - Diff State",199,404,6081
+35,006,59,001,DS,"Other Flows - Northeast",11,17,336
+35,006,59,003,DS,"Other Flows - Midwest",27,44,716
+35,006,59,005,DS,"Other Flows - South",55,113,1715
+35,006,59,007,DS,"Other Flows - West",106,230,3314
+35,007,96,000,NM,"Colfax County Tot Mig-US & For",357,748,13846
+35,007,97,000,NM,"Colfax County Tot Mig-US",357,748,13846
+35,007,97,001,NM,"Colfax County Tot Mig-Same St",113,230,3740
+35,007,97,003,NM,"Colfax County Tot Mig-Diff St",244,518,10105
+35,007,35,007,NM,"Colfax County Non-Migrants",4709,10160,159556
+35,007,35,001,NM,"Bernalillo County",33,50,905
+35,007,35,055,NM,"Taos County",11,16,321
+35,007,08,071,CO,"Las Animas County",10,26,248
+35,007,58,000,SS,"Other Flows - Same State",69,164,2514
+35,007,59,000,DS,"Other Flows - Diff State",234,492,9857
+35,009,96,000,NM,"Curry County Tot Mig-US & For",1609,3592,39093
+35,009,97,000,NM,"Curry County Tot Mig-US",1420,3079,33763
+35,009,97,001,NM,"Curry County Tot Mig-Same St",328,754,7538
+35,009,97,003,NM,"Curry County Tot Mig-Diff St",1092,2325,26225
+35,009,98,000,NM,"Curry County Tot Mig-Foreign",189,513,5330
+35,009,35,009,NM,"Curry County Non-Migrants",13074,31045,421969
+35,009,35,041,NM,"Roosevelt County",103,234,2140
+35,009,48,369,TX,"Parmer County",44,123,939
+35,009,35,001,NM,"Bernalillo County",38,74,861
+35,009,35,037,NM,"Quay County",34,89,667
+35,009,48,303,TX,"Lubbock County",29,70,663
+35,009,04,013,AZ,"Maricopa County",27,61,1199
+35,009,48,485,TX,"Wichita County",25,42,429
+35,009,35,005,NM,"Chaves County",21,56,688
+35,009,02,090,AK,"Fairbanks North Star",20,63,677
+35,009,48,029,TX,"Bexar County",19,36,466
+35,009,48,141,TX,"El Paso County",18,50,390
+35,009,35,035,NM,"Otero County",17,48,399
+35,009,48,017,TX,"Bailey County",17,51,383
+35,009,48,375,TX,"Potter County",17,39,295
+35,009,40,109,OK,"Oklahoma County",16,32,288
+35,009,06,071,CA,"San Bernardino Count",15,42,268
+35,009,06,037,CA,"Los Angeles County",14,16,213
+35,009,35,011,NM,"De Baca County",13,31,403
+35,009,35,025,NM,"Lea County",13,25,288
+35,009,48,113,TX,"Dallas County",12,21,211
+35,009,48,439,TX,"Tarrant County",12,32,620
+35,009,02,020,AK,"Anchorage Borough",11,32,350
+35,009,06,073,CA,"San Diego County",11,22,199
+35,009,28,047,MS,"Harrison County",11,17,241
+35,009,48,381,TX,"Randall County",11,18,204
+35,009,08,041,CO,"El Paso County",10,19,310
+35,009,35,013,NM,"Dona Ana County",10,21,140
+35,009,58,000,SS,"Other Flows - Same State",79,176,1952
+35,009,59,000,DS,"Other Flows - Diff State",753,1539,17879
+35,009,59,001,DS,"Other Flows - Northeast",51,88,1111
+35,009,59,003,DS,"Other Flows - Midwest",137,261,3462
+35,009,59,005,DS,"Other Flows - South",393,826,9407
+35,009,59,007,DS,"Other Flows - West",172,364,3900
+35,009,57,009,FR,"Foreign - Other flows",189,513,5330
+35,011,96,000,NM,"De Baca County Tot Mig-US & For",53,108,1415
+35,011,97,000,NM,"De Baca County Tot Mig-US",53,108,1415
+35,011,35,011,NM,"De Baca County Non-Migrants",670,1541,17314
+35,013,96,000,NM,"Dona Ana County Tot Mig-US & For",4011,8240,108560
+35,013,97,000,NM,"Dona Ana County Tot Mig-US",3839,7973,105946
+35,013,97,001,NM,"Dona Ana County Tot Mig-Same St",1122,2040,25122
+35,013,97,003,NM,"Dona Ana County Tot Mig-Diff St",2717,5933,80823
+35,013,98,000,NM,"Dona Ana County Tot Mig-Foreign",172,267,2615
+35,013,35,013,NM,"Dona Ana County Non-Migrants",49497,117370,1575220
+35,013,48,141,TX,"El Paso County",927,2258,21169
+35,013,35,001,NM,"Bernalillo County",187,298,4195
+35,013,35,035,NM,"Otero County",119,227,2375
+35,013,35,029,NM,"Luna County",106,225,2170
+35,013,04,013,AZ,"Maricopa County",92,180,2893
+35,013,35,005,NM,"Chaves County",89,161,1786
+35,013,35,017,NM,"Grant County",83,158,2252
+35,013,35,049,NM,"Santa Fe County",72,119,2063
+35,013,35,015,NM,"Eddy County",71,121,1298
+35,013,35,051,NM,"Sierra County",69,135,1590
+35,013,06,037,CA,"Los Angeles County",60,143,2405
+35,013,57,005,FR,"Foreign - APO/FPO ZIPs",54,124,1977
+35,013,04,019,AZ,"Pima County",47,75,1372
+35,013,32,003,NV,"Clark County",38,84,1754
+35,013,48,113,TX,"Dallas County",38,66,1121
+35,013,06,073,CA,"San Diego County",37,78,813
+35,013,35,043,NM,"Sandoval County",36,76,944
+35,013,35,027,NM,"Lincoln County",34,65,539
+35,013,35,045,NM,"San Juan County",33,54,772
+35,013,35,025,NM,"Lea County",31,59,662
+35,013,48,201,TX,"Harris County",28,62,1511
+35,013,35,053,NM,"Socorro County",27,48,671
+35,013,48,029,TX,"Bexar County",25,57,626
+35,013,06,059,CA,"Orange County",24,59,884
+35,013,08,041,CO,"El Paso County",24,55,855
+35,013,35,009,NM,"Curry County",24,59,806
+35,013,08,031,CO,"Denver County",23,57,573
+35,013,35,031,NM,"Mckinley County",23,41,428
+35,013,35,061,NM,"Valencia County",21,36,393
+35,013,48,439,TX,"Tarrant County",19,49,588
+35,013,08,005,CO,"Arapahoe County",18,42,593
+35,013,48,453,TX,"Travis County",17,26,363
+35,013,04,003,AZ,"Cochise County",16,39,398
+35,013,06,071,CA,"San Bernardino Count",16,24,363
+35,013,08,001,CO,"Adams County",15,38,238
+35,013,08,123,CO,"Weld County",15,36,273
+35,013,06,085,CA,"Santa Clara County",14,23,605
+35,013,17,031,IL,"Cook County",14,21,602
+35,013,53,033,WA,"King County",12,18,348
+35,013,53,053,WA,"Pierce County",12,26,304
+35,013,06,065,CA,"Riverside County",11,29,332
+35,013,35,028,NM,"Los Alamos County",11,13,309
+35,013,48,027,TX,"Bell County",11,25,347
+35,013,48,303,TX,"Lubbock County",11,20,260
+35,013,49,035,UT,"Salt Lake County",11,25,331
+35,013,06,001,CA,"Alameda County",10,20,524
+35,013,06,067,CA,"Sacramento County",10,23,297
+35,013,12,031,FL,"Duval County",10,23,578
+35,013,58,000,SS,"Other Flows - Same State",86,145,1872
+35,013,59,000,DS,"Other Flows - Diff State",1112,2252,37504
+35,013,59,001,DS,"Other Flows - Northeast",113,185,4012
+35,013,59,003,DS,"Other Flows - Midwest",245,478,10258
+35,013,59,005,DS,"Other Flows - South",452,941,13144
+35,013,59,007,DS,"Other Flows - West",302,648,10090
+35,013,57,009,FR,"Foreign - Other flows",118,143,638
+35,015,96,000,NM,"Eddy County Tot Mig-US & For",879,1972,26267
+35,015,97,000,NM,"Eddy County Tot Mig-US",879,1972,26267
+35,015,97,001,NM,"Eddy County Tot Mig-Same St",315,746,8677
+35,015,97,003,NM,"Eddy County Tot Mig-Diff St",564,1226,17590
+35,015,35,015,NM,"Eddy County Non-Migrants",14410,34799,514549
+35,015,35,005,NM,"Chaves County",68,195,1785
+35,015,35,025,NM,"Lea County",60,164,1689
+35,015,35,001,NM,"Bernalillo County",40,90,1453
+35,015,35,013,NM,"Dona Ana County",31,51,566
+35,015,04,013,AZ,"Maricopa County",27,56,432
+35,015,48,141,TX,"El Paso County",23,47,419
+35,015,35,035,NM,"Otero County",21,44,279
+35,015,48,303,TX,"Lubbock County",15,25,416
+35,015,48,329,TX,"Midland County",15,51,970
+35,015,35,009,NM,"Curry County",12,22,336
+35,015,04,019,AZ,"Pima County",11,25,392
+35,015,48,439,TX,"Tarrant County",11,21,157
+35,015,35,027,NM,"Lincoln County",10,15,198
+35,015,35,045,NM,"San Juan County",10,20,233
+35,015,48,135,TX,"Ector County",10,24,315
+35,015,58,000,SS,"Other Flows - Same State",63,145,2139
+35,015,59,000,DS,"Other Flows - Diff State",452,977,14488
+35,015,59,001,DS,"Other Flows - Northeast",18,40,671
+35,015,59,003,DS,"Other Flows - Midwest",47,91,1480
+35,015,59,005,DS,"Other Flows - South",231,507,6906
+35,015,59,007,DS,"Other Flows - West",156,339,5430
+35,017,96,000,NM,"Grant County Tot Mig-US & For",744,1448,22416
+35,017,97,000,NM,"Grant County Tot Mig-US",744,1448,22416
+35,017,97,001,NM,"Grant County Tot Mig-Same St",220,448,4937
+35,017,97,003,NM,"Grant County Tot Mig-Diff St",524,1000,17479
+35,017,35,017,NM,"Grant County Non-Migrants",9524,21707,311800
+35,017,04,019,AZ,"Pima County",50,87,1535
+35,017,35,013,NM,"Dona Ana County",45,82,808
+35,017,04,013,AZ,"Maricopa County",32,57,707
+35,017,35,023,NM,"Hidalgo County",27,70,964
+35,017,35,001,NM,"Bernalillo County",26,50,619
+35,017,35,029,NM,"Luna County",24,48,536
+35,017,48,141,TX,"El Paso County",19,38,520
+35,017,32,003,NV,"Clark County",15,28,383
+35,017,06,037,CA,"Los Angeles County",11,19,202
+35,017,35,035,NM,"Otero County",11,24,-124
+35,017,58,000,SS,"Other Flows - Same State",87,174,2133
+35,017,59,000,DS,"Other Flows - Diff State",397,771,14132
+35,017,59,001,DS,"Other Flows - Northeast",25,42,696
+35,017,59,003,DS,"Other Flows - Midwest",63,107,2623
+35,017,59,005,DS,"Other Flows - South",114,216,3875
+35,017,59,007,DS,"Other Flows - West",195,406,6939
+35,019,96,000,NM,"Guadalupe Count Tot Mig-US & For",97,202,2096
+35,019,97,000,NM,"Guadalupe Count Tot Mig-US",97,202,2096
+35,019,97,001,NM,"Guadalupe Count Tot Mig-Same St",70,140,1534
+35,019,97,003,NM,"Guadalupe Count Tot Mig-Diff St",27,62,561
+35,019,35,019,NM,"Guadalupe Count Non-Migrants",1298,2945,29116
+35,019,35,001,NM,"Bernalillo County",18,30,313
+35,019,35,047,NM,"San Miguel County",10,19,172
+35,019,58,000,SS,"Other Flows - Same State",42,91,1049
+35,019,59,000,DS,"Other Flows - Diff State",27,62,561
+35,021,96,000,NM,"Harding County Tot Mig-US & For",10,17,179
+35,021,97,000,NM,"Harding County Tot Mig-US",10,17,179
+35,021,35,021,NM,"Harding County Non-Migrants",230,481,5717
+35,023,96,000,NM,"Hidalgo County Tot Mig-US & For",109,234,2461
+35,023,97,000,NM,"Hidalgo County Tot Mig-US",109,234,2461
+35,023,97,001,NM,"Hidalgo County Tot Mig-Same St",36,78,822
+35,023,97,003,NM,"Hidalgo County Tot Mig-Diff St",73,156,1640
+35,023,35,023,NM,"Hidalgo County Non-Migrants",1502,3737,39387
+35,023,35,013,NM,"Dona Ana County",10,27,188
+35,023,35,017,NM,"Grant County",10,26,237
+35,023,58,000,SS,"Other Flows - Same State",16,25,397
+35,023,59,000,DS,"Other Flows - Diff State",73,156,1640
+35,025,96,000,NM,"Lea County Tot Mig-US & For",955,2227,25655
+35,025,97,000,NM,"Lea County Tot Mig-US",955,2227,25655
+35,025,97,001,NM,"Lea County Tot Mig-Same St",247,566,5669
+35,025,97,003,NM,"Lea County Tot Mig-Diff St",708,1661,19985
+35,025,35,025,NM,"Lea County Non-Migrants",15965,40407,580991
+35,025,35,015,NM,"Eddy County",64,144,1429
+35,025,48,303,TX,"Lubbock County",49,132,1461
+35,025,35,005,NM,"Chaves County",42,100,1084
+35,025,48,329,TX,"Midland County",27,56,920
+35,025,48,135,TX,"Ector County",25,48,603
+35,025,48,165,TX,"Gaines County",25,57,632
+35,025,48,141,TX,"El Paso County",23,65,352
+35,025,35,045,NM,"San Juan County",20,50,760
+35,025,35,001,NM,"Bernalillo County",19,45,467
+35,025,48,439,TX,"Tarrant County",19,42,507
+35,025,35,013,NM,"Dona Ana County",17,34,277
+35,025,35,041,NM,"Roosevelt County",15,31,210
+35,025,48,113,TX,"Dallas County",15,25,241
+35,025,48,501,TX,"Yoakum County",15,41,343
+35,025,04,013,AZ,"Maricopa County",14,41,391
+35,025,35,009,NM,"Curry County",12,26,276
+35,025,48,495,TX,"Winkler County",12,32,357
+35,025,35,027,NM,"Lincoln County",11,21,184
+35,025,48,451,TX,"Tom Green County",11,34,456
+35,025,35,035,NM,"Otero County",10,23,181
+35,025,48,377,TX,"Presidio County",10,23,141
+35,025,58,000,SS,"Other Flows - Same State",37,92,803
+35,025,59,000,DS,"Other Flows - Diff State",463,1065,13580
+35,027,96,000,NM,"Lincoln County Tot Mig-US & For",664,1302,29074
+35,027,97,000,NM,"Lincoln County Tot Mig-US",664,1302,29074
+35,027,97,001,NM,"Lincoln County Tot Mig-Same St",209,443,6346
+35,027,97,003,NM,"Lincoln County Tot Mig-Diff St",455,859,22729
+35,027,35,027,NM,"Lincoln County Non-Migrants",5179,11149,161210
+35,027,48,141,TX,"El Paso County",54,105,2533
+35,027,35,035,NM,"Otero County",42,80,1074
+35,027,35,005,NM,"Chaves County",37,82,1173
+35,027,35,013,NM,"Dona Ana County",35,74,1151
+35,027,48,303,TX,"Lubbock County",20,34,468
+35,027,35,001,NM,"Bernalillo County",18,34,654
+35,027,06,073,CA,"San Diego County",13,22,339
+35,027,48,439,TX,"Tarrant County",12,24,718
+35,027,04,013,AZ,"Maricopa County",11,17,399
+35,027,35,015,NM,"Eddy County",11,30,603
+35,027,48,113,TX,"Dallas County",11,22,1699
+35,027,58,000,SS,"Other Flows - Same State",66,143,1691
+35,027,59,000,DS,"Other Flows - Diff State",334,635,16573
+35,028,96,000,NM,"Los Alamos Coun Tot Mig-US & For",473,809,22036
+35,028,97,000,NM,"Los Alamos Coun Tot Mig-US",438,761,21682
+35,028,97,001,NM,"Los Alamos Coun Tot Mig-Same St",166,287,7497
+35,028,97,003,NM,"Los Alamos Coun Tot Mig-Diff St",272,474,14185
+35,028,98,000,NM,"Los Alamos Coun Tot Mig-Foreign",35,48,354
+35,028,35,028,NM,"Los Alamos Coun Non-Migrants",5410,12418,449978
+35,028,35,049,NM,"Santa Fe County",55,106,2708
+35,028,35,001,NM,"Bernalillo County",41,57,1826
+35,028,35,039,NM,"Rio Arriba County",32,56,1588
+35,028,58,000,SS,"Other Flows - Same State",38,68,1376
+35,028,59,000,DS,"Other Flows - Diff State",272,474,14185
+35,028,59,001,DS,"Other Flows - Northeast",27,53,2407
+35,028,59,003,DS,"Other Flows - Midwest",40,58,1594
+35,028,59,005,DS,"Other Flows - South",96,181,5232
+35,028,59,007,DS,"Other Flows - West",109,182,4952
+35,028,57,009,FR,"Foreign - Other flows",35,48,354
+35,029,96,000,NM,"Luna County Tot Mig-US & For",555,1264,12790
+35,029,97,000,NM,"Luna County Tot Mig-US",555,1264,12790
+35,029,97,001,NM,"Luna County Tot Mig-Same St",159,392,3377
+35,029,97,003,NM,"Luna County Tot Mig-Diff St",396,872,9413
+35,029,35,029,NM,"Luna County Non-Migrants",7154,17413,173049
+35,029,35,013,NM,"Dona Ana County",55,142,1145
+35,029,04,013,AZ,"Maricopa County",29,71,268
+35,029,35,017,NM,"Grant County",29,70,606
+35,029,48,141,TX,"El Paso County",29,80,584
+35,029,35,023,NM,"Hidalgo County",16,43,329
+35,029,04,019,AZ,"Pima County",14,31,211
+35,029,35,001,NM,"Bernalillo County",14,27,278
+35,029,04,003,AZ,"Cochise County",13,32,224
+35,029,06,037,CA,"Los Angeles County",13,25,358
+35,029,06,073,CA,"San Diego County",11,18,502
+35,029,58,000,SS,"Other Flows - Same State",45,110,1019
+35,029,59,000,DS,"Other Flows - Diff State",287,615,7267
+35,029,59,001,DS,"Other Flows - Northeast",14,27,640
+35,029,59,003,DS,"Other Flows - Midwest",43,88,1198
+35,029,59,005,DS,"Other Flows - South",100,222,2759
+35,029,59,007,DS,"Other Flows - West",130,278,2670
+35,031,96,000,NM,"Mckinley County Tot Mig-US & For",2506,6246,51377
+35,031,97,000,NM,"Mckinley County Tot Mig-US",2487,6210,51125
+35,031,97,001,NM,"Mckinley County Tot Mig-Same St",1141,2831,21742
+35,031,97,003,NM,"Mckinley County Tot Mig-Diff St",1346,3379,29383
+35,031,98,000,NM,"Mckinley County Tot Mig-Foreign",19,36,252
+35,031,35,031,NM,"Mckinley County Non-Migrants",22906,62186,568855
+35,031,35,045,NM,"San Juan County",766,2026,14975
+35,031,04,001,AZ,"Apache County",562,1625,10507
+35,031,35,001,NM,"Bernalillo County",176,343,2908
+35,031,04,017,AZ,"Navajo County",126,384,2337
+35,031,04,013,AZ,"Maricopa County",94,212,1718
+35,031,35,006,NM,"Cibola County",83,215,1562
+35,031,04,005,AZ,"Coconino County",68,190,1183
+35,031,35,043,NM,"Sandoval County",44,98,730
+35,031,49,035,UT,"Salt Lake County",23,52,308
+35,031,32,003,NV,"Clark County",13,27,365
+35,031,35,061,NM,"Valencia County",12,30,272
+35,031,04,019,AZ,"Pima County",11,23,189
+35,031,06,073,CA,"San Diego County",11,24,247
+35,031,58,000,SS,"Other Flows - Same State",60,119,1294
+35,031,59,000,DS,"Other Flows - Diff State",438,842,12530
+35,031,59,001,DS,"Other Flows - Northeast",45,75,1890
+35,031,59,003,DS,"Other Flows - Midwest",79,128,2158
+35,031,59,005,DS,"Other Flows - South",142,284,4356
+35,031,59,007,DS,"Other Flows - West",172,355,4126
+35,031,57,009,FR,"Foreign - Other flows",19,36,252
+35,033,96,000,NM,"Mora County Tot Mig-US & For",107,216,2773
+35,033,97,000,NM,"Mora County Tot Mig-US",107,216,2773
+35,033,97,001,NM,"Mora County Tot Mig-Same St",74,154,1651
+35,033,97,003,NM,"Mora County Tot Mig-Diff St",33,62,1123
+35,033,35,033,NM,"Mora County Non-Migrants",1427,3091,32916
+35,033,35,047,NM,"San Miguel County",23,56,554
+35,033,35,007,NM,"Colfax County",14,31,357
+35,033,35,001,NM,"Bernalillo County",10,19,219
+35,033,58,000,SS,"Other Flows - Same State",27,48,520
+35,033,59,000,DS,"Other Flows - Diff State",33,62,1123
+35,035,96,000,NM,"Otero County Tot Mig-US & For",1870,4030,51895
+35,035,97,000,NM,"Otero County Tot Mig-US",1625,3380,44622
+35,035,97,001,NM,"Otero County Tot Mig-Same St",325,683,7519
+35,035,97,003,NM,"Otero County Tot Mig-Diff St",1300,2697,37104
+35,035,98,000,NM,"Otero County Tot Mig-Foreign",245,650,7273
+35,035,35,035,NM,"Otero County Non-Migrants",15878,36497,508692
+35,035,48,141,TX,"El Paso County",103,251,2420
+35,035,35,013,NM,"Dona Ana County",80,155,1867
+35,035,35,027,NM,"Lincoln County",52,107,1397
+35,035,35,001,NM,"Bernalillo County",43,85,1064
+35,035,04,013,AZ,"Maricopa County",37,77,1184
+35,035,08,041,CO,"El Paso County",37,89,1080
+35,035,35,005,NM,"Chaves County",31,65,523
+35,035,48,485,TX,"Wichita County",25,49,601
+35,035,32,003,NV,"Clark County",21,48,654
+35,035,48,029,TX,"Bexar County",21,41,595
+35,035,04,019,AZ,"Pima County",18,39,483
+35,035,12,091,FL,"Okaloosa County",18,33,544
+35,035,06,037,CA,"Los Angeles County",15,24,571
+35,035,35,009,NM,"Curry County",14,34,322
+35,035,35,015,NM,"Eddy County",14,26,288
+35,035,48,451,TX,"Tom Green County",13,25,389
+35,035,02,090,AK,"Fairbanks North Star",12,33,519
+35,035,02,020,AK,"Anchorage Borough",11,31,358
+35,035,17,031,IL,"Cook County",11,13,399
+35,035,28,047,MS,"Harrison County",11,22,247
+35,035,06,067,CA,"Sacramento County",10,19,267
+35,035,06,073,CA,"San Diego County",10,25,208
+35,035,35,031,NM,"Mckinley County",10,26,213
+35,035,39,113,OH,"Montgomery County",10,36,291
+35,035,48,113,TX,"Dallas County",10,26,346
+35,035,48,201,TX,"Harris County",10,21,278
+35,035,58,000,SS,"Other Flows - Same State",81,185,1844
+35,035,59,000,DS,"Other Flows - Diff State",897,1795,25669
+35,035,59,001,DS,"Other Flows - Northeast",104,177,3381
+35,035,59,003,DS,"Other Flows - Midwest",182,345,4877
+35,035,59,005,DS,"Other Flows - South",377,780,10538
+35,035,59,007,DS,"Other Flows - West",234,493,6873
+35,035,57,009,FR,"Foreign - Other flows",245,650,7273
+35,037,96,000,NM,"Quay County Tot Mig-US & For",216,451,4978
+35,037,97,000,NM,"Quay County Tot Mig-US",216,451,4978
+35,037,97,001,NM,"Quay County Tot Mig-Same St",97,184,2009
+35,037,97,003,NM,"Quay County Tot Mig-Diff St",119,267,2969
+35,037,35,037,NM,"Quay County Non-Migrants",2935,6483,78864
+35,037,35,009,NM,"Curry County",22,43,362
+35,037,35,001,NM,"Bernalillo County",11,21,250
+35,037,48,375,TX,"Potter County",10,22,217
+35,037,58,000,SS,"Other Flows - Same State",64,120,1397
+35,037,59,000,DS,"Other Flows - Diff State",109,245,2752
+35,039,96,000,NM,"Rio Arriba Coun Tot Mig-US & For",694,1370,18189
+35,039,97,000,NM,"Rio Arriba Coun Tot Mig-US",694,1370,18189
+35,039,97,001,NM,"Rio Arriba Coun Tot Mig-Same St",469,946,11623
+35,039,97,003,NM,"Rio Arriba Coun Tot Mig-Diff St",225,424,6566
+35,039,35,039,NM,"Rio Arriba Coun Non-Migrants",12450,27444,373782
+35,039,35,049,NM,"Santa Fe County",179,365,4800
+35,039,35,001,NM,"Bernalillo County",68,110,1553
+35,039,35,045,NM,"San Juan County",60,142,1255
+35,039,35,055,NM,"Taos County",40,72,845
+35,039,35,028,NM,"Los Alamos County",31,72,1203
+35,039,35,043,NM,"Sandoval County",19,39,404
+35,039,04,013,AZ,"Maricopa County",14,25,286
+35,039,35,047,NM,"San Miguel County",10,15,171
+35,039,58,000,SS,"Other Flows - Same State",62,131,1392
+35,039,59,000,DS,"Other Flows - Diff State",211,399,6280
+35,039,59,001,DS,"Other Flows - Northeast",18,27,563
+35,039,59,003,DS,"Other Flows - Midwest",24,42,548
+35,039,59,005,DS,"Other Flows - South",57,115,1995
+35,039,59,007,DS,"Other Flows - West",112,215,3174
+35,041,96,000,NM,"Roosevelt Count Tot Mig-US & For",523,1150,12025
+35,041,97,000,NM,"Roosevelt Count Tot Mig-US",495,1082,11299
+35,041,97,001,NM,"Roosevelt Count Tot Mig-Same St",242,489,4726
+35,041,97,003,NM,"Roosevelt Count Tot Mig-Diff St",253,593,6574
+35,041,98,000,NM,"Roosevelt Count Tot Mig-Foreign",28,68,725
+35,041,35,041,NM,"Roosevelt Count Non-Migrants",4839,11491,134968
+35,041,35,009,NM,"Curry County",82,175,1613
+35,041,35,005,NM,"Chaves County",22,48,398
+35,041,35,001,NM,"Bernalillo County",20,36,437
+35,041,35,045,NM,"San Juan County",17,31,402
+35,041,04,013,AZ,"Maricopa County",13,21,323
+35,041,35,037,NM,"Quay County",13,23,187
+35,041,35,025,NM,"Lea County",12,21,144
+35,041,35,011,NM,"De Baca County",10,16,120
+35,041,35,015,NM,"Eddy County",10,18,112
+35,041,48,303,TX,"Lubbock County",10,16,155
+35,041,58,000,SS,"Other Flows - Same State",56,121,1311
+35,041,59,000,DS,"Other Flows - Diff State",230,556,6095
+35,041,57,009,FR,"Foreign - Other flows",28,68,725
+35,043,96,000,NM,"Sandoval County Tot Mig-US & For",3578,7431,139525
+35,043,97,000,NM,"Sandoval County Tot Mig-US",3553,7374,138769
+35,043,97,001,NM,"Sandoval County Tot Mig-Same St",2128,4389,69790
+35,043,97,003,NM,"Sandoval County Tot Mig-Diff St",1425,2985,68979
+35,043,98,000,NM,"Sandoval County Tot Mig-Foreign",25,57,756
+35,043,35,043,NM,"Sandoval County Non-Migrants",26001,59899,1107369
+35,043,35,001,NM,"Bernalillo County",1484,2975,50457
+35,043,35,049,NM,"Santa Fe County",135,275,4709
+35,043,35,045,NM,"San Juan County",89,216,2003
+35,043,04,013,AZ,"Maricopa County",78,158,3894
+35,043,35,031,NM,"Mckinley County",70,159,1367
+35,043,35,061,NM,"Valencia County",62,140,2078
+35,043,48,141,TX,"El Paso County",49,115,1479
+35,043,06,037,CA,"Los Angeles County",45,86,2072
+35,043,35,013,NM,"Dona Ana County",39,69,1106
+35,043,35,028,NM,"Los Alamos County",35,66,2050
+35,043,06,073,CA,"San Diego County",33,63,1361
+35,043,35,039,NM,"Rio Arriba County",33,77,823
+35,043,32,003,NV,"Clark County",26,62,1010
+35,043,35,047,NM,"San Miguel County",26,56,623
+35,043,04,019,AZ,"Pima County",25,55,943
+35,043,17,031,IL,"Cook County",21,33,908
+35,043,48,439,TX,"Tarrant County",20,58,969
+35,043,48,029,TX,"Bexar County",19,37,660
+35,043,48,113,TX,"Dallas County",19,43,994
+35,043,35,005,NM,"Chaves County",17,46,531
+35,043,35,055,NM,"Taos County",17,35,366
+35,043,49,035,UT,"Salt Lake County",16,52,1002
+35,043,06,071,CA,"San Bernardino Count",15,40,467
+35,043,08,041,CO,"El Paso County",15,28,941
+35,043,35,006,NM,"Cibola County",15,32,453
+35,043,48,453,TX,"Travis County",15,32,674
+35,043,06,085,CA,"Santa Clara County",14,29,1443
+35,043,35,009,NM,"Curry County",13,32,530
+35,043,35,015,NM,"Eddy County",13,29,334
+35,043,35,053,NM,"Socorro County",13,28,405
+35,043,48,201,TX,"Harris County",13,30,923
+35,043,35,057,NM,"Torrance County",12,30,395
+35,043,08,031,CO,"Denver County",11,20,508
+35,043,08,059,CO,"Jefferson County",11,16,388
+35,043,53,033,WA,"King County",11,25,964
+35,043,06,065,CA,"Riverside County",10,21,370
+35,043,08,001,CO,"Adams County",10,25,446
+35,043,58,000,SS,"Other Flows - Same State",55,124,1561
+35,043,59,000,DS,"Other Flows - Diff State",949,1957,46564
+35,043,59,001,DS,"Other Flows - Northeast",109,207,7247
+35,043,59,003,DS,"Other Flows - Midwest",205,437,10585
+35,043,59,005,DS,"Other Flows - South",342,712,16262
+35,043,59,007,DS,"Other Flows - West",293,601,12469
+35,043,57,009,FR,"Foreign - Other flows",25,57,756
+35,045,96,000,NM,"San Juan County Tot Mig-US & For",3637,8994,92491
+35,045,97,000,NM,"San Juan County Tot Mig-US",3614,8950,91825
+35,045,97,001,NM,"San Juan County Tot Mig-Same St",1407,3591,27589
+35,045,97,003,NM,"San Juan County Tot Mig-Diff St",2207,5359,64236
+35,045,98,000,NM,"San Juan County Tot Mig-Foreign",23,44,666
+35,045,35,045,NM,"San Juan County Non-Migrants",34301,88740,1173526
+35,045,35,031,NM,"Mckinley County",821,2260,14976
+35,045,04,001,AZ,"Apache County",395,1194,7883
+35,045,35,001,NM,"Bernalillo County",172,347,4093
+35,045,04,013,AZ,"Maricopa County",163,347,3978
+35,045,08,067,CO,"La Plata County",117,252,3548
+35,045,35,043,NM,"Sandoval County",113,280,1698
+35,045,49,037,UT,"San Juan County",109,370,2249
+35,045,08,083,CO,"Montezuma County",107,270,2071
+35,045,04,017,AZ,"Navajo County",99,312,2191
+35,045,35,039,NM,"Rio Arriba County",82,209,1445
+35,045,04,005,AZ,"Coconino County",58,146,1045
+35,045,49,035,UT,"Salt Lake County",52,128,1475
+35,045,35,013,NM,"Dona Ana County",30,57,649
+35,045,35,006,NM,"Cibola County",26,65,795
+35,045,32,003,NV,"Clark County",25,50,606
+35,045,04,019,AZ,"Pima County",24,51,741
+35,045,35,025,NM,"Lea County",22,59,830
+35,045,06,037,CA,"Los Angeles County",18,31,1162
+35,045,06,073,CA,"San Diego County",16,30,367
+35,045,35,005,NM,"Chaves County",16,38,374
+35,045,48,201,TX,"Harris County",16,49,1643
+35,045,49,049,UT,"Utah County",15,27,223
+35,045,48,329,TX,"Midland County",14,26,761
+35,045,08,001,CO,"Adams County",13,19,314
+35,045,08,005,CO,"Arapahoe County",13,21,415
+35,045,49,007,UT,"Carbon County",13,38,718
+35,045,06,059,CA,"Orange County",12,21,379
+35,045,08,077,CO,"Mesa County",12,26,269
+35,045,35,015,NM,"Eddy County",12,27,323
+35,045,35,049,NM,"Santa Fe County",12,21,223
+35,045,35,053,NM,"Socorro County",12,18,276
+35,045,48,141,TX,"El Paso County",11,23,273
+35,045,35,017,NM,"Grant County",10,23,235
+35,045,58,000,SS,"Other Flows - Same State",79,187,1671
+35,045,59,000,DS,"Other Flows - Diff State",905,1928,31927
+35,045,59,001,DS,"Other Flows - Northeast",40,71,1090
+35,045,59,003,DS,"Other Flows - Midwest",155,332,4407
+35,045,59,005,DS,"Other Flows - South",333,718,13570
+35,045,59,007,DS,"Other Flows - West",377,807,12860
+35,045,57,009,FR,"Foreign - Other flows",23,44,666
+35,047,96,000,NM,"San Miguel Coun Tot Mig-US & For",510,938,13794
+35,047,97,000,NM,"San Miguel Coun Tot Mig-US",500,928,13738
+35,047,97,001,NM,"San Miguel Coun Tot Mig-Same St",302,586,6048
+35,047,97,003,NM,"San Miguel Coun Tot Mig-Diff St",198,342,7690
+35,047,98,000,NM,"San Miguel Coun Tot Mig-Foreign",10,10,55
+35,047,35,047,NM,"San Miguel Coun Non-Migrants",7828,16900,202581
+35,047,35,001,NM,"Bernalillo County",67,121,1329
+35,047,35,049,NM,"Santa Fe County",66,129,1373
+35,047,35,033,NM,"Mora County",30,57,460
+35,047,35,039,NM,"Rio Arriba County",14,18,268
+35,047,35,019,NM,"Guadalupe County",12,30,219
+35,047,35,009,NM,"Curry County",11,25,255
+35,047,35,013,NM,"Dona Ana County",11,25,389
+35,047,35,043,NM,"Sandoval County",10,21,206
+35,047,58,000,SS,"Other Flows - Same State",81,160,1548
+35,047,59,000,DS,"Other Flows - Diff State",198,342,7690
+35,047,59,001,DS,"Other Flows - Northeast",17,25,702
+35,047,59,003,DS,"Other Flows - Midwest",19,28,621
+35,047,59,005,DS,"Other Flows - South",48,88,3033
+35,047,59,007,DS,"Other Flows - West",114,201,3335
+35,047,57,009,FR,"Foreign - Other flows",10,10,55
+35,049,96,000,NM,"Santa Fe County Tot Mig-US & For",3505,6000,172993
+35,049,97,000,NM,"Santa Fe County Tot Mig-US",3463,5924,171624
+35,049,97,001,NM,"Santa Fe County Tot Mig-Same St",1299,2419,44370
+35,049,97,003,NM,"Santa Fe County Tot Mig-Diff St",2164,3505,127254
+35,049,98,000,NM,"Santa Fe County Tot Mig-Foreign",42,76,1369
+35,049,35,049,NM,"Santa Fe County Non-Migrants",37106,73763,1714026
+35,049,35,001,NM,"Bernalillo County",511,918,16890
+35,049,35,039,NM,"Rio Arriba County",223,450,5315
+35,049,35,047,NM,"San Miguel County",99,166,2781
+35,049,35,028,NM,"Los Alamos County",86,131,5447
+35,049,06,037,CA,"Los Angeles County",78,121,3526
+35,049,35,043,NM,"Sandoval County",66,127,4551
+35,049,04,013,AZ,"Maricopa County",65,111,4353
+35,049,35,013,NM,"Dona Ana County",53,96,1334
+35,049,06,073,CA,"San Diego County",50,69,2061
+35,049,35,055,NM,"Taos County",46,78,1204
+35,049,17,031,IL,"Cook County",43,64,3804
+35,049,48,141,TX,"El Paso County",41,94,5937
+35,049,53,033,WA,"King County",39,56,2154
+35,049,35,057,NM,"Torrance County",38,93,833
+35,049,36,061,NY,"New York County",33,41,3247
+35,049,48,113,TX,"Dallas County",32,46,2709
+35,049,06,075,CA,"San Francisco County",31,37,2626
+35,049,32,003,NV,"Clark County",30,53,1898
+35,049,04,019,AZ,"Pima County",29,43,1243
+35,049,06,059,CA,"Orange County",29,41,1178
+35,049,08,031,CO,"Denver County",27,43,831
+35,049,27,053,MN,"Hennepin County",25,33,1737
+35,049,48,201,TX,"Harris County",24,42,3324
+35,049,35,045,NM,"San Juan County",22,48,726
+35,049,11,001,DC,"District Of Columbia",21,25,1377
+35,049,35,061,NM,"Valencia County",21,40,574
+35,049,06,001,CA,"Alameda County",20,36,1963
+35,049,06,065,CA,"Riverside County",19,36,820
+35,049,48,439,TX,"Tarrant County",19,44,744
+35,049,48,453,TX,"Travis County",18,26,3036
+35,049,06,085,CA,"Santa Clara County",17,26,1723
+35,049,08,013,CO,"Boulder County",17,25,700
+35,049,17,043,IL,"Du Page County",17,20,936
+35,049,06,013,CA,"Contra Costa County",16,31,1116
+35,049,41,051,OR,"Multnomah County",15,17,225
+35,049,08,005,CO,"Arapahoe County",13,21,484
+35,049,08,041,CO,"El Paso County",13,25,316
+35,049,08,059,CO,"Jefferson County",13,25,835
+35,049,35,005,NM,"Chaves County",13,29,532
+35,049,35,031,NM,"Mckinley County",13,30,402
+35,049,06,087,CA,"Santa Cruz County",12,13,224
+35,049,08,069,CO,"Larimer County",12,23,443
+35,049,25,025,MA,"Suffolk County",12,17,2060
+35,049,35,035,NM,"Otero County",12,24,254
+35,049,06,081,CA,"San Mateo County",11,20,1473
+35,049,12,025,FL,"Dade County",11,17,1725
+35,049,22,071,LA,"Orleans Parish",11,12,217
+35,049,27,123,MN,"Ramsey County",10,13,357
+35,049,35,007,NM,"Colfax County",10,19,488
+35,049,35,027,NM,"Lincoln County",10,20,413
+35,049,35,051,NM,"Sierra County",10,19,246
+35,049,35,053,NM,"Socorro County",10,11,184
+35,049,36,047,NY,"Kings County",10,13,520
+35,049,48,121,TX,"Denton County",10,14,483
+35,049,57,005,FR,"Foreign - APO/FPO ZIPs",10,35,435
+35,049,58,000,SS,"Other Flows - Same State",56,120,2196
+35,049,59,000,DS,"Other Flows - Diff State",1271,2112,64851
+35,049,59,001,DS,"Other Flows - Northeast",230,348,13616
+35,049,59,003,DS,"Other Flows - Midwest",253,386,12621
+35,049,59,005,DS,"Other Flows - South",411,686,22462
+35,049,59,007,DS,"Other Flows - West",377,692,16152
+35,049,57,009,FR,"Foreign - Other flows",32,41,934
+35,051,96,000,NM,"Sierra County Tot Mig-US & For",354,684,8908
+35,051,97,000,NM,"Sierra County Tot Mig-US",354,684,8908
+35,051,97,001,NM,"Sierra County Tot Mig-Same St",160,320,3866
+35,051,97,003,NM,"Sierra County Tot Mig-Diff St",194,364,5043
+35,051,35,051,NM,"Sierra County Non-Migrants",3403,6925,88020
+35,051,35,013,NM,"Dona Ana County",52,114,1197
+35,051,35,001,NM,"Bernalillo County",35,66,1067
+35,051,48,141,TX,"El Paso County",17,39,517
+35,051,35,061,NM,"Valencia County",11,21,213
+35,051,58,000,SS,"Other Flows - Same State",62,119,1388
+35,051,59,000,DS,"Other Flows - Diff State",177,325,4526
+35,053,96,000,NM,"Socorro County Tot Mig-US & For",420,801,9776
+35,053,97,000,NM,"Socorro County Tot Mig-US",382,762,9547
+35,053,97,001,NM,"Socorro County Tot Mig-Same St",215,442,4647
+35,053,97,003,NM,"Socorro County Tot Mig-Diff St",167,320,4900
+35,053,98,000,NM,"Socorro County Tot Mig-Foreign",38,39,229
+35,053,35,053,NM,"Socorro County Non-Migrants",4496,10185,127164
+35,053,35,001,NM,"Bernalillo County",63,113,1361
+35,053,35,061,NM,"Valencia County",49,115,875
+35,053,35,013,NM,"Dona Ana County",15,27,523
+35,053,35,031,NM,"Mckinley County",14,36,215
+35,053,58,000,SS,"Other Flows - Same State",74,151,1672
+35,053,59,000,DS,"Other Flows - Diff State",167,320,4900
+35,053,59,001,DS,"Other Flows - Northeast",12,23,257
+35,053,59,003,DS,"Other Flows - Midwest",30,62,874
+35,053,59,005,DS,"Other Flows - South",44,89,1172
+35,053,59,007,DS,"Other Flows - West",81,146,2598
+35,053,57,009,FR,"Foreign - Other flows",38,39,229
+35,055,96,000,NM,"Taos County Tot Mig-US & For",750,1271,27422
+35,055,97,000,NM,"Taos County Tot Mig-US",750,1271,27422
+35,055,97,001,NM,"Taos County Tot Mig-Same St",235,443,5720
+35,055,97,003,NM,"Taos County Tot Mig-Diff St",515,828,21702
+35,055,35,055,NM,"Taos County Non-Migrants",9252,18781,276914
+35,055,35,001,NM,"Bernalillo County",72,113,1683
+35,055,35,049,NM,"Santa Fe County",43,77,1143
+35,055,35,039,NM,"Rio Arriba County",40,88,901
+35,055,06,037,CA,"Los Angeles County",17,20,486
+35,055,35,007,NM,"Colfax County",11,23,277
+35,055,48,453,TX,"Travis County",11,19,661
+35,055,06,073,CA,"San Diego County",10,16,1650
+35,055,08,013,CO,"Boulder County",10,15,238
+35,055,08,031,CO,"Denver County",10,15,239
+35,055,35,043,NM,"Sandoval County",10,22,362
+35,055,58,000,SS,"Other Flows - Same State",59,120,1352
+35,055,59,000,DS,"Other Flows - Diff State",457,743,18427
+35,055,59,001,DS,"Other Flows - Northeast",61,74,2287
+35,055,59,003,DS,"Other Flows - Midwest",49,87,1912
+35,055,59,005,DS,"Other Flows - South",123,223,5631
+35,055,59,007,DS,"Other Flows - West",224,359,8597
+35,057,96,000,NM,"Torrance County Tot Mig-US & For",389,846,9344
+35,057,97,000,NM,"Torrance County Tot Mig-US",389,846,9344
+35,057,97,001,NM,"Torrance County Tot Mig-Same St",265,596,6187
+35,057,97,003,NM,"Torrance County Tot Mig-Diff St",124,250,3157
+35,057,35,057,NM,"Torrance County Non-Migrants",3498,8510,95521
+35,057,35,001,NM,"Bernalillo County",136,288,2717
+35,057,35,049,NM,"Santa Fe County",65,165,1660
+35,057,35,061,NM,"Valencia County",20,47,598
+35,057,58,000,SS,"Other Flows - Same State",44,96,1213
+35,057,59,000,DS,"Other Flows - Diff State",124,250,3157
+35,059,96,000,NM,"Union County Tot Mig-US & For",97,210,2487
+35,059,97,000,NM,"Union County Tot Mig-US",97,210,2487
+35,059,97,001,NM,"Union County Tot Mig-Same St",24,54,575
+35,059,97,003,NM,"Union County Tot Mig-Diff St",73,156,1912
+35,059,35,059,NM,"Union County Non-Migrants",1335,3006,35786
+35,059,58,000,SS,"Other Flows - Same State",24,54,575
+35,059,59,000,DS,"Other Flows - Diff State",73,156,1912
+35,061,96,000,NM,"Valencia County Tot Mig-US & For",1541,3411,43874
+35,061,97,000,NM,"Valencia County Tot Mig-US",1541,3411,43874
+35,061,97,001,NM,"Valencia County Tot Mig-Same St",1051,2344,28578
+35,061,97,003,NM,"Valencia County Tot Mig-Diff St",490,1067,15296
+35,061,35,061,NM,"Valencia County Non-Migrants",18291,43387,632826
+35,061,35,001,NM,"Bernalillo County",702,1553,19227
+35,061,35,053,NM,"Socorro County",55,122,1410
+35,061,35,006,NM,"Cibola County",44,104,1123
+35,061,35,043,NM,"Sandoval County",35,83,990
+35,061,35,013,NM,"Dona Ana County",32,77,961
+35,061,35,049,NM,"Santa Fe County",31,61,687
+35,061,32,003,NV,"Clark County",20,38,504
+35,061,04,013,AZ,"Maricopa County",19,40,560
+35,061,06,037,CA,"Los Angeles County",18,35,343
+35,061,35,031,NM,"Mckinley County",18,42,494
+35,061,48,141,TX,"El Paso County",17,45,172
+35,061,06,073,CA,"San Diego County",12,23,360
+35,061,35,015,NM,"Eddy County",12,27,568
+35,061,35,017,NM,"Grant County",12,28,294
+35,061,35,057,NM,"Torrance County",12,27,259
+35,061,06,071,CA,"San Bernardino Count",10,25,280
+35,061,35,039,NM,"Rio Arriba County",10,27,279
+35,061,58,000,SS,"Other Flows - Same State",88,193,2286
+35,061,59,000,DS,"Other Flows - Diff State",394,861,13078
+35,061,59,001,DS,"Other Flows - Northeast",20,31,432
+35,061,59,003,DS,"Other Flows - Midwest",69,162,2595
+35,061,59,005,DS,"Other Flows - South",128,278,4081
+35,061,59,007,DS,"Other Flows - West",177,390,5970

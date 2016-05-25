@@ -1,0 +1,422 @@
+"2000 - 2001 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Hawaii,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+15,000,96,000,HI,"Total Mig - US & For",26463,52982,911926
+15,000,97,000,HI,"Total Mig - US",24579,49541,857885
+15,000,97,001,HI,"Total Mig - US Same St",3249,5620,95926
+15,000,97,003,HI,"Total Mig - US Diff St",21330,43921,761959
+15,000,98,000,HI,"Total Mig - Foreign",1884,3441,54041
+15,001,96,000,HI,"Hawaii County Tot Mig-US & For",2433,4126,72558
+15,001,97,000,HI,"Hawaii County Tot Mig-US",2369,4022,71182
+15,001,97,001,HI,"Hawaii County Tot Mig-Same St",812,1412,19298
+15,001,97,003,HI,"Hawaii County Tot Mig-Diff St",1557,2610,51883
+15,001,98,000,HI,"Hawaii County Tot Mig-Foreign",64,104,1377
+15,001,15,001,HI,"Hawaii County Non-Migrants",48241,102091,1913772
+15,001,15,003,HI,"Honolulu County",625,1070,13284
+15,001,15,009,HI,"Maui County",140,258,4762
+15,001,32,003,NV,"Clark County",128,229,3242
+15,001,53,033,WA,"King County",74,134,2724
+15,001,06,037,CA,"Los Angeles County",63,101,1888
+15,001,06,073,CA,"San Diego County",56,80,1506
+15,001,04,013,AZ,"Maricopa County",41,70,1367
+15,001,06,059,CA,"Orange County",39,77,2119
+15,001,06,085,CA,"Santa Clara County",37,50,879
+15,001,06,001,CA,"Alameda County",30,45,812
+15,001,41,051,OR,"Multnomah County",28,47,557
+15,001,02,020,AK,"Anchorage Borough",23,38,786
+15,001,32,031,NV,"Washoe County",22,39,913
+15,001,53,061,WA,"Snohomish County",21,34,847
+15,001,41,067,OR,"Washington County",19,31,978
+15,001,06,067,CA,"Sacramento County",18,21,366
+15,001,06,081,CA,"San Mateo County",18,26,581
+15,001,04,019,AZ,"Pima County",17,31,680
+15,001,53,053,WA,"Pierce County",17,31,355
+15,001,57,005,FR,"Foreign - APO/FPO ZIPs",16,29,282
+15,001,06,075,CA,"San Francisco County",15,16,530
+15,001,53,011,WA,"Clark County",15,27,1127
+15,001,06,097,CA,"Sonoma County",14,22,417
+15,001,08,041,CO,"El Paso County",13,28,404
+15,001,06,065,CA,"Riverside County",12,24,403
+15,001,06,071,CA,"San Bernardino Count",12,23,223
+15,001,06,111,CA,"Ventura County",12,20,1883
+15,001,08,005,CO,"Arapahoe County",12,18,310
+15,001,41,039,OR,"Lane County",12,18,377
+15,001,49,035,UT,"Salt Lake County",12,24,360
+15,001,06,019,CA,"Fresno County",11,21,150
+15,001,17,031,IL,"Cook County",11,18,581
+15,001,06,087,CA,"Santa Cruz County",10,17,290
+15,001,35,001,NM,"Bernalillo County",10,17,387
+15,001,53,073,WA,"Whatcom County",10,22,274
+15,001,58,000,SS,"Other Flows - Same State",47,84,1252
+15,001,59,000,DS,"Other Flows - Diff State",725,1211,23565
+15,001,59,001,DS,"Other Flows - Northeast",73,107,2205
+15,001,59,003,DS,"Other Flows - Midwest",113,202,3414
+15,001,59,005,DS,"Other Flows - South",207,341,7529
+15,001,59,007,DS,"Other Flows - West",332,561,10417
+15,001,57,009,FR,"Foreign - Other flows",48,75,1095
+15,003,96,000,HI,"Honolulu County Tot Mig-US & For",20621,43180,728855
+15,003,97,000,HI,"Honolulu County Tot Mig-US",18882,39980,678978
+15,003,97,001,HI,"Honolulu County Tot Mig-Same St",1366,2422,42532
+15,003,97,003,HI,"Honolulu County Tot Mig-Diff St",17516,37558,636446
+15,003,98,000,HI,"Honolulu County Tot Mig-Foreign",1739,3200,49876
+15,003,15,003,HI,"Honolulu County Non-Migrants",314692,656619,15066170
+15,003,57,005,FR,"Foreign - APO/FPO ZIPs",1340,2476,39395
+15,003,32,003,NV,"Clark County",899,1711,26846
+15,003,06,073,CA,"San Diego County",761,1705,28862
+15,003,06,037,CA,"Los Angeles County",693,1108,24288
+15,003,15,001,HI,"Hawaii County",652,1181,19648
+15,003,15,009,HI,"Maui County",546,950,17205
+15,003,53,033,WA,"King County",493,809,15676
+15,003,06,085,CA,"Santa Clara County",446,669,16883
+15,003,06,059,CA,"Orange County",279,478,10383
+15,003,53,053,WA,"Pierce County",277,710,9299
+15,003,06,001,CA,"Alameda County",253,445,8979
+15,003,04,013,AZ,"Maricopa County",237,468,9630
+15,003,48,029,TX,"Bexar County",219,588,9986
+15,003,48,027,TX,"Bell County",216,554,6827
+15,003,37,051,NC,"Cumberland County",210,588,7463
+15,003,51,059,VA,"Fairfax County",206,537,12894
+15,003,06,075,CA,"San Francisco County",203,253,8061
+15,003,08,041,CO,"El Paso County",181,474,6939
+15,003,06,071,CA,"San Bernardino Count",160,375,4727
+15,003,51,810,VA,"Virginia Beach",149,409,5097
+15,003,53,035,WA,"Kitsap County",141,428,6558
+15,003,41,067,OR,"Washington County",139,226,4630
+15,003,06,081,CA,"San Mateo County",135,193,5110
+15,003,17,031,IL,"Cook County",135,218,4386
+15,003,24,003,MD,"Anne Arundel County",131,348,5722
+15,003,47,125,TN,"Montgomery County",128,376,4081
+15,003,06,065,CA,"Riverside County",127,251,4789
+15,003,06,013,CA,"Contra Costa County",126,220,6620
+15,003,13,215,GA,"Muscogee County",123,310,3662
+15,003,53,061,WA,"Snohomish County",123,257,4248
+15,003,49,035,UT,"Salt Lake County",118,261,2906
+15,003,48,201,TX,"Harris County",108,175,3192
+15,003,36,045,NY,"Jefferson County",107,314,3067
+15,003,51,153,VA,"Prince William Count",107,275,5070
+15,003,06,111,CA,"Ventura County",102,246,4720
+15,003,06,067,CA,"Sacramento County",100,206,3502
+15,003,06,053,CA,"Monterey County",99,228,4049
+15,003,13,179,GA,"Liberty County",93,264,2610
+15,003,40,031,OK,"Comanche County",90,256,2544
+15,003,12,031,FL,"Duval County",89,226,3084
+15,003,41,051,OR,"Multnomah County",86,134,2450
+15,003,04,019,AZ,"Pima County",85,147,3090
+15,003,22,115,LA,"Vernon Parish",85,239,2344
+15,003,12,033,FL,"Escambia County",83,197,3162
+15,003,48,141,TX,"El Paso County",83,250,3160
+15,003,04,003,AZ,"Cochise County",81,215,2758
+15,003,24,033,MD,"Prince George's Coun",81,179,2604
+15,003,36,061,NY,"New York County",81,89,2437
+15,003,21,047,KY,"Christian County",80,215,2357
+15,003,09,011,CT,"New London County",75,187,3109
+15,003,37,133,NC,"Onslow County",75,207,2600
+15,003,08,005,CO,"Arapahoe County",72,157,2379
+15,003,02,020,AK,"Anchorage Borough",70,180,2401
+15,003,48,113,TX,"Dallas County",70,145,2323
+15,003,24,031,MD,"Montgomery County",66,147,4132
+15,003,06,095,CA,"Solano County",64,116,2118
+15,003,12,057,FL,"Hillsborough County",64,145,3013
+15,003,48,439,TX,"Tarrant County",64,129,2404
+15,003,51,700,VA,"Newport News",64,175,2072
+15,003,11,001,DC,"District Of Columbia",62,117,2594
+15,003,53,067,WA,"Thurston County",60,161,1947
+15,003,32,031,NV,"Washoe County",59,104,2871
+15,003,12,011,FL,"Broward County",58,118,2051
+15,003,51,013,VA,"Arlington County",58,101,3731
+15,003,25,017,MA,"Middlesex County",55,88,2985
+15,003,49,049,UT,"Utah County",54,112,963
+15,003,48,453,TX,"Travis County",53,103,2044
+15,003,12,091,FL,"Okaloosa County",51,133,1989
+15,003,17,097,IL,"Lake County",51,155,2672
+15,003,08,031,CO,"Denver County",50,72,2034
+15,003,13,245,GA,"Richmond County",50,127,1472
+15,003,48,099,TX,"Coryell County",50,163,1539
+15,003,45,079,SC,"Richland County",49,135,1680
+15,003,51,550,VA,Chesapeake,49,154,2180
+15,003,06,083,CA,"Santa Barbara County",48,91,1458
+15,003,12,025,FL,"Dade County",48,98,2767
+15,003,51,710,VA,Norfolk,48,127,1733
+15,003,13,039,GA,"Camden County",47,164,2205
+15,003,12,095,FL,"Orange County",46,91,1816
+15,003,20,061,KS,"Geary County",46,131,1237
+15,003,44,005,RI,"Newport County",46,119,2350
+15,003,06,041,CA,"Marin County",45,67,2014
+15,003,06,077,CA,"San Joaquin County",45,92,1510
+15,003,51,650,VA,Hampton,45,122,2037
+15,003,29,169,MO,"Pulaski County",44,134,1448
+15,003,53,011,WA,"Clark County",44,114,2117
+15,003,53,029,WA,"Island County",44,118,1536
+15,003,24,027,MD,"Howard County",43,96,2411
+15,003,36,081,NY,"Queens County",43,66,1145
+15,003,35,001,NM,"Bernalillo County",41,82,1618
+15,003,39,049,OH,"Franklin County",40,76,1143
+15,003,40,109,OK,"Oklahoma County",40,111,1631
+15,003,41,005,OR,"Clackamas County",40,85,1221
+15,003,06,097,CA,"Sonoma County",38,60,1668
+15,003,12,009,FL,"Brevard County",38,66,1422
+15,003,12,103,FL,"Pinellas County",38,84,1423
+15,003,51,149,VA,"Prince George County",38,112,1356
+15,003,28,047,MS,"Harrison County",37,93,1196
+15,003,13,067,GA,"Cobb County",36,82,1246
+15,003,27,053,MN,"Hennepin County",35,59,1435
+15,003,48,085,TX,"Collin County",35,80,1740
+15,003,13,051,GA,"Chatham County",34,91,1192
+15,003,20,103,KS,"Leavenworth County",34,120,1943
+15,003,24,017,MD,"Charles County",34,90,1426
+15,003,29,189,MO,"St Louis County",34,68,1225
+15,003,53,063,WA,"Spokane County",34,69,949
+15,003,08,059,CO,"Jefferson County",33,49,1137
+15,003,13,089,GA,"De Kalb County",33,64,1106
+15,003,31,055,NE,"Douglas County",33,59,1463
+15,003,47,157,TN,"Shelby County",32,79,1456
+15,003,48,451,TX,"Tom Green County",32,76,1115
+15,003,06,029,CA,"Kern County",31,74,917
+15,003,16,001,ID,"Ada County",31,58,1037
+15,003,21,093,KY,"Hardin County",31,82,1181
+15,003,48,355,TX,"Nueces County",31,73,1150
+15,003,08,069,CO,"Larimer County",30,44,1136
+15,003,17,163,IL,"St Clair County",30,79,1370
+15,003,26,163,MI,"Wayne County",30,58,792
+15,003,51,179,VA,"Stafford County",30,80,1352
+15,003,25,025,MA,"Suffolk County",29,34,996
+15,003,37,049,NC,"Craven County",29,83,1065
+15,003,45,013,SC,"Beaufort County",29,79,1898
+15,003,45,015,SC,"Berkeley County",29,81,1237
+15,003,42,101,PA,"Philadelphia County",28,46,1049
+15,003,51,510,VA,Alexandria,28,47,1703
+15,003,02,016,AK,"Aleutians West Censu",27,29,450
+15,003,04,027,AZ,"Yuma County",27,81,896
+15,003,06,019,CA,"Fresno County",27,45,702
+15,003,08,013,CO,"Boulder County",27,53,1075
+15,003,12,099,FL,"Palm Beach County",27,46,1149
+15,003,13,121,GA,"Fulton County",27,37,932
+15,003,37,183,NC,"Wake County",27,53,1199
+15,003,01,089,AL,"Madison County",26,66,1059
+15,003,36,047,NY,"Kings County",26,31,760
+15,003,36,091,NY,"Saratoga County",26,47,1012
+15,003,42,003,PA,"Allegheny County",26,52,555
+15,003,01,045,AL,"Dale County",25,88,685
+15,003,06,087,CA,"Santa Cruz County",25,38,1303
+15,003,08,001,CO,"Adams County",24,60,969
+15,003,12,005,FL,"Bay County",24,56,1055
+15,003,18,097,IN,"Marion County",24,42,569
+15,003,39,035,OH,"Cuyahoga County",24,50,689
+15,003,41,039,OR,"Lane County",24,37,573
+15,003,44,007,RI,"Providence County",24,47,960
+15,003,49,011,UT,"Davis County",24,75,864
+15,003,51,199,VA,"York County",24,87,1798
+15,003,13,153,GA,"Houston County",23,65,954
+15,003,36,103,NY,"Suffolk County",23,30,561
+15,003,06,061,CA,"Placer County",22,49,1217
+15,003,24,005,MD,"Baltimore County",22,47,821
+15,003,31,153,NE,"Sarpy County",22,64,1101
+15,003,34,005,NJ,"Burlington County",22,59,849
+15,003,36,059,NY,"Nassau County",22,48,840
+15,003,06,031,CA,"Kings County",21,53,709
+15,003,23,005,ME,"Cumberland County",21,50,656
+15,003,25,027,MA,"Worcester County",21,41,635
+15,003,34,025,NJ,"Monmouth County",21,56,812
+15,003,47,037,TN,"Davidson County",21,29,574
+15,003,57,003,FR,"Foreign - Puerto Rico",21,61,595
+15,003,06,099,CA,"Stanislaus County",20,44,918
+15,003,06,113,CA,"Yolo County",20,34,655
+15,003,13,073,GA,"Columbia County",20,49,739
+15,003,24,510,MD,Baltimore,20,27,317
+15,003,51,041,VA,"Chesterfield County",20,51,879
+15,003,21,111,KY,"Jefferson County",19,48,775
+15,003,22,071,LA,"Orleans Parish",19,39,601
+15,003,24,021,MD,"Frederick County",19,49,842
+15,003,24,037,MD,"St Mary's County",19,58,693
+15,003,25,021,MA,"Norfolk County",19,29,910
+15,003,26,125,MI,"Oakland County",19,32,524
+15,003,37,119,NC,"Mecklenburg County",19,34,1012
+15,003,05,119,AR,"Pulaski County",18,35,564
+15,003,09,003,CT,"Hartford County",18,30,907
+15,003,13,135,GA,"Gwinnett County",18,41,617
+15,003,17,043,IL,"Du Page County",18,34,651
+15,003,36,029,NY,"Erie County",18,46,386
+15,003,37,093,NC,"Hoke County",18,58,543
+15,003,39,113,OH,"Montgomery County",18,41,704
+15,003,40,143,OK,"Tulsa County",18,28,257
+15,003,42,041,PA,"Cumberland County",18,57,878
+15,003,42,091,PA,"Montgomery County",18,32,897
+15,003,02,090,AK,"Fairbanks North Star",17,33,437
+15,003,08,035,CO,"Douglas County",17,39,1095
+15,003,12,019,FL,"Clay County",17,52,646
+15,003,20,173,KS,"Sedgwick County",17,40,524
+15,003,27,037,MN,"Dakota County",17,34,726
+15,003,34,017,NJ,"Hudson County",17,19,422
+15,003,41,047,OR,"Marion County",17,27,473
+15,003,45,019,SC,"Charleston County",17,25,457
+15,003,48,485,TX,"Wichita County",17,35,422
+15,003,51,177,VA,"Spotsylvania County",17,45,721
+15,003,53,073,WA,"Whatcom County",17,32,722
+15,003,55,025,WI,"Dane County",17,21,378
+15,003,55,079,WI,"Milwaukee County",17,29,483
+15,003,01,031,AL,"Coffee County",16,31,604
+15,003,01,101,AL,"Montgomery County",16,51,957
+15,003,09,001,CT,"Fairfield County",16,24,480
+15,003,12,113,FL,"Santa Rosa County",16,33,717
+15,003,24,025,MD,"Harford County",16,42,623
+15,003,25,009,MA,"Essex County",16,29,591
+15,003,29,095,MO,"Jackson County",16,36,561
+15,003,48,157,TX,"Fort Bend County",16,33,361
+15,003,06,055,CA,"Napa County",15,25,1066
+15,003,12,105,FL,"Polk County",15,27,327
+15,003,12,109,FL,"St Johns County",15,41,591
+15,003,20,091,KS,"Johnson County",15,23,522
+15,003,22,051,LA,"Jefferson Parish",15,42,657
+15,003,28,059,MS,"Jackson County",15,35,437
+15,003,38,101,ND,"Ward County",15,38,402
+15,003,01,073,AL,"Jefferson County",14,27,401
+15,003,02,150,AK,"Kodiak Island Boroug",14,38,366
+15,003,12,071,FL,"Lee County",14,20,1129
+15,003,12,115,FL,"Sarasota County",14,26,640
+15,003,12,127,FL,"Volusia County",14,25,239
+15,003,27,123,MN,"Ramsey County",14,19,430
+15,003,34,003,NJ,"Bergen County",14,18,225
+15,003,39,061,OH,"Hamilton County",14,30,403
+15,003,42,017,PA,"Bucks County",14,27,647
+15,003,48,121,TX,"Denton County",14,33,776
+15,003,06,079,CA,"San Luis Obispo Coun",13,25,386
+15,003,06,089,CA,"Shasta County",13,27,185
+15,003,06,115,CA,"Yuba County",13,26,339
+15,003,10,001,DE,"Kent County",13,34,647
+15,003,12,117,FL,"Seminole County",13,38,751
+15,003,13,063,GA,"Clayton County",13,35,390
+15,003,36,055,NY,"Monroe County",13,19,265
+15,003,41,017,OR,"Deschutes County",13,31,1140
+15,003,45,045,SC,"Greenville County",13,24,357
+15,003,47,065,TN,"Hamilton County",13,23,248
+15,003,48,491,TX,"Williamson County",13,31,434
+15,003,51,107,VA,"Loudoun County",13,33,975
+15,003,10,003,DE,"New Castle County",12,25,707
+15,003,13,095,GA,"Dougherty County",12,33,311
+15,003,16,055,ID,"Kootenai County",12,24,565
+15,003,20,161,KS,"Riley County",12,33,434
+15,003,26,081,MI,"Kent County",12,26,320
+15,003,36,005,NY,"Bronx County",12,17,213
+15,003,40,027,OK,"Cleveland County",12,26,309
+15,003,41,003,OR,"Benton County",12,19,548
+15,003,51,800,VA,Suffolk,12,36,490
+15,003,06,007,CA,"Butte County",11,20,256
+15,003,12,001,FL,"Alachua County",11,24,366
+15,003,12,073,FL,"Leon County",11,23,306
+15,003,12,087,FL,"Monroe County",11,23,344
+15,003,22,055,LA,"Lafayette Parish",11,13,309
+15,003,33,011,NH,"Hillsborough County",11,19,266
+15,003,36,067,NY,"Onondaga County",11,23,292
+15,003,36,119,NY,"Westchester County",11,16,352
+15,003,37,129,NC,"New Hanover County",11,23,314
+15,003,42,071,PA,"Lancaster County",11,11,201
+15,003,45,085,SC,"Sumter County",11,30,492
+15,003,47,093,TN,"Knox County",11,17,380
+15,003,49,057,UT,"Weber County",11,23,495
+15,003,01,081,AL,"Lee County",10,23,303
+15,003,06,017,CA,"El Dorado County",10,19,342
+15,003,06,107,CA,"Tulare County",10,19,256
+15,003,08,123,CO,"Weld County",10,13,155
+15,003,09,009,CT,"New Haven County",10,17,396
+15,003,12,081,FL,"Manatee County",10,18,168
+15,003,17,019,IL,"Champaign County",10,17,203
+15,003,19,153,IA,"Polk County",10,18,489
+15,003,22,103,LA,"St Tammany Parish",10,30,544
+15,003,25,005,MA,"Bristol County",10,25,423
+15,003,26,065,MI,"Ingham County",10,13,228
+15,003,34,021,NJ,"Mercer County",10,17,197
+15,003,36,085,NY,"Richmond County",10,13,168
+15,003,37,021,NC,"Buncombe County",10,22,413
+15,003,37,125,NC,"Moore County",10,22,393
+15,003,39,057,OH,"Greene County",10,27,661
+15,003,41,029,OR,"Jackson County",10,16,279
+15,003,42,045,PA,"Delaware County",10,24,454
+15,003,45,051,SC,"Horry County",10,22,275
+15,003,48,187,TX,"Guadalupe County",10,36,642
+15,003,48,215,TX,"Hidalgo County",10,13,163
+15,003,51,087,VA,"Henrico County",10,16,323
+15,003,53,057,WA,"Skagit County",10,27,442
+15,003,56,021,WY,"Laramie County",10,24,360
+15,003,58,000,SS,"Other Flows - Same State",168,291,5679
+15,003,59,000,DS,"Other Flows - Diff State",2738,5848,92042
+15,003,59,001,DS,"Other Flows - Northeast",420,781,14338
+15,003,59,003,DS,"Other Flows - Midwest",759,1556,23476
+15,003,59,005,DS,"Other Flows - South",1103,2548,38621
+15,003,59,007,DS,"Other Flows - West",456,963,15606
+15,003,57,009,FR,"Foreign - Other flows",378,663,9886
+15,007,96,000,HI,"Kauai County Tot Mig-US & For",1009,1720,33750
+15,007,97,000,HI,"Kauai County Tot Mig-US",984,1658,31984
+15,007,97,001,HI,"Kauai County Tot Mig-Same St",361,609,12070
+15,007,97,003,HI,"Kauai County Tot Mig-Diff St",623,1049,19914
+15,007,98,000,HI,"Kauai County Tot Mig-Foreign",25,62,1766
+15,007,15,007,HI,"Kauai County Non-Migrants",20497,44251,877206
+15,007,15,003,HI,"Honolulu County",234,382,7028
+15,007,15,009,HI,"Maui County",67,115,2767
+15,007,32,003,NV,"Clark County",50,116,1269
+15,007,06,073,CA,"San Diego County",35,55,718
+15,007,06,037,CA,"Los Angeles County",29,39,846
+15,007,06,059,CA,"Orange County",27,48,1124
+15,007,53,033,WA,"King County",25,38,509
+15,007,57,005,FR,"Foreign - APO/FPO ZIPs",15,33,443
+15,007,06,001,CA,"Alameda County",14,20,393
+15,007,06,065,CA,"Riverside County",14,16,471
+15,007,04,013,AZ,"Maricopa County",12,19,179
+15,007,06,085,CA,"Santa Clara County",12,25,553
+15,007,06,081,CA,"San Mateo County",10,17,231
+15,007,58,000,SS,"Other Flows - Same State",60,112,2275
+15,007,59,000,DS,"Other Flows - Diff State",395,656,13620
+15,007,59,001,DS,"Other Flows - Northeast",40,57,1159
+15,007,59,003,DS,"Other Flows - Midwest",47,71,1503
+15,007,59,005,DS,"Other Flows - South",102,189,3867
+15,007,59,007,DS,"Other Flows - West",206,339,7090
+15,007,57,009,FR,"Foreign - Other flows",10,29,1323
+15,009,96,000,HI,"Maui County Tot Mig-US & For",2400,3956,76763
+15,009,97,000,HI,"Maui County Tot Mig-US",2344,3881,75741
+15,009,97,001,HI,"Maui County Tot Mig-Same St",710,1177,22025
+15,009,97,003,HI,"Maui County Tot Mig-Diff St",1634,2704,53716
+15,009,98,000,HI,"Maui County Tot Mig-Foreign",56,75,1023
+15,009,15,009,HI,"Maui County Non-Migrants",45849,96527,1972363
+15,009,15,003,HI,"Honolulu County",522,823,16047
+15,009,32,003,NV,"Clark County",143,265,3593
+15,009,15,001,HI,"Hawaii County",137,255,4507
+15,009,06,037,CA,"Los Angeles County",96,143,2487
+15,009,53,033,WA,"King County",61,96,1592
+15,009,06,073,CA,"San Diego County",59,85,1942
+15,009,06,059,CA,"Orange County",51,77,1514
+15,009,06,085,CA,"Santa Clara County",38,55,1185
+15,009,04,013,AZ,"Maricopa County",27,46,954
+15,009,41,051,OR,"Multnomah County",26,34,563
+15,009,57,005,FR,"Foreign - APO/FPO ZIPs",21,27,416
+15,009,06,001,CA,"Alameda County",20,27,614
+15,009,06,081,CA,"San Mateo County",20,26,636
+15,009,53,061,WA,"Snohomish County",19,22,480
+15,009,06,065,CA,"Riverside County",18,30,580
+15,009,06,075,CA,"San Francisco County",18,21,489
+15,009,06,097,CA,"Sonoma County",17,26,583
+15,009,06,083,CA,"Santa Barbara County",16,28,328
+15,009,06,111,CA,"Ventura County",16,32,562
+15,009,53,053,WA,"Pierce County",16,34,345
+15,009,06,013,CA,"Contra Costa County",15,22,457
+15,009,06,067,CA,"Sacramento County",15,25,510
+15,009,06,071,CA,"San Bernardino Count",15,26,361
+15,009,08,005,CO,"Arapahoe County",14,23,453
+15,009,32,031,NV,"Washoe County",14,32,1005
+15,009,06,079,CA,"San Luis Obispo Coun",13,19,299
+15,009,17,031,IL,"Cook County",13,16,497
+15,009,41,005,OR,"Clackamas County",13,25,764
+15,009,06,087,CA,"Santa Cruz County",12,18,240
+15,009,53,073,WA,"Whatcom County",12,19,488
+15,009,02,020,AK,"Anchorage Borough",11,18,349
+15,009,41,067,OR,"Washington County",10,14,392
+15,009,58,000,SS,"Other Flows - Same State",51,99,1471
+15,009,59,000,DS,"Other Flows - Diff State",816,1400,29453
+15,009,59,001,DS,"Other Flows - Northeast",114,166,3570
+15,009,59,003,DS,"Other Flows - Midwest",102,178,4906
+15,009,59,005,DS,"Other Flows - South",277,471,10782
+15,009,59,007,DS,"Other Flows - West",323,585,10196
+15,009,57,009,FR,"Foreign - Other flows",35,48,607

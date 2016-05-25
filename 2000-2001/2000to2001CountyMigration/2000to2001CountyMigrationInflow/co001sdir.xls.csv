@@ -1,0 +1,848 @@
+"2000 - 2001 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+SouthDakota,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+46,000,96,000,SD,"Total Mig - US & For",22986,43101,773593
+46,000,97,000,SD,"Total Mig - US",22574,42390,766194
+46,000,97,001,SD,"Total Mig - US Same St",12233,22375,369071
+46,000,97,003,SD,"Total Mig - US Diff St",10341,20015,397124
+46,000,98,000,SD,"Total Mig - Foreign",412,711,7399
+46,003,96,000,SD,"Aurora County Tot Mig-US & For",64,123,1579
+46,003,97,000,SD,"Aurora County Tot Mig-US",64,123,1579
+46,003,97,001,SD,"Aurora County Tot Mig-Same St",46,86,1242
+46,003,97,003,SD,"Aurora County Tot Mig-Diff St",18,37,336
+46,003,46,003,SD,"Aurora County Non-Migrants",1193,2809,37184
+46,003,46,035,SD,"Davison County",20,39,559
+46,003,58,000,SS,"Other Flows - Same State",26,47,683
+46,003,59,000,DS,"Other Flows - Diff State",18,37,336
+46,005,96,000,SD,"Beadle County Tot Mig-US & For",337,660,8864
+46,005,97,000,SD,"Beadle County Tot Mig-US",337,660,8864
+46,005,97,001,SD,"Beadle County Tot Mig-Same St",202,392,5224
+46,005,97,003,SD,"Beadle County Tot Mig-Diff St",135,268,3640
+46,005,46,005,SD,"Beadle County Non-Migrants",6208,13710,249615
+46,005,46,099,SD,"Minnehaha County",27,48,648
+46,005,46,073,SD,"Jerauld County",17,31,389
+46,005,46,013,SD,"Brown County",13,32,375
+46,005,46,029,SD,"Codington County",13,21,387
+46,005,46,011,SD,"Brookings County",12,24,311
+46,005,46,077,SD,"Kingsbury County",12,27,360
+46,005,46,111,SD,"Sanborn County",12,23,336
+46,005,46,065,SD,"Hughes County",10,15,262
+46,005,46,115,SD,"Spink County",10,19,176
+46,005,58,000,SS,"Other Flows - Same State",76,152,1981
+46,005,59,000,DS,"Other Flows - Diff State",135,268,3640
+46,007,96,000,SD,"Bennett County Tot Mig-US & For",52,136,1513
+46,007,97,000,SD,"Bennett County Tot Mig-US",52,136,1513
+46,007,97,001,SD,"Bennett County Tot Mig-Same St",24,67,664
+46,007,97,003,SD,"Bennett County Tot Mig-Diff St",28,69,849
+46,007,46,007,SD,"Bennett County Non-Migrants",889,2271,27283
+46,007,58,000,SS,"Other Flows - Same State",24,67,664
+46,007,59,000,DS,"Other Flows - Diff State",28,69,849
+46,009,96,000,SD,"Bon Homme Count Tot Mig-US & For",137,268,3847
+46,009,97,000,SD,"Bon Homme Count Tot Mig-US",137,268,3847
+46,009,97,001,SD,"Bon Homme Count Tot Mig-Same St",84,158,2109
+46,009,97,003,SD,"Bon Homme Count Tot Mig-Diff St",53,110,1739
+46,009,46,009,SD,"Bon Homme Count Non-Migrants",2256,5220,76171
+46,009,46,135,SD,"Yankton County",40,71,805
+46,009,58,000,SS,"Other Flows - Same State",44,87,1304
+46,009,59,000,DS,"Other Flows - Diff State",53,110,1739
+46,011,96,000,SD,"Brookings Count Tot Mig-US & For",922,1486,23363
+46,011,97,000,SD,"Brookings Count Tot Mig-US",847,1404,23034
+46,011,97,001,SD,"Brookings Count Tot Mig-Same St",496,785,12059
+46,011,97,003,SD,"Brookings Count Tot Mig-Diff St",351,619,10975
+46,011,98,000,SD,"Brookings Count Tot Mig-Foreign",75,82,329
+46,011,46,011,SD,"Brookings Count Non-Migrants",8751,19502,402766
+46,011,46,099,SD,"Minnehaha County",93,138,2393
+46,011,46,029,SD,"Codington County",48,63,1131
+46,011,46,077,SD,"Kingsbury County",29,53,718
+46,011,46,101,SD,"Moody County",25,46,571
+46,011,46,103,SD,"Pennington County",23,44,617
+46,011,46,079,SD,"Lake County",22,46,570
+46,011,46,005,SD,"Beadle County",20,24,327
+46,011,46,039,SD,"Deuel County",20,32,881
+46,011,46,057,SD,"Hamlin County",18,34,580
+46,011,46,065,SD,"Hughes County",14,25,337
+46,011,46,013,SD,"Brown County",13,27,321
+46,011,46,035,SD,"Davison County",13,18,276
+46,011,27,117,MN,"Pipestone County",11,16,225
+46,011,46,083,SD,"Lincoln County",11,21,458
+46,011,27,053,MN,"Hennepin County",10,26,734
+46,011,27,081,MN,"Lincoln County",10,21,182
+46,011,27,083,MN,"Lyon County",10,15,275
+46,011,46,093,SD,"Meade County",10,13,181
+46,011,58,000,SS,"Other Flows - Same State",137,201,2699
+46,011,59,000,DS,"Other Flows - Diff State",310,541,9558
+46,011,59,001,DS,"Other Flows - Northeast",17,34,565
+46,011,59,003,DS,"Other Flows - Midwest",206,352,5855
+46,011,59,005,DS,"Other Flows - South",33,57,1112
+46,011,59,007,DS,"Other Flows - West",54,98,2026
+46,011,57,009,FR,"Foreign - Other flows",75,82,329
+46,013,96,000,SD,"Brown County Tot Mig-US & For",773,1381,22280
+46,013,97,000,SD,"Brown County Tot Mig-US",773,1381,22280
+46,013,97,001,SD,"Brown County Tot Mig-Same St",436,786,11103
+46,013,97,003,SD,"Brown County Tot Mig-Diff St",337,595,11177
+46,013,46,013,SD,"Brown County Non-Migrants",13095,28502,620749
+46,013,46,115,SD,"Spink County",55,103,1185
+46,013,46,099,SD,"Minnehaha County",41,77,1118
+46,013,46,029,SD,"Codington County",36,54,659
+46,013,46,045,SD,"Edmunds County",27,51,825
+46,013,46,129,SD,"Walworth County",26,43,398
+46,013,46,089,SD,"Mcpherson County",19,29,424
+46,013,46,103,SD,"Pennington County",19,34,556
+46,013,46,005,SD,"Beadle County",18,33,427
+46,013,46,037,SD,"Day County",18,30,665
+46,013,46,011,SD,"Brookings County",17,40,428
+46,013,38,021,ND,"Dickey County",16,28,423
+46,013,46,091,SD,"Marshall County",16,29,383
+46,013,46,107,SD,"Potter County",12,16,264
+46,013,27,053,MN,"Hennepin County",10,13,259
+46,013,38,077,ND,"Richland County",10,12,231
+46,013,46,049,SD,"Faulk County",10,19,316
+46,013,46,065,SD,"Hughes County",10,17,295
+46,013,58,000,SS,"Other Flows - Same State",112,211,3160
+46,013,59,000,DS,"Other Flows - Diff State",301,542,10264
+46,015,96,000,SD,"Brule County Tot Mig-US & For",121,220,2825
+46,015,97,000,SD,"Brule County Tot Mig-US",121,220,2825
+46,015,97,001,SD,"Brule County Tot Mig-Same St",87,155,1964
+46,015,97,003,SD,"Brule County Tot Mig-Diff St",34,65,860
+46,015,46,015,SD,"Brule County Non-Migrants",1797,4088,59338
+46,015,46,099,SD,"Minnehaha County",14,24,381
+46,015,46,085,SD,"Lyman County",13,26,262
+46,015,58,000,SS,"Other Flows - Same State",60,105,1321
+46,015,59,000,DS,"Other Flows - Diff State",34,65,860
+46,017,96,000,SD,"Buffalo County Tot Mig-US & For",51,110,961
+46,017,97,000,SD,"Buffalo County Tot Mig-US",51,110,961
+46,017,46,017,SD,"Buffalo County Non-Migrants",509,1381,11122
+46,019,96,000,SD,"Butte County Tot Mig-US & For",318,635,10747
+46,019,97,000,SD,"Butte County Tot Mig-US",318,635,10747
+46,019,97,001,SD,"Butte County Tot Mig-Same St",193,365,4586
+46,019,97,003,SD,"Butte County Tot Mig-Diff St",125,270,6160
+46,019,46,019,SD,"Butte County Non-Migrants",3039,7203,98469
+46,019,46,081,SD,"Lawrence County",68,122,2074
+46,019,46,103,SD,"Pennington County",29,62,516
+46,019,46,093,SD,"Meade County",25,47,600
+46,019,56,011,WY,"Crook County",12,30,385
+46,019,56,005,WY,"Campbell County",11,24,184
+46,019,58,000,SS,"Other Flows - Same State",71,134,1397
+46,019,59,000,DS,"Other Flows - Diff State",102,216,5591
+46,021,96,000,SD,"Campbell County Tot Mig-US & For",25,64,897
+46,021,97,000,SD,"Campbell County Tot Mig-US",25,64,897
+46,021,97,001,SD,"Campbell County Tot Mig-Same St",12,31,211
+46,021,97,003,SD,"Campbell County Tot Mig-Diff St",13,33,685
+46,021,46,021,SD,"Campbell County Non-Migrants",742,1792,21457
+46,021,58,000,SS,"Other Flows - Same State",12,31,211
+46,021,59,000,DS,"Other Flows - Diff State",13,33,685
+46,023,96,000,SD,"Charles Mix Cou Tot Mig-US & For",136,264,3505
+46,023,97,000,SD,"Charles Mix Cou Tot Mig-US",136,264,3505
+46,023,97,001,SD,"Charles Mix Cou Tot Mig-Same St",83,154,1941
+46,023,97,003,SD,"Charles Mix Cou Tot Mig-Diff St",53,110,1564
+46,023,46,023,SD,"Charles Mix Cou Non-Migrants",2920,7253,94536
+46,023,46,099,SD,"Minnehaha County",13,28,216
+46,023,46,009,SD,"Bon Homme County",10,12,273
+46,023,58,000,SS,"Other Flows - Same State",60,114,1453
+46,023,59,000,DS,"Other Flows - Diff State",53,110,1564
+46,025,96,000,SD,"Clark County Tot Mig-US & For",77,152,2045
+46,025,97,000,SD,"Clark County Tot Mig-US",77,152,2045
+46,025,97,001,SD,"Clark County Tot Mig-Same St",45,84,1212
+46,025,97,003,SD,"Clark County Tot Mig-Diff St",32,68,834
+46,025,46,025,SD,"Clark County Non-Migrants",1400,3280,47287
+46,025,46,029,SD,"Codington County",20,41,674
+46,025,58,000,SS,"Other Flows - Same State",25,43,538
+46,025,59,000,DS,"Other Flows - Diff State",32,68,834
+46,027,96,000,SD,"Clay County Tot Mig-US & For",627,1058,19015
+46,027,97,000,SD,"Clay County Tot Mig-US",601,1027,18873
+46,027,97,001,SD,"Clay County Tot Mig-Same St",321,533,8036
+46,027,97,003,SD,"Clay County Tot Mig-Diff St",280,494,10837
+46,027,98,000,SD,"Clay County Tot Mig-Foreign",26,31,142
+46,027,46,027,SD,"Clay County Non-Migrants",3800,8241,151220
+46,027,46,099,SD,"Minnehaha County",51,98,1424
+46,027,46,135,SD,"Yankton County",45,78,981
+46,027,46,127,SD,"Union County",35,54,1191
+46,027,19,193,IA,"Woodbury County",30,50,796
+46,027,46,083,SD,"Lincoln County",20,33,681
+46,027,46,103,SD,"Pennington County",17,30,330
+46,027,46,035,SD,"Davison County",12,14,536
+46,027,46,023,SD,"Charles Mix County",11,15,153
+46,027,58,000,SS,"Other Flows - Same State",130,211,2740
+46,027,59,000,DS,"Other Flows - Diff State",250,444,10041
+46,027,57,009,FR,"Foreign - Other flows",26,31,142
+46,029,96,000,SD,"Codington Count Tot Mig-US & For",696,1332,21325
+46,029,97,000,SD,"Codington Count Tot Mig-US",696,1332,21325
+46,029,97,001,SD,"Codington Count Tot Mig-Same St",428,781,10821
+46,029,97,003,SD,"Codington Count Tot Mig-Diff St",268,551,10504
+46,029,46,029,SD,"Codington Count Non-Migrants",9392,21436,433910
+46,029,46,099,SD,"Minnehaha County",54,104,1606
+46,029,46,051,SD,"Grant County",45,79,828
+46,029,46,057,SD,"Hamlin County",39,78,907
+46,029,46,011,SD,"Brookings County",37,70,863
+46,029,46,013,SD,"Brown County",30,45,795
+46,029,46,109,SD,"Roberts County",27,55,469
+46,029,46,025,SD,"Clark County",19,34,469
+46,029,46,037,SD,"Day County",16,28,372
+46,029,46,039,SD,"Deuel County",16,36,473
+46,029,46,115,SD,"Spink County",16,29,469
+46,029,38,017,ND,"Cass County",11,22,398
+46,029,46,005,SD,"Beadle County",11,23,392
+46,029,46,079,SD,"Lake County",11,14,248
+46,029,46,035,SD,"Davison County",10,18,243
+46,029,58,000,SS,"Other Flows - Same State",97,168,2687
+46,029,59,000,DS,"Other Flows - Diff State",257,529,10106
+46,031,96,000,SD,"Corson County Tot Mig-US & For",80,181,1247
+46,031,97,000,SD,"Corson County Tot Mig-US",80,181,1247
+46,031,97,001,SD,"Corson County Tot Mig-Same St",36,85,621
+46,031,97,003,SD,"Corson County Tot Mig-Diff St",44,96,626
+46,031,46,031,SD,"Corson County Non-Migrants",1100,2850,23893
+46,031,46,129,SD,"Walworth County",15,32,300
+46,031,38,085,ND,"Sioux County",12,29,180
+46,031,58,000,SS,"Other Flows - Same State",21,53,321
+46,031,59,000,DS,"Other Flows - Diff State",32,67,446
+46,033,96,000,SD,"Custer County Tot Mig-US & For",290,557,10974
+46,033,97,000,SD,"Custer County Tot Mig-US",290,557,10974
+46,033,97,001,SD,"Custer County Tot Mig-Same St",125,256,4861
+46,033,97,003,SD,"Custer County Tot Mig-Diff St",165,301,6113
+46,033,46,033,SD,"Custer County Non-Migrants",2342,5034,156590
+46,033,46,103,SD,"Pennington County",53,109,2240
+46,033,46,047,SD,"Fall River County",13,22,399
+46,033,58,000,SS,"Other Flows - Same State",59,125,2222
+46,033,59,000,DS,"Other Flows - Diff State",165,301,6113
+46,035,96,000,SD,"Davison County Tot Mig-US & For",577,1030,18123
+46,035,97,000,SD,"Davison County Tot Mig-US",577,1030,18123
+46,035,97,001,SD,"Davison County Tot Mig-Same St",389,678,11031
+46,035,97,003,SD,"Davison County Tot Mig-Diff St",188,352,7092
+46,035,46,035,SD,"Davison County Non-Migrants",6404,14332,282123
+46,035,46,099,SD,"Minnehaha County",53,83,1287
+46,035,46,003,SD,"Aurora County",30,47,637
+46,035,46,061,SD,"Hanson County",21,46,667
+46,035,46,015,SD,"Brule County",20,37,474
+46,035,46,067,SD,"Hutchinson County",20,35,1529
+46,035,46,005,SD,"Beadle County",18,31,606
+46,035,46,111,SD,"Sanborn County",18,36,579
+46,035,46,023,SD,"Charles Mix County",14,26,422
+46,035,46,027,SD,"Clay County",14,20,413
+46,035,46,103,SD,"Pennington County",14,25,269
+46,035,46,135,SD,"Yankton County",14,31,573
+46,035,46,065,SD,"Hughes County",13,22,281
+46,035,46,079,SD,"Lake County",12,19,292
+46,035,46,011,SD,"Brookings County",10,20,337
+46,035,58,000,SS,"Other Flows - Same State",118,200,2664
+46,035,59,000,DS,"Other Flows - Diff State",188,352,7092
+46,037,96,000,SD,"Day County Tot Mig-US & For",126,235,5406
+46,037,97,000,SD,"Day County Tot Mig-US",126,235,5406
+46,037,97,001,SD,"Day County Tot Mig-Same St",72,136,2124
+46,037,97,003,SD,"Day County Tot Mig-Diff St",54,99,3282
+46,037,46,037,SD,"Day County Non-Migrants",2210,4969,71792
+46,037,46,029,SD,"Codington County",17,32,400
+46,037,46,013,SD,"Brown County",11,19,577
+46,037,46,091,SD,"Marshall County",10,21,279
+46,037,58,000,SS,"Other Flows - Same State",34,64,868
+46,037,59,000,DS,"Other Flows - Diff State",54,99,3282
+46,039,96,000,SD,"Deuel County Tot Mig-US & For",99,237,2904
+46,039,97,000,SD,"Deuel County Tot Mig-US",99,237,2904
+46,039,97,001,SD,"Deuel County Tot Mig-Same St",60,150,1528
+46,039,97,003,SD,"Deuel County Tot Mig-Diff St",39,87,1376
+46,039,46,039,SD,"Deuel County Non-Migrants",1792,4118,60013
+46,039,46,029,SD,"Codington County",19,48,398
+46,039,58,000,SS,"Other Flows - Same State",41,102,1129
+46,039,59,000,DS,"Other Flows - Diff State",39,87,1376
+46,041,96,000,SD,"Dewey County Tot Mig-US & For",119,271,2149
+46,041,97,000,SD,"Dewey County Tot Mig-US",119,271,2149
+46,041,97,001,SD,"Dewey County Tot Mig-Same St",75,185,1331
+46,041,97,003,SD,"Dewey County Tot Mig-Diff St",44,86,819
+46,041,46,041,SD,"Dewey County Non-Migrants",1796,4721,45174
+46,041,46,137,SD,"Ziebach County",14,38,235
+46,041,46,103,SD,"Pennington County",10,30,217
+46,041,58,000,SS,"Other Flows - Same State",51,117,878
+46,041,59,000,DS,"Other Flows - Diff State",44,86,819
+46,043,96,000,SD,"Douglas County Tot Mig-US & For",61,118,1776
+46,043,97,000,SD,"Douglas County Tot Mig-US",61,118,1776
+46,043,97,001,SD,"Douglas County Tot Mig-Same St",37,69,1107
+46,043,97,003,SD,"Douglas County Tot Mig-Diff St",24,49,669
+46,043,46,043,SD,"Douglas County Non-Migrants",1178,2991,37765
+46,043,46,035,SD,"Davison County",10,13,247
+46,043,58,000,SS,"Other Flows - Same State",27,56,860
+46,043,59,000,DS,"Other Flows - Diff State",24,49,669
+46,045,96,000,SD,"Edmunds County Tot Mig-US & For",80,161,3329
+46,045,97,000,SD,"Edmunds County Tot Mig-US",80,161,3329
+46,045,97,001,SD,"Edmunds County Tot Mig-Same St",59,123,2549
+46,045,97,003,SD,"Edmunds County Tot Mig-Diff St",21,38,780
+46,045,46,045,SD,"Edmunds County Non-Migrants",1454,3374,53603
+46,045,46,013,SD,"Brown County",31,59,1401
+46,045,58,000,SS,"Other Flows - Same State",28,64,1148
+46,045,59,000,DS,"Other Flows - Diff State",21,38,780
+46,047,96,000,SD,"Fall River Coun Tot Mig-US & For",262,512,8906
+46,047,97,000,SD,"Fall River Coun Tot Mig-US",262,512,8906
+46,047,97,001,SD,"Fall River Coun Tot Mig-Same St",100,209,2868
+46,047,97,003,SD,"Fall River Coun Tot Mig-Diff St",162,303,6038
+46,047,46,047,SD,"Fall River Coun Non-Migrants",2394,5078,87282
+46,047,46,103,SD,"Pennington County",34,66,895
+46,047,46,033,SD,"Custer County",17,37,488
+46,047,58,000,SS,"Other Flows - Same State",49,106,1484
+46,047,59,000,DS,"Other Flows - Diff State",162,303,6038
+46,049,96,000,SD,"Faulk County Tot Mig-US & For",34,61,824
+46,049,97,000,SD,"Faulk County Tot Mig-US",34,61,824
+46,049,97,001,SD,"Faulk County Tot Mig-Same St",17,32,389
+46,049,97,003,SD,"Faulk County Tot Mig-Diff St",17,29,435
+46,049,46,049,SD,"Faulk County Non-Migrants",839,1906,28725
+46,049,58,000,SS,"Other Flows - Same State",17,32,389
+46,049,59,000,DS,"Other Flows - Diff State",17,29,435
+46,051,96,000,SD,"Grant County Tot Mig-US & For",153,287,4384
+46,051,97,000,SD,"Grant County Tot Mig-US",153,287,4384
+46,051,97,001,SD,"Grant County Tot Mig-Same St",67,126,1761
+46,051,97,003,SD,"Grant County Tot Mig-Diff St",86,161,2623
+46,051,46,051,SD,"Grant County Non-Migrants",2931,6959,120310
+46,051,46,029,SD,"Codington County",16,26,287
+46,051,27,011,MN,"Big Stone County",13,19,291
+46,051,46,099,SD,"Minnehaha County",12,21,266
+46,051,46,109,SD,"Roberts County",10,18,299
+46,051,58,000,SS,"Other Flows - Same State",29,61,909
+46,051,59,000,DS,"Other Flows - Diff State",73,142,2332
+46,053,96,000,SD,"Gregory County Tot Mig-US & For",61,109,2031
+46,053,97,000,SD,"Gregory County Tot Mig-US",61,109,2031
+46,053,97,001,SD,"Gregory County Tot Mig-Same St",34,51,1092
+46,053,97,003,SD,"Gregory County Tot Mig-Diff St",27,58,939
+46,053,46,053,SD,"Gregory County Non-Migrants",1801,4021,58602
+46,053,58,000,SS,"Other Flows - Same State",34,51,1092
+46,053,59,000,DS,"Other Flows - Diff State",27,58,939
+46,055,96,000,SD,"Haakon County Tot Mig-US & For",43,70,1830
+46,055,97,000,SD,"Haakon County Tot Mig-US",43,70,1830
+46,055,97,001,SD,"Haakon County Tot Mig-Same St",27,43,621
+46,055,97,003,SD,"Haakon County Tot Mig-Diff St",16,27,1209
+46,055,46,055,SD,"Haakon County Non-Migrants",848,2026,28561
+46,055,58,000,SS,"Other Flows - Same State",27,43,621
+46,055,59,000,DS,"Other Flows - Diff State",16,27,1209
+46,057,96,000,SD,"Hamlin County Tot Mig-US & For",134,281,4618
+46,057,97,000,SD,"Hamlin County Tot Mig-US",134,281,4618
+46,057,97,001,SD,"Hamlin County Tot Mig-Same St",93,190,2991
+46,057,97,003,SD,"Hamlin County Tot Mig-Diff St",41,91,1628
+46,057,46,057,SD,"Hamlin County Non-Migrants",1743,4360,66943
+46,057,46,029,SD,"Codington County",37,79,1180
+46,057,58,000,SS,"Other Flows - Same State",56,111,1811
+46,057,59,000,DS,"Other Flows - Diff State",41,91,1628
+46,059,96,000,SD,"Hand County Tot Mig-US & For",43,72,1330
+46,059,97,000,SD,"Hand County Tot Mig-US",43,72,1330
+46,059,97,001,SD,"Hand County Tot Mig-Same St",27,48,802
+46,059,97,003,SD,"Hand County Tot Mig-Diff St",16,24,528
+46,059,46,059,SD,"Hand County Non-Migrants",1391,3218,53503
+46,059,58,000,SS,"Other Flows - Same State",27,48,802
+46,059,59,000,DS,"Other Flows - Diff State",16,24,528
+46,061,96,000,SD,"Hanson County Tot Mig-US & For",124,250,5538
+46,061,97,000,SD,"Hanson County Tot Mig-US",124,250,5538
+46,061,97,001,SD,"Hanson County Tot Mig-Same St",57,121,1736
+46,061,97,003,SD,"Hanson County Tot Mig-Diff St",67,129,3802
+46,061,46,061,SD,"Hanson County Non-Migrants",1209,2996,58792
+46,061,46,035,SD,"Davison County",29,65,808
+46,061,58,000,SS,"Other Flows - Same State",28,56,928
+46,061,59,000,DS,"Other Flows - Diff State",67,129,3802
+46,063,96,000,SD,"Harding County Tot Mig-US & For",23,52,555
+46,063,97,000,SD,"Harding County Tot Mig-US",23,52,555
+46,063,97,001,SD,"Harding County Tot Mig-Same St",11,25,263
+46,063,97,003,SD,"Harding County Tot Mig-Diff St",12,27,292
+46,063,46,063,SD,"Harding County Non-Migrants",485,1193,14694
+46,063,58,000,SS,"Other Flows - Same State",11,25,263
+46,063,59,000,DS,"Other Flows - Diff State",12,27,292
+46,065,96,000,SD,"Hughes County Tot Mig-US & For",499,965,18287
+46,065,97,000,SD,"Hughes County Tot Mig-US",499,965,18287
+46,065,97,001,SD,"Hughes County Tot Mig-Same St",327,618,8873
+46,065,97,003,SD,"Hughes County Tot Mig-Diff St",172,347,9414
+46,065,46,065,SD,"Hughes County Non-Migrants",5926,13455,283867
+46,065,46,117,SD,"Stanley County",61,118,1492
+46,065,46,103,SD,"Pennington County",31,51,652
+46,065,46,099,SD,"Minnehaha County",25,42,851
+46,065,46,013,SD,"Brown County",18,31,445
+46,065,46,081,SD,"Lawrence County",14,21,437
+46,065,46,027,SD,"Clay County",12,20,186
+46,065,46,011,SD,"Brookings County",11,24,329
+46,065,46,119,SD,"Sully County",11,25,340
+46,065,46,005,SD,"Beadle County",10,17,279
+46,065,58,000,SS,"Other Flows - Same State",134,269,3862
+46,065,59,000,DS,"Other Flows - Diff State",172,347,9414
+46,067,96,000,SD,"Hutchinson Coun Tot Mig-US & For",135,266,3996
+46,067,97,000,SD,"Hutchinson Coun Tot Mig-US",135,266,3996
+46,067,97,001,SD,"Hutchinson Coun Tot Mig-Same St",86,186,2825
+46,067,97,003,SD,"Hutchinson Coun Tot Mig-Diff St",49,80,1171
+46,067,46,067,SD,"Hutchinson Coun Non-Migrants",2778,6319,104268
+46,067,46,099,SD,"Minnehaha County",14,31,434
+46,067,46,035,SD,"Davison County",13,30,470
+46,067,46,125,SD,"Turner County",13,33,663
+46,067,58,000,SS,"Other Flows - Same State",46,92,1258
+46,067,59,000,DS,"Other Flows - Diff State",49,80,1171
+46,069,96,000,SD,"Hyde County Tot Mig-US & For",29,52,809
+46,069,97,000,SD,"Hyde County Tot Mig-US",29,52,809
+46,069,46,069,SD,"Hyde County Non-Migrants",577,1322,17911
+46,071,96,000,SD,"Jackson County Tot Mig-US & For",51,106,1004
+46,071,97,000,SD,"Jackson County Tot Mig-US",51,106,1004
+46,071,97,001,SD,"Jackson County Tot Mig-Same St",26,54,425
+46,071,97,003,SD,"Jackson County Tot Mig-Diff St",25,52,579
+46,071,46,071,SD,"Jackson County Non-Migrants",786,2002,20739
+46,071,58,000,SS,"Other Flows - Same State",26,54,425
+46,071,59,000,DS,"Other Flows - Diff State",25,52,579
+46,073,96,000,SD,"Jerauld County Tot Mig-US & For",48,103,1592
+46,073,97,000,SD,"Jerauld County Tot Mig-US",48,103,1592
+46,073,97,001,SD,"Jerauld County Tot Mig-Same St",32,70,846
+46,073,97,003,SD,"Jerauld County Tot Mig-Diff St",16,33,746
+46,073,46,073,SD,"Jerauld County Non-Migrants",813,1742,26270
+46,073,58,000,SS,"Other Flows - Same State",32,70,846
+46,073,59,000,DS,"Other Flows - Diff State",16,33,746
+46,075,96,000,SD,"Jones County Tot Mig-US & For",21,34,508
+46,075,97,000,SD,"Jones County Tot Mig-US",21,34,508
+46,075,46,075,SD,"Jones County Non-Migrants",445,957,13103
+46,077,96,000,SD,"Kingsbury Count Tot Mig-US & For",103,197,2722
+46,077,97,000,SD,"Kingsbury Count Tot Mig-US",103,197,2722
+46,077,97,001,SD,"Kingsbury Count Tot Mig-Same St",75,131,1976
+46,077,97,003,SD,"Kingsbury Count Tot Mig-Diff St",28,66,746
+46,077,46,077,SD,"Kingsbury Count Non-Migrants",1877,4303,72879
+46,077,46,011,SD,"Brookings County",13,29,367
+46,077,46,005,SD,"Beadle County",11,15,191
+46,077,46,099,SD,"Minnehaha County",10,15,338
+46,077,58,000,SS,"Other Flows - Same State",41,72,1080
+46,077,59,000,DS,"Other Flows - Diff State",28,66,746
+46,079,96,000,SD,"Lake County Tot Mig-US & For",300,507,9851
+46,079,97,000,SD,"Lake County Tot Mig-US",300,507,9851
+46,079,97,001,SD,"Lake County Tot Mig-Same St",179,297,5664
+46,079,97,003,SD,"Lake County Tot Mig-Diff St",121,210,4187
+46,079,46,079,SD,"Lake County Non-Migrants",3775,8662,154953
+46,079,46,099,SD,"Minnehaha County",69,132,3037
+46,079,46,005,SD,"Beadle County",13,24,354
+46,079,46,097,SD,"Miner County",10,12,153
+46,079,58,000,SS,"Other Flows - Same State",87,129,2121
+46,079,59,000,DS,"Other Flows - Diff State",121,210,4187
+46,081,96,000,SD,"Lawrence County Tot Mig-US & For",864,1518,31746
+46,081,97,000,SD,"Lawrence County Tot Mig-US",864,1518,31746
+46,081,97,001,SD,"Lawrence County Tot Mig-Same St",418,709,15631
+46,081,97,003,SD,"Lawrence County Tot Mig-Diff St",446,809,16115
+46,081,46,081,SD,"Lawrence County Non-Migrants",7358,15836,304919
+46,081,46,103,SD,"Pennington County",109,176,3008
+46,081,46,019,SD,"Butte County",84,152,1993
+46,081,46,093,SD,"Meade County",69,140,2073
+46,081,46,099,SD,"Minnehaha County",26,42,627
+46,081,56,005,WY,"Campbell County",26,45,776
+46,081,56,045,WY,"Weston County",18,28,596
+46,081,56,011,WY,"Crook County",15,34,644
+46,081,46,065,SD,"Hughes County",11,17,1021
+46,081,56,025,WY,"Natrona County",11,22,294
+46,081,58,000,SS,"Other Flows - Same State",119,182,6909
+46,081,59,000,DS,"Other Flows - Diff State",376,680,13805
+46,083,96,000,SD,"Lincoln County Tot Mig-US & For",1632,3157,79442
+46,083,97,000,SD,"Lincoln County Tot Mig-US",1632,3157,79442
+46,083,97,001,SD,"Lincoln County Tot Mig-Same St",1199,2254,56072
+46,083,97,003,SD,"Lincoln County Tot Mig-Diff St",433,903,23370
+46,083,46,083,SD,"Lincoln County Non-Migrants",8869,22153,575428
+46,083,46,099,SD,"Minnehaha County",942,1798,46203
+46,083,46,125,SD,"Turner County",30,57,1116
+46,083,46,011,SD,"Brookings County",25,40,828
+46,083,19,167,IA,"Sioux County",24,52,1094
+46,083,19,119,IA,"Lyon County",19,30,602
+46,083,46,127,SD,"Union County",17,31,675
+46,083,46,013,SD,"Brown County",15,28,429
+46,083,46,029,SD,"Codington County",15,25,590
+46,083,46,103,SD,"Pennington County",15,28,590
+46,083,27,053,MN,"Hennepin County",14,19,680
+46,083,31,055,NE,"Douglas County",14,27,509
+46,083,46,027,SD,"Clay County",13,21,408
+46,083,46,135,SD,"Yankton County",13,26,1051
+46,083,46,079,SD,"Lake County",12,18,565
+46,083,19,193,IA,"Woodbury County",10,21,622
+46,083,46,035,SD,"Davison County",10,13,204
+46,083,58,000,SS,"Other Flows - Same State",92,169,3415
+46,083,59,000,DS,"Other Flows - Diff State",352,754,19863
+46,083,59,001,DS,"Other Flows - Northeast",13,32,829
+46,083,59,003,DS,"Other Flows - Midwest",207,437,11571
+46,083,59,005,DS,"Other Flows - South",53,99,2389
+46,083,59,007,DS,"Other Flows - West",79,186,5074
+46,085,96,000,SD,"Lyman County Tot Mig-US & For",82,188,2285
+46,085,97,000,SD,"Lyman County Tot Mig-US",82,188,2285
+46,085,97,001,SD,"Lyman County Tot Mig-Same St",62,139,1695
+46,085,97,003,SD,"Lyman County Tot Mig-Diff St",20,49,590
+46,085,46,085,SD,"Lyman County Non-Migrants",1308,3141,44923
+46,085,46,015,SD,"Brule County",18,39,806
+46,085,58,000,SS,"Other Flows - Same State",44,100,889
+46,085,59,000,DS,"Other Flows - Diff State",20,49,590
+46,087,96,000,SD,"Mccook County Tot Mig-US & For",148,282,5452
+46,087,97,000,SD,"Mccook County Tot Mig-US",148,282,5452
+46,087,97,001,SD,"Mccook County Tot Mig-Same St",110,198,4060
+46,087,97,003,SD,"Mccook County Tot Mig-Diff St",38,84,1392
+46,087,46,087,SD,"Mccook County Non-Migrants",1900,4635,70235
+46,087,46,099,SD,"Minnehaha County",57,111,1742
+46,087,58,000,SS,"Other Flows - Same State",53,87,2318
+46,087,59,000,DS,"Other Flows - Diff State",38,84,1392
+46,089,96,000,SD,"Mcpherson Count Tot Mig-US & For",50,87,1835
+46,089,97,000,SD,"Mcpherson Count Tot Mig-US",50,87,1835
+46,089,97,001,SD,"Mcpherson Count Tot Mig-Same St",28,55,908
+46,089,97,003,SD,"Mcpherson Count Tot Mig-Diff St",22,32,927
+46,089,46,089,SD,"Mcpherson Count Non-Migrants",928,2025,28584
+46,089,46,013,SD,"Brown County",12,18,441
+46,089,58,000,SS,"Other Flows - Same State",16,37,467
+46,089,59,000,DS,"Other Flows - Diff State",22,32,927
+46,091,96,000,SD,"Marshall County Tot Mig-US & For",66,133,1856
+46,091,97,000,SD,"Marshall County Tot Mig-US",66,133,1856
+46,091,97,001,SD,"Marshall County Tot Mig-Same St",36,78,973
+46,091,97,003,SD,"Marshall County Tot Mig-Diff St",30,55,883
+46,091,46,091,SD,"Marshall County Non-Migrants",1758,3953,62999
+46,091,46,013,SD,"Brown County",10,22,335
+46,091,46,109,SD,"Roberts County",10,23,211
+46,091,58,000,SS,"Other Flows - Same State",16,33,427
+46,091,59,000,DS,"Other Flows - Diff State",30,55,883
+46,093,96,000,SD,"Meade County Tot Mig-US & For",1419,2909,42476
+46,093,97,000,SD,"Meade County Tot Mig-US",1354,2703,40662
+46,093,97,001,SD,"Meade County Tot Mig-Same St",636,1322,20759
+46,093,97,003,SD,"Meade County Tot Mig-Diff St",718,1381,19903
+46,093,98,000,SD,"Meade County Tot Mig-Foreign",65,206,1814
+46,093,46,093,SD,"Meade County Non-Migrants",8744,20957,353713
+46,093,46,103,SD,"Pennington County",404,870,14062
+46,093,46,081,SD,"Lawrence County",73,136,1932
+46,093,46,019,SD,"Butte County",23,50,534
+46,093,48,485,TX,"Wichita County",23,29,387
+46,093,46,099,SD,"Minnehaha County",19,34,715
+46,093,04,013,AZ,"Maricopa County",14,30,482
+46,093,48,441,TX,"Taylor County",10,26,462
+46,093,58,000,SS,"Other Flows - Same State",117,232,3516
+46,093,59,000,DS,"Other Flows - Diff State",671,1296,18572
+46,093,59,001,DS,"Other Flows - Northeast",51,83,1173
+46,093,59,003,DS,"Other Flows - Midwest",182,354,5928
+46,093,59,005,DS,"Other Flows - South",189,336,4376
+46,093,59,007,DS,"Other Flows - West",249,523,7094
+46,093,57,009,FR,"Foreign - Other flows",65,206,1814
+46,095,96,000,SD,"Mellette County Tot Mig-US & For",44,101,906
+46,095,97,000,SD,"Mellette County Tot Mig-US",44,101,906
+46,095,97,001,SD,"Mellette County Tot Mig-Same St",32,76,594
+46,095,97,003,SD,"Mellette County Tot Mig-Diff St",12,25,312
+46,095,46,095,SD,"Mellette County Non-Migrants",617,1501,15919
+46,095,46,121,SD,"Todd County",11,35,201
+46,095,58,000,SS,"Other Flows - Same State",21,41,393
+46,095,59,000,DS,"Other Flows - Diff State",12,25,312
+46,097,96,000,SD,"Miner County Tot Mig-US & For",49,101,1379
+46,097,97,000,SD,"Miner County Tot Mig-US",49,101,1379
+46,097,97,001,SD,"Miner County Tot Mig-Same St",36,63,749
+46,097,97,003,SD,"Miner County Tot Mig-Diff St",13,38,630
+46,097,46,097,SD,"Miner County Non-Migrants",819,1833,26623
+46,097,46,079,SD,"Lake County",10,23,222
+46,097,58,000,SS,"Other Flows - Same State",26,40,526
+46,097,59,000,DS,"Other Flows - Diff State",13,38,630
+46,099,96,000,SD,"Minnehaha Count Tot Mig-US & For",4973,8674,177953
+46,099,97,000,SD,"Minnehaha Count Tot Mig-US",4925,8606,177176
+46,099,97,001,SD,"Minnehaha Count Tot Mig-Same St",2312,3721,71423
+46,099,97,003,SD,"Minnehaha Count Tot Mig-Diff St",2613,4885,105753
+46,099,98,000,SD,"Minnehaha Count Tot Mig-Foreign",48,68,777
+46,099,46,099,SD,"Minnehaha Count Non-Migrants",56097,121198,2807335
+46,099,46,083,SD,"Lincoln County",520,877,20214
+46,099,46,011,SD,"Brookings County",171,272,4332
+46,099,46,035,SD,"Davison County",111,163,2524
+46,099,46,103,SD,"Pennington County",106,191,4844
+46,099,46,125,SD,"Turner County",104,159,2865
+46,099,46,027,SD,"Clay County",100,160,2307
+46,099,46,135,SD,"Yankton County",98,147,2393
+46,099,46,013,SD,"Brown County",95,143,3526
+46,099,46,029,SD,"Codington County",89,143,2560
+46,099,46,079,SD,"Lake County",83,126,2453
+46,099,19,193,IA,"Woodbury County",79,169,2518
+46,099,46,065,SD,"Hughes County",76,149,2937
+46,099,19,167,IA,"Sioux County",69,96,1936
+46,099,27,053,MN,"Hennepin County",61,100,2919
+46,099,19,119,IA,"Lyon County",59,91,1664
+46,099,31,055,NE,"Douglas County",56,124,2231
+46,099,46,087,SD,"Mccook County",56,87,1206
+46,099,27,133,MN,"Rock County",55,89,1670
+46,099,46,101,SD,"Moody County",55,79,1444
+46,099,46,127,SD,"Union County",53,97,3010
+46,099,27,105,MN,"Nobles County",51,86,1102
+46,099,06,037,CA,"Los Angeles County",46,101,1802
+46,099,27,083,MN,"Lyon County",45,63,1194
+46,099,38,017,ND,"Cass County",45,105,2048
+46,099,46,005,SD,"Beadle County",45,70,1425
+46,099,27,117,MN,"Pipestone County",43,64,1156
+46,099,04,013,AZ,"Maricopa County",38,74,1457
+46,099,46,067,SD,"Hutchinson County",36,51,775
+46,099,46,081,SD,"Lawrence County",35,55,847
+46,099,46,009,SD,"Bon Homme County",32,45,679
+46,099,31,109,NE,"Lancaster County",30,56,1635
+46,099,27,123,MN,"Ramsey County",27,45,926
+46,099,46,123,SD,"Tripp County",26,37,666
+46,099,46,015,SD,"Brule County",24,43,1028
+46,099,46,023,SD,"Charles Mix County",24,39,584
+46,099,27,037,MN,"Dakota County",23,46,1462
+46,099,17,031,IL,"Cook County",22,26,684
+46,099,08,059,CO,"Jefferson County",21,40,986
+46,099,46,037,SD,"Day County",21,40,504
+46,099,46,061,SD,"Hanson County",21,30,633
+46,099,19,141,IA,"O'brien County",20,37,614
+46,099,46,053,SD,"Gregory County",20,29,432
+46,099,46,077,SD,"Kingsbury County",20,33,519
+46,099,08,041,CO,"El Paso County",19,33,849
+46,099,19,153,IA,"Polk County",18,38,974
+46,099,32,003,NV,"Clark County",18,31,622
+46,099,46,043,SD,"Douglas County",18,22,392
+46,099,46,051,SD,"Grant County",18,21,318
+46,099,19,059,IA,"Dickinson County",17,28,622
+46,099,46,093,SD,"Meade County",17,25,430
+46,099,46,097,SD,"Miner County",17,31,489
+46,099,06,073,CA,"San Diego County",16,26,516
+46,099,20,091,KS,"Johnson County",16,29,1462
+46,099,27,101,MN,"Murray County",16,20,440
+46,099,31,119,NE,"Madison County",16,28,440
+46,099,46,117,SD,"Stanley County",16,26,383
+46,099,46,057,SD,"Hamlin County",15,21,314
+46,099,27,013,MN,"Blue Earth County",14,20,1129
+46,099,27,027,MN,"Clay County",14,25,531
+46,099,38,035,ND,"Grand Forks County",14,26,507
+46,099,48,373,TX,"Polk County",14,29,803
+46,099,27,081,MN,"Lincoln County",13,14,269
+46,099,27,173,MN,"Yellow Medicine Coun",13,14,224
+46,099,29,095,MO,"Jackson County",13,23,319
+46,099,46,039,SD,"Deuel County",13,22,386
+46,099,57,005,FR,"Foreign - APO/FPO ZIPs",13,28,390
+46,099,06,065,CA,"Riverside County",12,24,402
+46,099,06,111,CA,"Ventura County",12,30,971
+46,099,19,143,IA,"Osceola County",12,15,375
+46,099,27,067,MN,"Kandiyohi County",12,24,393
+46,099,46,003,SD,"Aurora County",12,22,282
+46,099,46,121,SD,"Todd County",12,22,277
+46,099,48,113,TX,"Dallas County",12,24,361
+46,099,48,439,TX,"Tarrant County",12,25,752
+46,099,49,035,UT,"Salt Lake County",12,23,1071
+46,099,04,019,AZ,"Pima County",11,20,542
+46,099,06,059,CA,"Orange County",11,19,338
+46,099,08,031,CO,"Denver County",11,22,438
+46,099,27,003,MN,"Anoka County",11,20,656
+46,099,27,145,MN,"Stearns County",11,18,418
+46,099,29,047,MO,"Clay County",11,25,464
+46,099,31,079,NE,"Hall County",11,25,317
+46,099,46,109,SD,"Roberts County",11,19,233
+46,099,46,115,SD,"Spink County",11,17,344
+46,099,55,025,WI,"Dane County",11,20,472
+46,099,08,069,CO,"Larimer County",10,25,703
+46,099,19,149,IA,"Plymouth County",10,16,315
+46,099,20,173,KS,"Sedgwick County",10,22,307
+46,099,27,033,MN,"Cottonwood County",10,12,232
+46,099,27,091,MN,"Martin County",10,21,179
+46,099,31,043,NE,"Dakota County",10,24,243
+46,099,31,179,NE,"Wayne County",10,15,192
+46,099,38,015,ND,"Burleigh County",10,14,454
+46,099,46,129,SD,"Walworth County",10,27,111
+46,099,58,000,SS,"Other Flows - Same State",121,181,2757
+46,099,59,000,DS,"Other Flows - Diff State",1340,2606,57446
+46,099,59,001,DS,"Other Flows - Northeast",83,162,6437
+46,099,59,003,DS,"Other Flows - Midwest",608,1102,24015
+46,099,59,005,DS,"Other Flows - South",297,617,13065
+46,099,59,007,DS,"Other Flows - West",352,725,13928
+46,099,57,009,FR,"Foreign - Other flows",35,40,387
+46,101,96,000,SD,"Moody County Tot Mig-US & For",165,308,4038
+46,101,97,000,SD,"Moody County Tot Mig-US",165,308,4038
+46,101,97,001,SD,"Moody County Tot Mig-Same St",109,199,2554
+46,101,97,003,SD,"Moody County Tot Mig-Diff St",56,109,1484
+46,101,46,101,SD,"Moody County Non-Migrants",2261,5275,87204
+46,101,46,099,SD,"Minnehaha County",51,101,1275
+46,101,46,011,SD,"Brookings County",13,18,331
+46,101,46,079,SD,"Lake County",10,14,219
+46,101,58,000,SS,"Other Flows - Same State",35,66,729
+46,101,59,000,DS,"Other Flows - Diff State",56,109,1484
+46,103,96,000,SD,"Pennington Coun Tot Mig-US & For",3128,5793,99448
+46,103,97,000,SD,"Pennington Coun Tot Mig-US",3000,5582,96728
+46,103,97,001,SD,"Pennington Coun Tot Mig-Same St",1437,2568,38455
+46,103,97,003,SD,"Pennington Coun Tot Mig-Diff St",1563,3014,58272
+46,103,98,000,SD,"Pennington Coun Tot Mig-Foreign",128,211,2720
+46,103,46,103,SD,"Pennington Coun Non-Migrants",30938,66319,1394552
+46,103,46,093,SD,"Meade County",520,987,14567
+46,103,46,081,SD,"Lawrence County",154,255,4000
+46,103,46,033,SD,"Custer County",91,151,2321
+46,103,46,099,SD,"Minnehaha County",82,143,3068
+46,103,57,005,FR,"Foreign - APO/FPO ZIPs",65,145,2405
+46,103,46,065,SD,"Hughes County",52,104,1587
+46,103,46,113,SD,"Shannon County",52,115,673
+46,103,46,047,SD,"Fall River County",46,87,1081
+46,103,04,013,AZ,"Maricopa County",44,84,1710
+46,103,56,005,WY,"Campbell County",31,60,802
+46,103,46,019,SD,"Butte County",29,41,689
+46,103,46,013,SD,"Brown County",26,38,907
+46,103,08,031,CO,"Denver County",23,38,712
+46,103,48,441,TX,"Taylor County",23,46,1187
+46,103,46,129,SD,"Walworth County",22,40,414
+46,103,08,005,CO,"Arapahoe County",19,32,707
+46,103,46,005,SD,"Beadle County",19,40,842
+46,103,46,027,SD,"Clay County",19,27,244
+46,103,46,071,SD,"Jackson County",19,38,503
+46,103,46,121,SD,"Todd County",19,32,317
+46,103,46,035,SD,"Davison County",18,24,389
+46,103,08,041,CO,"El Paso County",17,48,773
+46,103,30,111,MT,"Yellowstone County",17,33,552
+46,103,46,007,SD,"Bennett County",17,36,403
+46,103,32,003,NV,"Clark County",16,29,573
+46,103,38,017,ND,"Cass County",16,28,698
+46,103,53,033,WA,"King County",16,26,553
+46,103,46,029,SD,"Codington County",15,20,224
+46,103,46,055,SD,"Haakon County",15,21,205
+46,103,46,123,SD,"Tripp County",15,25,289
+46,103,46,135,SD,"Yankton County",15,29,400
+46,103,56,025,WY,"Natrona County",15,25,494
+46,103,08,001,CO,"Adams County",14,22,418
+46,103,31,055,NE,"Douglas County",14,28,710
+46,103,46,023,SD,"Charles Mix County",14,17,484
+46,103,46,041,SD,"Dewey County",14,34,226
+46,103,08,069,CO,"Larimer County",13,25,362
+46,103,27,053,MN,"Hennepin County",13,19,918
+46,103,38,015,ND,"Burleigh County",13,31,392
+46,103,46,011,SD,"Brookings County",13,17,254
+46,103,06,073,CA,"San Diego County",12,23,330
+46,103,31,045,NE,"Dawes County",12,27,295
+46,103,31,157,NE,"Scotts Bluff County",12,24,328
+46,103,35,001,NM,"Bernalillo County",12,26,347
+46,103,46,015,SD,"Brule County",12,22,303
+46,103,46,053,SD,"Gregory County",12,16,212
+46,103,46,083,SD,"Lincoln County",12,25,822
+46,103,56,021,WY,"Laramie County",12,23,491
+46,103,04,019,AZ,"Pima County",11,19,322
+46,103,08,059,CO,"Jefferson County",11,21,497
+46,103,27,037,MN,"Dakota County",11,16,335
+46,103,31,013,NE,"Box Butte County",11,18,328
+46,103,38,059,ND,"Morton County",11,28,345
+46,103,38,101,ND,"Ward County",11,29,544
+46,103,56,045,WY,"Weston County",11,21,230
+46,103,08,013,CO,"Boulder County",10,14,254
+46,103,46,085,SD,"Lyman County",10,16,205
+46,103,56,033,WY,"Sheridan County",10,13,307
+46,103,58,000,SS,"Other Flows - Same State",105,168,2825
+46,103,59,000,DS,"Other Flows - Diff State",1102,2138,41756
+46,103,59,001,DS,"Other Flows - Northeast",67,115,2301
+46,103,59,003,DS,"Other Flows - Midwest",392,730,13183
+46,103,59,005,DS,"Other Flows - South",247,522,9444
+46,103,59,007,DS,"Other Flows - West",396,771,16829
+46,103,57,009,FR,"Foreign - Other flows",63,66,315
+46,105,96,000,SD,"Perkins County Tot Mig-US & For",64,134,1216
+46,105,97,000,SD,"Perkins County Tot Mig-US",64,134,1216
+46,105,97,001,SD,"Perkins County Tot Mig-Same St",20,40,436
+46,105,97,003,SD,"Perkins County Tot Mig-Diff St",44,94,779
+46,105,46,105,SD,"Perkins County Non-Migrants",1245,2888,40050
+46,105,58,000,SS,"Other Flows - Same State",20,40,436
+46,105,59,000,DS,"Other Flows - Diff State",44,94,779
+46,107,96,000,SD,"Potter County Tot Mig-US & For",36,82,1137
+46,107,97,000,SD,"Potter County Tot Mig-US",36,82,1137
+46,107,46,107,SD,"Potter County Non-Migrants",991,2194,36741
+46,109,96,000,SD,"Roberts County Tot Mig-US & For",226,455,6127
+46,109,97,000,SD,"Roberts County Tot Mig-US",226,455,6127
+46,109,97,001,SD,"Roberts County Tot Mig-Same St",113,242,2370
+46,109,97,003,SD,"Roberts County Tot Mig-Diff St",113,213,3757
+46,109,46,109,SD,"Roberts County Non-Migrants",3092,7145,96619
+46,109,46,029,SD,"Codington County",22,38,549
+46,109,46,091,SD,"Marshall County",22,39,420
+46,109,46,037,SD,"Day County",18,56,348
+46,109,27,155,MN,"Traverse County",17,33,205
+46,109,46,051,SD,"Grant County",11,22,250
+46,109,46,099,SD,"Minnehaha County",11,17,229
+46,109,58,000,SS,"Other Flows - Same State",29,70,574
+46,109,59,000,DS,"Other Flows - Diff State",96,180,3552
+46,111,96,000,SD,"Sanborn County Tot Mig-US & For",53,95,989
+46,111,97,000,SD,"Sanborn County Tot Mig-US",53,95,989
+46,111,97,001,SD,"Sanborn County Tot Mig-Same St",43,75,723
+46,111,97,003,SD,"Sanborn County Tot Mig-Diff St",10,20,266
+46,111,46,111,SD,"Sanborn County Non-Migrants",903,2016,28448
+46,111,46,035,SD,"Davison County",16,31,322
+46,111,58,000,SS,"Other Flows - Same State",27,44,401
+46,111,59,000,DS,"Other Flows - Diff State",10,20,266
+46,113,96,000,SD,"Shannon County Tot Mig-US & For",153,402,3262
+46,113,97,000,SD,"Shannon County Tot Mig-US",153,402,3262
+46,113,97,001,SD,"Shannon County Tot Mig-Same St",72,199,1163
+46,113,97,003,SD,"Shannon County Tot Mig-Diff St",81,203,2099
+46,113,46,113,SD,"Shannon County Non-Migrants",2559,7978,58856
+46,113,46,103,SD,"Pennington County",37,93,529
+46,113,31,161,NE,"Sheridan County",12,34,217
+46,113,58,000,SS,"Other Flows - Same State",35,106,634
+46,113,59,000,DS,"Other Flows - Diff State",69,169,1882
+46,115,96,000,SD,"Spink County Tot Mig-US & For",117,223,3156
+46,115,97,000,SD,"Spink County Tot Mig-US",117,223,3156
+46,115,97,001,SD,"Spink County Tot Mig-Same St",77,156,2082
+46,115,97,003,SD,"Spink County Tot Mig-Diff St",40,67,1074
+46,115,46,115,SD,"Spink County Non-Migrants",2359,5363,86167
+46,115,46,013,SD,"Brown County",24,54,542
+46,115,58,000,SS,"Other Flows - Same State",53,102,1539
+46,115,59,000,DS,"Other Flows - Diff State",40,67,1074
+46,117,96,000,SD,"Stanley County Tot Mig-US & For",118,235,5614
+46,117,97,000,SD,"Stanley County Tot Mig-US",118,235,5614
+46,117,97,001,SD,"Stanley County Tot Mig-Same St",92,192,4618
+46,117,97,003,SD,"Stanley County Tot Mig-Diff St",26,43,997
+46,117,46,117,SD,"Stanley County Non-Migrants",1054,2295,44606
+46,117,46,065,SD,"Hughes County",57,118,2334
+46,117,58,000,SS,"Other Flows - Same State",35,74,2284
+46,117,59,000,DS,"Other Flows - Diff State",26,43,997
+46,119,96,000,SD,"Sully County Tot Mig-US & For",34,68,765
+46,119,97,000,SD,"Sully County Tot Mig-US",34,68,765
+46,119,97,001,SD,"Sully County Tot Mig-Same St",24,42,528
+46,119,97,003,SD,"Sully County Tot Mig-Diff St",10,26,237
+46,119,46,119,SD,"Sully County Non-Migrants",510,1180,14897
+46,119,58,000,SS,"Other Flows - Same State",24,42,528
+46,119,59,000,DS,"Other Flows - Diff State",10,26,237
+46,121,96,000,SD,"Todd County Tot Mig-US & For",175,376,3162
+46,121,97,000,SD,"Todd County Tot Mig-US",175,376,3162
+46,121,97,001,SD,"Todd County Tot Mig-Same St",87,169,1443
+46,121,97,003,SD,"Todd County Tot Mig-Diff St",88,207,1719
+46,121,46,121,SD,"Todd County Non-Migrants",2069,5339,45354
+46,121,46,103,SD,"Pennington County",23,44,267
+46,121,46,095,SD,"Mellette County",12,24,170
+46,121,58,000,SS,"Other Flows - Same State",52,101,1006
+46,121,59,000,DS,"Other Flows - Diff State",88,207,1719
+46,123,96,000,SD,"Tripp County Tot Mig-US & For",103,209,2799
+46,123,97,000,SD,"Tripp County Tot Mig-US",103,209,2799
+46,123,97,001,SD,"Tripp County Tot Mig-Same St",61,116,1551
+46,123,97,003,SD,"Tripp County Tot Mig-Diff St",42,93,1248
+46,123,46,123,SD,"Tripp County Non-Migrants",2127,4941,69967
+46,123,46,103,SD,"Pennington County",11,17,167
+46,123,58,000,SS,"Other Flows - Same State",50,99,1384
+46,123,59,000,DS,"Other Flows - Diff State",42,93,1248
+46,125,96,000,SD,"Turner County Tot Mig-US & For",230,455,6567
+46,125,97,000,SD,"Turner County Tot Mig-US",230,455,6567
+46,125,97,001,SD,"Turner County Tot Mig-Same St",165,324,4754
+46,125,97,003,SD,"Turner County Tot Mig-Diff St",65,131,1813
+46,125,46,125,SD,"Turner County Non-Migrants",2840,6664,107546
+46,125,46,099,SD,"Minnehaha County",85,168,2529
+46,125,46,083,SD,"Lincoln County",17,33,589
+46,125,46,067,SD,"Hutchinson County",11,18,234
+46,125,58,000,SS,"Other Flows - Same State",52,105,1401
+46,125,59,000,DS,"Other Flows - Diff State",65,131,1813
+46,127,96,000,SD,"Union County Tot Mig-US & For",510,1119,32814
+46,127,97,000,SD,"Union County Tot Mig-US",510,1119,32814
+46,127,97,001,SD,"Union County Tot Mig-Same St",118,230,4053
+46,127,97,003,SD,"Union County Tot Mig-Diff St",392,889,28761
+46,127,46,127,SD,"Union County Non-Migrants",4232,9771,334831
+46,127,19,193,IA,"Woodbury County",168,370,11717
+46,127,46,099,SD,"Minnehaha County",32,60,1067
+46,127,46,027,SD,"Clay County",28,58,947
+46,127,31,043,NE,"Dakota County",24,70,1679
+46,127,19,149,IA,"Plymouth County",14,27,409
+46,127,46,083,SD,"Lincoln County",14,34,518
+46,127,58,000,SS,"Other Flows - Same State",44,78,1521
+46,127,59,000,DS,"Other Flows - Diff State",186,422,14957
+46,127,59,001,DS,"Other Flows - Northeast",13,24,845
+46,127,59,003,DS,"Other Flows - Midwest",116,269,10234
+46,127,59,005,DS,"Other Flows - South",33,80,2297
+46,127,59,007,DS,"Other Flows - West",24,49,1581
+46,129,96,000,SD,"Walworth County Tot Mig-US & For",145,286,3666
+46,129,97,000,SD,"Walworth County Tot Mig-US",145,286,3666
+46,129,97,001,SD,"Walworth County Tot Mig-Same St",95,188,2002
+46,129,97,003,SD,"Walworth County Tot Mig-Diff St",50,98,1664
+46,129,46,129,SD,"Walworth County Non-Migrants",2064,4561,71416
+46,129,46,031,SD,"Corson County",20,48,296
+46,129,46,013,SD,"Brown County",13,18,285
+46,129,46,041,SD,"Dewey County",11,19,101
+46,129,58,000,SS,"Other Flows - Same State",51,103,1320
+46,129,59,000,DS,"Other Flows - Diff State",50,98,1664
+46,135,96,000,SD,"Yankton County Tot Mig-US & For",540,1029,15539
+46,135,97,000,SD,"Yankton County Tot Mig-US",540,1029,15539
+46,135,97,001,SD,"Yankton County Tot Mig-Same St",250,468,7056
+46,135,97,003,SD,"Yankton County Tot Mig-Diff St",290,561,8482
+46,135,46,135,SD,"Yankton County Non-Migrants",7353,16661,319796
+46,135,46,027,SD,"Clay County",60,107,1518
+46,135,46,099,SD,"Minnehaha County",43,88,1392
+46,135,31,027,NE,"Cedar County",38,61,858
+46,135,46,009,SD,"Bon Homme County",33,52,865
+46,135,31,107,NE,"Knox County",20,35,562
+46,135,46,067,SD,"Hutchinson County",15,25,377
+46,135,31,119,NE,"Madison County",12,31,192
+46,135,31,055,NE,"Douglas County",11,17,302
+46,135,46,125,SD,"Turner County",10,21,233
+46,135,58,000,SS,"Other Flows - Same State",89,175,2672
+46,135,59,000,DS,"Other Flows - Diff State",209,417,6569
+46,137,96,000,SD,"Ziebach County Tot Mig-US & For",31,79,507
+46,137,97,000,SD,"Ziebach County Tot Mig-US",31,79,507
+46,137,46,137,SD,"Ziebach County Non-Migrants",322,860,7366

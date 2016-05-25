@@ -1,0 +1,1408 @@
+"2000 - 2001 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Nebraska,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+31,000,96,000,NE,"Total Mig - US & For",48858,92610,1769629
+31,000,97,000,NE,"Total Mig - US",48261,91477,1753727
+31,000,97,001,NE,"Total Mig - US Same St",24831,45834,789936
+31,000,97,003,NE,"Total Mig - US Diff St",23430,45643,963791
+31,000,98,000,NE,"Total Mig - Foreign",597,1133,15902
+31,001,96,000,NE,"Adams County Tot Mig-US & For",795,1455,22620
+31,001,97,000,NE,"Adams County Tot Mig-US",795,1455,22620
+31,001,97,001,NE,"Adams County Tot Mig-Same St",514,919,13870
+31,001,97,003,NE,"Adams County Tot Mig-Diff St",281,536,8751
+31,001,31,001,NE,"Adams County Non-Migrants",10488,23847,490436
+31,001,31,109,NE,"Lancaster County",121,176,2783
+31,001,31,079,NE,"Hall County",64,119,1617
+31,001,31,035,NE,"Clay County",61,133,1483
+31,001,31,055,NE,"Douglas County",51,67,2449
+31,001,31,019,NE,"Buffalo County",36,51,884
+31,001,31,181,NE,"Webster County",20,41,422
+31,001,31,099,NE,"Kearney County",14,28,272
+31,001,31,129,NE,"Nuckolls County",12,22,312
+31,001,04,013,AZ,"Maricopa County",11,17,279
+31,001,31,153,NE,"Sarpy County",11,19,380
+31,001,31,111,NE,"Lincoln County",10,36,361
+31,001,31,119,NE,"Madison County",10,18,377
+31,001,58,000,SS,"Other Flows - Same State",104,209,2529
+31,001,59,000,DS,"Other Flows - Diff State",270,519,8472
+31,003,96,000,NE,"Antelope County Tot Mig-US & For",211,368,5256
+31,003,97,000,NE,"Antelope County Tot Mig-US",211,368,5256
+31,003,97,001,NE,"Antelope County Tot Mig-Same St",166,288,4258
+31,003,97,003,NE,"Antelope County Tot Mig-Diff St",45,80,998
+31,003,31,003,NE,"Antelope County Non-Migrants",2571,6283,84520
+31,003,31,119,NE,"Madison County",43,75,880
+31,003,31,109,NE,"Lancaster County",23,27,419
+31,003,31,055,NE,"Douglas County",12,15,568
+31,003,31,139,NE,"Pierce County",10,29,279
+31,003,58,000,SS,"Other Flows - Same State",78,142,2113
+31,003,59,000,DS,"Other Flows - Diff State",45,80,998
+31,007,96,000,NE,"Banner County Tot Mig-US & For",34,66,745
+31,007,97,000,NE,"Banner County Tot Mig-US",34,66,745
+31,007,97,001,NE,"Banner County Tot Mig-Same St",19,30,349
+31,007,97,003,NE,"Banner County Tot Mig-Diff St",15,36,396
+31,007,31,007,NE,"Banner County Non-Migrants",289,720,8484
+31,007,58,000,SS,"Other Flows - Same State",19,30,349
+31,007,59,000,DS,"Other Flows - Diff State",15,36,396
+31,011,96,000,NE,"Boone County Tot Mig-US & For",147,289,3776
+31,011,97,000,NE,"Boone County Tot Mig-US",147,289,3776
+31,011,97,001,NE,"Boone County Tot Mig-Same St",122,251,3177
+31,011,97,003,NE,"Boone County Tot Mig-Diff St",25,38,599
+31,011,31,011,NE,"Boone County Non-Migrants",2229,5420,79089
+31,011,31,141,NE,"Platte County",22,48,628
+31,011,31,109,NE,"Lancaster County",17,20,331
+31,011,31,119,NE,"Madison County",15,30,348
+31,011,31,055,NE,"Douglas County",11,16,324
+31,011,58,000,SS,"Other Flows - Same State",57,137,1546
+31,011,59,000,DS,"Other Flows - Diff State",25,38,599
+31,013,96,000,NE,"Box Butte Count Tot Mig-US & For",383,761,11836
+31,013,97,000,NE,"Box Butte Count Tot Mig-US",383,761,11836
+31,013,97,001,NE,"Box Butte Count Tot Mig-Same St",158,304,4913
+31,013,97,003,NE,"Box Butte Count Tot Mig-Diff St",225,457,6923
+31,013,31,013,NE,"Box Butte Count Non-Migrants",4431,10602,189252
+31,013,31,157,NE,"Scotts Bluff County",29,63,738
+31,013,31,045,NE,"Dawes County",21,33,513
+31,013,31,109,NE,"Lancaster County",20,28,565
+31,013,31,123,NE,"Morrill County",13,25,268
+31,013,46,103,SD,"Pennington County",11,18,328
+31,013,31,019,NE,"Buffalo County",10,16,149
+31,013,31,111,NE,"Lincoln County",10,14,328
+31,013,58,000,SS,"Other Flows - Same State",55,125,2351
+31,013,59,000,DS,"Other Flows - Diff State",214,439,6595
+31,015,96,000,NE,"Boyd County Tot Mig-US & For",51,94,1115
+31,015,97,000,NE,"Boyd County Tot Mig-US",51,94,1115
+31,015,97,001,NE,"Boyd County Tot Mig-Same St",32,58,613
+31,015,97,003,NE,"Boyd County Tot Mig-Diff St",19,36,501
+31,015,31,015,NE,"Boyd County Non-Migrants",857,1972,23156
+31,015,58,000,SS,"Other Flows - Same State",32,58,613
+31,015,59,000,DS,"Other Flows - Diff State",19,36,501
+31,017,96,000,NE,"Brown County Tot Mig-US & For",93,167,2532
+31,017,97,000,NE,"Brown County Tot Mig-US",93,167,2532
+31,017,97,001,NE,"Brown County Tot Mig-Same St",69,129,1950
+31,017,97,003,NE,"Brown County Tot Mig-Diff St",24,38,582
+31,017,31,017,NE,"Brown County Non-Migrants",1236,2866,38802
+31,017,31,109,NE,"Lancaster County",10,15,208
+31,017,58,000,SS,"Other Flows - Same State",59,114,1742
+31,017,59,000,DS,"Other Flows - Diff State",24,38,582
+31,019,96,000,NE,"Buffalo County Tot Mig-US & For",1295,2371,39242
+31,019,97,000,NE,"Buffalo County Tot Mig-US",1295,2371,39242
+31,019,97,001,NE,"Buffalo County Tot Mig-Same St",744,1357,20660
+31,019,97,003,NE,"Buffalo County Tot Mig-Diff St",551,1014,18582
+31,019,31,019,NE,"Buffalo County Non-Migrants",14235,32457,640062
+31,019,31,109,NE,"Lancaster County",133,194,3496
+31,019,31,079,NE,"Hall County",94,180,2508
+31,019,31,055,NE,"Douglas County",84,125,2587
+31,019,31,099,NE,"Kearney County",46,99,1678
+31,019,31,047,NE,"Dawson County",37,74,1058
+31,019,31,137,NE,"Phelps County",28,54,671
+31,019,31,001,NE,"Adams County",26,54,766
+31,019,31,111,NE,"Lincoln County",25,43,745
+31,019,31,041,NE,"Custer County",22,39,316
+31,019,31,153,NE,"Sarpy County",18,33,636
+31,019,04,013,AZ,"Maricopa County",16,22,517
+31,019,08,069,CO,"Larimer County",14,27,506
+31,019,20,091,KS,"Johnson County",14,20,469
+31,019,08,005,CO,"Arapahoe County",13,23,343
+31,019,31,141,NE,"Platte County",13,27,373
+31,019,31,163,NE,"Sherman County",13,28,339
+31,019,08,031,CO,"Denver County",10,13,248
+31,019,08,059,CO,"Jefferson County",10,11,209
+31,019,31,145,NE,"Red Willow County",10,28,351
+31,019,31,185,NE,"York County",10,19,158
+31,019,58,000,SS,"Other Flows - Same State",185,360,4979
+31,019,59,000,DS,"Other Flows - Diff State",474,898,16290
+31,019,59,001,DS,"Other Flows - Northeast",17,27,677
+31,019,59,003,DS,"Other Flows - Midwest",185,365,7247
+31,019,59,005,DS,"Other Flows - South",123,235,4340
+31,019,59,007,DS,"Other Flows - West",149,271,4025
+31,021,96,000,NE,"Burt County Tot Mig-US & For",250,468,6594
+31,021,97,000,NE,"Burt County Tot Mig-US",250,468,6594
+31,021,97,001,NE,"Burt County Tot Mig-Same St",177,322,4332
+31,021,97,003,NE,"Burt County Tot Mig-Diff St",73,146,2262
+31,021,31,021,NE,"Burt County Non-Migrants",2840,6675,100184
+31,021,31,055,NE,"Douglas County",49,74,1332
+31,021,31,177,NE,"Washington County",30,55,656
+31,021,31,109,NE,"Lancaster County",26,31,513
+31,021,31,053,NE,"Dodge County",16,30,353
+31,021,31,039,NE,"Cuming County",14,34,445
+31,021,19,193,IA,"Woodbury County",10,20,244
+31,021,58,000,SS,"Other Flows - Same State",42,98,1035
+31,021,59,000,DS,"Other Flows - Diff State",63,126,2017
+31,023,96,000,NE,"Butler County Tot Mig-US & For",268,476,7427
+31,023,97,000,NE,"Butler County Tot Mig-US",268,476,7427
+31,023,97,001,NE,"Butler County Tot Mig-Same St",207,364,5775
+31,023,97,003,NE,"Butler County Tot Mig-Diff St",61,112,1652
+31,023,31,023,NE,"Butler County Non-Migrants",3661,8683,139405
+31,023,31,109,NE,"Lancaster County",67,104,1798
+31,023,31,141,NE,"Platte County",43,77,950
+31,023,31,055,NE,"Douglas County",20,32,619
+31,023,31,159,NE,"Seward County",13,17,280
+31,023,58,000,SS,"Other Flows - Same State",64,134,2128
+31,023,59,000,DS,"Other Flows - Diff State",61,112,1652
+31,025,96,000,NE,"Cass County Tot Mig-US & For",866,1660,29634
+31,025,97,000,NE,"Cass County Tot Mig-US",854,1635,29393
+31,025,97,001,NE,"Cass County Tot Mig-Same St",574,1027,18428
+31,025,97,003,NE,"Cass County Tot Mig-Diff St",280,608,10964
+31,025,98,000,NE,"Cass County Tot Mig-Foreign",12,25,241
+31,025,31,025,NE,"Cass County Non-Migrants",8671,20507,416941
+31,025,31,055,NE,"Douglas County",199,321,6603
+31,025,31,109,NE,"Lancaster County",136,235,4214
+31,025,31,153,NE,"Sarpy County",122,243,4095
+31,025,31,131,NE,"Otoe County",36,63,981
+31,025,19,155,IA,"Pottawattamie County",20,34,566
+31,025,31,155,NE,"Saunders County",14,22,312
+31,025,19,129,IA,"Mills County",10,19,511
+31,025,58,000,SS,"Other Flows - Same State",67,143,2224
+31,025,59,000,DS,"Other Flows - Diff State",250,555,9888
+31,025,59,001,DS,"Other Flows - Northeast",13,29,503
+31,025,59,003,DS,"Other Flows - Midwest",109,261,4301
+31,025,59,005,DS,"Other Flows - South",62,138,2699
+31,025,59,007,DS,"Other Flows - West",66,127,2385
+31,025,57,009,FR,"Foreign - Other flows",12,25,241
+31,027,96,000,NE,"Cedar County Tot Mig-US & For",281,480,7010
+31,027,97,000,NE,"Cedar County Tot Mig-US",281,480,7010
+31,027,97,001,NE,"Cedar County Tot Mig-Same St",172,294,4312
+31,027,97,003,NE,"Cedar County Tot Mig-Diff St",109,186,2699
+31,027,31,027,NE,"Cedar County Non-Migrants",3731,9488,126007
+31,027,46,135,SD,"Yankton County",38,61,858
+31,027,31,109,NE,"Lancaster County",33,44,756
+31,027,31,055,NE,"Douglas County",22,34,569
+31,027,31,119,NE,"Madison County",20,33,438
+31,027,31,179,NE,"Wayne County",15,22,328
+31,027,31,139,NE,"Pierce County",11,23,446
+31,027,58,000,SS,"Other Flows - Same State",71,138,1774
+31,027,59,000,DS,"Other Flows - Diff State",71,125,1841
+31,029,96,000,NE,"Chase County Tot Mig-US & For",118,231,3773
+31,029,97,000,NE,"Chase County Tot Mig-US",118,231,3773
+31,029,97,001,NE,"Chase County Tot Mig-Same St",67,140,1832
+31,029,97,003,NE,"Chase County Tot Mig-Diff St",51,91,1941
+31,029,31,029,NE,"Chase County Non-Migrants",1504,3527,55753
+31,029,31,109,NE,"Lancaster County",13,21,315
+31,029,58,000,SS,"Other Flows - Same State",54,119,1517
+31,029,59,000,DS,"Other Flows - Diff State",51,91,1941
+31,031,96,000,NE,"Cherry County Tot Mig-US & For",178,359,6224
+31,031,97,000,NE,"Cherry County Tot Mig-US",178,359,6224
+31,031,97,001,NE,"Cherry County Tot Mig-Same St",90,169,3147
+31,031,97,003,NE,"Cherry County Tot Mig-Diff St",88,190,3077
+31,031,31,031,NE,"Cherry County Non-Migrants",2131,4988,71717
+31,031,31,109,NE,"Lancaster County",16,23,414
+31,031,31,111,NE,"Lincoln County",10,12,132
+31,031,58,000,SS,"Other Flows - Same State",64,134,2601
+31,031,59,000,DS,"Other Flows - Diff State",88,190,3077
+31,033,96,000,NE,"Cheyenne County Tot Mig-US & For",276,521,8236
+31,033,97,000,NE,"Cheyenne County Tot Mig-US",276,521,8236
+31,033,97,001,NE,"Cheyenne County Tot Mig-Same St",109,218,2960
+31,033,97,003,NE,"Cheyenne County Tot Mig-Diff St",167,303,5275
+31,033,31,033,NE,"Cheyenne County Non-Migrants",3590,8064,145330
+31,033,31,019,NE,"Buffalo County",13,18,370
+31,033,31,109,NE,"Lancaster County",10,17,245
+31,033,31,157,NE,"Scotts Bluff County",10,24,119
+31,033,58,000,SS,"Other Flows - Same State",76,159,2227
+31,033,59,000,DS,"Other Flows - Diff State",167,303,5275
+31,035,96,000,NE,"Clay County Tot Mig-US & For",243,477,6066
+31,035,97,000,NE,"Clay County Tot Mig-US",243,477,6066
+31,035,97,001,NE,"Clay County Tot Mig-Same St",181,340,4095
+31,035,97,003,NE,"Clay County Tot Mig-Diff St",62,137,1970
+31,035,31,035,NE,"Clay County Non-Migrants",2526,6172,99005
+31,035,31,001,NE,"Adams County",70,130,1408
+31,035,31,109,NE,"Lancaster County",23,27,461
+31,035,31,055,NE,"Douglas County",17,21,402
+31,035,31,079,NE,"Hall County",13,28,419
+31,035,58,000,SS,"Other Flows - Same State",58,134,1405
+31,035,59,000,DS,"Other Flows - Diff State",62,137,1970
+31,037,96,000,NE,"Colfax County Tot Mig-US & For",364,770,9880
+31,037,97,000,NE,"Colfax County Tot Mig-US",364,770,9880
+31,037,97,001,NE,"Colfax County Tot Mig-Same St",273,558,7717
+31,037,97,003,NE,"Colfax County Tot Mig-Diff St",91,212,2163
+31,037,31,037,NE,"Colfax County Non-Migrants",4165,10632,145875
+31,037,31,141,NE,"Platte County",63,126,1848
+31,037,31,109,NE,"Lancaster County",38,57,1162
+31,037,31,055,NE,"Douglas County",36,65,1063
+31,037,31,053,NE,"Dodge County",31,93,833
+31,037,31,119,NE,"Madison County",31,67,737
+31,037,31,023,NE,"Butler County",20,41,631
+31,037,58,000,SS,"Other Flows - Same State",54,109,1444
+31,037,59,000,DS,"Other Flows - Diff State",91,212,2163
+31,039,96,000,NE,"Cuming County Tot Mig-US & For",306,582,8258
+31,039,97,000,NE,"Cuming County Tot Mig-US",306,582,8258
+31,039,97,001,NE,"Cuming County Tot Mig-Same St",229,437,6212
+31,039,97,003,NE,"Cuming County Tot Mig-Diff St",77,145,2046
+31,039,31,039,NE,"Cuming County Non-Migrants",3846,9290,140247
+31,039,31,109,NE,"Lancaster County",41,56,990
+31,039,31,053,NE,"Dodge County",40,72,935
+31,039,31,055,NE,"Douglas County",40,62,1097
+31,039,31,119,NE,"Madison County",18,41,633
+31,039,31,021,NE,"Burt County",12,31,240
+31,039,31,037,NE,"Colfax County",11,29,312
+31,039,58,000,SS,"Other Flows - Same State",67,146,2005
+31,039,59,000,DS,"Other Flows - Diff State",77,145,2046
+31,041,96,000,NE,"Custer County Tot Mig-US & For",321,595,6900
+31,041,97,000,NE,"Custer County Tot Mig-US",321,595,6900
+31,041,97,001,NE,"Custer County Tot Mig-Same St",240,440,5128
+31,041,97,003,NE,"Custer County Tot Mig-Diff St",81,155,1773
+31,041,31,041,NE,"Custer County Non-Migrants",4198,9988,134310
+31,041,31,019,NE,"Buffalo County",63,108,361
+31,041,31,109,NE,"Lancaster County",29,43,921
+31,041,31,047,NE,"Dawson County",16,41,412
+31,041,31,111,NE,"Lincoln County",15,28,428
+31,041,31,055,NE,"Douglas County",14,15,284
+31,041,31,079,NE,"Hall County",12,21,384
+31,041,58,000,SS,"Other Flows - Same State",91,184,2338
+31,041,59,000,DS,"Other Flows - Diff State",81,155,1773
+31,043,96,000,NE,"Dakota County Tot Mig-US & For",858,1810,24533
+31,043,97,000,NE,"Dakota County Tot Mig-US",858,1810,24533
+31,043,97,001,NE,"Dakota County Tot Mig-Same St",161,296,3849
+31,043,97,003,NE,"Dakota County Tot Mig-Diff St",697,1514,20684
+31,043,31,043,NE,"Dakota County Non-Migrants",6813,16859,266648
+31,043,19,193,IA,"Woodbury County",332,720,8231
+31,043,31,051,NE,"Dixon County",30,55,823
+31,043,31,055,NE,"Douglas County",30,53,811
+31,043,31,109,NE,"Lancaster County",27,40,553
+31,043,46,127,SD,"Union County",24,70,1679
+31,043,04,013,AZ,"Maricopa County",17,35,521
+31,043,06,037,CA,"Los Angeles County",16,45,262
+31,043,19,149,IA,"Plymouth County",13,24,356
+31,043,31,119,NE,"Madison County",13,21,412
+31,043,31,173,NE,"Thurston County",12,24,161
+31,043,20,091,KS,"Johnson County",10,14,253
+31,043,46,099,SD,"Minnehaha County",10,24,243
+31,043,58,000,SS,"Other Flows - Same State",49,103,1089
+31,043,59,000,DS,"Other Flows - Diff State",275,582,9140
+31,043,59,001,DS,"Other Flows - Northeast",14,26,431
+31,043,59,003,DS,"Other Flows - Midwest",135,253,4707
+31,043,59,005,DS,"Other Flows - South",59,127,1562
+31,043,59,007,DS,"Other Flows - West",67,176,2439
+31,045,96,000,NE,"Dawes County Tot Mig-US & For",316,581,7779
+31,045,97,000,NE,"Dawes County Tot Mig-US",316,581,7779
+31,045,97,001,NE,"Dawes County Tot Mig-Same St",116,219,3168
+31,045,97,003,NE,"Dawes County Tot Mig-Diff St",200,362,4612
+31,045,31,045,NE,"Dawes County Non-Migrants",2825,6177,98857
+31,045,31,157,NE,"Scotts Bluff County",20,44,711
+31,045,31,013,NE,"Box Butte County",14,32,558
+31,045,31,109,NE,"Lancaster County",12,16,232
+31,045,31,161,NE,"Sheridan County",12,18,259
+31,045,46,103,SD,"Pennington County",12,27,295
+31,045,31,055,NE,"Douglas County",11,21,224
+31,045,58,000,SS,"Other Flows - Same State",47,88,1184
+31,045,59,000,DS,"Other Flows - Diff State",188,335,4316
+31,047,96,000,NE,"Dawson County Tot Mig-US & For",741,1581,20668
+31,047,97,000,NE,"Dawson County Tot Mig-US",741,1581,20668
+31,047,97,001,NE,"Dawson County Tot Mig-Same St",452,910,11738
+31,047,97,003,NE,"Dawson County Tot Mig-Diff St",289,671,8930
+31,047,31,047,NE,"Dawson County Non-Migrants",8219,20378,298355
+31,047,31,019,NE,"Buffalo County",78,133,1643
+31,047,31,109,NE,"Lancaster County",59,84,1576
+31,047,31,111,NE,"Lincoln County",54,100,1543
+31,047,31,079,NE,"Hall County",32,69,660
+31,047,31,055,NE,"Douglas County",31,53,841
+31,047,31,151,NE,"Saline County",21,76,556
+31,047,06,037,CA,"Los Angeles County",20,35,372
+31,047,31,073,NE,"Gosper County",16,39,479
+31,047,31,137,NE,"Phelps County",15,28,338
+31,047,31,041,NE,"Custer County",14,25,378
+31,047,31,119,NE,"Madison County",14,47,598
+31,047,31,001,NE,"Adams County",10,11,127
+31,047,31,063,NE,"Frontier County",10,24,300
+31,047,58,000,SS,"Other Flows - Same State",98,221,2699
+31,047,59,000,DS,"Other Flows - Diff State",269,636,8558
+31,047,59,001,DS,"Other Flows - Northeast",11,26,464
+31,047,59,003,DS,"Other Flows - Midwest",83,226,2417
+31,047,59,005,DS,"Other Flows - South",59,123,1294
+31,047,59,007,DS,"Other Flows - West",116,261,4382
+31,049,96,000,NE,"Deuel County Tot Mig-US & For",82,151,1802
+31,049,97,000,NE,"Deuel County Tot Mig-US",82,151,1802
+31,049,97,001,NE,"Deuel County Tot Mig-Same St",45,82,897
+31,049,97,003,NE,"Deuel County Tot Mig-Diff St",37,69,905
+31,049,31,049,NE,"Deuel County Non-Migrants",732,1647,26406
+31,049,31,101,NE,"Keith County",11,20,231
+31,049,58,000,SS,"Other Flows - Same State",34,62,666
+31,049,59,000,DS,"Other Flows - Diff State",37,69,905
+31,051,96,000,NE,"Dixon County Tot Mig-US & For",192,383,6059
+31,051,97,000,NE,"Dixon County Tot Mig-US",192,383,6059
+31,051,97,001,NE,"Dixon County Tot Mig-Same St",118,234,4176
+31,051,97,003,NE,"Dixon County Tot Mig-Diff St",74,149,1883
+31,051,31,051,NE,"Dixon County Non-Migrants",2085,5052,72515
+31,051,31,179,NE,"Wayne County",27,40,638
+31,051,31,043,NE,"Dakota County",24,56,659
+31,051,31,109,NE,"Lancaster County",13,16,1329
+31,051,19,193,IA,"Woodbury County",12,22,251
+31,051,31,119,NE,"Madison County",11,31,376
+31,051,31,027,NE,"Cedar County",10,22,273
+31,051,58,000,SS,"Other Flows - Same State",33,69,901
+31,051,59,000,DS,"Other Flows - Diff State",62,127,1632
+31,053,96,000,NE,"Dodge County Tot Mig-US & For",1007,1864,31529
+31,053,97,000,NE,"Dodge County Tot Mig-US",1007,1864,31529
+31,053,97,001,NE,"Dodge County Tot Mig-Same St",680,1212,20669
+31,053,97,003,NE,"Dodge County Tot Mig-Diff St",327,652,10860
+31,053,31,053,NE,"Dodge County Non-Migrants",12992,29040,576758
+31,053,31,055,NE,"Douglas County",280,429,8708
+31,053,31,109,NE,"Lancaster County",86,121,2267
+31,053,31,177,NE,"Washington County",50,131,2471
+31,053,31,153,NE,"Sarpy County",37,75,1231
+31,053,31,155,NE,"Saunders County",33,60,926
+31,053,31,039,NE,"Cuming County",31,69,902
+31,053,31,021,NE,"Burt County",25,42,578
+31,053,31,037,NE,"Colfax County",18,36,398
+31,053,04,013,AZ,"Maricopa County",16,31,545
+31,053,31,141,NE,"Platte County",15,37,510
+31,053,31,119,NE,"Madison County",14,20,237
+31,053,58,000,SS,"Other Flows - Same State",91,192,2441
+31,053,59,000,DS,"Other Flows - Diff State",311,621,10315
+31,055,96,000,NE,"Douglas County Tot Mig-US & For",12205,22994,598089
+31,055,97,000,NE,"Douglas County Tot Mig-US",12049,22720,593853
+31,055,97,001,NE,"Douglas County Tot Mig-Same St",4260,8102,173867
+31,055,97,003,NE,"Douglas County Tot Mig-Diff St",7789,14618,419986
+31,055,98,000,NE,"Douglas County Tot Mig-Foreign",156,274,4236
+31,055,31,055,NE,"Douglas County Non-Migrants",174854,378119,10866077
+31,055,31,153,NE,"Sarpy County",2586,5106,109983
+31,055,19,155,IA,"Pottawattamie County",639,1193,20962
+31,055,31,109,NE,"Lancaster County",420,613,12948
+31,055,04,013,AZ,"Maricopa County",304,539,16473
+31,055,31,025,NE,"Cass County",236,479,11755
+31,055,31,177,NE,"Washington County",207,406,9485
+31,055,20,091,KS,"Johnson County",200,383,12783
+31,055,31,053,NE,"Dodge County",162,295,6450
+31,055,19,153,IA,"Polk County",152,247,7090
+31,055,17,031,IL,"Cook County",150,235,9039
+31,055,06,037,CA,"Los Angeles County",125,200,3633
+31,055,29,095,MO,"Jackson County",107,183,5128
+31,055,31,155,NE,"Saunders County",101,216,5886
+31,055,06,073,CA,"San Diego County",99,158,3306
+31,055,08,005,CO,"Arapahoe County",97,151,4295
+31,055,32,003,NV,"Clark County",96,159,7954
+31,055,08,031,CO,"Denver County",92,111,3724
+31,055,57,005,FR,"Foreign - APO/FPO ZIPs",88,153,2398
+31,055,27,053,MN,"Hennepin County",87,142,4082
+31,055,19,085,IA,"Harrison County",82,166,2947
+31,055,48,201,TX,"Harris County",80,165,4749
+31,055,19,129,IA,"Mills County",77,155,3540
+31,055,48,439,TX,"Tarrant County",64,122,3488
+31,055,08,041,CO,"El Paso County",61,124,2552
+31,055,08,059,CO,"Jefferson County",58,100,2582
+31,055,29,189,MO,"St Louis County",56,138,4986
+31,055,46,099,SD,"Minnehaha County",56,124,2231
+31,055,29,047,MO,"Clay County",52,90,2597
+31,055,48,113,TX,"Dallas County",51,86,2259
+31,055,04,019,AZ,"Pima County",50,71,2539
+31,055,06,059,CA,"Orange County",50,93,3218
+31,055,48,453,TX,"Travis County",50,73,1969
+31,055,31,079,NE,"Hall County",47,85,1655
+31,055,08,013,CO,"Boulder County",46,80,2547
+31,055,08,035,CO,"Douglas County",46,94,3604
+31,055,53,033,WA,"King County",46,85,2114
+31,055,12,057,FL,"Hillsborough County",45,94,2351
+31,055,17,043,IL,"Du Page County",44,82,3134
+31,055,06,085,CA,"Santa Clara County",43,64,2019
+31,055,48,029,TX,"Bexar County",43,87,1620
+31,055,08,069,CO,"Larimer County",42,74,2131
+31,055,29,165,MO,"Platte County",42,83,2465
+31,055,31,119,NE,"Madison County",41,89,1151
+31,055,06,067,CA,"Sacramento County",40,60,1284
+31,055,48,085,TX,"Collin County",39,81,3393
+31,055,08,001,CO,"Adams County",38,75,1685
+31,055,27,123,MN,"Ramsey County",38,57,1056
+31,055,27,037,MN,"Dakota County",37,78,2223
+31,055,31,019,NE,"Buffalo County",37,65,1321
+31,055,49,035,UT,"Salt Lake County",37,101,1675
+31,055,12,095,FL,"Orange County",35,72,2006
+31,055,31,021,NE,"Burt County",35,63,1022
+31,055,20,173,KS,"Sedgwick County",33,75,1442
+31,055,31,111,NE,"Lincoln County",33,62,1156
+31,055,06,001,CA,"Alameda County",32,40,1208
+31,055,12,011,FL,"Broward County",32,49,1167
+31,055,13,067,GA,"Cobb County",32,59,1831
+31,055,19,193,IA,"Woodbury County",31,51,880
+31,055,35,001,NM,"Bernalillo County",31,53,1434
+31,055,40,143,OK,"Tulsa County",31,50,1061
+31,055,19,103,IA,"Johnson County",30,47,977
+31,055,06,065,CA,"Riverside County",29,63,2310
+31,055,31,141,NE,"Platte County",29,58,977
+31,055,36,061,NY,"New York County",28,30,845
+31,055,41,051,OR,"Multnomah County",27,41,902
+31,055,20,177,KS,"Shawnee County",26,45,1111
+31,055,31,001,NE,"Adams County",26,50,881
+31,055,12,103,FL,"Pinellas County",25,49,1329
+31,055,31,131,NE,"Otoe County",25,56,857
+31,055,47,157,TN,"Shelby County",25,45,1034
+31,055,48,121,TX,"Denton County",25,56,1718
+31,055,37,119,NC,"Mecklenburg County",24,45,1096
+31,055,19,169,IA,"Story County",23,36,566
+31,055,40,109,OK,"Oklahoma County",23,54,1523
+31,055,48,141,TX,"El Paso County",23,53,949
+31,055,19,071,IA,"Fremont County",22,43,628
+31,055,19,113,IA,"Linn County",22,46,1228
+31,055,19,165,IA,"Shelby County",22,42,744
+31,055,37,183,NC,"Wake County",22,50,1389
+31,055,55,079,WI,"Milwaukee County",22,34,567
+31,055,13,121,GA,"Fulton County",21,52,3489
+31,055,13,135,GA,"Gwinnett County",21,44,1302
+31,055,19,049,IA,"Dallas County",21,56,1133
+31,055,27,163,MN,"Washington County",21,50,1495
+31,055,06,071,CA,"San Bernardino Count",20,51,1312
+31,055,13,089,GA,"De Kalb County",20,35,1886
+31,055,51,059,VA,"Fairfax County",20,35,1010
+31,055,55,025,WI,"Dane County",20,42,788
+31,055,06,013,CA,"Contra Costa County",19,43,1568
+31,055,12,025,FL,"Dade County",19,26,2067
+31,055,26,125,MI,"Oakland County",19,35,1108
+31,055,41,067,OR,"Washington County",19,29,628
+31,055,48,027,TX,"Bell County",19,34,581
+31,055,05,119,AR,"Pulaski County",18,35,1278
+31,055,06,081,CA,"San Mateo County",18,32,1708
+31,055,12,071,FL,"Lee County",18,31,757
+31,055,15,003,HI,"Honolulu County",18,31,738
+31,055,17,097,IL,"Lake County",18,39,1545
+31,055,18,097,IN,"Marion County",18,33,764
+31,055,24,033,MD,"Prince George's Coun",18,29,494
+31,055,29,077,MO,"Greene County",18,30,591
+31,055,29,510,MO,"St Louis",18,27,523
+31,055,48,215,TX,"Hidalgo County",18,40,527
+31,055,06,075,CA,"San Francisco County",17,18,539
+31,055,19,137,IA,"Montgomery County",17,26,598
+31,055,29,183,MO,"St Charles County",17,34,1239
+31,055,31,039,NE,"Cuming County",17,24,630
+31,055,32,031,NV,"Washoe County",17,44,3395
+31,055,47,037,TN,"Davidson County",17,27,1579
+31,055,08,123,CO,"Weld County",16,37,1045
+31,055,11,001,DC,"District Of Columbia",16,17,561
+31,055,19,145,IA,"Page County",16,27,465
+31,055,25,017,MA,"Middlesex County",16,26,1102
+31,055,36,047,NY,"Kings County",16,18,411
+31,055,39,049,OH,"Franklin County",16,28,584
+31,055,48,061,TX,"Cameron County",16,31,873
+31,055,48,491,TX,"Williamson County",16,35,1093
+31,055,06,053,CA,"Monterey County",15,21,495
+31,055,12,127,FL,"Volusia County",15,19,530
+31,055,19,163,IA,"Scott County",15,30,872
+31,055,20,045,KS,"Douglas County",15,18,437
+31,055,24,005,MD,"Baltimore County",15,22,946
+31,055,42,003,PA,"Allegheny County",15,32,951
+31,055,53,061,WA,"Snohomish County",15,31,653
+31,055,12,031,FL,"Duval County",14,29,806
+31,055,19,029,IA,"Cass County",14,33,464
+31,055,20,209,KS,"Wyandotte County",14,30,391
+31,055,24,031,MD,"Montgomery County",14,22,891
+31,055,25,025,MA,"Suffolk County",14,20,967
+31,055,31,157,NE,"Scotts Bluff County",14,27,742
+31,055,39,035,OH,"Cuyahoga County",14,23,762
+31,055,46,083,SD,"Lincoln County",14,27,509
+31,055,46,103,SD,"Pennington County",14,28,710
+31,055,49,049,UT,"Utah County",14,33,428
+31,055,06,019,CA,"Fresno County",13,31,721
+31,055,19,013,IA,"Black Hawk County",13,30,411
+31,055,27,003,MN,"Anoka County",13,27,418
+31,055,29,019,MO,"Boone County",13,25,510
+31,055,31,023,NE,"Butler County",13,16,328
+31,055,31,127,NE,"Nemaha County",13,22,388
+31,055,51,550,VA,Chesapeake,13,24,613
+31,055,51,810,VA,"Virginia Beach",13,28,406
+31,055,12,099,FL,"Palm Beach County",12,25,5502
+31,055,12,117,FL,"Seminole County",12,20,555
+31,055,26,163,MI,"Wayne County",12,25,646
+31,055,27,139,MN,"Scott County",12,35,1109
+31,055,31,047,NE,"Dawson County",12,19,241
+31,055,31,067,NE,"Gage County",12,25,398
+31,055,34,023,NJ,"Middlesex County",12,21,848
+31,055,37,051,NC,"Cumberland County",12,16,243
+31,055,37,081,NC,"Guilford County",12,17,852
+31,055,39,113,OH,"Montgomery County",12,33,663
+31,055,42,029,PA,"Chester County",12,19,1698
+31,055,56,021,WY,"Laramie County",12,31,429
+31,055,04,021,AZ,"Pinal County",11,16,544
+31,055,06,095,CA,"Solano County",11,30,473
+31,055,06,111,CA,"Ventura County",11,20,854
+31,055,25,027,MA,"Worcester County",11,23,537
+31,055,27,109,MN,"Olmsted County",11,27,622
+31,055,37,021,NC,"Buncombe County",11,21,523
+31,055,42,017,PA,"Bucks County",11,33,2308
+31,055,46,135,SD,"Yankton County",11,17,302
+31,055,51,153,VA,"Prince William Count",11,29,678
+31,055,09,001,CT,"Fairfield County",10,22,2053
+31,055,10,003,DE,"New Castle County",10,26,700
+31,055,12,083,FL,"Marion County",10,20,318
+31,055,17,089,IL,"Kane County",10,25,1357
+31,055,17,113,IL,"Mclean County",10,19,518
+31,055,19,047,IA,"Crawford County",10,18,296
+31,055,20,169,KS,"Saline County",10,16,452
+31,055,21,111,KY,"Jefferson County",10,21,587
+31,055,31,043,NE,"Dakota County",10,18,413
+31,055,31,179,NE,"Wayne County",10,11,210
+31,055,39,061,OH,"Hamilton County",10,27,785
+31,055,39,153,OH,"Summit County",10,19,604
+31,055,51,013,VA,"Arlington County",10,12,403
+31,055,53,063,WA,"Spokane County",10,27,529
+31,055,58,000,SS,"Other Flows - Same State",174,297,4991
+31,055,59,000,DS,"Other Flows - Diff State",2253,4467,135954
+31,055,59,001,DS,"Other Flows - Northeast",255,476,14587
+31,055,59,003,DS,"Other Flows - Midwest",838,1714,46946
+31,055,59,005,DS,"Other Flows - South",788,1549,47075
+31,055,59,007,DS,"Other Flows - West",372,728,27347
+31,055,57,009,FR,"Foreign - Other flows",68,121,1839
+31,057,96,000,NE,"Dundy County Tot Mig-US & For",74,139,1469
+31,057,97,000,NE,"Dundy County Tot Mig-US",74,139,1469
+31,057,97,001,NE,"Dundy County Tot Mig-Same St",33,69,739
+31,057,97,003,NE,"Dundy County Tot Mig-Diff St",41,70,730
+31,057,31,057,NE,"Dundy County Non-Migrants",757,1739,28512
+31,057,58,000,SS,"Other Flows - Same State",33,69,739
+31,057,59,000,DS,"Other Flows - Diff State",41,70,730
+31,059,96,000,NE,"Fillmore County Tot Mig-US & For",179,330,5520
+31,059,97,000,NE,"Fillmore County Tot Mig-US",179,330,5520
+31,059,97,001,NE,"Fillmore County Tot Mig-Same St",122,227,3867
+31,059,97,003,NE,"Fillmore County Tot Mig-Diff St",57,103,1653
+31,059,31,059,NE,"Fillmore County Non-Migrants",2653,6141,114157
+31,059,31,109,NE,"Lancaster County",32,47,1001
+31,059,31,185,NE,"York County",23,55,668
+31,059,31,169,NE,"Thayer County",11,25,295
+31,059,58,000,SS,"Other Flows - Same State",56,100,1902
+31,059,59,000,DS,"Other Flows - Diff State",57,103,1653
+31,061,96,000,NE,"Franklin County Tot Mig-US & For",92,170,2393
+31,061,97,000,NE,"Franklin County Tot Mig-US",92,170,2393
+31,061,97,001,NE,"Franklin County Tot Mig-Same St",54,106,1522
+31,061,97,003,NE,"Franklin County Tot Mig-Diff St",38,64,871
+31,061,31,061,NE,"Franklin County Non-Migrants",1328,3025,44333
+31,061,31,019,NE,"Buffalo County",14,28,335
+31,061,58,000,SS,"Other Flows - Same State",40,78,1187
+31,061,59,000,DS,"Other Flows - Diff State",38,64,871
+31,063,96,000,NE,"Frontier County Tot Mig-US & For",115,238,2717
+31,063,97,000,NE,"Frontier County Tot Mig-US",115,238,2717
+31,063,97,001,NE,"Frontier County Tot Mig-Same St",91,173,1998
+31,063,97,003,NE,"Frontier County Tot Mig-Diff St",24,65,720
+31,063,31,063,NE,"Frontier County Non-Migrants",1039,2569,33797
+31,063,31,111,NE,"Lincoln County",21,39,439
+31,063,31,047,NE,"Dawson County",12,22,225
+31,063,58,000,SS,"Other Flows - Same State",58,112,1334
+31,063,59,000,DS,"Other Flows - Diff State",24,65,720
+31,065,96,000,NE,"Furnas County Tot Mig-US & For",174,353,4007
+31,065,97,000,NE,"Furnas County Tot Mig-US",174,353,4007
+31,065,97,001,NE,"Furnas County Tot Mig-Same St",117,223,2834
+31,065,97,003,NE,"Furnas County Tot Mig-Diff St",57,130,1173
+31,065,31,065,NE,"Furnas County Non-Migrants",1839,4204,62120
+31,065,31,019,NE,"Buffalo County",20,27,450
+31,065,31,109,NE,"Lancaster County",16,27,554
+31,065,31,145,NE,"Red Willow County",13,20,260
+31,065,31,055,NE,"Douglas County",10,14,307
+31,065,31,137,NE,"Phelps County",10,17,122
+31,065,58,000,SS,"Other Flows - Same State",48,118,1142
+31,065,59,000,DS,"Other Flows - Diff State",57,130,1173
+31,067,96,000,NE,"Gage County Tot Mig-US & For",521,932,16594
+31,067,97,000,NE,"Gage County Tot Mig-US",521,932,16594
+31,067,97,001,NE,"Gage County Tot Mig-Same St",323,559,9420
+31,067,97,003,NE,"Gage County Tot Mig-Diff St",198,373,7174
+31,067,31,067,NE,"Gage County Non-Migrants",8291,18586,324943
+31,067,31,109,NE,"Lancaster County",163,248,4567
+31,067,31,055,NE,"Douglas County",31,48,933
+31,067,31,095,NE,"Jefferson County",24,45,627
+31,067,31,151,NE,"Saline County",23,51,544
+31,067,58,000,SS,"Other Flows - Same State",82,167,2749
+31,067,59,000,DS,"Other Flows - Diff State",198,373,7174
+31,069,96,000,NE,"Garden County Tot Mig-US & For",81,140,1987
+31,069,97,000,NE,"Garden County Tot Mig-US",81,140,1987
+31,069,97,001,NE,"Garden County Tot Mig-Same St",52,88,1190
+31,069,97,003,NE,"Garden County Tot Mig-Diff St",29,52,797
+31,069,31,069,NE,"Garden County Non-Migrants",748,1642,25016
+31,069,58,000,SS,"Other Flows - Same State",52,88,1190
+31,069,59,000,DS,"Other Flows - Diff State",29,52,797
+31,071,96,000,NE,"Garfield County Tot Mig-US & For",42,70,736
+31,071,97,000,NE,"Garfield County Tot Mig-US",42,70,736
+31,071,31,071,NE,"Garfield County Non-Migrants",757,1791,24086
+31,073,96,000,NE,"Gosper County Tot Mig-US & For",101,170,2908
+31,073,97,000,NE,"Gosper County Tot Mig-US",101,170,2908
+31,073,97,001,NE,"Gosper County Tot Mig-Same St",80,130,2337
+31,073,97,003,NE,"Gosper County Tot Mig-Diff St",21,40,571
+31,073,31,073,NE,"Gosper County Non-Migrants",726,1700,28214
+31,073,31,047,NE,"Dawson County",27,44,719
+31,073,31,019,NE,"Buffalo County",15,23,499
+31,073,58,000,SS,"Other Flows - Same State",38,63,1119
+31,073,59,000,DS,"Other Flows - Diff State",21,40,571
+31,075,96,000,NE,"Grant County Tot Mig-US & For",45,97,1720
+31,075,97,000,NE,"Grant County Tot Mig-US",45,97,1720
+31,075,97,001,NE,"Grant County Tot Mig-Same St",30,62,1242
+31,075,97,003,NE,"Grant County Tot Mig-Diff St",15,35,478
+31,075,31,075,NE,"Grant County Non-Migrants",346,872,12095
+31,075,58,000,SS,"Other Flows - Same State",30,62,1242
+31,075,59,000,DS,"Other Flows - Diff State",15,35,478
+31,077,96,000,NE,"Greeley County Tot Mig-US & For",76,137,1761
+31,077,97,000,NE,"Greeley County Tot Mig-US",76,137,1761
+31,077,97,001,NE,"Greeley County Tot Mig-Same St",63,112,1504
+31,077,97,003,NE,"Greeley County Tot Mig-Diff St",13,25,257
+31,077,31,077,NE,"Greeley County Non-Migrants",1078,2577,29127
+31,077,58,000,SS,"Other Flows - Same State",63,112,1504
+31,077,59,000,DS,"Other Flows - Diff State",13,25,257
+31,079,96,000,NE,"Hall County Tot Mig-US & For",1602,3121,46978
+31,079,97,000,NE,"Hall County Tot Mig-US",1590,3104,46757
+31,079,97,001,NE,"Hall County Tot Mig-Same St",955,1759,26138
+31,079,97,003,NE,"Hall County Tot Mig-Diff St",635,1345,20619
+31,079,98,000,NE,"Hall County Tot Mig-Foreign",12,17,221
+31,079,31,079,NE,"Hall County Non-Migrants",18590,42855,827600
+31,079,31,109,NE,"Lancaster County",208,320,5776
+31,079,31,055,NE,"Douglas County",115,168,3867
+31,079,31,001,NE,"Adams County",83,156,2051
+31,079,31,019,NE,"Buffalo County",79,148,1934
+31,079,31,081,NE,"Hamilton County",74,162,2156
+31,079,31,093,NE,"Howard County",70,139,2047
+31,079,31,121,NE,"Merrick County",55,108,1253
+31,079,04,013,AZ,"Maricopa County",23,48,545
+31,079,31,047,NE,"Dawson County",22,58,476
+31,079,31,153,NE,"Sarpy County",21,35,719
+31,079,31,119,NE,"Madison County",15,37,338
+31,079,31,141,NE,"Platte County",15,31,565
+31,079,06,037,CA,"Los Angeles County",14,27,210
+31,079,20,055,KS,"Finney County",13,38,288
+31,079,31,053,NE,"Dodge County",13,22,252
+31,079,31,151,NE,"Saline County",13,32,275
+31,079,31,163,NE,"Sherman County",13,16,151
+31,079,31,185,NE,"York County",13,26,339
+31,079,31,111,NE,"Lincoln County",12,22,278
+31,079,46,099,SD,"Minnehaha County",11,25,317
+31,079,31,041,NE,"Custer County",10,17,188
+31,079,58,000,SS,"Other Flows - Same State",124,262,3474
+31,079,59,000,DS,"Other Flows - Diff State",574,1207,19259
+31,079,59,001,DS,"Other Flows - Northeast",15,38,409
+31,079,59,003,DS,"Other Flows - Midwest",231,509,8404
+31,079,59,005,DS,"Other Flows - South",165,345,5260
+31,079,59,007,DS,"Other Flows - West",163,315,5186
+31,079,57,009,FR,"Foreign - Other flows",12,17,221
+31,081,96,000,NE,"Hamilton County Tot Mig-US & For",302,550,9783
+31,081,97,000,NE,"Hamilton County Tot Mig-US",302,550,9783
+31,081,97,001,NE,"Hamilton County Tot Mig-Same St",224,413,7218
+31,081,97,003,NE,"Hamilton County Tot Mig-Diff St",78,137,2565
+31,081,31,081,NE,"Hamilton County Non-Migrants",3324,8250,142731
+31,081,31,079,NE,"Hall County",64,131,1989
+31,081,31,109,NE,"Lancaster County",39,52,1300
+31,081,31,055,NE,"Douglas County",18,27,762
+31,081,31,019,NE,"Buffalo County",17,32,503
+31,081,31,121,NE,"Merrick County",15,35,583
+31,081,31,001,NE,"Adams County",14,30,474
+31,081,31,185,NE,"York County",14,19,309
+31,081,58,000,SS,"Other Flows - Same State",43,87,1298
+31,081,59,000,DS,"Other Flows - Diff State",78,137,2565
+31,083,96,000,NE,"Harlan County Tot Mig-US & For",111,202,2763
+31,083,97,000,NE,"Harlan County Tot Mig-US",111,202,2763
+31,083,97,001,NE,"Harlan County Tot Mig-Same St",79,134,1928
+31,083,97,003,NE,"Harlan County Tot Mig-Diff St",32,68,835
+31,083,31,083,NE,"Harlan County Non-Migrants",1239,2870,40963
+31,083,31,137,NE,"Phelps County",14,24,330
+31,083,31,109,NE,"Lancaster County",13,13,200
+31,083,31,019,NE,"Buffalo County",12,19,343
+31,083,58,000,SS,"Other Flows - Same State",40,78,1054
+31,083,59,000,DS,"Other Flows - Diff State",32,68,835
+31,085,96,000,NE,"Hayes County Tot Mig-US & For",21,48,588
+31,085,97,000,NE,"Hayes County Tot Mig-US",21,48,588
+31,085,31,085,NE,"Hayes County Non-Migrants",365,924,8558
+31,087,96,000,NE,"Hitchcock Count Tot Mig-US & For",87,162,1907
+31,087,97,000,NE,"Hitchcock Count Tot Mig-US",87,162,1907
+31,087,97,001,NE,"Hitchcock Count Tot Mig-Same St",62,120,1301
+31,087,97,003,NE,"Hitchcock Count Tot Mig-Diff St",25,42,605
+31,087,31,087,NE,"Hitchcock Count Non-Migrants",1055,2458,31386
+31,087,31,145,NE,"Red Willow County",24,46,456
+31,087,58,000,SS,"Other Flows - Same State",38,74,845
+31,087,59,000,DS,"Other Flows - Diff State",25,42,605
+31,089,96,000,NE,"Holt County Tot Mig-US & For",276,497,6827
+31,089,97,000,NE,"Holt County Tot Mig-US",276,497,6827
+31,089,97,001,NE,"Holt County Tot Mig-Same St",189,345,4630
+31,089,97,003,NE,"Holt County Tot Mig-Diff St",87,152,2197
+31,089,31,089,NE,"Holt County Non-Migrants",3822,9300,118492
+31,089,31,109,NE,"Lancaster County",38,54,883
+31,089,31,119,NE,"Madison County",31,49,666
+31,089,31,055,NE,"Douglas County",16,33,518
+31,089,31,003,NE,"Antelope County",13,33,288
+31,089,58,000,SS,"Other Flows - Same State",91,176,2274
+31,089,59,000,DS,"Other Flows - Diff State",87,152,2197
+31,091,96,000,NE,"Hooker County Tot Mig-US & For",41,81,1113
+31,091,97,000,NE,"Hooker County Tot Mig-US",41,81,1113
+31,091,97,001,NE,"Hooker County Tot Mig-Same St",30,64,673
+31,091,97,003,NE,"Hooker County Tot Mig-Diff St",11,17,440
+31,091,31,091,NE,"Hooker County Non-Migrants",314,762,9976
+31,091,58,000,SS,"Other Flows - Same State",30,64,673
+31,091,59,000,DS,"Other Flows - Diff State",11,17,440
+31,093,96,000,NE,"Howard County Tot Mig-US & For",208,378,5608
+31,093,97,000,NE,"Howard County Tot Mig-US",208,378,5608
+31,093,97,001,NE,"Howard County Tot Mig-Same St",161,279,4350
+31,093,97,003,NE,"Howard County Tot Mig-Diff St",47,99,1259
+31,093,31,093,NE,"Howard County Non-Migrants",2153,5185,68796
+31,093,31,079,NE,"Hall County",75,131,1809
+31,093,31,109,NE,"Lancaster County",21,26,478
+31,093,31,019,NE,"Buffalo County",13,19,476
+31,093,58,000,SS,"Other Flows - Same State",52,103,1586
+31,093,59,000,DS,"Other Flows - Diff State",47,99,1259
+31,095,96,000,NE,"Jefferson Count Tot Mig-US & For",207,341,4905
+31,095,97,000,NE,"Jefferson Count Tot Mig-US",207,341,4905
+31,095,97,001,NE,"Jefferson Count Tot Mig-Same St",136,221,3256
+31,095,97,003,NE,"Jefferson Count Tot Mig-Diff St",71,120,1649
+31,095,31,095,NE,"Jefferson Count Non-Migrants",3025,6776,119968
+31,095,31,109,NE,"Lancaster County",41,57,849
+31,095,31,067,NE,"Gage County",38,67,1009
+31,095,31,055,NE,"Douglas County",11,12,330
+31,095,58,000,SS,"Other Flows - Same State",46,85,1066
+31,095,59,000,DS,"Other Flows - Diff State",71,120,1649
+31,097,96,000,NE,"Johnson County Tot Mig-US & For",150,258,3832
+31,097,97,000,NE,"Johnson County Tot Mig-US",150,258,3832
+31,097,97,001,NE,"Johnson County Tot Mig-Same St",113,173,2834
+31,097,97,003,NE,"Johnson County Tot Mig-Diff St",37,85,998
+31,097,31,097,NE,"Johnson County Non-Migrants",1625,3706,54138
+31,097,31,109,NE,"Lancaster County",38,50,748
+31,097,31,067,NE,"Gage County",23,33,497
+31,097,31,055,NE,"Douglas County",11,14,224
+31,097,58,000,SS,"Other Flows - Same State",41,76,1365
+31,097,59,000,DS,"Other Flows - Diff State",37,85,998
+31,099,96,000,NE,"Kearney County Tot Mig-US & For",176,322,5466
+31,099,97,000,NE,"Kearney County Tot Mig-US",176,322,5466
+31,099,97,001,NE,"Kearney County Tot Mig-Same St",137,246,4164
+31,099,97,003,NE,"Kearney County Tot Mig-Diff St",39,76,1302
+31,099,31,099,NE,"Kearney County Non-Migrants",2132,5048,86753
+31,099,31,019,NE,"Buffalo County",41,61,1236
+31,099,31,109,NE,"Lancaster County",16,19,533
+31,099,31,001,NE,"Adams County",12,24,536
+31,099,31,137,NE,"Phelps County",12,27,413
+31,099,58,000,SS,"Other Flows - Same State",56,115,1446
+31,099,59,000,DS,"Other Flows - Diff State",39,76,1302
+31,101,96,000,NE,"Keith County Tot Mig-US & For",306,590,8431
+31,101,97,000,NE,"Keith County Tot Mig-US",306,590,8431
+31,101,97,001,NE,"Keith County Tot Mig-Same St",164,318,4254
+31,101,97,003,NE,"Keith County Tot Mig-Diff St",142,272,4178
+31,101,31,101,NE,"Keith County Non-Migrants",2976,6778,107372
+31,101,31,111,NE,"Lincoln County",36,63,772
+31,101,31,109,NE,"Lancaster County",27,35,1050
+31,101,31,019,NE,"Buffalo County",20,35,358
+31,101,58,000,SS,"Other Flows - Same State",81,185,2073
+31,101,59,000,DS,"Other Flows - Diff State",142,272,4178
+31,103,96,000,NE,"Keya Paha Count Tot Mig-US & For",44,81,989
+31,103,97,000,NE,"Keya Paha Count Tot Mig-US",44,81,989
+31,103,31,103,NE,"Keya Paha Count Non-Migrants",357,819,7922
+31,105,96,000,NE,"Kimball County Tot Mig-US & For",115,239,4045
+31,105,97,000,NE,"Kimball County Tot Mig-US",115,239,4045
+31,105,97,001,NE,"Kimball County Tot Mig-Same St",40,89,1938
+31,105,97,003,NE,"Kimball County Tot Mig-Diff St",75,150,2107
+31,105,31,105,NE,"Kimball County Non-Migrants",1387,3064,50250
+31,105,56,021,WY,"Laramie County",11,26,305
+31,105,58,000,SS,"Other Flows - Same State",40,89,1938
+31,105,59,000,DS,"Other Flows - Diff State",64,124,1801
+31,107,96,000,NE,"Knox County Tot Mig-US & For",196,378,5130
+31,107,97,000,NE,"Knox County Tot Mig-US",196,378,5130
+31,107,97,001,NE,"Knox County Tot Mig-Same St",136,264,3401
+31,107,97,003,NE,"Knox County Tot Mig-Diff St",60,114,1729
+31,107,31,107,NE,"Knox County Non-Migrants",2870,6697,84877
+31,107,31,119,NE,"Madison County",36,64,882
+31,107,31,055,NE,"Douglas County",22,34,523
+31,107,46,135,SD,"Yankton County",20,35,562
+31,107,31,109,NE,"Lancaster County",19,27,437
+31,107,31,027,NE,"Cedar County",10,20,250
+31,107,58,000,SS,"Other Flows - Same State",49,119,1308
+31,107,59,000,DS,"Other Flows - Diff State",40,79,1168
+31,109,96,000,NE,"Lancaster Count Tot Mig-US & For",6165,10684,225054
+31,109,97,000,NE,"Lancaster Count Tot Mig-US",6100,10579,223817
+31,109,97,001,NE,"Lancaster Count Tot Mig-Same St",2466,4326,81954
+31,109,97,003,NE,"Lancaster Count Tot Mig-Diff St",3634,6253,141863
+31,109,98,000,NE,"Lancaster Count Tot Mig-Foreign",65,105,1237
+31,109,31,109,NE,"Lancaster Count Non-Migrants",91282,193022,4902029
+31,109,31,055,NE,"Douglas County",685,1028,23251
+31,109,31,067,NE,"Gage County",154,311,5909
+31,109,31,159,NE,"Seward County",141,313,5656
+31,109,31,153,NE,"Sarpy County",133,269,5818
+31,109,31,025,NE,"Cass County",125,235,4730
+31,109,04,013,AZ,"Maricopa County",113,177,3909
+31,109,31,131,NE,"Otoe County",110,224,4359
+31,109,31,151,NE,"Saline County",107,199,3400
+31,109,31,155,NE,"Saunders County",101,192,3296
+31,109,20,091,KS,"Johnson County",93,165,4284
+31,109,31,079,NE,"Hall County",87,149,3375
+31,109,29,095,MO,"Jackson County",70,106,2811
+31,109,31,019,NE,"Buffalo County",68,104,1790
+31,109,17,031,IL,"Cook County",67,88,1816
+31,109,06,037,CA,"Los Angeles County",64,93,1792
+31,109,08,031,CO,"Denver County",58,84,2147
+31,109,08,005,CO,"Arapahoe County",55,80,1891
+31,109,31,141,NE,"Platte County",54,76,1321
+31,109,08,069,CO,"Larimer County",53,80,1735
+31,109,06,073,CA,"San Diego County",52,75,1404
+31,109,31,119,NE,"Madison County",49,78,1349
+31,109,31,001,NE,"Adams County",48,76,1362
+31,109,31,053,NE,"Dodge County",46,81,1553
+31,109,32,003,NV,"Clark County",46,70,2426
+31,109,31,023,NE,"Butler County",44,85,1507
+31,109,27,053,MN,"Hennepin County",43,69,5817
+31,109,31,185,NE,"York County",43,68,952
+31,109,19,153,IA,"Polk County",42,85,1838
+31,109,08,041,CO,"El Paso County",39,68,1447
+31,109,48,113,TX,"Dallas County",39,70,1243
+31,109,31,157,NE,"Scotts Bluff County",36,75,906
+31,109,08,059,CO,"Jefferson County",35,61,1414
+31,109,08,013,CO,"Boulder County",34,47,1002
+31,109,53,033,WA,"King County",32,39,994
+31,109,31,111,NE,"Lincoln County",31,58,1014
+31,109,46,099,SD,"Minnehaha County",30,56,1635
+31,109,48,439,TX,"Tarrant County",30,51,1243
+31,109,08,001,CO,"Adams County",29,47,886
+31,109,19,155,IA,"Pottawattamie County",29,51,844
+31,109,48,201,TX,"Harris County",29,52,877
+31,109,06,059,CA,"Orange County",27,42,909
+31,109,31,047,NE,"Dawson County",27,42,670
+31,109,31,145,NE,"Red Willow County",25,41,802
+31,109,06,085,CA,"Santa Clara County",24,36,779
+31,109,04,019,AZ,"Pima County",22,42,645
+31,109,20,173,KS,"Sedgwick County",22,33,644
+31,109,49,035,UT,"Salt Lake County",22,39,550
+31,109,57,005,FR,"Foreign - APO/FPO ZIPs",22,29,374
+31,109,29,047,MO,"Clay County",21,39,678
+31,109,48,453,TX,"Travis County",21,28,547
+31,109,08,035,CO,"Douglas County",20,42,1118
+31,109,08,123,CO,"Weld County",20,32,599
+31,109,17,043,IL,"Du Page County",20,38,756
+31,109,29,189,MO,"St Louis County",19,35,941
+31,109,06,001,CA,"Alameda County",18,27,1195
+31,109,37,183,NC,"Wake County",18,32,734
+31,109,06,067,CA,"Sacramento County",17,29,782
+31,109,24,031,MD,"Montgomery County",17,37,1268
+31,109,27,037,MN,"Dakota County",17,42,871
+31,109,29,165,MO,"Platte County",17,23,437
+31,109,31,095,NE,"Jefferson County",17,36,376
+31,109,48,085,TX,"Collin County",17,23,769
+31,109,51,059,VA,"Fairfax County",17,22,565
+31,109,18,097,IN,"Marion County",16,22,444
+31,109,31,097,NE,"Johnson County",16,30,420
+31,109,40,143,OK,"Tulsa County",16,30,406
+31,109,39,061,OH,"Hamilton County",15,25,530
+31,109,55,025,WI,"Dane County",15,28,504
+31,109,56,021,WY,"Laramie County",15,33,878
+31,109,06,013,CA,"Contra Costa County",14,23,473
+31,109,19,193,IA,"Woodbury County",14,22,421
+31,109,20,045,KS,"Douglas County",14,24,463
+31,109,25,017,MA,"Middlesex County",14,23,488
+31,109,31,137,NE,"Phelps County",14,26,311
+31,109,06,065,CA,"Riverside County",13,20,514
+31,109,06,075,CA,"San Francisco County",13,13,313
+31,109,09,001,CT,"Fairfield County",13,19,984
+31,109,12,031,FL,"Duval County",13,20,314
+31,109,31,177,NE,"Washington County",13,21,271
+31,109,06,071,CA,"San Bernardino Count",12,21,326
+31,109,12,025,FL,"Dade County",12,19,400
+31,109,19,145,IA,"Page County",12,25,622
+31,109,20,161,KS,"Riley County",12,19,376
+31,109,20,177,KS,"Shawnee County",12,19,341
+31,109,27,123,MN,"Ramsey County",12,13,568
+31,109,31,039,NE,"Cuming County",12,19,312
+31,109,31,081,NE,"Hamilton County",12,21,310
+31,109,31,147,NE,"Richardson County",12,16,217
+31,109,35,001,NM,"Bernalillo County",12,21,469
+31,109,36,061,NY,"New York County",12,13,506
+31,109,40,109,OK,"Oklahoma County",12,20,206
+31,109,41,051,OR,"Multnomah County",12,14,256
+31,109,48,029,TX,"Bexar County",12,23,327
+31,109,51,153,VA,"Prince William Count",12,21,648
+31,109,12,057,FL,"Hillsborough County",11,23,369
+31,109,13,121,GA,"Fulton County",11,21,487
+31,109,16,001,ID,"Ada County",11,22,480
+31,109,19,103,IA,"Johnson County",11,15,184
+31,109,25,025,MA,"Suffolk County",11,14,246
+31,109,29,019,MO,"Boone County",11,28,507
+31,109,31,021,NE,"Burt County",11,15,251
+31,109,31,127,NE,"Nemaha County",11,20,386
+31,109,39,049,OH,"Franklin County",11,16,266
+31,109,48,121,TX,"Denton County",11,31,1001
+31,109,15,003,HI,"Honolulu County",10,20,297
+31,109,19,049,IA,"Dallas County",10,17,623
+31,109,26,163,MI,"Wayne County",10,22,175
+31,109,31,033,NE,"Cheyenne County",10,18,239
+31,109,31,059,NE,"Fillmore County",10,18,264
+31,109,31,093,NE,"Howard County",10,18,392
+31,109,31,169,NE,"Thayer County",10,19,213
+31,109,38,015,ND,"Burleigh County",10,12,238
+31,109,48,215,TX,"Hidalgo County",10,19,302
+31,109,48,491,TX,"Williamson County",10,25,410
+31,109,58,000,SS,"Other Flows - Same State",194,345,4973
+31,109,59,000,DS,"Other Flows - Diff State",1699,3083,66260
+31,109,59,001,DS,"Other Flows - Northeast",192,308,6752
+31,109,59,003,DS,"Other Flows - Midwest",642,1210,27235
+31,109,59,005,DS,"Other Flows - South",531,965,21389
+31,109,59,007,DS,"Other Flows - West",334,600,10884
+31,109,57,009,FR,"Foreign - Other flows",43,76,862
+31,111,96,000,NE,"Lincoln County Tot Mig-US & For",873,1704,41082
+31,111,97,000,NE,"Lincoln County Tot Mig-US",873,1704,41082
+31,111,97,001,NE,"Lincoln County Tot Mig-Same St",448,865,29278
+31,111,97,003,NE,"Lincoln County Tot Mig-Diff St",425,839,11805
+31,111,31,111,NE,"Lincoln County Non-Migrants",12352,28263,536494
+31,111,31,109,NE,"Lancaster County",94,129,19019
+31,111,31,055,NE,"Douglas County",44,68,1486
+31,111,31,019,NE,"Buffalo County",40,72,1060
+31,111,31,047,NE,"Dawson County",37,81,1062
+31,111,31,101,NE,"Keith County",23,54,520
+31,111,31,079,NE,"Hall County",14,30,356
+31,111,31,157,NE,"Scotts Bluff County",14,32,717
+31,111,08,069,CO,"Larimer County",13,19,320
+31,111,31,041,NE,"Custer County",13,37,337
+31,111,56,021,WY,"Laramie County",13,29,480
+31,111,08,001,CO,"Adams County",12,21,248
+31,111,04,013,AZ,"Maricopa County",11,21,448
+31,111,31,033,NE,"Cheyenne County",11,26,362
+31,111,31,063,NE,"Frontier County",11,27,419
+31,111,31,145,NE,"Red Willow County",10,24,269
+31,111,58,000,SS,"Other Flows - Same State",137,285,3671
+31,111,59,000,DS,"Other Flows - Diff State",376,749,10309
+31,111,59,001,DS,"Other Flows - Northeast",15,27,338
+31,111,59,003,DS,"Other Flows - Midwest",137,299,4186
+31,111,59,005,DS,"Other Flows - South",74,153,1985
+31,111,59,007,DS,"Other Flows - West",150,270,3800
+31,113,96,000,NE,"Logan County Tot Mig-US & For",27,72,613
+31,113,97,000,NE,"Logan County Tot Mig-US",27,72,613
+31,113,31,113,NE,"Logan County Non-Migrants",270,645,9358
+31,115,96,000,NE,"Loup County Tot Mig-US & For",13,25,251
+31,115,97,000,NE,"Loup County Tot Mig-US",13,25,251
+31,115,31,115,NE,"Loup County Non-Migrants",241,573,4995
+31,119,96,000,NE,"Madison County Tot Mig-US & For",1112,2077,30687
+31,119,97,000,NE,"Madison County Tot Mig-US",1112,2077,30687
+31,119,97,001,NE,"Madison County Tot Mig-Same St",709,1277,18769
+31,119,97,003,NE,"Madison County Tot Mig-Diff St",403,800,11918
+31,119,31,119,NE,"Madison County Non-Migrants",13081,31287,555705
+31,119,31,055,NE,"Douglas County",126,190,4091
+31,119,31,109,NE,"Lancaster County",121,175,2999
+31,119,31,139,NE,"Pierce County",52,113,1369
+31,119,31,141,NE,"Platte County",48,87,1125
+31,119,31,167,NE,"Stanton County",38,78,1065
+31,119,31,003,NE,"Antelope County",28,57,732
+31,119,31,179,NE,"Wayne County",27,52,640
+31,119,31,027,NE,"Cedar County",23,47,546
+31,119,31,037,NE,"Colfax County",21,51,540
+31,119,31,053,NE,"Dodge County",20,36,538
+31,119,31,019,NE,"Buffalo County",16,26,425
+31,119,31,107,NE,"Knox County",16,31,275
+31,119,46,099,SD,"Minnehaha County",16,28,440
+31,119,04,013,AZ,"Maricopa County",15,23,403
+31,119,31,089,NE,"Holt County",14,21,312
+31,119,31,153,NE,"Sarpy County",14,22,452
+31,119,19,193,IA,"Woodbury County",13,25,298
+31,119,31,011,NE,"Boone County",13,29,292
+31,119,46,135,SD,"Yankton County",12,31,192
+31,119,31,039,NE,"Cuming County",11,26,396
+31,119,31,079,NE,"Hall County",11,25,337
+31,119,48,215,TX,"Hidalgo County",11,36,321
+31,119,31,001,NE,"Adams County",10,17,206
+31,119,58,000,SS,"Other Flows - Same State",100,194,2428
+31,119,59,000,DS,"Other Flows - Diff State",336,657,10265
+31,121,96,000,NE,"Merrick County Tot Mig-US & For",255,526,6526
+31,121,97,000,NE,"Merrick County Tot Mig-US",255,526,6526
+31,121,97,001,NE,"Merrick County Tot Mig-Same St",202,412,5394
+31,121,97,003,NE,"Merrick County Tot Mig-Diff St",53,114,1132
+31,121,31,121,NE,"Merrick County Non-Migrants",2509,6008,96561
+31,121,31,079,NE,"Hall County",64,139,1598
+31,121,31,081,NE,"Hamilton County",17,50,727
+31,121,31,109,NE,"Lancaster County",17,22,323
+31,121,31,093,NE,"Howard County",13,25,290
+31,121,31,055,NE,"Douglas County",12,17,286
+31,121,58,000,SS,"Other Flows - Same State",79,159,2171
+31,121,59,000,DS,"Other Flows - Diff State",53,114,1132
+31,123,96,000,NE,"Morrill County Tot Mig-US & For",155,336,3412
+31,123,97,000,NE,"Morrill County Tot Mig-US",155,336,3412
+31,123,97,001,NE,"Morrill County Tot Mig-Same St",96,208,1955
+31,123,97,003,NE,"Morrill County Tot Mig-Diff St",59,128,1457
+31,123,31,123,NE,"Morrill County Non-Migrants",1668,4027,54287
+31,123,31,157,NE,"Scotts Bluff County",41,82,515
+31,123,58,000,SS,"Other Flows - Same State",55,126,1440
+31,123,59,000,DS,"Other Flows - Diff State",59,128,1457
+31,125,96,000,NE,"Nance County Tot Mig-US & For",124,229,3020
+31,125,97,000,NE,"Nance County Tot Mig-US",124,229,3020
+31,125,97,001,NE,"Nance County Tot Mig-Same St",100,192,2566
+31,125,97,003,NE,"Nance County Tot Mig-Diff St",24,37,454
+31,125,31,125,NE,"Nance County Non-Migrants",1370,3345,39903
+31,125,31,141,NE,"Platte County",31,64,991
+31,125,31,109,NE,"Lancaster County",16,20,221
+31,125,58,000,SS,"Other Flows - Same State",53,108,1354
+31,125,59,000,DS,"Other Flows - Diff State",24,37,454
+31,127,96,000,NE,"Nemaha County Tot Mig-US & For",248,464,7832
+31,127,97,000,NE,"Nemaha County Tot Mig-US",248,464,7832
+31,127,97,001,NE,"Nemaha County Tot Mig-Same St",150,289,4565
+31,127,97,003,NE,"Nemaha County Tot Mig-Diff St",98,175,3267
+31,127,31,127,NE,"Nemaha County Non-Migrants",2798,6370,116688
+31,127,31,109,NE,"Lancaster County",49,65,986
+31,127,31,131,NE,"Otoe County",26,63,1204
+31,127,31,055,NE,"Douglas County",12,17,454
+31,127,58,000,SS,"Other Flows - Same State",63,144,1922
+31,127,59,000,DS,"Other Flows - Diff State",98,175,3267
+31,129,96,000,NE,"Nuckolls County Tot Mig-US & For",121,227,3496
+31,129,97,000,NE,"Nuckolls County Tot Mig-US",121,227,3496
+31,129,97,001,NE,"Nuckolls County Tot Mig-Same St",78,151,2243
+31,129,97,003,NE,"Nuckolls County Tot Mig-Diff St",43,76,1252
+31,129,31,129,NE,"Nuckolls County Non-Migrants",1823,4180,59972
+31,129,31,001,NE,"Adams County",18,33,371
+31,129,31,109,NE,"Lancaster County",17,24,428
+31,129,58,000,SS,"Other Flows - Same State",43,94,1444
+31,129,59,000,DS,"Other Flows - Diff State",43,76,1252
+31,131,96,000,NE,"Otoe County Tot Mig-US & For",404,749,12302
+31,131,97,000,NE,"Otoe County Tot Mig-US",404,749,12302
+31,131,97,001,NE,"Otoe County Tot Mig-Same St",253,460,7450
+31,131,97,003,NE,"Otoe County Tot Mig-Diff St",151,289,4851
+31,131,31,131,NE,"Otoe County Non-Migrants",5345,12279,226488
+31,131,31,109,NE,"Lancaster County",114,192,3197
+31,131,31,025,NE,"Cass County",38,83,1262
+31,131,31,055,NE,"Douglas County",29,46,873
+31,131,31,127,NE,"Nemaha County",17,32,517
+31,131,19,071,IA,"Fremont County",14,31,402
+31,131,58,000,SS,"Other Flows - Same State",55,107,1603
+31,131,59,000,DS,"Other Flows - Diff State",137,258,4450
+31,131,59,001,DS,"Other Flows - Northeast",14,23,548
+31,131,59,003,DS,"Other Flows - Midwest",56,112,2032
+31,131,59,005,DS,"Other Flows - South",28,60,853
+31,131,59,007,DS,"Other Flows - West",39,63,1017
+31,133,96,000,NE,"Pawnee County Tot Mig-US & For",79,157,2167
+31,133,97,000,NE,"Pawnee County Tot Mig-US",79,157,2167
+31,133,97,001,NE,"Pawnee County Tot Mig-Same St",60,116,1482
+31,133,97,003,NE,"Pawnee County Tot Mig-Diff St",19,41,685
+31,133,31,133,NE,"Pawnee County Non-Migrants",1021,2212,31213
+31,133,31,067,NE,"Gage County",19,39,432
+31,133,31,109,NE,"Lancaster County",17,24,370
+31,133,58,000,SS,"Other Flows - Same State",24,53,680
+31,133,59,000,DS,"Other Flows - Diff State",19,41,685
+31,135,96,000,NE,"Perkins County Tot Mig-US & For",111,195,2565
+31,135,97,000,NE,"Perkins County Tot Mig-US",111,195,2565
+31,135,97,001,NE,"Perkins County Tot Mig-Same St",56,92,1391
+31,135,97,003,NE,"Perkins County Tot Mig-Diff St",55,103,1174
+31,135,31,135,NE,"Perkins County Non-Migrants",1020,2441,37021
+31,135,31,101,NE,"Keith County",13,23,184
+31,135,31,111,NE,"Lincoln County",11,21,303
+31,135,58,000,SS,"Other Flows - Same State",32,48,904
+31,135,59,000,DS,"Other Flows - Diff State",55,103,1174
+31,137,96,000,NE,"Phelps County Tot Mig-US & For",267,522,7897
+31,137,97,000,NE,"Phelps County Tot Mig-US",267,522,7897
+31,137,97,001,NE,"Phelps County Tot Mig-Same St",170,326,4767
+31,137,97,003,NE,"Phelps County Tot Mig-Diff St",97,196,3131
+31,137,31,137,NE,"Phelps County Non-Migrants",3421,8129,145401
+31,137,31,019,NE,"Buffalo County",33,56,781
+31,137,31,109,NE,"Lancaster County",20,31,568
+31,137,31,083,NE,"Harlan County",13,27,428
+31,137,31,047,NE,"Dawson County",10,17,223
+31,137,31,065,NE,"Furnas County",10,23,256
+31,137,58,000,SS,"Other Flows - Same State",84,172,2512
+31,137,59,000,DS,"Other Flows - Diff State",97,196,3131
+31,139,96,000,NE,"Pierce County Tot Mig-US & For",192,340,4931
+31,139,97,000,NE,"Pierce County Tot Mig-US",192,340,4931
+31,139,97,001,NE,"Pierce County Tot Mig-Same St",148,260,3863
+31,139,97,003,NE,"Pierce County Tot Mig-Diff St",44,80,1068
+31,139,31,139,NE,"Pierce County Non-Migrants",2416,6023,86710
+31,139,31,119,NE,"Madison County",61,112,1584
+31,139,31,109,NE,"Lancaster County",18,21,319
+31,139,31,055,NE,"Douglas County",11,15,355
+31,139,58,000,SS,"Other Flows - Same State",58,112,1604
+31,139,59,000,DS,"Other Flows - Diff State",44,80,1068
+31,141,96,000,NE,"Platte County Tot Mig-US & For",866,1589,26316
+31,141,97,000,NE,"Platte County Tot Mig-US",866,1589,26316
+31,141,97,001,NE,"Platte County Tot Mig-Same St",589,1050,16912
+31,141,97,003,NE,"Platte County Tot Mig-Diff St",277,539,9405
+31,141,31,141,NE,"Platte County Non-Migrants",11024,26568,482016
+31,141,31,109,NE,"Lancaster County",143,188,3357
+31,141,31,055,NE,"Douglas County",88,141,3054
+31,141,31,119,NE,"Madison County",50,94,1422
+31,141,31,023,NE,"Butler County",45,89,1307
+31,141,31,037,NE,"Colfax County",30,56,564
+31,141,31,125,NE,"Nance County",27,58,743
+31,141,31,079,NE,"Hall County",21,37,667
+31,141,31,053,NE,"Dodge County",18,50,652
+31,141,31,011,NE,"Boone County",17,28,368
+31,141,31,143,NE,"Polk County",14,38,425
+31,141,31,153,NE,"Sarpy County",12,24,506
+31,141,31,019,NE,"Buffalo County",11,27,468
+31,141,04,013,AZ,"Maricopa County",10,16,321
+31,141,58,000,SS,"Other Flows - Same State",113,220,3380
+31,141,59,000,DS,"Other Flows - Diff State",267,523,9083
+31,141,59,001,DS,"Other Flows - Northeast",11,21,620
+31,141,59,003,DS,"Other Flows - Midwest",121,247,4527
+31,141,59,005,DS,"Other Flows - South",59,114,1635
+31,141,59,007,DS,"Other Flows - West",76,141,2302
+31,143,96,000,NE,"Polk County Tot Mig-US & For",158,301,5002
+31,143,97,000,NE,"Polk County Tot Mig-US",158,301,5002
+31,143,97,001,NE,"Polk County Tot Mig-Same St",108,199,3099
+31,143,97,003,NE,"Polk County Tot Mig-Diff St",50,102,1903
+31,143,31,143,NE,"Polk County Non-Migrants",1873,4428,73799
+31,143,31,109,NE,"Lancaster County",28,38,767
+31,143,31,141,NE,"Platte County",22,54,716
+31,143,31,055,NE,"Douglas County",11,15,458
+31,143,58,000,SS,"Other Flows - Same State",47,92,1158
+31,143,59,000,DS,"Other Flows - Diff State",50,102,1903
+31,145,96,000,NE,"Red Willow Coun Tot Mig-US & For",329,625,8563
+31,145,97,000,NE,"Red Willow Coun Tot Mig-US",329,625,8563
+31,145,97,001,NE,"Red Willow Coun Tot Mig-Same St",199,378,5051
+31,145,97,003,NE,"Red Willow Coun Tot Mig-Diff St",130,247,3512
+31,145,31,145,NE,"Red Willow Coun Non-Migrants",3875,8966,146302
+31,145,31,109,NE,"Lancaster County",31,55,961
+31,145,31,087,NE,"Hitchcock County",22,52,453
+31,145,31,019,NE,"Buffalo County",18,24,395
+31,145,31,065,NE,"Furnas County",17,33,368
+31,145,31,111,NE,"Lincoln County",17,35,396
+31,145,31,055,NE,"Douglas County",12,18,467
+31,145,58,000,SS,"Other Flows - Same State",82,161,2012
+31,145,59,000,DS,"Other Flows - Diff State",130,247,3512
+31,147,96,000,NE,"Richardson Coun Tot Mig-US & For",202,421,5275
+31,147,97,000,NE,"Richardson Coun Tot Mig-US",202,421,5275
+31,147,97,001,NE,"Richardson Coun Tot Mig-Same St",97,187,2386
+31,147,97,003,NE,"Richardson Coun Tot Mig-Diff St",105,234,2889
+31,147,31,147,NE,"Richardson Coun Non-Migrants",3227,7170,106451
+31,147,31,109,NE,"Lancaster County",33,51,740
+31,147,31,127,NE,"Nemaha County",23,55,597
+31,147,20,013,KS,"Brown County",11,18,207
+31,147,58,000,SS,"Other Flows - Same State",41,81,1049
+31,147,59,000,DS,"Other Flows - Diff State",94,216,2681
+31,149,96,000,NE,"Rock County Tot Mig-US & For",44,75,881
+31,149,97,000,NE,"Rock County Tot Mig-US",44,75,881
+31,149,97,001,NE,"Rock County Tot Mig-Same St",34,60,666
+31,149,97,003,NE,"Rock County Tot Mig-Diff St",10,15,215
+31,149,31,149,NE,"Rock County Non-Migrants",553,1224,15928
+31,149,58,000,SS,"Other Flows - Same State",34,60,666
+31,149,59,000,DS,"Other Flows - Diff State",10,15,215
+31,151,96,000,NE,"Saline County Tot Mig-US & For",433,806,11446
+31,151,97,000,NE,"Saline County Tot Mig-US",433,806,11446
+31,151,97,001,NE,"Saline County Tot Mig-Same St",314,569,8016
+31,151,97,003,NE,"Saline County Tot Mig-Diff St",119,237,3431
+31,151,31,151,NE,"Saline County Non-Migrants",4342,9986,167446
+31,151,31,109,NE,"Lancaster County",149,253,4038
+31,151,31,067,NE,"Gage County",39,71,940
+31,151,31,159,NE,"Seward County",16,36,501
+31,151,31,055,NE,"Douglas County",15,17,319
+31,151,31,059,NE,"Fillmore County",14,20,325
+31,151,31,095,NE,"Jefferson County",14,25,308
+31,151,58,000,SS,"Other Flows - Same State",67,147,1584
+31,151,59,000,DS,"Other Flows - Diff State",119,237,3431
+31,153,96,000,NE,"Sarpy County Tot Mig-US & For",5095,10680,208433
+31,153,97,000,NE,"Sarpy County Tot Mig-US",4863,10148,200709
+31,153,97,001,NE,"Sarpy County Tot Mig-Same St",2551,4612,90084
+31,153,97,003,NE,"Sarpy County Tot Mig-Diff St",2312,5536,110624
+31,153,98,000,NE,"Sarpy County Tot Mig-Foreign",232,532,7724
+31,153,31,153,NE,"Sarpy County Non-Migrants",35191,86450,2012803
+31,153,31,055,NE,"Douglas County",2170,3824,74512
+31,153,31,025,NE,"Cass County",131,277,5357
+31,153,19,155,IA,"Pottawattamie County",108,199,3680
+31,153,31,109,NE,"Lancaster County",96,160,3461
+31,153,08,041,CO,"El Paso County",52,115,3003
+31,153,04,013,AZ,"Maricopa County",51,106,3467
+31,153,48,029,TX,"Bexar County",47,126,2484
+31,153,19,153,IA,"Polk County",32,79,1489
+31,153,32,003,NV,"Clark County",30,74,1469
+31,153,19,129,IA,"Mills County",27,58,1174
+31,153,02,020,AK,"Anchorage Borough",25,74,949
+31,153,31,053,NE,"Dodge County",24,45,974
+31,153,04,019,AZ,"Pima County",23,57,996
+31,153,15,003,HI,"Honolulu County",23,65,803
+31,153,17,163,IL,"St Clair County",23,80,1435
+31,153,20,091,KS,"Johnson County",23,45,1263
+31,153,31,155,NE,"Saunders County",23,57,1056
+31,153,12,057,FL,"Hillsborough County",22,48,701
+31,153,06,073,CA,"San Diego County",21,42,908
+31,153,24,033,MD,"Prince George's Coun",20,48,751
+31,153,51,059,VA,"Fairfax County",20,54,1379
+31,153,08,005,CO,"Arapahoe County",19,49,1344
+31,153,31,177,NE,"Washington County",19,46,723
+31,153,29,095,MO,"Jackson County",18,33,598
+31,153,48,085,TX,"Collin County",18,44,1237
+31,153,01,101,AL,"Montgomery County",16,42,1090
+31,153,17,031,IL,"Cook County",16,24,498
+31,153,48,201,TX,"Harris County",16,30,699
+31,153,51,153,VA,"Prince William Count",16,52,1094
+31,153,12,009,FL,"Brevard County",15,44,625
+31,153,12,091,FL,"Okaloosa County",15,43,743
+31,153,38,101,ND,"Ward County",15,55,902
+31,153,35,001,NM,"Bernalillo County",14,37,769
+31,153,08,059,CO,"Jefferson County",13,22,699
+31,153,31,131,NE,"Otoe County",13,32,657
+31,153,53,063,WA,"Spokane County",13,30,644
+31,153,06,037,CA,"Los Angeles County",12,23,292
+31,153,08,001,CO,"Adams County",12,27,653
+31,153,13,153,GA,"Houston County",12,30,435
+31,153,20,173,KS,"Sedgwick County",12,27,571
+31,153,29,101,MO,"Johnson County",12,33,584
+31,153,37,183,NC,"Wake County",12,37,749
+31,153,40,109,OK,"Oklahoma County",12,32,737
+31,153,48,113,TX,"Dallas County",12,23,563
+31,153,48,439,TX,"Tarrant County",12,30,668
+31,153,48,453,TX,"Travis County",12,21,432
+31,153,06,059,CA,"Orange County",11,20,493
+31,153,08,031,CO,"Denver County",11,20,392
+31,153,08,035,CO,"Douglas County",11,25,824
+31,153,27,053,MN,"Hennepin County",11,18,627
+31,153,29,047,MO,"Clay County",11,19,391
+31,153,53,053,WA,"Pierce County",11,29,1344
+31,153,19,085,IA,"Harrison County",10,29,482
+31,153,19,165,IA,"Shelby County",10,27,472
+31,153,39,049,OH,"Franklin County",10,23,449
+31,153,48,451,TX,"Tom Green County",10,35,490
+31,153,53,033,WA,"King County",10,15,390
+31,153,58,000,SS,"Other Flows - Same State",75,171,3344
+31,153,59,000,DS,"Other Flows - Diff State",1325,3218,61691
+31,153,59,001,DS,"Other Flows - Northeast",98,243,4736
+31,153,59,003,DS,"Other Flows - Midwest",444,1041,20354
+31,153,59,005,DS,"Other Flows - South",519,1345,25679
+31,153,59,007,DS,"Other Flows - West",264,589,10922
+31,153,57,009,FR,"Foreign - Other flows",232,532,7724
+31,155,96,000,NE,"Saunders County Tot Mig-US & For",473,862,14897
+31,155,97,000,NE,"Saunders County Tot Mig-US",473,862,14897
+31,155,97,001,NE,"Saunders County Tot Mig-Same St",358,643,10619
+31,155,97,003,NE,"Saunders County Tot Mig-Diff St",115,219,4277
+31,155,31,155,NE,"Saunders County Non-Migrants",5962,14131,257182
+31,155,31,055,NE,"Douglas County",123,195,3992
+31,155,31,109,NE,"Lancaster County",113,181,3110
+31,155,31,053,NE,"Dodge County",38,69,820
+31,155,31,153,NE,"Sarpy County",17,40,598
+31,155,31,025,NE,"Cass County",13,29,472
+31,155,58,000,SS,"Other Flows - Same State",54,129,1629
+31,155,59,000,DS,"Other Flows - Diff State",115,219,4277
+31,157,96,000,NE,"Scotts Bluff Co Tot Mig-US & For",997,1937,26997
+31,157,97,000,NE,"Scotts Bluff Co Tot Mig-US",987,1923,26705
+31,157,97,001,NE,"Scotts Bluff Co Tot Mig-Same St",301,577,8226
+31,157,97,003,NE,"Scotts Bluff Co Tot Mig-Diff St",686,1346,18479
+31,157,98,000,NE,"Scotts Bluff Co Tot Mig-Foreign",10,14,293
+31,157,31,157,NE,"Scotts Bluff Co Non-Migrants",12443,27968,456730
+31,157,31,109,NE,"Lancaster County",63,108,1607
+31,157,56,015,WY,"Goshen County",37,81,830
+31,157,08,069,CO,"Larimer County",33,59,854
+31,157,31,123,NE,"Morrill County",33,83,1022
+31,157,56,021,WY,"Laramie County",30,60,908
+31,157,31,055,NE,"Douglas County",26,45,668
+31,157,08,123,CO,"Weld County",25,58,610
+31,157,31,013,NE,"Box Butte County",24,45,561
+31,157,08,005,CO,"Arapahoe County",23,39,564
+31,157,08,001,CO,"Adams County",19,37,529
+31,157,31,045,NE,"Dawes County",19,33,411
+31,157,31,019,NE,"Buffalo County",18,33,741
+31,157,31,033,NE,"Cheyenne County",18,27,330
+31,157,04,013,AZ,"Maricopa County",17,32,380
+31,157,08,031,CO,"Denver County",17,19,469
+31,157,08,059,CO,"Jefferson County",16,28,763
+31,157,31,111,NE,"Lincoln County",14,31,356
+31,157,08,041,CO,"El Paso County",12,26,335
+31,157,46,103,SD,"Pennington County",12,24,328
+31,157,56,001,WY,"Albany County",12,19,306
+31,157,06,073,CA,"San Diego County",10,13,153
+31,157,58,000,SS,"Other Flows - Same State",86,172,2530
+31,157,59,000,DS,"Other Flows - Diff State",423,851,11448
+31,157,57,009,FR,"Foreign - Other flows",10,14,293
+31,159,96,000,NE,"Seward County Tot Mig-US & For",503,935,14523
+31,159,97,000,NE,"Seward County Tot Mig-US",503,935,14523
+31,159,97,001,NE,"Seward County Tot Mig-Same St",347,623,9496
+31,159,97,003,NE,"Seward County Tot Mig-Diff St",156,312,5027
+31,159,31,159,NE,"Seward County Non-Migrants",5436,12946,260956
+31,159,31,109,NE,"Lancaster County",171,275,4475
+31,159,31,185,NE,"York County",24,54,638
+31,159,31,023,NE,"Butler County",17,30,427
+31,159,31,151,NE,"Saline County",17,39,530
+31,159,31,055,NE,"Douglas County",15,21,437
+31,159,31,019,NE,"Buffalo County",10,14,171
+31,159,58,000,SS,"Other Flows - Same State",93,190,2818
+31,159,59,000,DS,"Other Flows - Diff State",156,312,5027
+31,161,96,000,NE,"Sheridan County Tot Mig-US & For",212,432,5721
+31,161,97,000,NE,"Sheridan County Tot Mig-US",212,432,5721
+31,161,97,001,NE,"Sheridan County Tot Mig-Same St",97,209,3134
+31,161,97,003,NE,"Sheridan County Tot Mig-Diff St",115,223,2586
+31,161,31,161,NE,"Sheridan County Non-Migrants",2043,4732,65461
+31,161,31,045,NE,"Dawes County",24,47,991
+31,161,31,013,NE,"Box Butte County",22,52,797
+31,161,46,113,SD,"Shannon County",12,34,217
+31,161,58,000,SS,"Other Flows - Same State",51,110,1346
+31,161,59,000,DS,"Other Flows - Diff State",103,189,2369
+31,163,96,000,NE,"Sherman County Tot Mig-US & For",93,168,2405
+31,163,97,000,NE,"Sherman County Tot Mig-US",93,168,2405
+31,163,97,001,NE,"Sherman County Tot Mig-Same St",74,132,1993
+31,163,97,003,NE,"Sherman County Tot Mig-Diff St",19,36,412
+31,163,31,163,NE,"Sherman County Non-Migrants",1260,2888,35060
+31,163,31,019,NE,"Buffalo County",21,33,484
+31,163,31,079,NE,"Hall County",14,24,427
+31,163,31,109,NE,"Lancaster County",10,13,214
+31,163,58,000,SS,"Other Flows - Same State",29,62,868
+31,163,59,000,DS,"Other Flows - Diff State",19,36,412
+31,165,96,000,NE,"Sioux County Tot Mig-US & For",23,47,750
+31,165,97,000,NE,"Sioux County Tot Mig-US",23,47,750
+31,165,97,001,NE,"Sioux County Tot Mig-Same St",11,22,243
+31,165,97,003,NE,"Sioux County Tot Mig-Diff St",12,25,507
+31,165,31,165,NE,"Sioux County Non-Migrants",303,684,8380
+31,165,58,000,SS,"Other Flows - Same State",11,22,243
+31,165,59,000,DS,"Other Flows - Diff State",12,25,507
+31,167,96,000,NE,"Stanton County Tot Mig-US & For",115,216,3148
+31,167,97,000,NE,"Stanton County Tot Mig-US",115,216,3148
+31,167,97,001,NE,"Stanton County Tot Mig-Same St",94,174,2629
+31,167,97,003,NE,"Stanton County Tot Mig-Diff St",21,42,519
+31,167,31,167,NE,"Stanton County Non-Migrants",1089,2569,36561
+31,167,31,119,NE,"Madison County",45,84,1324
+31,167,58,000,SS,"Other Flows - Same State",49,90,1305
+31,167,59,000,DS,"Other Flows - Diff State",21,42,519
+31,169,96,000,NE,"Thayer County Tot Mig-US & For",183,327,5085
+31,169,97,000,NE,"Thayer County Tot Mig-US",183,327,5085
+31,169,97,001,NE,"Thayer County Tot Mig-Same St",116,218,3217
+31,169,97,003,NE,"Thayer County Tot Mig-Diff St",67,109,1868
+31,169,31,169,NE,"Thayer County Non-Migrants",2116,4902,75607
+31,169,31,095,NE,"Jefferson County",22,40,472
+31,169,31,109,NE,"Lancaster County",21,32,702
+31,169,31,059,NE,"Fillmore County",14,34,322
+31,169,58,000,SS,"Other Flows - Same State",59,112,1721
+31,169,59,000,DS,"Other Flows - Diff State",67,109,1868
+31,171,96,000,NE,"Thomas County Tot Mig-US & For",36,74,916
+31,171,97,000,NE,"Thomas County Tot Mig-US",36,74,916
+31,171,31,171,NE,"Thomas County Non-Migrants",295,687,8084
+31,173,96,000,NE,"Thurston County Tot Mig-US & For",159,367,3916
+31,173,97,000,NE,"Thurston County Tot Mig-US",159,367,3916
+31,173,97,001,NE,"Thurston County Tot Mig-Same St",77,167,1837
+31,173,97,003,NE,"Thurston County Tot Mig-Diff St",82,200,2078
+31,173,31,173,NE,"Thurston County Non-Migrants",2045,5262,60538
+31,173,19,193,IA,"Woodbury County",24,57,350
+31,173,31,055,NE,"Douglas County",14,29,223
+31,173,31,039,NE,"Cuming County",12,25,389
+31,173,31,043,NE,"Dakota County",12,40,294
+31,173,31,109,NE,"Lancaster County",10,18,173
+31,173,58,000,SS,"Other Flows - Same State",29,55,759
+31,173,59,000,DS,"Other Flows - Diff State",58,143,1728
+31,175,96,000,NE,"Valley County Tot Mig-US & For",89,178,2113
+31,175,97,000,NE,"Valley County Tot Mig-US",89,178,2113
+31,175,97,001,NE,"Valley County Tot Mig-Same St",69,138,1637
+31,175,97,003,NE,"Valley County Tot Mig-Diff St",20,40,475
+31,175,31,175,NE,"Valley County Non-Migrants",1426,3309,48019
+31,175,31,109,NE,"Lancaster County",12,13,265
+31,175,58,000,SS,"Other Flows - Same State",57,125,1372
+31,175,59,000,DS,"Other Flows - Diff State",20,40,475
+31,177,96,000,NE,"Washington Coun Tot Mig-US & For",546,979,18020
+31,177,97,000,NE,"Washington Coun Tot Mig-US",546,979,18020
+31,177,97,001,NE,"Washington Coun Tot Mig-Same St",351,618,10727
+31,177,97,003,NE,"Washington Coun Tot Mig-Diff St",195,361,7293
+31,177,31,177,NE,"Washington Coun Non-Migrants",6133,14759,336696
+31,177,31,055,NE,"Douglas County",206,347,7237
+31,177,31,053,NE,"Dodge County",51,105,1462
+31,177,31,153,NE,"Sarpy County",19,29,456
+31,177,31,021,NE,"Burt County",17,41,569
+31,177,31,109,NE,"Lancaster County",17,21,36
+31,177,58,000,SS,"Other Flows - Same State",41,75,968
+31,177,59,000,DS,"Other Flows - Diff State",195,361,7293
+31,179,96,000,NE,"Wayne County Tot Mig-US & For",298,496,7503
+31,179,97,000,NE,"Wayne County Tot Mig-US",298,496,7503
+31,179,97,001,NE,"Wayne County Tot Mig-Same St",188,325,4408
+31,179,97,003,NE,"Wayne County Tot Mig-Diff St",110,171,3095
+31,179,31,179,NE,"Wayne County Non-Migrants",2443,5746,95951
+31,179,31,055,NE,"Douglas County",46,62,879
+31,179,31,119,NE,"Madison County",31,49,860
+31,179,31,109,NE,"Lancaster County",19,23,386
+31,179,31,027,NE,"Cedar County",13,24,322
+31,179,31,051,NE,"Dixon County",10,15,175
+31,179,46,099,SD,"Minnehaha County",10,15,192
+31,179,58,000,SS,"Other Flows - Same State",69,152,1786
+31,179,59,000,DS,"Other Flows - Diff State",100,156,2903
+31,181,96,000,NE,"Webster County Tot Mig-US & For",118,234,2859
+31,181,97,000,NE,"Webster County Tot Mig-US",118,234,2859
+31,181,97,001,NE,"Webster County Tot Mig-Same St",83,166,2115
+31,181,97,003,NE,"Webster County Tot Mig-Diff St",35,68,744
+31,181,31,181,NE,"Webster County Non-Migrants",1372,3169,43616
+31,181,31,001,NE,"Adams County",22,40,524
+31,181,31,109,NE,"Lancaster County",12,15,261
+31,181,58,000,SS,"Other Flows - Same State",49,111,1330
+31,181,59,000,DS,"Other Flows - Diff State",35,68,744
+31,183,96,000,NE,"Wheeler County Tot Mig-US & For",25,46,594
+31,183,97,000,NE,"Wheeler County Tot Mig-US",25,46,594
+31,183,31,183,NE,"Wheeler County Non-Migrants",252,600,6131
+31,185,96,000,NE,"York County Tot Mig-US & For",421,801,12948
+31,185,97,000,NE,"York County Tot Mig-US",421,801,12948
+31,185,97,001,NE,"York County Tot Mig-Same St",257,496,8049
+31,185,97,003,NE,"York County Tot Mig-Diff St",164,305,4899
+31,185,31,185,NE,"York County Non-Migrants",4904,11389,209027
+31,185,31,109,NE,"Lancaster County",89,157,2637
+31,185,31,055,NE,"Douglas County",22,45,975
+31,185,31,159,NE,"Seward County",18,28,361
+31,185,31,059,NE,"Fillmore County",14,39,436
+31,185,31,143,NE,"Polk County",14,27,346
+31,185,31,079,NE,"Hall County",12,22,434
+31,185,58,000,SS,"Other Flows - Same State",88,178,2859
+31,185,59,000,DS,"Other Flows - Diff State",164,305,4899

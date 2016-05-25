@@ -1,0 +1,573 @@
+"2000 - 2001 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Alaska,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+02,000,96,000,AK,"Total Mig - US & For",20361,39922,742829
+02,000,97,000,AK,"Total Mig - US",19759,38672,725878
+02,000,97,001,AK,"Total Mig - US Same St",6582,12780,264964
+02,000,97,003,AK,"Total Mig - US Diff St",13177,25892,460913
+02,000,98,000,AK,"Total Mig - Foreign",602,1250,16951
+02,013,96,000,AK,"Aleutians East Tot Mig-US & For",115,200,3313
+02,013,97,000,AK,"Aleutians East Tot Mig-US",115,200,3313
+02,013,97,001,AK,"Aleutians East Tot Mig-Same St",30,51,952
+02,013,97,003,AK,"Aleutians East Tot Mig-Diff St",85,149,2361
+02,013,02,013,AK,"Aleutians East Non-Migrants",488,955,19919
+02,013,58,000,SS,"Other Flows - Same State",30,51,952
+02,013,59,000,DS,"Other Flows - Diff State",85,149,2361
+02,016,96,000,AK,"Aleutians West Tot Mig-US & For",259,415,6827
+02,016,97,000,AK,"Aleutians West Tot Mig-US",259,415,6827
+02,016,97,001,AK,"Aleutians West Tot Mig-Same St",55,96,2060
+02,016,97,003,AK,"Aleutians West Tot Mig-Diff St",204,319,4767
+02,016,02,016,AK,"Aleutians West Non-Migrants",1266,2633,62927
+02,016,53,033,WA,"King County",29,49,756
+02,016,15,003,HI,"Honolulu County",27,29,450
+02,016,02,020,AK,"Anchorage Borough",21,28,702
+02,016,06,029,CA,"Kern County",12,16,197
+02,016,06,037,CA,"Los Angeles County",10,13,179
+02,016,58,000,SS,"Other Flows - Same State",34,68,1358
+02,016,59,000,DS,"Other Flows - Diff State",126,212,3185
+02,020,96,000,AK,"Anchorage Borou Tot Mig-US & For",8423,16503,328819
+02,020,97,000,AK,"Anchorage Borou Tot Mig-US",8075,15784,317980
+02,020,97,001,AK,"Anchorage Borou Tot Mig-Same St",2283,4187,91579
+02,020,97,003,AK,"Anchorage Borou Tot Mig-Diff St",5792,11597,226401
+02,020,98,000,AK,"Anchorage Borou Tot Mig-Foreign",348,719,10839
+02,020,02,020,AK,"Anchorage Borou Non-Migrants",87173,187458,5299183
+02,020,02,170,AK,"Matanuska Susitna Bo",533,929,18688
+02,020,02,122,AK,"Kenai Peninsula Boro",355,595,14034
+02,020,02,090,AK,"Fairbanks North Star",326,596,16576
+02,020,57,005,FR,"Foreign - APO/FPO ZIPs",254,588,8290
+02,020,53,033,WA,"King County",181,323,7907
+02,020,02,150,AK,"Kodiak Island Boroug",122,271,4945
+02,020,02,261,AK,"Valdez Cordova Censu",109,205,4439
+02,020,02,110,AK,"Juneau Borough",107,194,5008
+02,020,04,013,AZ,"Maricopa County",99,170,3281
+02,020,53,053,WA,"Pierce County",90,201,3498
+02,020,02,050,AK,"Bethel Census Area",85,164,3698
+02,020,48,201,TX,"Harris County",84,157,7556
+02,020,06,037,CA,"Los Angeles County",77,133,11744
+02,020,32,003,NV,"Clark County",76,158,2951
+02,020,48,029,TX,"Bexar County",71,172,3235
+02,020,02,188,AK,"Northwest Arctic Bor",70,140,3189
+02,020,06,073,CA,"San Diego County",70,121,2383
+02,020,15,003,HI,"Honolulu County",70,180,2401
+02,020,02,016,AK,"Aleutians West Censu",68,100,2533
+02,020,02,180,AK,"Nome Census Area",66,130,2688
+02,020,02,185,AK,"North Slope Borough",66,133,3522
+02,020,12,091,FL,"Okaloosa County",63,154,1924
+02,020,37,051,NC,"Cumberland County",63,168,1789
+02,020,41,051,OR,"Multnomah County",59,93,2208
+02,020,02,070,AK,"Dillingham Census Ar",57,123,2356
+02,020,08,041,CO,"El Paso County",57,160,2334
+02,020,53,063,WA,"Spokane County",53,115,1665
+02,020,04,019,AZ,"Pima County",45,92,1590
+02,020,53,061,WA,"Snohomish County",43,71,1350
+02,020,49,035,UT,"Salt Lake County",38,73,1366
+02,020,02,240,AK,"Southeast Fairbanks",37,63,1303
+02,020,02,270,AK,"Wade Hampton Census",37,84,830
+02,020,06,067,CA,"Sacramento County",37,108,1145
+02,020,37,191,NC,"Wayne County",37,81,1257
+02,020,48,485,TX,"Wichita County",37,89,1081
+02,020,02,013,AK,"Aleutians East Borou",36,53,1047
+02,020,02,220,AK,"Sitka Borough",34,63,1219
+02,020,53,073,WA,"Whatcom County",33,53,1606
+02,020,12,005,FL,"Bay County",32,86,1241
+02,020,16,039,ID,"Elmore County",32,67,998
+02,020,40,109,OK,"Oklahoma County",32,86,1989
+02,020,06,059,CA,"Orange County",31,53,999
+02,020,16,001,ID,"Ada County",31,58,1317
+02,020,17,031,IL,"Cook County",31,48,1577
+02,020,53,011,WA,"Clark County",31,71,1396
+02,020,02,130,AK,"Ketchikan Gateway Bo",30,52,1102
+02,020,05,119,AR,"Pulaski County",30,75,817
+02,020,28,047,MS,"Harrison County",30,64,969
+02,020,08,005,CO,"Arapahoe County",29,61,1938
+02,020,27,053,MN,"Hennepin County",29,69,736
+02,020,48,113,TX,"Dallas County",29,54,1076
+02,020,41,067,OR,"Washington County",27,43,1007
+02,020,49,011,UT,"Davis County",27,79,1142
+02,020,02,164,AK,"Lake And Peninsula B",26,58,637
+02,020,48,027,TX,"Bell County",26,69,731
+02,020,31,153,NE,"Sarpy County",25,74,949
+02,020,35,001,NM,"Bernalillo County",25,57,1086
+02,020,02,290,AK,"Yukon Koyukuk Census",24,45,634
+02,020,12,057,FL,"Hillsborough County",24,45,894
+02,020,17,163,IL,"St Clair County",24,62,793
+02,020,02,068,AK,"Denali Borough",23,33,794
+02,020,06,095,CA,"Solano County",23,69,940
+02,020,15,001,HI,"Hawaii County",23,38,786
+02,020,48,441,TX,"Taylor County",23,65,766
+02,020,56,021,WY,"Laramie County",23,57,826
+02,020,06,001,CA,"Alameda County",22,39,992
+02,020,30,013,MT,"Cascade County",22,47,947
+02,020,41,039,OR,"Lane County",22,37,801
+02,020,08,031,CO,"Denver County",21,31,1059
+02,020,30,031,MT,"Gallatin County",21,34,683
+02,020,53,067,WA,"Thurston County",21,40,861
+02,020,06,019,CA,"Fresno County",20,55,300
+02,020,06,071,CA,"San Bernardino Count",20,35,534
+02,020,41,005,OR,"Clackamas County",20,27,411
+02,020,41,047,OR,"Marion County",20,32,579
+02,020,48,141,TX,"El Paso County",20,58,559
+02,020,51,059,VA,"Fairfax County",20,51,1079
+02,020,02,060,AK,"Bristol Bay Borough",19,43,816
+02,020,06,065,CA,"Riverside County",19,40,657
+02,020,10,001,DE,"Kent County",19,38,546
+02,020,48,157,TX,"Fort Bend County",19,65,2801
+02,020,02,201,AK,"Prince Of Wales Oute",18,34,531
+02,020,08,013,CO,"Boulder County",18,30,706
+02,020,30,063,MT,"Missoula County",18,27,462
+02,020,41,029,OR,"Jackson County",18,36,729
+02,020,53,035,WA,"Kitsap County",18,33,598
+02,020,06,111,CA,"Ventura County",17,29,748
+02,020,08,059,CO,"Jefferson County",17,34,924
+02,020,08,069,CO,"Larimer County",17,33,670
+02,020,12,033,FL,"Escambia County",17,29,548
+02,020,13,245,GA,"Richmond County",17,41,441
+02,020,30,029,MT,"Flathead County",17,28,513
+02,020,35,035,NM,"Otero County",17,33,428
+02,020,40,027,OK,"Cleveland County",17,47,974
+02,020,53,077,WA,"Yakima County",17,45,870
+02,020,06,029,CA,"Kern County",16,45,752
+02,020,13,215,GA,"Muscogee County",16,42,454
+02,020,27,123,MN,"Ramsey County",16,56,492
+02,020,48,085,TX,"Collin County",16,43,2303
+02,020,48,439,TX,"Tarrant County",16,31,754
+02,020,06,085,CA,"Santa Clara County",15,22,709
+02,020,13,179,GA,"Liberty County",15,43,451
+02,020,06,083,CA,"Santa Barbara County",14,47,697
+02,020,12,103,FL,"Pinellas County",14,19,437
+02,020,26,125,MI,"Oakland County",14,23,692
+02,020,47,125,TN,"Montgomery County",14,25,353
+02,020,51,199,VA,"York County",14,49,457
+02,020,55,025,WI,"Dane County",14,23,588
+02,020,02,232,AK,"Skagway Hoonah Ango",13,24,444
+02,020,20,173,KS,"Sedgwick County",13,23,331
+02,020,24,003,MD,"Anne Arundel County",13,23,742
+02,020,27,037,MN,"Dakota County",13,30,796
+02,020,36,045,NY,"Jefferson County",13,34,340
+02,020,38,101,ND,"Ward County",13,31,722
+02,020,40,031,OK,"Comanche County",13,40,426
+02,020,45,019,SC,"Charleston County",13,40,461
+02,020,45,085,SC,"Sumter County",13,32,499
+02,020,53,007,WA,"Chelan County",13,25,402
+02,020,01,101,AL,"Montgomery County",12,38,898
+02,020,12,095,FL,"Orange County",12,20,295
+02,020,16,055,ID,"Kootenai County",12,19,242
+02,020,32,031,NV,"Washoe County",12,19,575
+02,020,39,049,OH,"Franklin County",12,22,545
+02,020,39,113,OH,"Montgomery County",12,33,547
+02,020,48,453,TX,"Travis County",12,14,365
+02,020,49,057,UT,"Weber County",12,37,676
+02,020,51,650,VA,Hampton,12,26,298
+02,020,02,100,AK,"Haines Borough",11,17,231
+02,020,04,003,AZ,"Cochise County",11,23,352
+02,020,04,005,AZ,"Coconino County",11,20,472
+02,020,06,097,CA,"Sonoma County",11,17,341
+02,020,12,025,FL,"Dade County",11,18,203
+02,020,13,089,GA,"De Kalb County",11,14,371
+02,020,13,153,GA,"Houston County",11,33,336
+02,020,15,009,HI,"Maui County",11,18,349
+02,020,21,047,KY,"Christian County",11,39,261
+02,020,25,017,MA,"Middlesex County",11,21,494
+02,020,29,189,MO,"St Louis County",11,21,330
+02,020,34,005,NJ,"Burlington County",11,25,298
+02,020,37,133,NC,"Onslow County",11,23,244
+02,020,39,035,OH,"Cuyahoga County",11,17,207
+02,020,40,147,OK,"Washington County",11,28,1754
+02,020,41,003,OR,"Benton County",11,16,290
+02,020,48,099,TX,"Coryell County",11,30,440
+02,020,48,355,TX,"Nueces County",11,23,243
+02,020,06,013,CA,"Contra Costa County",10,18,275
+02,020,12,105,FL,"Polk County",10,29,165
+02,020,18,097,IN,"Marion County",10,21,176
+02,020,24,033,MD,"Prince George's Coun",10,26,398
+02,020,26,081,MI,"Kent County",10,16,339
+02,020,26,161,MI,"Washtenaw County",10,11,278
+02,020,29,101,MO,"Johnson County",10,23,277
+02,020,30,049,MT,"Lewis And Clark Coun",10,20,313
+02,020,41,017,OR,"Deschutes County",10,14,207
+02,020,41,019,OR,"Douglas County",10,19,327
+02,020,47,157,TN,"Shelby County",10,20,898
+02,020,58,000,SS,"Other Flows - Same State",11,38,315
+02,020,59,000,DS,"Other Flows - Diff State",2525,4624,86801
+02,020,59,001,DS,"Other Flows - Northeast",367,587,10786
+02,020,59,003,DS,"Other Flows - Midwest",588,1050,19326
+02,020,59,005,DS,"Other Flows - South",930,1793,33743
+02,020,59,007,DS,"Other Flows - West",640,1194,22947
+02,020,57,009,FR,"Foreign - Other flows",94,131,2549
+02,050,96,000,AK,"Bethel Census A Tot Mig-US & For",253,467,8997
+02,050,97,000,AK,"Bethel Census A Tot Mig-US",253,467,8997
+02,050,97,001,AK,"Bethel Census A Tot Mig-Same St",127,256,4374
+02,050,97,003,AK,"Bethel Census A Tot Mig-Diff St",126,211,4624
+02,050,02,050,AK,"Bethel Census A Non-Migrants",4097,11000,135255
+02,050,02,020,AK,"Anchorage Borough",43,66,1430
+02,050,02,090,AK,"Fairbanks North Star",20,35,744
+02,050,02,270,AK,"Wade Hampton Census",17,49,515
+02,050,02,122,AK,"Kenai Peninsula Boro",12,23,382
+02,050,58,000,SS,"Other Flows - Same State",35,83,1302
+02,050,59,000,DS,"Other Flows - Diff State",126,211,4624
+02,060,96,000,AK,"Bristol Bay Bor Tot Mig-US & For",52,96,2248
+02,060,97,000,AK,"Bristol Bay Bor Tot Mig-US",52,96,2248
+02,060,97,001,AK,"Bristol Bay Bor Tot Mig-Same St",31,56,1453
+02,060,97,003,AK,"Bristol Bay Bor Tot Mig-Diff St",21,40,796
+02,060,02,060,AK,"Bristol Bay Bor Non-Migrants",403,896,20723
+02,060,58,000,SS,"Other Flows - Same State",31,56,1453
+02,060,59,000,DS,"Other Flows - Diff State",21,40,796
+02,068,96,000,AK,"Denali Borough Tot Mig-US & For",154,233,4381
+02,068,97,000,AK,"Denali Borough Tot Mig-US",140,216,4097
+02,068,97,001,AK,"Denali Borough Tot Mig-Same St",46,80,1413
+02,068,97,003,AK,"Denali Borough Tot Mig-Diff St",94,136,2684
+02,068,98,000,AK,"Denali Borough Tot Mig-Foreign",14,17,284
+02,068,02,068,AK,"Denali Borough Non-Migrants",683,1449,45334
+02,068,02,090,AK,"Fairbanks North Star",22,37,666
+02,068,02,020,AK,"Anchorage Borough",13,18,373
+02,068,58,000,SS,"Other Flows - Same State",11,25,374
+02,068,59,000,DS,"Other Flows - Diff State",94,136,2684
+02,068,57,009,FR,"Foreign - Other flows",14,17,284
+02,070,96,000,AK,"Dillingham Cens Tot Mig-US & For",104,200,3686
+02,070,97,000,AK,"Dillingham Cens Tot Mig-US",104,200,3686
+02,070,97,001,AK,"Dillingham Cens Tot Mig-Same St",50,103,1811
+02,070,97,003,AK,"Dillingham Cens Tot Mig-Diff St",54,97,1875
+02,070,02,070,AK,"Dillingham Cens Non-Migrants",1237,3150,48140
+02,070,02,020,AK,"Anchorage Borough",13,29,374
+02,070,58,000,SS,"Other Flows - Same State",37,74,1437
+02,070,59,000,DS,"Other Flows - Diff State",54,97,1875
+02,090,96,000,AK,"Fairbanks North Tot Mig-US & For",3670,7520,106068
+02,090,97,000,AK,"Fairbanks North Tot Mig-US",3485,7125,101601
+02,090,97,001,AK,"Fairbanks North Tot Mig-Same St",712,1312,25376
+02,090,97,003,AK,"Fairbanks North Tot Mig-Diff St",2773,5813,76225
+02,090,98,000,AK,"Fairbanks North Tot Mig-Foreign",185,395,4467
+02,090,02,090,AK,"Fairbanks North Non-Migrants",27721,61817,1511489
+02,090,02,020,AK,"Anchorage Borough",201,375,7550
+02,090,57,005,FR,"Foreign - APO/FPO ZIPs",117,302,3913
+02,090,02,290,AK,"Yukon Koyukuk Census",103,209,3176
+02,090,37,051,NC,"Cumberland County",92,246,2475
+02,090,02,240,AK,"Southeast Fairbanks",76,132,2174
+02,090,48,027,TX,"Bell County",53,152,1431
+02,090,02,122,AK,"Kenai Peninsula Boro",51,79,1467
+02,090,02,170,AK,"Matanuska Susitna Bo",47,96,1935
+02,090,21,047,KY,"Christian County",44,139,1243
+02,090,36,045,NY,"Jefferson County",41,105,1069
+02,090,40,031,OK,"Comanche County",40,119,1313
+02,090,53,053,WA,"Pierce County",40,95,1231
+02,090,04,013,AZ,"Maricopa County",39,72,1292
+02,090,13,215,GA,"Muscogee County",38,127,1322
+02,090,08,041,CO,"El Paso County",37,97,1175
+02,090,47,125,TN,"Montgomery County",37,111,1252
+02,090,53,033,WA,"King County",35,59,1125
+02,090,06,037,CA,"Los Angeles County",34,49,833
+02,090,02,110,AK,"Juneau Borough",33,44,1274
+02,090,02,185,AK,"North Slope Borough",31,45,1201
+02,090,48,029,TX,"Bexar County",30,66,890
+02,090,32,003,NV,"Clark County",28,54,930
+02,090,02,261,AK,"Valdez Cordova Censu",26,50,919
+02,090,06,071,CA,"San Bernardino Count",25,59,575
+02,090,22,115,LA,"Vernon Parish",25,76,729
+02,090,02,050,AK,"Bethel Census Area",24,50,996
+02,090,02,068,AK,"Denali Borough",22,33,1085
+02,090,48,485,TX,"Wichita County",22,42,607
+02,090,02,180,AK,"Nome Census Area",20,35,714
+02,090,04,019,AZ,"Pima County",20,44,710
+02,090,06,073,CA,"San Diego County",20,33,542
+02,090,02,188,AK,"Northwest Arctic Bor",19,50,806
+02,090,13,179,GA,"Liberty County",18,37,403
+02,090,13,245,GA,"Richmond County",18,38,436
+02,090,17,031,IL,"Cook County",18,23,278
+02,090,20,061,KS,"Geary County",18,60,522
+02,090,45,079,SC,"Richland County",18,52,523
+02,090,48,201,TX,"Harris County",18,20,395
+02,090,15,003,HI,"Honolulu County",17,33,437
+02,090,01,045,AL,"Dale County",16,50,511
+02,090,35,009,NM,"Curry County",16,36,389
+02,090,48,099,TX,"Coryell County",16,61,525
+02,090,16,039,ID,"Elmore County",15,52,450
+02,090,02,150,AK,"Kodiak Island Boroug",14,22,463
+02,090,12,091,FL,"Okaloosa County",14,45,438
+02,090,13,051,GA,"Chatham County",14,43,343
+02,090,53,063,WA,"Spokane County",14,31,433
+02,090,02,130,AK,"Ketchikan Gateway Bo",13,31,486
+02,090,29,169,MO,"Pulaski County",13,37,459
+02,090,35,035,NM,"Otero County",13,26,435
+02,090,41,051,OR,"Multnomah County",13,19,204
+02,090,45,085,SC,"Sumter County",13,43,605
+02,090,48,141,TX,"El Paso County",13,37,409
+02,090,48,441,TX,"Taylor County",13,32,383
+02,090,04,003,AZ,"Cochise County",12,26,412
+02,090,28,047,MS,"Harrison County",12,30,275
+02,090,34,005,NJ,"Burlington County",12,31,308
+02,090,06,029,CA,"Kern County",11,28,331
+02,090,12,025,FL,"Dade County",11,19,182
+02,090,30,013,MT,"Cascade County",11,28,417
+02,090,41,005,OR,"Clackamas County",11,20,327
+02,090,49,011,UT,"Davis County",11,23,310
+02,090,06,095,CA,"Solano County",10,24,331
+02,090,08,005,CO,"Arapahoe County",10,13,276
+02,090,51,700,VA,"Newport News",10,23,274
+02,090,53,067,WA,"Thurston County",10,14,504
+02,090,58,000,SS,"Other Flows - Same State",32,61,1131
+02,090,59,000,DS,"Other Flows - Diff State",1634,3014,42956
+02,090,59,001,DS,"Other Flows - Northeast",211,311,4584
+02,090,59,003,DS,"Other Flows - Midwest",386,677,10252
+02,090,59,005,DS,"Other Flows - South",612,1255,16075
+02,090,59,007,DS,"Other Flows - West",425,771,12045
+02,090,57,009,FR,"Foreign - Other flows",68,93,554
+02,100,96,000,AK,"Haines Borough Tot Mig-US & For",76,123,1975
+02,100,97,000,AK,"Haines Borough Tot Mig-US",76,123,1975
+02,100,97,001,AK,"Haines Borough Tot Mig-Same St",28,53,845
+02,100,97,003,AK,"Haines Borough Tot Mig-Diff St",48,70,1130
+02,100,02,100,AK,"Haines Borough Non-Migrants",889,1843,39937
+02,100,58,000,SS,"Other Flows - Same State",28,53,845
+02,100,59,000,DS,"Other Flows - Diff State",48,70,1130
+02,110,96,000,AK,"Juneau Borough Tot Mig-US & For",902,1607,35757
+02,110,97,000,AK,"Juneau Borough Tot Mig-US",887,1583,35494
+02,110,97,001,AK,"Juneau Borough Tot Mig-Same St",333,619,12849
+02,110,97,003,AK,"Juneau Borough Tot Mig-Diff St",554,964,22645
+02,110,98,000,AK,"Juneau Borough Tot Mig-Foreign",15,24,263
+02,110,02,110,AK,"Juneau Borough Non-Migrants",10926,22879,672251
+02,110,02,020,AK,"Anchorage Borough",78,142,3011
+02,110,02,220,AK,"Sitka Borough",48,79,1796
+02,110,53,033,WA,"King County",46,74,4544
+02,110,02,090,AK,"Fairbanks North Star",31,54,1552
+02,110,02,130,AK,"Ketchikan Gateway Bo",28,50,992
+02,110,02,232,AK,"Skagway Hoonah Ango",27,44,877
+02,110,02,280,AK,"Wrangell Petersburg",20,37,515
+02,110,02,100,AK,"Haines Borough",19,33,654
+02,110,02,201,AK,"Prince Of Wales Oute",18,35,373
+02,110,06,037,CA,"Los Angeles County",15,18,320
+02,110,04,013,AZ,"Maricopa County",14,26,523
+02,110,02,150,AK,"Kodiak Island Boroug",12,30,527
+02,110,06,073,CA,"San Diego County",12,18,306
+02,110,53,053,WA,"Pierce County",10,17,378
+02,110,58,000,SS,"Other Flows - Same State",52,115,2552
+02,110,59,000,DS,"Other Flows - Diff State",457,811,16573
+02,110,59,001,DS,"Other Flows - Northeast",49,77,1317
+02,110,59,003,DS,"Other Flows - Midwest",62,87,3108
+02,110,59,005,DS,"Other Flows - South",100,208,4317
+02,110,59,007,DS,"Other Flows - West",246,439,7830
+02,110,57,009,FR,"Foreign - Other flows",15,24,263
+02,122,96,000,AK,"Kenai Peninsula Tot Mig-US & For",1425,2693,56289
+02,122,97,000,AK,"Kenai Peninsula Tot Mig-US",1425,2693,56289
+02,122,97,001,AK,"Kenai Peninsula Tot Mig-Same St",556,1096,25310
+02,122,97,003,AK,"Kenai Peninsula Tot Mig-Diff St",869,1597,30978
+02,122,02,122,AK,"Kenai Peninsula Non-Migrants",15746,36115,804343
+02,122,02,020,AK,"Anchorage Borough",317,611,15747
+02,122,02,170,AK,"Matanuska Susitna Bo",48,98,2364
+02,122,02,090,AK,"Fairbanks North Star",40,88,1597
+02,122,53,033,WA,"King County",25,48,911
+02,122,02,110,AK,"Juneau Borough",16,29,422
+02,122,02,185,AK,"North Slope Borough",14,25,808
+02,122,02,150,AK,"Kodiak Island Boroug",13,23,374
+02,122,04,013,AZ,"Maricopa County",13,24,515
+02,122,02,130,AK,"Ketchikan Gateway Bo",11,39,610
+02,122,06,037,CA,"Los Angeles County",11,25,379
+02,122,41,051,OR,"Multnomah County",11,17,248
+02,122,02,050,AK,"Bethel Census Area",10,17,392
+02,122,02,261,AK,"Valdez Cordova Censu",10,30,551
+02,122,32,003,NV,"Clark County",10,16,376
+02,122,41,039,OR,"Lane County",10,22,315
+02,122,48,201,TX,"Harris County",10,22,325
+02,122,49,035,UT,"Salt Lake County",10,19,303
+02,122,58,000,SS,"Other Flows - Same State",77,136,2444
+02,122,59,000,DS,"Other Flows - Diff State",769,1404,27606
+02,122,59,001,DS,"Other Flows - Northeast",56,81,1761
+02,122,59,003,DS,"Other Flows - Midwest",134,259,5525
+02,122,59,005,DS,"Other Flows - South",170,338,6152
+02,122,59,007,DS,"Other Flows - West",409,726,14168
+02,130,96,000,AK,"Ketchikan Gatew Tot Mig-US & For",439,822,14453
+02,130,97,000,AK,"Ketchikan Gatew Tot Mig-US",439,822,14453
+02,130,97,001,AK,"Ketchikan Gatew Tot Mig-Same St",141,283,5052
+02,130,97,003,AK,"Ketchikan Gatew Tot Mig-Diff St",298,539,9400
+02,130,02,130,AK,"Ketchikan Gatew Non-Migrants",4622,9908,248910
+02,130,02,201,AK,"Prince Of Wales Oute",40,75,1280
+02,130,02,020,AK,"Anchorage Borough",23,40,649
+02,130,53,033,WA,"King County",18,27,512
+02,130,02,110,AK,"Juneau Borough",17,27,479
+02,130,02,090,AK,"Fairbanks North Star",11,18,390
+02,130,41,039,OR,"Lane County",10,17,229
+02,130,58,000,SS,"Other Flows - Same State",50,123,2255
+02,130,59,000,DS,"Other Flows - Diff State",270,495,8659
+02,130,59,001,DS,"Other Flows - Northeast",21,36,567
+02,130,59,003,DS,"Other Flows - Midwest",24,45,669
+02,130,59,005,DS,"Other Flows - South",55,123,1747
+02,130,59,007,DS,"Other Flows - West",170,291,5676
+02,150,96,000,AK,"Kodiak Island B Tot Mig-US & For",487,1020,15656
+02,150,97,000,AK,"Kodiak Island B Tot Mig-US",487,1020,15656
+02,150,97,001,AK,"Kodiak Island B Tot Mig-Same St",109,227,4310
+02,150,97,003,AK,"Kodiak Island B Tot Mig-Diff St",378,793,11346
+02,150,02,150,AK,"Kodiak Island B Non-Migrants",4451,10577,206741
+02,150,02,020,AK,"Anchorage Borough",38,71,1556
+02,150,06,037,CA,"Los Angeles County",16,30,403
+02,150,06,097,CA,"Sonoma County",15,25,457
+02,150,15,003,HI,"Honolulu County",14,38,366
+02,150,02,090,AK,"Fairbanks North Star",12,20,430
+02,150,02,170,AK,"Matanuska Susitna Bo",11,29,491
+02,150,12,103,FL,"Pinellas County",11,35,377
+02,150,37,139,NC,"Pasquotank County",11,31,572
+02,150,58,000,SS,"Other Flows - Same State",48,107,1833
+02,150,59,000,DS,"Other Flows - Diff State",311,634,9170
+02,150,59,001,DS,"Other Flows - Northeast",26,46,694
+02,150,59,003,DS,"Other Flows - Midwest",40,65,964
+02,150,59,005,DS,"Other Flows - South",96,220,3476
+02,150,59,007,DS,"Other Flows - West",149,303,4037
+02,164,96,000,AK,"Lake And Penins Tot Mig-US & For",51,105,1547
+02,164,97,000,AK,"Lake And Penins Tot Mig-US",51,105,1547
+02,164,97,001,AK,"Lake And Penins Tot Mig-Same St",40,91,1183
+02,164,97,003,AK,"Lake And Penins Tot Mig-Diff St",11,14,364
+02,164,02,164,AK,"Lake And Penins Non-Migrants",400,1012,13628
+02,164,02,020,AK,"Anchorage Borough",10,26,234
+02,164,02,170,AK,"Matanuska Susitna Bo",10,24,328
+02,164,58,000,SS,"Other Flows - Same State",20,41,621
+02,164,59,000,DS,"Other Flows - Diff State",11,14,364
+02,170,96,000,AK,"Matanuska Susit Tot Mig-US & For",1840,4052,76477
+02,170,97,000,AK,"Matanuska Susit Tot Mig-US",1826,4016,76048
+02,170,97,001,AK,"Matanuska Susit Tot Mig-Same St",1047,2329,47932
+02,170,97,003,AK,"Matanuska Susit Tot Mig-Diff St",779,1687,28116
+02,170,98,000,AK,"Matanuska Susit Tot Mig-Foreign",14,36,429
+02,170,02,170,AK,"Matanuska Susit Non-Migrants",17517,41909,920164
+02,170,02,020,AK,"Anchorage Borough",754,1672,35665
+02,170,02,090,AK,"Fairbanks North Star",51,96,2256
+02,170,02,122,AK,"Kenai Peninsula Boro",50,100,1535
+02,170,02,261,AK,"Valdez Cordova Censu",26,54,1199
+02,170,04,013,AZ,"Maricopa County",25,44,615
+02,170,02,110,AK,"Juneau Borough",23,63,1150
+02,170,53,033,WA,"King County",21,45,1002
+02,170,02,050,AK,"Bethel Census Area",20,34,557
+02,170,02,150,AK,"Kodiak Island Boroug",16,43,820
+02,170,41,051,OR,"Multnomah County",12,29,354
+02,170,02,188,AK,"Northwest Arctic Bor",11,24,566
+02,170,08,041,CO,"El Paso County",10,16,213
+02,170,58,000,SS,"Other Flows - Same State",96,243,4185
+02,170,59,000,DS,"Other Flows - Diff State",711,1553,25933
+02,170,59,001,DS,"Other Flows - Northeast",41,68,989
+02,170,59,003,DS,"Other Flows - Midwest",167,363,5794
+02,170,59,005,DS,"Other Flows - South",140,327,6094
+02,170,59,007,DS,"Other Flows - West",363,795,13056
+02,170,57,009,FR,"Foreign - Other flows",14,36,429
+02,180,96,000,AK,"Nome Census Are Tot Mig-US & For",193,309,6585
+02,180,97,000,AK,"Nome Census Are Tot Mig-US",193,309,6585
+02,180,97,001,AK,"Nome Census Are Tot Mig-Same St",91,166,2996
+02,180,97,003,AK,"Nome Census Are Tot Mig-Diff St",102,143,3589
+02,180,02,180,AK,"Nome Census Are Non-Migrants",2409,6005,90526
+02,180,02,020,AK,"Anchorage Borough",35,66,1141
+02,180,02,090,AK,"Fairbanks North Star",11,19,317
+02,180,58,000,SS,"Other Flows - Same State",45,81,1538
+02,180,59,000,DS,"Other Flows - Diff State",102,143,3589
+02,185,96,000,AK,"North Slope Bor Tot Mig-US & For",172,291,8186
+02,185,97,000,AK,"North Slope Bor Tot Mig-US",172,291,8186
+02,185,97,001,AK,"North Slope Bor Tot Mig-Same St",85,164,4584
+02,185,97,003,AK,"North Slope Bor Tot Mig-Diff St",87,127,3602
+02,185,02,185,AK,"North Slope Bor Non-Migrants",2217,5005,113175
+02,185,02,020,AK,"Anchorage Borough",31,55,1608
+02,185,02,090,AK,"Fairbanks North Star",14,38,663
+02,185,58,000,SS,"Other Flows - Same State",40,71,2312
+02,185,59,000,DS,"Other Flows - Diff State",87,127,3602
+02,188,96,000,AK,"Northwest Arcti Tot Mig-US & For",163,294,6423
+02,188,97,000,AK,"Northwest Arcti Tot Mig-US",163,294,6423
+02,188,97,001,AK,"Northwest Arcti Tot Mig-Same St",90,161,3563
+02,188,97,003,AK,"Northwest Arcti Tot Mig-Diff St",73,133,2861
+02,188,02,188,AK,"Northwest Arcti Non-Migrants",1668,4487,72625
+02,188,02,020,AK,"Anchorage Borough",34,74,1323
+02,188,02,180,AK,"Nome Census Area",13,22,560
+02,188,02,090,AK,"Fairbanks North Star",12,16,349
+02,188,58,000,SS,"Other Flows - Same State",31,49,1331
+02,188,59,000,DS,"Other Flows - Diff State",73,133,2861
+02,201,96,000,AK,"Prince Of Wales Tot Mig-US & For",149,276,5350
+02,201,97,000,AK,"Prince Of Wales Tot Mig-US",149,276,5350
+02,201,97,001,AK,"Prince Of Wales Tot Mig-Same St",69,133,2459
+02,201,97,003,AK,"Prince Of Wales Tot Mig-Diff St",80,143,2891
+02,201,02,201,AK,"Prince Of Wales Non-Migrants",1550,3593,60563
+02,201,02,130,AK,"Ketchikan Gateway Bo",26,45,668
+02,201,58,000,SS,"Other Flows - Same State",43,88,1791
+02,201,59,000,DS,"Other Flows - Diff State",80,143,2891
+02,220,96,000,AK,"Sitka Borough Tot Mig-US & For",302,550,11292
+02,220,97,000,AK,"Sitka Borough Tot Mig-US",302,550,11292
+02,220,97,001,AK,"Sitka Borough Tot Mig-Same St",94,190,4336
+02,220,97,003,AK,"Sitka Borough Tot Mig-Diff St",208,360,6956
+02,220,02,220,AK,"Sitka Borough Non-Migrants",3005,6416,164418
+02,220,02,020,AK,"Anchorage Borough",20,35,721
+02,220,02,110,AK,"Juneau Borough",12,26,763
+02,220,53,033,WA,"King County",10,16,841
+02,220,58,000,SS,"Other Flows - Same State",62,129,2852
+02,220,59,000,DS,"Other Flows - Diff State",198,344,6114
+02,220,59,001,DS,"Other Flows - Northeast",15,21,422
+02,220,59,003,DS,"Other Flows - Midwest",33,67,1319
+02,220,59,005,DS,"Other Flows - South",40,67,862
+02,220,59,007,DS,"Other Flows - West",110,189,3512
+02,232,96,000,AK,"Skagway Hoonah Tot Mig-US & For",168,267,5062
+02,232,97,000,AK,"Skagway Hoonah Tot Mig-US",168,267,5062
+02,232,97,001,AK,"Skagway Hoonah Tot Mig-Same St",64,112,2104
+02,232,97,003,AK,"Skagway Hoonah Tot Mig-Diff St",104,155,2958
+02,232,02,232,AK,"Skagway Hoonah Non-Migrants",1200,2385,49723
+02,232,02,110,AK,"Juneau Borough",26,43,858
+02,232,02,020,AK,"Anchorage Borough",10,17,210
+02,232,53,033,WA,"King County",10,12,319
+02,232,58,000,SS,"Other Flows - Same State",28,52,1035
+02,232,59,000,DS,"Other Flows - Diff State",94,143,2639
+02,240,96,000,AK,"Southeast Fairb Tot Mig-US & For",163,307,5056
+02,240,97,000,AK,"Southeast Fairb Tot Mig-US",163,307,5056
+02,240,97,001,AK,"Southeast Fairb Tot Mig-Same St",70,131,2290
+02,240,97,003,AK,"Southeast Fairb Tot Mig-Diff St",93,176,2765
+02,240,02,240,AK,"Southeast Fairb Non-Migrants",1838,4304,72881
+02,240,02,090,AK,"Fairbanks North Star",32,52,1170
+02,240,02,020,AK,"Anchorage Borough",12,27,269
+02,240,02,122,AK,"Kenai Peninsula Boro",10,17,300
+02,240,58,000,SS,"Other Flows - Same State",16,35,551
+02,240,59,000,DS,"Other Flows - Diff State",93,176,2765
+02,240,59,001,DS,"Other Flows - Northeast",17,32,412
+02,240,59,003,DS,"Other Flows - Midwest",12,32,363
+02,240,59,005,DS,"Other Flows - South",19,30,622
+02,240,59,007,DS,"Other Flows - West",45,82,1368
+02,261,96,000,AK,"Valdez Cordova Tot Mig-US & For",355,705,13993
+02,261,97,000,AK,"Valdez Cordova Tot Mig-US",355,705,13993
+02,261,97,001,AK,"Valdez Cordova Tot Mig-Same St",179,374,7864
+02,261,97,003,AK,"Valdez Cordova Tot Mig-Diff St",176,331,6129
+02,261,02,261,AK,"Valdez Cordova Non-Migrants",3377,7516,184314
+02,261,02,020,AK,"Anchorage Borough",71,125,3132
+02,261,02,090,AK,"Fairbanks North Star",28,49,1481
+02,261,02,122,AK,"Kenai Peninsula Boro",11,22,383
+02,261,02,170,AK,"Matanuska Susitna Bo",10,17,343
+02,261,02,240,AK,"Southeast Fairbanks",10,30,226
+02,261,58,000,SS,"Other Flows - Same State",49,131,2300
+02,261,59,000,DS,"Other Flows - Diff State",176,331,6129
+02,261,59,001,DS,"Other Flows - Northeast",14,19,293
+02,261,59,003,DS,"Other Flows - Midwest",29,54,894
+02,261,59,005,DS,"Other Flows - South",43,80,1770
+02,261,59,007,DS,"Other Flows - West",90,178,3171
+02,270,96,000,AK,"Wade Hampton Ce Tot Mig-US & For",86,182,2723
+02,270,97,000,AK,"Wade Hampton Ce Tot Mig-US",86,182,2723
+02,270,97,001,AK,"Wade Hampton Ce Tot Mig-Same St",47,115,1380
+02,270,97,003,AK,"Wade Hampton Ce Tot Mig-Diff St",39,67,1343
+02,270,02,270,AK,"Wade Hampton Ce Non-Migrants",1533,4692,37043
+02,270,02,020,AK,"Anchorage Borough",15,40,346
+02,270,02,050,AK,"Bethel Census Area",11,29,306
+02,270,58,000,SS,"Other Flows - Same State",21,46,727
+02,270,59,000,DS,"Other Flows - Diff State",39,67,1343
+02,280,96,000,AK,"Wrangell Peters Tot Mig-US & For",168,334,5563
+02,280,97,000,AK,"Wrangell Peters Tot Mig-US",168,334,5563
+02,280,97,001,AK,"Wrangell Peters Tot Mig-Same St",80,162,3017
+02,280,97,003,AK,"Wrangell Peters Tot Mig-Diff St",88,172,2547
+02,280,02,280,AK,"Wrangell Peters Non-Migrants",2205,4930,106018
+02,280,02,110,AK,"Juneau Borough",17,28,466
+02,280,02,220,AK,"Sitka Borough",10,20,224
+02,280,58,000,SS,"Other Flows - Same State",53,114,2327
+02,280,59,000,DS,"Other Flows - Diff State",88,172,2547
+02,282,96,000,AK,"Yakutat Borough Tot Mig-US & For",37,69,1112
+02,282,97,000,AK,"Yakutat Borough Tot Mig-US",37,69,1112
+02,282,97,001,AK,"Yakutat Borough Tot Mig-Same St",20,35,696
+02,282,97,003,AK,"Yakutat Borough Tot Mig-Diff St",17,34,416
+02,282,02,282,AK,"Yakutat Borough Non-Migrants",197,408,8991
+02,282,58,000,SS,"Other Flows - Same State",20,35,696
+02,282,59,000,DS,"Other Flows - Diff State",17,34,416
+02,290,96,000,AK,"Yukon Koyukuk C Tot Mig-US & For",155,282,4991
+02,290,97,000,AK,"Yukon Koyukuk C Tot Mig-US",155,282,4991
+02,290,97,001,AK,"Yukon Koyukuk C Tot Mig-Same St",105,198,3177
+02,290,97,003,AK,"Yukon Koyukuk C Tot Mig-Diff St",50,84,1814
+02,290,02,290,AK,"Yukon Koyukuk C Non-Migrants",1816,4062,56114
+02,290,02,090,AK,"Fairbanks North Star",46,77,1110
+02,290,02,020,AK,"Anchorage Borough",25,51,763
+02,290,58,000,SS,"Other Flows - Same State",34,70,1304
+02,290,59,000,DS,"Other Flows - Diff State",50,84,1814
