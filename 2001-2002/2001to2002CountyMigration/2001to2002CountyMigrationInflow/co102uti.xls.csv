@@ -1,0 +1,957 @@
+"2001 - 2002 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Utah,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+49,000,96,000,UT,"Total Mig - US & For",54036,116014,1929384
+49,000,97,000,UT,"Total Mig - US",52533,113586,1899966
+49,000,97,001,UT,"Total Mig - US Same St",26679,59114,893198
+49,000,97,003,UT,"Total Mig - US Diff St",25854,54472,1006768
+49,000,98,000,UT,"Total Mig - Foreign",1503,2428,29419
+49,001,96,000,UT,"Beaver County Tot Mig-US & For",148,366,4243
+49,001,97,000,UT,"Beaver County Tot Mig-US",148,366,4243
+49,001,97,001,UT,"Beaver County Tot Mig-Same St",81,205,2435
+49,001,97,003,UT,"Beaver County Tot Mig-Diff St",67,161,1808
+49,001,49,001,UT,"Beaver County Non-Migrants",1684,4754,60009
+49,001,49,021,UT,"Iron County",25,63,509
+49,001,32,003,NV,"Clark County",14,25,414
+49,001,49,035,UT,"Salt Lake County",12,20,382
+49,001,58,000,SS,"Other Flows - Same State",44,122,1544
+49,001,59,000,DS,"Other Flows - Diff State",53,136,1394
+49,003,96,000,UT,"Box Elder Count Tot Mig-US & For",968,2318,28986
+49,003,97,000,UT,"Box Elder Count Tot Mig-US",968,2318,28986
+49,003,97,001,UT,"Box Elder Count Tot Mig-Same St",682,1613,20318
+49,003,97,003,UT,"Box Elder Count Tot Mig-Diff St",286,705,8668
+49,003,49,003,UT,"Box Elder Count Non-Migrants",13178,36991,584207
+49,003,49,057,UT,"Weber County",278,671,8477
+49,003,49,005,UT,"Cache County",122,272,3441
+49,003,49,011,UT,"Davis County",100,238,3167
+49,003,49,035,UT,"Salt Lake County",90,182,2669
+49,003,49,049,UT,"Utah County",36,103,1028
+49,003,16,071,ID,"Oneida County",13,42,417
+49,003,49,053,UT,"Washington County",11,26,280
+49,003,49,021,UT,"Iron County",10,27,224
+49,003,58,000,SS,"Other Flows - Same State",35,94,1033
+49,003,59,000,DS,"Other Flows - Diff State",273,663,8251
+49,005,96,000,UT,"Cache County Tot Mig-US & For",2686,5392,72218
+49,005,97,000,UT,"Cache County Tot Mig-US",2507,5199,71491
+49,005,97,001,UT,"Cache County Tot Mig-Same St",1239,2537,33848
+49,005,97,003,UT,"Cache County Tot Mig-Diff St",1268,2662,37642
+49,005,98,000,UT,"Cache County Tot Mig-Foreign",179,193,727
+49,005,49,005,UT,"Cache County Non-Migrants",25440,69655,1120786
+49,005,49,035,UT,"Salt Lake County",334,652,8749
+49,005,49,049,UT,"Utah County",185,404,7751
+49,005,49,011,UT,"Davis County",175,360,4543
+49,005,49,003,UT,"Box Elder County",137,281,3589
+49,005,49,057,UT,"Weber County",111,244,2829
+49,005,16,041,ID,"Franklin County",90,186,2022
+49,005,49,053,UT,"Washington County",55,136,1326
+49,005,16,005,ID,"Bannock County",37,73,957
+49,005,16,065,ID,"Madison County",37,74,701
+49,005,06,037,CA,"Los Angeles County",35,94,1282
+49,005,16,019,ID,"Bonneville County",33,66,791
+49,005,04,013,AZ,"Maricopa County",31,73,942
+49,005,49,013,UT,"Duchesne County",28,45,370
+49,005,49,039,UT,"Sanpete County",27,62,468
+49,005,49,007,UT,"Carbon County",26,49,464
+49,005,16,031,ID,"Cassia County",24,43,410
+49,005,16,001,ID,"Ada County",23,42,562
+49,005,56,023,WY,"Lincoln County",23,42,604
+49,005,49,021,UT,"Iron County",22,36,508
+49,005,32,003,NV,"Clark County",21,39,730
+49,005,49,047,UT,"Uintah County",20,36,431
+49,005,16,011,ID,"Bingham County",19,29,362
+49,005,49,045,UT,"Tooele County",19,39,520
+49,005,16,043,ID,"Fremont County",18,40,340
+49,005,53,033,WA,"King County",17,27,531
+49,005,56,041,WY,"Uinta County",17,24,345
+49,005,49,041,UT,"Sevier County",16,27,289
+49,005,16,083,ID,"Twin Falls County",15,28,351
+49,005,49,051,UT,"Wasatch County",15,31,364
+49,005,49,043,UT,"Summit County",14,33,467
+49,005,16,051,ID,"Jefferson County",13,22,187
+49,005,49,033,UT,"Rich County",13,23,332
+49,005,06,067,CA,"Sacramento County",11,24,372
+49,005,06,059,CA,"Orange County",10,21,195
+49,005,06,073,CA,"San Diego County",10,27,442
+49,005,08,041,CO,"El Paso County",10,27,499
+49,005,16,007,ID,"Bear Lake County",10,19,219
+49,005,49,027,UT,"Millard County",10,27,264
+49,005,58,000,SS,"Other Flows - Same State",32,52,584
+49,005,59,000,DS,"Other Flows - Diff State",764,1642,24799
+49,005,59,001,DS,"Other Flows - Northeast",62,108,2449
+49,005,59,003,DS,"Other Flows - Midwest",126,276,3852
+49,005,59,005,DS,"Other Flows - South",152,332,5727
+49,005,59,007,DS,"Other Flows - West",424,926,12770
+49,005,57,009,FR,"Foreign - Other flows",179,193,727
+49,007,96,000,UT,"Carbon County Tot Mig-US & For",473,1108,14747
+49,007,97,000,UT,"Carbon County Tot Mig-US",473,1108,14747
+49,007,97,001,UT,"Carbon County Tot Mig-Same St",281,657,8006
+49,007,97,003,UT,"Carbon County Tot Mig-Diff St",192,451,6740
+49,007,49,007,UT,"Carbon County Non-Migrants",6181,15387,257459
+49,007,49,035,UT,"Salt Lake County",81,178,2279
+49,007,49,015,UT,"Emery County",58,127,1597
+49,007,49,049,UT,"Utah County",43,107,1455
+49,007,08,029,CO,"Delta County",11,27,413
+49,007,49,011,UT,"Davis County",11,29,384
+49,007,08,077,CO,"Mesa County",10,16,241
+49,007,49,013,UT,"Duchesne County",10,26,318
+49,007,49,021,UT,"Iron County",10,21,175
+49,007,49,057,UT,"Weber County",10,22,238
+49,007,58,000,SS,"Other Flows - Same State",58,147,1560
+49,007,59,000,DS,"Other Flows - Diff State",171,408,6087
+49,009,96,000,UT,"Daggett County Tot Mig-US & For",34,69,1255
+49,009,97,000,UT,"Daggett County Tot Mig-US",34,69,1255
+49,009,97,001,UT,"Daggett County Tot Mig-Same St",19,42,780
+49,009,97,003,UT,"Daggett County Tot Mig-Diff St",15,27,475
+49,009,49,009,UT,"Daggett County Non-Migrants",235,589,9245
+49,009,58,000,SS,"Other Flows - Same State",19,42,780
+49,009,59,000,DS,"Other Flows - Diff State",15,27,475
+49,011,96,000,UT,"Davis County Tot Mig-US & For",7695,17910,294656
+49,011,97,000,UT,"Davis County Tot Mig-US",7461,17304,287207
+49,011,97,001,UT,"Davis County Tot Mig-Same St",4742,11022,182442
+49,011,97,003,UT,"Davis County Tot Mig-Diff St",2719,6282,104766
+49,011,98,000,UT,"Davis County Tot Mig-Foreign",234,606,7449
+49,011,49,011,UT,"Davis County Non-Migrants",74692,203307,4112329
+49,011,49,035,UT,"Salt Lake County",1978,4596,82865
+49,011,49,057,UT,"Weber County",1844,4168,66026
+49,011,49,049,UT,"Utah County",302,787,10723
+49,011,57,005,FR,"Foreign - APO/FPO ZIPs",211,551,6927
+49,011,49,005,UT,"Cache County",191,460,5782
+49,011,04,013,AZ,"Maricopa County",105,243,4051
+49,011,49,003,UT,"Box Elder County",90,219,5170
+49,011,32,003,NV,"Clark County",89,215,3057
+49,011,49,053,UT,"Washington County",88,197,3409
+49,011,06,037,CA,"Los Angeles County",58,142,1912
+49,011,49,045,UT,"Tooele County",50,135,2374
+49,011,48,029,TX,"Bexar County",42,115,2013
+49,011,06,073,CA,"San Diego County",37,102,2065
+49,011,16,001,ID,"Ada County",36,95,1630
+49,011,49,029,UT,"Morgan County",36,82,1338
+49,011,16,005,ID,"Bannock County",35,64,861
+49,011,48,485,TX,"Wichita County",35,60,818
+49,011,06,067,CA,"Sacramento County",33,76,1540
+49,011,06,059,CA,"Orange County",32,67,1132
+49,011,16,019,ID,"Bonneville County",31,78,1262
+49,011,13,185,GA,"Lowndes County",30,82,956
+49,011,12,091,FL,"Okaloosa County",28,70,1018
+49,011,49,021,UT,"Iron County",27,65,906
+49,011,02,020,AK,"Anchorage Borough",26,68,1063
+49,011,53,033,WA,"King County",26,60,1100
+49,011,06,085,CA,"Santa Clara County",25,47,1286
+49,011,08,005,CO,"Arapahoe County",25,52,1042
+49,011,15,003,HI,"Honolulu County",25,56,1596
+49,011,08,041,CO,"El Paso County",24,53,851
+49,011,49,043,UT,"Summit County",23,60,915
+49,011,06,071,CA,"San Bernardino Count",20,42,828
+49,011,53,053,WA,"Pierce County",20,54,753
+49,011,28,047,MS,"Harrison County",19,27,361
+49,011,32,007,NV,"Elko County",18,45,849
+49,011,49,039,UT,"Sanpete County",18,46,436
+49,011,04,019,AZ,"Pima County",17,32,643
+49,011,06,001,CA,"Alameda County",17,47,871
+49,011,06,013,CA,"Contra Costa County",17,48,1009
+49,011,35,001,NM,"Bernalillo County",17,41,851
+49,011,49,007,UT,"Carbon County",17,38,658
+49,011,53,063,WA,"Spokane County",17,43,531
+49,011,06,065,CA,"Riverside County",16,41,937
+49,011,06,095,CA,"Solano County",16,44,549
+49,011,53,061,WA,"Snohomish County",16,37,886
+49,011,16,083,ID,"Twin Falls County",15,31,522
+49,011,48,201,TX,"Harris County",15,33,748
+49,011,08,001,CO,"Adams County",14,31,475
+49,011,49,051,UT,"Wasatch County",14,26,314
+49,011,02,090,AK,"Fairbanks North Star",13,36,557
+49,011,08,059,CO,"Jefferson County",13,27,545
+49,011,35,035,NM,"Otero County",13,46,537
+49,011,41,067,OR,"Washington County",13,34,523
+49,011,49,047,UT,"Uintah County",13,24,258
+49,011,51,059,VA,"Fairfax County",13,38,967
+49,011,56,041,WY,"Uinta County",13,25,852
+49,011,06,111,CA,"Ventura County",12,32,420
+49,011,16,039,ID,"Elmore County",12,24,312
+49,011,53,011,WA,"Clark County",12,29,981
+49,011,56,037,WY,"Sweetwater County",12,25,138
+49,011,04,015,AZ,"Mohave County",11,20,263
+49,011,12,086,FL,"Miami Dade County",11,23,240
+49,011,17,031,IL,"Cook County",11,19,194
+49,011,25,017,MA,"Middlesex County",11,26,446
+49,011,30,013,MT,"Cascade County",11,21,259
+49,011,32,031,NV,"Washoe County",11,19,444
+49,011,41,051,OR,"Multnomah County",11,28,395
+49,011,06,029,CA,"Kern County",10,27,387
+49,011,06,061,CA,"Placer County",10,15,351
+49,011,06,083,CA,"Santa Barbara County",10,33,474
+49,011,08,031,CO,"Denver County",10,16,325
+49,011,08,035,CO,"Douglas County",10,38,744
+49,011,24,033,MD,"Prince George's Coun",10,28,582
+49,011,48,121,TX,"Denton County",10,19,224
+49,011,49,027,UT,"Millard County",10,22,274
+49,011,58,000,SS,"Other Flows - Same State",41,97,993
+49,011,59,000,DS,"Other Flows - Diff State",1450,3293,53539
+49,011,59,001,DS,"Other Flows - Northeast",143,301,4876
+49,011,59,003,DS,"Other Flows - Midwest",339,770,12517
+49,011,59,005,DS,"Other Flows - South",510,1196,20241
+49,011,59,007,DS,"Other Flows - West",458,1026,15904
+49,011,57,009,FR,"Foreign - Other flows",23,55,521
+49,013,96,000,UT,"Duchesne County Tot Mig-US & For",385,969,11202
+49,013,97,000,UT,"Duchesne County Tot Mig-US",385,969,11202
+49,013,97,001,UT,"Duchesne County Tot Mig-Same St",262,672,7489
+49,013,97,003,UT,"Duchesne County Tot Mig-Diff St",123,297,3714
+49,013,49,013,UT,"Duchesne County Non-Migrants",4205,12035,155027
+49,013,49,035,UT,"Salt Lake County",111,274,3099
+49,013,49,047,UT,"Uintah County",44,111,1194
+49,013,49,049,UT,"Utah County",30,81,1003
+49,013,49,011,UT,"Davis County",16,41,349
+49,013,58,000,SS,"Other Flows - Same State",61,165,1843
+49,013,59,000,DS,"Other Flows - Diff State",123,297,3714
+49,015,96,000,UT,"Emery County Tot Mig-US & For",190,436,5505
+49,015,97,000,UT,"Emery County Tot Mig-US",190,436,5505
+49,015,97,001,UT,"Emery County Tot Mig-Same St",131,303,3521
+49,015,97,003,UT,"Emery County Tot Mig-Diff St",59,133,1984
+49,015,49,015,UT,"Emery County Non-Migrants",3011,8804,128664
+49,015,49,007,UT,"Carbon County",40,102,1158
+49,015,49,049,UT,"Utah County",29,56,755
+49,015,49,035,UT,"Salt Lake County",26,53,599
+49,015,58,000,SS,"Other Flows - Same State",36,92,1008
+49,015,59,000,DS,"Other Flows - Diff State",59,133,1984
+49,017,96,000,UT,"Garfield County Tot Mig-US & For",119,248,2946
+49,017,97,000,UT,"Garfield County Tot Mig-US",119,248,2946
+49,017,97,001,UT,"Garfield County Tot Mig-Same St",63,136,1528
+49,017,97,003,UT,"Garfield County Tot Mig-Diff St",56,112,1418
+49,017,49,017,UT,"Garfield County Non-Migrants",1348,3564,43056
+49,017,49,053,UT,"Washington County",20,29,462
+49,017,49,021,UT,"Iron County",10,25,223
+49,017,58,000,SS,"Other Flows - Same State",33,82,843
+49,017,59,000,DS,"Other Flows - Diff State",56,112,1418
+49,019,96,000,UT,"Grand County Tot Mig-US & For",287,529,9890
+49,019,97,000,UT,"Grand County Tot Mig-US",287,529,9890
+49,019,97,001,UT,"Grand County Tot Mig-Same St",79,160,2127
+49,019,97,003,UT,"Grand County Tot Mig-Diff St",208,369,7762
+49,019,49,019,UT,"Grand County Non-Migrants",2757,5802,92021
+49,019,49,035,UT,"Salt Lake County",32,56,674
+49,019,08,077,CO,"Mesa County",12,28,210
+49,019,49,037,UT,"San Juan County",12,35,372
+49,019,58,000,SS,"Other Flows - Same State",35,69,1082
+49,019,59,000,DS,"Other Flows - Diff State",196,341,7552
+49,019,59,001,DS,"Other Flows - Northeast",16,21,1769
+49,019,59,003,DS,"Other Flows - Midwest",21,32,514
+49,019,59,005,DS,"Other Flows - South",31,49,1023
+49,019,59,007,DS,"Other Flows - West",128,239,4246
+49,021,96,000,UT,"Iron County Tot Mig-US & For",1177,2597,32549
+49,021,97,000,UT,"Iron County Tot Mig-US",1177,2597,32549
+49,021,97,001,UT,"Iron County Tot Mig-Same St",587,1288,13286
+49,021,97,003,UT,"Iron County Tot Mig-Diff St",590,1309,19262
+49,021,49,021,UT,"Iron County Non-Migrants",8811,23886,332588
+49,021,32,003,NV,"Clark County",124,286,4705
+49,021,49,053,UT,"Washington County",121,280,2517
+49,021,49,035,UT,"Salt Lake County",99,224,2702
+49,021,49,049,UT,"Utah County",71,161,1501
+49,021,49,041,UT,"Sevier County",41,81,805
+49,021,49,001,UT,"Beaver County",39,99,1155
+49,021,49,017,UT,"Garfield County",33,66,534
+49,021,06,037,CA,"Los Angeles County",24,47,707
+49,021,49,011,UT,"Davis County",24,61,601
+49,021,49,039,UT,"Sanpete County",24,50,378
+49,021,06,073,CA,"San Diego County",23,45,684
+49,021,49,027,UT,"Millard County",21,33,385
+49,021,04,013,AZ,"Maricopa County",17,43,484
+49,021,49,005,UT,"Cache County",17,30,251
+49,021,49,007,UT,"Carbon County",13,19,310
+49,021,49,015,UT,"Emery County",12,24,348
+49,021,49,025,UT,"Kane County",12,38,405
+49,021,49,057,UT,"Weber County",12,30,290
+49,021,06,059,CA,"Orange County",11,30,310
+49,021,06,085,CA,"Santa Clara County",11,23,390
+49,021,58,000,SS,"Other Flows - Same State",48,92,1104
+49,021,59,000,DS,"Other Flows - Diff State",380,835,11982
+49,021,59,001,DS,"Other Flows - Northeast",16,24,458
+49,021,59,003,DS,"Other Flows - Midwest",56,128,1766
+49,021,59,005,DS,"Other Flows - South",79,148,2613
+49,021,59,007,DS,"Other Flows - West",229,535,7144
+49,023,96,000,UT,"Juab County Tot Mig-US & For",180,464,5638
+49,023,97,000,UT,"Juab County Tot Mig-US",180,464,5638
+49,023,97,001,UT,"Juab County Tot Mig-Same St",150,403,4777
+49,023,97,003,UT,"Juab County Tot Mig-Diff St",30,61,861
+49,023,49,023,UT,"Juab County Non-Migrants",2266,6651,87556
+49,023,49,049,UT,"Utah County",94,262,2790
+49,023,49,035,UT,"Salt Lake County",23,53,873
+49,023,58,000,SS,"Other Flows - Same State",33,88,1113
+49,023,59,000,DS,"Other Flows - Diff State",30,61,861
+49,025,96,000,UT,"Kane County Tot Mig-US & For",224,457,8211
+49,025,97,000,UT,"Kane County Tot Mig-US",224,457,8211
+49,025,97,001,UT,"Kane County Tot Mig-Same St",73,172,2192
+49,025,97,003,UT,"Kane County Tot Mig-Diff St",151,285,6019
+49,025,49,025,UT,"Kane County Non-Migrants",1679,4202,59539
+49,025,49,035,UT,"Salt Lake County",25,47,744
+49,025,04,005,AZ,"Coconino County",22,50,663
+49,025,32,003,NV,"Clark County",13,23,356
+49,025,49,053,UT,"Washington County",13,35,411
+49,025,49,021,UT,"Iron County",12,29,213
+49,025,58,000,SS,"Other Flows - Same State",23,61,824
+49,025,59,000,DS,"Other Flows - Diff State",116,212,5001
+49,027,96,000,UT,"Millard County Tot Mig-US & For",199,516,5967
+49,027,97,000,UT,"Millard County Tot Mig-US",199,516,5967
+49,027,97,001,UT,"Millard County Tot Mig-Same St",122,321,3610
+49,027,97,003,UT,"Millard County Tot Mig-Diff St",77,195,2357
+49,027,49,027,UT,"Millard County Non-Migrants",3221,9771,117222
+49,027,49,049,UT,"Utah County",35,93,1174
+49,027,49,035,UT,"Salt Lake County",29,66,878
+49,027,49,053,UT,"Washington County",10,32,192
+49,027,58,000,SS,"Other Flows - Same State",48,130,1366
+49,027,59,000,DS,"Other Flows - Diff State",77,195,2357
+49,029,96,000,UT,"Morgan County Tot Mig-US & For",179,486,7592
+49,029,97,000,UT,"Morgan County Tot Mig-US",179,486,7592
+49,029,97,001,UT,"Morgan County Tot Mig-Same St",137,359,5288
+49,029,97,003,UT,"Morgan County Tot Mig-Diff St",42,127,2304
+49,029,49,029,UT,"Morgan County Non-Migrants",2175,6315,121193
+49,029,49,057,UT,"Weber County",48,125,1843
+49,029,49,011,UT,"Davis County",31,90,1360
+49,029,49,035,UT,"Salt Lake County",23,56,1053
+49,029,58,000,SS,"Other Flows - Same State",35,88,1033
+49,029,59,000,DS,"Other Flows - Diff State",42,127,2304
+49,031,96,000,UT,"Piute County Tot Mig-US & For",34,69,946
+49,031,97,000,UT,"Piute County Tot Mig-US",34,69,946
+49,031,97,001,UT,"Piute County Tot Mig-Same St",21,47,597
+49,031,97,003,UT,"Piute County Tot Mig-Diff St",13,22,349
+49,031,49,031,UT,"Piute County Non-Migrants",372,994,10674
+49,031,58,000,SS,"Other Flows - Same State",21,47,597
+49,031,59,000,DS,"Other Flows - Diff State",13,22,349
+49,033,96,000,UT,"Rich County Tot Mig-US & For",52,110,2023
+49,033,97,000,UT,"Rich County Tot Mig-US",52,110,2023
+49,033,97,001,UT,"Rich County Tot Mig-Same St",33,70,1452
+49,033,97,003,UT,"Rich County Tot Mig-Diff St",19,40,571
+49,033,49,033,UT,"Rich County Non-Migrants",517,1498,21881
+49,033,49,005,UT,"Cache County",11,16,233
+49,033,49,035,UT,"Salt Lake County",10,21,532
+49,033,58,000,SS,"Other Flows - Same State",12,33,687
+49,033,59,000,DS,"Other Flows - Diff State",19,40,571
+49,035,96,000,UT,"Salt Lake Count Tot Mig-US & For",16698,32045,604052
+49,035,97,000,UT,"Salt Lake Count Tot Mig-US",16143,31307,593811
+49,035,97,001,UT,"Salt Lake Count Tot Mig-Same St",6662,12754,208524
+49,035,97,003,UT,"Salt Lake Count Tot Mig-Diff St",9481,18553,385286
+49,035,98,000,UT,"Salt Lake Count Tot Mig-Foreign",555,738,10242
+49,035,49,035,UT,"Salt Lake Count Non-Migrants",291066,702144,14811568
+49,035,49,049,UT,"Utah County",2121,4236,64255
+49,035,49,011,UT,"Davis County",1602,3060,56273
+49,035,49,057,UT,"Weber County",505,883,15034
+49,035,49,005,UT,"Cache County",422,764,10355
+49,035,49,045,UT,"Tooele County",412,847,13051
+49,035,04,013,AZ,"Maricopa County",408,842,15549
+49,035,06,037,CA,"Los Angeles County",367,803,12940
+49,035,49,053,UT,"Washington County",346,617,9670
+49,035,49,043,UT,"Summit County",329,577,14804
+49,035,32,003,NV,"Clark County",283,571,8792
+49,035,53,033,WA,"King County",227,421,10699
+49,035,06,073,CA,"San Diego County",215,421,7901
+49,035,06,059,CA,"Orange County",179,397,7980
+49,035,49,021,UT,"Iron County",149,295,3925
+49,035,16,001,ID,"Ada County",145,299,6063
+49,035,06,085,CA,"Santa Clara County",141,313,10164
+49,035,06,001,CA,"Alameda County",114,220,5392
+49,035,49,039,UT,"Sanpete County",96,179,2282
+49,035,49,003,UT,"Box Elder County",95,180,2689
+49,035,49,007,UT,"Carbon County",92,162,2646
+49,035,49,051,UT,"Wasatch County",90,178,2973
+49,035,48,201,TX,"Harris County",88,176,5871
+49,035,08,005,CO,"Arapahoe County",87,177,3749
+49,035,15,003,HI,"Honolulu County",85,170,2747
+49,035,16,005,ID,"Bannock County",84,158,2390
+49,035,16,019,ID,"Bonneville County",84,151,2829
+49,035,17,031,IL,"Cook County",81,144,4505
+49,035,04,019,AZ,"Pima County",78,170,4429
+49,035,06,065,CA,"Riverside County",76,167,2959
+49,035,08,059,CO,"Jefferson County",74,137,4223
+49,035,06,075,CA,"San Francisco County",72,94,3478
+49,035,57,005,FR,"Foreign - APO/FPO ZIPs",71,136,2140
+49,035,06,013,CA,"Contra Costa County",70,127,6718
+49,035,08,031,CO,"Denver County",70,107,2722
+49,035,41,051,OR,"Multnomah County",67,124,2187
+49,035,06,071,CA,"San Bernardino Count",66,151,2273
+49,035,49,047,UT,"Uintah County",66,128,1944
+49,035,06,067,CA,"Sacramento County",65,147,2507
+49,035,08,041,CO,"El Paso County",64,149,2980
+49,035,53,011,WA,"Clark County",62,140,2538
+49,035,06,081,CA,"San Mateo County",61,133,4371
+49,035,49,013,UT,"Duchesne County",61,108,1467
+49,035,32,007,NV,"Elko County",59,133,1426
+49,035,32,031,NV,"Washoe County",58,114,1844
+49,035,48,453,TX,"Travis County",58,100,2749
+49,035,41,067,OR,"Washington County",56,113,2469
+49,035,48,113,TX,"Dallas County",56,102,2882
+49,035,49,041,UT,"Sevier County",54,122,1275
+49,035,35,001,NM,"Bernalillo County",47,84,2076
+49,035,16,083,ID,"Twin Falls County",46,92,1054
+49,035,53,053,WA,"Pierce County",46,100,1871
+49,035,06,111,CA,"Ventura County",45,99,1866
+49,035,35,045,NM,"San Juan County",45,99,1222
+49,035,51,059,VA,"Fairfax County",45,84,2365
+49,035,08,013,CO,"Boulder County",44,80,1729
+49,035,25,017,MA,"Middlesex County",44,88,3273
+49,035,56,041,WY,"Uinta County",44,65,1023
+49,035,08,035,CO,"Douglas County",43,89,2524
+49,035,02,020,AK,"Anchorage Borough",42,73,1830
+49,035,16,065,ID,"Madison County",42,73,915
+49,035,48,439,TX,"Tarrant County",42,94,1952
+49,035,49,027,UT,"Millard County",42,77,1094
+49,035,36,061,NY,"New York County",41,64,1849
+49,035,53,061,WA,"Snohomish County",40,85,1915
+49,035,56,037,WY,"Sweetwater County",39,73,1110
+49,035,41,005,OR,"Clackamas County",37,79,1592
+49,035,06,019,CA,"Fresno County",36,83,1191
+49,035,27,053,MN,"Hennepin County",36,61,1311
+49,035,53,063,WA,"Spokane County",36,62,1133
+49,035,12,095,FL,"Orange County",35,68,2671
+49,035,08,001,CO,"Adams County",33,57,1124
+49,035,49,015,UT,"Emery County",33,68,819
+49,035,08,077,CO,"Mesa County",32,81,1048
+49,035,56,023,WY,"Lincoln County",32,53,941
+49,035,12,086,FL,"Miami Dade County",30,69,1061
+49,035,48,029,TX,"Bexar County",30,71,1340
+49,035,04,005,AZ,"Coconino County",29,51,693
+49,035,08,069,CO,"Larimer County",29,62,1002
+49,035,16,011,ID,"Bingham County",28,49,647
+49,035,24,031,MD,"Montgomery County",28,61,1320
+49,035,30,063,MT,"Missoula County",28,44,793
+49,035,04,015,AZ,"Mohave County",27,53,440
+49,035,41,039,OR,"Lane County",27,47,789
+49,035,53,005,WA,"Benton County",27,63,1377
+49,035,16,031,ID,"Cassia County",26,50,748
+49,035,17,043,IL,"Du Page County",26,44,1232
+49,035,30,111,MT,"Yellowstone County",26,59,1179
+49,035,49,019,UT,"Grand County",26,40,659
+49,035,56,039,WY,"Teton County",26,35,643
+49,035,06,097,CA,"Sonoma County",25,54,1061
+49,035,06,099,CA,"Stanislaus County",25,53,1022
+49,035,25,025,MA,"Suffolk County",25,33,1030
+49,035,36,047,NY,"Kings County",25,41,1053
+49,035,48,085,TX,"Collin County",25,63,1890
+49,035,48,141,TX,"El Paso County",25,70,933
+49,035,49,037,UT,"San Juan County",25,42,453
+49,035,06,053,CA,"Monterey County",24,65,788
+49,035,18,097,IN,"Marion County",24,46,856
+49,035,49,023,UT,"Juab County",24,56,508
+49,035,04,001,AZ,"Apache County",23,64,360
+49,035,31,055,NE,"Douglas County",23,53,770
+49,035,37,183,NC,"Wake County",23,39,1104
+49,035,06,061,CA,"Placer County",22,60,1384
+49,035,06,087,CA,"Santa Cruz County",22,43,671
+49,035,12,011,FL,"Broward County",22,37,653
+49,035,26,125,MI,"Oakland County",22,46,765
+49,035,06,029,CA,"Kern County",21,53,1016
+49,035,35,031,NM,"Mckinley County",20,54,382
+49,035,40,143,OK,"Tulsa County",20,29,900
+49,035,47,157,TN,"Shelby County",20,31,803
+49,035,53,067,WA,"Thurston County",20,37,637
+49,035,55,025,WI,"Dane County",20,27,802
+49,035,11,001,DC,"District Of Columbia",19,30,765
+49,035,12,103,FL,"Pinellas County",19,34,739
+49,035,13,067,GA,"Cobb County",19,37,745
+49,035,36,081,NY,"Queens County",19,36,541
+49,035,37,119,NC,"Mecklenburg County",19,41,1293
+49,035,40,109,OK,"Oklahoma County",19,48,1050
+49,035,41,047,OR,"Marion County",19,32,481
+49,035,42,003,PA,"Allegheny County",19,42,1144
+49,035,56,021,WY,"Laramie County",19,38,778
+49,035,16,027,ID,"Canyon County",18,23,529
+49,035,20,173,KS,"Sedgwick County",18,37,591
+49,035,39,035,OH,"Cuyahoga County",18,46,820
+49,035,39,061,OH,"Hamilton County",18,33,1130
+49,035,41,029,OR,"Jackson County",18,32,558
+49,035,53,035,WA,"Kitsap County",18,32,481
+49,035,06,077,CA,"San Joaquin County",17,48,556
+49,035,06,095,CA,"Solano County",17,32,586
+49,035,13,121,GA,"Fulton County",17,26,886
+49,035,13,135,GA,"Gwinnett County",17,30,556
+49,035,16,051,ID,"Jefferson County",17,28,450
+49,035,29,189,MO,"St Louis County",17,38,1628
+49,035,47,037,TN,"Davidson County",17,23,855
+49,035,06,007,CA,"Butte County",16,30,423
+49,035,06,083,CA,"Santa Barbara County",16,29,784
+49,035,06,107,CA,"Tulare County",16,42,531
+49,035,08,037,CO,"Eagle County",16,24,509
+49,035,08,123,CO,"Weld County",16,41,705
+49,035,13,089,GA,"De Kalb County",16,37,717
+49,035,20,091,KS,"Johnson County",16,37,1181
+49,035,30,013,MT,"Cascade County",16,41,665
+49,035,30,031,MT,"Gallatin County",16,23,409
+49,035,56,001,WY,"Albany County",16,31,586
+49,035,06,041,CA,"Marin County",15,29,594
+49,035,12,031,FL,"Duval County",15,27,487
+49,035,12,057,FL,"Hillsborough County",15,35,771
+49,035,12,099,FL,"Palm Beach County",15,30,550
+49,035,16,043,ID,"Fremont County",15,25,226
+49,035,30,029,MT,"Flathead County",15,26,443
+49,035,34,003,NJ,"Bergen County",15,24,493
+49,035,36,029,NY,"Erie County",15,24,804
+49,035,36,055,NY,"Monroe County",15,24,768
+49,035,36,059,NY,"Nassau County",15,45,894
+49,035,49,025,UT,"Kane County",15,28,415
+49,035,49,029,UT,"Morgan County",15,30,663
+49,035,51,810,VA,"Virginia Beach",15,26,374
+49,035,55,079,WI,"Milwaukee County",15,33,913
+49,035,04,027,AZ,"Yuma County",14,29,444
+49,035,09,009,CT,"New Haven County",14,30,896
+49,035,16,013,ID,"Blaine County",14,21,718
+49,035,26,161,MI,"Washtenaw County",14,24,977
+49,035,30,049,MT,"Lewis And Clark Coun",14,27,640
+49,035,33,011,NH,"Hillsborough County",14,18,382
+49,035,48,339,TX,"Montgomery County",14,35,895
+49,035,51,087,VA,"Henrico County",14,42,782
+49,035,06,113,CA,"Yolo County",13,22,421
+49,035,15,009,HI,"Maui County",13,24,381
+49,035,17,097,IL,"Lake County",13,25,400
+49,035,27,123,MN,"Ramsey County",13,31,683
+49,035,36,119,NY,"Westchester County",13,37,2222
+49,035,37,063,NC,"Durham County",13,24,783
+49,035,39,049,OH,"Franklin County",13,25,379
+49,035,42,091,PA,"Montgomery County",13,32,619
+49,035,42,101,PA,"Philadelphia County",13,15,1007
+49,035,46,103,SD,"Pennington County",13,22,1356
+49,035,48,121,TX,"Denton County",13,38,1098
+49,035,51,013,VA,"Arlington County",13,13,496
+49,035,51,510,VA,Alexandria,13,23,519
+49,035,53,077,WA,"Yakima County",13,30,293
+49,035,01,089,AL,"Madison County",12,26,758
+49,035,19,103,IA,"Johnson County",12,22,476
+49,035,25,009,MA,"Essex County",12,20,820
+49,035,29,095,MO,"Jackson County",12,19,488
+49,035,37,051,NC,"Cumberland County",12,24,352
+49,035,41,017,OR,"Deschutes County",12,25,305
+49,035,45,079,SC,"Richland County",12,21,483
+49,035,06,057,CA,"Nevada County",11,19,266
+49,035,06,079,CA,"San Luis Obispo Coun",11,15,316
+49,035,08,051,CO,"Gunnison County",11,12,200
+49,035,12,071,FL,"Lee County",11,21,690
+49,035,26,163,MI,"Wayne County",11,26,383
+49,035,34,025,NJ,"Monmouth County",11,25,462
+49,035,37,133,NC,"Onslow County",11,23,237
+49,035,47,093,TN,"Knox County",11,19,327
+49,035,48,041,TX,"Brazos County",11,24,378
+49,035,49,017,UT,"Garfield County",11,23,360
+49,035,50,007,VT,"Chittenden County",11,20,773
+49,035,02,090,AK,"Fairbanks North Star",10,11,176
+49,035,08,101,CO,"Pueblo County",10,14,280
+49,035,09,001,CT,"Fairfield County",10,13,730
+49,035,16,057,ID,"Latah County",10,17,234
+49,035,17,019,IL,"Champaign County",10,15,754
+49,035,18,003,IN,"Allen County",10,20,370
+49,035,19,153,IA,"Polk County",10,14,419
+49,035,21,067,KY,"Fayette County",10,15,296
+49,035,21,111,KY,"Jefferson County",10,15,485
+49,035,24,005,MD,"Baltimore County",10,17,668
+49,035,24,510,MD,Baltimore,10,15,374
+49,035,25,027,MA,"Worcester County",10,20,473
+49,035,26,081,MI,"Kent County",10,27,251
+49,035,30,081,MT,"Ravalli County",10,21,388
+49,035,35,043,NM,"Sandoval County",10,17,407
+49,035,36,103,NY,"Suffolk County",10,17,474
+49,035,44,005,RI,"Newport County",10,15,208
+49,035,45,063,SC,"Lexington County",10,12,335
+49,035,48,027,TX,"Bell County",10,24,229
+49,035,49,055,UT,"Wayne County",10,16,326
+49,035,51,153,VA,"Prince William Count",10,23,491
+49,035,53,073,WA,"Whatcom County",10,11,166
+49,035,58,000,SS,"Other Flows - Same State",21,38,585
+49,035,59,000,DS,"Other Flows - Diff State",2510,4690,89926
+49,035,59,001,DS,"Other Flows - Northeast",398,677,17014
+49,035,59,003,DS,"Other Flows - Midwest",635,1191,23041
+49,035,59,005,DS,"Other Flows - South",820,1591,30135
+49,035,59,007,DS,"Other Flows - West",657,1231,19736
+49,035,57,009,FR,"Foreign - Other flows",484,602,8101
+49,037,96,000,UT,"San Juan County Tot Mig-US & For",331,877,8657
+49,037,97,000,UT,"San Juan County Tot Mig-US",331,877,8657
+49,037,97,001,UT,"San Juan County Tot Mig-Same St",96,224,2105
+49,037,97,003,UT,"San Juan County Tot Mig-Diff St",235,653,6552
+49,037,49,037,UT,"San Juan County Non-Migrants",2296,6574,78050
+49,037,35,045,NM,"San Juan County",85,301,1755
+49,037,49,035,UT,"Salt Lake County",31,54,593
+49,037,04,001,AZ,"Apache County",23,61,500
+49,037,49,005,UT,"Cache County",13,31,236
+49,037,49,049,UT,"Utah County",13,37,282
+49,037,04,017,AZ,"Navajo County",10,28,177
+49,037,58,000,SS,"Other Flows - Same State",39,102,993
+49,037,59,000,DS,"Other Flows - Diff State",117,263,4121
+49,039,96,000,UT,"Sanpete County Tot Mig-US & For",453,1155,13544
+49,039,97,000,UT,"Sanpete County Tot Mig-US",453,1155,13544
+49,039,97,001,UT,"Sanpete County Tot Mig-Same St",331,838,9669
+49,039,97,003,UT,"Sanpete County Tot Mig-Diff St",122,317,3875
+49,039,49,039,UT,"Sanpete County Non-Migrants",5443,16242,202783
+49,039,49,035,UT,"Salt Lake County",96,221,3049
+49,039,49,049,UT,"Utah County",95,234,2923
+49,039,49,053,UT,"Washington County",19,44,330
+49,039,49,041,UT,"Sevier County",18,46,349
+49,039,32,003,NV,"Clark County",13,32,317
+49,039,49,005,UT,"Cache County",13,33,258
+49,039,49,023,UT,"Juab County",13,41,255
+49,039,49,011,UT,"Davis County",12,34,717
+49,039,58,000,SS,"Other Flows - Same State",65,185,1789
+49,039,59,000,DS,"Other Flows - Diff State",109,285,3557
+49,041,96,000,UT,"Sevier County Tot Mig-US & For",337,857,10757
+49,041,97,000,UT,"Sevier County Tot Mig-US",337,857,10757
+49,041,97,001,UT,"Sevier County Tot Mig-Same St",237,614,7204
+49,041,97,003,UT,"Sevier County Tot Mig-Diff St",100,243,3553
+49,041,49,041,UT,"Sevier County Non-Migrants",5262,14727,206224
+49,041,49,035,UT,"Salt Lake County",62,145,2181
+49,041,49,049,UT,"Utah County",47,117,1258
+49,041,49,039,UT,"Sanpete County",20,56,618
+49,041,49,053,UT,"Washington County",19,51,440
+49,041,49,011,UT,"Davis County",16,50,683
+49,041,32,003,NV,"Clark County",14,30,399
+49,041,49,021,UT,"Iron County",13,30,368
+49,041,58,000,SS,"Other Flows - Same State",60,165,1657
+49,041,59,000,DS,"Other Flows - Diff State",86,213,3154
+49,043,96,000,UT,"Summit County Tot Mig-US & For",1374,2546,98869
+49,043,97,000,UT,"Summit County Tot Mig-US",1314,2475,97245
+49,043,97,001,UT,"Summit County Tot Mig-Same St",565,1164,31821
+49,043,97,003,UT,"Summit County Tot Mig-Diff St",749,1311,65423
+49,043,98,000,UT,"Summit County Tot Mig-Foreign",60,71,1624
+49,043,49,043,UT,"Summit County Non-Migrants",9410,22127,750355
+49,043,49,035,UT,"Salt Lake County",360,712,23563
+49,043,49,051,UT,"Wasatch County",64,121,2558
+49,043,49,049,UT,"Utah County",40,84,1204
+49,043,49,011,UT,"Davis County",31,76,1716
+49,043,04,013,AZ,"Maricopa County",29,47,1868
+49,043,06,037,CA,"Los Angeles County",29,62,-224
+49,043,49,057,UT,"Weber County",25,49,1060
+49,043,06,059,CA,"Orange County",22,33,1621
+49,043,06,073,CA,"San Diego County",15,24,1047
+49,043,06,075,CA,"San Francisco County",15,18,1472
+49,043,32,003,NV,"Clark County",15,25,4444
+49,043,17,031,IL,"Cook County",13,18,860
+49,043,53,033,WA,"King County",12,27,688
+49,043,36,061,NY,"New York County",11,15,1211
+49,043,49,005,UT,"Cache County",11,29,408
+49,043,58,000,SS,"Other Flows - Same State",34,93,1312
+49,043,59,000,DS,"Other Flows - Diff State",588,1042,52436
+49,043,59,001,DS,"Other Flows - Northeast",110,181,7188
+49,043,59,003,DS,"Other Flows - Midwest",80,134,5988
+49,043,59,005,DS,"Other Flows - South",154,295,25037
+49,043,59,007,DS,"Other Flows - West",244,432,14223
+49,043,57,009,FR,"Foreign - Other flows",60,71,1624
+49,045,96,000,UT,"Tooele County Tot Mig-US & For",1555,3880,55359
+49,045,97,000,UT,"Tooele County Tot Mig-US",1539,3845,54415
+49,045,97,001,UT,"Tooele County Tot Mig-Same St",1097,2799,39810
+49,045,97,003,UT,"Tooele County Tot Mig-Diff St",442,1046,14605
+49,045,98,000,UT,"Tooele County Tot Mig-Foreign",16,35,944
+49,045,49,045,UT,"Tooele County Non-Migrants",13057,35221,590793
+49,045,49,035,UT,"Salt Lake County",861,2175,31878
+49,045,49,049,UT,"Utah County",64,184,2410
+49,045,49,011,UT,"Davis County",63,162,2618
+49,045,32,007,NV,"Elko County",46,104,1064
+49,045,06,037,CA,"Los Angeles County",36,63,1069
+49,045,49,057,UT,"Weber County",20,46,558
+49,045,32,003,NV,"Clark County",19,37,343
+49,045,49,005,UT,"Cache County",15,30,404
+49,045,04,013,AZ,"Maricopa County",10,27,323
+49,045,58,000,SS,"Other Flows - Same State",74,202,1942
+49,045,59,000,DS,"Other Flows - Diff State",331,815,11807
+49,045,59,001,DS,"Other Flows - Northeast",14,28,1220
+49,045,59,003,DS,"Other Flows - Midwest",39,95,1302
+49,045,59,005,DS,"Other Flows - South",59,127,2116
+49,045,59,007,DS,"Other Flows - West",219,565,7169
+49,045,57,009,FR,"Foreign - Other flows",16,35,944
+49,047,96,000,UT,"Uintah County Tot Mig-US & For",564,1296,19628
+49,047,97,000,UT,"Uintah County Tot Mig-US",564,1296,19628
+49,047,97,001,UT,"Uintah County Tot Mig-Same St",296,662,8114
+49,047,97,003,UT,"Uintah County Tot Mig-Diff St",268,634,11514
+49,047,49,047,UT,"Uintah County Non-Migrants",6917,18867,297599
+49,047,49,035,UT,"Salt Lake County",109,227,3234
+49,047,49,013,UT,"Duchesne County",57,148,1516
+49,047,49,049,UT,"Utah County",40,86,953
+49,047,49,005,UT,"Cache County",15,28,218
+49,047,49,007,UT,"Carbon County",14,39,356
+49,047,49,011,UT,"Davis County",12,30,349
+49,047,49,057,UT,"Weber County",11,36,428
+49,047,58,000,SS,"Other Flows - Same State",38,68,1059
+49,047,59,000,DS,"Other Flows - Diff State",268,634,11514
+49,049,96,000,UT,"Utah County Tot Mig-US & For",8580,18934,293351
+49,049,97,000,UT,"Utah County Tot Mig-US",8299,18550,290916
+49,049,97,001,UT,"Utah County Tot Mig-Same St",3470,8207,123645
+49,049,97,003,UT,"Utah County Tot Mig-Diff St",4829,10343,167271
+49,049,98,000,UT,"Utah County Tot Mig-Foreign",281,384,2435
+49,049,49,049,UT,"Utah County Non-Migrants",98593,285421,4744406
+49,049,49,035,UT,"Salt Lake County",1926,4589,74332
+49,049,49,011,UT,"Davis County",286,729,11201
+49,049,04,013,AZ,"Maricopa County",232,467,6798
+49,049,49,053,UT,"Washington County",184,435,6001
+49,049,06,037,CA,"Los Angeles County",160,341,5428
+49,049,32,003,NV,"Clark County",156,355,4591
+49,049,49,005,UT,"Cache County",142,315,3509
+49,049,06,059,CA,"Orange County",122,236,3594
+49,049,49,039,UT,"Sanpete County",119,288,3338
+49,049,49,057,UT,"Weber County",116,249,3328
+49,049,53,033,WA,"King County",108,207,3167
+49,049,06,073,CA,"San Diego County",99,204,2921
+49,049,16,001,ID,"Ada County",91,178,2759
+49,049,49,023,UT,"Juab County",81,193,2496
+49,049,49,021,UT,"Iron County",75,220,2305
+49,049,16,065,ID,"Madison County",74,153,1598
+49,049,49,051,UT,"Wasatch County",73,169,2941
+49,049,06,085,CA,"Santa Clara County",71,182,7172
+49,049,16,019,ID,"Bonneville County",69,132,1745
+49,049,15,003,HI,"Honolulu County",65,135,2308
+49,049,49,027,UT,"Millard County",63,120,1519
+49,049,06,071,CA,"San Bernardino Count",62,145,2091
+49,049,06,065,CA,"Riverside County",56,82,1358
+49,049,49,045,UT,"Tooele County",56,117,1796
+49,049,41,067,OR,"Washington County",55,119,1514
+49,049,49,041,UT,"Sevier County",54,125,1659
+49,049,06,067,CA,"Sacramento County",52,101,1306
+49,049,48,201,TX,"Harris County",49,104,1363
+49,049,06,013,CA,"Contra Costa County",47,105,2150
+49,049,49,007,UT,"Carbon County",47,119,1815
+49,049,49,047,UT,"Uintah County",46,100,1568
+49,049,06,111,CA,"Ventura County",43,97,1751
+49,049,49,013,UT,"Duchesne County",40,86,897
+49,049,16,005,ID,"Bannock County",38,86,1219
+49,049,53,011,WA,"Clark County",38,88,1197
+49,049,53,061,WA,"Snohomish County",38,91,1209
+49,049,49,003,UT,"Box Elder County",37,90,1071
+49,049,06,001,CA,"Alameda County",35,84,2042
+49,049,53,053,WA,"Pierce County",35,70,989
+49,049,08,005,CO,"Arapahoe County",31,59,825
+49,049,08,041,CO,"El Paso County",31,87,1581
+49,049,49,043,UT,"Summit County",31,70,1486
+49,049,53,063,WA,"Spokane County",31,53,639
+49,049,08,059,CO,"Jefferson County",30,83,3078
+49,049,51,059,VA,"Fairfax County",29,67,1606
+49,049,56,041,WY,"Uinta County",28,56,637
+49,049,04,019,AZ,"Pima County",26,65,940
+49,049,49,015,UT,"Emery County",26,45,680
+49,049,16,011,ID,"Bingham County",25,54,559
+49,049,32,031,NV,"Washoe County",25,58,548
+49,049,06,019,CA,"Fresno County",23,41,427
+49,049,35,001,NM,"Bernalillo County",23,52,1904
+49,049,49,037,UT,"San Juan County",23,35,401
+49,049,06,029,CA,"Kern County",22,42,599
+49,049,16,083,ID,"Twin Falls County",22,42,457
+49,049,41,005,OR,"Clackamas County",22,53,562
+49,049,48,113,TX,"Dallas County",22,39,562
+49,049,53,035,WA,"Kitsap County",22,45,505
+49,049,06,077,CA,"San Joaquin County",21,43,695
+49,049,08,077,CO,"Mesa County",21,44,507
+49,049,35,045,NM,"San Juan County",21,37,620
+49,049,53,005,WA,"Benton County",21,35,426
+49,049,06,097,CA,"Sonoma County",19,36,618
+49,049,08,035,CO,"Douglas County",19,49,903
+49,049,08,069,CO,"Larimer County",19,54,597
+49,049,48,085,TX,"Collin County",19,40,678
+49,049,48,453,TX,"Travis County",19,51,1541
+49,049,53,067,WA,"Thurston County",19,30,476
+49,049,06,061,CA,"Placer County",18,35,636
+49,049,41,051,OR,"Multnomah County",18,28,366
+49,049,48,439,TX,"Tarrant County",18,43,965
+49,049,04,005,AZ,"Coconino County",17,37,337
+49,049,06,053,CA,"Monterey County",17,45,578
+49,049,16,027,ID,"Canyon County",17,39,493
+49,049,16,031,ID,"Cassia County",17,35,532
+49,049,17,031,IL,"Cook County",17,30,456
+49,049,56,037,WY,"Sweetwater County",17,34,524
+49,049,06,095,CA,"Solano County",16,39,876
+49,049,16,051,ID,"Jefferson County",16,35,276
+49,049,56,023,WY,"Lincoln County",16,40,627
+49,049,02,020,AK,"Anchorage Borough",15,30,462
+49,049,06,007,CA,"Butte County",15,21,251
+49,049,06,107,CA,"Tulare County",15,26,338
+49,049,08,013,CO,"Boulder County",15,52,1235
+49,049,24,031,MD,"Montgomery County",15,30,544
+49,049,26,125,MI,"Oakland County",15,28,435
+49,049,32,007,NV,"Elko County",15,35,497
+49,049,48,141,TX,"El Paso County",15,41,471
+49,049,06,099,CA,"Stanislaus County",14,31,434
+49,049,08,001,CO,"Adams County",14,30,473
+49,049,29,047,MO,"Clay County",14,25,334
+49,049,36,055,NY,"Monroe County",14,31,670
+49,049,41,039,OR,"Lane County",14,25,252
+49,049,48,121,TX,"Denton County",14,56,1140
+49,049,04,025,AZ,"Yavapai County",13,45,350
+49,049,06,079,CA,"San Luis Obispo Coun",13,39,631
+49,049,17,043,IL,"Du Page County",13,29,525
+49,049,48,029,TX,"Bexar County",13,32,310
+49,049,53,073,WA,"Whatcom County",13,25,216
+49,049,06,083,CA,"Santa Barbara County",12,24,377
+49,049,12,086,FL,"Miami Dade County",12,29,281
+49,049,27,053,MN,"Hennepin County",12,29,715
+49,049,30,111,MT,"Yellowstone County",12,20,270
+49,049,57,005,FR,"Foreign - APO/FPO ZIPs",12,16,342
+49,049,06,017,CA,"El Dorado County",11,16,193
+49,049,08,101,CO,"Pueblo County",11,23,209
+49,049,12,057,FL,"Hillsborough County",11,24,442
+49,049,12,095,FL,"Orange County",11,22,370
+49,049,13,067,GA,"Cobb County",11,21,346
+49,049,16,043,ID,"Fremont County",11,26,277
+49,049,25,017,MA,"Middlesex County",11,26,515
+49,049,29,189,MO,"St Louis County",11,20,268
+49,049,36,081,NY,"Queens County",11,27,248
+49,049,56,021,WY,"Laramie County",11,24,5742
+49,049,02,170,AK,"Matanuska Susitna Bo",10,22,219
+49,049,04,015,AZ,"Mohave County",10,19,156
+49,049,04,017,AZ,"Navajo County",10,29,208
+49,049,06,081,CA,"San Mateo County",10,21,418
+49,049,08,031,CO,"Denver County",10,20,377
+49,049,16,041,ID,"Franklin County",10,22,269
+49,049,41,047,OR,"Marion County",10,22,256
+49,049,48,157,TX,"Fort Bend County",10,32,263
+49,049,58,000,SS,"Other Flows - Same State",45,113,1303
+49,049,59,000,DS,"Other Flows - Diff State",1713,3677,55854
+49,049,59,001,DS,"Other Flows - Northeast",229,492,7418
+49,049,59,003,DS,"Other Flows - Midwest",396,882,14004
+49,049,59,005,DS,"Other Flows - South",556,1200,18040
+49,049,59,007,DS,"Other Flows - West",532,1103,16392
+49,049,57,009,FR,"Foreign - Other flows",269,368,2093
+49,051,96,000,UT,"Wasatch County Tot Mig-US & For",582,1411,24370
+49,051,97,000,UT,"Wasatch County Tot Mig-US",582,1411,24370
+49,051,97,001,UT,"Wasatch County Tot Mig-Same St",405,984,16838
+49,051,97,003,UT,"Wasatch County Tot Mig-Diff St",177,427,7532
+49,051,49,051,UT,"Wasatch County Non-Migrants",4355,11815,222557
+49,051,49,035,UT,"Salt Lake County",117,296,6014
+49,051,49,049,UT,"Utah County",114,288,4615
+49,051,49,043,UT,"Summit County",101,186,3011
+49,051,49,011,UT,"Davis County",14,43,732
+49,051,04,013,AZ,"Maricopa County",11,32,599
+49,051,32,003,NV,"Clark County",11,26,499
+49,051,49,013,UT,"Duchesne County",10,18,320
+49,051,58,000,SS,"Other Flows - Same State",49,153,2146
+49,051,59,000,DS,"Other Flows - Diff State",155,369,6433
+49,051,59,001,DS,"Other Flows - Northeast",12,17,481
+49,051,59,003,DS,"Other Flows - Midwest",19,37,881
+49,051,59,005,DS,"Other Flows - South",31,67,1466
+49,051,59,007,DS,"Other Flows - West",93,248,3606
+49,053,96,000,UT,"Washington Coun Tot Mig-US & For",3296,7555,116084
+49,053,97,000,UT,"Washington Coun Tot Mig-US",3283,7525,115653
+49,053,97,001,UT,"Washington Coun Tot Mig-Same St",1585,3818,48040
+49,053,97,003,UT,"Washington Coun Tot Mig-Diff St",1698,3707,67613
+49,053,98,000,UT,"Washington Coun Tot Mig-Foreign",13,30,431
+49,053,49,053,UT,"Washington Coun Non-Migrants",25038,65674,1035143
+49,053,49,035,UT,"Salt Lake County",605,1524,23298
+49,053,32,003,NV,"Clark County",264,580,8235
+49,053,49,049,UT,"Utah County",241,566,3655
+49,053,49,021,UT,"Iron County",173,397,4246
+49,053,49,011,UT,"Davis County",132,344,4346
+49,053,06,037,CA,"Los Angeles County",83,186,3261
+49,053,49,057,UT,"Weber County",72,159,2383
+49,053,49,005,UT,"Cache County",66,159,1922
+49,053,04,013,AZ,"Maricopa County",59,129,1717
+49,053,49,041,UT,"Sevier County",49,102,960
+49,053,04,015,AZ,"Mohave County",44,159,893
+49,053,06,073,CA,"San Diego County",44,90,1773
+49,053,06,059,CA,"Orange County",39,102,1950
+49,053,04,005,AZ,"Coconino County",30,72,661
+49,053,06,071,CA,"San Bernardino Count",29,52,957
+49,053,49,025,UT,"Kane County",29,64,664
+49,053,06,065,CA,"Riverside County",26,49,756
+49,053,49,027,UT,"Millard County",24,61,510
+49,053,49,001,UT,"Beaver County",22,40,431
+49,053,16,019,ID,"Bonneville County",19,41,885
+49,053,49,017,UT,"Garfield County",17,26,378
+49,053,49,003,UT,"Box Elder County",16,39,454
+49,053,49,039,UT,"Sanpete County",16,47,392
+49,053,49,043,UT,"Summit County",16,33,863
+49,053,53,033,WA,"King County",16,25,714
+49,053,06,085,CA,"Santa Clara County",15,24,854
+49,053,08,059,CO,"Jefferson County",15,22,750
+49,053,49,051,UT,"Wasatch County",15,35,497
+49,053,56,041,WY,"Uinta County",14,33,713
+49,053,06,097,CA,"Sonoma County",13,23,809
+49,053,49,007,UT,"Carbon County",13,36,284
+49,053,49,013,UT,"Duchesne County",13,32,318
+49,053,53,061,WA,"Snohomish County",13,26,712
+49,053,56,037,WY,"Sweetwater County",13,22,465
+49,053,08,077,CO,"Mesa County",12,20,392
+49,053,49,045,UT,"Tooele County",12,34,481
+49,053,06,001,CA,"Alameda County",11,19,648
+49,053,06,029,CA,"Kern County",11,32,685
+49,053,06,067,CA,"Sacramento County",11,25,324
+49,053,08,069,CO,"Larimer County",11,22,331
+49,053,04,025,AZ,"Yavapai County",10,20,277
+49,053,08,005,CO,"Arapahoe County",10,27,502
+49,053,16,001,ID,"Ada County",10,31,546
+49,053,17,031,IL,"Cook County",10,22,737
+49,053,32,007,NV,"Elko County",10,23,242
+49,053,41,067,OR,"Washington County",10,19,563
+49,053,49,015,UT,"Emery County",10,23,506
+49,053,56,023,WY,"Lincoln County",10,25,414
+49,053,58,000,SS,"Other Flows - Same State",44,97,1454
+49,053,59,000,DS,"Other Flows - Diff State",836,1787,35845
+49,053,59,001,DS,"Other Flows - Northeast",66,119,3089
+49,053,59,003,DS,"Other Flows - Midwest",149,336,6640
+49,053,59,005,DS,"Other Flows - South",170,376,7899
+49,053,59,007,DS,"Other Flows - West",451,956,18216
+49,053,57,009,FR,"Foreign - Other flows",13,30,431
+49,055,96,000,UT,"Wayne County Tot Mig-US & For",78,142,1933
+49,055,97,000,UT,"Wayne County Tot Mig-US",78,142,1933
+49,055,97,001,UT,"Wayne County Tot Mig-Same St",45,96,1382
+49,055,97,003,UT,"Wayne County Tot Mig-Diff St",33,46,551
+49,055,49,055,UT,"Wayne County Non-Migrants",714,1934,21743
+49,055,49,035,UT,"Salt Lake County",13,21,678
+49,055,58,000,SS,"Other Flows - Same State",32,75,705
+49,055,59,000,DS,"Other Flows - Diff State",33,46,551
+49,057,96,000,UT,"Weber County Tot Mig-US & For",5158,11272,174206
+49,057,97,000,UT,"Weber County Tot Mig-US",5031,10989,170329
+49,057,97,001,UT,"Weber County Tot Mig-Same St",3188,6947,102347
+49,057,97,003,UT,"Weber County Tot Mig-Diff St",1843,4042,67982
+49,057,98,000,UT,"Weber County Tot Mig-Foreign",127,283,3877
+49,057,49,057,UT,"Weber County Non-Migrants",62722,153839,2891874
+49,057,49,011,UT,"Davis County",1973,4384,64053
+49,057,49,035,UT,"Salt Lake County",486,965,15893
+49,057,49,003,UT,"Box Elder County",205,448,6764
+49,057,49,005,UT,"Cache County",134,296,3939
+49,057,49,049,UT,"Utah County",130,283,3766
+49,057,57,005,FR,"Foreign - APO/FPO ZIPs",92,238,3541
+49,057,49,029,UT,"Morgan County",70,154,2474
+49,057,32,003,NV,"Clark County",59,114,7236
+49,057,06,037,CA,"Los Angeles County",56,151,1716
+49,057,04,013,AZ,"Maricopa County",54,128,2005
+49,057,49,053,UT,"Washington County",53,112,1606
+49,057,06,073,CA,"San Diego County",37,82,1430
+49,057,16,005,ID,"Bannock County",31,57,1116
+49,057,49,045,UT,"Tooele County",28,55,829
+49,057,56,041,WY,"Uinta County",27,51,997
+49,057,06,071,CA,"San Bernardino Count",25,57,767
+49,057,53,033,WA,"King County",25,53,1199
+49,057,08,041,CO,"El Paso County",24,58,655
+49,057,06,085,CA,"Santa Clara County",23,40,983
+49,057,16,001,ID,"Ada County",22,51,622
+49,057,06,067,CA,"Sacramento County",21,32,690
+49,057,06,059,CA,"Orange County",19,51,604
+49,057,04,019,AZ,"Pima County",18,45,649
+49,057,06,065,CA,"Riverside County",18,41,648
+49,057,02,020,AK,"Anchorage Borough",17,49,467
+49,057,49,043,UT,"Summit County",17,32,612
+49,057,06,111,CA,"Ventura County",16,43,408
+49,057,08,059,CO,"Jefferson County",16,34,542
+49,057,49,041,UT,"Sevier County",16,25,404
+49,057,53,061,WA,"Snohomish County",16,43,825
+49,057,08,005,CO,"Arapahoe County",15,30,558
+49,057,16,019,ID,"Bonneville County",14,32,350
+49,057,35,001,NM,"Bernalillo County",13,24,586
+49,057,48,439,TX,"Tarrant County",13,38,790
+49,057,06,001,CA,"Alameda County",11,20,426
+49,057,16,065,ID,"Madison County",11,22,194
+49,057,32,007,NV,"Elko County",11,18,497
+49,057,32,031,NV,"Washoe County",11,26,523
+49,057,48,029,TX,"Bexar County",11,22,431
+49,057,53,053,WA,"Pierce County",11,19,227
+49,057,56,023,WY,"Lincoln County",11,23,310
+49,057,04,021,AZ,"Pinal County",10,34,276
+49,057,06,013,CA,"Contra Costa County",10,27,442
+49,057,08,001,CO,"Adams County",10,25,282
+49,057,15,003,HI,"Honolulu County",10,39,487
+49,057,16,083,ID,"Twin Falls County",10,28,392
+49,057,49,007,UT,"Carbon County",10,25,222
+49,057,49,013,UT,"Duchesne County",10,27,158
+49,057,49,021,UT,"Iron County",10,23,342
+49,057,49,039,UT,"Sanpete County",10,23,231
+49,057,51,059,VA,"Fairfax County",10,16,607
+49,057,53,063,WA,"Spokane County",10,22,213
+49,057,58,000,SS,"Other Flows - Same State",36,95,1054
+49,057,59,000,DS,"Other Flows - Diff State",1117,2397,36834
+49,057,59,001,DS,"Other Flows - Northeast",78,132,2426
+49,057,59,003,DS,"Other Flows - Midwest",217,492,7457
+49,057,59,005,DS,"Other Flows - South",362,818,13666
+49,057,59,007,DS,"Other Flows - West",460,955,13285
+49,057,57,009,FR,"Foreign - Other flows",35,45,336
