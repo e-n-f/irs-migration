@@ -1,0 +1,946 @@
+"2005-2006 County to County Migration Inflow",,,,,,"Montana Inflows",,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Montana,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+30,000,96,000,MT,"Total Mig - US & For",28969,53412,1046442
+30,000,97,000,MT,"Total Mig - US",28456,52548,1033928
+30,000,97,001,MT,"Total Mig - US Same St",12238,21949,374486
+30,000,97,003,MT,"Total Mig - US Diff St",16218,30599,659443
+30,000,98,000,MT,"Total Mig - Foreign",513,864,12514
+30,001,96,000,MT,"Beaverhead Coun Tot Mig-US",281,533,10445
+30,001,97,000,MT,"Beaverhead Coun Tot Mig-US",281,533,10445
+30,001,97,001,MT,"Beaverhead Coun Tot Mig-Sam",126,235,3256
+30,001,97,003,MT,"Beaverhead Coun Tot Mig-Dif",155,298,7189
+30,001,98,000,MT,"Beaverhead Coun Tot Mig-For",d,d,d
+30,001,30,001,MT,"Beaverhead Coun Non-Migrant",2780,5985,120260
+30,001,30,031,MT,"Gallatin County",24,42,729
+30,001,30,063,MT,"Missoula County",17,25,336
+30,001,30,093,MT,"Silver Bow County",17,29,374
+30,001,30,057,MT,"Madison County",12,21,256
+30,001,58,000,SS,"Other Flows - Same State",56,118,1562
+30,001,59,000,DS,"Other Flows - Diff State",155,298,7189
+30,003,96,000,MT,"Big Horn County Tot Mig-US",207,447,6010
+30,003,97,000,MT,"Big Horn County Tot Mig-US",207,447,6010
+30,003,97,001,MT,"Big Horn County Tot Mig-Sam",120,270,3332
+30,003,97,003,MT,"Big Horn County Tot Mig-Dif",87,177,2678
+30,003,98,000,MT,"Big Horn County Tot Mig-For",d,d,d
+30,003,30,003,MT,"Big Horn County Non-Migrant",3441,8760,112369
+30,003,30,111,MT,"Yellowstone County",61,153,1646
+30,003,30,087,MT,"Rosebud County",13,27,319
+30,003,56,033,WY,"Sheridan County",13,24,563
+30,003,58,000,SS,"Other Flows - Same State",46,90,1367
+30,003,59,000,DS,"Other Flows - Diff State",74,153,2115
+30,005,96,000,MT,"Blaine County Tot Mig-US &",153,299,3451
+30,005,97,000,MT,"Blaine County Tot Mig-US",153,299,3451
+30,005,97,001,MT,"Blaine County Tot Mig-Same",95,186,2100
+30,005,97,003,MT,"Blaine County Tot Mig-Diff",58,113,1351
+30,005,98,000,MT,"Blaine County Tot Mig-Forei",d,d,d
+30,005,30,005,MT,"Blaine County Non-Migrants",2035,4763,61452
+30,005,30,041,MT,"Hill County",26,41,446
+30,005,30,013,MT,"Cascade County",17,27,310
+30,005,30,111,MT,"Yellowstone County",10,20,198
+30,005,58,000,SS,"Other Flows - Same State",42,98,1147
+30,005,59,000,DS,"Other Flows - Diff State",58,113,1351
+30,007,96,000,MT,"Broadwater Coun Tot Mig-US",152,348,4971
+30,007,97,000,MT,"Broadwater Coun Tot Mig-US",152,348,4971
+30,007,97,001,MT,"Broadwater Coun Tot Mig-Sam",100,221,3017
+30,007,97,003,MT,"Broadwater Coun Tot Mig-Dif",52,127,1953
+30,007,98,000,MT,"Broadwater Coun Tot Mig-For",d,d,d
+30,007,30,007,MT,"Broadwater Coun Non-Migrant",1496,3260,69348
+30,007,30,049,MT,"Lewis And Clark Coun",35,69,991
+30,007,30,031,MT,"Gallatin County",24,51,751
+30,007,58,000,SS,"Other Flows - Same State",41,101,1275
+30,007,59,000,DS,"Other Flows - Diff State",52,127,1953
+30,009,96,000,MT,"Carbon County Tot Mig-US &",342,651,20142
+30,009,97,000,MT,"Carbon County Tot Mig-US",342,651,20142
+30,009,97,001,MT,"Carbon County Tot Mig-Same",182,348,8649
+30,009,97,003,MT,"Carbon County Tot Mig-Diff",160,303,11493
+30,009,98,000,MT,"Carbon County Tot Mig-Forei",d,d,d
+30,009,30,009,MT,"Carbon County Non-Migrants",3173,6884,146076
+30,009,30,111,MT,"Yellowstone County",112,221,6544
+30,009,56,029,WY,"Park County",10,18,277
+30,009,58,000,SS,"Other Flows - Same State",70,127,2104
+30,009,59,000,DS,"Other Flows - Diff State",150,285,11216
+30,011,96,000,MT,"Carter County Tot Mig-US &",27,52,546
+30,011,97,000,MT,"Carter County Tot Mig-US",27,52,546
+30,011,97,001,MT,"Carter County Tot Mig-Same",d,d,d
+30,011,97,003,MT,"Carter County Tot Mig-Diff",d,d,d
+30,011,98,000,MT,"Carter County Tot Mig-Forei",d,d,d
+30,011,30,011,MT,"Carter County Non-Migrants",426,967,17336
+30,013,96,000,MT,"Cascade County Tot Mig-US &",2341,4630,75228
+30,013,97,000,MT,"Cascade County Tot Mig-US",2189,4259,70715
+30,013,97,001,MT,"Cascade County Tot Mig-Same",771,1343,21346
+30,013,97,003,MT,"Cascade County Tot Mig-Diff",1418,2916,49368
+30,013,98,000,MT,"Cascade County Tot Mig-Fore",152,371,4514
+30,013,30,013,MT,"Cascade County Non-Migrants",28794,60076,1227398
+30,013,30,063,MT,"Missoula County",85,123,1864
+30,013,30,049,MT,"Lewis And Clark Coun",81,154,2060
+30,013,30,111,MT,"Yellowstone County",81,136,2302
+30,013,06,083,CA,"Santa Barbara County",66,149,2447
+30,013,30,041,MT,"Hill County",60,105,1782
+30,013,30,031,MT,"Gallatin County",59,83,1371
+30,013,30,099,MT,"Teton County",50,97,1349
+30,013,30,029,MT,"Flathead County",49,98,2213
+30,013,04,013,AZ,"Maricopa County",35,77,1406
+30,013,30,073,MT,"Pondera County",31,55,966
+30,013,30,027,MT,"Fergus County",26,47,474
+30,013,15,003,HI,"Honolulu County",25,57,1085
+30,013,30,015,MT,"Chouteau County",25,44,760
+30,013,53,063,WA,"Spokane County",25,51,704
+30,013,08,041,CO,"El Paso County",24,52,836
+30,013,30,035,MT,"Glacier County",23,52,504
+30,013,53,033,WA,"King County",23,29,719
+30,013,06,037,CA,"Los Angeles County",22,43,1259
+30,013,02,020,AK,"Anchorage Borough",20,51,845
+30,013,48,029,TX,"Bexar County",20,51,760
+30,013,30,093,MT,"Silver Bow County",18,28,450
+30,013,30,101,MT,"Toole County",17,31,580
+30,013,56,021,WY,"Laramie County",16,48,715
+30,013,12,091,FL,"Okaloosa County",15,39,479
+30,013,32,003,NV,"Clark County",15,33,597
+30,013,53,053,WA,"Pierce County",15,36,474
+30,013,30,081,MT,"Ravalli County",13,23,300
+30,013,06,073,CA,"San Diego County",12,26,504
+30,013,30,043,MT,"Jefferson County",12,20,350
+30,013,30,045,MT,"Judith Basin County",12,22,689
+30,013,02,090,AK,"Fairbanks North Star",11,36,445
+30,013,30,001,MT,"Beaverhead County",11,14,176
+30,013,48,439,TX,"Tarrant County",11,16,326
+30,013,06,059,CA,"Orange County",10,17,615
+30,013,16,055,ID,"Kootenai County",10,19,490
+30,013,58,000,SS,"Other Flows - Same State",118,211,3156
+30,013,59,000,DS,"Other Flows - Diff State",1043,2086,34663
+30,013,59,001,DS,"Other Flows - Northeast",86,140,2736
+30,013,59,003,DS,"Other Flows - Midwest",252,493,9140
+30,013,59,005,DS,"Other Flows - South",360,741,11759
+30,013,59,007,DS,"Other Flows - West",345,712,11028
+30,013,57,009,FR,"Foreign - Other flows",152,371,4514
+30,015,96,000,MT,"Chouteau County Tot Mig-US",105,198,3346
+30,015,97,000,MT,"Chouteau County Tot Mig-US",105,198,3346
+30,015,97,001,MT,"Chouteau County Tot Mig-Sam",62,120,1947
+30,015,97,003,MT,"Chouteau County Tot Mig-Dif",43,78,1398
+30,015,98,000,MT,"Chouteau County Tot Mig-For",d,d,d
+30,015,30,015,MT,"Chouteau County Non-Migrant",1609,3472,62122
+30,015,30,013,MT,"Cascade County",16,30,589
+30,015,58,000,SS,"Other Flows - Same State",46,90,1358
+30,015,59,000,DS,"Other Flows - Diff State",43,78,1398
+30,017,96,000,MT,"Custer County Tot Mig-US &",299,526,9608
+30,017,97,000,MT,"Custer County Tot Mig-US",299,526,9608
+30,017,97,001,MT,"Custer County Tot Mig-Same",164,278,4597
+30,017,97,003,MT,"Custer County Tot Mig-Diff",135,248,5010
+30,017,98,000,MT,"Custer County Tot Mig-Forei",d,d,d
+30,017,30,017,MT,"Custer County Non-Migrants",3896,8380,184055
+30,017,30,111,MT,"Yellowstone County",33,55,828
+30,017,30,087,MT,"Rosebud County",16,39,274
+30,017,30,021,MT,"Dawson County",10,22,666
+30,017,30,031,MT,"Gallatin County",10,22,281
+30,017,58,000,SS,"Other Flows - Same State",95,140,2549
+30,017,59,000,DS,"Other Flows - Diff State",135,248,5010
+30,019,96,000,MT,"Daniels County Tot Mig-US &",30,56,1021
+30,019,97,000,MT,"Daniels County Tot Mig-US",30,56,1021
+30,019,97,001,MT,"Daniels County Tot Mig-Same",10,17,240
+30,019,97,003,MT,"Daniels County Tot Mig-Diff",20,39,781
+30,019,98,000,MT,"Daniels County Tot Mig-Fore",d,d,d
+30,019,30,019,MT,"Daniels County Non-Migrants",732,1523,24033
+30,019,58,000,SS,"Other Flows - Same State",10,17,240
+30,019,59,000,DS,"Other Flows - Diff State",20,39,781
+30,021,96,000,MT,"Dawson County Tot Mig-US &",229,451,6900
+30,021,97,000,MT,"Dawson County Tot Mig-US",229,451,6900
+30,021,97,001,MT,"Dawson County Tot Mig-Same",114,208,3121
+30,021,97,003,MT,"Dawson County Tot Mig-Diff",115,243,3779
+30,021,98,000,MT,"Dawson County Tot Mig-Forei",d,d,d
+30,021,30,021,MT,"Dawson County Non-Migrants",3064,6769,129908
+30,021,30,111,MT,"Yellowstone County",28,43,533
+30,021,30,083,MT,"Richland County",11,22,303
+30,021,58,000,SS,"Other Flows - Same State",75,143,2285
+30,021,59,000,DS,"Other Flows - Diff State",115,243,3779
+30,023,96,000,MT,"Deer Lodge Coun Tot Mig-US",216,380,6483
+30,023,97,000,MT,"Deer Lodge Coun Tot Mig-US",216,380,6483
+30,023,97,001,MT,"Deer Lodge Coun Tot Mig-Sam",113,186,2978
+30,023,97,003,MT,"Deer Lodge Coun Tot Mig-Dif",103,194,3505
+30,023,98,000,MT,"Deer Lodge Coun Tot Mig-For",d,d,d
+30,023,30,023,MT,"Deer Lodge Coun Non-Migrant",3150,6385,119511
+30,023,30,093,MT,"Silver Bow County",36,65,1155
+30,023,30,077,MT,"Powell County",16,27,506
+30,023,30,111,MT,"Yellowstone County",13,19,213
+30,023,30,063,MT,"Missoula County",11,17,239
+30,023,58,000,SS,"Other Flows - Same State",37,58,865
+30,023,59,000,DS,"Other Flows - Diff State",103,194,3505
+30,025,96,000,MT,"Fallon County Tot Mig-US &",63,127,2073
+30,025,97,000,MT,"Fallon County Tot Mig-US",63,127,2073
+30,025,97,001,MT,"Fallon County Tot Mig-Same",28,46,907
+30,025,97,003,MT,"Fallon County Tot Mig-Diff",35,81,1166
+30,025,98,000,MT,"Fallon County Tot Mig-Forei",d,d,d
+30,025,30,025,MT,"Fallon County Non-Migrants",1021,2260,48881
+30,025,58,000,SS,"Other Flows - Same State",28,46,907
+30,025,59,000,DS,"Other Flows - Diff State",35,81,1166
+30,027,96,000,MT,"Fergus County Tot Mig-US &",309,623,11108
+30,027,97,000,MT,"Fergus County Tot Mig-US",309,623,11108
+30,027,97,001,MT,"Fergus County Tot Mig-Same",168,332,5318
+30,027,97,003,MT,"Fergus County Tot Mig-Diff",141,291,5790
+30,027,98,000,MT,"Fergus County Tot Mig-Forei",d,d,d
+30,027,30,027,MT,"Fergus County Non-Migrants",4133,8752,157511
+30,027,30,111,MT,"Yellowstone County",33,66,910
+30,027,30,031,MT,"Gallatin County",19,33,562
+30,027,30,013,MT,"Cascade County",18,34,527
+30,027,30,045,MT,"Judith Basin County",11,23,222
+30,027,58,000,SS,"Other Flows - Same State",87,176,3096
+30,027,59,000,DS,"Other Flows - Diff State",141,291,5790
+30,029,96,000,MT,"Flathead County Tot Mig-US",2582,5004,105787
+30,029,97,000,MT,"Flathead County Tot Mig-US",2555,4968,105138
+30,029,97,001,MT,"Flathead County Tot Mig-Sam",723,1336,25188
+30,029,97,003,MT,"Flathead County Tot Mig-Dif",1832,3632,79949
+30,029,98,000,MT,"Flathead County Tot Mig-For",27,36,650
+30,029,30,029,MT,"Flathead County Non-Migrant",29486,63128,1435511
+30,029,30,063,MT,"Missoula County",135,245,3886
+30,029,30,047,MT,"Lake County",111,212,4253
+30,029,30,053,MT,"Lincoln County",98,196,2854
+30,029,53,033,WA,"King County",68,115,2963
+30,029,53,063,WA,"Spokane County",61,119,2002
+30,029,30,031,MT,"Gallatin County",57,91,1554
+30,029,30,013,MT,"Cascade County",49,87,1955
+30,029,30,111,MT,"Yellowstone County",46,88,1517
+30,029,04,013,AZ,"Maricopa County",44,82,1969
+30,029,30,049,MT,"Lewis And Clark Coun",39,66,1423
+30,029,06,037,CA,"Los Angeles County",38,77,2184
+30,029,06,073,CA,"San Diego County",38,69,1853
+30,029,06,059,CA,"Orange County",30,58,2395
+30,029,53,061,WA,"Snohomish County",30,57,1156
+30,029,16,001,ID,"Ada County",28,59,1052
+30,029,41,051,OR,"Multnomah County",26,42,903
+30,029,30,041,MT,"Hill County",25,49,1048
+30,029,30,089,MT,"Sanders County",22,51,511
+30,029,06,065,CA,"Riverside County",21,48,1248
+30,029,53,011,WA,"Clark County",21,57,583
+30,029,53,053,WA,"Pierce County",21,44,626
+30,029,06,071,CA,"San Bernardino Count",19,50,496
+30,029,16,055,ID,"Kootenai County",19,43,1097
+30,029,27,053,MN,"Hennepin County",17,30,858
+30,029,30,035,MT,"Glacier County",17,34,390
+30,029,30,081,MT,"Ravalli County",17,34,510
+30,029,32,003,NV,"Clark County",17,41,-2479
+30,029,57,005,FR,"Foreign - APO/FPO ZIPs",17,21,367
+30,029,49,035,UT,"Salt Lake County",16,38,489
+30,029,41,067,OR,"Washington County",15,38,886
+30,029,53,073,WA,"Whatcom County",15,36,456
+30,029,30,101,MT,"Toole County",12,19,631
+30,029,41,017,OR,"Deschutes County",12,22,396
+30,029,04,019,AZ,"Pima County",11,19,573
+30,029,30,093,MT,"Silver Bow County",11,21,348
+30,029,41,047,OR,"Marion County",11,24,184
+30,029,06,085,CA,"Santa Clara County",10,18,422
+30,029,08,035,CO,"Douglas County",10,29,932
+30,029,08,041,CO,"El Paso County",10,16,249
+30,029,30,001,MT,"Beaverhead County",10,21,217
+30,029,41,039,OR,"Lane County",10,23,255
+30,029,48,113,TX,"Dallas County",10,11,466
+30,029,53,005,WA,"Benton County",10,14,189
+30,029,58,000,SS,"Other Flows - Same State",74,122,4091
+30,029,59,000,DS,"Other Flows - Diff State",1194,2353,55545
+30,029,59,001,DS,"Other Flows - Northeast",97,171,3453
+30,029,59,003,DS,"Other Flows - Midwest",248,458,11268
+30,029,59,005,DS,"Other Flows - South",287,601,18293
+30,029,59,007,DS,"Other Flows - West",562,1123,22530
+30,029,57,009,FR,"Foreign - Other flows",10,15,282
+30,031,96,000,MT,"Gallatin County Tot Mig-US",4081,6350,144349
+30,031,97,000,MT,"Gallatin County Tot Mig-US",3992,6234,142551
+30,031,97,001,MT,"Gallatin County Tot Mig-Sam",1426,2117,39806
+30,031,97,003,MT,"Gallatin County Tot Mig-Dif",2566,4117,102746
+30,031,98,000,MT,"Gallatin County Tot Mig-For",89,116,1798
+30,031,30,031,MT,"Gallatin County Non-Migrant",27541,55357,1585622
+30,031,30,111,MT,"Yellowstone County",222,335,7272
+30,031,30,063,MT,"Missoula County",150,209,3839
+30,031,30,049,MT,"Lewis And Clark Coun",139,192,3468
+30,031,30,067,MT,"Park County",128,207,4208
+30,031,30,013,MT,"Cascade County",114,165,3101
+30,031,30,029,MT,"Flathead County",79,105,1659
+30,031,53,033,WA,"King County",76,121,3625
+30,031,30,093,MT,"Silver Bow County",61,104,1438
+30,031,30,057,MT,"Madison County",44,66,2303
+30,031,06,037,CA,"Los Angeles County",42,79,2711
+30,031,04,013,AZ,"Maricopa County",40,69,1978
+30,031,06,073,CA,"San Diego County",38,58,1083
+30,031,30,043,MT,"Jefferson County",36,57,1078
+30,031,30,001,MT,"Beaverhead County",35,53,723
+30,031,30,081,MT,"Ravalli County",34,47,799
+30,031,49,035,UT,"Salt Lake County",34,60,1349
+30,031,53,063,WA,"Spokane County",32,51,740
+30,031,27,053,MN,"Hennepin County",30,32,1213
+30,031,30,027,MT,"Fergus County",30,44,656
+30,031,06,059,CA,"Orange County",25,49,2171
+30,031,16,001,ID,"Ada County",25,42,913
+30,031,30,047,MT,"Lake County",24,30,488
+30,031,06,071,CA,"San Bernardino Count",22,51,1146
+30,031,30,023,MT,"Deer Lodge County",22,35,505
+30,031,32,003,NV,"Clark County",22,41,1072
+30,031,30,017,MT,"Custer County",21,35,810
+30,031,30,041,MT,"Hill County",21,41,601
+30,031,02,020,AK,"Anchorage Borough",19,24,523
+30,031,08,041,CO,"El Paso County",19,33,471
+30,031,53,053,WA,"Pierce County",19,28,836
+30,031,56,039,WY,"Teton County",19,21,431
+30,031,41,017,OR,"Deschutes County",18,27,483
+30,031,46,103,SD,"Pennington County",18,19,369
+30,031,08,059,CO,"Jefferson County",17,26,1567
+30,031,16,019,ID,"Bonneville County",17,29,495
+30,031,17,031,IL,"Cook County",17,23,1261
+30,031,27,123,MN,"Ramsey County",17,27,668
+30,031,30,053,MT,"Lincoln County",17,24,294
+30,031,38,015,ND,"Burleigh County",17,17,234
+30,031,41,067,OR,"Washington County",17,27,547
+30,031,53,061,WA,"Snohomish County",17,35,619
+30,031,56,025,WY,"Natrona County",17,17,228
+30,031,56,029,WY,"Park County",17,26,592
+30,031,06,001,CA,"Alameda County",16,25,725
+30,031,06,065,CA,"Riverside County",16,33,1286
+30,031,30,007,MT,"Broadwater County",16,27,352
+30,031,30,009,MT,"Carbon County",16,23,573
+30,031,30,097,MT,"Sweet Grass County",16,30,405
+30,031,08,031,CO,"Denver County",15,24,777
+30,031,08,037,CO,"Eagle County",15,28,783
+30,031,30,101,MT,"Toole County",15,21,472
+30,031,41,051,OR,"Multnomah County",15,19,279
+30,031,53,035,WA,"Kitsap County",15,21,312
+30,031,08,013,CO,"Boulder County",14,18,388
+30,031,30,015,MT,"Chouteau County",14,14,285
+30,031,46,099,SD,"Minnehaha County",14,18,772
+30,031,53,011,WA,"Clark County",14,23,538
+30,031,56,033,WY,"Sheridan County",14,25,622
+30,031,06,085,CA,"Santa Clara County",13,30,1102
+30,031,08,005,CO,"Arapahoe County",13,30,674
+30,031,08,069,CO,"Larimer County",13,20,409
+30,031,30,077,MT,"Powell County",13,23,274
+30,031,30,099,MT,"Teton County",13,19,293
+30,031,48,201,TX,"Harris County",13,19,504
+30,031,57,005,FR,"Foreign - APO/FPO ZIPs",13,27,603
+30,031,06,067,CA,"Sacramento County",12,22,410
+30,031,41,005,OR,"Clackamas County",12,16,475
+30,031,41,039,OR,"Lane County",12,19,343
+30,031,55,025,WI,"Dane County",12,15,379
+30,031,16,043,ID,"Fremont County",11,19,185
+30,031,30,073,MT,"Pondera County",11,17,253
+30,031,30,095,MT,"Stillwater County",11,17,206
+30,031,38,017,ND,"Cass County",11,13,452
+30,031,04,019,AZ,"Pima County",10,19,567
+30,031,06,023,CA,"Humboldt County",10,12,200
+30,031,08,067,CO,"La Plata County",10,19,232
+30,031,16,013,ID,"Blaine County",10,18,671
+30,031,16,081,ID,"Teton County",10,20,273
+30,031,27,037,MN,"Dakota County",10,16,392
+30,031,30,003,MT,"Big Horn County",10,15,138
+30,031,30,083,MT,"Richland County",10,12,307
+30,031,30,105,MT,"Valley County",10,15,202
+30,031,32,031,NV,"Washoe County",10,14,320
+30,031,58,000,SS,"Other Flows - Same State",94,135,2803
+30,031,59,000,DS,"Other Flows - Diff State",1575,2530,61348
+30,031,59,001,DS,"Other Flows - Northeast",254,343,8760
+30,031,59,003,DS,"Other Flows - Midwest",425,648,15378
+30,031,59,005,DS,"Other Flows - South",350,595,17359
+30,031,59,007,DS,"Other Flows - West",546,944,19851
+30,031,57,009,FR,"Foreign - Other flows",76,89,1195
+30,033,96,000,MT,"Garfield County Tot Mig-US",31,60,949
+30,033,97,000,MT,"Garfield County Tot Mig-US",31,60,949
+30,033,97,001,MT,"Garfield County Tot Mig-Sam",18,33,582
+30,033,97,003,MT,"Garfield County Tot Mig-Dif",13,27,368
+30,033,98,000,MT,"Garfield County Tot Mig-For",d,d,d
+30,033,30,033,MT,"Garfield County Non-Migrant",419,935,19171
+30,033,58,000,SS,"Other Flows - Same State",18,33,582
+30,033,59,000,DS,"Other Flows - Diff State",13,27,368
+30,035,96,000,MT,"Glacier County Tot Mig-US &",226,499,6753
+30,035,97,000,MT,"Glacier County Tot Mig-US",226,499,6753
+30,035,97,001,MT,"Glacier County Tot Mig-Same",133,297,3152
+30,035,97,003,MT,"Glacier County Tot Mig-Diff",93,202,3601
+30,035,98,000,MT,"Glacier County Tot Mig-Fore",d,d,d
+30,035,30,035,MT,"Glacier County Non-Migrants",3976,9484,118043
+30,035,30,013,MT,"Cascade County",23,59,390
+30,035,30,063,MT,"Missoula County",15,35,255
+30,035,30,073,MT,"Pondera County",14,35,323
+30,035,30,029,MT,"Flathead County",13,27,471
+30,035,30,111,MT,"Yellowstone County",12,23,401
+30,035,58,000,SS,"Other Flows - Same State",56,118,1312
+30,035,59,000,DS,"Other Flows - Diff State",93,202,3601
+30,037,96,000,MT,"Golden Valley C Tot Mig-US",37,77,1404
+30,037,97,000,MT,"Golden Valley C Tot Mig-US",37,77,1404
+30,037,97,001,MT,"Golden Valley C Tot Mig-Sam",24,45,1004
+30,037,97,003,MT,"Golden Valley C Tot Mig-Dif",13,32,400
+30,037,98,000,MT,"Golden Valley C Tot Mig-For",d,d,d
+30,037,30,037,MT,"Golden Valley C Non-Migrant",353,713,12473
+30,037,58,000,SS,"Other Flows - Same State",24,45,1004
+30,037,59,000,DS,"Other Flows - Diff State",13,32,400
+30,039,96,000,MT,"Granite County Tot Mig-US &",85,155,5207
+30,039,97,000,MT,"Granite County Tot Mig-US",85,155,5207
+30,039,97,001,MT,"Granite County Tot Mig-Same",37,69,3340
+30,039,97,003,MT,"Granite County Tot Mig-Diff",48,86,1866
+30,039,98,000,MT,"Granite County Tot Mig-Fore",d,d,d
+30,039,30,039,MT,"Granite County Non-Migrants",929,1936,35741
+30,039,30,063,MT,"Missoula County",17,29,326
+30,039,58,000,SS,"Other Flows - Same State",20,40,3015
+30,039,59,000,DS,"Other Flows - Diff State",48,86,1866
+30,041,96,000,MT,"Hill County Tot Mig-US & Fo",415,837,12249
+30,041,97,000,MT,"Hill County Tot Mig-US",415,837,12249
+30,041,97,001,MT,"Hill County Tot Mig-Same St",263,509,7477
+30,041,97,003,MT,"Hill County Tot Mig-Diff St",152,328,4772
+30,041,98,000,MT,"Hill County Tot Mig-Foreign",d,d,d
+30,041,30,041,MT,"Hill County Non-Migrants",5512,12442,222656
+30,041,30,013,MT,"Cascade County",42,83,1207
+30,041,30,005,MT,"Blaine County",37,57,775
+30,041,30,111,MT,"Yellowstone County",19,30,1072
+30,041,30,029,MT,"Flathead County",16,32,447
+30,041,30,063,MT,"Missoula County",15,32,288
+30,041,30,031,MT,"Gallatin County",13,21,261
+30,041,30,105,MT,"Valley County",13,23,332
+30,041,30,049,MT,"Lewis And Clark Coun",12,31,373
+30,041,30,015,MT,"Chouteau County",11,23,356
+30,041,58,000,SS,"Other Flows - Same State",85,177,2367
+30,041,59,000,DS,"Other Flows - Diff State",152,328,4772
+30,043,96,000,MT,"Jefferson Count Tot Mig-US",391,806,17881
+30,043,97,000,MT,"Jefferson Count Tot Mig-US",391,806,17881
+30,043,97,001,MT,"Jefferson Count Tot Mig-Sam",232,475,9829
+30,043,97,003,MT,"Jefferson Count Tot Mig-Dif",159,331,8052
+30,043,98,000,MT,"Jefferson Count Tot Mig-For",d,d,d
+30,043,30,043,MT,"Jefferson Count Non-Migrant",3449,8086,185833
+30,043,30,049,MT,"Lewis And Clark Coun",114,246,6068
+30,043,30,031,MT,"Gallatin County",30,61,979
+30,043,30,093,MT,"Silver Bow County",24,54,682
+30,043,30,063,MT,"Missoula County",13,26,588
+30,043,58,000,SS,"Other Flows - Same State",51,88,1512
+30,043,59,000,DS,"Other Flows - Diff State",159,331,8052
+30,045,96,000,MT,"Judith Basin Co Tot Mig-US",51,106,2499
+30,045,97,000,MT,"Judith Basin Co Tot Mig-US",51,106,2499
+30,045,97,001,MT,"Judith Basin Co Tot Mig-Sam",31,66,915
+30,045,97,003,MT,"Judith Basin Co Tot Mig-Dif",20,40,1583
+30,045,98,000,MT,"Judith Basin Co Tot Mig-For",d,d,d
+30,045,30,045,MT,"Judith Basin Co Non-Migrant",727,1474,26374
+30,045,58,000,SS,"Other Flows - Same State",31,66,915
+30,045,59,000,DS,"Other Flows - Diff State",20,40,1583
+30,047,96,000,MT,"Lake County Tot Mig-US & Fo",750,1476,29964
+30,047,97,000,MT,"Lake County Tot Mig-US",750,1476,29964
+30,047,97,001,MT,"Lake County Tot Mig-Same St",337,671,11061
+30,047,97,003,MT,"Lake County Tot Mig-Diff St",413,805,18903
+30,047,98,000,MT,"Lake County Tot Mig-Foreign",d,d,d
+30,047,30,047,MT,"Lake County Non-Migrants",8185,18353,323648
+30,047,30,063,MT,"Missoula County",116,199,3306
+30,047,30,029,MT,"Flathead County",58,119,2597
+30,047,30,089,MT,"Sanders County",25,60,592
+30,047,30,031,MT,"Gallatin County",19,34,515
+30,047,04,013,AZ,"Maricopa County",16,28,770
+30,047,30,081,MT,"Ravalli County",16,35,420
+30,047,30,013,MT,"Cascade County",15,28,662
+30,047,30,111,MT,"Yellowstone County",12,25,202
+30,047,53,033,WA,"King County",12,21,823
+30,047,30,035,MT,"Glacier County",11,30,201
+30,047,58,000,SS,"Other Flows - Same State",65,141,2567
+30,047,59,000,DS,"Other Flows - Diff State",385,756,17310
+30,047,59,001,DS,"Other Flows - Northeast",11,22,412
+30,047,59,003,DS,"Other Flows - Midwest",52,102,1367
+30,047,59,005,DS,"Other Flows - South",38,78,1790
+30,047,59,007,DS,"Other Flows - West",284,554,13741
+30,049,96,000,MT,"Lewis And Clark Tot Mig-US",1834,3424,71792
+30,049,97,000,MT,"Lewis And Clark Tot Mig-US",1834,3424,71792
+30,049,97,001,MT,"Lewis And Clark Tot Mig-Sam",893,1614,29792
+30,049,97,003,MT,"Lewis And Clark Tot Mig-Dif",941,1810,42000
+30,049,98,000,MT,"Lewis And Clark Tot Mig-For",d,d,d
+30,049,30,049,MT,"Lewis And Clark Non-Migrant",21478,44788,1040848
+30,049,30,063,MT,"Missoula County",136,226,3618
+30,049,30,043,MT,"Jefferson County",112,218,4478
+30,049,30,013,MT,"Cascade County",106,198,3524
+30,049,30,031,MT,"Gallatin County",93,169,2816
+30,049,30,111,MT,"Yellowstone County",62,102,1964
+30,049,30,093,MT,"Silver Bow County",51,97,1779
+30,049,30,007,MT,"Broadwater County",46,94,1447
+30,049,30,029,MT,"Flathead County",44,73,2177
+30,049,53,033,WA,"King County",35,62,1642
+30,049,04,013,AZ,"Maricopa County",30,52,1621
+30,049,53,063,WA,"Spokane County",24,43,739
+30,049,30,077,MT,"Powell County",21,40,559
+30,049,06,073,CA,"San Diego County",19,45,1095
+30,049,30,027,MT,"Fergus County",18,27,1483
+30,049,30,041,MT,"Hill County",18,32,510
+30,049,30,073,MT,"Pondera County",17,26,372
+30,049,30,081,MT,"Ravalli County",17,31,569
+30,049,16,001,ID,"Ada County",15,25,608
+30,049,06,037,CA,"Los Angeles County",13,27,557
+30,049,32,003,NV,"Clark County",13,32,431
+30,049,53,053,WA,"Pierce County",13,22,433
+30,049,53,061,WA,"Snohomish County",13,21,495
+30,049,49,035,UT,"Salt Lake County",12,19,749
+30,049,30,023,MT,"Deer Lodge County",11,13,314
+30,049,41,051,OR,"Multnomah County",11,14,371
+30,049,30,099,MT,"Teton County",10,17,317
+30,049,58,000,SS,"Other Flows - Same State",131,251,3865
+30,049,59,000,DS,"Other Flows - Diff State",743,1448,33259
+30,049,59,001,DS,"Other Flows - Northeast",44,81,1479
+30,049,59,003,DS,"Other Flows - Midwest",161,306,7363
+30,049,59,005,DS,"Other Flows - South",139,279,6263
+30,049,59,007,DS,"Other Flows - West",399,782,18153
+30,051,96,000,MT,"Liberty County Tot Mig-US &",26,40,735
+30,051,97,000,MT,"Liberty County Tot Mig-US",26,40,735
+30,051,97,001,MT,"Liberty County Tot Mig-Same",d,d,d
+30,051,97,003,MT,"Liberty County Tot Mig-Diff",d,d,d
+30,051,98,000,MT,"Liberty County Tot Mig-Fore",d,d,d
+30,051,30,051,MT,"Liberty County Non-Migrants",764,1421,24887
+30,053,96,000,MT,"Lincoln County Tot Mig-US &",545,1022,19065
+30,053,97,000,MT,"Lincoln County Tot Mig-US",545,1022,19065
+30,053,97,001,MT,"Lincoln County Tot Mig-Same",152,280,4045
+30,053,97,003,MT,"Lincoln County Tot Mig-Diff",393,742,15020
+30,053,98,000,MT,"Lincoln County Tot Mig-Fore",d,d,d
+30,053,30,053,MT,"Lincoln County Non-Migrants",5877,12826,221812
+30,053,30,029,MT,"Flathead County",70,132,1818
+30,053,30,063,MT,"Missoula County",20,35,554
+30,053,53,063,WA,"Spokane County",12,26,604
+30,053,16,021,ID,"Boundary County",10,17,164
+30,053,58,000,SS,"Other Flows - Same State",62,113,1673
+30,053,59,000,DS,"Other Flows - Diff State",371,699,14253
+30,053,59,001,DS,"Other Flows - Northeast",14,24,452
+30,053,59,003,DS,"Other Flows - Midwest",46,83,1620
+30,053,59,005,DS,"Other Flows - South",47,104,1483
+30,053,59,007,DS,"Other Flows - West",264,488,10698
+30,055,96,000,MT,"Mccone County Tot Mig-US &",22,45,587
+30,055,97,000,MT,"Mccone County Tot Mig-US",22,45,587
+30,055,97,001,MT,"Mccone County Tot Mig-Same",12,32,367
+30,055,97,003,MT,"Mccone County Tot Mig-Diff",10,13,220
+30,055,98,000,MT,"Mccone County Tot Mig-Forei",d,d,d
+30,055,30,055,MT,"Mccone County Non-Migrants",619,1424,18145
+30,055,58,000,SS,"Other Flows - Same State",12,32,367
+30,055,59,000,DS,"Other Flows - Diff State",10,13,220
+30,057,96,000,MT,"Madison County Tot Mig-US &",257,492,11412
+30,057,97,000,MT,"Madison County Tot Mig-US",257,492,11412
+30,057,97,001,MT,"Madison County Tot Mig-Same",109,211,3847
+30,057,97,003,MT,"Madison County Tot Mig-Diff",148,281,7565
+30,057,98,000,MT,"Madison County Tot Mig-Fore",d,d,d
+30,057,30,057,MT,"Madison County Non-Migrants",2299,4810,100905
+30,057,30,031,MT,"Gallatin County",53,93,2223
+30,057,58,000,SS,"Other Flows - Same State",56,118,1624
+30,057,59,000,DS,"Other Flows - Diff State",148,281,7565
+30,059,96,000,MT,"Meagher County Tot Mig-US &",60,128,2127
+30,059,97,000,MT,"Meagher County Tot Mig-US",60,128,2127
+30,059,97,001,MT,"Meagher County Tot Mig-Same",25,59,783
+30,059,97,003,MT,"Meagher County Tot Mig-Diff",35,69,1344
+30,059,98,000,MT,"Meagher County Tot Mig-Fore",d,d,d
+30,059,30,059,MT,"Meagher County Non-Migrants",806,1490,22567
+30,059,58,000,SS,"Other Flows - Same State",25,59,783
+30,059,59,000,DS,"Other Flows - Diff State",35,69,1344
+30,061,96,000,MT,"Mineral County Tot Mig-US &",165,325,7213
+30,061,97,000,MT,"Mineral County Tot Mig-US",165,325,7213
+30,061,97,001,MT,"Mineral County Tot Mig-Same",77,162,3184
+30,061,97,003,MT,"Mineral County Tot Mig-Diff",88,163,4029
+30,061,98,000,MT,"Mineral County Tot Mig-Fore",d,d,d
+30,061,30,061,MT,"Mineral County Non-Migrants",1271,2768,44762
+30,061,30,063,MT,"Missoula County",43,92,1606
+30,061,58,000,SS,"Other Flows - Same State",34,70,1578
+30,061,59,000,DS,"Other Flows - Diff State",88,163,4029
+30,063,96,000,MT,"Missoula County Tot Mig-US",3821,6130,118629
+30,063,97,000,MT,"Missoula County Tot Mig-US",3743,6038,117784
+30,063,97,001,MT,"Missoula County Tot Mig-Sam",1639,2577,41750
+30,063,97,003,MT,"Missoula County Tot Mig-Dif",2104,3461,76035
+30,063,98,000,MT,"Missoula County Tot Mig-For",78,92,845
+30,063,30,063,MT,"Missoula County Non-Migrant",35175,69789,1674565
+30,063,30,081,MT,"Ravalli County",308,551,9635
+30,063,30,029,MT,"Flathead County",153,212,3155
+30,063,30,013,MT,"Cascade County",143,222,4370
+30,063,30,049,MT,"Lewis And Clark Coun",141,217,3589
+30,063,30,047,MT,"Lake County",124,222,3044
+30,063,30,111,MT,"Yellowstone County",111,166,2831
+30,063,30,031,MT,"Gallatin County",103,146,2389
+30,063,30,093,MT,"Silver Bow County",87,138,2228
+30,063,53,033,WA,"King County",75,112,2314
+30,063,53,063,WA,"Spokane County",65,121,2055
+30,063,30,061,MT,"Mineral County",45,79,563
+30,063,30,089,MT,"Sanders County",45,59,978
+30,063,06,073,CA,"San Diego County",40,63,1544
+30,063,04,013,AZ,"Maricopa County",39,68,1175
+30,063,30,053,MT,"Lincoln County",35,60,1152
+30,063,06,037,CA,"Los Angeles County",32,57,2734
+30,063,16,055,ID,"Kootenai County",30,60,680
+30,063,30,039,MT,"Granite County",26,44,858
+30,063,41,051,OR,"Multnomah County",26,37,749
+30,063,49,035,UT,"Salt Lake County",26,43,585
+30,063,30,023,MT,"Deer Lodge County",25,33,390
+30,063,41,067,OR,"Washington County",25,45,867
+30,063,53,053,WA,"Pierce County",25,38,911
+30,063,30,035,MT,"Glacier County",24,45,593
+30,063,30,001,MT,"Beaverhead County",23,35,542
+30,063,30,077,MT,"Powell County",23,30,404
+30,063,32,003,NV,"Clark County",22,50,2183
+30,063,16,001,ID,"Ada County",21,30,580
+30,063,17,031,IL,"Cook County",21,28,674
+30,063,02,020,AK,"Anchorage Borough",19,24,624
+30,063,04,019,AZ,"Pima County",18,26,655
+30,063,30,067,MT,"Park County",18,22,261
+30,063,30,099,MT,"Teton County",18,21,395
+30,063,53,061,WA,"Snohomish County",17,38,697
+30,063,08,013,CO,"Boulder County",15,24,441
+30,063,41,039,OR,"Lane County",15,27,816
+30,063,27,053,MN,"Hennepin County",14,18,532
+30,063,30,041,MT,"Hill County",14,19,273
+30,063,30,043,MT,"Jefferson County",14,19,277
+30,063,32,031,NV,"Washoe County",14,22,287
+30,063,53,011,WA,"Clark County",14,30,532
+30,063,06,059,CA,"Orange County",13,21,1987
+30,063,06,065,CA,"Riverside County",13,27,883
+30,063,06,071,CA,"San Bernardino Count",13,18,445
+30,063,30,027,MT,"Fergus County",13,17,203
+30,063,53,005,WA,"Benton County",13,18,632
+30,063,57,005,FR,"Foreign - APO/FPO ZIPs",13,24,375
+30,063,06,075,CA,"San Francisco County",12,13,244
+30,063,16,057,ID,"Latah County",12,16,265
+30,063,30,009,MT,"Carbon County",12,14,300
+30,063,30,021,MT,"Dawson County",12,17,238
+30,063,53,067,WA,"Thurston County",12,16,523
+30,063,30,101,MT,"Toole County",11,21,274
+30,063,41,005,OR,"Clackamas County",11,14,383
+30,063,56,025,WY,"Natrona County",11,17,493
+30,063,06,013,CA,"Contra Costa County",10,17,638
+30,063,08,031,CO,"Denver County",10,15,641
+30,063,08,059,CO,"Jefferson County",10,12,268
+30,063,15,003,HI,"Honolulu County",10,18,248
+30,063,30,015,MT,"Chouteau County",10,13,145
+30,063,55,025,WI,"Dane County",10,14,441
+30,063,58,000,SS,"Other Flows - Same State",101,155,2662
+30,063,59,000,DS,"Other Flows - Diff State",1371,2264,46308
+30,063,59,001,DS,"Other Flows - Northeast",178,234,4437
+30,063,59,003,DS,"Other Flows - Midwest",333,532,10701
+30,063,59,005,DS,"Other Flows - South",342,566,12359
+30,063,59,007,DS,"Other Flows - West",518,932,18811
+30,063,57,009,FR,"Foreign - Other flows",65,68,470
+30,065,96,000,MT,"Musselshell Cou Tot Mig-US",171,363,5721
+30,065,97,000,MT,"Musselshell Cou Tot Mig-US",171,363,5721
+30,065,97,001,MT,"Musselshell Cou Tot Mig-Sam",75,153,2300
+30,065,97,003,MT,"Musselshell Cou Tot Mig-Dif",96,210,3421
+30,065,98,000,MT,"Musselshell Cou Tot Mig-For",d,d,d
+30,065,30,065,MT,"Musselshell Cou Non-Migrant",1371,2949,47174
+30,065,30,111,MT,"Yellowstone County",30,60,627
+30,065,58,000,SS,"Other Flows - Same State",45,93,1674
+30,065,59,000,DS,"Other Flows - Diff State",96,210,3421
+30,067,96,000,MT,"Park County Tot Mig-US & Fo",617,1022,20487
+30,067,97,000,MT,"Park County Tot Mig-US",617,1022,20487
+30,067,97,001,MT,"Park County Tot Mig-Same St",274,452,9154
+30,067,97,003,MT,"Park County Tot Mig-Diff St",343,570,11333
+30,067,98,000,MT,"Park County Tot Mig-Foreign",d,d,d
+30,067,30,067,MT,"Park County Non-Migrants",5578,11179,232254
+30,067,30,031,MT,"Gallatin County",146,231,5056
+30,067,30,111,MT,"Yellowstone County",29,48,905
+30,067,30,063,MT,"Missoula County",19,28,329
+30,067,56,029,WY,"Park County",14,19,371
+30,067,06,073,CA,"San Diego County",10,17,274
+30,067,30,097,MT,"Sweet Grass County",10,16,403
+30,067,58,000,SS,"Other Flows - Same State",70,129,2461
+30,067,59,000,DS,"Other Flows - Diff State",319,534,10689
+30,067,59,001,DS,"Other Flows - Northeast",27,40,667
+30,067,59,003,DS,"Other Flows - Midwest",74,121,2391
+30,067,59,005,DS,"Other Flows - South",55,91,2129
+30,067,59,007,DS,"Other Flows - West",163,282,5502
+30,069,96,000,MT,"Petroleum Count Tot Mig-US",12,27,234
+30,069,97,000,MT,"Petroleum Count Tot Mig-US",12,27,234
+30,069,97,001,MT,"Petroleum Count Tot Mig-Sam",d,d,d
+30,069,97,003,MT,"Petroleum Count Tot Mig-Dif",d,d,d
+30,069,98,000,MT,"Petroleum Count Tot Mig-For",d,d,d
+30,069,30,069,MT,"Petroleum Count Non-Migrant",125,280,3448
+30,071,96,000,MT,"Phillips County Tot Mig-US",88,163,2068
+30,071,97,000,MT,"Phillips County Tot Mig-US",88,163,2068
+30,071,97,001,MT,"Phillips County Tot Mig-Sam",59,118,1506
+30,071,97,003,MT,"Phillips County Tot Mig-Dif",29,45,561
+30,071,98,000,MT,"Phillips County Tot Mig-For",d,d,d
+30,071,30,071,MT,"Phillips County Non-Migrant",1465,3250,48958
+30,071,58,000,SS,"Other Flows - Same State",59,118,1506
+30,071,59,000,DS,"Other Flows - Diff State",29,45,561
+30,073,96,000,MT,"Pondera County Tot Mig-US &",121,289,4410
+30,073,97,000,MT,"Pondera County Tot Mig-US",121,289,4410
+30,073,97,001,MT,"Pondera County Tot Mig-Same",80,182,2859
+30,073,97,003,MT,"Pondera County Tot Mig-Diff",41,107,1551
+30,073,98,000,MT,"Pondera County Tot Mig-Fore",d,d,d
+30,073,30,073,MT,"Pondera County Non-Migrants",2225,4782,69639
+30,073,30,013,MT,"Cascade County",18,37,636
+30,073,30,035,MT,"Glacier County",11,29,348
+30,073,58,000,SS,"Other Flows - Same State",51,116,1875
+30,073,59,000,DS,"Other Flows - Diff State",41,107,1551
+30,075,96,000,MT,"Powder River Co Tot Mig-US",39,82,1183
+30,075,97,000,MT,"Powder River Co Tot Mig-US",39,82,1183
+30,075,97,001,MT,"Powder River Co Tot Mig-Sam",13,26,417
+30,075,97,003,MT,"Powder River Co Tot Mig-Dif",26,56,766
+30,075,98,000,MT,"Powder River Co Tot Mig-For",d,d,d
+30,075,30,075,MT,"Powder River Co Non-Migrant",478,1117,21312
+30,075,58,000,SS,"Other Flows - Same State",13,26,417
+30,075,59,000,DS,"Other Flows - Diff State",26,56,766
+30,077,96,000,MT,"Powell County Tot Mig-US &",203,402,5828
+30,077,97,000,MT,"Powell County Tot Mig-US",203,402,5828
+30,077,97,001,MT,"Powell County Tot Mig-Same",116,209,3230
+30,077,97,003,MT,"Powell County Tot Mig-Diff",87,193,2598
+30,077,98,000,MT,"Powell County Tot Mig-Forei",d,d,d
+30,077,30,077,MT,"Powell County Non-Migrants",1818,3971,70387
+30,077,30,093,MT,"Silver Bow County",17,33,403
+30,077,30,063,MT,"Missoula County",15,30,221
+30,077,30,023,MT,"Deer Lodge County",13,21,481
+30,077,30,049,MT,"Lewis And Clark Coun",13,22,348
+30,077,58,000,SS,"Other Flows - Same State",58,103,1777
+30,077,59,000,DS,"Other Flows - Diff State",87,193,2598
+30,079,96,000,MT,"Prairie County Tot Mig-US &",26,63,683
+30,079,97,000,MT,"Prairie County Tot Mig-US",26,63,683
+30,079,97,001,MT,"Prairie County Tot Mig-Same",16,34,292
+30,079,97,003,MT,"Prairie County Tot Mig-Diff",10,29,391
+30,079,98,000,MT,"Prairie County Tot Mig-Fore",d,d,d
+30,079,30,079,MT,"Prairie County Non-Migrants",421,877,15430
+30,079,58,000,SS,"Other Flows - Same State",16,34,292
+30,079,59,000,DS,"Other Flows - Diff State",10,29,391
+30,081,96,000,MT,"Ravalli County Tot Mig-US &",1265,2524,57259
+30,081,97,000,MT,"Ravalli County Tot Mig-US",1254,2504,56957
+30,081,97,001,MT,"Ravalli County Tot Mig-Same",455,866,16547
+30,081,97,003,MT,"Ravalli County Tot Mig-Diff",799,1638,40410
+30,081,98,000,MT,"Ravalli County Tot Mig-Fore",11,20,301
+30,081,30,081,MT,"Ravalli County Non-Migrants",12469,27464,557803
+30,081,30,063,MT,"Missoula County",288,538,9893
+30,081,06,073,CA,"San Diego County",25,48,1037
+30,081,30,031,MT,"Gallatin County",25,40,611
+30,081,30,049,MT,"Lewis And Clark Coun",24,53,2093
+30,081,06,037,CA,"Los Angeles County",22,50,2314
+30,081,32,003,NV,"Clark County",21,34,1152
+30,081,53,033,WA,"King County",21,37,1135
+30,081,53,063,WA,"Spokane County",20,48,800
+30,081,30,029,MT,"Flathead County",17,36,487
+30,081,30,047,MT,"Lake County",17,34,548
+30,081,30,111,MT,"Yellowstone County",14,21,425
+30,081,04,013,AZ,"Maricopa County",12,30,919
+30,081,16,055,ID,"Kootenai County",12,28,297
+30,081,06,065,CA,"Riverside County",11,23,540
+30,081,06,097,CA,"Sonoma County",10,21,488
+30,081,30,013,MT,"Cascade County",10,16,200
+30,081,58,000,SS,"Other Flows - Same State",60,128,2291
+30,081,59,000,DS,"Other Flows - Diff State",645,1319,31729
+30,081,59,001,DS,"Other Flows - Northeast",36,64,1902
+30,081,59,003,DS,"Other Flows - Midwest",99,203,4486
+30,081,59,005,DS,"Other Flows - South",110,214,4999
+30,081,59,007,DS,"Other Flows - West",400,838,20342
+30,081,57,009,FR,"Foreign - Other flows",11,20,301
+30,083,96,000,MT,"Richland County Tot Mig-US",243,467,8378
+30,083,97,000,MT,"Richland County Tot Mig-US",243,467,8378
+30,083,97,001,MT,"Richland County Tot Mig-Sam",104,191,3683
+30,083,97,003,MT,"Richland County Tot Mig-Dif",139,276,4694
+30,083,98,000,MT,"Richland County Tot Mig-For",d,d,d
+30,083,30,083,MT,"Richland County Non-Migrant",3453,7683,180586
+30,083,30,111,MT,"Yellowstone County",27,44,708
+30,083,30,021,MT,"Dawson County",13,17,581
+30,083,38,105,ND,"Williams County",11,24,351
+30,083,58,000,SS,"Other Flows - Same State",64,130,2393
+30,083,59,000,DS,"Other Flows - Diff State",128,252,4343
+30,085,96,000,MT,"Roosevelt Count Tot Mig-US",154,342,4343
+30,085,97,000,MT,"Roosevelt Count Tot Mig-US",154,342,4343
+30,085,97,001,MT,"Roosevelt Count Tot Mig-Sam",74,178,2241
+30,085,97,003,MT,"Roosevelt Count Tot Mig-Dif",80,164,2101
+30,085,98,000,MT,"Roosevelt Count Tot Mig-For",d,d,d
+30,085,30,085,MT,"Roosevelt Count Non-Migrant",3088,7538,95488
+30,085,30,111,MT,"Yellowstone County",13,25,404
+30,085,58,000,SS,"Other Flows - Same State",61,153,1837
+30,085,59,000,DS,"Other Flows - Diff State",80,164,2101
+30,087,96,000,MT,"Rosebud County Tot Mig-US &",232,529,8878
+30,087,97,000,MT,"Rosebud County Tot Mig-US",232,529,8878
+30,087,97,001,MT,"Rosebud County Tot Mig-Same",128,296,4706
+30,087,97,003,MT,"Rosebud County Tot Mig-Diff",104,233,4172
+30,087,98,000,MT,"Rosebud County Tot Mig-Fore",d,d,d
+30,087,30,087,MT,"Rosebud County Non-Migrants",2883,7236,128854
+30,087,30,111,MT,"Yellowstone County",37,79,1194
+30,087,30,003,MT,"Big Horn County",16,55,531
+30,087,30,017,MT,"Custer County",11,20,508
+30,087,58,000,SS,"Other Flows - Same State",64,142,2474
+30,087,59,000,DS,"Other Flows - Diff State",104,233,4172
+30,089,96,000,MT,"Sanders County Tot Mig-US &",317,666,13483
+30,089,97,000,MT,"Sanders County Tot Mig-US",317,666,13483
+30,089,97,001,MT,"Sanders County Tot Mig-Same",102,208,2850
+30,089,97,003,MT,"Sanders County Tot Mig-Diff",215,458,10634
+30,089,98,000,MT,"Sanders County Tot Mig-Fore",d,d,d
+30,089,30,089,MT,"Sanders County Non-Migrants",3400,7374,119127
+30,089,30,063,MT,"Missoula County",31,53,963
+30,089,30,029,MT,"Flathead County",14,34,318
+30,089,30,047,MT,"Lake County",11,25,246
+30,089,53,063,WA,"Spokane County",10,25,456
+30,089,58,000,SS,"Other Flows - Same State",46,96,1323
+30,089,59,000,DS,"Other Flows - Diff State",205,433,10177
+30,089,59,001,DS,"Other Flows - Northeast",10,21,411
+30,089,59,003,DS,"Other Flows - Midwest",21,41,604
+30,089,59,005,DS,"Other Flows - South",38,84,823
+30,089,59,007,DS,"Other Flows - West",136,287,8339
+30,091,96,000,MT,"Sheridan County Tot Mig-US",62,124,2753
+30,091,97,000,MT,"Sheridan County Tot Mig-US",62,124,2753
+30,091,97,001,MT,"Sheridan County Tot Mig-Sam",25,50,1567
+30,091,97,003,MT,"Sheridan County Tot Mig-Dif",37,74,1186
+30,091,98,000,MT,"Sheridan County Tot Mig-For",d,d,d
+30,091,30,091,MT,"Sheridan County Non-Migrant",1410,2942,52502
+30,091,58,000,SS,"Other Flows - Same State",25,50,1567
+30,091,59,000,DS,"Other Flows - Diff State",37,74,1186
+30,093,96,000,MT,"Silver Bow Coun Tot Mig-US",802,1483,25480
+30,093,97,000,MT,"Silver Bow Coun Tot Mig-US",789,1468,25405
+30,093,97,001,MT,"Silver Bow Coun Tot Mig-Sam",420,733,11953
+30,093,97,003,MT,"Silver Bow Coun Tot Mig-Dif",369,735,13452
+30,093,98,000,MT,"Silver Bow Coun Tot Mig-For",13,15,74
+30,093,30,093,MT,"Silver Bow Coun Non-Migrant",11381,23661,504628
+30,093,30,063,MT,"Missoula County",64,100,1672
+30,093,30,023,MT,"Deer Lodge County",55,99,1446
+30,093,30,049,MT,"Lewis And Clark Coun",47,84,1186
+30,093,30,031,MT,"Gallatin County",41,74,1452
+30,093,30,043,MT,"Jefferson County",34,55,1000
+30,093,30,111,MT,"Yellowstone County",27,39,1038
+30,093,30,013,MT,"Cascade County",23,45,819
+30,093,30,001,MT,"Beaverhead County",21,46,575
+30,093,32,003,NV,"Clark County",17,32,438
+30,093,30,029,MT,"Flathead County",16,33,521
+30,093,30,057,MT,"Madison County",11,16,116
+30,093,30,077,MT,"Powell County",11,20,318
+30,093,58,000,SS,"Other Flows - Same State",70,122,1810
+30,093,59,000,DS,"Other Flows - Diff State",352,703,13014
+30,093,59,001,DS,"Other Flows - Northeast",18,35,460
+30,093,59,003,DS,"Other Flows - Midwest",45,83,1073
+30,093,59,005,DS,"Other Flows - South",82,153,2188
+30,093,59,007,DS,"Other Flows - West",207,432,9294
+30,093,57,009,FR,"Foreign - Other flows",13,15,74
+30,095,96,000,MT,"Stillwater Coun Tot Mig-US",316,672,14974
+30,095,97,000,MT,"Stillwater Coun Tot Mig-US",316,672,14974
+30,095,97,001,MT,"Stillwater Coun Tot Mig-Sam",165,372,7115
+30,095,97,003,MT,"Stillwater Coun Tot Mig-Dif",151,300,7859
+30,095,98,000,MT,"Stillwater Coun Tot Mig-For",d,d,d
+30,095,30,095,MT,"Stillwater Coun Non-Migrant",2880,6616,138759
+30,095,30,111,MT,"Yellowstone County",95,212,3874
+30,095,30,009,MT,"Carbon County",10,24,490
+30,095,58,000,SS,"Other Flows - Same State",60,136,2750
+30,095,59,000,DS,"Other Flows - Diff State",151,300,7859
+30,097,96,000,MT,"Sweet Grass Cou Tot Mig-US",131,260,6802
+30,097,97,000,MT,"Sweet Grass Cou Tot Mig-US",131,260,6802
+30,097,97,001,MT,"Sweet Grass Cou Tot Mig-Sam",60,119,2372
+30,097,97,003,MT,"Sweet Grass Cou Tot Mig-Dif",71,141,4430
+30,097,98,000,MT,"Sweet Grass Cou Tot Mig-For",d,d,d
+30,097,30,097,MT,"Sweet Grass Cou Non-Migrant",1196,2658,53450
+30,097,30,111,MT,"Yellowstone County",21,41,774
+30,097,58,000,SS,"Other Flows - Same State",39,78,1598
+30,097,59,000,DS,"Other Flows - Diff State",71,141,4430
+30,099,96,000,MT,"Teton County Tot Mig-US & F",153,303,5023
+30,099,97,000,MT,"Teton County Tot Mig-US",153,303,5023
+30,099,97,001,MT,"Teton County Tot Mig-Same S",93,186,2982
+30,099,97,003,MT,"Teton County Tot Mig-Diff S",60,117,2041
+30,099,98,000,MT,"Teton County Tot Mig-Foreig",d,d,d
+30,099,30,099,MT,"Teton County Non-Migrants",2336,4996,80248
+30,099,30,013,MT,"Cascade County",36,73,1011
+30,099,58,000,SS,"Other Flows - Same State",57,113,1972
+30,099,59,000,DS,"Other Flows - Diff State",60,117,2041
+30,101,96,000,MT,"Toole County Tot Mig-US & F",112,209,3445
+30,101,97,000,MT,"Toole County Tot Mig-US",112,209,3445
+30,101,97,001,MT,"Toole County Tot Mig-Same S",62,104,1782
+30,101,97,003,MT,"Toole County Tot Mig-Diff S",50,105,1662
+30,101,98,000,MT,"Toole County Tot Mig-Foreig",d,d,d
+30,101,30,101,MT,"Toole County Non-Migrants",1756,3646,62242
+30,101,58,000,SS,"Other Flows - Same State",62,104,1782
+30,101,59,000,DS,"Other Flows - Diff State",50,105,1662
+30,103,96,000,MT,"Treasure County Tot Mig-US",22,48,479
+30,103,97,000,MT,"Treasure County Tot Mig-US",22,48,479
+30,103,97,001,MT,"Treasure County Tot Mig-Sam",d,d,d
+30,103,97,003,MT,"Treasure County Tot Mig-Dif",d,d,d
+30,103,98,000,MT,"Treasure County Tot Mig-For",d,d,d
+30,103,30,103,MT,"Treasure County Non-Migrant",291,645,9732
+30,105,96,000,MT,"Valley County Tot Mig-US &",157,305,5409
+30,105,97,000,MT,"Valley County Tot Mig-US",157,305,5409
+30,105,97,001,MT,"Valley County Tot Mig-Same",74,145,2724
+30,105,97,003,MT,"Valley County Tot Mig-Diff",83,160,2685
+30,105,98,000,MT,"Valley County Tot Mig-Forei",d,d,d
+30,105,30,105,MT,"Valley County Non-Migrants",2664,5677,103916
+30,105,30,085,MT,"Roosevelt County",13,27,484
+30,105,30,111,MT,"Yellowstone County",10,19,323
+30,105,58,000,SS,"Other Flows - Same State",51,99,1918
+30,105,59,000,DS,"Other Flows - Diff State",83,160,2685
+30,107,96,000,MT,"Wheatland Count Tot Mig-US",44,79,1042
+30,107,97,000,MT,"Wheatland Count Tot Mig-US",44,79,1042
+30,107,97,001,MT,"Wheatland Count Tot Mig-Sam",30,48,632
+30,107,97,003,MT,"Wheatland Count Tot Mig-Dif",14,31,410
+30,107,98,000,MT,"Wheatland Count Tot Mig-For",d,d,d
+30,107,30,107,MT,"Wheatland Count Non-Migrant",722,1391,18815
+30,107,58,000,SS,"Other Flows - Same State",30,48,632
+30,107,59,000,DS,"Other Flows - Diff State",14,31,410
+30,109,96,000,MT,"Wibaux County Tot Mig-US &",20,45,420
+30,109,97,000,MT,"Wibaux County Tot Mig-US",20,45,420
+30,109,97,001,MT,"Wibaux County Tot Mig-Same",d,d,d
+30,109,97,003,MT,"Wibaux County Tot Mig-Diff",d,d,d
+30,109,98,000,MT,"Wibaux County Tot Mig-Forei",d,d,d
+30,109,30,109,MT,"Wibaux County Non-Migrants",331,699,11081
+30,111,96,000,MT,"Yellowstone Cou Tot Mig-US",3529,6648,127728
+30,111,97,000,MT,"Yellowstone Cou Tot Mig-US",3497,6610,127022
+30,111,97,001,MT,"Yellowstone Cou Tot Mig-Sam",1569,2818,45237
+30,111,97,003,MT,"Yellowstone Cou Tot Mig-Dif",1928,3792,81785
+30,111,98,000,MT,"Yellowstone Cou Tot Mig-For",32,38,706
+30,111,30,111,MT,"Yellowstone Cou Non-Migrant",49694,104854,2514195
+30,111,30,031,MT,"Gallatin County",163,290,4269
+30,111,30,009,MT,"Carbon County",131,241,4472
+30,111,30,063,MT,"Missoula County",113,182,3251
+30,111,30,087,MT,"Rosebud County",101,211,3153
+30,111,30,013,MT,"Cascade County",100,178,2814
+30,111,30,095,MT,"Stillwater County",94,177,3460
+30,111,30,003,MT,"Big Horn County",91,216,2464
+30,111,04,013,AZ,"Maricopa County",66,120,2385
+30,111,30,049,MT,"Lewis And Clark Coun",65,100,1594
+30,111,30,017,MT,"Custer County",61,108,1495
+30,111,30,093,MT,"Silver Bow County",49,90,1469
+30,111,30,065,MT,"Musselshell County",48,81,1655
+30,111,56,029,WY,"Park County",46,81,1358
+30,111,30,027,MT,"Fergus County",43,66,1185
+30,111,30,029,MT,"Flathead County",42,75,1231
+30,111,56,033,WY,"Sheridan County",42,83,1033
+30,111,06,073,CA,"San Diego County",41,82,1811
+30,111,30,085,MT,"Roosevelt County",39,84,688
+30,111,32,003,NV,"Clark County",39,74,1562
+30,111,30,083,MT,"Richland County",36,62,961
+30,111,30,041,MT,"Hill County",33,55,982
+30,111,53,053,WA,"Pierce County",31,62,1365
+30,111,53,033,WA,"King County",29,57,1131
+30,111,30,067,MT,"Park County",28,49,794
+30,111,30,105,MT,"Valley County",26,44,856
+30,111,56,003,WY,"Big Horn County",26,46,682
+30,111,30,081,MT,"Ravalli County",25,49,852
+30,111,46,103,SD,"Pennington County",25,45,1101
+30,111,08,041,CO,"El Paso County",24,49,718
+30,111,49,035,UT,"Salt Lake County",24,59,834
+30,111,56,025,WY,"Natrona County",24,50,773
+30,111,06,037,CA,"Los Angeles County",23,45,880
+30,111,30,021,MT,"Dawson County",23,40,586
+30,111,56,005,WY,"Campbell County",23,44,1055
+30,111,53,063,WA,"Spokane County",20,33,712
+30,111,06,071,CA,"San Bernardino Count",19,49,713
+30,111,30,097,MT,"Sweet Grass County",19,29,554
+30,111,41,051,OR,"Multnomah County",18,23,544
+30,111,53,061,WA,"Snohomish County",18,40,780
+30,111,16,001,ID,"Ada County",17,31,837
+30,111,30,005,MT,"Blaine County",17,37,330
+30,111,30,071,MT,"Phillips County",17,26,314
+30,111,57,005,FR,"Foreign - APO/FPO ZIPs",17,19,469
+30,111,06,059,CA,"Orange County",16,31,617
+30,111,30,091,MT,"Sheridan County",16,19,191
+30,111,06,065,CA,"Riverside County",15,29,701
+30,111,08,005,CO,"Arapahoe County",15,38,799
+30,111,08,059,CO,"Jefferson County",15,27,1265
+30,111,30,001,MT,"Beaverhead County",15,30,340
+30,111,02,020,AK,"Anchorage Borough",14,26,550
+30,111,16,055,ID,"Kootenai County",14,27,523
+30,111,30,035,MT,"Glacier County",14,22,541
+30,111,30,037,MT,"Golden Valley County",14,23,321
+30,111,56,001,WY,"Albany County",14,36,416
+30,111,08,031,CO,"Denver County",13,20,425
+30,111,38,015,ND,"Burleigh County",13,21,1676
+30,111,38,089,ND,"Stark County",13,25,695
+30,111,56,043,WY,"Washakie County",13,17,253
+30,111,30,043,MT,"Jefferson County",12,20,347
+30,111,32,031,NV,"Washoe County",12,29,682
+30,111,08,001,CO,"Adams County",11,19,343
+30,111,30,053,MT,"Lincoln County",11,14,410
+30,111,41,067,OR,"Washington County",11,17,420
+30,111,56,013,WY,"Fremont County",11,21,402
+30,111,56,021,WY,"Laramie County",11,20,428
+30,111,08,013,CO,"Boulder County",10,19,255
+30,111,08,069,CO,"Larimer County",10,21,384
+30,111,08,077,CO,"Mesa County",10,17,356
+30,111,30,007,MT,"Broadwater County",10,16,281
+30,111,38,105,ND,"Williams County",10,18,313
+30,111,58,000,SS,"Other Flows - Same State",113,184,3377
+30,111,59,000,DS,"Other Flows - Diff State",1122,2241,50006
+30,111,59,001,DS,"Other Flows - Northeast",75,136,3505
+30,111,59,003,DS,"Other Flows - Midwest",324,626,13098
+30,111,59,005,DS,"Other Flows - South",313,617,13890
+30,111,59,007,DS,"Other Flows - West",410,862,19513
+30,111,57,009,FR,"Foreign - Other flows",15,19,237

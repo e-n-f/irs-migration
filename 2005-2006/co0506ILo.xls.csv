@@ -1,0 +1,3785 @@
+"2005-2006 County to County Migration Outflow",,,,,,"Illinois Outflows",,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Illinois,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+17,000,96,000,IL,"Total Mig - US & For",280313,536458,14309260
+17,000,97,000,IL,"Total Mig - US",276878,530601,14149962
+17,000,97,001,IL,"Total Mig - US Same St",156224,301630,7389570
+17,000,97,003,IL,"Total Mig - US Diff St",120654,228971,6760393
+17,000,98,000,IL,"Total Mig - Foreign",3435,5857,159298
+17,001,96,000,IL,"Adams County Tot Mig-US & F",1100,1966,40441
+17,001,97,000,IL,"Adams County Tot Mig-US",1100,1966,40441
+17,001,97,001,IL,"Adams County Tot Mig-Same S",399,693,12962
+17,001,97,003,IL,"Adams County Tot Mig-Diff S",701,1273,27479
+17,001,98,000,IL,"Adams County Tot Mig-Foreig",d,d,d
+17,001,17,001,IL,"Adams County Non-Migrants",24903,54192,1187371
+17,001,29,127,MO,"Marion County",66,118,1927
+17,001,29,111,MO,"Lewis County",54,103,1651
+17,001,17,067,IL,"Hancock County",45,95,1117
+17,001,17,167,IL,"Sangamon County",41,68,1182
+17,001,17,149,IL,"Pike County",37,72,1131
+17,001,17,031,IL,"Cook County",35,45,1383
+17,001,29,189,MO,"St Louis County",29,44,1028
+17,001,29,019,MO,"Boone County",24,40,699
+17,001,17,109,IL,"Mcdonough County",20,33,535
+17,001,17,113,IL,"Mclean County",20,30,510
+17,001,17,119,IL,"Madison County",20,32,626
+17,001,29,183,MO,"St Charles County",17,35,568
+17,001,17,009,IL,"Brown County",14,27,545
+17,001,17,019,IL,"Champaign County",13,14,207
+17,001,17,043,IL,"Du Page County",11,21,383
+17,001,04,013,AZ,"Maricopa County",10,14,251
+17,001,17,169,IL,"Schuyler County",10,21,419
+17,001,58,000,SS,"Other Flows - Same State",133,235,4923
+17,001,59,000,DS,"Other Flows - Diff State",501,919,21355
+17,001,59,001,DS,"Other Flows - Northeast",20,35,1022
+17,001,59,003,DS,"Other Flows - Midwest",232,442,9337
+17,001,59,005,DS,"Other Flows - South",180,314,8007
+17,001,59,007,DS,"Other Flows - West",69,128,2989
+17,003,96,000,IL,"Alexander Count Tot Mig-US",221,477,6132
+17,003,97,000,IL,"Alexander Count Tot Mig-US",221,477,6132
+17,003,97,001,IL,"Alexander Count Tot Mig-Sam",91,206,2524
+17,003,97,003,IL,"Alexander Count Tot Mig-Dif",130,271,3608
+17,003,98,000,IL,"Alexander Count Tot Mig-For",d,d,d
+17,003,17,003,IL,"Alexander Count Non-Migrant",2430,5420,80075
+17,003,29,031,MO,"Cape Girardeau Count",50,106,1369
+17,003,17,153,IL,"Pulaski County",22,62,518
+17,003,17,181,IL,"Union County",14,36,470
+17,003,58,000,SS,"Other Flows - Same State",55,108,1536
+17,003,59,000,DS,"Other Flows - Diff State",80,165,2239
+17,005,96,000,IL,"Bond County Tot Mig-US & Fo",405,781,11749
+17,005,97,000,IL,"Bond County Tot Mig-US",405,781,11749
+17,005,97,001,IL,"Bond County Tot Mig-Same St",278,541,7764
+17,005,97,003,IL,"Bond County Tot Mig-Diff St",127,240,3985
+17,005,98,000,IL,"Bond County Tot Mig-Foreign",d,d,d
+17,005,17,005,IL,"Bond County Non-Migrants",5597,12515,252997
+17,005,17,119,IL,"Madison County",97,175,3009
+17,005,17,051,IL,"Fayette County",36,78,1191
+17,005,17,027,IL,"Clinton County",31,56,445
+17,005,17,135,IL,"Montgomery County",25,57,800
+17,005,17,163,IL,"St Clair County",20,45,505
+17,005,29,189,MO,"St Louis County",16,26,329
+17,005,58,000,SS,"Other Flows - Same State",69,130,1814
+17,005,59,000,DS,"Other Flows - Diff State",111,214,3655
+17,007,96,000,IL,"Boone County Tot Mig-US & F",1594,3253,67824
+17,007,97,000,IL,"Boone County Tot Mig-US",1594,3253,67824
+17,007,97,001,IL,"Boone County Tot Mig-Same S",1202,2430,47966
+17,007,97,003,IL,"Boone County Tot Mig-Diff S",392,823,19857
+17,007,98,000,IL,"Boone County Tot Mig-Foreig",d,d,d
+17,007,17,007,IL,"Boone County Non-Migrants",16795,42921,1045608
+17,007,17,201,IL,"Winnebago County",701,1387,29234
+17,007,17,031,IL,"Cook County",110,215,4097
+17,007,17,111,IL,"Mchenry County",109,267,4145
+17,007,17,089,IL,"Kane County",60,149,2151
+17,007,17,043,IL,"Du Page County",44,69,1604
+17,007,17,037,IL,"De Kalb County",36,64,828
+17,007,17,141,IL,"Ogle County",32,79,1551
+17,007,17,097,IL,"Lake County",19,42,781
+17,007,17,197,IL,"Will County",18,26,971
+17,007,55,105,WI,"Rock County",18,31,548
+17,007,04,013,AZ,"Maricopa County",15,28,907
+17,007,55,127,WI,"Walworth County",14,35,700
+17,007,17,113,IL,"Mclean County",12,17,267
+17,007,17,177,IL,"Stephenson County",12,20,359
+17,007,58,000,SS,"Other Flows - Same State",49,95,1979
+17,007,59,000,DS,"Other Flows - Diff State",345,729,17704
+17,007,59,001,DS,"Other Flows - Northeast",12,32,1193
+17,007,59,003,DS,"Other Flows - Midwest",117,257,6648
+17,007,59,005,DS,"Other Flows - South",154,319,7450
+17,007,59,007,DS,"Other Flows - West",62,121,2412
+17,009,96,000,IL,"Brown County Tot Mig-US & F",140,254,4707
+17,009,97,000,IL,"Brown County Tot Mig-US",140,254,4707
+17,009,97,001,IL,"Brown County Tot Mig-Same S",100,184,3301
+17,009,97,003,IL,"Brown County Tot Mig-Diff S",40,70,1406
+17,009,98,000,IL,"Brown County Tot Mig-Foreig",d,d,d
+17,009,17,009,IL,"Brown County Non-Migrants",1806,3964,77631
+17,009,17,001,IL,"Adams County",21,30,727
+17,009,17,149,IL,"Pike County",13,26,345
+17,009,17,137,IL,"Morgan County",10,21,248
+17,009,58,000,SS,"Other Flows - Same State",56,107,1982
+17,009,59,000,DS,"Other Flows - Diff State",40,70,1406
+17,011,96,000,IL,"Bureau County Tot Mig-US &",853,1516,28267
+17,011,97,000,IL,"Bureau County Tot Mig-US",853,1516,28267
+17,011,97,001,IL,"Bureau County Tot Mig-Same",603,1039,19954
+17,011,97,003,IL,"Bureau County Tot Mig-Diff",250,477,8313
+17,011,98,000,IL,"Bureau County Tot Mig-Forei",d,d,d
+17,011,17,011,IL,"Bureau County Non-Migrants",13318,29124,613250
+17,011,17,099,IL,"La Salle County",215,365,6553
+17,011,17,155,IL,"Putnam County",43,82,1224
+17,011,17,031,IL,"Cook County",42,58,934
+17,011,17,073,IL,"Henry County",38,71,1303
+17,011,17,113,IL,"Mclean County",31,46,812
+17,011,17,043,IL,"Du Page County",23,38,765
+17,011,17,195,IL,"Whiteside County",22,45,729
+17,011,17,103,IL,"Lee County",19,36,753
+17,011,17,143,IL,"Peoria County",19,36,865
+17,011,17,089,IL,"Kane County",15,26,861
+17,011,17,175,IL,"Stark County",13,20,276
+17,011,17,037,IL,"De Kalb County",12,16,415
+17,011,17,123,IL,"Marshall County",11,21,489
+17,011,04,013,AZ,"Maricopa County",10,15,382
+17,011,58,000,SS,"Other Flows - Same State",100,179,3975
+17,011,59,000,DS,"Other Flows - Diff State",240,462,7931
+17,011,59,001,DS,"Other Flows - Northeast",13,20,379
+17,011,59,003,DS,"Other Flows - Midwest",96,195,3534
+17,011,59,005,DS,"Other Flows - South",89,178,2784
+17,011,59,007,DS,"Other Flows - West",42,69,1234
+17,013,96,000,IL,"Calhoun County Tot Mig-US &",104,177,3906
+17,013,97,000,IL,"Calhoun County Tot Mig-US",104,177,3906
+17,013,97,001,IL,"Calhoun County Tot Mig-Same",75,132,2728
+17,013,97,003,IL,"Calhoun County Tot Mig-Diff",29,45,1179
+17,013,98,000,IL,"Calhoun County Tot Mig-Fore",d,d,d
+17,013,17,013,IL,"Calhoun County Non-Migrants",1839,4173,82439
+17,013,17,083,IL,"Jersey County",24,52,982
+17,013,17,119,IL,"Madison County",21,26,647
+17,013,58,000,SS,"Other Flows - Same State",30,54,1099
+17,013,59,000,DS,"Other Flows - Diff State",29,45,1179
+17,015,96,000,IL,"Carroll County Tot Mig-US &",359,663,13947
+17,015,97,000,IL,"Carroll County Tot Mig-US",359,663,13947
+17,015,97,001,IL,"Carroll County Tot Mig-Same",218,412,6673
+17,015,97,003,IL,"Carroll County Tot Mig-Diff",141,251,7274
+17,015,98,000,IL,"Carroll County Tot Mig-Fore",d,d,d
+17,015,17,015,IL,"Carroll County Non-Migrants",6259,13368,265878
+17,015,17,195,IL,"Whiteside County",57,119,1920
+17,015,17,177,IL,"Stephenson County",37,61,1013
+17,015,19,045,IA,"Clinton County",26,50,752
+17,015,17,141,IL,"Ogle County",24,46,918
+17,015,17,085,IL,"Jo Daviess County",17,30,404
+17,015,17,031,IL,"Cook County",12,17,260
+17,015,17,103,IL,"Lee County",12,32,368
+17,015,19,163,IA,"Scott County",10,17,228
+17,015,58,000,SS,"Other Flows - Same State",59,107,1791
+17,015,59,000,DS,"Other Flows - Diff State",105,184,6294
+17,017,96,000,IL,"Cass County Tot Mig-US & Fo",337,657,10902
+17,017,97,000,IL,"Cass County Tot Mig-US",337,657,10902
+17,017,97,001,IL,"Cass County Tot Mig-Same St",262,497,8756
+17,017,97,003,IL,"Cass County Tot Mig-Diff St",75,160,2146
+17,017,98,000,IL,"Cass County Tot Mig-Foreign",d,d,d
+17,017,17,017,IL,"Cass County Non-Migrants",4768,10746,196998
+17,017,17,137,IL,"Morgan County",63,126,2325
+17,017,17,167,IL,"Sangamon County",57,99,2043
+17,017,17,169,IL,"Schuyler County",35,78,1128
+17,017,17,109,IL,"Mcdonough County",10,12,205
+17,017,58,000,SS,"Other Flows - Same State",97,182,3055
+17,017,59,000,DS,"Other Flows - Diff State",75,160,2146
+17,019,96,000,IL,"Champaign Count Tot Mig-US",5483,9437,218656
+17,019,97,000,IL,"Champaign Count Tot Mig-US",5318,9172,214664
+17,019,97,001,IL,"Champaign Count Tot Mig-Sam",2500,4187,80033
+17,019,97,003,IL,"Champaign Count Tot Mig-Dif",2818,4985,134630
+17,019,98,000,IL,"Champaign Count Tot Mig-For",165,265,3993
+17,019,17,019,IL,"Champaign Count Non-Migrant",61554,126763,3402430
+17,019,17,031,IL,"Cook County",659,890,18205
+17,019,17,183,IL,"Vermilion County",200,365,5806
+17,019,17,147,IL,"Piatt County",175,370,6723
+17,019,17,113,IL,"Mclean County",168,285,5732
+17,019,17,041,IL,"Douglas County",127,247,4569
+17,019,17,043,IL,"Du Page County",110,159,4084
+17,019,17,053,IL,"Ford County",105,214,3186
+17,019,17,167,IL,"Sangamon County",89,151,2487
+17,019,17,029,IL,"Coles County",68,118,1914
+17,019,06,037,CA,"Los Angeles County",67,104,3443
+17,019,17,115,IL,"Macon County",67,109,2032
+17,019,06,085,CA,"Santa Clara County",61,93,3531
+17,019,17,143,IL,"Peoria County",61,111,2364
+17,019,04,013,AZ,"Maricopa County",57,82,1932
+17,019,29,189,MO,"St Louis County",57,99,2446
+17,019,17,097,IL,"Lake County",55,97,2190
+17,019,18,097,IN,"Marion County",53,88,1164
+17,019,53,033,WA,"King County",49,65,2071
+17,019,17,197,IL,"Will County",48,84,2363
+17,019,17,089,IL,"Kane County",40,59,1949
+17,019,17,039,IL,"De Witt County",36,68,992
+17,019,25,017,MA,"Middlesex County",35,48,1067
+17,019,29,510,MO,"St Louis",35,41,981
+17,019,06,073,CA,"San Diego County",34,57,1015
+17,019,48,453,TX,"Travis County",32,48,1164
+17,019,17,075,IL,"Iroquois County",31,53,754
+17,019,17,077,IL,"Jackson County",30,39,580
+17,019,17,163,IL,"St Clair County",30,61,915
+17,019,32,003,NV,"Clark County",30,46,959
+17,019,55,025,WI,"Dane County",30,43,1239
+17,019,06,059,CA,"Orange County",28,46,1129
+17,019,17,091,IL,"Kankakee County",26,56,802
+17,019,17,119,IL,"Madison County",25,50,926
+17,019,17,179,IL,"Tazewell County",25,48,1025
+17,019,36,061,NY,"New York County",25,34,998
+17,019,37,183,NC,"Wake County",25,38,1220
+17,019,11,001,DC,"District Of Columbia",24,31,859
+17,019,17,201,IL,"Winnebago County",24,43,640
+17,019,25,025,MA,"Suffolk County",23,30,809
+17,019,51,059,VA,"Fairfax County",23,34,912
+17,019,39,049,OH,"Franklin County",22,42,781
+17,019,17,111,IL,"Mchenry County",21,33,1131
+17,019,06,001,CA,"Alameda County",20,30,977
+17,019,12,095,FL,"Orange County",20,28,669
+17,019,27,053,MN,"Hennepin County",20,33,946
+17,019,48,201,TX,"Harris County",19,39,784
+17,019,06,075,CA,"San Francisco County",18,18,483
+17,019,08,013,CO,"Boulder County",17,24,915
+17,019,12,103,FL,"Pinellas County",17,28,363
+17,019,17,139,IL,"Moultrie County",17,27,373
+17,019,26,161,MI,"Washtenaw County",17,31,839
+17,019,48,085,TX,"Collin County",17,44,1107
+17,019,48,113,TX,"Dallas County",17,33,1147
+17,019,57,005,FR,"Foreign - APO/FPO ZIPs",17,32,447
+17,019,17,037,IL,"De Kalb County",16,25,530
+17,019,18,089,IN,"Lake County",16,31,308
+17,019,39,035,OH,"Cuyahoga County",16,33,877
+17,019,41,067,OR,"Washington County",16,30,767
+17,019,42,003,PA,"Allegheny County",16,18,531
+17,019,47,157,TN,"Shelby County",16,34,796
+17,019,04,019,AZ,"Pima County",15,27,831
+17,019,17,105,IL,"Livingston County",15,22,408
+17,019,18,057,IN,"Hamilton County",15,31,813
+17,019,27,123,MN,"Ramsey County",15,23,490
+17,019,06,065,CA,"Riverside County",14,24,320
+17,019,29,183,MO,"St Charles County",14,30,718
+17,019,34,023,NJ,"Middlesex County",14,22,922
+17,019,37,119,NC,"Mecklenburg County",14,23,579
+17,019,47,037,TN,"Davidson County",13,16,449
+17,019,06,067,CA,"Sacramento County",12,23,316
+17,019,08,031,CO,"Denver County",12,12,281
+17,019,18,157,IN,"Tippecanoe County",12,17,375
+17,019,24,031,MD,"Montgomery County",12,23,985
+17,019,41,051,OR,"Multnomah County",12,13,381
+17,019,12,057,FL,"Hillsborough County",11,11,161
+17,019,13,089,GA,"De Kalb County",11,19,503
+17,019,13,121,GA,"Fulton County",11,23,310
+17,019,17,109,IL,"Mcdonough County",11,17,248
+17,019,17,199,IL,"Williamson County",11,21,503
+17,019,18,063,IN,"Hendricks County",11,23,696
+17,019,25,021,MA,"Norfolk County",11,22,542
+17,019,42,027,PA,"Centre County",11,24,445
+17,019,51,013,VA,"Arlington County",11,17,403
+17,019,12,031,FL,"Duval County",10,16,220
+17,019,12,071,FL,"Lee County",10,13,6529
+17,019,12,086,FL,"Miami Dade County",10,13,286
+17,019,12,099,FL,"Palm Beach County",10,12,559
+17,019,17,049,IL,"Effingham County",10,14,258
+17,019,17,093,IL,"Kendall County",10,17,631
+17,019,17,107,IL,"Logan County",10,15,252
+17,019,17,161,IL,"Rock Island County",10,12,287
+17,019,18,167,IN,"Vigo County",10,19,175
+17,019,19,153,IA,"Polk County",10,16,426
+17,019,26,163,MI,"Wayne County",10,17,340
+17,019,35,001,NM,"Bernalillo County",10,14,775
+17,019,36,081,NY,"Queens County",10,16,362
+17,019,48,029,TX,"Bexar County",10,12,444
+17,019,48,439,TX,"Tarrant County",10,21,436
+17,019,55,079,WI,"Milwaukee County",10,14,294
+17,019,58,000,SS,"Other Flows - Same State",170,307,5175
+17,019,59,000,DS,"Other Flows - Diff State",1475,2856,74037
+17,019,59,001,DS,"Other Flows - Northeast",218,400,13473
+17,019,59,003,DS,"Other Flows - Midwest",435,872,20221
+17,019,59,005,DS,"Other Flows - South",596,1162,30928
+17,019,59,007,DS,"Other Flows - West",226,422,9416
+17,019,57,009,FR,"Foreign - Other flows",148,233,3546
+17,021,96,000,IL,"Christian Count Tot Mig-US",703,1293,50571
+17,021,97,000,IL,"Christian Count Tot Mig-US",703,1293,50571
+17,021,97,001,IL,"Christian Count Tot Mig-Sam",512,937,15616
+17,021,97,003,IL,"Christian Count Tot Mig-Dif",191,356,34955
+17,021,98,000,IL,"Christian Count Tot Mig-For",d,d,d
+17,021,17,021,IL,"Christian Count Non-Migrant",12732,27801,571375
+17,021,17,167,IL,"Sangamon County",158,283,5053
+17,021,17,173,IL,"Shelby County",59,142,1854
+17,021,17,115,IL,"Macon County",57,81,1654
+17,021,17,135,IL,"Montgomery County",36,82,976
+17,021,17,031,IL,"Cook County",18,20,373
+17,021,17,029,IL,"Coles County",13,18,247
+17,021,17,113,IL,"Mclean County",13,19,308
+17,021,17,107,IL,"Logan County",12,25,262
+17,021,17,117,IL,"Macoupin County",12,20,326
+17,021,17,119,IL,"Madison County",12,20,434
+17,021,29,189,MO,"St Louis County",11,21,353
+17,021,17,019,IL,"Champaign County",10,15,353
+17,021,58,000,SS,"Other Flows - Same State",112,212,3777
+17,021,59,000,DS,"Other Flows - Diff State",180,335,34602
+17,023,96,000,IL,"Clark County Tot Mig-US & F",369,729,10748
+17,023,97,000,IL,"Clark County Tot Mig-US",369,729,10748
+17,023,97,001,IL,"Clark County Tot Mig-Same S",192,367,4553
+17,023,97,003,IL,"Clark County Tot Mig-Diff S",177,362,6195
+17,023,98,000,IL,"Clark County Tot Mig-Foreig",d,d,d
+17,023,17,023,IL,"Clark County Non-Migrants",6041,13406,256899
+17,023,18,167,IN,"Vigo County",59,114,1720
+17,023,17,029,IL,"Coles County",44,74,1059
+17,023,17,045,IL,"Edgar County",30,60,874
+17,023,17,033,IL,"Crawford County",24,60,731
+17,023,17,035,IL,"Cumberland County",23,52,500
+17,023,18,097,IN,"Marion County",10,10,213
+17,023,58,000,SS,"Other Flows - Same State",71,121,1388
+17,023,59,000,DS,"Other Flows - Diff State",108,238,4262
+17,025,96,000,IL,"Clay County Tot Mig-US & Fo",332,673,12143
+17,025,97,000,IL,"Clay County Tot Mig-US",332,673,12143
+17,025,97,001,IL,"Clay County Tot Mig-Same St",251,531,8967
+17,025,97,003,IL,"Clay County Tot Mig-Diff St",81,142,3176
+17,025,98,000,IL,"Clay County Tot Mig-Foreign",d,d,d
+17,025,17,025,IL,"Clay County Non-Migrants",5078,11268,192859
+17,025,17,049,IL,"Effingham County",44,86,908
+17,025,17,159,IL,"Richland County",30,66,783
+17,025,17,191,IL,"Wayne County",29,58,604
+17,025,17,029,IL,"Coles County",21,34,475
+17,025,17,045,IL,"Edgar County",20,63,2350
+17,025,17,121,IL,"Marion County",16,41,504
+17,025,17,051,IL,"Fayette County",10,19,337
+17,025,58,000,SS,"Other Flows - Same State",81,164,3005
+17,025,59,000,DS,"Other Flows - Diff State",81,142,3176
+17,027,96,000,IL,"Clinton County Tot Mig-US &",699,1253,23374
+17,027,97,000,IL,"Clinton County Tot Mig-US",699,1253,23374
+17,027,97,001,IL,"Clinton County Tot Mig-Same",470,867,15692
+17,027,97,003,IL,"Clinton County Tot Mig-Diff",229,386,7682
+17,027,98,000,IL,"Clinton County Tot Mig-Fore",d,d,d
+17,027,17,027,IL,"Clinton County Non-Migrants",13274,29530,681615
+17,027,17,163,IL,"St Clair County",123,218,3941
+17,027,17,119,IL,"Madison County",98,177,3342
+17,027,17,121,IL,"Marion County",60,133,1911
+17,027,17,189,IL,"Washington County",36,69,1471
+17,027,17,005,IL,"Bond County",32,67,1636
+17,027,29,189,MO,"St Louis County",27,34,844
+17,027,17,081,IL,"Jefferson County",18,31,570
+17,027,17,031,IL,"Cook County",11,15,327
+17,027,17,145,IL,"Perry County",10,19,223
+17,027,29,510,MO,"St Louis",10,13,371
+17,027,58,000,SS,"Other Flows - Same State",82,138,2271
+17,027,59,000,DS,"Other Flows - Diff State",192,339,6467
+17,029,96,000,IL,"Coles County Tot Mig-US & F",1338,2375,48023
+17,029,97,000,IL,"Coles County Tot Mig-US",1338,2375,48023
+17,029,97,001,IL,"Coles County Tot Mig-Same S",859,1506,24959
+17,029,97,003,IL,"Coles County Tot Mig-Diff S",479,869,23064
+17,029,98,000,IL,"Coles County Tot Mig-Foreig",d,d,d
+17,029,17,029,IL,"Coles County Non-Migrants",16261,34402,765626
+17,029,17,035,IL,"Cumberland County",97,181,2515
+17,029,17,019,IL,"Champaign County",94,158,3444
+17,029,17,041,IL,"Douglas County",67,128,1976
+17,029,17,139,IL,"Moultrie County",65,115,2054
+17,029,17,173,IL,"Shelby County",56,96,1688
+17,029,17,031,IL,"Cook County",46,61,1510
+17,029,17,049,IL,"Effingham County",44,87,1336
+17,029,17,023,IL,"Clark County",39,76,1149
+17,029,17,115,IL,"Macon County",32,60,639
+17,029,17,045,IL,"Edgar County",30,66,622
+17,029,17,167,IL,"Sangamon County",20,32,569
+17,029,17,113,IL,"Mclean County",19,34,714
+17,029,17,183,IL,"Vermilion County",18,30,486
+17,029,17,119,IL,"Madison County",17,31,435
+17,029,17,197,IL,"Will County",17,23,373
+17,029,17,043,IL,"Du Page County",12,14,524
+17,029,17,033,IL,"Crawford County",11,23,249
+17,029,17,091,IL,"Kankakee County",11,21,147
+17,029,29,189,MO,"St Louis County",11,18,300
+17,029,18,097,IN,"Marion County",10,23,420
+17,029,58,000,SS,"Other Flows - Same State",164,270,4528
+17,029,59,000,DS,"Other Flows - Diff State",458,828,22344
+17,029,59,001,DS,"Other Flows - Northeast",31,52,817
+17,029,59,003,DS,"Other Flows - Midwest",148,275,6848
+17,029,59,005,DS,"Other Flows - South",199,364,11514
+17,029,59,007,DS,"Other Flows - West",80,137,3165
+17,031,96,000,IL,"Cook County Tot Mig-US & Fo",95397,185552,5391537
+17,031,97,000,IL,"Cook County Tot Mig-US",93730,183044,5320622
+17,031,97,001,IL,"Cook County Tot Mig-Same St",44702,93979,2462482
+17,031,97,003,IL,"Cook County Tot Mig-Diff St",49028,89065,2858140
+17,031,98,000,IL,"Cook County Tot Mig-Foreign",1667,2508,70915
+17,031,17,031,IL,"Cook County Non-Migrants",1819837,3913159,107531907
+17,031,17,043,IL,"Du Page County",12489,24464,681313
+17,031,17,197,IL,"Will County",10713,25137,579522
+17,031,17,097,IL,"Lake County",7247,14910,505649
+17,031,17,089,IL,"Kane County",4540,9692,242567
+17,031,18,089,IN,"Lake County",4098,9487,162446
+17,031,17,111,IL,"Mchenry County",3081,6184,189868
+17,031,04,013,AZ,"Maricopa County",1598,2888,85877
+17,031,06,037,CA,"Los Angeles County",1596,2400,75270
+17,031,36,061,NY,"New York County",1094,1332,105046
+17,031,32,003,NV,"Clark County",1060,1920,48360
+17,031,17,093,IL,"Kendall County",758,1843,41915
+17,031,55,079,WI,"Milwaukee County",755,1406,30647
+17,031,17,201,IL,"Winnebago County",718,1593,27499
+17,031,17,091,IL,"Kankakee County",652,1474,29240
+17,031,27,053,MN,"Hennepin County",648,1192,36682
+17,031,06,073,CA,"San Diego County",639,985,34271
+17,031,17,037,IL,"De Kalb County",560,951,16902
+17,031,48,201,TX,"Harris County",558,1136,24579
+17,031,53,033,WA,"King County",546,825,38684
+17,031,18,097,IN,"Marion County",487,874,18267
+17,031,55,025,WI,"Dane County",480,835,20907
+17,031,06,075,CA,"San Francisco County",479,557,35654
+17,031,17,019,IL,"Champaign County",472,692,14924
+17,031,17,063,IL,"Grundy County",443,1040,21460
+17,031,06,059,CA,"Orange County",427,746,30433
+17,031,18,127,IN,"Porter County",427,954,21655
+17,031,36,047,NY,"Kings County",426,535,15561
+17,031,48,113,TX,"Dallas County",426,895,21762
+17,031,12,011,FL,"Broward County",410,709,26655
+17,031,12,086,FL,"Miami Dade County",402,669,26234
+17,031,17,007,IL,"Boone County",363,981,16518
+17,031,29,189,MO,"St Louis County",358,598,20054
+17,031,26,125,MI,"Oakland County",352,586,24048
+17,031,12,095,FL,"Orange County",351,665,16298
+17,031,13,121,GA,"Fulton County",336,557,20244
+17,031,55,059,WI,"Kenosha County",336,674,17493
+17,031,11,001,DC,"District Of Columbia",335,408,19481
+17,031,17,113,IL,"Mclean County",329,582,10530
+17,031,08,031,CO,"Denver County",301,386,18318
+17,031,12,099,FL,"Palm Beach County",296,535,67192
+17,031,39,049,OH,"Franklin County",295,498,17234
+17,031,12,057,FL,"Hillsborough County",294,518,12724
+17,031,06,001,CA,"Alameda County",291,419,15238
+17,031,12,071,FL,"Lee County",284,533,32647
+17,031,06,085,CA,"Santa Clara County",282,444,19338
+17,031,12,103,FL,"Pinellas County",280,466,55735
+17,031,25,025,MA,"Suffolk County",279,344,21089
+17,031,48,029,TX,"Bexar County",276,631,21208
+17,031,39,035,OH,"Cuyahoga County",267,434,15989
+17,031,57,005,FR,"Foreign - APO/FPO ZIPs",265,355,5568
+17,031,25,017,MA,"Middlesex County",264,376,15690
+17,031,47,157,TN,"Shelby County",260,538,9074
+17,031,48,439,TX,"Tarrant County",259,575,12734
+17,031,48,453,TX,"Travis County",255,452,18127
+17,031,13,089,GA,"De Kalb County",242,444,10774
+17,031,37,119,NC,"Mecklenburg County",236,422,21173
+17,031,27,123,MN,"Ramsey County",232,449,6788
+17,031,42,101,PA,"Philadelphia County",231,324,12932
+17,031,51,059,VA,"Fairfax County",230,386,16335
+17,031,26,163,MI,"Wayne County",228,423,12388
+17,031,24,031,MD,"Montgomery County",224,386,17436
+17,031,13,067,GA,"Cobb County",222,434,10627
+17,031,47,037,TN,"Davidson County",214,388,9575
+17,031,17,167,IL,"Sangamon County",212,417,6334
+17,031,36,081,NY,"Queens County",204,302,7090
+17,031,17,099,IL,"La Salle County",198,397,8023
+17,031,26,081,MI,"Kent County",196,367,9577
+17,031,18,141,IN,"St Joseph County",193,396,9677
+17,031,13,135,GA,"Gwinnett County",192,437,6101
+17,031,04,019,AZ,"Pima County",191,321,9907
+17,031,26,161,MI,"Washtenaw County",187,275,12424
+17,031,17,143,IL,"Peoria County",183,327,7966
+17,031,12,021,FL,"Collier County",181,315,39959
+17,031,39,061,OH,"Hamilton County",181,311,11945
+17,031,51,013,VA,"Arlington County",180,218,11647
+17,031,41,051,OR,"Multnomah County",172,238,9118
+17,031,55,127,WI,"Walworth County",169,337,8783
+17,031,55,133,WI,"Waukesha County",169,329,14608
+17,031,12,031,FL,"Duval County",167,297,6992
+17,031,18,091,IN,"La Porte County",164,308,8936
+17,031,19,153,IA,"Polk County",162,329,6997
+17,031,18,157,IN,"Tippecanoe County",161,325,4463
+17,031,42,003,PA,"Allegheny County",161,268,9233
+17,031,06,065,CA,"Riverside County",157,287,9705
+17,031,34,017,NJ,"Hudson County",156,254,13682
+17,031,55,101,WI,"Racine County",154,338,7246
+17,031,17,077,IL,"Jackson County",151,209,2499
+17,031,09,001,CT,"Fairfield County",149,284,25671
+17,031,20,091,KS,"Johnson County",149,261,9772
+17,031,29,510,MO,"St Louis",149,215,6270
+17,031,48,085,TX,"Collin County",149,313,11377
+17,031,15,003,HI,"Honolulu County",147,240,5022
+17,031,19,103,IA,"Johnson County",147,271,4479
+17,031,12,115,FL,"Sarasota County",146,247,16219
+17,031,06,081,CA,"San Mateo County",138,217,12151
+17,031,26,021,MI,"Berrien County",137,229,8550
+17,031,57,003,FR,"Foreign - Puerto Rico",136,321,5239
+17,031,21,111,KY,"Jefferson County",131,225,5550
+17,031,12,097,FL,"Osceola County",127,279,6883
+17,031,37,183,NC,"Wake County",125,223,8299
+17,031,06,071,CA,"San Bernardino Count",124,230,3969
+17,031,18,057,IN,"Hamilton County",123,255,10107
+17,031,48,121,TX,"Denton County",118,263,6887
+17,031,08,013,CO,"Boulder County",117,168,5682
+17,031,24,510,MD,Baltimore,117,157,7716
+17,031,29,095,MO,"Jackson County",117,178,4906
+17,031,34,023,NJ,"Middlesex County",117,221,7798
+17,031,26,077,MI,"Kalamazoo County",116,219,8079
+17,031,06,067,CA,"Sacramento County",112,193,4623
+17,031,06,013,CA,"Contra Costa County",109,194,9238
+17,031,17,183,IL,"Vermilion County",108,238,1703
+17,031,42,091,PA,"Montgomery County",105,183,9540
+17,031,17,161,IL,"Rock Island County",104,196,2530
+17,031,48,215,TX,"Hidalgo County",104,261,3372
+17,031,12,081,FL,"Manatee County",102,185,9668
+17,031,35,001,NM,"Bernalillo County",101,158,4092
+17,031,36,119,NY,"Westchester County",100,201,18789
+17,031,08,041,CO,"El Paso County",99,174,3656
+17,031,18,003,IN,"Allen County",99,221,3213
+17,031,25,021,MA,"Norfolk County",99,154,6923
+17,031,08,059,CO,"Jefferson County",98,153,5462
+17,031,55,105,WI,"Rock County",98,246,2786
+17,031,31,055,NE,"Douglas County",96,190,5260
+17,031,09,009,CT,"New Haven County",93,133,3894
+17,031,08,005,CO,"Arapahoe County",91,146,4037
+17,031,48,141,TX,"El Paso County",91,227,2137
+17,031,12,101,FL,"Pasco County",90,178,4158
+17,031,12,105,FL,"Polk County",88,186,4836
+17,031,17,141,IL,"Ogle County",88,215,4782
+17,031,49,035,UT,"Salt Lake County",87,170,4380
+17,031,18,039,IN,"Elkhart County",86,214,1935
+17,031,01,073,AL,"Jefferson County",85,179,4463
+17,031,04,021,AZ,"Pinal County",85,185,4598
+17,031,17,115,IL,"Macon County",84,161,2933
+17,031,17,163,IL,"St Clair County",84,166,3140
+17,031,19,163,IA,"Scott County",84,142,4503
+17,031,41,067,OR,"Washington County",84,156,4651
+17,031,53,053,WA,"Pierce County",84,157,3501
+17,031,26,139,MI,"Ottawa County",83,157,4036
+17,031,24,033,MD,"Prince George's Coun",82,124,2653
+17,031,12,117,FL,"Seminole County",81,161,3720
+17,031,26,065,MI,"Ingham County",81,125,2716
+17,031,36,103,NY,"Suffolk County",81,127,3845
+17,031,39,113,OH,"Montgomery County",81,144,3235
+17,031,12,127,FL,"Volusia County",80,144,3519
+17,031,26,099,MI,"Macomb County",80,122,5275
+17,031,34,003,NJ,"Bergen County",80,157,5986
+17,031,18,105,IN,"Monroe County",79,115,3185
+17,031,27,037,MN,"Dakota County",79,150,3485
+17,031,51,510,VA,Alexandria,78,112,4818
+17,031,36,005,NY,"Bronx County",74,130,1829
+17,031,48,491,TX,"Williamson County",74,160,2740
+17,031,17,119,IL,"Madison County",73,139,2476
+17,031,09,003,CT,"Hartford County",72,114,4983
+17,031,21,067,KY,"Fayette County",72,146,4100
+17,031,06,111,CA,"Ventura County",71,126,4560
+17,031,13,063,GA,"Clayton County",70,145,1572
+17,031,28,049,MS,"Hinds County",70,139,1668
+17,031,37,063,NC,"Durham County",70,117,3681
+17,031,17,075,IL,"Iroquois County",69,166,2316
+17,031,08,035,CO,"Douglas County",68,139,8276
+17,031,19,061,IA,"Dubuque County",68,136,1755
+17,031,48,157,TX,"Fort Bend County",68,159,3842
+17,031,19,113,IA,"Linn County",67,125,5197
+17,031,40,109,OK,"Oklahoma County",67,135,2456
+17,031,05,119,AR,"Pulaski County",66,123,1840
+17,031,12,069,FL,"Lake County",66,129,1005
+17,031,34,013,NJ,"Essex County",66,109,11414
+17,031,24,005,MD,"Baltimore County",65,114,8917
+17,031,36,029,NY,"Erie County",65,116,6260
+17,031,36,055,NY,"Monroe County",65,115,4052
+17,031,40,143,OK,"Tulsa County",65,116,2923
+17,031,24,003,MD,"Anne Arundel County",64,124,4878
+17,031,26,159,MI,"Van Buren County",64,163,3337
+17,031,29,183,MO,"St Charles County",64,108,3380
+17,031,36,059,NY,"Nassau County",63,94,5411
+17,031,55,087,WI,"Outagamie County",63,124,2269
+17,031,17,179,IL,"Tazewell County",62,97,2867
+17,031,51,710,VA,Norfolk,61,108,1691
+17,031,51,810,VA,"Virginia Beach",61,108,2264
+17,031,45,019,SC,"Charleston County",60,91,3123
+17,031,55,009,WI,"Brown County",60,137,1969
+17,031,06,041,CA,"Marin County",59,93,16377
+17,031,12,083,FL,"Marion County",58,129,4430
+17,031,44,007,RI,"Providence County",57,85,2465
+17,031,27,003,MN,"Anoka County",56,109,1916
+17,031,37,133,NC,"Onslow County",56,94,954
+17,031,39,095,OH,"Lucas County",56,106,2886
+17,031,53,061,WA,"Snohomish County",56,91,2175
+17,031,29,019,MO,"Boone County",55,85,2139
+17,031,35,049,NM,"Santa Fe County",55,70,3990
+17,031,12,009,FL,"Brevard County",54,93,2879
+17,031,20,173,KS,"Sedgwick County",54,124,2256
+17,031,37,051,NC,"Cumberland County",54,97,1014
+17,031,08,001,CO,"Adams County",53,96,2034
+17,031,08,069,CO,"Larimer County",53,80,2004
+17,031,10,003,DE,"New Castle County",53,114,5802
+17,031,34,021,NJ,"Mercer County",53,87,4490
+17,031,48,339,TX,"Montgomery County",53,122,3974
+17,031,12,111,FL,"St Lucie County",52,91,2050
+17,031,17,085,IL,"Jo Daviess County",52,94,3770
+17,031,26,005,MI,"Allegan County",52,95,3247
+17,031,04,025,AZ,"Yavapai County",51,80,3818
+17,031,17,029,IL,"Coles County",50,79,1121
+17,031,17,177,IL,"Stephenson County",50,104,1732
+17,031,17,195,IL,"Whiteside County",50,99,1872
+17,031,55,139,WI,"Winnebago County",50,103,2798
+17,031,12,015,FL,"Charlotte County",48,76,3459
+17,031,32,031,NV,"Washoe County",48,84,2502
+17,031,34,027,NJ,"Morris County",48,85,7035
+17,031,48,027,TX,"Bell County",48,105,901
+17,031,05,143,AR,"Washington County",47,108,1771
+17,031,25,009,MA,"Essex County",47,71,3171
+17,031,42,045,PA,"Delaware County",47,95,4770
+17,031,05,007,AR,"Benton County",46,104,2360
+17,031,17,011,IL,"Bureau County",46,90,1903
+17,031,17,103,IL,"Lee County",46,83,2104
+17,031,17,105,IL,"Livingston County",46,105,1790
+17,031,27,109,MN,"Olmsted County",46,96,1540
+17,031,27,163,MN,"Washington County",46,90,2815
+17,031,36,109,NY,"Tompkins County",46,63,1792
+17,031,06,083,CA,"Santa Barbara County",45,84,1984
+17,031,47,093,TN,"Knox County",45,84,2907
+17,031,39,153,OH,"Summit County",44,79,6033
+17,031,45,013,SC,"Beaufort County",44,78,5667
+17,031,51,107,VA,"Loudoun County",44,73,3629
+17,031,24,027,MD,"Howard County",43,77,3661
+17,031,39,017,OH,"Butler County",43,101,5587
+17,031,42,029,PA,"Chester County",43,91,3723
+17,031,47,187,TN,"Williamson County",43,113,4066
+17,031,12,033,FL,"Escambia County",42,59,1631
+17,031,17,199,IL,"Williamson County",42,64,1486
+17,031,18,073,IN,"Jasper County",42,87,1892
+17,031,22,071,LA,"Orleans Parish",42,55,1486
+17,031,28,033,MS,"De Soto County",42,91,1564
+17,031,34,039,NJ,"Union County",42,75,6139
+17,031,37,135,NC,"Orange County",42,75,2895
+17,031,51,087,VA,"Henrico County",42,64,2067
+17,031,01,089,AL,"Madison County",41,75,1002
+17,031,34,035,NJ,"Somerset County",41,68,2995
+17,031,48,479,TX,"Webb County",41,94,2219
+17,031,17,095,IL,"Knox County",40,85,1226
+17,031,45,045,SC,"Greenville County",40,71,2316
+17,031,12,053,FL,"Hernando County",39,64,1503
+17,031,13,051,GA,"Chatham County",39,67,8023
+17,031,26,049,MI,"Genesee County",39,64,1353
+17,031,42,017,PA,"Bucks County",39,70,3356
+17,031,47,065,TN,"Hamilton County",39,67,1317
+17,031,53,011,WA,"Clark County",39,64,1838
+17,031,06,019,CA,"Fresno County",38,82,1513
+17,031,06,053,CA,"Monterey County",38,68,2370
+17,031,06,097,CA,"Sonoma County",38,57,1216
+17,031,25,027,MA,"Worcester County",38,69,2162
+17,031,47,149,TN,"Rutherford County",38,76,1600
+17,031,01,101,AL,"Montgomery County",37,62,924
+17,031,19,013,IA,"Black Hawk County",37,83,1124
+17,031,55,021,WI,"Columbia County",37,53,1593
+17,031,55,117,WI,"Sheboygan County",37,74,2422
+17,031,17,109,IL,"Mcdonough County",36,52,548
+17,031,18,163,IN,"Vanderburgh County",36,78,1046
+17,031,12,017,FL,"Citrus County",35,64,2375
+17,031,12,109,FL,"St Johns County",35,64,3638
+17,031,19,169,IA,"Story County",35,58,920
+17,031,39,041,OH,"Delaware County",35,69,5667
+17,031,48,099,TX,"Coryell County",35,60,633
+17,031,12,073,FL,"Leon County",34,46,1402
+17,031,16,001,ID,"Ada County",34,57,2000
+17,031,35,043,NM,"Sandoval County",34,64,1725
+17,031,55,089,WI,"Ozaukee County",34,65,2937
+17,031,05,005,AR,"Baxter County",33,60,1540
+17,031,13,139,GA,"Hall County",33,82,1315
+17,031,22,033,LA,"East Baton Rouge Par",33,68,1101
+17,031,29,077,MO,"Greene County",33,52,1073
+17,031,48,061,TX,"Cameron County",33,78,963
+17,031,55,001,WI,"Adams County",33,65,2023
+17,031,55,073,WI,"Marathon County",33,56,1405
+17,031,12,091,FL,"Okaloosa County",32,54,36484
+17,031,12,119,FL,"Sumter County",32,60,1852
+17,031,17,001,IL,"Adams County",32,60,1048
+17,031,18,081,IN,"Johnson County",32,70,1609
+17,031,23,005,ME,"Cumberland County",32,54,2009
+17,031,34,025,NJ,"Monmouth County",32,68,3800
+17,031,37,067,NC,"Forsyth County",32,62,1780
+17,031,39,165,OH,"Warren County",32,59,2648
+17,031,51,153,VA,"Prince William Count",32,50,1769
+17,031,55,085,WI,"Oneida County",32,58,1769
+17,031,06,095,CA,"Solano County",31,50,1610
+17,031,12,001,FL,"Alachua County",31,46,1073
+17,031,18,149,IN,"Starke County",31,69,1631
+17,031,26,027,MI,"Cass County",31,65,1612
+17,031,29,047,MO,"Clay County",31,55,1288
+17,031,37,081,NC,"Guilford County",31,50,1323
+17,031,45,079,SC,"Richland County",31,52,1689
+17,031,48,039,TX,"Brazoria County",31,70,5662
+17,031,53,035,WA,"Kitsap County",31,49,1169
+17,031,06,099,CA,"Stanislaus County",30,76,1809
+17,031,17,081,IL,"Jefferson County",30,73,900
+17,031,31,109,NE,"Lancaster County",30,49,781
+17,031,36,001,NY,"Albany County",30,65,1912
+17,031,55,029,WI,"Door County",30,49,1499
+17,031,06,029,CA,"Kern County",29,60,1180
+17,031,18,167,IN,"Vigo County",29,58,785
+17,031,20,209,KS,"Wyandotte County",29,65,1094
+17,031,26,121,MI,"Muskegon County",28,60,1234
+17,031,37,021,NC,"Buncombe County",28,44,1159
+17,031,05,051,AR,"Garland County",27,51,1545
+17,031,06,077,CA,"San Joaquin County",27,47,870
+17,031,08,037,CO,"Eagle County",27,45,1453
+17,031,12,035,FL,"Flagler County",27,52,2167
+17,031,13,313,GA,"Whitfield County",27,76,698
+17,031,17,015,IL,"Carroll County",27,49,1201
+17,031,26,093,MI,"Livingston County",27,46,2101
+17,031,36,067,NY,"Onondaga County",27,35,835
+17,031,51,760,VA,Richmond,27,40,1447
+17,031,53,067,WA,"Thurston County",27,44,1278
+17,031,55,111,WI,"Sauk County",27,57,972
+17,031,04,015,AZ,"Mohave County",26,50,1086
+17,031,25,001,MA,"Barnstable County",26,39,1875
+17,031,27,137,MN,"St Louis County",26,55,1317
+17,031,28,051,MS,"Holmes County",26,55,601
+17,031,28,089,MS,"Madison County",26,40,933
+17,031,33,011,NH,"Hillsborough County",26,43,1440
+17,031,55,063,WI,"La Crosse County",26,44,852
+17,031,04,005,AZ,"Coconino County",25,29,732
+17,031,26,145,MI,"Saginaw County",25,50,691
+17,031,41,039,OR,"Lane County",25,30,971
+17,031,53,063,WA,"Spokane County",25,31,1232
+17,031,55,035,WI,"Eau Claire County",25,49,647
+17,031,01,097,AL,"Mobile County",24,52,1726
+17,031,12,061,FL,"Indian River County",24,36,6472
+17,031,13,097,GA,"Douglas County",24,51,1246
+17,031,13,117,GA,"Forsyth County",24,45,1395
+17,031,18,111,IN,"Newton County",24,50,929
+17,031,26,055,MI,"Grand Traverse Count",24,38,1248
+17,031,48,167,TX,"Galveston County",24,42,1712
+17,031,55,039,WI,"Fond Du Lac County",24,54,716
+17,031,55,125,WI,"Vilas County",24,51,2742
+17,031,06,087,CA,"Santa Cruz County",23,32,896
+17,031,13,021,GA,"Bibb County",23,36,1022
+17,031,13,215,GA,"Muscogee County",23,51,712
+17,031,13,247,GA,"Rockdale County",23,49,744
+17,031,17,073,IL,"Henry County",23,45,797
+17,031,34,029,NJ,"Ocean County",23,39,981
+17,031,35,013,NM,"Dona Ana County",23,43,2061
+17,031,39,093,OH,"Lorain County",23,43,1126
+17,031,46,099,SD,"Minnehaha County",23,39,1183
+17,031,47,125,TN,"Montgomery County",23,58,784
+17,031,51,041,VA,"Chesterfield County",23,50,2022
+17,031,55,055,WI,"Jefferson County",23,34,1123
+17,031,55,131,WI,"Washington County",23,52,931
+17,031,13,057,GA,"Cherokee County",22,43,1324
+17,031,18,005,IN,"Bartholomew County",22,53,1000
+17,031,18,063,IN,"Hendricks County",22,43,884
+17,031,20,045,KS,"Douglas County",22,25,652
+17,031,20,177,KS,"Shawnee County",22,39,596
+17,031,26,045,MI,"Eaton County",22,38,1202
+17,031,31,153,NE,"Sarpy County",22,37,1181
+17,031,39,057,OH,"Greene County",22,33,796
+17,031,39,085,OH,"Lake County",22,42,1295
+17,031,41,005,OR,"Clackamas County",22,45,1331
+17,031,45,051,SC,"Horry County",22,38,688
+17,031,51,700,VA,"Newport News",22,55,517
+17,031,12,087,FL,"Monroe County",21,35,3596
+17,031,13,113,GA,"Fayette County",21,37,1233
+17,031,13,151,GA,"Henry County",21,52,694
+17,031,22,051,LA,"Jefferson Parish",21,40,1019
+17,031,29,165,MO,"Platte County",21,32,1167
+17,031,30,063,MT,"Missoula County",21,28,674
+17,031,34,031,NJ,"Passaic County",21,41,1101
+17,031,42,071,PA,"Lancaster County",21,41,1592
+17,031,02,020,AK,"Anchorage Borough",20,28,673
+17,031,04,003,AZ,"Cochise County",20,31,932
+17,031,04,027,AZ,"Yuma County",20,31,578
+17,031,13,245,GA,"Richmond County",20,42,612
+17,031,15,009,HI,"Maui County",20,27,897
+17,031,18,099,IN,"Marshall County",20,60,1007
+17,031,18,181,IN,"White County",20,33,522
+17,031,26,041,MI,"Delta County",20,28,433
+17,031,33,009,NH,"Grafton County",20,40,1204
+17,031,42,077,PA,"Lehigh County",20,36,1092
+17,031,48,355,TX,"Nueces County",20,47,1349
+17,031,51,650,VA,Hampton,20,34,575
+17,031,53,073,WA,"Whatcom County",20,30,1817
+17,031,12,085,FL,"Martin County",19,29,29022
+17,031,18,085,IN,"Kosciusko County",19,41,937
+17,031,19,045,IA,"Clinton County",19,40,487
+17,031,21,015,KY,"Boone County",19,39,822
+17,031,21,145,KY,"Mccracken County",19,31,471
+17,031,24,021,MD,"Frederick County",19,32,1331
+17,031,25,015,MA,"Hampshire County",19,24,622
+17,031,26,025,MI,"Calhoun County",19,43,418
+17,031,26,149,MI,"St Joseph County",19,46,783
+17,031,29,051,MO,"Cole County",19,42,505
+17,031,34,005,NJ,"Burlington County",19,27,665
+17,031,34,007,NJ,"Camden County",19,36,1797
+17,031,37,129,NC,"New Hanover County",19,26,1845
+17,031,51,003,VA,"Albemarle County",19,28,1199
+17,031,06,107,CA,"Tulare County",18,44,886
+17,031,08,117,CO,"Summit County",18,22,716
+17,031,12,019,FL,"Clay County",18,52,872
+17,031,19,049,IA,"Dallas County",18,31,1109
+17,031,20,061,KS,"Geary County",18,28,451
+17,031,21,047,KY,"Christian County",18,32,258
+17,031,26,075,MI,"Jackson County",18,37,992
+17,031,28,047,MS,"Harrison County",18,38,599
+17,031,29,029,MO,"Camden County",18,34,1781
+17,031,36,071,NY,"Orange County",18,26,562
+17,031,37,025,NC,"Cabarrus County",18,32,985
+17,031,39,025,OH,"Clermont County",18,27,929
+17,031,39,173,OH,"Wood County",18,24,759
+17,031,42,027,PA,"Centre County",18,27,801
+17,031,50,007,VT,"Chittenden County",18,26,599
+17,031,51,540,VA,Charlottesville,18,27,802
+17,031,13,223,GA,"Paulding County",17,29,357
+17,031,19,057,IA,"Des Moines County",17,39,158
+17,031,26,103,MI,"Marquette County",17,23,664
+17,031,30,031,MT,"Gallatin County",17,23,1261
+17,031,33,015,NH,"Rockingham County",17,34,1153
+17,031,34,001,NJ,"Atlantic County",17,28,560
+17,031,36,027,NY,"Dutchess County",17,34,645
+17,031,36,085,NY,"Richmond County",17,19,758
+17,031,37,179,NC,"Union County",17,54,1504
+17,031,39,099,OH,"Mahoning County",17,24,568
+17,031,39,151,OH,"Stark County",17,24,359
+17,031,40,027,OK,"Cleveland County",17,25,700
+17,031,42,011,PA,"Berks County",17,26,695
+17,031,42,041,PA,"Cumberland County",17,23,771
+17,031,42,095,PA,"Northampton County",17,28,760
+17,031,45,091,SC,"York County",17,33,1573
+17,031,47,165,TN,"Sumner County",17,36,865
+17,031,48,187,TX,"Guadalupe County",17,50,602
+17,031,55,141,WI,"Wood County",17,21,363
+17,031,56,039,WY,"Teton County",17,23,4394
+17,031,01,003,AL,"Baldwin County",16,34,540
+17,031,08,101,CO,"Pueblo County",16,36,466
+17,031,08,123,CO,"Weld County",16,25,739
+17,031,15,001,HI,"Hawaii County",16,33,1195
+17,031,17,203,IL,"Woodford County",16,27,767
+17,031,18,017,IN,"Cass County",16,50,398
+17,031,18,035,IN,"Delaware County",16,28,638
+17,031,28,151,MS,"Washington County",16,26,199
+17,031,36,087,NY,"Rockland County",16,24,1069
+17,031,37,097,NC,"Iredell County",16,47,913
+17,031,48,041,TX,"Brazos County",16,21,620
+17,031,55,071,WI,"Manitowoc County",16,30,930
+17,031,01,103,AL,"Morgan County",15,28,450
+17,031,01,117,AL,"Shelby County",15,25,1355
+17,031,05,045,AR,"Faulkner County",15,32,624
+17,031,13,059,GA,"Clarke County",15,23,494
+17,031,13,153,GA,"Houston County",15,29,313
+17,031,17,117,IL,"Macoupin County",15,28,629
+17,031,17,121,IL,"Marion County",15,23,281
+17,031,17,137,IL,"Morgan County",15,35,591
+17,031,17,155,IL,"Putnam County",15,24,2424
+17,031,18,019,IN,"Clark County",15,30,474
+17,031,20,161,KS,"Riley County",15,29,433
+17,031,22,017,LA,"Caddo Parish",15,25,722
+17,031,26,147,MI,"St Clair County",15,27,715
+17,031,27,139,MN,"Scott County",15,26,1389
+17,031,28,093,MS,"Marshall County",15,25,292
+17,031,29,209,MO,"Stone County",15,27,1030
+17,031,39,009,OH,"Athens County",15,19,438
+17,031,41,017,OR,"Deschutes County",15,30,888
+17,031,45,007,SC,"Anderson County",15,32,914
+17,031,47,119,TN,"Maury County",15,31,440
+17,031,55,027,WI,"Dodge County",15,35,329
+17,031,06,055,CA,"Napa County",14,26,610
+17,031,06,079,CA,"San Luis Obispo Coun",14,21,485
+17,031,17,055,IL,"Franklin County",14,30,370
+17,031,17,123,IL,"Marshall County",14,27,358
+17,031,18,011,IN,"Boone County",14,18,1081
+17,031,25,023,MA,"Plymouth County",14,28,1540
+17,031,27,019,MN,"Carver County",14,31,979
+17,031,28,105,MS,"Oktibbeha County",14,26,238
+17,031,41,003,OR,"Benton County",14,18,974
+17,031,45,003,SC,"Aiken County",14,26,562
+17,031,45,015,SC,"Berkeley County",14,23,433
+17,031,45,083,SC,"Spartanburg County",14,33,1343
+17,031,47,009,TN,"Blount County",14,20,497
+17,031,48,139,TX,"Ellis County",14,47,361
+17,031,55,135,WI,"Waupaca County",14,22,691
+17,031,55,137,WI,"Waushara County",14,30,749
+17,031,01,081,AL,"Lee County",13,25,306
+17,031,06,113,CA,"Yolo County",13,25,638
+17,031,08,067,CO,"La Plata County",13,15,498
+17,031,12,005,FL,"Bay County",13,20,431
+17,031,17,165,IL,"Saline County",13,26,401
+17,031,17,173,IL,"Shelby County",13,20,429
+17,031,24,025,MD,"Harford County",13,19,829
+17,031,24,047,MD,"Worcester County",13,14,142
+17,031,25,005,MA,"Bristol County",13,23,507
+17,031,25,013,MA,"Hampden County",13,26,390
+17,031,27,169,MN,"Winona County",13,28,181
+17,031,28,163,MS,"Yazoo County",13,30,277
+17,031,34,009,NJ,"Cape May County",13,14,324
+17,031,36,045,NY,"Jefferson County",13,25,308
+17,031,36,091,NY,"Saratoga County",13,19,427
+17,031,37,125,NC,"Moore County",13,28,1680
+17,031,39,133,OH,"Portage County",13,17,812
+17,031,39,139,OH,"Richland County",13,19,254
+17,031,42,069,PA,"Lackawanna County",13,20,760
+17,031,47,113,TN,"Madison County",13,29,555
+17,031,47,179,TN,"Washington County",13,27,270
+17,031,48,303,TX,"Lubbock County",13,28,286
+17,031,49,057,UT,"Weber County",13,36,467
+17,031,05,035,AR,"Crittenden County",12,20,582
+17,031,05,069,AR,"Jefferson County",12,25,181
+17,031,06,061,CA,"Placer County",12,16,726
+17,031,09,011,CT,"New London County",12,17,301
+17,031,12,055,FL,"Highlands County",12,16,649
+17,031,13,179,GA,"Liberty County",12,19,243
+17,031,17,021,IL,"Christian County",12,20,209
+17,031,18,173,IN,"Warrick County",12,24,718
+17,031,26,071,MI,"Iron County",12,22,398
+17,031,26,109,MI,"Menominee County",12,22,352
+17,031,27,145,MN,"Stearns County",12,27,270
+17,031,29,099,MO,"Jefferson County",12,14,487
+17,031,29,161,MO,"Phelps County",12,21,374
+17,031,37,031,NC,"Carteret County",12,17,546
+17,031,37,049,NC,"Craven County",12,13,106
+17,031,37,089,NC,"Henderson County",12,19,711
+17,031,44,005,RI,"Newport County",12,14,377
+17,031,48,397,TX,"Rockwall County",12,28,426
+17,031,49,053,UT,"Washington County",12,22,571
+17,031,51,550,VA,Chesapeake,12,22,549
+17,031,55,081,WI,"Monroe County",12,19,596
+17,031,08,045,CO,"Garfield County",11,16,423
+17,031,09,013,CT,"Tolland County",11,14,544
+17,031,17,049,IL,"Effingham County",11,24,490
+17,031,17,053,IL,"Ford County",11,20,336
+17,031,17,057,IL,"Fulton County",11,18,297
+17,031,17,129,IL,"Menard County",11,16,400
+17,031,18,067,IN,"Howard County",11,19,237
+17,031,21,035,KY,"Calloway County",11,22,450
+17,031,21,117,KY,"Kenton County",11,33,635
+17,031,26,111,MI,"Midland County",11,20,840
+17,031,27,049,MN,"Goodhue County",11,22,572
+17,031,28,035,MS,"Forrest County",11,18,205
+17,031,28,107,MS,"Panola County",11,23,398
+17,031,29,031,MO,"Cape Girardeau Count",11,22,198
+17,031,32,023,NV,"Nye County",11,22,577
+17,031,36,007,NY,"Broome County",11,21,951
+17,031,39,055,OH,"Geauga County",11,14,592
+17,031,40,031,OK,"Comanche County",11,28,298
+17,031,42,079,PA,"Luzerne County",11,29,510
+17,031,49,049,UT,"Utah County",11,30,452
+17,031,53,029,WA,"Island County",11,16,327
+17,031,01,059,AL,"Franklin County",10,31,114
+17,031,05,089,AR,"Marion County",10,14,265
+17,031,13,077,GA,"Coweta County",10,23,993
+17,031,13,217,GA,"Newton County",10,22,207
+17,031,18,049,IN,"Fulton County",10,20,385
+17,031,18,113,IN,"Noble County",10,27,513
+17,031,19,033,IA,"Cerro Gordo County",10,24,668
+17,031,21,227,KY,"Warren County",10,16,493
+17,031,26,061,MI,"Houghton County",10,17,262
+17,031,26,115,MI,"Monroe County",10,13,400
+17,031,26,123,MI,"Newaygo County",10,15,557
+17,031,27,021,MN,"Cass County",10,14,496
+17,031,28,079,MS,"Leake County",10,22,247
+17,031,28,083,MS,"Leflore County",10,22,245
+17,031,36,069,NY,"Ontario County",10,14,701
+17,031,37,191,NC,"Wayne County",10,23,409
+17,031,41,029,OR,"Jackson County",10,16,348
+17,031,42,043,PA,"Dauphin County",10,22,861
+17,031,42,049,PA,"Erie County",10,14,503
+17,031,42,129,PA,"Westmoreland County",10,14,546
+17,031,42,133,PA,"York County",10,17,497
+17,031,45,041,SC,"Florence County",10,22,487
+17,031,47,051,TN,"Franklin County",10,19,578
+17,031,47,141,TN,"Putnam County",10,19,460
+17,031,54,039,WV,"Kanawha County",10,17,250
+17,031,55,043,WI,"Grant County",10,24,380
+17,031,55,123,WI,"Vernon County",10,11,899
+17,031,58,000,SS,"Other Flows - Same State",165,288,7527
+17,031,59,000,DS,"Other Flows - Diff State",4018,7553,176036
+17,031,59,001,DS,"Other Flows - Northeast",333,557,20149
+17,031,59,003,DS,"Other Flows - Midwest",1257,2280,52359
+17,031,59,005,DS,"Other Flows - South",1892,3780,79253
+17,031,59,007,DS,"Other Flows - West",536,936,24276
+17,031,57,009,FR,"Foreign - Other flows",1266,1832,60108
+17,033,96,000,IL,"Crawford County Tot Mig-US",313,603,10319
+17,033,97,000,IL,"Crawford County Tot Mig-US",313,603,10319
+17,033,97,001,IL,"Crawford County Tot Mig-Sam",155,289,5074
+17,033,97,003,IL,"Crawford County Tot Mig-Dif",158,314,5245
+17,033,98,000,IL,"Crawford County Tot Mig-For",d,d,d
+17,033,17,033,IL,"Crawford County Non-Migrant",7216,15678,327281
+17,033,17,101,IL,"Lawrence County",29,64,1082
+17,033,17,023,IL,"Clark County",21,39,677
+17,033,18,083,IN,"Knox County",15,29,254
+17,033,18,167,IN,"Vigo County",14,21,424
+17,033,17,029,IL,"Coles County",13,20,299
+17,033,17,079,IL,"Jasper County",13,32,571
+17,033,58,000,SS,"Other Flows - Same State",79,134,2445
+17,033,59,000,DS,"Other Flows - Diff State",129,264,4567
+17,035,96,000,IL,"Cumberland Coun Tot Mig-US",284,532,7789
+17,035,97,000,IL,"Cumberland Coun Tot Mig-US",284,532,7789
+17,035,97,001,IL,"Cumberland Coun Tot Mig-Sam",229,420,6251
+17,035,97,003,IL,"Cumberland Coun Tot Mig-Dif",55,112,1537
+17,035,98,000,IL,"Cumberland Coun Tot Mig-For",d,d,d
+17,035,17,035,IL,"Cumberland Coun Non-Migrant",3829,8752,158384
+17,035,17,029,IL,"Coles County",88,170,2301
+17,035,17,049,IL,"Effingham County",34,54,894
+17,035,17,023,IL,"Clark County",18,36,529
+17,035,17,173,IL,"Shelby County",13,35,439
+17,035,58,000,SS,"Other Flows - Same State",76,125,2089
+17,035,59,000,DS,"Other Flows - Diff State",55,112,1537
+17,037,96,000,IL,"De Kalb County Tot Mig-US &",3170,5363,115515
+17,037,97,000,IL,"De Kalb County Tot Mig-US",3148,5330,115171
+17,037,97,001,IL,"De Kalb County Tot Mig-Same",2259,3754,81179
+17,037,97,003,IL,"De Kalb County Tot Mig-Diff",889,1576,33992
+17,037,98,000,IL,"De Kalb County Tot Mig-Fore",22,33,344
+17,037,17,037,IL,"De Kalb County Non-Migrants",30851,69087,1761236
+17,037,17,031,IL,"Cook County",408,585,11537
+17,037,17,089,IL,"Kane County",366,638,15453
+17,037,17,043,IL,"Du Page County",247,350,8836
+17,037,17,141,IL,"Ogle County",220,462,9241
+17,037,17,201,IL,"Winnebago County",159,248,4923
+17,037,17,093,IL,"Kendall County",154,285,5473
+17,037,17,099,IL,"La Salle County",138,239,4950
+17,037,17,111,IL,"Mchenry County",93,160,3695
+17,037,17,197,IL,"Will County",74,116,2761
+17,037,17,103,IL,"Lee County",65,126,2775
+17,037,17,007,IL,"Boone County",56,95,2145
+17,037,17,097,IL,"Lake County",44,60,1375
+17,037,04,013,AZ,"Maricopa County",31,45,1248
+17,037,17,143,IL,"Peoria County",23,39,1004
+17,037,17,195,IL,"Whiteside County",20,30,450
+17,037,17,019,IL,"Champaign County",19,32,635
+17,037,06,037,CA,"Los Angeles County",15,18,333
+17,037,17,161,IL,"Rock Island County",14,19,404
+17,037,17,113,IL,"Mclean County",13,16,333
+17,037,12,071,FL,"Lee County",12,17,574
+17,037,17,177,IL,"Stephenson County",12,19,257
+17,037,17,011,IL,"Bureau County",11,28,791
+17,037,17,063,IL,"Grundy County",10,14,375
+17,037,32,003,NV,"Clark County",10,30,315
+17,037,55,133,WI,"Waukesha County",10,12,245
+17,037,58,000,SS,"Other Flows - Same State",113,193,3766
+17,037,59,000,DS,"Other Flows - Diff State",811,1454,31277
+17,037,59,001,DS,"Other Flows - Northeast",64,93,2119
+17,037,59,003,DS,"Other Flows - Midwest",282,545,12573
+17,037,59,005,DS,"Other Flows - South",311,562,11297
+17,037,59,007,DS,"Other Flows - West",154,254,5288
+17,037,57,009,FR,"Foreign - Other flows",22,33,344
+17,039,96,000,IL,"De Witt County Tot Mig-US &",404,787,15020
+17,039,97,000,IL,"De Witt County Tot Mig-US",404,787,15020
+17,039,97,001,IL,"De Witt County Tot Mig-Same",297,574,10682
+17,039,97,003,IL,"De Witt County Tot Mig-Diff",107,213,4338
+17,039,98,000,IL,"De Witt County Tot Mig-Fore",d,d,d
+17,039,17,039,IL,"De Witt County Non-Migrants",6083,13246,293661
+17,039,17,113,IL,"Mclean County",94,187,3270
+17,039,17,115,IL,"Macon County",40,91,1270
+17,039,17,019,IL,"Champaign County",31,52,1261
+17,039,17,147,IL,"Piatt County",20,33,556
+17,039,17,107,IL,"Logan County",15,34,792
+17,039,17,167,IL,"Sangamon County",11,25,359
+17,039,17,179,IL,"Tazewell County",10,15,419
+17,039,58,000,SS,"Other Flows - Same State",76,137,2753
+17,039,59,000,DS,"Other Flows - Diff State",107,213,4338
+17,041,96,000,IL,"Douglas County Tot Mig-US &",531,958,17280
+17,041,97,000,IL,"Douglas County Tot Mig-US",531,958,17280
+17,041,97,001,IL,"Douglas County Tot Mig-Same",416,718,13076
+17,041,97,003,IL,"Douglas County Tot Mig-Diff",115,240,4204
+17,041,98,000,IL,"Douglas County Tot Mig-Fore",d,d,d
+17,041,17,041,IL,"Douglas County Non-Migrants",7697,17569,351567
+17,041,17,019,IL,"Champaign County",129,222,4241
+17,041,17,029,IL,"Coles County",104,177,2871
+17,041,17,139,IL,"Moultrie County",30,49,899
+17,041,17,147,IL,"Piatt County",21,48,731
+17,041,17,045,IL,"Edgar County",19,28,357
+17,041,17,115,IL,"Macon County",10,16,358
+17,041,17,173,IL,"Shelby County",10,25,416
+17,041,58,000,SS,"Other Flows - Same State",93,153,3202
+17,041,59,000,DS,"Other Flows - Diff State",115,240,4204
+17,043,96,000,IL,"Du Page County Tot Mig-US &",31052,59133,1894600
+17,043,97,000,IL,"Du Page County Tot Mig-US",30792,58658,1881713
+17,043,97,001,IL,"Du Page County Tot Mig-Same",21411,40897,1216789
+17,043,97,003,IL,"Du Page County Tot Mig-Diff",9381,17761,664924
+17,043,98,000,IL,"Du Page County Tot Mig-Fore",260,475,12887
+17,043,17,043,IL,"Du Page County Non-Migrants",321215,744064,27607519
+17,043,17,031,IL,"Cook County",9073,14938,479680
+17,043,17,197,IL,"Will County",4371,9556,259982
+17,043,17,089,IL,"Kane County",3164,6586,204214
+17,043,17,093,IL,"Kendall County",1668,3836,103860
+17,043,17,097,IL,"Lake County",594,1136,40757
+17,043,17,111,IL,"Mchenry County",587,1165,34468
+17,043,04,013,AZ,"Maricopa County",452,850,35904
+17,043,17,037,IL,"De Kalb County",397,736,17904
+17,043,06,037,CA,"Los Angeles County",189,265,8505
+17,043,17,201,IL,"Winnebago County",182,372,9432
+17,043,32,003,NV,"Clark County",158,275,8171
+17,043,17,099,IL,"La Salle County",149,295,7954
+17,043,17,063,IL,"Grundy County",144,279,7234
+17,043,18,089,IN,"Lake County",114,233,6720
+17,043,06,073,CA,"San Diego County",113,173,4917
+17,043,55,025,WI,"Dane County",110,177,5286
+17,043,06,059,CA,"Orange County",109,226,8359
+17,043,17,007,IL,"Boone County",108,259,4858
+17,043,55,079,WI,"Milwaukee County",106,175,4505
+17,043,27,053,MN,"Hennepin County",104,198,8446
+17,043,17,019,IL,"Champaign County",102,140,3127
+17,043,12,057,FL,"Hillsborough County",98,207,6346
+17,043,12,071,FL,"Lee County",98,171,10006
+17,043,48,201,TX,"Harris County",98,197,7235
+17,043,17,113,IL,"Mclean County",88,141,3781
+17,043,53,033,WA,"King County",88,168,10105
+17,043,17,141,IL,"Ogle County",80,175,3743
+17,043,48,113,TX,"Dallas County",80,140,4754
+17,043,36,061,NY,"New York County",77,96,5082
+17,043,48,439,TX,"Tarrant County",77,207,11390
+17,043,04,019,AZ,"Pima County",74,135,4942
+17,043,12,011,FL,"Broward County",74,135,5495
+17,043,12,103,FL,"Pinellas County",74,129,4022
+17,043,12,021,FL,"Collier County",68,114,8175
+17,043,13,121,GA,"Fulton County",67,153,6491
+17,043,17,143,IL,"Peoria County",67,127,4074
+17,043,12,095,FL,"Orange County",65,133,3374
+17,043,26,125,MI,"Oakland County",65,144,6001
+17,043,29,189,MO,"St Louis County",65,124,4023
+17,043,39,049,OH,"Franklin County",64,125,5140
+17,043,12,099,FL,"Palm Beach County",63,110,5848
+17,043,12,115,FL,"Sarasota County",63,104,4001
+17,043,18,097,IN,"Marion County",63,95,2597
+17,043,17,091,IL,"Kankakee County",58,98,2658
+17,043,06,085,CA,"Santa Clara County",57,105,3758
+17,043,48,029,TX,"Bexar County",55,113,3291
+17,043,48,085,TX,"Collin County",54,121,4903
+17,043,18,127,IN,"Porter County",53,112,3304
+17,043,51,059,VA,"Fairfax County",53,107,4224
+17,043,55,059,WI,"Kenosha County",52,110,2717
+17,043,37,119,NC,"Mecklenburg County",51,113,4378
+17,043,39,035,OH,"Cuyahoga County",51,92,19880
+17,043,57,005,FR,"Foreign - APO/FPO ZIPs",50,71,1333
+17,043,13,067,GA,"Cobb County",49,98,4195
+17,043,17,167,IL,"Sangamon County",49,89,2493
+17,043,55,127,WI,"Walworth County",47,94,2502
+17,043,48,453,TX,"Travis County",46,105,3823
+17,043,26,081,MI,"Kent County",45,70,1805
+17,043,48,121,TX,"Denton County",45,104,3361
+17,043,17,103,IL,"Lee County",44,99,2095
+17,043,55,133,WI,"Waukesha County",44,102,3457
+17,043,06,065,CA,"Riverside County",41,77,2197
+17,043,20,091,KS,"Johnson County",41,102,3558
+17,043,12,086,FL,"Miami Dade County",40,62,3245
+17,043,13,135,GA,"Gwinnett County",38,92,2366
+17,043,18,057,IN,"Hamilton County",38,81,2751
+17,043,47,037,TN,"Davidson County",38,61,1263
+17,043,06,075,CA,"San Francisco County",37,48,1698
+17,043,08,041,CO,"El Paso County",37,75,1721
+17,043,12,031,FL,"Duval County",37,61,1923
+17,043,26,021,MI,"Berrien County",37,77,2536
+17,043,26,163,MI,"Wayne County",37,67,1507
+17,043,37,183,NC,"Wake County",37,74,2825
+17,043,06,071,CA,"San Bernardino Count",36,72,1582
+17,043,12,101,FL,"Pasco County",36,67,1664
+17,043,31,055,NE,"Douglas County",36,81,2889
+17,043,13,089,GA,"De Kalb County",35,61,2279
+17,043,17,077,IL,"Jackson County",35,42,603
+17,043,04,021,AZ,"Pinal County",34,70,2117
+17,043,19,103,IA,"Johnson County",34,44,1535
+17,043,27,123,MN,"Ramsey County",33,48,1349
+17,043,29,183,MO,"St Charles County",33,59,2027
+17,043,41,051,OR,"Multnomah County",33,42,1116
+17,043,15,003,HI,"Honolulu County",32,60,1989
+17,043,19,153,IA,"Polk County",32,65,1706
+17,043,36,047,NY,"Kings County",32,39,784
+17,043,06,001,CA,"Alameda County",31,72,2415
+17,043,19,163,IA,"Scott County",31,54,1288
+17,043,11,001,DC,"District Of Columbia",30,32,1261
+17,043,08,005,CO,"Arapahoe County",29,51,2641
+17,043,24,031,MD,"Montgomery County",29,49,2202
+17,043,26,077,MI,"Kalamazoo County",29,51,1735
+17,043,39,061,OH,"Hamilton County",29,43,1613
+17,043,17,115,IL,"Macon County",27,49,1790
+17,043,18,003,IN,"Allen County",27,52,1507
+17,043,36,081,NY,"Queens County",27,36,712
+17,043,47,157,TN,"Shelby County",27,65,2027
+17,043,08,035,CO,"Douglas County",26,61,2930
+17,043,12,081,FL,"Manatee County",26,59,1967
+17,043,17,015,IL,"Carroll County",26,44,2037
+17,043,17,163,IL,"St Clair County",26,47,1348
+17,043,18,157,IN,"Tippecanoe County",26,49,1314
+17,043,25,017,MA,"Middlesex County",26,33,1802
+17,043,26,099,MI,"Macomb County",26,39,1308
+17,043,36,103,NY,"Suffolk County",26,45,1730
+17,043,17,179,IL,"Tazewell County",25,46,1148
+17,043,21,111,KY,"Jefferson County",25,45,1699
+17,043,25,025,MA,"Suffolk County",25,38,1089
+17,043,34,023,NJ,"Middlesex County",25,51,2407
+17,043,42,101,PA,"Philadelphia County",25,35,724
+17,043,48,157,TX,"Fort Bend County",25,57,2342
+17,043,08,031,CO,"Denver County",24,36,1231
+17,043,12,069,FL,"Lake County",24,50,1340
+17,043,12,127,FL,"Volusia County",24,40,763
+17,043,24,005,MD,"Baltimore County",24,42,1204
+17,043,37,051,NC,"Cumberland County",24,38,560
+17,043,39,017,OH,"Butler County",24,49,2014
+17,043,45,045,SC,"Greenville County",24,58,2728
+17,043,17,011,IL,"Bureau County",23,47,920
+17,043,17,085,IL,"Jo Daviess County",23,41,3280
+17,043,17,161,IL,"Rock Island County",23,37,1153
+17,043,17,195,IL,"Whiteside County",23,50,1013
+17,043,18,141,IN,"St Joseph County",23,48,1108
+17,043,42,003,PA,"Allegheny County",23,42,1691
+17,043,51,013,VA,"Arlington County",23,27,841
+17,043,06,013,CA,"Contra Costa County",22,56,5078
+17,043,06,081,CA,"San Mateo County",22,35,1439
+17,043,12,105,FL,"Polk County",22,38,1283
+17,043,17,183,IL,"Vermilion County",22,38,1025
+17,043,26,139,MI,"Ottawa County",22,39,1163
+17,043,34,017,NJ,"Hudson County",22,30,1228
+17,043,35,001,NM,"Bernalillo County",22,35,1089
+17,043,08,013,CO,"Boulder County",21,37,2666
+17,043,08,059,CO,"Jefferson County",21,43,2094
+17,043,09,001,CT,"Fairfield County",21,48,4185
+17,043,09,003,CT,"Hartford County",21,34,2317
+17,043,12,015,FL,"Charlotte County",21,30,1304
+17,043,49,035,UT,"Salt Lake County",21,47,1017
+17,043,55,101,WI,"Racine County",21,44,1406
+17,043,08,069,CO,"Larimer County",20,36,1188
+17,043,12,097,FL,"Osceola County",20,29,1052
+17,043,18,063,IN,"Hendricks County",20,40,1287
+17,043,18,091,IN,"La Porte County",20,36,811
+17,043,26,161,MI,"Washtenaw County",20,47,1460
+17,043,48,141,TX,"El Paso County",20,46,1462
+17,043,17,177,IL,"Stephenson County",19,34,630
+17,043,20,173,KS,"Sedgwick County",19,38,869
+17,043,48,491,TX,"Williamson County",19,37,1701
+17,043,55,009,WI,"Brown County",19,41,1675
+17,043,01,073,AL,"Jefferson County",18,45,702
+17,043,04,025,AZ,"Yavapai County",18,31,949
+17,043,19,113,IA,"Linn County",18,32,929
+17,043,27,037,MN,"Dakota County",18,36,1092
+17,043,29,095,MO,"Jackson County",18,31,941
+17,043,41,067,OR,"Washington County",18,32,1151
+17,043,06,111,CA,"Ventura County",17,40,3102
+17,043,12,117,FL,"Seminole County",17,39,1197
+17,043,17,105,IL,"Livingston County",17,30,748
+17,043,29,510,MO,"St Louis",17,22,1093
+17,043,36,029,NY,"Erie County",17,34,1084
+17,043,39,113,OH,"Montgomery County",17,28,866
+17,043,40,143,OK,"Tulsa County",17,42,1406
+17,043,47,093,TN,"Knox County",17,35,927
+17,043,47,187,TN,"Williamson County",17,45,1569
+17,043,48,215,TX,"Hidalgo County",17,39,443
+17,043,51,107,VA,"Loudoun County",17,50,2018
+17,043,51,153,VA,"Prince William Count",17,39,1155
+17,043,51,510,VA,Alexandria,17,27,943
+17,043,53,053,WA,"Pierce County",17,33,305
+17,043,55,105,WI,"Rock County",17,37,541
+17,043,12,017,FL,"Citrus County",16,27,1417
+17,043,12,083,FL,"Marion County",16,36,1630
+17,043,18,105,IN,"Monroe County",16,23,541
+17,043,36,055,NY,"Monroe County",16,30,1130
+17,043,48,339,TX,"Montgomery County",16,35,1420
+17,043,06,067,CA,"Sacramento County",15,27,1083
+17,043,12,009,FL,"Brevard County",15,23,662
+17,043,17,109,IL,"Mcdonough County",15,18,288
+17,043,19,061,IA,"Dubuque County",15,35,1152
+17,043,24,027,MD,"Howard County",15,27,1651
+17,043,42,029,PA,"Chester County",15,34,2003
+17,043,42,091,PA,"Montgomery County",15,26,1432
+17,043,51,810,VA,"Virginia Beach",15,21,352
+17,043,55,039,WI,"Fond Du Lac County",15,26,405
+17,043,55,089,WI,"Ozaukee County",15,32,1759
+17,043,02,020,AK,"Anchorage Borough",14,17,361
+17,043,13,057,GA,"Cherokee County",14,29,1193
+17,043,17,119,IL,"Madison County",14,29,853
+17,043,24,510,MD,Baltimore,14,20,635
+17,043,25,009,MA,"Essex County",14,39,1562
+17,043,25,021,MA,"Norfolk County",14,30,1316
+17,043,26,049,MI,"Genesee County",14,19,675
+17,043,29,047,MO,"Clay County",14,19,1052
+17,043,39,153,OH,"Summit County",14,30,1134
+17,043,39,165,OH,"Warren County",14,36,1836
+17,043,45,013,SC,"Beaufort County",14,27,2279
+17,043,06,053,CA,"Monterey County",13,29,323
+17,043,12,053,FL,"Hernando County",13,20,495
+17,043,21,067,KY,"Fayette County",13,26,759
+17,043,29,165,MO,"Platte County",13,26,1155
+17,043,32,031,NV,"Washoe County",13,29,8669
+17,043,34,003,NJ,"Bergen County",13,25,947
+17,043,36,119,NY,"Westchester County",13,23,1502
+17,043,39,041,OH,"Delaware County",13,28,1615
+17,043,48,167,TX,"Galveston County",13,37,3597
+17,043,49,049,UT,"Utah County",13,26,559
+17,043,55,087,WI,"Outagamie County",13,33,1308
+17,043,55,125,WI,"Vilas County",13,20,999
+17,043,05,007,AR,"Benton County",12,32,1162
+17,043,06,061,CA,"Placer County",12,31,641
+17,043,08,123,CO,"Weld County",12,19,781
+17,043,10,003,DE,"New Castle County",12,21,610
+17,043,16,001,ID,"Ada County",12,23,640
+17,043,18,039,IN,"Elkhart County",12,26,431
+17,043,18,081,IN,"Johnson County",12,25,1097
+17,043,24,033,MD,"Prince George's Coun",12,15,386
+17,043,26,065,MI,"Ingham County",12,22,589
+17,043,31,109,NE,"Lancaster County",12,16,278
+17,043,36,059,NY,"Nassau County",12,17,324
+17,043,40,109,OK,"Oklahoma County",12,25,583
+17,043,47,065,TN,"Hamilton County",12,20,294
+17,043,53,061,WA,"Snohomish County",12,24,415
+17,043,55,131,WI,"Washington County",12,29,933
+17,043,06,083,CA,"Santa Barbara County",11,17,784
+17,043,12,033,FL,"Escambia County",11,16,298
+17,043,12,073,FL,"Leon County",11,17,291
+17,043,13,117,GA,"Forsyth County",11,31,975
+17,043,17,029,IL,"Coles County",11,16,419
+17,043,17,123,IL,"Marshall County",11,23,573
+17,043,27,163,MN,"Washington County",11,27,946
+17,043,34,035,NJ,"Somerset County",11,39,1777
+17,043,37,081,NC,"Guilford County",11,24,681
+17,043,41,005,OR,"Clackamas County",11,23,623
+17,043,42,017,PA,"Bucks County",11,26,874
+17,043,48,099,TX,"Coryell County",11,14,225
+17,043,55,085,WI,"Oneida County",11,23,2626
+17,043,55,111,WI,"Sauk County",11,25,506
+17,043,55,117,WI,"Sheboygan County",11,19,765
+17,043,05,005,AR,"Baxter County",10,15,330
+17,043,06,029,CA,"Kern County",10,31,311
+17,043,09,009,CT,"New Haven County",10,21,589
+17,043,13,113,GA,"Fayette County",10,30,1496
+17,043,17,073,IL,"Henry County",10,28,630
+17,043,17,095,IL,"Knox County",10,15,322
+17,043,17,199,IL,"Williamson County",10,14,355
+17,043,24,003,MD,"Anne Arundel County",10,18,448
+17,043,27,003,MN,"Anoka County",10,11,308
+17,043,37,133,NC,"Onslow County",10,24,196
+17,043,39,095,OH,"Lucas County",10,16,736
+17,043,41,039,OR,"Lane County",10,17,309
+17,043,58,000,SS,"Other Flows - Same State",116,222,5339
+17,043,59,000,DS,"Other Flows - Diff State",2406,4622,158608
+17,043,59,001,DS,"Other Flows - Northeast",348,706,28200
+17,043,59,003,DS,"Other Flows - Midwest",795,1492,43798
+17,043,59,005,DS,"Other Flows - South",944,1885,67272
+17,043,59,007,DS,"Other Flows - West",319,539,19337
+17,043,57,009,FR,"Foreign - Other flows",210,404,11554
+17,045,96,000,IL,"Edgar County Tot Mig-US & F",396,780,11740
+17,045,97,000,IL,"Edgar County Tot Mig-US",396,780,11740
+17,045,97,001,IL,"Edgar County Tot Mig-Same S",207,397,5762
+17,045,97,003,IL,"Edgar County Tot Mig-Diff S",189,383,5978
+17,045,98,000,IL,"Edgar County Tot Mig-Foreig",d,d,d
+17,045,17,045,IL,"Edgar County Non-Migrants",6795,14756,283472
+17,045,17,029,IL,"Coles County",48,103,1317
+17,045,17,023,IL,"Clark County",35,59,948
+17,045,18,167,IN,"Vigo County",35,73,876
+17,045,17,019,IL,"Champaign County",24,38,665
+17,045,17,183,IL,"Vermilion County",24,52,775
+17,045,18,165,IN,"Vermillion County",15,36,638
+17,045,17,041,IL,"Douglas County",13,23,280
+17,045,58,000,SS,"Other Flows - Same State",63,122,1778
+17,045,59,000,DS,"Other Flows - Diff State",139,274,4463
+17,047,96,000,IL,"Edwards County Tot Mig-US &",152,291,3830
+17,047,97,000,IL,"Edwards County Tot Mig-US",152,291,3830
+17,047,97,001,IL,"Edwards County Tot Mig-Same",110,209,2792
+17,047,97,003,IL,"Edwards County Tot Mig-Diff",42,82,1038
+17,047,98,000,IL,"Edwards County Tot Mig-Fore",d,d,d
+17,047,17,047,IL,"Edwards County Non-Migrants",2499,5525,102596
+17,047,17,185,IL,"Wabash County",27,56,612
+17,047,17,159,IL,"Richland County",24,50,615
+17,047,17,191,IL,"Wayne County",14,24,417
+17,047,17,193,IL,"White County",13,20,292
+17,047,58,000,SS,"Other Flows - Same State",32,59,856
+17,047,59,000,DS,"Other Flows - Diff State",42,82,1038
+17,049,96,000,IL,"Effingham Count Tot Mig-US",826,1445,24455
+17,049,97,000,IL,"Effingham Count Tot Mig-US",826,1445,24455
+17,049,97,001,IL,"Effingham Count Tot Mig-Sam",515,879,14314
+17,049,97,003,IL,"Effingham Count Tot Mig-Dif",311,566,10141
+17,049,98,000,IL,"Effingham Count Tot Mig-For",d,d,d
+17,049,17,049,IL,"Effingham Count Non-Migrant",13129,29831,679255
+17,049,17,051,IL,"Fayette County",62,117,1464
+17,049,17,029,IL,"Coles County",58,91,1653
+17,049,17,079,IL,"Jasper County",46,79,1026
+17,049,17,173,IL,"Shelby County",43,76,1249
+17,049,17,025,IL,"Clay County",24,49,746
+17,049,17,035,IL,"Cumberland County",24,50,662
+17,049,17,031,IL,"Cook County",20,20,655
+17,049,17,019,IL,"Champaign County",19,28,567
+17,049,29,189,MO,"St Louis County",19,25,548
+17,049,17,119,IL,"Madison County",18,27,549
+17,049,17,167,IL,"Sangamon County",16,25,451
+17,049,17,113,IL,"Mclean County",15,25,526
+17,049,17,077,IL,"Jackson County",13,14,195
+17,049,17,121,IL,"Marion County",13,27,358
+17,049,58,000,SS,"Other Flows - Same State",144,251,4214
+17,049,59,000,DS,"Other Flows - Diff State",292,541,9593
+17,051,96,000,IL,"Fayette County Tot Mig-US &",411,734,9847
+17,051,97,000,IL,"Fayette County Tot Mig-US",411,734,9847
+17,051,97,001,IL,"Fayette County Tot Mig-Same",315,584,7591
+17,051,97,003,IL,"Fayette County Tot Mig-Diff",96,150,2256
+17,051,98,000,IL,"Fayette County Tot Mig-Fore",d,d,d
+17,051,17,051,IL,"Fayette County Non-Migrants",7595,16768,296411
+17,051,17,049,IL,"Effingham County",57,120,1652
+17,051,17,121,IL,"Marion County",39,75,734
+17,051,17,119,IL,"Madison County",31,49,829
+17,051,17,173,IL,"Shelby County",23,37,380
+17,051,17,005,IL,"Bond County",22,55,594
+17,051,17,135,IL,"Montgomery County",17,34,516
+17,051,17,021,IL,"Christian County",15,31,276
+17,051,17,025,IL,"Clay County",12,29,385
+17,051,29,189,MO,"St Louis County",11,12,309
+17,051,17,163,IL,"St Clair County",10,13,238
+17,051,58,000,SS,"Other Flows - Same State",89,141,1988
+17,051,59,000,DS,"Other Flows - Diff State",85,138,1948
+17,053,96,000,IL,"Ford County Tot Mig-US & Fo",426,803,14451
+17,053,97,000,IL,"Ford County Tot Mig-US",426,803,14451
+17,053,97,001,IL,"Ford County Tot Mig-Same St",330,605,11229
+17,053,97,003,IL,"Ford County Tot Mig-Diff St",96,198,3222
+17,053,98,000,IL,"Ford County Tot Mig-Foreign",d,d,d
+17,053,17,053,IL,"Ford County Non-Migrants",5145,11351,230819
+17,053,17,019,IL,"Champaign County",129,215,4448
+17,053,17,075,IL,"Iroquois County",57,123,2055
+17,053,17,113,IL,"Mclean County",27,43,717
+17,053,17,105,IL,"Livingston County",23,37,755
+17,053,17,091,IL,"Kankakee County",18,36,628
+17,053,17,183,IL,"Vermilion County",11,27,336
+17,053,17,031,IL,"Cook County",10,15,332
+17,053,58,000,SS,"Other Flows - Same State",55,109,1959
+17,053,59,000,DS,"Other Flows - Diff State",96,198,3222
+17,055,96,000,IL,"Franklin County Tot Mig-US",749,1424,21436
+17,055,97,000,IL,"Franklin County Tot Mig-US",749,1424,21436
+17,055,97,001,IL,"Franklin County Tot Mig-Sam",518,994,14653
+17,055,97,003,IL,"Franklin County Tot Mig-Dif",231,430,6784
+17,055,98,000,IL,"Franklin County Tot Mig-For",d,d,d
+17,055,17,055,IL,"Franklin County Non-Migrant",13556,29594,526274
+17,055,17,199,IL,"Williamson County",199,395,6089
+17,055,17,077,IL,"Jackson County",56,85,1154
+17,055,17,081,IL,"Jefferson County",42,89,1161
+17,055,17,145,IL,"Perry County",30,62,839
+17,055,17,165,IL,"Saline County",16,29,303
+17,055,17,121,IL,"Marion County",14,31,257
+17,055,17,065,IL,"Hamilton County",13,28,250
+17,055,17,181,IL,"Union County",12,22,299
+17,055,17,031,IL,"Cook County",11,15,346
+17,055,17,119,IL,"Madison County",11,20,533
+17,055,58,000,SS,"Other Flows - Same State",114,218,3421
+17,055,59,000,DS,"Other Flows - Diff State",231,430,6784
+17,055,59,001,DS,"Other Flows - Northeast",10,18,226
+17,055,59,003,DS,"Other Flows - Midwest",77,146,2567
+17,055,59,005,DS,"Other Flows - South",106,191,3134
+17,055,59,007,DS,"Other Flows - West",38,75,858
+17,057,96,000,IL,"Fulton County Tot Mig-US &",726,1300,24750
+17,057,97,000,IL,"Fulton County Tot Mig-US",726,1300,24750
+17,057,97,001,IL,"Fulton County Tot Mig-Same",542,947,16704
+17,057,97,003,IL,"Fulton County Tot Mig-Diff",184,353,8045
+17,057,98,000,IL,"Fulton County Tot Mig-Forei",d,d,d
+17,057,17,057,IL,"Fulton County Non-Migrants",13184,28426,540420
+17,057,17,143,IL,"Peoria County",148,254,4935
+17,057,17,179,IL,"Tazewell County",82,161,2592
+17,057,17,109,IL,"Mcdonough County",66,118,1331
+17,057,17,095,IL,"Knox County",45,83,1280
+17,057,17,125,IL,"Mason County",25,53,822
+17,057,17,113,IL,"Mclean County",22,30,513
+17,057,17,031,IL,"Cook County",14,16,825
+17,057,17,167,IL,"Sangamon County",11,14,371
+17,057,17,169,IL,"Schuyler County",10,13,163
+17,057,58,000,SS,"Other Flows - Same State",119,205,3873
+17,057,59,000,DS,"Other Flows - Diff State",184,353,8045
+17,059,96,000,IL,"Gallatin County Tot Mig-US",123,229,3363
+17,059,97,000,IL,"Gallatin County Tot Mig-US",123,229,3363
+17,059,97,001,IL,"Gallatin County Tot Mig-Sam",82,169,2232
+17,059,97,003,IL,"Gallatin County Tot Mig-Dif",41,60,1131
+17,059,98,000,IL,"Gallatin County Tot Mig-For",d,d,d
+17,059,17,059,IL,"Gallatin County Non-Migrant",2049,4511,84489
+17,059,17,165,IL,"Saline County",32,65,905
+17,059,17,193,IL,"White County",23,61,718
+17,059,58,000,SS,"Other Flows - Same State",27,43,610
+17,059,59,000,DS,"Other Flows - Diff State",41,60,1131
+17,061,96,000,IL,"Greene County Tot Mig-US &",309,605,8723
+17,061,97,000,IL,"Greene County Tot Mig-US",309,605,8723
+17,061,97,001,IL,"Greene County Tot Mig-Same",232,445,6576
+17,061,97,003,IL,"Greene County Tot Mig-Diff",77,160,2147
+17,061,98,000,IL,"Greene County Tot Mig-Forei",d,d,d
+17,061,17,061,IL,"Greene County Non-Migrants",5031,11227,193374
+17,061,17,137,IL,"Morgan County",53,102,1382
+17,061,17,083,IL,"Jersey County",50,104,1239
+17,061,17,119,IL,"Madison County",32,65,1308
+17,061,17,167,IL,"Sangamon County",19,31,496
+17,061,17,117,IL,"Macoupin County",16,31,486
+17,061,17,171,IL,"Scott County",12,28,276
+17,061,58,000,SS,"Other Flows - Same State",50,84,1389
+17,061,59,000,DS,"Other Flows - Diff State",77,160,2147
+17,063,96,000,IL,"Grundy County Tot Mig-US &",1411,2715,61962
+17,063,97,000,IL,"Grundy County Tot Mig-US",1411,2715,61962
+17,063,97,001,IL,"Grundy County Tot Mig-Same",1042,1963,42055
+17,063,97,003,IL,"Grundy County Tot Mig-Diff",369,752,19907
+17,063,98,000,IL,"Grundy County Tot Mig-Forei",d,d,d
+17,063,17,063,IL,"Grundy County Non-Migrants",16541,37817,1008903
+17,063,17,197,IL,"Will County",441,853,18843
+17,063,17,099,IL,"La Salle County",128,255,5181
+17,063,17,031,IL,"Cook County",116,196,4319
+17,063,17,105,IL,"Livingston County",71,146,2157
+17,063,17,043,IL,"Du Page County",54,76,2330
+17,063,17,093,IL,"Kendall County",38,75,1605
+17,063,17,091,IL,"Kankakee County",31,52,1067
+17,063,17,089,IL,"Kane County",19,31,991
+17,063,17,037,IL,"De Kalb County",16,23,503
+17,063,04,013,AZ,"Maricopa County",13,21,404
+17,063,17,113,IL,"Mclean County",12,18,277
+17,063,58,000,SS,"Other Flows - Same State",116,238,4783
+17,063,59,000,DS,"Other Flows - Diff State",356,731,19503
+17,063,59,001,DS,"Other Flows - Northeast",17,37,2689
+17,063,59,003,DS,"Other Flows - Midwest",135,285,7129
+17,063,59,005,DS,"Other Flows - South",142,293,6780
+17,063,59,007,DS,"Other Flows - West",62,116,2905
+17,065,96,000,IL,"Hamilton County Tot Mig-US",148,286,4818
+17,065,97,000,IL,"Hamilton County Tot Mig-US",148,286,4818
+17,065,97,001,IL,"Hamilton County Tot Mig-Sam",117,226,3804
+17,065,97,003,IL,"Hamilton County Tot Mig-Dif",31,60,1014
+17,065,98,000,IL,"Hamilton County Tot Mig-For",d,d,d
+17,065,17,065,IL,"Hamilton County Non-Migrant",2870,6424,111685
+17,065,17,081,IL,"Jefferson County",27,54,943
+17,065,17,055,IL,"Franklin County",21,45,711
+17,065,17,165,IL,"Saline County",13,27,613
+17,065,17,193,IL,"White County",11,18,344
+17,065,58,000,SS,"Other Flows - Same State",45,82,1193
+17,065,59,000,DS,"Other Flows - Diff State",31,60,1014
+17,067,96,000,IL,"Hancock County Tot Mig-US &",509,928,16731
+17,067,97,000,IL,"Hancock County Tot Mig-US",509,928,16731
+17,067,97,001,IL,"Hancock County Tot Mig-Same",218,380,7936
+17,067,97,003,IL,"Hancock County Tot Mig-Diff",291,548,8795
+17,067,98,000,IL,"Hancock County Tot Mig-Fore",d,d,d
+17,067,17,067,IL,"Hancock County Non-Migrants",7272,16049,303599
+17,067,19,111,IA,"Lee County",80,162,2534
+17,067,17,001,IL,"Adams County",69,109,3657
+17,067,17,109,IL,"Mcdonough County",46,85,1005
+17,067,19,057,IA,"Des Moines County",21,37,677
+17,067,17,071,IL,"Henderson County",16,33,603
+17,067,58,000,SS,"Other Flows - Same State",87,153,2671
+17,067,59,000,DS,"Other Flows - Diff State",190,349,5584
+17,069,96,000,IL,"Hardin County Tot Mig-US &",95,174,2282
+17,069,97,000,IL,"Hardin County Tot Mig-US",95,174,2282
+17,069,97,001,IL,"Hardin County Tot Mig-Same",66,124,1680
+17,069,97,003,IL,"Hardin County Tot Mig-Diff",29,50,602
+17,069,98,000,IL,"Hardin County Tot Mig-Forei",d,d,d
+17,069,17,069,IL,"Hardin County Non-Migrants",1412,3100,53712
+17,069,17,165,IL,"Saline County",36,67,829
+17,069,58,000,SS,"Other Flows - Same State",30,57,851
+17,069,59,000,DS,"Other Flows - Diff State",29,50,602
+17,071,96,000,IL,"Henderson Count Tot Mig-US",189,371,5618
+17,071,97,000,IL,"Henderson Count Tot Mig-US",189,371,5618
+17,071,97,001,IL,"Henderson Count Tot Mig-Sam",77,138,2560
+17,071,97,003,IL,"Henderson Count Tot Mig-Dif",112,233,3058
+17,071,98,000,IL,"Henderson Count Tot Mig-For",d,d,d
+17,071,17,071,IL,"Henderson Count Non-Migrant",2802,6008,107088
+17,071,19,057,IA,"Des Moines County",47,85,1045
+17,071,17,187,IL,"Warren County",18,38,513
+17,071,17,067,IL,"Hancock County",15,21,526
+17,071,17,095,IL,"Knox County",10,20,428
+17,071,58,000,SS,"Other Flows - Same State",34,59,1092
+17,071,59,000,DS,"Other Flows - Diff State",65,148,2014
+17,073,96,000,IL,"Henry County Tot Mig-US & F",1302,2336,46220
+17,073,97,000,IL,"Henry County Tot Mig-US",1302,2336,46220
+17,073,97,001,IL,"Henry County Tot Mig-Same S",838,1483,27211
+17,073,97,003,IL,"Henry County Tot Mig-Diff S",464,853,19009
+17,073,98,000,IL,"Henry County Tot Mig-Foreig",d,d,d
+17,073,17,073,IL,"Henry County Non-Migrants",19007,42463,935119
+17,073,17,161,IL,"Rock Island County",395,724,12161
+17,073,19,163,IA,"Scott County",82,166,3323
+17,073,17,095,IL,"Knox County",64,123,2019
+17,073,17,011,IL,"Bureau County",50,93,1158
+17,073,17,031,IL,"Cook County",45,52,1867
+17,073,17,175,IL,"Stark County",33,65,808
+17,073,17,143,IL,"Peoria County",32,58,1003
+17,073,04,013,AZ,"Maricopa County",20,25,955
+17,073,17,113,IL,"Mclean County",20,27,635
+17,073,17,131,IL,"Mercer County",20,37,667
+17,073,17,195,IL,"Whiteside County",18,32,551
+17,073,17,179,IL,"Tazewell County",16,28,497
+17,073,17,109,IL,"Mcdonough County",12,14,239
+17,073,17,187,IL,"Warren County",10,20,446
+17,073,58,000,SS,"Other Flows - Same State",123,210,5161
+17,073,59,000,DS,"Other Flows - Diff State",362,662,14731
+17,073,59,001,DS,"Other Flows - Northeast",13,34,572
+17,073,59,003,DS,"Other Flows - Midwest",142,265,6444
+17,073,59,005,DS,"Other Flows - South",132,241,4872
+17,073,59,007,DS,"Other Flows - West",75,122,2842
+17,075,96,000,IL,"Iroquois County Tot Mig-US",724,1371,23304
+17,075,97,000,IL,"Iroquois County Tot Mig-US",724,1371,23304
+17,075,97,001,IL,"Iroquois County Tot Mig-Sam",514,984,16684
+17,075,97,003,IL,"Iroquois County Tot Mig-Dif",210,387,6620
+17,075,98,000,IL,"Iroquois County Tot Mig-For",d,d,d
+17,075,17,075,IL,"Iroquois County Non-Migrant",11388,25154,497895
+17,075,17,091,IL,"Kankakee County",192,389,7027
+17,075,17,019,IL,"Champaign County",59,89,1508
+17,075,17,053,IL,"Ford County",54,128,1726
+17,075,17,183,IL,"Vermilion County",40,79,994
+17,075,17,031,IL,"Cook County",36,57,798
+17,075,17,197,IL,"Will County",17,32,748
+17,075,17,113,IL,"Mclean County",14,19,431
+17,075,17,043,IL,"Du Page County",12,15,369
+17,075,18,111,IN,"Newton County",11,18,310
+17,075,58,000,SS,"Other Flows - Same State",90,176,3083
+17,075,59,000,DS,"Other Flows - Diff State",199,369,6310
+17,077,96,000,IL,"Jackson County Tot Mig-US &",2272,3715,59371
+17,077,97,000,IL,"Jackson County Tot Mig-US",2251,3679,58867
+17,077,97,001,IL,"Jackson County Tot Mig-Same",1245,2035,30526
+17,077,97,003,IL,"Jackson County Tot Mig-Diff",1006,1644,28341
+17,077,98,000,IL,"Jackson County Tot Mig-Fore",21,36,505
+17,077,17,077,IL,"Jackson County Non-Migrants",17058,34613,750135
+17,077,17,199,IL,"Williamson County",282,530,8655
+17,077,17,031,IL,"Cook County",192,283,3186
+17,077,17,145,IL,"Perry County",84,166,2001
+17,077,17,167,IL,"Sangamon County",54,84,1161
+17,077,29,189,MO,"St Louis County",51,78,1829
+17,077,17,181,IL,"Union County",50,100,1876
+17,077,17,055,IL,"Franklin County",49,94,1096
+17,077,17,163,IL,"St Clair County",44,60,1037
+17,077,17,157,IL,"Randolph County",34,65,1236
+17,077,17,019,IL,"Champaign County",33,51,795
+17,077,17,119,IL,"Madison County",33,51,801
+17,077,29,510,MO,"St Louis",33,40,793
+17,077,17,043,IL,"Du Page County",26,36,619
+17,077,04,013,AZ,"Maricopa County",25,35,472
+17,077,17,197,IL,"Will County",24,38,511
+17,077,17,143,IL,"Peoria County",21,28,542
+17,077,17,097,IL,"Lake County",18,22,262
+17,077,06,037,CA,"Los Angeles County",17,20,280
+17,077,17,165,IL,"Saline County",17,26,354
+17,077,17,081,IL,"Jefferson County",16,22,247
+17,077,29,031,MO,"Cape Girardeau Count",16,27,467
+17,077,06,085,CA,"Santa Clara County",15,15,159
+17,077,17,161,IL,"Rock Island County",15,20,260
+17,077,17,113,IL,"Mclean County",14,17,299
+17,077,48,201,TX,"Harris County",14,27,316
+17,077,18,097,IN,"Marion County",13,16,279
+17,077,17,115,IL,"Macon County",12,12,257
+17,077,17,201,IL,"Winnebago County",12,17,305
+17,077,21,145,KY,"Mccracken County",12,23,295
+17,077,47,157,TN,"Shelby County",12,14,290
+17,077,06,073,CA,"San Diego County",11,14,177
+17,077,13,089,GA,"De Kalb County",11,16,167
+17,077,17,089,IL,"Kane County",10,12,234
+17,077,17,121,IL,"Marion County",10,18,162
+17,077,58,000,SS,"Other Flows - Same State",195,283,4630
+17,077,59,000,DS,"Other Flows - Diff State",776,1319,22818
+17,077,59,001,DS,"Other Flows - Northeast",87,133,2420
+17,077,59,003,DS,"Other Flows - Midwest",221,370,7009
+17,077,59,005,DS,"Other Flows - South",360,650,10249
+17,077,59,007,DS,"Other Flows - West",108,166,3141
+17,077,57,009,FR,"Foreign - Other flows",21,36,505
+17,079,96,000,IL,"Jasper County Tot Mig-US &",220,384,9878
+17,079,97,000,IL,"Jasper County Tot Mig-US",220,384,9878
+17,079,97,001,IL,"Jasper County Tot Mig-Same",166,290,8634
+17,079,97,003,IL,"Jasper County Tot Mig-Diff",54,94,1244
+17,079,98,000,IL,"Jasper County Tot Mig-Forei",d,d,d
+17,079,17,079,IL,"Jasper County Non-Migrants",3797,8639,157311
+17,079,17,049,IL,"Effingham County",36,72,1276
+17,079,17,159,IL,"Richland County",26,46,629
+17,079,17,033,IL,"Crawford County",20,36,4139
+17,079,17,029,IL,"Coles County",12,16,263
+17,079,58,000,SS,"Other Flows - Same State",72,120,2326
+17,079,59,000,DS,"Other Flows - Diff State",54,94,1244
+17,081,96,000,IL,"Jefferson Count Tot Mig-US",783,1535,26182
+17,081,97,000,IL,"Jefferson Count Tot Mig-US",783,1535,26182
+17,081,97,001,IL,"Jefferson Count Tot Mig-Sam",455,899,13318
+17,081,97,003,IL,"Jefferson Count Tot Mig-Dif",328,636,12863
+17,081,98,000,IL,"Jefferson Count Tot Mig-For",d,d,d
+17,081,17,081,IL,"Jefferson Count Non-Migrant",13106,28885,572550
+17,081,17,121,IL,"Marion County",93,197,2737
+17,081,17,055,IL,"Franklin County",41,94,1051
+17,081,17,119,IL,"Madison County",39,61,1006
+17,081,17,189,IL,"Washington County",29,45,875
+17,081,17,199,IL,"Williamson County",27,48,839
+17,081,17,163,IL,"St Clair County",23,54,1185
+17,081,17,191,IL,"Wayne County",22,41,501
+17,081,17,077,IL,"Jackson County",19,37,480
+17,081,17,027,IL,"Clinton County",17,37,363
+17,081,17,065,IL,"Hamilton County",17,29,374
+17,081,17,031,IL,"Cook County",16,30,567
+17,081,29,189,MO,"St Louis County",12,19,519
+17,081,17,145,IL,"Perry County",10,15,316
+17,081,58,000,SS,"Other Flows - Same State",102,211,3025
+17,081,59,000,DS,"Other Flows - Diff State",316,617,12344
+17,081,59,001,DS,"Other Flows - Northeast",13,27,146
+17,081,59,003,DS,"Other Flows - Midwest",117,233,4129
+17,081,59,005,DS,"Other Flows - South",142,273,5925
+17,081,59,007,DS,"Other Flows - West",44,84,2144
+17,083,96,000,IL,"Jersey County Tot Mig-US &",516,939,15486
+17,083,97,000,IL,"Jersey County Tot Mig-US",516,939,15486
+17,083,97,001,IL,"Jersey County Tot Mig-Same",367,670,10384
+17,083,97,003,IL,"Jersey County Tot Mig-Diff",149,269,5103
+17,083,98,000,IL,"Jersey County Tot Mig-Forei",d,d,d
+17,083,17,083,IL,"Jersey County Non-Migrants",7996,17996,386861
+17,083,17,119,IL,"Madison County",189,345,5428
+17,083,17,061,IL,"Greene County",49,101,1367
+17,083,17,117,IL,"Macoupin County",44,87,1313
+17,083,17,013,IL,"Calhoun County",25,47,800
+17,083,29,189,MO,"St Louis County",19,27,694
+17,083,29,183,MO,"St Charles County",11,16,509
+17,083,58,000,SS,"Other Flows - Same State",60,90,1474
+17,083,59,000,DS,"Other Flows - Diff State",119,226,3900
+17,083,59,001,DS,"Other Flows - Northeast",10,17,279
+17,083,59,003,DS,"Other Flows - Midwest",42,79,1195
+17,083,59,005,DS,"Other Flows - South",42,82,1660
+17,083,59,007,DS,"Other Flows - West",25,48,766
+17,085,96,000,IL,"Jo Daviess Coun Tot Mig-US",500,874,17826
+17,085,97,000,IL,"Jo Daviess Coun Tot Mig-US",500,874,17826
+17,085,97,001,IL,"Jo Daviess Coun Tot Mig-Sam",142,250,6423
+17,085,97,003,IL,"Jo Daviess Coun Tot Mig-Dif",358,624,11403
+17,085,98,000,IL,"Jo Daviess Coun Tot Mig-For",d,d,d
+17,085,17,085,IL,"Jo Daviess Coun Non-Migrant",8831,18789,436528
+17,085,19,061,IA,"Dubuque County",135,246,3959
+17,085,17,177,IL,"Stephenson County",56,111,2702
+17,085,55,043,WI,"Grant County",26,53,842
+17,085,55,065,WI,"Lafayette County",17,32,422
+17,085,17,031,IL,"Cook County",15,23,1025
+17,085,17,015,IL,"Carroll County",10,25,275
+17,085,17,089,IL,"Kane County",10,20,1087
+17,085,55,025,WI,"Dane County",10,18,384
+17,085,58,000,SS,"Other Flows - Same State",51,71,1335
+17,085,59,000,DS,"Other Flows - Diff State",170,275,5797
+17,087,96,000,IL,"Johnson County Tot Mig-US &",268,502,7420
+17,087,97,000,IL,"Johnson County Tot Mig-US",268,502,7420
+17,087,97,001,IL,"Johnson County Tot Mig-Same",213,418,6038
+17,087,97,003,IL,"Johnson County Tot Mig-Diff",55,84,1382
+17,087,98,000,IL,"Johnson County Tot Mig-Fore",d,d,d
+17,087,17,087,IL,"Johnson County Non-Migrants",3741,8540,154513
+17,087,17,199,IL,"Williamson County",84,165,2574
+17,087,17,127,IL,"Massac County",20,42,582
+17,087,17,181,IL,"Union County",17,32,586
+17,087,17,055,IL,"Franklin County",15,31,418
+17,087,58,000,SS,"Other Flows - Same State",77,148,1879
+17,087,59,000,DS,"Other Flows - Diff State",55,84,1382
+17,089,96,000,IL,"Kane County Tot Mig-US & Fo",12976,26706,724166
+17,089,97,000,IL,"Kane County Tot Mig-US",12891,26573,719588
+17,089,97,001,IL,"Kane County Tot Mig-Same St",8979,18272,445990
+17,089,97,003,IL,"Kane County Tot Mig-Diff St",3912,8301,273599
+17,089,98,000,IL,"Kane County Tot Mig-Foreign",85,133,4578
+17,089,17,089,IL,"Kane County Non-Migrants",150348,372917,10775222
+17,089,17,031,IL,"Cook County",2437,4451,109841
+17,089,17,043,IL,"Du Page County",1675,3107,79775
+17,089,17,093,IL,"Kendall County",1195,2851,59862
+17,089,17,111,IL,"Mchenry County",977,2071,53998
+17,089,17,037,IL,"De Kalb County",809,1633,38213
+17,089,17,197,IL,"Will County",449,971,21771
+17,089,17,007,IL,"Boone County",293,796,13322
+17,089,17,201,IL,"Winnebago County",249,572,10289
+17,089,17,097,IL,"Lake County",208,416,10923
+17,089,04,013,AZ,"Maricopa County",180,345,11368
+17,089,17,099,IL,"La Salle County",144,314,6151
+17,089,17,141,IL,"Ogle County",82,190,8888
+17,089,32,003,NV,"Clark County",71,128,3729
+17,089,06,037,CA,"Los Angeles County",63,112,2368
+17,089,12,071,FL,"Lee County",52,96,5511
+17,089,48,201,TX,"Harris County",47,120,2336
+17,089,17,019,IL,"Champaign County",40,58,13012
+17,089,57,005,FR,"Foreign - APO/FPO ZIPs",38,53,735
+17,089,06,059,CA,"Orange County",37,72,4425
+17,089,06,073,CA,"San Diego County",37,60,2034
+17,089,48,029,TX,"Bexar County",37,91,2016
+17,089,55,079,WI,"Milwaukee County",37,65,1564
+17,089,55,025,WI,"Dane County",36,82,2303
+17,089,12,011,FL,"Broward County",35,66,2025
+17,089,39,049,OH,"Franklin County",34,64,2658
+17,089,48,215,TX,"Hidalgo County",34,92,873
+17,089,17,063,IL,"Grundy County",33,61,1801
+17,089,53,033,WA,"King County",33,63,2967
+17,089,17,103,IL,"Lee County",32,73,1307
+17,089,06,065,CA,"Riverside County",31,76,2220
+17,089,17,113,IL,"Mclean County",29,59,1664
+17,089,55,133,WI,"Waukesha County",29,66,2472
+17,089,48,113,TX,"Dallas County",28,61,1312
+17,089,18,097,IN,"Marion County",27,54,1356
+17,089,48,439,TX,"Tarrant County",27,84,1227
+17,089,55,059,WI,"Kenosha County",27,48,1258
+17,089,55,127,WI,"Walworth County",27,54,1300
+17,089,04,019,AZ,"Pima County",26,57,1644
+17,089,12,057,FL,"Hillsborough County",25,43,2678
+17,089,12,021,FL,"Collier County",24,54,3809
+17,089,12,099,FL,"Palm Beach County",24,49,2104
+17,089,13,067,GA,"Cobb County",23,54,2824
+17,089,18,089,IN,"Lake County",23,53,946
+17,089,37,119,NC,"Mecklenburg County",23,46,931
+17,089,29,189,MO,"St Louis County",22,57,2732
+17,089,08,041,CO,"El Paso County",21,32,733
+17,089,13,135,GA,"Gwinnett County",21,53,1402
+17,089,27,053,MN,"Hennepin County",21,40,1302
+17,089,36,061,NY,"New York County",21,21,617
+17,089,55,105,WI,"Rock County",21,44,4301
+17,089,12,095,FL,"Orange County",20,39,1451
+17,089,27,123,MN,"Ramsey County",20,27,768
+17,089,48,085,TX,"Collin County",20,51,1744
+17,089,12,101,FL,"Pasco County",19,35,1597
+17,089,12,103,FL,"Pinellas County",19,30,1094
+17,089,17,167,IL,"Sangamon County",18,34,868
+17,089,11,001,DC,"District Of Columbia",17,19,660
+17,089,12,115,FL,"Sarasota County",17,38,4895
+17,089,17,195,IL,"Whiteside County",17,33,504
+17,089,18,057,IN,"Hamilton County",17,48,1263
+17,089,34,017,NJ,"Hudson County",17,47,2692
+17,089,47,037,TN,"Davidson County",17,28,737
+17,089,48,121,TX,"Denton County",17,44,1734
+17,089,48,141,TX,"El Paso County",17,52,490
+17,089,51,059,VA,"Fairfax County",17,32,1218
+17,089,08,035,CO,"Douglas County",16,45,2079
+17,089,13,121,GA,"Fulton County",16,44,2120
+17,089,20,091,KS,"Johnson County",16,50,1343
+17,089,26,163,MI,"Wayne County",16,37,591
+17,089,13,089,GA,"De Kalb County",15,34,-22
+17,089,19,153,IA,"Polk County",15,34,786
+17,089,21,111,KY,"Jefferson County",15,37,1864
+17,089,25,017,MA,"Middlesex County",15,30,1017
+17,089,26,081,MI,"Kent County",15,32,917
+17,089,17,091,IL,"Kankakee County",14,33,482
+17,089,17,119,IL,"Madison County",14,30,890
+17,089,17,143,IL,"Peoria County",14,38,1003
+17,089,26,125,MI,"Oakland County",14,32,1313
+17,089,37,183,NC,"Wake County",14,32,810
+17,089,48,453,TX,"Travis County",14,30,970
+17,089,04,021,AZ,"Pinal County",13,18,645
+17,089,05,007,AR,"Benton County",13,39,835
+17,089,06,085,CA,"Santa Clara County",13,22,718
+17,089,17,011,IL,"Bureau County",13,36,477
+17,089,17,177,IL,"Stephenson County",13,26,289
+17,089,18,127,IN,"Porter County",13,23,1293
+17,089,47,157,TN,"Shelby County",13,29,465
+17,089,55,101,WI,"Racine County",13,20,726
+17,089,06,067,CA,"Sacramento County",12,21,551
+17,089,08,013,CO,"Boulder County",12,20,573
+17,089,12,127,FL,"Volusia County",12,26,410
+17,089,17,015,IL,"Carroll County",12,28,2684
+17,089,17,085,IL,"Jo Daviess County",12,21,468
+17,089,19,103,IA,"Johnson County",12,16,266
+17,089,29,183,MO,"St Charles County",12,32,1166
+17,089,42,003,PA,"Allegheny County",12,21,707
+17,089,53,061,WA,"Snohomish County",12,26,576
+17,089,04,025,AZ,"Yavapai County",11,20,1165
+17,089,08,001,CO,"Adams County",11,24,592
+17,089,08,031,CO,"Denver County",11,16,464
+17,089,12,081,FL,"Manatee County",11,19,546
+17,089,12,086,FL,"Miami Dade County",11,24,613
+17,089,15,003,HI,"Honolulu County",11,18,557
+17,089,17,077,IL,"Jackson County",11,18,258
+17,089,17,115,IL,"Macon County",11,21,312
+17,089,17,161,IL,"Rock Island County",11,20,280
+17,089,17,163,IL,"St Clair County",11,17,277
+17,089,31,055,NE,"Douglas County",11,19,1526
+17,089,53,053,WA,"Pierce County",11,20,364
+17,089,55,087,WI,"Outagamie County",11,31,594
+17,089,06,075,CA,"San Francisco County",10,11,242
+17,089,08,059,CO,"Jefferson County",10,33,2839
+17,089,12,083,FL,"Marion County",10,25,545
+17,089,17,183,IL,"Vermilion County",10,21,299
+17,089,18,003,IN,"Allen County",10,38,1405
+17,089,18,105,IN,"Monroe County",10,15,388
+17,089,18,157,IN,"Tippecanoe County",10,25,656
+17,089,19,163,IA,"Scott County",10,24,554
+17,089,26,021,MI,"Berrien County",10,30,334
+17,089,26,139,MI,"Ottawa County",10,14,666
+17,089,39,041,OH,"Delaware County",10,28,1039
+17,089,47,187,TN,"Williamson County",10,25,1610
+17,089,58,000,SS,"Other Flows - Same State",146,273,6084
+17,089,59,000,DS,"Other Flows - Diff State",1902,4100,130500
+17,089,59,001,DS,"Other Flows - Northeast",186,402,18407
+17,089,59,003,DS,"Other Flows - Midwest",618,1345,36977
+17,089,59,005,DS,"Other Flows - South",803,1737,56904
+17,089,59,007,DS,"Other Flows - West",295,616,18211
+17,089,57,009,FR,"Foreign - Other flows",47,80,3843
+17,091,96,000,IL,"Kankakee County Tot Mig-US",2161,3991,78016
+17,091,97,000,IL,"Kankakee County Tot Mig-US",2148,3978,77851
+17,091,97,001,IL,"Kankakee County Tot Mig-Sam",1189,2129,42834
+17,091,97,003,IL,"Kankakee County Tot Mig-Dif",959,1849,35017
+17,091,98,000,IL,"Kankakee County Tot Mig-For",13,13,166
+17,091,17,091,IL,"Kankakee County Non-Migrant",37670,84846,1874127
+17,091,17,031,IL,"Cook County",331,574,11997
+17,091,17,197,IL,"Will County",232,431,9910
+17,091,17,075,IL,"Iroquois County",176,352,5638
+17,091,17,043,IL,"Du Page County",54,77,1889
+17,091,17,019,IL,"Champaign County",53,96,1137
+17,091,04,013,AZ,"Maricopa County",52,87,2076
+17,091,18,089,IN,"Lake County",52,105,2043
+17,091,17,113,IL,"Mclean County",44,60,1132
+17,091,17,063,IL,"Grundy County",28,48,1105
+17,091,17,105,IL,"Livingston County",21,40,649
+17,091,17,097,IL,"Lake County",18,30,684
+17,091,17,089,IL,"Kane County",16,27,965
+17,091,18,097,IN,"Marion County",15,32,439
+17,091,32,003,NV,"Clark County",15,21,416
+17,091,18,111,IN,"Newton County",14,26,387
+17,091,17,111,IL,"Mchenry County",13,25,961
+17,091,17,143,IL,"Peoria County",13,23,519
+17,091,17,037,IL,"De Kalb County",12,16,228
+17,091,27,053,MN,"Hennepin County",12,28,360
+17,091,17,183,IL,"Vermilion County",11,29,295
+17,091,13,089,GA,"De Kalb County",10,23,239
+17,091,17,053,IL,"Ford County",10,19,388
+17,091,58,000,SS,"Other Flows - Same State",157,282,5337
+17,091,59,000,DS,"Other Flows - Diff State",789,1527,29057
+17,091,59,001,DS,"Other Flows - Northeast",38,69,2170
+17,091,59,003,DS,"Other Flows - Midwest",269,563,10830
+17,091,59,005,DS,"Other Flows - South",368,690,11428
+17,091,59,007,DS,"Other Flows - West",114,205,4629
+17,091,57,009,FR,"Foreign - Other flows",13,13,166
+17,093,96,000,IL,"Kendall County Tot Mig-US &",2546,5086,134602
+17,093,97,000,IL,"Kendall County Tot Mig-US",2546,5086,134602
+17,093,97,001,IL,"Kendall County Tot Mig-Same",1906,3643,96947
+17,093,97,003,IL,"Kendall County Tot Mig-Diff",640,1443,37655
+17,093,98,000,IL,"Kendall County Tot Mig-Fore",d,d,d
+17,093,17,093,IL,"Kendall County Non-Migrants",27898,69759,2004826
+17,093,17,089,IL,"Kane County",483,945,22605
+17,093,17,043,IL,"Du Page County",374,624,17925
+17,093,17,197,IL,"Will County",262,559,17344
+17,093,17,031,IL,"Cook County",204,319,9243
+17,093,17,037,IL,"De Kalb County",180,370,7728
+17,093,17,099,IL,"La Salle County",175,353,8451
+17,093,17,063,IL,"Grundy County",37,77,2102
+17,093,04,013,AZ,"Maricopa County",34,73,1824
+17,093,17,097,IL,"Lake County",20,28,879
+17,093,17,111,IL,"Mchenry County",16,34,669
+17,093,06,073,CA,"San Diego County",13,19,605
+17,093,17,201,IL,"Winnebago County",13,23,606
+17,093,17,141,IL,"Ogle County",11,28,410
+17,093,58,000,SS,"Other Flows - Same State",131,283,8984
+17,093,59,000,DS,"Other Flows - Diff State",593,1351,35225
+17,093,59,001,DS,"Other Flows - Northeast",37,88,2101
+17,093,59,003,DS,"Other Flows - Midwest",214,522,13389
+17,093,59,005,DS,"Other Flows - South",241,535,13862
+17,093,59,007,DS,"Other Flows - West",101,206,5873
+17,095,96,000,IL,"Knox County Tot Mig-US & Fo",1133,2121,40586
+17,095,97,000,IL,"Knox County Tot Mig-US",1133,2121,40586
+17,095,97,001,IL,"Knox County Tot Mig-Same St",654,1225,21442
+17,095,97,003,IL,"Knox County Tot Mig-Diff St",479,896,19144
+17,095,98,000,IL,"Knox County Tot Mig-Foreign",d,d,d
+17,095,17,095,IL,"Knox County Non-Migrants",18781,39438,808158
+17,095,17,143,IL,"Peoria County",120,213,4759
+17,095,17,187,IL,"Warren County",76,155,2143
+17,095,17,031,IL,"Cook County",62,99,1476
+17,095,17,161,IL,"Rock Island County",43,72,1412
+17,095,17,073,IL,"Henry County",42,89,1236
+17,095,17,179,IL,"Tazewell County",31,62,1364
+17,095,17,057,IL,"Fulton County",27,54,649
+17,095,19,163,IA,"Scott County",23,44,733
+17,095,17,113,IL,"Mclean County",21,45,1006
+17,095,17,109,IL,"Mcdonough County",19,32,385
+17,095,17,131,IL,"Mercer County",19,43,545
+17,095,04,013,AZ,"Maricopa County",15,26,826
+17,095,17,043,IL,"Du Page County",14,15,489
+17,095,17,197,IL,"Will County",13,16,289
+17,095,17,099,IL,"La Salle County",12,23,338
+17,095,17,019,IL,"Champaign County",11,23,296
+17,095,17,167,IL,"Sangamon County",11,22,410
+17,095,17,097,IL,"Lake County",10,21,318
+17,095,58,000,SS,"Other Flows - Same State",123,241,4327
+17,095,59,000,DS,"Other Flows - Diff State",441,826,17584
+17,095,59,001,DS,"Other Flows - Northeast",20,27,791
+17,095,59,003,DS,"Other Flows - Midwest",183,363,7643
+17,095,59,005,DS,"Other Flows - South",143,267,6251
+17,095,59,007,DS,"Other Flows - West",95,169,2899
+17,097,96,000,IL,"Lake County Tot Mig-US & Fo",16924,33177,1202325
+17,097,97,000,IL,"Lake County Tot Mig-US",16574,32474,1177572
+17,097,97,001,IL,"Lake County Tot Mig-Same St",7472,13248,462102
+17,097,97,003,IL,"Lake County Tot Mig-Diff St",9102,19226,715470
+17,097,98,000,IL,"Lake County Tot Mig-Foreign",350,703,24753
+17,097,17,097,IL,"Lake County Non-Migrants",224978,550586,22275891
+17,097,17,031,IL,"Cook County",4715,7777,296148
+17,097,17,111,IL,"Mchenry County",1250,2525,75944
+17,097,55,059,WI,"Kenosha County",1178,2486,52398
+17,097,17,043,IL,"Du Page County",425,747,26194
+17,097,04,013,AZ,"Maricopa County",314,622,24430
+17,097,17,089,IL,"Kane County",281,564,19576
+17,097,06,073,CA,"San Diego County",242,539,13170
+17,097,57,005,FR,"Foreign - APO/FPO ZIPs",232,435,6670
+17,097,06,037,CA,"Los Angeles County",155,245,7448
+17,097,55,127,WI,"Walworth County",148,306,8860
+17,097,32,003,NV,"Clark County",141,273,14185
+17,097,55,079,WI,"Milwaukee County",139,272,6831
+17,097,55,101,WI,"Racine County",136,254,5726
+17,097,17,197,IL,"Will County",128,283,7172
+17,097,51,810,VA,"Virginia Beach",110,296,4386
+17,097,17,201,IL,"Winnebago County",93,200,3951
+17,097,36,061,NY,"New York County",87,100,7938
+17,097,12,099,FL,"Palm Beach County",77,153,15927
+17,097,12,031,FL,"Duval County",75,188,2860
+17,097,12,071,FL,"Lee County",73,131,14605
+17,097,17,037,IL,"De Kalb County",69,111,2192
+17,097,48,201,TX,"Harris County",66,160,4691
+17,097,48,439,TX,"Tarrant County",63,169,5163
+17,097,55,025,WI,"Dane County",63,112,4724
+17,097,04,019,AZ,"Pima County",62,133,7449
+17,097,55,133,WI,"Waukesha County",59,118,4536
+17,097,06,059,CA,"Orange County",57,123,5265
+17,097,12,011,FL,"Broward County",57,122,4910
+17,097,48,029,TX,"Bexar County",57,130,2206
+17,097,51,710,VA,Norfolk,56,120,1309
+17,097,29,189,MO,"St Louis County",53,110,7995
+17,097,53,033,WA,"King County",53,118,7017
+17,097,12,095,FL,"Orange County",52,91,3169
+17,097,17,019,IL,"Champaign County",52,74,1765
+17,097,27,053,MN,"Hennepin County",52,84,5229
+17,097,12,057,FL,"Hillsborough County",49,116,3471
+17,097,24,031,MD,"Montgomery County",47,100,7982
+17,097,48,113,TX,"Dallas County",46,92,3693
+17,097,06,065,CA,"Riverside County",45,105,3658
+17,097,12,021,FL,"Collier County",45,84,13100
+17,097,15,003,HI,"Honolulu County",45,97,2204
+17,097,17,093,IL,"Kendall County",43,96,3150
+17,097,18,097,IN,"Marion County",43,87,2060
+17,097,08,031,CO,"Denver County",42,48,1453
+17,097,12,086,FL,"Miami Dade County",42,73,7451
+17,097,17,007,IL,"Boone County",42,108,2508
+17,097,06,085,CA,"Santa Clara County",41,88,5778
+17,097,13,121,GA,"Fulton County",40,112,9384
+17,097,17,113,IL,"Mclean County",40,64,1626
+17,097,12,115,FL,"Sarasota County",39,71,4547
+17,097,37,183,NC,"Wake County",39,95,3610
+17,097,12,103,FL,"Pinellas County",38,75,2704
+17,097,37,133,NC,"Onslow County",37,78,1153
+17,097,06,075,CA,"San Francisco County",36,41,1511
+17,097,18,089,IN,"Lake County",36,66,1453
+17,097,48,453,TX,"Travis County",36,86,7898
+17,097,08,013,CO,"Boulder County",34,57,4837
+17,097,18,057,IN,"Hamilton County",33,84,3250
+17,097,25,017,MA,"Middlesex County",33,63,4060
+17,097,37,119,NC,"Mecklenburg County",33,81,2623
+17,097,11,001,DC,"District Of Columbia",32,35,895
+17,097,26,125,MI,"Oakland County",32,68,3035
+17,097,48,121,TX,"Denton County",32,95,2853
+17,097,13,135,GA,"Gwinnett County",31,71,1422
+17,097,45,013,SC,"Beaufort County",31,60,1470
+17,097,48,085,TX,"Collin County",31,75,3462
+17,097,20,091,KS,"Johnson County",30,82,3619
+17,097,39,035,OH,"Cuyahoga County",30,63,3707
+17,097,06,001,CA,"Alameda County",29,51,2430
+17,097,06,071,CA,"San Bernardino Count",29,64,1533
+17,097,17,077,IL,"Jackson County",28,33,300
+17,097,36,047,NY,"Kings County",28,46,775
+17,097,26,163,MI,"Wayne County",27,56,2175
+17,097,39,049,OH,"Franklin County",27,61,3250
+17,097,53,035,WA,"Kitsap County",27,52,911
+17,097,08,041,CO,"El Paso County",26,46,1706
+17,097,42,091,PA,"Montgomery County",26,63,4727
+17,097,47,157,TN,"Shelby County",26,50,1085
+17,097,13,067,GA,"Cobb County",25,62,2109
+17,097,51,059,VA,"Fairfax County",24,52,2276
+17,097,08,059,CO,"Jefferson County",23,44,2630
+17,097,12,127,FL,"Volusia County",23,38,4519
+17,097,17,119,IL,"Madison County",23,56,917
+17,097,26,081,MI,"Kent County",23,38,1193
+17,097,06,111,CA,"Ventura County",22,64,4424
+17,097,09,001,CT,"Fairfield County",22,58,7518
+17,097,12,019,FL,"Clay County",22,61,928
+17,097,12,069,FL,"Lake County",22,50,1921
+17,097,55,009,WI,"Brown County",22,50,1279
+17,097,12,081,FL,"Manatee County",21,44,2229
+17,097,12,105,FL,"Polk County",21,39,1270
+17,097,47,037,TN,"Davidson County",21,42,5270
+17,097,04,025,AZ,"Yavapai County",20,38,1028
+17,097,08,005,CO,"Arapahoe County",20,30,619
+17,097,12,009,FL,"Brevard County",20,35,1855
+17,097,12,033,FL,"Escambia County",20,35,607
+17,097,12,117,FL,"Seminole County",20,46,1935
+17,097,17,143,IL,"Peoria County",20,30,771
+17,097,17,167,IL,"Sangamon County",20,39,1427
+17,097,19,153,IA,"Polk County",20,37,901
+17,097,25,025,MA,"Suffolk County",20,23,1644
+17,097,04,021,AZ,"Pinal County",19,44,1228
+17,097,19,163,IA,"Scott County",19,51,1044
+17,097,29,095,MO,"Jackson County",19,39,957
+17,097,39,041,OH,"Delaware County",19,50,2647
+17,097,48,339,TX,"Montgomery County",19,56,2335
+17,097,06,081,CA,"San Mateo County",18,31,1889
+17,097,12,101,FL,"Pasco County",18,37,2019
+17,097,18,003,IN,"Allen County",18,46,1577
+17,097,57,003,FR,"Foreign - Puerto Rico",18,40,475
+17,097,13,039,GA,"Camden County",17,45,680
+17,097,17,163,IL,"St Clair County",17,42,749
+17,097,34,027,NJ,"Morris County",17,43,3837
+17,097,42,003,PA,"Allegheny County",17,34,2282
+17,097,51,700,VA,"Newport News",17,52,594
+17,097,53,061,WA,"Snohomish County",17,44,1016
+17,097,12,015,FL,"Charlotte County",16,45,2522
+17,097,13,089,GA,"De Kalb County",16,29,1003
+17,097,19,103,IA,"Johnson County",16,31,776
+17,097,24,005,MD,"Baltimore County",16,36,1166
+17,097,25,027,MA,"Worcester County",16,34,1804
+17,097,26,077,MI,"Kalamazoo County",16,34,1170
+17,097,51,550,VA,Chesapeake,16,56,683
+17,097,51,740,VA,Portsmouth,16,35,420
+17,097,29,510,MO,"St Louis",15,25,333
+17,097,31,055,NE,"Douglas County",15,34,1752
+17,097,51,013,VA,"Arlington County",15,16,564
+17,097,55,029,WI,"Door County",15,22,2450
+17,097,55,139,WI,"Winnebago County",15,33,929
+17,097,06,029,CA,"Kern County",14,30,771
+17,097,08,035,CO,"Douglas County",14,40,2937
+17,097,12,083,FL,"Marion County",14,24,980
+17,097,17,099,IL,"La Salle County",14,31,913
+17,097,21,111,KY,"Jefferson County",14,29,811
+17,097,27,123,MN,"Ramsey County",14,18,760
+17,097,39,061,OH,"Hamilton County",14,34,1296
+17,097,40,027,OK,"Cleveland County",14,28,524
+17,097,40,109,OK,"Oklahoma County",14,29,644
+17,097,42,101,PA,"Philadelphia County",14,25,1276
+17,097,48,027,TX,"Bell County",14,29,390
+17,097,48,157,TX,"Fort Bend County",14,51,1958
+17,097,48,215,TX,"Hidalgo County",14,39,467
+17,097,51,650,VA,Hampton,14,36,414
+17,097,51,800,VA,Suffolk,14,34,664
+17,097,53,053,WA,"Pierce County",14,37,1402
+17,097,55,105,WI,"Rock County",14,27,902
+17,097,06,013,CA,"Contra Costa County",13,32,1852
+17,097,06,031,CA,"Kings County",13,29,338
+17,097,08,001,CO,"Adams County",13,24,825
+17,097,09,009,CT,"New Haven County",13,35,2117
+17,097,10,003,DE,"New Castle County",13,34,1250
+17,097,12,053,FL,"Hernando County",13,32,451
+17,097,12,097,FL,"Osceola County",13,24,452
+17,097,12,109,FL,"St Johns County",13,36,2644
+17,097,17,091,IL,"Kankakee County",13,18,424
+17,097,18,141,IN,"St Joseph County",13,20,532
+17,097,26,099,MI,"Macomb County",13,29,1444
+17,097,26,161,MI,"Washtenaw County",13,27,1198
+17,097,29,183,MO,"St Charles County",13,40,950
+17,097,36,119,NY,"Westchester County",13,31,9631
+17,097,37,081,NC,"Guilford County",13,28,1600
+17,097,47,093,TN,"Knox County",13,26,1394
+17,097,49,035,UT,"Salt Lake County",13,32,630
+17,097,55,125,WI,"Vilas County",13,22,1047
+17,097,01,073,AL,"Jefferson County",12,24,632
+17,097,09,003,CT,"Hartford County",12,39,2260
+17,097,17,115,IL,"Macon County",12,29,3505
+17,097,17,141,IL,"Ogle County",12,39,573
+17,097,17,177,IL,"Stephenson County",12,30,2352
+17,097,18,127,IN,"Porter County",12,27,1165
+17,097,18,157,IN,"Tippecanoe County",12,22,578
+17,097,19,113,IA,"Linn County",12,20,636
+17,097,24,510,MD,Baltimore,12,14,307
+17,097,26,093,MI,"Livingston County",12,29,1072
+17,097,34,003,NJ,"Bergen County",12,30,1126
+17,097,35,001,NM,"Bernalillo County",12,34,707
+17,097,41,051,OR,"Multnomah County",12,18,586
+17,097,42,029,PA,"Chester County",12,32,2031
+17,097,45,019,SC,"Charleston County",12,26,4994
+17,097,47,187,TN,"Williamson County",12,29,1977
+17,097,48,061,TX,"Cameron County",12,27,301
+17,097,53,029,WA,"Island County",12,34,617
+17,097,55,087,WI,"Outagamie County",12,21,613
+17,097,55,089,WI,"Ozaukee County",12,41,1254
+17,097,08,069,CO,"Larimer County",11,25,1192
+17,097,12,111,FL,"St Lucie County",11,23,856
+17,097,17,029,IL,"Coles County",11,16,259
+17,097,26,065,MI,"Ingham County",11,24,126
+17,097,26,103,MI,"Marquette County",11,18,294
+17,097,34,005,NJ,"Burlington County",11,29,1487
+17,097,34,023,NJ,"Middlesex County",11,23,903
+17,097,36,055,NY,"Monroe County",11,18,582
+17,097,39,113,OH,"Montgomery County",11,21,777
+17,097,45,045,SC,"Greenville County",11,23,4132
+17,097,45,079,SC,"Richland County",11,21,548
+17,097,48,141,TX,"El Paso County",11,24,265
+17,097,48,491,TX,"Williamson County",11,28,1201
+17,097,55,039,WI,"Fond Du Lac County",11,26,1391
+17,097,13,063,GA,"Clayton County",10,31,203
+17,097,17,199,IL,"Williamson County",10,18,567
+17,097,24,033,MD,"Prince George's Coun",10,24,558
+17,097,26,021,MI,"Berrien County",10,21,555
+17,097,27,037,MN,"Dakota County",10,35,1057
+17,097,29,019,MO,"Boone County",10,14,467
+17,097,36,081,NY,"Queens County",10,12,323
+17,097,37,021,NC,"Buncombe County",10,17,722
+17,097,37,051,NC,"Cumberland County",10,12,233
+17,097,39,165,OH,"Warren County",10,28,810
+17,097,51,087,VA,"Henrico County",10,20,781
+17,097,58,000,SS,"Other Flows - Same State",142,318,9122
+17,097,59,000,DS,"Other Flows - Diff State",2344,5051,167401
+17,097,59,001,DS,"Other Flows - Northeast",298,684,34747
+17,097,59,003,DS,"Other Flows - Midwest",714,1541,39805
+17,097,59,005,DS,"Other Flows - South",989,2158,73581
+17,097,59,007,DS,"Other Flows - West",343,668,19268
+17,097,57,009,FR,"Foreign - Other flows",100,228,17607
+17,099,96,000,IL,"La Salle County Tot Mig-US",2379,4228,88516
+17,099,97,000,IL,"La Salle County Tot Mig-US",2364,4212,88324
+17,099,97,001,IL,"La Salle County Tot Mig-Sam",1623,2841,60243
+17,099,97,003,IL,"La Salle County Tot Mig-Dif",741,1371,28081
+17,099,98,000,IL,"La Salle County Tot Mig-For",15,16,192
+17,099,17,099,IL,"La Salle County Non-Migrant",42906,93528,2136480
+17,099,17,011,IL,"Bureau County",249,471,7530
+17,099,17,031,IL,"Cook County",171,252,6455
+17,099,17,093,IL,"Kendall County",131,278,5243
+17,099,17,037,IL,"De Kalb County",119,217,4391
+17,099,17,197,IL,"Will County",101,171,3855
+17,099,17,063,IL,"Grundy County",93,167,3857
+17,099,17,089,IL,"Kane County",85,144,3304
+17,099,17,043,IL,"Du Page County",79,109,3681
+17,099,17,113,IL,"Mclean County",78,113,2541
+17,099,17,105,IL,"Livingston County",55,88,1788
+17,099,17,103,IL,"Lee County",48,101,2017
+17,099,17,155,IL,"Putnam County",45,83,1567
+17,099,17,123,IL,"Marshall County",41,82,1191
+17,099,04,013,AZ,"Maricopa County",35,50,989
+17,099,17,143,IL,"Peoria County",29,46,1459
+17,099,17,201,IL,"Winnebago County",24,37,853
+17,099,17,179,IL,"Tazewell County",23,34,1369
+17,099,17,019,IL,"Champaign County",22,39,606
+17,099,17,203,IL,"Woodford County",22,48,853
+17,099,17,097,IL,"Lake County",19,28,740
+17,099,17,161,IL,"Rock Island County",13,22,586
+17,099,17,195,IL,"Whiteside County",13,18,365
+17,099,17,111,IL,"Mchenry County",12,18,522
+17,099,17,141,IL,"Ogle County",12,27,744
+17,099,06,073,CA,"San Diego County",10,24,436
+17,099,12,115,FL,"Sarasota County",10,16,255
+17,099,58,000,SS,"Other Flows - Same State",139,248,4727
+17,099,59,000,DS,"Other Flows - Diff State",686,1281,26401
+17,099,59,001,DS,"Other Flows - Northeast",23,37,569
+17,099,59,003,DS,"Other Flows - Midwest",261,501,9793
+17,099,59,005,DS,"Other Flows - South",283,538,11870
+17,099,59,007,DS,"Other Flows - West",119,205,4169
+17,099,57,009,FR,"Foreign - Other flows",15,16,192
+17,101,96,000,IL,"Lawrence County Tot Mig-US",354,686,9799
+17,101,97,000,IL,"Lawrence County Tot Mig-US",354,686,9799
+17,101,97,001,IL,"Lawrence County Tot Mig-Sam",136,297,3929
+17,101,97,003,IL,"Lawrence County Tot Mig-Dif",218,389,5870
+17,101,98,000,IL,"Lawrence County Tot Mig-For",d,d,d
+17,101,17,101,IL,"Lawrence County Non-Migrant",5204,11188,218950
+17,101,18,083,IN,"Knox County",78,145,2107
+17,101,17,033,IL,"Crawford County",31,76,876
+17,101,17,159,IL,"Richland County",25,42,712
+17,101,17,185,IL,"Wabash County",18,51,530
+17,101,18,163,IN,"Vanderburgh County",11,18,245
+17,101,58,000,SS,"Other Flows - Same State",62,128,1811
+17,101,59,000,DS,"Other Flows - Diff State",129,226,3517
+17,103,96,000,IL,"Lee County Tot Mig-US & For",867,1580,27329
+17,103,97,000,IL,"Lee County Tot Mig-US",867,1580,27329
+17,103,97,001,IL,"Lee County Tot Mig-Same St",635,1147,19011
+17,103,97,003,IL,"Lee County Tot Mig-Diff St",232,433,8317
+17,103,98,000,IL,"Lee County Tot Mig-Foreign",d,d,d
+17,103,17,103,IL,"Lee County Non-Migrants",12879,28080,596655
+17,103,17,195,IL,"Whiteside County",167,324,4290
+17,103,17,141,IL,"Ogle County",108,206,3658
+17,103,17,037,IL,"De Kalb County",60,103,1765
+17,103,17,099,IL,"La Salle County",45,88,1185
+17,103,17,031,IL,"Cook County",36,49,1248
+17,103,17,043,IL,"Du Page County",30,43,1130
+17,103,17,011,IL,"Bureau County",26,62,717
+17,103,17,089,IL,"Kane County",22,33,691
+17,103,17,201,IL,"Winnebago County",22,33,642
+17,103,04,013,AZ,"Maricopa County",11,22,273
+17,103,17,015,IL,"Carroll County",11,26,373
+17,103,17,093,IL,"Kendall County",11,16,403
+17,103,58,000,SS,"Other Flows - Same State",97,164,2908
+17,103,59,000,DS,"Other Flows - Diff State",221,411,8045
+17,105,96,000,IL,"Livingston Coun Tot Mig-US",894,1634,31117
+17,105,97,000,IL,"Livingston Coun Tot Mig-US",894,1634,31117
+17,105,97,001,IL,"Livingston Coun Tot Mig-Sam",690,1260,24248
+17,105,97,003,IL,"Livingston Coun Tot Mig-Dif",204,374,6868
+17,105,98,000,IL,"Livingston Coun Tot Mig-For",d,d,d
+17,105,17,105,IL,"Livingston Coun Non-Migrant",14008,30970,688151
+17,105,17,113,IL,"Mclean County",186,345,6575
+17,105,17,099,IL,"La Salle County",65,118,2517
+17,105,17,197,IL,"Will County",54,116,1690
+17,105,17,031,IL,"Cook County",46,63,1945
+17,105,17,063,IL,"Grundy County",46,76,1425
+17,105,17,019,IL,"Champaign County",25,30,728
+17,105,17,053,IL,"Ford County",24,62,726
+17,105,17,143,IL,"Peoria County",22,43,783
+17,105,17,091,IL,"Kankakee County",20,48,799
+17,105,17,043,IL,"Du Page County",18,21,643
+17,105,17,203,IL,"Woodford County",18,31,543
+17,105,17,179,IL,"Tazewell County",17,35,878
+17,105,17,075,IL,"Iroquois County",10,16,236
+17,105,17,123,IL,"Marshall County",10,19,406
+17,105,58,000,SS,"Other Flows - Same State",129,237,4354
+17,105,59,000,DS,"Other Flows - Diff State",204,374,6868
+17,107,96,000,IL,"Logan County Tot Mig-US & F",709,1297,21686
+17,107,97,000,IL,"Logan County Tot Mig-US",709,1297,21686
+17,107,97,001,IL,"Logan County Tot Mig-Same S",520,924,15760
+17,107,97,003,IL,"Logan County Tot Mig-Diff S",189,373,5926
+17,107,98,000,IL,"Logan County Tot Mig-Foreig",d,d,d
+17,107,17,107,IL,"Logan County Non-Migrants",10224,21915,479656
+17,107,17,113,IL,"Mclean County",105,178,2935
+17,107,17,167,IL,"Sangamon County",102,163,2960
+17,107,17,115,IL,"Macon County",54,105,1852
+17,107,17,179,IL,"Tazewell County",30,67,942
+17,107,17,039,IL,"De Witt County",21,44,569
+17,107,17,031,IL,"Cook County",20,32,678
+17,107,17,125,IL,"Mason County",19,46,703
+17,107,17,143,IL,"Peoria County",17,26,532
+17,107,17,019,IL,"Champaign County",13,22,324
+17,107,58,000,SS,"Other Flows - Same State",139,241,4265
+17,107,59,000,DS,"Other Flows - Diff State",189,373,5926
+17,107,59,001,DS,"Other Flows - Northeast",14,23,866
+17,107,59,003,DS,"Other Flows - Midwest",73,145,2047
+17,107,59,005,DS,"Other Flows - South",67,140,2103
+17,107,59,007,DS,"Other Flows - West",35,65,910
+17,109,96,000,IL,"Mcdonough Count Tot Mig-US",901,1535,24602
+17,109,97,000,IL,"Mcdonough Count Tot Mig-US",901,1535,24602
+17,109,97,001,IL,"Mcdonough Count Tot Mig-Sam",538,922,14737
+17,109,97,003,IL,"Mcdonough Count Tot Mig-Dif",363,613,9864
+17,109,98,000,IL,"Mcdonough Count Tot Mig-For",d,d,d
+17,109,17,109,IL,"Mcdonough Count Non-Migrant",9673,19904,413587
+17,109,17,031,IL,"Cook County",68,96,1601
+17,109,17,057,IL,"Fulton County",59,109,2212
+17,109,17,067,IL,"Hancock County",52,117,1159
+17,109,17,095,IL,"Knox County",34,50,823
+17,109,17,143,IL,"Peoria County",26,40,772
+17,109,17,187,IL,"Warren County",25,45,903
+17,109,17,001,IL,"Adams County",20,41,616
+17,109,17,161,IL,"Rock Island County",19,31,502
+17,109,17,169,IL,"Schuyler County",19,32,416
+17,109,17,179,IL,"Tazewell County",18,31,556
+17,109,17,043,IL,"Du Page County",16,24,440
+17,109,04,013,AZ,"Maricopa County",15,22,347
+17,109,17,113,IL,"Mclean County",14,20,371
+17,109,17,089,IL,"Kane County",12,18,249
+17,109,17,167,IL,"Sangamon County",12,22,389
+17,109,19,057,IA,"Des Moines County",12,17,159
+17,109,17,073,IL,"Henry County",10,11,188
+17,109,58,000,SS,"Other Flows - Same State",134,235,3541
+17,109,59,000,DS,"Other Flows - Diff State",336,574,9358
+17,109,59,001,DS,"Other Flows - Northeast",16,20,464
+17,109,59,003,DS,"Other Flows - Midwest",141,258,3562
+17,109,59,005,DS,"Other Flows - South",128,220,3797
+17,109,59,007,DS,"Other Flows - West",51,76,1534
+17,111,96,000,IL,"Mchenry County Tot Mig-US &",7218,13765,413514
+17,111,97,000,IL,"Mchenry County Tot Mig-US",7176,13700,412316
+17,111,97,001,IL,"Mchenry County Tot Mig-Same",4348,7878,244410
+17,111,97,003,IL,"Mchenry County Tot Mig-Diff",2828,5822,167907
+17,111,98,000,IL,"Mchenry County Tot Mig-Fore",42,65,1197
+17,111,17,111,IL,"Mchenry County Non-Migrants",103519,254682,7702506
+17,111,17,031,IL,"Cook County",1406,2215,70430
+17,111,17,097,IL,"Lake County",939,1748,50928
+17,111,17,089,IL,"Kane County",715,1385,37515
+17,111,17,043,IL,"Du Page County",269,436,12343
+17,111,17,007,IL,"Boone County",258,613,12985
+17,111,17,201,IL,"Winnebago County",229,470,8189
+17,111,55,127,WI,"Walworth County",216,482,9571
+17,111,04,013,AZ,"Maricopa County",140,267,7857
+17,111,17,037,IL,"De Kalb County",130,227,5343
+17,111,55,059,WI,"Kenosha County",109,241,5671
+17,111,17,197,IL,"Will County",83,180,5050
+17,111,32,003,NV,"Clark County",46,83,2470
+17,111,12,071,FL,"Lee County",45,88,2392
+17,111,55,025,WI,"Dane County",42,75,1990
+17,111,55,079,WI,"Milwaukee County",42,68,1737
+17,111,06,037,CA,"Los Angeles County",39,47,1489
+17,111,17,093,IL,"Kendall County",36,100,29766
+17,111,17,113,IL,"Mclean County",32,47,987
+17,111,55,105,WI,"Rock County",30,75,1124
+17,111,06,073,CA,"San Diego County",29,50,1421
+17,111,17,019,IL,"Champaign County",27,42,720
+17,111,55,133,WI,"Waukesha County",24,45,1560
+17,111,12,057,FL,"Hillsborough County",22,37,1253
+17,111,12,103,FL,"Pinellas County",22,49,692
+17,111,12,115,FL,"Sarasota County",22,37,1890
+17,111,17,141,IL,"Ogle County",22,40,1025
+17,111,04,019,AZ,"Pima County",21,54,1388
+17,111,12,099,FL,"Palm Beach County",21,39,1045
+17,111,57,005,FR,"Foreign - APO/FPO ZIPs",18,20,352
+17,111,04,021,AZ,"Pinal County",17,37,1261
+17,111,12,011,FL,"Broward County",17,26,1055
+17,111,12,101,FL,"Pasco County",17,40,1033
+17,111,55,101,WI,"Racine County",17,30,808
+17,111,08,041,CO,"El Paso County",16,32,659
+17,111,17,077,IL,"Jackson County",16,17,293
+17,111,53,033,WA,"King County",16,24,992
+17,111,06,065,CA,"Riverside County",15,33,1016
+17,111,26,125,MI,"Oakland County",15,33,1563
+17,111,27,053,MN,"Hennepin County",15,27,1025
+17,111,48,121,TX,"Denton County",15,31,847
+17,111,12,095,FL,"Orange County",14,25,448
+17,111,48,085,TX,"Collin County",14,38,949
+17,111,48,201,TX,"Harris County",14,31,1178
+17,111,48,439,TX,"Tarrant County",14,30,934
+17,111,12,009,FL,"Brevard County",13,32,931
+17,111,12,053,FL,"Hernando County",13,25,605
+17,111,12,069,FL,"Lake County",13,19,737
+17,111,12,086,FL,"Miami Dade County",13,20,432
+17,111,29,189,MO,"St Louis County",13,36,1030
+17,111,17,143,IL,"Peoria County",12,18,649
+17,111,17,177,IL,"Stephenson County",12,21,928
+17,111,06,059,CA,"Orange County",11,12,338
+17,111,17,103,IL,"Lee County",11,23,757
+17,111,19,103,IA,"Johnson County",11,16,336
+17,111,20,091,KS,"Johnson County",11,29,1030
+17,111,48,029,TX,"Bexar County",11,27,570
+17,111,08,005,CO,"Arapahoe County",10,22,545
+17,111,12,081,FL,"Manatee County",10,20,741
+17,111,12,105,FL,"Polk County",10,20,456
+17,111,17,085,IL,"Jo Daviess County",10,17,358
+17,111,17,167,IL,"Sangamon County",10,13,321
+17,111,17,179,IL,"Tazewell County",10,22,482
+17,111,19,113,IA,"Linn County",10,19,521
+17,111,39,049,OH,"Franklin County",10,15,509
+17,111,47,157,TN,"Shelby County",10,19,1348
+17,111,55,111,WI,"Sauk County",10,21,427
+17,111,58,000,SS,"Other Flows - Same State",121,244,5342
+17,111,59,000,DS,"Other Flows - Diff State",1563,3296,100031
+17,111,59,001,DS,"Other Flows - Northeast",148,330,13985
+17,111,59,003,DS,"Other Flows - Midwest",568,1177,35351
+17,111,59,005,DS,"Other Flows - South",556,1198,34301
+17,111,59,007,DS,"Other Flows - West",291,591,16394
+17,111,57,009,FR,"Foreign - Other flows",24,45,846
+17,113,96,000,IL,"Mclean County Tot Mig-US &",3950,7107,181366
+17,113,97,000,IL,"Mclean County Tot Mig-US",3917,7053,180625
+17,113,97,001,IL,"Mclean County Tot Mig-Same",2094,3522,75097
+17,113,97,003,IL,"Mclean County Tot Mig-Diff",1823,3531,105529
+17,113,98,000,IL,"Mclean County Tot Mig-Forei",33,54,741
+17,113,17,113,IL,"Mclean County Non-Migrants",54363,120474,3422736
+17,113,17,031,IL,"Cook County",353,489,12301
+17,113,17,179,IL,"Tazewell County",179,312,6453
+17,113,17,019,IL,"Champaign County",150,233,4341
+17,113,17,143,IL,"Peoria County",147,251,5739
+17,113,17,043,IL,"Du Page County",117,168,3915
+17,113,17,203,IL,"Woodford County",115,250,5434
+17,113,17,039,IL,"De Witt County",114,234,4448
+17,113,17,105,IL,"Livingston County",102,198,3052
+17,113,17,167,IL,"Sangamon County",86,147,3187
+17,113,04,013,AZ,"Maricopa County",63,107,4271
+17,113,17,115,IL,"Macon County",61,102,2358
+17,113,17,197,IL,"Will County",61,99,2159
+17,113,17,107,IL,"Logan County",59,105,2176
+17,113,17,097,IL,"Lake County",45,85,1913
+17,113,29,189,MO,"St Louis County",42,75,2894
+17,113,17,099,IL,"La Salle County",39,57,949
+17,113,17,053,IL,"Ford County",30,51,752
+17,113,17,089,IL,"Kane County",27,44,1705
+17,113,32,003,NV,"Clark County",25,40,632
+17,113,18,057,IN,"Hamilton County",23,60,1555
+17,113,17,111,IL,"Mchenry County",22,28,620
+17,113,17,201,IL,"Winnebago County",20,31,720
+17,113,53,033,WA,"King County",20,35,1143
+17,113,39,049,OH,"Franklin County",19,52,1796
+17,113,18,097,IN,"Marion County",18,35,618
+17,113,06,037,CA,"Los Angeles County",17,27,1177
+17,113,17,091,IL,"Kankakee County",17,24,436
+17,113,17,183,IL,"Vermilion County",17,25,570
+17,113,29,183,MO,"St Charles County",17,32,1016
+17,113,17,147,IL,"Piatt County",16,31,643
+17,113,17,163,IL,"St Clair County",16,32,471
+17,113,27,053,MN,"Hennepin County",16,27,545
+17,113,48,113,TX,"Dallas County",16,28,724
+17,113,17,161,IL,"Rock Island County",15,24,439
+17,113,26,125,MI,"Oakland County",15,36,952
+17,113,37,119,NC,"Mecklenburg County",15,30,1021
+17,113,06,073,CA,"San Diego County",14,16,403
+17,113,12,103,FL,"Pinellas County",14,19,824
+17,113,17,093,IL,"Kendall County",14,23,743
+17,113,17,119,IL,"Madison County",14,29,586
+17,113,19,163,IA,"Scott County",14,22,538
+17,113,26,161,MI,"Washtenaw County",14,40,1250
+17,113,47,037,TN,"Davidson County",14,23,646
+17,113,55,025,WI,"Dane County",14,22,589
+17,113,06,059,CA,"Orange County",13,26,1932
+17,113,12,031,FL,"Duval County",13,21,388
+17,113,12,071,FL,"Lee County",13,21,6168
+17,113,12,095,FL,"Orange County",13,19,1332
+17,113,12,105,FL,"Polk County",13,24,788
+17,113,12,115,FL,"Sarasota County",13,18,509
+17,113,17,077,IL,"Jackson County",13,17,261
+17,113,17,123,IL,"Marshall County",13,24,311
+17,113,19,153,IA,"Polk County",13,28,921
+17,113,29,019,MO,"Boone County",13,20,670
+17,113,17,001,IL,"Adams County",12,21,435
+17,113,17,063,IL,"Grundy County",12,23,444
+17,113,17,073,IL,"Henry County",12,21,363
+17,113,17,095,IL,"Knox County",12,25,298
+17,113,19,113,IA,"Linn County",12,27,592
+17,113,29,510,MO,"St Louis",12,14,340
+17,113,48,029,TX,"Bexar County",12,22,662
+17,113,48,201,TX,"Harris County",12,23,830
+17,113,57,005,FR,"Foreign - APO/FPO ZIPs",12,16,271
+17,113,18,089,IN,"Lake County",11,27,395
+17,113,37,051,NC,"Cumberland County",11,17,281
+17,113,37,183,NC,"Wake County",11,23,759
+17,113,55,079,WI,"Milwaukee County",11,19,627
+17,113,12,099,FL,"Palm Beach County",10,24,453
+17,113,13,067,GA,"Cobb County",10,19,457
+17,113,17,029,IL,"Coles County",10,12,237
+17,113,17,037,IL,"De Kalb County",10,15,323
+17,113,17,109,IL,"Mcdonough County",10,21,351
+17,113,20,091,KS,"Johnson County",10,18,701
+17,113,36,061,NY,"New York County",10,11,341
+17,113,58,000,SS,"Other Flows - Same State",154,271,5963
+17,113,59,000,DS,"Other Flows - Diff State",1197,2384,63788
+17,113,59,001,DS,"Other Flows - Northeast",138,262,7902
+17,113,59,003,DS,"Other Flows - Midwest",336,693,17128
+17,113,59,005,DS,"Other Flows - South",519,1086,29355
+17,113,59,007,DS,"Other Flows - West",204,343,9403
+17,113,57,009,FR,"Foreign - Other flows",21,38,470
+17,115,96,000,IL,"Macon County Tot Mig-US & F",2159,4048,93611
+17,115,97,000,IL,"Macon County Tot Mig-US",2148,4022,91574
+17,115,97,001,IL,"Macon County Tot Mig-Same S",1195,2184,50015
+17,115,97,003,IL,"Macon County Tot Mig-Diff S",953,1838,41559
+17,115,98,000,IL,"Macon County Tot Mig-Foreig",11,26,2037
+17,115,17,115,IL,"Macon County Non-Migrants",40518,86650,2118702
+17,115,17,167,IL,"Sangamon County",133,212,4030
+17,115,17,031,IL,"Cook County",90,112,2581
+17,115,17,113,IL,"Mclean County",89,141,3760
+17,115,17,019,IL,"Champaign County",80,133,2934
+17,115,17,021,IL,"Christian County",78,155,3192
+17,115,17,147,IL,"Piatt County",76,153,3383
+17,115,17,139,IL,"Moultrie County",69,134,3112
+17,115,17,039,IL,"De Witt County",60,124,2337
+17,115,17,173,IL,"Shelby County",59,124,2326
+17,115,17,143,IL,"Peoria County",47,95,3738
+17,115,17,119,IL,"Madison County",46,120,2707
+17,115,18,097,IN,"Marion County",36,66,857
+17,115,17,163,IL,"St Clair County",33,70,2570
+17,115,17,107,IL,"Logan County",32,63,1075
+17,115,29,189,MO,"St Louis County",29,46,1566
+17,115,17,029,IL,"Coles County",28,40,514
+17,115,17,043,IL,"Du Page County",25,32,840
+17,115,17,179,IL,"Tazewell County",23,48,1482
+17,115,17,197,IL,"Will County",16,37,960
+17,115,04,013,AZ,"Maricopa County",15,24,828
+17,115,17,077,IL,"Jackson County",15,21,257
+17,115,20,091,KS,"Johnson County",15,33,1195
+17,115,29,510,MO,"St Louis",14,20,583
+17,115,06,073,CA,"San Diego County",12,18,304
+17,115,18,157,IN,"Tippecanoe County",12,27,568
+17,115,12,103,FL,"Pinellas County",11,22,194
+17,115,29,183,MO,"St Charles County",11,21,860
+17,115,55,079,WI,"Milwaukee County",11,18,285
+17,115,12,057,FL,"Hillsborough County",10,18,142
+17,115,12,071,FL,"Lee County",10,16,1119
+17,115,17,183,IL,"Vermilion County",10,24,603
+17,115,32,003,NV,"Clark County",10,19,238
+17,115,47,113,TN,"Madison County",10,25,131
+17,115,58,000,SS,"Other Flows - Same State",186,346,7615
+17,115,59,000,DS,"Other Flows - Diff State",747,1465,32689
+17,115,59,001,DS,"Other Flows - Northeast",48,83,2955
+17,115,59,003,DS,"Other Flows - Midwest",221,435,10274
+17,115,59,005,DS,"Other Flows - South",379,783,16456
+17,115,59,007,DS,"Other Flows - West",99,164,3004
+17,115,57,009,FR,"Foreign - Other flows",11,26,2037
+17,117,96,000,IL,"Macoupin County Tot Mig-US",1134,2149,36983
+17,117,97,000,IL,"Macoupin County Tot Mig-US",1134,2149,36983
+17,117,97,001,IL,"Macoupin County Tot Mig-Sam",847,1606,27489
+17,117,97,003,IL,"Macoupin County Tot Mig-Dif",287,543,9494
+17,117,98,000,IL,"Macoupin County Tot Mig-For",d,d,d
+17,117,17,117,IL,"Macoupin County Non-Migrant",17436,38225,804022
+17,117,17,119,IL,"Madison County",286,539,10441
+17,117,17,167,IL,"Sangamon County",164,295,4932
+17,117,17,135,IL,"Montgomery County",139,295,3716
+17,117,17,083,IL,"Jersey County",45,89,1578
+17,117,29,189,MO,"St Louis County",34,58,1520
+17,117,17,137,IL,"Morgan County",22,53,740
+17,117,17,163,IL,"St Clair County",21,32,871
+17,117,17,061,IL,"Greene County",15,32,426
+17,117,29,510,MO,"St Louis",14,16,451
+17,117,17,021,IL,"Christian County",13,21,462
+17,117,58,000,SS,"Other Flows - Same State",142,250,4323
+17,117,59,000,DS,"Other Flows - Diff State",239,469,7524
+17,119,96,000,IL,"Madison County Tot Mig-US &",5361,9713,202527
+17,119,97,000,IL,"Madison County Tot Mig-US",5310,9607,200743
+17,119,97,001,IL,"Madison County Tot Mig-Same",2449,4569,86155
+17,119,97,003,IL,"Madison County Tot Mig-Diff",2861,5038,114588
+17,119,98,000,IL,"Madison County Tot Mig-Fore",51,106,1783
+17,119,17,119,IL,"Madison County Non-Migrants",97509,211100,5330689
+17,119,17,163,IL,"St Clair County",964,1819,30884
+17,119,29,189,MO,"St Louis County",501,788,18105
+17,119,17,117,IL,"Macoupin County",294,595,11405
+17,119,29,510,MO,"St Louis",247,343,8876
+17,119,17,083,IL,"Jersey County",183,392,7510
+17,119,29,183,MO,"St Charles County",166,281,7978
+17,119,17,005,IL,"Bond County",122,237,4696
+17,119,17,031,IL,"Cook County",116,160,4053
+17,119,17,027,IL,"Clinton County",113,220,4047
+17,119,17,167,IL,"Sangamon County",66,116,2742
+17,119,29,099,MO,"Jefferson County",55,105,2951
+17,119,04,013,AZ,"Maricopa County",43,83,2227
+17,119,17,133,IL,"Monroe County",42,96,2359
+17,119,57,005,FR,"Foreign - APO/FPO ZIPs",39,81,1201
+17,119,17,135,IL,"Montgomery County",35,66,1355
+17,119,17,019,IL,"Champaign County",28,39,935
+17,119,17,077,IL,"Jackson County",27,42,627
+17,119,17,013,IL,"Calhoun County",26,45,1068
+17,119,32,003,NV,"Clark County",26,38,1006
+17,119,17,157,IL,"Randolph County",23,36,597
+17,119,47,157,TN,"Shelby County",23,42,855
+17,119,17,081,IL,"Jefferson County",22,42,517
+17,119,17,113,IL,"Mclean County",22,30,382
+17,119,29,019,MO,"Boone County",22,31,423
+17,119,48,029,TX,"Bexar County",22,39,899
+17,119,17,143,IL,"Peoria County",21,32,507
+17,119,17,199,IL,"Williamson County",21,36,750
+17,119,48,439,TX,"Tarrant County",21,40,990
+17,119,29,187,MO,"St Francois County",20,44,542
+17,119,06,037,CA,"Los Angeles County",19,26,467
+17,119,06,073,CA,"San Diego County",19,31,419
+17,119,17,061,IL,"Greene County",19,33,609
+17,119,18,097,IN,"Marion County",18,28,449
+17,119,17,051,IL,"Fayette County",17,29,444
+17,119,17,121,IL,"Marion County",17,24,502
+17,119,20,091,KS,"Johnson County",17,27,847
+17,119,29,113,MO,"Lincoln County",17,36,800
+17,119,17,043,IL,"Du Page County",16,18,347
+17,119,29,077,MO,"Greene County",16,31,490
+17,119,48,113,TX,"Dallas County",16,26,343
+17,119,17,197,IL,"Will County",15,33,701
+17,119,29,071,MO,"Franklin County",15,38,561
+17,119,29,095,MO,"Jackson County",15,27,1087
+17,119,48,201,TX,"Harris County",15,37,689
+17,119,12,057,FL,"Hillsborough County",14,22,450
+17,119,12,071,FL,"Lee County",14,23,343
+17,119,12,011,FL,"Broward County",13,27,383
+17,119,12,103,FL,"Pinellas County",13,21,316
+17,119,17,145,IL,"Perry County",13,25,432
+17,119,48,085,TX,"Collin County",13,19,427
+17,119,17,001,IL,"Adams County",12,21,686
+17,119,17,097,IL,"Lake County",12,17,872
+17,119,31,055,NE,"Douglas County",12,21,501
+17,119,53,033,WA,"King County",12,17,207
+17,119,17,179,IL,"Tazewell County",11,19,434
+17,119,40,109,OK,"Oklahoma County",11,24,417
+17,119,06,059,CA,"Orange County",10,15,274
+17,119,06,065,CA,"Riverside County",10,15,338
+17,119,06,085,CA,"Santa Clara County",10,12,424
+17,119,08,041,CO,"El Paso County",10,25,415
+17,119,12,031,FL,"Duval County",10,19,409
+17,119,17,137,IL,"Morgan County",10,14,492
+17,119,58,000,SS,"Other Flows - Same State",182,333,6203
+17,119,59,000,DS,"Other Flows - Diff State",1396,2637,58679
+17,119,59,001,DS,"Other Flows - Northeast",112,189,5285
+17,119,59,003,DS,"Other Flows - Midwest",435,857,17568
+17,119,59,005,DS,"Other Flows - South",651,1253,28770
+17,119,59,007,DS,"Other Flows - West",198,338,7057
+17,119,57,009,FR,"Foreign - Other flows",12,25,583
+17,121,96,000,IL,"Marion County Tot Mig-US &",790,1460,24351
+17,121,97,000,IL,"Marion County Tot Mig-US",790,1460,24351
+17,121,97,001,IL,"Marion County Tot Mig-Same",503,912,14942
+17,121,97,003,IL,"Marion County Tot Mig-Diff",287,548,9409
+17,121,98,000,IL,"Marion County Tot Mig-Forei",d,d,d
+17,121,17,121,IL,"Marion County Non-Migrants",14612,31496,594467
+17,121,17,081,IL,"Jefferson County",80,151,2090
+17,121,17,027,IL,"Clinton County",51,100,1229
+17,121,17,189,IL,"Washington County",46,104,1563
+17,121,17,119,IL,"Madison County",41,54,1234
+17,121,17,163,IL,"St Clair County",32,50,1518
+17,121,17,051,IL,"Fayette County",26,56,1070
+17,121,29,189,MO,"St Louis County",25,30,776
+17,121,17,025,IL,"Clay County",23,46,417
+17,121,17,077,IL,"Jackson County",19,25,257
+17,121,17,199,IL,"Williamson County",18,33,472
+17,121,17,049,IL,"Effingham County",15,31,476
+17,121,17,055,IL,"Franklin County",14,22,385
+17,121,17,031,IL,"Cook County",10,13,217
+17,121,17,159,IL,"Richland County",10,18,260
+17,121,58,000,SS,"Other Flows - Same State",118,209,3753
+17,121,59,000,DS,"Other Flows - Diff State",262,518,8633
+17,123,96,000,IL,"Marshall County Tot Mig-US",370,697,12878
+17,123,97,000,IL,"Marshall County Tot Mig-US",370,697,12878
+17,123,97,001,IL,"Marshall County Tot Mig-Sam",294,547,10124
+17,123,97,003,IL,"Marshall County Tot Mig-Dif",76,150,2754
+17,123,98,000,IL,"Marshall County Tot Mig-For",d,d,d
+17,123,17,123,IL,"Marshall County Non-Migrant",5038,11008,241509
+17,123,17,143,IL,"Peoria County",84,136,2909
+17,123,17,203,IL,"Woodford County",44,86,1769
+17,123,17,099,IL,"La Salle County",39,75,1064
+17,123,17,179,IL,"Tazewell County",20,33,784
+17,123,17,011,IL,"Bureau County",14,25,329
+17,123,17,175,IL,"Stark County",11,27,285
+17,123,17,155,IL,"Putnam County",10,21,298
+17,123,58,000,SS,"Other Flows - Same State",72,144,2686
+17,123,59,000,DS,"Other Flows - Diff State",76,150,2754
+17,125,96,000,IL,"Mason County Tot Mig-US & F",428,819,13057
+17,125,97,000,IL,"Mason County Tot Mig-US",428,819,13057
+17,125,97,001,IL,"Mason County Tot Mig-Same S",346,658,10383
+17,125,97,003,IL,"Mason County Tot Mig-Diff S",82,161,2673
+17,125,98,000,IL,"Mason County Tot Mig-Foreig",d,d,d
+17,125,17,125,IL,"Mason County Non-Migrants",5548,12250,234398
+17,125,17,179,IL,"Tazewell County",127,254,3843
+17,125,17,107,IL,"Logan County",40,76,881
+17,125,17,057,IL,"Fulton County",38,66,893
+17,125,17,143,IL,"Peoria County",31,52,817
+17,125,17,167,IL,"Sangamon County",25,42,913
+17,125,17,129,IL,"Menard County",12,35,835
+17,125,17,113,IL,"Mclean County",10,14,214
+17,125,58,000,SS,"Other Flows - Same State",63,119,1986
+17,125,59,000,DS,"Other Flows - Diff State",82,161,2673
+17,127,96,000,IL,"Massac County Tot Mig-US &",332,648,9920
+17,127,97,000,IL,"Massac County Tot Mig-US",332,648,9920
+17,127,97,001,IL,"Massac County Tot Mig-Same",101,227,3214
+17,127,97,003,IL,"Massac County Tot Mig-Diff",231,421,6706
+17,127,98,000,IL,"Massac County Tot Mig-Forei",d,d,d
+17,127,17,127,IL,"Massac County Non-Migrants",5395,11981,221592
+17,127,21,145,KY,"Mccracken County",93,163,2924
+17,127,17,087,IL,"Johnson County",26,55,791
+17,127,21,157,KY,"Marshall County",12,27,298
+17,127,17,151,IL,"Pope County",11,29,426
+17,127,58,000,SS,"Other Flows - Same State",64,143,1997
+17,127,59,000,DS,"Other Flows - Diff State",126,231,3484
+17,129,96,000,IL,"Menard County Tot Mig-US &",374,664,14454
+17,129,97,000,IL,"Menard County Tot Mig-US",374,664,14454
+17,129,97,001,IL,"Menard County Tot Mig-Same",294,508,9507
+17,129,97,003,IL,"Menard County Tot Mig-Diff",80,156,4947
+17,129,98,000,IL,"Menard County Tot Mig-Forei",d,d,d
+17,129,17,129,IL,"Menard County Non-Migrants",4640,10318,241785
+17,129,17,167,IL,"Sangamon County",197,335,6480
+17,129,17,107,IL,"Logan County",11,20,425
+17,129,17,125,IL,"Mason County",10,19,243
+17,129,58,000,SS,"Other Flows - Same State",76,134,2359
+17,129,59,000,DS,"Other Flows - Diff State",80,156,4947
+17,131,96,000,IL,"Mercer County Tot Mig-US &",441,776,14987
+17,131,97,000,IL,"Mercer County Tot Mig-US",441,776,14987
+17,131,97,001,IL,"Mercer County Tot Mig-Same",289,510,9749
+17,131,97,003,IL,"Mercer County Tot Mig-Diff",152,266,5237
+17,131,98,000,IL,"Mercer County Tot Mig-Forei",d,d,d
+17,131,17,131,IL,"Mercer County Non-Migrants",6535,14668,306368
+17,131,17,161,IL,"Rock Island County",141,241,4979
+17,131,19,163,IA,"Scott County",35,56,1263
+17,131,17,095,IL,"Knox County",34,68,1032
+17,131,17,073,IL,"Henry County",30,54,1058
+17,131,19,139,IA,"Muscatine County",25,41,679
+17,131,17,187,IL,"Warren County",20,37,718
+17,131,17,031,IL,"Cook County",11,13,245
+17,131,58,000,SS,"Other Flows - Same State",53,97,1717
+17,131,59,000,DS,"Other Flows - Diff State",92,169,3296
+17,133,96,000,IL,"Monroe County Tot Mig-US &",723,1321,32559
+17,133,97,000,IL,"Monroe County Tot Mig-US",723,1321,32559
+17,133,97,001,IL,"Monroe County Tot Mig-Same",359,654,13258
+17,133,97,003,IL,"Monroe County Tot Mig-Diff",364,667,19301
+17,133,98,000,IL,"Monroe County Tot Mig-Forei",d,d,d
+17,133,17,133,IL,"Monroe County Non-Migrants",11755,27351,769329
+17,133,17,163,IL,"St Clair County",182,333,7159
+17,133,29,189,MO,"St Louis County",111,189,8113
+17,133,17,157,IL,"Randolph County",68,139,2106
+17,133,17,119,IL,"Madison County",46,71,1578
+17,133,29,510,MO,"St Louis",33,40,1043
+17,133,29,099,MO,"Jefferson County",22,49,972
+17,133,29,183,MO,"St Charles County",21,43,1219
+17,133,17,031,IL,"Cook County",10,11,334
+17,133,58,000,SS,"Other Flows - Same State",53,100,2082
+17,133,59,000,DS,"Other Flows - Diff State",177,346,7954
+17,133,59,001,DS,"Other Flows - Northeast",13,24,1071
+17,133,59,003,DS,"Other Flows - Midwest",60,125,2300
+17,133,59,005,DS,"Other Flows - South",69,140,3428
+17,133,59,007,DS,"Other Flows - West",35,57,1155
+17,135,96,000,IL,"Montgomery Coun Tot Mig-US",586,1039,16240
+17,135,97,000,IL,"Montgomery Coun Tot Mig-US",586,1039,16240
+17,135,97,001,IL,"Montgomery Coun Tot Mig-Sam",420,761,11798
+17,135,97,003,IL,"Montgomery Coun Tot Mig-Dif",166,278,4441
+17,135,98,000,IL,"Montgomery Coun Tot Mig-For",d,d,d
+17,135,17,135,IL,"Montgomery Coun Non-Migrant",10600,23195,475758
+17,135,17,117,IL,"Macoupin County",104,193,2296
+17,135,17,167,IL,"Sangamon County",83,127,2644
+17,135,17,119,IL,"Madison County",41,65,1330
+17,135,17,021,IL,"Christian County",28,57,892
+17,135,17,005,IL,"Bond County",25,50,699
+17,135,17,051,IL,"Fayette County",23,44,718
+17,135,17,031,IL,"Cook County",10,10,244
+17,135,17,115,IL,"Macon County",10,15,306
+17,135,58,000,SS,"Other Flows - Same State",96,200,2670
+17,135,59,000,DS,"Other Flows - Diff State",166,278,4441
+17,135,59,001,DS,"Other Flows - Northeast",10,19,236
+17,135,59,003,DS,"Other Flows - Midwest",54,77,1319
+17,135,59,005,DS,"Other Flows - South",65,126,1622
+17,135,59,007,DS,"Other Flows - West",37,56,1264
+17,137,96,000,IL,"Morgan County Tot Mig-US &",857,1498,28254
+17,137,97,000,IL,"Morgan County Tot Mig-US",857,1498,28254
+17,137,97,001,IL,"Morgan County Tot Mig-Same",603,1072,18579
+17,137,97,003,IL,"Morgan County Tot Mig-Diff",254,426,9675
+17,137,98,000,IL,"Morgan County Tot Mig-Forei",d,d,d
+17,137,17,137,IL,"Morgan County Non-Migrants",12657,26574,613250
+17,137,17,167,IL,"Sangamon County",198,316,6549
+17,137,17,171,IL,"Scott County",49,111,1511
+17,137,17,061,IL,"Greene County",45,75,1086
+17,137,17,017,IL,"Cass County",43,69,1093
+17,137,17,031,IL,"Cook County",17,26,664
+17,137,17,117,IL,"Macoupin County",17,34,577
+17,137,17,119,IL,"Madison County",16,34,373
+17,137,17,001,IL,"Adams County",13,20,293
+17,137,17,077,IL,"Jackson County",13,20,191
+17,137,17,149,IL,"Pike County",13,35,409
+17,137,29,189,MO,"St Louis County",13,13,232
+17,137,17,019,IL,"Champaign County",12,21,406
+17,137,17,009,IL,"Brown County",11,19,360
+17,137,17,115,IL,"Macon County",10,17,157
+17,137,58,000,SS,"Other Flows - Same State",146,275,4909
+17,137,59,000,DS,"Other Flows - Diff State",241,413,9443
+17,139,96,000,IL,"Moultrie County Tot Mig-US",417,749,13128
+17,139,97,000,IL,"Moultrie County Tot Mig-US",417,749,13128
+17,139,97,001,IL,"Moultrie County Tot Mig-Sam",304,554,9570
+17,139,97,003,IL,"Moultrie County Tot Mig-Dif",113,195,3557
+17,139,98,000,IL,"Moultrie County Tot Mig-For",d,d,d
+17,139,17,139,IL,"Moultrie County Non-Migrant",5296,12074,274227
+17,139,17,029,IL,"Coles County",75,138,1700
+17,139,17,115,IL,"Macon County",71,140,2710
+17,139,17,173,IL,"Shelby County",35,63,1078
+17,139,17,041,IL,"Douglas County",29,56,1095
+17,139,17,019,IL,"Champaign County",16,24,737
+17,139,58,000,SS,"Other Flows - Same State",78,133,2252
+17,139,59,000,DS,"Other Flows - Diff State",113,195,3557
+17,141,96,000,IL,"Ogle County Tot Mig-US & Fo",1365,2483,50370
+17,141,97,000,IL,"Ogle County Tot Mig-US",1365,2483,50370
+17,141,97,001,IL,"Ogle County Tot Mig-Same St",953,1702,35532
+17,141,97,003,IL,"Ogle County Tot Mig-Diff St",412,781,14838
+17,141,98,000,IL,"Ogle County Tot Mig-Foreign",d,d,d
+17,141,17,141,IL,"Ogle County Non-Migrants",19280,44536,1015560
+17,141,17,201,IL,"Winnebago County",301,550,11508
+17,141,17,037,IL,"De Kalb County",140,247,5163
+17,141,17,103,IL,"Lee County",135,258,4115
+17,141,17,031,IL,"Cook County",64,82,2578
+17,141,17,177,IL,"Stephenson County",54,96,1523
+17,141,17,195,IL,"Whiteside County",34,80,953
+17,141,17,089,IL,"Kane County",28,53,1281
+17,141,17,043,IL,"Du Page County",25,38,1318
+17,141,17,015,IL,"Carroll County",18,30,460
+17,141,17,111,IL,"Mchenry County",17,31,522
+17,141,17,099,IL,"La Salle County",16,32,649
+17,141,17,113,IL,"Mclean County",16,22,541
+17,141,04,013,AZ,"Maricopa County",15,23,1084
+17,141,17,007,IL,"Boone County",14,19,513
+17,141,17,197,IL,"Will County",13,25,468
+17,141,17,097,IL,"Lake County",11,15,1276
+17,141,58,000,SS,"Other Flows - Same State",67,124,2662
+17,141,59,000,DS,"Other Flows - Diff State",397,758,13754
+17,141,59,001,DS,"Other Flows - Northeast",14,28,591
+17,141,59,003,DS,"Other Flows - Midwest",147,283,4974
+17,141,59,005,DS,"Other Flows - South",160,327,5950
+17,141,59,007,DS,"Other Flows - West",76,120,2238
+17,143,96,000,IL,"Peoria County Tot Mig-US &",4789,8847,237960
+17,143,97,000,IL,"Peoria County Tot Mig-US",4706,8633,225913
+17,143,97,001,IL,"Peoria County Tot Mig-Same",2937,5378,125116
+17,143,97,003,IL,"Peoria County Tot Mig-Diff",1769,3255,100798
+17,143,98,000,IL,"Peoria County Tot Mig-Forei",83,214,12047
+17,143,17,143,IL,"Peoria County Non-Migrants",67178,143334,3940581
+17,143,17,179,IL,"Tazewell County",1306,2426,51370
+17,143,17,031,IL,"Cook County",259,385,10442
+17,143,17,203,IL,"Woodford County",209,447,12848
+17,143,17,113,IL,"Mclean County",156,265,5346
+17,143,17,057,IL,"Fulton County",146,283,5733
+17,143,17,095,IL,"Knox County",74,151,2503
+17,143,17,167,IL,"Sangamon County",65,116,2846
+17,143,17,019,IL,"Champaign County",62,104,1981
+17,143,17,123,IL,"Marshall County",60,125,2327
+17,143,17,043,IL,"Du Page County",56,102,3039
+17,143,17,197,IL,"Will County",53,108,5471
+17,143,04,013,AZ,"Maricopa County",47,76,2484
+17,143,17,115,IL,"Macon County",46,83,3130
+17,143,17,175,IL,"Stark County",39,77,1398
+17,143,29,189,MO,"St Louis County",38,69,1718
+17,143,18,097,IN,"Marion County",32,56,925
+17,143,17,161,IL,"Rock Island County",29,51,976
+17,143,48,201,TX,"Harris County",26,61,2359
+17,143,17,119,IL,"Madison County",25,51,1601
+17,143,37,183,NC,"Wake County",25,71,4761
+17,143,06,037,CA,"Los Angeles County",24,39,883
+17,143,32,003,NV,"Clark County",24,36,839
+17,143,19,163,IA,"Scott County",23,48,927
+17,143,17,109,IL,"Mcdonough County",22,34,472
+17,143,17,097,IL,"Lake County",21,31,747
+17,143,17,201,IL,"Winnebago County",21,34,857
+17,143,12,011,FL,"Broward County",20,44,2946
+17,143,17,073,IL,"Henry County",20,42,603
+17,143,17,107,IL,"Logan County",20,36,634
+17,143,17,125,IL,"Mason County",20,32,752
+17,143,18,157,IN,"Tippecanoe County",20,42,1667
+17,143,06,073,CA,"San Diego County",19,28,831
+17,143,17,089,IL,"Kane County",19,29,1882
+17,143,17,099,IL,"La Salle County",19,28,459
+17,143,12,071,FL,"Lee County",18,33,1574
+17,143,27,053,MN,"Hennepin County",18,42,1377
+17,143,06,059,CA,"Orange County",17,33,1661
+17,143,55,079,WI,"Milwaukee County",16,22,426
+17,143,17,077,IL,"Jackson County",15,20,287
+17,143,29,510,MO,"St Louis",15,21,856
+17,143,12,057,FL,"Hillsborough County",14,19,589
+17,143,17,163,IL,"St Clair County",14,34,683
+17,143,48,113,TX,"Dallas County",14,24,571
+17,143,17,093,IL,"Kendall County",13,37,1351
+17,143,47,157,TN,"Shelby County",13,27,305
+17,143,53,033,WA,"King County",13,19,733
+17,143,55,025,WI,"Dane County",13,22,428
+17,143,57,005,FR,"Foreign - APO/FPO ZIPs",13,17,285
+17,143,13,067,GA,"Cobb County",12,23,649
+17,143,17,001,IL,"Adams County",12,18,426
+17,143,19,153,IA,"Polk County",12,20,764
+17,143,08,013,CO,"Boulder County",11,13,632
+17,143,13,089,GA,"De Kalb County",11,21,266
+17,143,20,091,KS,"Johnson County",11,13,329
+17,143,12,127,FL,"Volusia County",10,13,166
+17,143,17,111,IL,"Mchenry County",10,16,506
+17,143,29,183,MO,"St Charles County",10,16,214
+17,143,47,037,TN,"Davidson County",10,18,936
+17,143,55,133,WI,"Waukesha County",10,22,610
+17,143,58,000,SS,"Other Flows - Same State",126,213,4445
+17,143,59,000,DS,"Other Flows - Diff State",1223,2264,67372
+17,143,59,001,DS,"Other Flows - Northeast",98,165,5669
+17,143,59,003,DS,"Other Flows - Midwest",373,713,19285
+17,143,59,005,DS,"Other Flows - South",557,1031,30987
+17,143,59,007,DS,"Other Flows - West",195,355,11430
+17,143,57,009,FR,"Foreign - Other flows",70,197,11762
+17,145,96,000,IL,"Perry County Tot Mig-US & F",419,772,11066
+17,145,97,000,IL,"Perry County Tot Mig-US",419,772,11066
+17,145,97,001,IL,"Perry County Tot Mig-Same S",305,583,7969
+17,145,97,003,IL,"Perry County Tot Mig-Diff S",114,189,3097
+17,145,98,000,IL,"Perry County Tot Mig-Foreig",d,d,d
+17,145,17,145,IL,"Perry County Non-Migrants",7179,15961,293267
+17,145,17,077,IL,"Jackson County",72,152,1700
+17,145,17,055,IL,"Franklin County",42,94,818
+17,145,17,157,IL,"Randolph County",37,83,1012
+17,145,17,199,IL,"Williamson County",35,55,845
+17,145,17,189,IL,"Washington County",23,43,796
+17,145,17,163,IL,"St Clair County",15,22,446
+17,145,58,000,SS,"Other Flows - Same State",81,134,2352
+17,145,59,000,DS,"Other Flows - Diff State",114,189,3097
+17,147,96,000,IL,"Piatt County Tot Mig-US & F",474,865,17297
+17,147,97,000,IL,"Piatt County Tot Mig-US",474,865,17297
+17,147,97,001,IL,"Piatt County Tot Mig-Same S",372,693,13399
+17,147,97,003,IL,"Piatt County Tot Mig-Diff S",102,172,3898
+17,147,98,000,IL,"Piatt County Tot Mig-Foreig",d,d,d
+17,147,17,147,IL,"Piatt County Non-Migrants",6071,13685,356113
+17,147,17,019,IL,"Champaign County",154,256,4879
+17,147,17,115,IL,"Macon County",72,134,3101
+17,147,17,039,IL,"De Witt County",30,65,978
+17,147,17,113,IL,"Mclean County",18,31,673
+17,147,17,041,IL,"Douglas County",16,34,503
+17,147,17,029,IL,"Coles County",12,22,246
+17,147,17,139,IL,"Moultrie County",12,23,336
+17,147,58,000,SS,"Other Flows - Same State",58,128,2684
+17,147,59,000,DS,"Other Flows - Diff State",102,172,3898
+17,149,96,000,IL,"Pike County Tot Mig-US & Fo",351,688,10110
+17,149,97,000,IL,"Pike County Tot Mig-US",351,688,10110
+17,149,97,001,IL,"Pike County Tot Mig-Same St",219,447,6627
+17,149,97,003,IL,"Pike County Tot Mig-Diff St",132,241,3483
+17,149,98,000,IL,"Pike County Tot Mig-Foreign",d,d,d
+17,149,17,149,IL,"Pike County Non-Migrants",5702,12807,224029
+17,149,17,001,IL,"Adams County",59,101,1447
+17,149,17,167,IL,"Sangamon County",22,37,759
+17,149,17,137,IL,"Morgan County",21,34,628
+17,149,17,009,IL,"Brown County",19,45,533
+17,149,17,119,IL,"Madison County",15,28,337
+17,149,29,127,MO,"Marion County",15,18,317
+17,149,58,000,SS,"Other Flows - Same State",83,202,2923
+17,149,59,000,DS,"Other Flows - Diff State",117,223,3166
+17,151,96,000,IL,"Pope County Tot Mig-US & Fo",82,153,2639
+17,151,97,000,IL,"Pope County Tot Mig-US",82,153,2639
+17,151,97,001,IL,"Pope County Tot Mig-Same St",59,116,1889
+17,151,97,003,IL,"Pope County Tot Mig-Diff St",23,37,750
+17,151,98,000,IL,"Pope County Tot Mig-Foreign",d,d,d
+17,151,17,151,IL,"Pope County Non-Migrants",1381,2921,51221
+17,151,17,127,IL,"Massac County",20,46,705
+17,151,17,165,IL,"Saline County",13,24,512
+17,151,17,087,IL,"Johnson County",10,15,176
+17,151,58,000,SS,"Other Flows - Same State",16,31,496
+17,151,59,000,DS,"Other Flows - Diff State",23,37,750
+17,153,96,000,IL,"Pulaski County Tot Mig-US &",156,345,3744
+17,153,97,000,IL,"Pulaski County Tot Mig-US",156,345,3744
+17,153,97,001,IL,"Pulaski County Tot Mig-Same",91,208,2307
+17,153,97,003,IL,"Pulaski County Tot Mig-Diff",65,137,1437
+17,153,98,000,IL,"Pulaski County Tot Mig-Fore",d,d,d
+17,153,17,153,IL,"Pulaski County Non-Migrants",2150,4724,72979
+17,153,17,003,IL,"Alexander County",20,46,287
+17,153,17,181,IL,"Union County",16,37,399
+17,153,29,031,MO,"Cape Girardeau Count",13,28,326
+17,153,17,077,IL,"Jackson County",11,24,231
+17,153,17,127,IL,"Massac County",11,32,360
+17,153,17,087,IL,"Johnson County",10,18,246
+17,153,58,000,SS,"Other Flows - Same State",23,51,784
+17,153,59,000,DS,"Other Flows - Diff State",52,109,1111
+17,155,96,000,IL,"Putnam County Tot Mig-US &",199,358,6887
+17,155,97,000,IL,"Putnam County Tot Mig-US",199,358,6887
+17,155,97,001,IL,"Putnam County Tot Mig-Same",164,305,5334
+17,155,97,003,IL,"Putnam County Tot Mig-Diff",35,53,1553
+17,155,98,000,IL,"Putnam County Tot Mig-Forei",d,d,d
+17,155,17,155,IL,"Putnam County Non-Migrants",2321,5074,125362
+17,155,17,099,IL,"La Salle County",52,90,1516
+17,155,17,011,IL,"Bureau County",43,91,1417
+17,155,17,123,IL,"Marshall County",24,47,830
+17,155,58,000,SS,"Other Flows - Same State",45,77,1571
+17,155,59,000,DS,"Other Flows - Diff State",35,53,1553
+17,157,96,000,IL,"Randolph County Tot Mig-US",626,1127,18900
+17,157,97,000,IL,"Randolph County Tot Mig-US",626,1127,18900
+17,157,97,001,IL,"Randolph County Tot Mig-Sam",392,702,11526
+17,157,97,003,IL,"Randolph County Tot Mig-Dif",234,425,7373
+17,157,98,000,IL,"Randolph County Tot Mig-For",d,d,d
+17,157,17,157,IL,"Randolph County Non-Migrant",11394,24652,518681
+17,157,17,163,IL,"St Clair County",101,178,2817
+17,157,17,133,IL,"Monroe County",65,107,2222
+17,157,17,077,IL,"Jackson County",57,102,1428
+17,157,17,145,IL,"Perry County",53,117,1572
+17,157,17,119,IL,"Madison County",28,52,894
+17,157,29,189,MO,"St Louis County",23,33,733
+17,157,29,157,MO,"Perry County",22,41,623
+17,157,29,510,MO,"St Louis",15,21,594
+17,157,17,189,IL,"Washington County",13,22,362
+17,157,17,199,IL,"Williamson County",11,16,210
+17,157,29,183,MO,"St Charles County",11,20,351
+17,157,58,000,SS,"Other Flows - Same State",64,108,2023
+17,157,59,000,DS,"Other Flows - Diff State",163,310,5073
+17,159,96,000,IL,"Richland County Tot Mig-US",392,703,11290
+17,159,97,000,IL,"Richland County Tot Mig-US",392,703,11290
+17,159,97,001,IL,"Richland County Tot Mig-Sam",241,428,6827
+17,159,97,003,IL,"Richland County Tot Mig-Dif",151,275,4463
+17,159,98,000,IL,"Richland County Tot Mig-For",d,d,d
+17,159,17,159,IL,"Richland County Non-Migrant",5836,12887,149030
+17,159,17,025,IL,"Clay County",30,56,877
+17,159,17,047,IL,"Edwards County",16,22,262
+17,159,17,101,IL,"Lawrence County",16,30,479
+17,159,17,191,IL,"Wayne County",15,28,432
+17,159,17,079,IL,"Jasper County",13,25,287
+17,159,17,163,IL,"St Clair County",12,21,635
+17,159,18,083,IN,"Knox County",12,27,321
+17,159,17,029,IL,"Coles County",10,13,122
+17,159,17,077,IL,"Jackson County",10,15,351
+17,159,17,081,IL,"Jefferson County",10,19,310
+17,159,58,000,SS,"Other Flows - Same State",109,199,3072
+17,159,59,000,DS,"Other Flows - Diff State",139,248,4142
+17,161,96,000,IL,"Rock Island Cou Tot Mig-US",3271,6110,130483
+17,161,97,000,IL,"Rock Island Cou Tot Mig-US",3240,6058,128927
+17,161,97,001,IL,"Rock Island Cou Tot Mig-Sam",1101,2055,41876
+17,161,97,003,IL,"Rock Island Cou Tot Mig-Dif",2139,4003,87051
+17,161,98,000,IL,"Rock Island Cou Tot Mig-For",31,52,1556
+17,161,17,161,IL,"Rock Island Cou Non-Migrant",56245,116634,2802172
+17,161,19,163,IA,"Scott County",752,1456,25096
+17,161,17,073,IL,"Henry County",379,777,14836
+17,161,17,131,IL,"Mercer County",138,299,5007
+17,161,17,031,IL,"Cook County",119,169,5098
+17,161,17,195,IL,"Whiteside County",53,107,2189
+17,161,04,013,AZ,"Maricopa County",47,81,1957
+17,161,19,139,IA,"Muscatine County",44,84,1476
+17,161,17,143,IL,"Peoria County",38,73,1511
+17,161,19,103,IA,"Johnson County",38,68,2550
+17,161,17,113,IL,"Mclean County",34,41,810
+17,161,17,043,IL,"Du Page County",32,54,1633
+17,161,17,095,IL,"Knox County",32,49,990
+17,161,19,153,IA,"Polk County",31,53,1614
+17,161,19,045,IA,"Clinton County",26,42,650
+17,161,19,013,IA,"Black Hawk County",24,47,2347
+17,161,17,201,IL,"Winnebago County",23,36,582
+17,161,17,187,IL,"Warren County",22,46,501
+17,161,17,089,IL,"Kane County",21,36,598
+17,161,19,113,IA,"Linn County",20,45,704
+17,161,17,197,IL,"Will County",18,35,921
+17,161,17,037,IL,"De Kalb County",17,34,507
+17,161,17,109,IL,"Mcdonough County",17,21,263
+17,161,57,005,FR,"Foreign - APO/FPO ZIPs",17,27,588
+17,161,06,073,CA,"San Diego County",16,21,513
+17,161,08,041,CO,"El Paso County",16,27,281
+17,161,12,071,FL,"Lee County",16,28,1329
+17,161,27,053,MN,"Hennepin County",14,26,396
+17,161,55,079,WI,"Milwaukee County",14,23,401
+17,161,06,037,CA,"Los Angeles County",13,22,564
+17,161,32,003,NV,"Clark County",13,20,929
+17,161,12,127,FL,"Volusia County",12,18,355
+17,161,17,019,IL,"Champaign County",12,19,453
+17,161,48,029,TX,"Bexar County",12,18,273
+17,161,55,025,WI,"Dane County",11,15,270
+17,161,12,021,FL,"Collier County",10,19,1791
+17,161,17,097,IL,"Lake County",10,20,689
+17,161,51,059,VA,"Fairfax County",10,13,364
+17,161,58,000,SS,"Other Flows - Same State",136,239,5289
+17,161,59,000,DS,"Other Flows - Diff State",1000,1877,43192
+17,161,59,001,DS,"Other Flows - Northeast",64,97,2352
+17,161,59,003,DS,"Other Flows - Midwest",370,728,14706
+17,161,59,005,DS,"Other Flows - South",399,764,19945
+17,161,59,007,DS,"Other Flows - West",167,288,6189
+17,161,57,009,FR,"Foreign - Other flows",14,25,968
+17,163,96,000,IL,"St Clair County Tot Mig-US",5941,12326,247636
+17,163,97,000,IL,"St Clair County Tot Mig-US",5739,11815,237828
+17,163,97,001,IL,"St Clair County Tot Mig-Sam",2202,4253,82583
+17,163,97,003,IL,"St Clair County Tot Mig-Dif",3537,7562,155245
+17,163,98,000,IL,"St Clair County Tot Mig-For",202,511,9808
+17,163,17,163,IL,"St Clair County Non-Migrant",92345,202083,4713001
+17,163,17,119,IL,"Madison County",945,1852,34929
+17,163,29,189,MO,"St Louis County",470,808,19227
+17,163,29,510,MO,"St Louis",357,608,9771
+17,163,17,133,IL,"Monroe County",270,551,12438
+17,163,17,027,IL,"Clinton County",218,464,9390
+17,163,17,157,IL,"Randolph County",110,209,3477
+17,163,29,183,MO,"St Charles County",95,167,4597
+17,163,17,031,IL,"Cook County",93,124,3303
+17,163,29,099,MO,"Jefferson County",78,170,3028
+17,163,17,189,IL,"Washington County",71,132,2709
+17,163,48,029,TX,"Bexar County",54,151,3368
+17,163,17,167,IL,"Sangamon County",50,86,2021
+17,163,08,041,CO,"El Paso County",40,110,2510
+17,163,15,003,HI,"Honolulu County",39,107,1974
+17,163,32,003,NV,"Clark County",39,80,2041
+17,163,04,013,AZ,"Maricopa County",35,66,1454
+17,163,17,077,IL,"Jackson County",34,52,897
+17,163,12,057,FL,"Hillsborough County",33,83,1896
+17,163,51,059,VA,"Fairfax County",27,83,2914
+17,163,17,019,IL,"Champaign County",26,56,999
+17,163,17,117,IL,"Macoupin County",26,57,925
+17,163,48,201,TX,"Harris County",24,53,1464
+17,163,53,053,WA,"Pierce County",23,58,790
+17,163,17,121,IL,"Marion County",22,36,468
+17,163,02,020,AK,"Anchorage Borough",21,59,1182
+17,163,05,119,AR,"Pulaski County",21,65,1293
+17,163,17,043,IL,"Du Page County",21,38,701
+17,163,34,005,NJ,"Burlington County",21,71,1264
+17,163,17,113,IL,"Mclean County",20,31,568
+17,163,17,199,IL,"Williamson County",20,34,725
+17,163,12,091,FL,"Okaloosa County",19,46,835
+17,163,06,037,CA,"Los Angeles County",18,27,761
+17,163,06,073,CA,"San Diego County",18,34,776
+17,163,06,095,CA,"Solano County",18,48,1326
+17,163,12,009,FL,"Brevard County",18,42,861
+17,163,17,005,IL,"Bond County",18,37,537
+17,163,17,197,IL,"Will County",18,30,685
+17,163,29,019,MO,"Boone County",18,23,521
+17,163,29,071,MO,"Franklin County",18,27,588
+17,163,04,019,AZ,"Pima County",17,28,925
+17,163,17,145,IL,"Perry County",17,33,527
+17,163,24,003,MD,"Anne Arundel County",17,37,808
+17,163,01,001,AL,"Autauga County",16,66,1252
+17,163,13,121,GA,"Fulton County",16,30,263
+17,163,17,115,IL,"Macon County",16,30,363
+17,163,40,109,OK,"Oklahoma County",16,34,986
+17,163,48,113,TX,"Dallas County",16,26,439
+17,163,29,077,MO,"Greene County",15,27,358
+17,163,39,057,OH,"Greene County",15,50,1250
+17,163,47,157,TN,"Shelby County",15,31,351
+17,163,48,485,TX,"Wichita County",15,45,696
+17,163,12,095,FL,"Orange County",14,19,403
+17,163,13,153,GA,"Houston County",14,45,1097
+17,163,17,081,IL,"Jefferson County",14,35,487
+17,163,18,097,IN,"Marion County",14,20,281
+17,163,24,031,MD,"Montgomery County",14,30,1062
+17,163,29,031,MO,"Cape Girardeau Count",14,24,758
+17,163,29,095,MO,"Jackson County",14,30,724
+17,163,39,049,OH,"Franklin County",14,28,361
+17,163,48,187,TX,"Guadalupe County",14,55,1115
+17,163,48,439,TX,"Tarrant County",14,36,580
+17,163,53,033,WA,"King County",13,20,664
+17,163,12,011,FL,"Broward County",12,27,376
+17,163,17,083,IL,"Jersey County",12,24,453
+17,163,29,187,MO,"St Francois County",12,23,456
+17,163,39,113,OH,"Montgomery County",12,40,786
+17,163,51,199,VA,"York County",12,31,701
+17,163,05,085,AR,"Lonoke County",11,41,770
+17,163,12,031,FL,"Duval County",11,21,213
+17,163,13,067,GA,"Cobb County",11,23,289
+17,163,17,051,IL,"Fayette County",11,17,242
+17,163,20,091,KS,"Johnson County",11,23,561
+17,163,24,033,MD,"Prince George's Coun",11,21,471
+17,163,26,163,MI,"Wayne County",11,26,452
+17,163,37,051,NC,"Cumberland County",11,28,371
+17,163,37,133,NC,"Onslow County",11,21,286
+17,163,51,153,VA,"Prince William Count",11,31,918
+17,163,01,101,AL,"Montgomery County",10,33,596
+17,163,02,090,AK,"Fairbanks North Star",10,35,471
+17,163,12,103,FL,"Pinellas County",10,17,314
+17,163,17,055,IL,"Franklin County",10,30,243
+17,163,18,089,IN,"Lake County",10,21,289
+17,163,31,153,NE,"Sarpy County",10,26,806
+17,163,51,650,VA,Hampton,10,18,342
+17,163,58,000,SS,"Other Flows - Same State",160,295,5496
+17,163,59,000,DS,"Other Flows - Diff State",1529,3389,66963
+17,163,59,001,DS,"Other Flows - Northeast",121,249,4916
+17,163,59,003,DS,"Other Flows - Midwest",448,979,18348
+17,163,59,005,DS,"Other Flows - South",745,1686,34288
+17,163,59,007,DS,"Other Flows - West",215,475,9410
+17,163,57,009,FR,"Foreign - Other flows",202,511,9808
+17,165,96,000,IL,"Saline County Tot Mig-US &",434,837,12828
+17,165,97,000,IL,"Saline County Tot Mig-US",434,837,12828
+17,165,97,001,IL,"Saline County Tot Mig-Same",254,502,7659
+17,165,97,003,IL,"Saline County Tot Mig-Diff",180,335,5169
+17,165,98,000,IL,"Saline County Tot Mig-Forei",d,d,d
+17,165,17,165,IL,"Saline County Non-Migrants",8258,18305,343073
+17,165,17,199,IL,"Williamson County",58,117,1820
+17,165,17,059,IL,"Gallatin County",24,48,777
+17,165,17,069,IL,"Hardin County",20,34,662
+17,165,18,163,IN,"Vanderburgh County",17,30,349
+17,165,17,087,IL,"Johnson County",15,41,504
+17,165,17,065,IL,"Hamilton County",13,40,623
+17,165,17,055,IL,"Franklin County",11,13,289
+17,165,17,193,IL,"White County",10,23,370
+17,165,58,000,SS,"Other Flows - Same State",103,186,2615
+17,165,59,000,DS,"Other Flows - Diff State",163,305,4820
+17,167,96,000,IL,"Sangamon County Tot Mig-US",3757,6630,157845
+17,167,97,000,IL,"Sangamon County Tot Mig-US",3733,6591,157204
+17,167,97,001,IL,"Sangamon County Tot Mig-Sam",2059,3598,73037
+17,167,97,003,IL,"Sangamon County Tot Mig-Dif",1674,2993,84168
+17,167,98,000,IL,"Sangamon County Tot Mig-For",24,39,641
+17,167,17,167,IL,"Sangamon County Non-Migrant",75607,157099,4319550
+17,167,17,031,IL,"Cook County",232,341,8671
+17,167,17,129,IL,"Menard County",190,400,8480
+17,167,17,021,IL,"Christian County",142,251,4006
+17,167,17,117,IL,"Macoupin County",137,237,3890
+17,167,17,137,IL,"Morgan County",135,234,4073
+17,167,17,115,IL,"Macon County",118,223,4064
+17,167,17,119,IL,"Madison County",94,159,3022
+17,167,17,107,IL,"Logan County",92,153,2384
+17,167,17,019,IL,"Champaign County",87,135,2942
+17,167,17,113,IL,"Mclean County",84,145,3574
+17,167,17,135,IL,"Montgomery County",63,110,1838
+17,167,29,189,MO,"St Louis County",61,100,3185
+17,167,04,013,AZ,"Maricopa County",56,95,1852
+17,167,17,043,IL,"Du Page County",56,78,2326
+17,167,17,143,IL,"Peoria County",50,78,1852
+17,167,17,179,IL,"Tazewell County",45,85,1551
+17,167,29,510,MO,"St Louis",38,51,1016
+17,167,17,001,IL,"Adams County",36,56,1179
+17,167,17,017,IL,"Cass County",36,69,890
+17,167,17,163,IL,"St Clair County",35,59,1270
+17,167,17,077,IL,"Jackson County",27,45,660
+17,167,32,003,NV,"Clark County",27,51,840
+17,167,06,037,CA,"Los Angeles County",25,31,749
+17,167,18,097,IN,"Marion County",23,38,776
+17,167,29,183,MO,"St Charles County",23,41,1195
+17,167,06,073,CA,"San Diego County",22,34,970
+17,167,17,197,IL,"Will County",21,43,1092
+17,167,17,097,IL,"Lake County",20,38,1330
+17,167,17,125,IL,"Mason County",19,36,417
+17,167,48,201,TX,"Harris County",18,36,696
+17,167,17,029,IL,"Coles County",17,41,543
+17,167,17,089,IL,"Kane County",17,30,1222
+17,167,17,149,IL,"Pike County",17,28,520
+17,167,17,201,IL,"Winnebago County",16,30,342
+17,167,55,025,WI,"Dane County",16,28,974
+17,167,04,019,AZ,"Pima County",15,24,580
+17,167,12,103,FL,"Pinellas County",15,19,535
+17,167,17,161,IL,"Rock Island County",15,32,559
+17,167,29,029,MO,"Camden County",15,17,506
+17,167,17,173,IL,"Shelby County",13,24,520
+17,167,12,057,FL,"Hillsborough County",12,21,727
+17,167,12,095,FL,"Orange County",12,14,269
+17,167,15,003,HI,"Honolulu County",12,20,417
+17,167,17,057,IL,"Fulton County",12,22,506
+17,167,17,199,IL,"Williamson County",12,18,484
+17,167,29,095,MO,"Jackson County",12,24,388
+17,167,37,119,NC,"Mecklenburg County",12,19,572
+17,167,47,157,TN,"Shelby County",12,25,634
+17,167,48,439,TX,"Tarrant County",12,18,331
+17,167,17,109,IL,"Mcdonough County",11,14,333
+17,167,29,019,MO,"Boone County",11,15,198
+17,167,55,079,WI,"Milwaukee County",11,21,533
+17,167,08,031,CO,"Denver County",10,11,294
+17,167,12,011,FL,"Broward County",10,15,316
+17,167,12,071,FL,"Lee County",10,14,1032
+17,167,17,061,IL,"Greene County",10,14,274
+17,167,17,183,IL,"Vermilion County",10,22,325
+17,167,47,037,TN,"Davidson County",10,16,202
+17,167,58,000,SS,"Other Flows - Same State",190,348,7897
+17,167,59,000,DS,"Other Flows - Diff State",1174,2195,64379
+17,167,59,001,DS,"Other Flows - Northeast",90,145,3112
+17,167,59,003,DS,"Other Flows - Midwest",351,694,15266
+17,167,59,005,DS,"Other Flows - South",519,969,34929
+17,167,59,007,DS,"Other Flows - West",214,387,11073
+17,167,57,009,FR,"Foreign - Other flows",24,39,641
+17,169,96,000,IL,"Schuyler County Tot Mig-US",212,391,5794
+17,169,97,000,IL,"Schuyler County Tot Mig-US",212,391,5794
+17,169,97,001,IL,"Schuyler County Tot Mig-Sam",150,268,4144
+17,169,97,003,IL,"Schuyler County Tot Mig-Dif",62,123,1650
+17,169,98,000,IL,"Schuyler County Tot Mig-For",d,d,d
+17,169,17,169,IL,"Schuyler County Non-Migrant",2634,5730,107738
+17,169,17,109,IL,"Mcdonough County",29,51,574
+17,169,17,017,IL,"Cass County",27,43,573
+17,169,17,057,IL,"Fulton County",18,40,544
+17,169,17,009,IL,"Brown County",15,29,318
+17,169,17,167,IL,"Sangamon County",13,16,321
+17,169,58,000,SS,"Other Flows - Same State",48,89,1813
+17,169,59,000,DS,"Other Flows - Diff State",62,123,1650
+17,171,96,000,IL,"Scott County Tot Mig-US & F",150,284,4217
+17,171,97,000,IL,"Scott County Tot Mig-US",150,284,4217
+17,171,97,001,IL,"Scott County Tot Mig-Same S",130,251,3746
+17,171,97,003,IL,"Scott County Tot Mig-Diff S",20,33,471
+17,171,98,000,IL,"Scott County Tot Mig-Foreig",d,d,d
+17,171,17,171,IL,"Scott County Non-Migrants",1977,4407,85216
+17,171,17,137,IL,"Morgan County",63,127,1757
+17,171,17,167,IL,"Sangamon County",13,22,429
+17,171,17,061,IL,"Greene County",11,19,458
+17,171,58,000,SS,"Other Flows - Same State",43,83,1102
+17,171,59,000,DS,"Other Flows - Diff State",20,33,471
+17,173,96,000,IL,"Shelby County Tot Mig-US &",508,1004,15651
+17,173,97,000,IL,"Shelby County Tot Mig-US",508,1004,15651
+17,173,97,001,IL,"Shelby County Tot Mig-Same",391,780,12193
+17,173,97,003,IL,"Shelby County Tot Mig-Diff",117,224,3459
+17,173,98,000,IL,"Shelby County Tot Mig-Forei",d,d,d
+17,173,17,173,IL,"Shelby County Non-Migrants",7989,17791,338619
+17,173,17,021,IL,"Christian County",58,120,1588
+17,173,17,049,IL,"Effingham County",56,129,1799
+17,173,17,115,IL,"Macon County",55,90,1938
+17,173,17,029,IL,"Coles County",52,102,1560
+17,173,17,139,IL,"Moultrie County",26,50,484
+17,173,17,035,IL,"Cumberland County",20,47,445
+17,173,17,051,IL,"Fayette County",20,46,451
+17,173,17,167,IL,"Sangamon County",17,27,579
+17,173,17,019,IL,"Champaign County",14,19,495
+17,173,58,000,SS,"Other Flows - Same State",73,150,2855
+17,173,59,000,DS,"Other Flows - Diff State",117,224,3459
+17,175,96,000,IL,"Stark County Tot Mig-US & F",155,283,5592
+17,175,97,000,IL,"Stark County Tot Mig-US",155,283,5592
+17,175,97,001,IL,"Stark County Tot Mig-Same S",111,212,4410
+17,175,97,003,IL,"Stark County Tot Mig-Diff S",44,71,1182
+17,175,98,000,IL,"Stark County Tot Mig-Foreig",d,d,d
+17,175,17,175,IL,"Stark County Non-Migrants",2223,5014,98595
+17,175,17,143,IL,"Peoria County",36,76,1742
+17,175,17,073,IL,"Henry County",27,41,625
+17,175,58,000,SS,"Other Flows - Same State",48,95,2043
+17,175,59,000,DS,"Other Flows - Diff State",44,71,1182
+17,177,96,000,IL,"Stephenson Coun Tot Mig-US",1023,1838,37304
+17,177,97,000,IL,"Stephenson Coun Tot Mig-US",1023,1838,37304
+17,177,97,001,IL,"Stephenson Coun Tot Mig-Sam",540,955,19068
+17,177,97,003,IL,"Stephenson Coun Tot Mig-Dif",483,883,18235
+17,177,98,000,IL,"Stephenson Coun Tot Mig-For",d,d,d
+17,177,17,177,IL,"Stephenson Coun Non-Migrant",17951,39131,852590
+17,177,17,201,IL,"Winnebago County",195,366,7823
+17,177,17,085,IL,"Jo Daviess County",61,118,2325
+17,177,17,031,IL,"Cook County",52,80,1392
+17,177,55,045,WI,"Green County",51,88,1183
+17,177,17,141,IL,"Ogle County",48,91,1704
+17,177,17,015,IL,"Carroll County",31,54,798
+17,177,55,025,WI,"Dane County",31,41,1517
+17,177,17,043,IL,"Du Page County",18,33,680
+17,177,17,037,IL,"De Kalb County",16,19,465
+17,177,04,013,AZ,"Maricopa County",15,27,425
+17,177,17,195,IL,"Whiteside County",14,25,434
+17,177,17,113,IL,"Mclean County",13,19,426
+17,177,17,007,IL,"Boone County",12,24,539
+17,177,17,089,IL,"Kane County",11,20,495
+17,177,55,105,WI,"Rock County",11,22,452
+17,177,58,000,SS,"Other Flows - Same State",69,106,1986
+17,177,59,000,DS,"Other Flows - Diff State",375,705,14658
+17,179,96,000,IL,"Tazewell County Tot Mig-US",3135,5582,118787
+17,179,97,000,IL,"Tazewell County Tot Mig-US",3123,5561,118432
+17,179,97,001,IL,"Tazewell County Tot Mig-Sam",2269,3976,81610
+17,179,97,003,IL,"Tazewell County Tot Mig-Dif",854,1585,36823
+17,179,98,000,IL,"Tazewell County Tot Mig-For",12,21,355
+17,179,17,179,IL,"Tazewell County Non-Migrant",49333,108809,2759213
+17,179,17,143,IL,"Peoria County",1111,1886,37121
+17,179,17,203,IL,"Woodford County",218,434,9565
+17,179,17,113,IL,"Mclean County",214,356,8097
+17,179,17,125,IL,"Mason County",90,184,3063
+17,179,17,031,IL,"Cook County",89,117,3140
+17,179,17,057,IL,"Fulton County",70,133,1990
+17,179,17,167,IL,"Sangamon County",42,76,1601
+17,179,17,043,IL,"Du Page County",33,45,1167
+17,179,17,019,IL,"Champaign County",30,51,939
+17,179,17,095,IL,"Knox County",29,46,836
+17,179,17,107,IL,"Logan County",28,46,603
+17,179,17,123,IL,"Marshall County",23,40,790
+17,179,17,115,IL,"Macon County",19,39,1006
+17,179,04,013,AZ,"Maricopa County",17,23,1217
+17,179,17,119,IL,"Madison County",16,36,981
+17,179,06,073,CA,"San Diego County",15,27,358
+17,179,17,109,IL,"Mcdonough County",14,31,342
+17,179,17,197,IL,"Will County",13,26,554
+17,179,29,189,MO,"St Louis County",13,18,469
+17,179,18,097,IN,"Marion County",12,23,1233
+17,179,19,163,IA,"Scott County",12,14,365
+17,179,37,183,NC,"Wake County",12,32,1027
+17,179,17,029,IL,"Coles County",11,16,267
+17,179,17,105,IL,"Livingston County",11,28,432
+17,179,17,163,IL,"St Clair County",11,17,681
+17,179,17,175,IL,"Stark County",11,16,391
+17,179,17,201,IL,"Winnebago County",11,17,219
+17,179,29,183,MO,"St Charles County",10,16,275
+17,179,58,000,SS,"Other Flows - Same State",175,336,7825
+17,179,59,000,DS,"Other Flows - Diff State",763,1432,31878
+17,179,59,001,DS,"Other Flows - Northeast",32,51,1308
+17,179,59,003,DS,"Other Flows - Midwest",266,501,11630
+17,179,59,005,DS,"Other Flows - South",334,652,14366
+17,179,59,007,DS,"Other Flows - West",131,228,4574
+17,179,57,009,FR,"Foreign - Other flows",12,21,355
+17,181,96,000,IL,"Union County Tot Mig-US & F",355,657,9881
+17,181,97,000,IL,"Union County Tot Mig-US",355,657,9881
+17,181,97,001,IL,"Union County Tot Mig-Same S",222,423,5739
+17,181,97,003,IL,"Union County Tot Mig-Diff S",133,234,4143
+17,181,98,000,IL,"Union County Tot Mig-Foreig",d,d,d
+17,181,17,181,IL,"Union County Non-Migrants",6198,13735,256455
+17,181,17,077,IL,"Jackson County",62,94,1563
+17,181,17,199,IL,"Williamson County",39,70,1220
+17,181,17,087,IL,"Johnson County",22,39,398
+17,181,17,153,IL,"Pulaski County",19,40,398
+17,181,29,031,MO,"Cape Girardeau Count",17,27,496
+17,181,17,003,IL,"Alexander County",12,36,338
+17,181,17,055,IL,"Franklin County",10,30,218
+17,181,58,000,SS,"Other Flows - Same State",58,114,1604
+17,181,59,000,DS,"Other Flows - Diff State",116,207,3646
+17,183,96,000,IL,"Vermilion Count Tot Mig-US",1415,2667,47987
+17,183,97,000,IL,"Vermilion Count Tot Mig-US",1405,2650,47651
+17,183,97,001,IL,"Vermilion Count Tot Mig-Sam",672,1241,21722
+17,183,97,003,IL,"Vermilion Count Tot Mig-Dif",733,1409,25929
+17,183,98,000,IL,"Vermilion Count Tot Mig-For",10,17,336
+17,183,17,183,IL,"Vermilion Count Non-Migrant",29104,62738,1214595
+17,183,17,019,IL,"Champaign County",268,489,8866
+17,183,17,031,IL,"Cook County",62,111,1673
+17,183,18,045,IN,"Fountain County",45,103,1635
+17,183,17,075,IL,"Iroquois County",37,70,634
+17,183,18,097,IN,"Marion County",37,53,917
+17,183,18,165,IN,"Vermillion County",36,78,1516
+17,183,17,045,IL,"Edgar County",34,63,933
+17,183,17,113,IL,"Mclean County",27,39,621
+17,183,18,171,IN,"Warren County",25,49,1003
+17,183,04,013,AZ,"Maricopa County",22,42,727
+17,183,17,029,IL,"Coles County",20,29,334
+17,183,17,167,IL,"Sangamon County",19,38,475
+17,183,18,157,IN,"Tippecanoe County",17,26,347
+17,183,17,197,IL,"Will County",16,27,1146
+17,183,17,115,IL,"Macon County",15,31,433
+17,183,17,143,IL,"Peoria County",14,26,425
+17,183,17,053,IL,"Ford County",13,22,280
+17,183,17,041,IL,"Douglas County",12,31,486
+17,183,17,043,IL,"Du Page County",12,19,489
+17,183,18,167,IN,"Vigo County",10,24,623
+17,183,58,000,SS,"Other Flows - Same State",123,246,4926
+17,183,59,000,DS,"Other Flows - Diff State",541,1034,19159
+17,183,59,001,DS,"Other Flows - Northeast",21,34,602
+17,183,59,003,DS,"Other Flows - Midwest",185,375,6911
+17,183,59,005,DS,"Other Flows - South",259,490,9595
+17,183,59,007,DS,"Other Flows - West",76,135,2052
+17,183,57,009,FR,"Foreign - Other flows",10,17,336
+17,185,96,000,IL,"Wabash County Tot Mig-US &",270,504,8137
+17,185,97,000,IL,"Wabash County Tot Mig-US",270,504,8137
+17,185,97,001,IL,"Wabash County Tot Mig-Same",105,184,2885
+17,185,97,003,IL,"Wabash County Tot Mig-Diff",165,320,5251
+17,185,98,000,IL,"Wabash County Tot Mig-Forei",d,d,d
+17,185,17,185,IL,"Wabash County Non-Migrants",4529,9990,203755
+17,185,18,051,IN,"Gibson County",37,81,1294
+17,185,18,163,IN,"Vanderburgh County",35,64,1256
+17,185,17,047,IL,"Edwards County",18,37,598
+17,185,17,193,IL,"White County",13,23,343
+17,185,17,101,IL,"Lawrence County",10,28,402
+17,185,58,000,SS,"Other Flows - Same State",64,96,1542
+17,185,59,000,DS,"Other Flows - Diff State",93,175,2702
+17,187,96,000,IL,"Warren County Tot Mig-US &",454,842,13885
+17,187,97,000,IL,"Warren County Tot Mig-US",454,842,13885
+17,187,97,001,IL,"Warren County Tot Mig-Same",274,489,7699
+17,187,97,003,IL,"Warren County Tot Mig-Diff",180,353,6186
+17,187,98,000,IL,"Warren County Tot Mig-Forei",d,d,d
+17,187,17,187,IL,"Warren County Non-Migrants",6131,13312,253764
+17,187,17,095,IL,"Knox County",99,187,2777
+17,187,17,109,IL,"Mcdonough County",30,66,815
+17,187,17,071,IL,"Henderson County",26,42,597
+17,187,17,131,IL,"Mercer County",18,34,495
+17,187,17,161,IL,"Rock Island County",15,28,329
+17,187,17,143,IL,"Peoria County",13,18,329
+17,187,19,163,IA,"Scott County",13,16,279
+17,187,17,031,IL,"Cook County",10,17,252
+17,187,58,000,SS,"Other Flows - Same State",63,97,2106
+17,187,59,000,DS,"Other Flows - Diff State",167,337,5907
+17,189,96,000,IL,"Washington Coun Tot Mig-US",376,716,12557
+17,189,97,000,IL,"Washington Coun Tot Mig-US",376,716,12557
+17,189,97,001,IL,"Washington Coun Tot Mig-Sam",284,538,9123
+17,189,97,003,IL,"Washington Coun Tot Mig-Dif",92,178,3434
+17,189,98,000,IL,"Washington Coun Tot Mig-For",d,d,d
+17,189,17,189,IL,"Washington Coun Non-Migrant",5704,12617,280374
+17,189,17,163,IL,"St Clair County",61,101,1764
+17,189,17,081,IL,"Jefferson County",40,67,1429
+17,189,17,121,IL,"Marion County",35,85,1240
+17,189,17,027,IL,"Clinton County",34,60,1262
+17,189,17,119,IL,"Madison County",24,52,909
+17,189,17,145,IL,"Perry County",20,38,616
+17,189,17,157,IL,"Randolph County",17,30,452
+17,189,17,077,IL,"Jackson County",13,25,319
+17,189,29,189,MO,"St Louis County",13,15,409
+17,189,58,000,SS,"Other Flows - Same State",40,80,1131
+17,189,59,000,DS,"Other Flows - Diff State",79,163,3025
+17,191,96,000,IL,"Wayne County Tot Mig-US & F",292,582,8611
+17,191,97,000,IL,"Wayne County Tot Mig-US",292,582,8611
+17,191,97,001,IL,"Wayne County Tot Mig-Same S",198,403,5773
+17,191,97,003,IL,"Wayne County Tot Mig-Diff S",94,179,2838
+17,191,98,000,IL,"Wayne County Tot Mig-Foreig",d,d,d
+17,191,17,191,IL,"Wayne County Non-Migrants",5942,13146,246167
+17,191,17,025,IL,"Clay County",38,74,874
+17,191,17,081,IL,"Jefferson County",31,70,1009
+17,191,17,047,IL,"Edwards County",16,27,468
+17,191,18,163,IN,"Vanderburgh County",13,23,678
+17,191,17,193,IL,"White County",12,22,209
+17,191,17,159,IL,"Richland County",11,20,377
+17,191,58,000,SS,"Other Flows - Same State",90,190,2836
+17,191,59,000,DS,"Other Flows - Diff State",81,156,2160
+17,193,96,000,IL,"White County Tot Mig-US & F",332,620,8776
+17,193,97,000,IL,"White County Tot Mig-US",332,620,8776
+17,193,97,001,IL,"White County Tot Mig-Same S",184,333,4517
+17,193,97,003,IL,"White County Tot Mig-Diff S",148,287,4259
+17,193,98,000,IL,"White County Tot Mig-Foreig",d,d,d
+17,193,17,193,IL,"White County Non-Migrants",5459,11746,242863
+17,193,18,163,IN,"Vanderburgh County",30,49,664
+17,193,17,191,IL,"Wayne County",27,40,583
+17,193,17,065,IL,"Hamilton County",20,37,434
+17,193,17,047,IL,"Edwards County",18,27,351
+17,193,17,165,IL,"Saline County",17,35,470
+17,193,17,059,IL,"Gallatin County",13,40,538
+17,193,17,185,IL,"Wabash County",13,26,339
+17,193,18,051,IN,"Gibson County",11,28,346
+17,193,18,129,IN,"Posey County",11,21,261
+17,193,58,000,SS,"Other Flows - Same State",76,128,1802
+17,193,59,000,DS,"Other Flows - Diff State",96,189,2987
+17,195,96,000,IL,"Whiteside Count Tot Mig-US",1199,2116,38873
+17,195,97,000,IL,"Whiteside Count Tot Mig-US",1199,2116,38873
+17,195,97,001,IL,"Whiteside Count Tot Mig-Sam",624,1074,19106
+17,195,97,003,IL,"Whiteside Count Tot Mig-Dif",575,1042,19767
+17,195,98,000,IL,"Whiteside Count Tot Mig-For",d,d,d
+17,195,17,195,IL,"Whiteside Count Non-Migrant",22577,49455,1047871
+17,195,17,103,IL,"Lee County",144,276,3903
+17,195,17,161,IL,"Rock Island County",90,139,3460
+17,195,19,045,IA,"Clinton County",82,156,1997
+17,195,17,031,IL,"Cook County",47,66,1797
+17,195,19,163,IA,"Scott County",41,65,1819
+17,195,17,015,IL,"Carroll County",39,64,1095
+17,195,17,043,IL,"Du Page County",34,37,1069
+17,195,17,141,IL,"Ogle County",28,56,654
+17,195,17,073,IL,"Henry County",22,39,745
+17,195,17,011,IL,"Bureau County",20,46,515
+17,195,17,037,IL,"De Kalb County",20,31,457
+17,195,17,201,IL,"Winnebago County",19,32,671
+17,195,17,019,IL,"Champaign County",15,22,469
+17,195,17,089,IL,"Kane County",15,33,325
+17,195,04,013,AZ,"Maricopa County",13,24,808
+17,195,17,099,IL,"La Salle County",12,22,391
+17,195,17,197,IL,"Will County",11,19,332
+17,195,17,113,IL,"Mclean County",10,10,189
+17,195,58,000,SS,"Other Flows - Same State",98,182,3036
+17,195,59,000,DS,"Other Flows - Diff State",439,797,15142
+17,195,59,001,DS,"Other Flows - Northeast",11,12,528
+17,195,59,003,DS,"Other Flows - Midwest",186,338,7302
+17,195,59,005,DS,"Other Flows - South",172,325,5739
+17,195,59,007,DS,"Other Flows - West",70,122,1574
+17,197,96,000,IL,"Will County Tot Mig-US & Fo",15337,31155,830224
+17,197,97,000,IL,"Will County Tot Mig-US",15262,30987,827270
+17,197,97,001,IL,"Will County Tot Mig-Same St",10282,20050,489836
+17,197,97,003,IL,"Will County Tot Mig-Diff St",4980,10937,337434
+17,197,98,000,IL,"Will County Tot Mig-Foreign",75,168,2954
+17,197,17,197,IL,"Will County Non-Migrants",210844,524920,14986299
+17,197,17,031,IL,"Cook County",4540,8399,192100
+17,197,17,043,IL,"Du Page County",2215,4159,113998
+17,197,17,063,IL,"Grundy County",876,1891,43446
+17,197,17,093,IL,"Kendall County",533,1287,35530
+17,197,17,091,IL,"Kankakee County",416,869,19536
+17,197,17,089,IL,"Kane County",404,841,22911
+17,197,18,089,IN,"Lake County",339,761,19043
+17,197,04,013,AZ,"Maricopa County",229,480,14209
+17,197,17,099,IL,"La Salle County",171,428,7934
+17,197,17,097,IL,"Lake County",138,285,9210
+17,197,17,037,IL,"De Kalb County",102,164,3635
+17,197,32,003,NV,"Clark County",95,196,4645
+17,197,17,113,IL,"Mclean County",89,165,4481
+17,197,17,019,IL,"Champaign County",74,118,2689
+17,197,17,105,IL,"Livingston County",74,155,3076
+17,197,17,111,IL,"Mchenry County",72,147,4252
+17,197,06,037,CA,"Los Angeles County",68,110,2375
+17,197,12,071,FL,"Lee County",68,134,5494
+17,197,48,201,TX,"Harris County",57,129,3784
+17,197,18,127,IN,"Porter County",52,148,4141
+17,197,06,073,CA,"San Diego County",49,81,2108
+17,197,06,059,CA,"Orange County",47,107,3468
+17,197,17,201,IL,"Winnebago County",47,89,1835
+17,197,17,143,IL,"Peoria County",46,85,2585
+17,197,48,439,TX,"Tarrant County",45,123,3691
+17,197,27,053,MN,"Hennepin County",40,80,2080
+17,197,53,033,WA,"King County",39,64,2692
+17,197,55,079,WI,"Milwaukee County",38,56,1424
+17,197,39,049,OH,"Franklin County",37,79,2922
+17,197,57,005,FR,"Foreign - APO/FPO ZIPs",37,56,880
+17,197,29,189,MO,"St Louis County",34,68,2528
+17,197,12,103,FL,"Pinellas County",33,64,1250
+17,197,18,097,IN,"Marion County",31,49,1223
+17,197,12,011,FL,"Broward County",30,62,2263
+17,197,13,135,GA,"Gwinnett County",30,72,1652
+17,197,48,029,TX,"Bexar County",30,71,1161
+17,197,04,019,AZ,"Pima County",29,56,1832
+17,197,12,057,FL,"Hillsborough County",28,65,1864
+17,197,17,077,IL,"Jackson County",28,42,992
+17,197,17,167,IL,"Sangamon County",28,57,1557
+17,197,13,067,GA,"Cobb County",27,72,2027
+17,197,13,121,GA,"Fulton County",27,66,2128
+17,197,37,119,NC,"Mecklenburg County",27,71,2806
+17,197,18,057,IN,"Hamilton County",26,73,3092
+17,197,26,081,MI,"Kent County",25,55,1511
+17,197,47,037,TN,"Davidson County",25,47,1460
+17,197,12,115,FL,"Sarasota County",24,43,2032
+17,197,17,119,IL,"Madison County",24,42,768
+17,197,48,113,TX,"Dallas County",24,47,1501
+17,197,12,095,FL,"Orange County",23,46,2676
+17,197,12,105,FL,"Polk County",23,47,1204
+17,197,17,075,IL,"Iroquois County",23,46,1032
+17,197,17,141,IL,"Ogle County",23,59,1294
+17,197,26,125,MI,"Oakland County",23,49,2921
+17,197,06,065,CA,"Riverside County",22,49,1344
+17,197,12,101,FL,"Pasco County",22,60,1469
+17,197,48,121,TX,"Denton County",22,59,2266
+17,197,55,025,WI,"Dane County",22,43,2553
+17,197,20,091,KS,"Johnson County",21,51,2593
+17,197,29,183,MO,"St Charles County",21,57,2325
+17,197,37,183,NC,"Wake County",21,61,2063
+17,197,48,085,TX,"Collin County",21,65,1971
+17,197,06,085,CA,"Santa Clara County",20,47,1137
+17,197,12,081,FL,"Manatee County",20,38,1566
+17,197,12,099,FL,"Palm Beach County",20,52,1612
+17,197,26,163,MI,"Wayne County",20,54,1260
+17,197,55,133,WI,"Waukesha County",20,48,1667
+17,197,12,021,FL,"Collier County",19,35,938
+17,197,12,117,FL,"Seminole County",19,34,804
+17,197,15,003,HI,"Honolulu County",18,34,668
+17,197,17,179,IL,"Tazewell County",18,34,2226
+17,197,18,141,IN,"St Joseph County",18,44,1179
+17,197,35,001,NM,"Bernalillo County",18,39,829
+17,197,17,029,IL,"Coles County",17,25,723
+17,197,17,199,IL,"Williamson County",17,25,654
+17,197,18,157,IN,"Tippecanoe County",17,39,574
+17,197,27,037,MN,"Dakota County",17,59,2164
+17,197,39,035,OH,"Cuyahoga County",17,32,1086
+17,197,47,157,TN,"Shelby County",17,49,2684
+17,197,04,021,AZ,"Pinal County",16,29,795
+17,197,12,053,FL,"Hernando County",16,35,651
+17,197,17,011,IL,"Bureau County",16,41,651
+17,197,17,115,IL,"Macon County",16,26,643
+17,197,48,453,TX,"Travis County",16,30,755
+17,197,51,059,VA,"Fairfax County",16,20,631
+17,197,06,071,CA,"San Bernardino Count",15,23,419
+17,197,12,015,FL,"Charlotte County",15,29,1863
+17,197,12,031,FL,"Duval County",15,30,858
+17,197,18,039,IN,"Elkhart County",15,46,526
+17,197,26,021,MI,"Berrien County",15,29,1048
+17,197,08,031,CO,"Denver County",14,19,395
+17,197,08,041,CO,"El Paso County",14,30,1258
+17,197,08,069,CO,"Larimer County",14,26,1032
+17,197,12,083,FL,"Marion County",14,25,596
+17,197,17,103,IL,"Lee County",14,36,630
+17,197,19,113,IA,"Linn County",14,33,1567
+17,197,29,047,MO,"Clay County",14,32,898
+17,197,31,055,NE,"Douglas County",14,35,1288
+17,197,39,041,OH,"Delaware County",14,46,1672
+17,197,40,143,OK,"Tulsa County",14,36,1494
+17,197,42,017,PA,"Bucks County",14,44,2762
+17,197,48,215,TX,"Hidalgo County",14,37,625
+17,197,49,035,UT,"Salt Lake County",14,34,917
+17,197,19,103,IA,"Johnson County",13,20,530
+17,197,19,153,IA,"Polk County",13,29,523
+17,197,36,061,NY,"New York County",13,23,1302
+17,197,39,095,OH,"Lucas County",13,32,1129
+17,197,45,019,SC,"Charleston County",13,24,897
+17,197,06,001,CA,"Alameda County",12,21,383
+17,197,12,086,FL,"Miami Dade County",12,31,1101
+17,197,18,073,IN,"Jasper County",12,20,588
+17,197,19,163,IA,"Scott County",12,21,689
+17,197,24,031,MD,"Montgomery County",12,23,1175
+17,197,29,095,MO,"Jackson County",12,25,697
+17,197,39,025,OH,"Clermont County",12,25,588
+17,197,39,113,OH,"Montgomery County",12,34,605
+17,197,53,061,WA,"Snohomish County",12,24,686
+17,197,11,001,DC,"District Of Columbia",11,12,297
+17,197,13,139,GA,"Hall County",11,25,507
+17,197,17,007,IL,"Boone County",11,33,748
+17,197,17,081,IL,"Jefferson County",11,24,427
+17,197,17,109,IL,"Mcdonough County",11,15,161
+17,197,27,123,MN,"Ramsey County",11,21,238
+17,197,37,179,NC,"Union County",11,48,2868
+17,197,41,067,OR,"Washington County",11,24,779
+17,197,48,027,TX,"Bell County",11,22,412
+17,197,48,157,TX,"Fort Bend County",11,38,2206
+17,197,55,059,WI,"Kenosha County",11,20,617
+17,197,55,101,WI,"Racine County",11,21,479
+17,197,06,013,CA,"Contra Costa County",10,25,1268
+17,197,08,005,CO,"Arapahoe County",10,18,531
+17,197,12,033,FL,"Escambia County",10,15,282
+17,197,12,109,FL,"St Johns County",10,28,1018
+17,197,13,089,GA,"De Kalb County",10,22,466
+17,197,17,049,IL,"Effingham County",10,18,509
+17,197,18,091,IN,"La Porte County",10,24,419
+17,197,24,033,MD,"Prince George's Coun",10,19,288
+17,197,26,049,MI,"Genesee County",10,28,544
+17,197,26,077,MI,"Kalamazoo County",10,17,548
+17,197,26,161,MI,"Washtenaw County",10,13,680
+17,197,32,031,NV,"Washoe County",10,17,484
+17,197,37,051,NC,"Cumberland County",10,17,205
+17,197,37,133,NC,"Onslow County",10,14,295
+17,197,39,061,OH,"Hamilton County",10,26,600
+17,197,47,149,TN,"Rutherford County",10,29,343
+17,197,48,039,TX,"Brazoria County",10,23,1126
+17,197,48,339,TX,"Montgomery County",10,27,937
+17,197,55,009,WI,"Brown County",10,17,522
+17,197,55,127,WI,"Walworth County",10,21,527
+17,197,58,000,SS,"Other Flows - Same State",218,445,9601
+17,197,59,000,DS,"Other Flows - Diff State",2057,4566,141043
+17,197,59,001,DS,"Other Flows - Northeast",253,611,25706
+17,197,59,003,DS,"Other Flows - Midwest",614,1350,38120
+17,197,59,005,DS,"Other Flows - South",902,2006,60800
+17,197,59,007,DS,"Other Flows - West",288,599,16417
+17,197,57,009,FR,"Foreign - Other flows",38,112,2074
+17,199,96,000,IL,"Williamson Coun Tot Mig-US",1485,2749,46843
+17,199,97,000,IL,"Williamson Coun Tot Mig-US",1485,2749,46843
+17,199,97,001,IL,"Williamson Coun Tot Mig-Sam",877,1604,25081
+17,199,97,003,IL,"Williamson Coun Tot Mig-Dif",608,1145,21762
+17,199,98,000,IL,"Williamson Coun Tot Mig-For",d,d,d
+17,199,17,199,IL,"Williamson Coun Non-Migrant",21750,47125,967683
+17,199,17,077,IL,"Jackson County",235,395,6022
+17,199,17,055,IL,"Franklin County",175,348,5110
+17,199,17,165,IL,"Saline County",57,99,1466
+17,199,17,087,IL,"Johnson County",51,93,1557
+17,199,17,031,IL,"Cook County",35,46,909
+17,199,17,181,IL,"Union County",29,56,713
+17,199,17,081,IL,"Jefferson County",24,41,491
+17,199,21,145,KY,"Mccracken County",21,41,721
+17,199,17,167,IL,"Sangamon County",20,35,818
+17,199,29,189,MO,"St Louis County",19,34,798
+17,199,17,145,IL,"Perry County",18,41,502
+17,199,17,163,IL,"St Clair County",18,37,1066
+17,199,29,510,MO,"St Louis",14,17,303
+17,199,17,119,IL,"Madison County",13,19,272
+17,199,18,163,IN,"Vanderburgh County",13,29,472
+17,199,29,031,MO,"Cape Girardeau Count",11,22,295
+17,199,17,043,IL,"Du Page County",10,14,406
+17,199,17,121,IL,"Marion County",10,15,176
+17,199,58,000,SS,"Other Flows - Same State",182,365,5573
+17,199,59,000,DS,"Other Flows - Diff State",530,1002,19172
+17,199,59,001,DS,"Other Flows - Northeast",22,44,550
+17,199,59,003,DS,"Other Flows - Midwest",146,286,5553
+17,199,59,005,DS,"Other Flows - South",276,510,10223
+17,199,59,007,DS,"Other Flows - West",86,162,2846
+17,201,96,000,IL,"Winnebago Count Tot Mig-US",5206,9877,227199
+17,201,97,000,IL,"Winnebago Count Tot Mig-US",5167,9823,225304
+17,201,97,001,IL,"Winnebago Count Tot Mig-Sam",2280,4307,107092
+17,201,97,003,IL,"Winnebago Count Tot Mig-Dif",2887,5516,118212
+17,201,98,000,IL,"Winnebago Count Tot Mig-For",39,54,1894
+17,201,17,201,IL,"Winnebago Count Non-Migrant",104613,230866,5367698
+17,201,17,031,IL,"Cook County",457,730,13701
+17,201,17,007,IL,"Boone County",454,943,38619
+17,201,55,105,WI,"Rock County",312,611,10548
+17,201,17,141,IL,"Ogle County",263,577,11742
+17,201,17,177,IL,"Stephenson County",175,354,6719
+17,201,17,089,IL,"Kane County",143,305,8034
+17,201,17,037,IL,"De Kalb County",129,194,3824
+17,201,04,013,AZ,"Maricopa County",117,203,4520
+17,201,17,043,IL,"Du Page County",107,177,3686
+17,201,17,111,IL,"Mchenry County",106,208,4737
+17,201,55,025,WI,"Dane County",81,134,2544
+17,201,55,079,WI,"Milwaukee County",67,108,2804
+17,201,17,097,IL,"Lake County",58,119,2253
+17,201,32,003,NV,"Clark County",45,74,1508
+17,201,55,127,WI,"Walworth County",43,89,2483
+17,201,17,197,IL,"Will County",35,72,1190
+17,201,17,103,IL,"Lee County",32,52,1010
+17,201,06,073,CA,"San Diego County",31,49,816
+17,201,17,143,IL,"Peoria County",30,47,1197
+17,201,12,071,FL,"Lee County",29,49,1603
+17,201,06,037,CA,"Los Angeles County",28,45,785
+17,201,17,113,IL,"Mclean County",27,38,665
+17,201,55,045,WI,"Green County",26,55,1658
+17,201,27,053,MN,"Hennepin County",25,40,920
+17,201,12,095,FL,"Orange County",22,32,690
+17,201,12,105,FL,"Polk County",22,45,821
+17,201,17,019,IL,"Champaign County",22,37,630
+17,201,17,099,IL,"La Salle County",22,38,649
+17,201,57,005,FR,"Foreign - APO/FPO ZIPs",22,23,452
+17,201,17,195,IL,"Whiteside County",21,34,895
+17,201,48,439,TX,"Tarrant County",20,47,1155
+17,201,12,021,FL,"Collier County",19,33,1298
+17,201,18,097,IN,"Marion County",18,38,663
+17,201,12,011,FL,"Broward County",16,20,523
+17,201,37,119,NC,"Mecklenburg County",16,24,460
+17,201,48,201,TX,"Harris County",16,30,490
+17,201,53,033,WA,"King County",16,19,371
+17,201,08,041,CO,"El Paso County",15,27,406
+17,201,19,163,IA,"Scott County",15,27,621
+17,201,55,133,WI,"Waukesha County",15,34,1530
+17,201,12,057,FL,"Hillsborough County",14,28,561
+17,201,13,121,GA,"Fulton County",14,31,507
+17,201,19,061,IA,"Dubuque County",14,28,473
+17,201,19,113,IA,"Linn County",14,31,1574
+17,201,26,125,MI,"Oakland County",14,30,2547
+17,201,12,103,FL,"Pinellas County",13,32,693
+17,201,17,085,IL,"Jo Daviess County",13,25,1242
+17,201,17,179,IL,"Tazewell County",13,33,649
+17,201,47,037,TN,"Davidson County",13,14,525
+17,201,55,101,WI,"Racine County",13,27,626
+17,201,04,019,AZ,"Pima County",12,21,418
+17,201,17,093,IL,"Kendall County",12,27,659
+17,201,17,161,IL,"Rock Island County",12,20,457
+17,201,29,189,MO,"St Louis County",12,20,547
+17,201,08,031,CO,"Denver County",11,11,242
+17,201,13,067,GA,"Cobb County",11,22,405
+17,201,17,015,IL,"Carroll County",11,21,341
+17,201,48,113,TX,"Dallas County",11,26,340
+17,201,48,453,TX,"Travis County",11,18,832
+17,201,12,009,FL,"Brevard County",10,21,167
+17,201,12,086,FL,"Miami Dade County",10,15,628
+17,201,12,101,FL,"Pasco County",10,18,509
+17,201,17,077,IL,"Jackson County",10,11,136
+17,201,17,167,IL,"Sangamon County",10,23,293
+17,201,18,057,IN,"Hamilton County",10,15,342
+17,201,19,013,IA,"Black Hawk County",10,28,401
+17,201,39,035,OH,"Cuyahoga County",10,17,304
+17,201,40,109,OK,"Oklahoma County",10,15,191
+17,201,53,053,WA,"Pierce County",10,20,408
+17,201,55,087,WI,"Outagamie County",10,17,466
+17,201,58,000,SS,"Other Flows - Same State",118,222,3761
+17,201,59,000,DS,"Other Flows - Diff State",1606,3178,65286
+17,201,59,001,DS,"Other Flows - Northeast",110,187,5679
+17,201,59,003,DS,"Other Flows - Midwest",539,1049,22835
+17,201,59,005,DS,"Other Flows - South",683,1430,25944
+17,201,59,007,DS,"Other Flows - West",274,512,10828
+17,201,57,009,FR,"Foreign - Other flows",17,31,1442
+17,203,96,000,IL,"Woodford County Tot Mig-US",926,1680,36176
+17,203,97,000,IL,"Woodford County Tot Mig-US",926,1680,36176
+17,203,97,001,IL,"Woodford County Tot Mig-Sam",702,1253,25523
+17,203,97,003,IL,"Woodford County Tot Mig-Dif",224,427,10653
+17,203,98,000,IL,"Woodford County Tot Mig-For",d,d,d
+17,203,17,203,IL,"Woodford County Non-Migrant",12984,31065,843609
+17,203,17,179,IL,"Tazewell County",220,400,7897
+17,203,17,143,IL,"Peoria County",147,251,5209
+17,203,17,113,IL,"Mclean County",134,223,4894
+17,203,17,123,IL,"Marshall County",32,59,1210
+17,203,17,031,IL,"Cook County",29,37,1062
+17,203,17,099,IL,"La Salle County",15,27,437
+17,203,17,105,IL,"Livingston County",11,21,487
+17,203,58,000,SS,"Other Flows - Same State",114,235,4327
+17,203,59,000,DS,"Other Flows - Diff State",224,427,10653
+17,203,59,001,DS,"Other Flows - Northeast",11,19,654
+17,203,59,003,DS,"Other Flows - Midwest",89,178,4982
+17,203,59,005,DS,"Other Flows - South",69,148,2962
+17,203,59,007,DS,"Other Flows - West",55,82,2054

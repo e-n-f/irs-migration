@@ -1,0 +1,809 @@
+"2005-2006 County to County Migration Inflow",,,,,,"Connecticut Inflows",,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Connecticut,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+09,000,96,000,CT,"Total Mig - US & For",67974,117566,4185052
+09,000,97,000,CT,"Total Mig - US",65512,113970,4092814
+09,000,97,001,CT,"Total Mig - US Same St",29718,49528,1527412
+09,000,97,003,CT,"Total Mig - US Diff St",35794,64442,2565402
+09,000,98,000,CT,"Total Mig - Foreign",2462,3596,92238
+09,001,96,000,CT,"Fairfield Count Tot Mig-US",14703,26182,1457736
+09,001,97,000,CT,"Fairfield Count Tot Mig-US",14079,25283,1408282
+09,001,97,001,CT,"Fairfield Count Tot Mig-Sam",3205,5100,165550
+09,001,97,003,CT,"Fairfield Count Tot Mig-Dif",10874,20183,1242732
+09,001,98,000,CT,"Fairfield Count Tot Mig-For",624,899,49454
+09,001,09,001,CT,"Fairfield Count Non-Migrant",303812,660080,35427299
+09,001,09,009,CT,"New Haven County",2158,3511,112442
+09,001,36,119,NY,"Westchester County",1704,3430,199254
+09,001,36,061,NY,"New York County",1049,1953,289527
+09,001,36,005,NY,"Bronx County",502,1196,24387
+09,001,09,005,CT,"Litchfield County",411,659,20807
+09,001,09,003,CT,"Hartford County",389,573,19798
+09,001,36,081,NY,"Queens County",366,680,23137
+09,001,36,047,NY,"Kings County",316,589,32986
+09,001,25,017,MA,"Middlesex County",204,370,18840
+09,001,36,059,NY,"Nassau County",201,367,25937
+09,001,36,079,NY,"Putnam County",188,338,14207
+09,001,34,023,NJ,"Middlesex County",169,318,10424
+09,001,06,037,CA,"Los Angeles County",163,319,17960
+09,001,36,103,NY,"Suffolk County",161,288,14116
+09,001,17,031,IL,"Cook County",149,284,25671
+09,001,34,017,NJ,"Hudson County",139,257,20548
+09,001,36,027,NY,"Dutchess County",133,210,17004
+09,001,25,025,MA,"Suffolk County",132,161,7251
+09,001,34,003,NJ,"Bergen County",123,233,28177
+09,001,12,099,FL,"Palm Beach County",109,185,8413
+09,001,12,011,FL,"Broward County",100,175,6007
+09,001,09,011,CT,"New London County",88,132,3850
+09,001,25,021,MA,"Norfolk County",84,131,7580
+09,001,09,007,CT,"Middlesex County",79,118,5153
+09,001,06,073,CA,"San Diego County",78,125,4626
+09,001,04,013,AZ,"Maricopa County",75,139,9147
+09,001,42,101,PA,"Philadelphia County",70,112,4722
+09,001,12,086,FL,"Miami Dade County",65,121,5640
+09,001,06,075,CA,"San Francisco County",63,116,9475
+09,001,36,071,NY,"Orange County",63,108,5070
+09,001,12,095,FL,"Orange County",59,106,1684
+09,001,34,013,NJ,"Essex County",59,119,6007
+09,001,36,087,NY,"Rockland County",59,99,3977
+09,001,09,013,CT,"Tolland County",57,80,2787
+09,001,13,121,GA,"Fulton County",54,119,16654
+09,001,25,027,MA,"Worcester County",54,87,3633
+09,001,25,009,MA,"Essex County",53,109,3781
+09,001,44,007,RI,"Providence County",51,68,2410
+09,001,24,031,MD,"Montgomery County",47,80,4918
+09,001,42,003,PA,"Allegheny County",47,82,5751
+09,001,34,027,NJ,"Morris County",46,96,8780
+09,001,34,039,NJ,"Union County",46,83,5807
+09,001,48,201,TX,"Harris County",45,92,4311
+09,001,48,113,TX,"Dallas County",44,92,4825
+09,001,53,033,WA,"King County",44,91,6934
+09,001,34,025,NJ,"Monmouth County",43,82,5250
+09,001,11,001,DC,"District Of Columbia",42,59,3236
+09,001,51,059,VA,"Fairfax County",42,67,8021
+09,001,06,085,CA,"Santa Clara County",41,85,6551
+09,001,37,119,NC,"Mecklenburg County",40,77,5288
+09,001,36,055,NY,"Monroe County",39,55,1751
+09,001,42,091,PA,"Montgomery County",39,69,6204
+09,001,06,059,CA,"Orange County",38,80,4906
+09,001,25,013,MA,"Hampden County",38,64,1653
+09,001,34,021,NJ,"Mercer County",37,76,4833
+09,001,10,003,DE,"New Castle County",35,66,3794
+09,001,57,005,FR,"Foreign - APO/FPO ZIPs",33,48,1164
+09,001,34,031,NJ,"Passaic County",32,59,2188
+09,001,12,071,FL,"Lee County",31,56,1961
+09,001,12,103,FL,"Pinellas County",31,43,1854
+09,001,36,001,NY,"Albany County",31,38,2464
+09,001,36,029,NY,"Erie County",31,42,1815
+09,001,06,001,CA,"Alameda County",30,69,3364
+09,001,25,023,MA,"Plymouth County",30,38,1599
+09,001,34,035,NJ,"Somerset County",30,51,6358
+09,001,36,085,NY,"Richmond County",30,49,1511
+09,001,25,001,MA,"Barnstable County",29,44,1555
+09,001,26,125,MI,"Oakland County",29,68,4319
+09,001,57,003,FR,"Foreign - Puerto Rico",29,80,359
+09,001,36,067,NY,"Onondaga County",28,38,2301
+09,001,42,029,PA,"Chester County",28,55,8028
+09,001,25,005,MA,"Bristol County",27,37,1273
+09,001,39,061,OH,"Hamilton County",27,48,10990
+09,001,12,057,FL,"Hillsborough County",26,54,3402
+09,001,39,049,OH,"Franklin County",26,47,2891
+09,001,25,015,MA,"Hampshire County",25,37,1413
+09,001,37,183,NC,"Wake County",25,49,1898
+09,001,39,035,OH,"Cuyahoga County",25,47,2388
+09,001,24,005,MD,"Baltimore County",24,42,1582
+09,001,27,053,MN,"Hennepin County",24,49,3883
+09,001,48,453,TX,"Travis County",24,58,3103
+09,001,51,013,VA,"Arlington County",24,28,1450
+09,001,32,003,NV,"Clark County",23,34,1135
+09,001,36,111,NY,"Ulster County",23,34,1628
+09,001,13,067,GA,"Cobb County",22,62,3848
+09,001,15,003,HI,"Honolulu County",22,35,1198
+09,001,17,097,IL,"Lake County",22,58,7518
+09,001,22,071,LA,"Orleans Parish",22,31,768
+09,001,04,019,AZ,"Pima County",21,35,944
+09,001,12,031,FL,"Duval County",21,31,770
+09,001,17,043,IL,"Du Page County",21,48,4185
+09,001,08,031,CO,"Denver County",20,40,2263
+09,001,12,115,FL,"Sarasota County",20,34,975
+09,001,47,157,TN,"Shelby County",20,46,3467
+09,001,06,081,CA,"San Mateo County",19,55,6283
+09,001,08,013,CO,"Boulder County",19,31,966
+09,001,12,097,FL,"Osceola County",19,44,629
+09,001,42,017,PA,"Bucks County",19,34,1918
+09,001,24,033,MD,"Prince George's Coun",18,30,898
+09,001,33,011,NH,"Hillsborough County",18,28,844
+09,001,44,009,RI,"Washington County",18,26,966
+09,001,51,107,VA,"Loudoun County",18,54,3065
+09,001,24,027,MD,"Howard County",17,33,2550
+09,001,34,029,NJ,"Ocean County",17,27,1816
+09,001,36,109,NY,"Tompkins County",17,25,773
+09,001,37,133,NC,"Onslow County",17,26,310
+09,001,42,045,PA,"Delaware County",17,36,2918
+09,001,48,439,TX,"Tarrant County",17,33,1991
+09,001,12,101,FL,"Pasco County",16,25,907
+09,001,12,117,FL,"Seminole County",16,21,327
+09,001,13,089,GA,"De Kalb County",16,25,841
+09,001,20,091,KS,"Johnson County",16,35,1758
+09,001,24,510,MD,Baltimore,16,23,747
+09,001,25,003,MA,"Berkshire County",16,24,1137
+09,001,45,079,SC,"Richland County",16,34,757
+09,001,50,007,VT,"Chittenden County",16,24,1066
+09,001,06,013,CA,"Contra Costa County",15,37,2042
+09,001,08,041,CO,"El Paso County",15,20,875
+09,001,12,009,FL,"Brevard County",15,24,524
+09,001,12,111,FL,"St Lucie County",15,22,671
+09,001,13,135,GA,"Gwinnett County",15,38,1136
+09,001,29,189,MO,"St Louis County",15,30,1296
+09,001,33,015,NH,"Rockingham County",15,29,1348
+09,001,44,003,RI,"Kent County",15,25,819
+09,001,48,085,TX,"Collin County",15,41,3975
+09,001,51,510,VA,Alexandria,15,23,1838
+09,001,12,085,FL,"Martin County",14,25,1920
+09,001,12,127,FL,"Volusia County",14,15,542
+09,001,36,093,NY,"Schenectady County",14,20,1310
+09,001,12,081,FL,"Manatee County",13,21,820
+09,001,37,063,NC,"Durham County",13,25,971
+09,001,45,019,SC,"Charleston County",13,19,489
+09,001,49,035,UT,"Salt Lake County",13,26,543
+09,001,18,097,IN,"Marion County",12,22,558
+09,001,22,051,LA,"Jefferson Parish",12,26,393
+09,001,23,005,ME,"Cumberland County",12,15,504
+09,001,24,003,MD,"Anne Arundel County",12,14,489
+09,001,26,099,MI,"Macomb County",12,17,496
+09,001,26,161,MI,"Washtenaw County",12,20,1087
+09,001,36,007,NY,"Broome County",12,12,244
+09,001,36,105,NY,"Sullivan County",12,15,1006
+09,001,55,079,WI,"Milwaukee County",12,18,1860
+09,001,08,059,CO,"Jefferson County",11,22,1104
+09,001,29,095,MO,"Jackson County",11,13,1270
+09,001,44,005,RI,"Newport County",11,18,742
+09,001,26,077,MI,"Kalamazoo County",10,15,907
+09,001,36,083,NY,"Rensselaer County",10,13,362
+09,001,36,091,NY,"Saratoga County",10,11,557
+09,001,45,013,SC,"Beaufort County",10,15,622
+09,001,51,700,VA,"Newport News",10,15,296
+09,001,51,710,VA,Norfolk,10,14,258
+09,001,58,000,SS,"Other Flows - Same State",23,27,713
+09,001,59,000,DS,"Other Flows - Diff State",1579,2813,112041
+09,001,59,001,DS,"Other Flows - Northeast",382,594,20613
+09,001,59,003,DS,"Other Flows - Midwest",318,601,28983
+09,001,59,005,DS,"Other Flows - South",638,1179,45325
+09,001,59,007,DS,"Other Flows - West",241,439,17120
+09,001,57,009,FR,"Foreign - Other flows",562,771,47930
+09,003,96,000,CT,"Hartford County Tot Mig-US",14896,25407,816286
+09,003,97,000,CT,"Hartford County Tot Mig-US",14514,24778,803162
+09,003,97,001,CT,"Hartford County Tot Mig-Sam",6683,10886,345320
+09,003,97,003,CT,"Hartford County Tot Mig-Dif",7831,13892,457843
+09,003,98,000,CT,"Hartford County Tot Mig-For",382,629,13124
+09,003,09,003,CT,"Hartford County Non-Migrant",327713,684253,22492907
+09,003,09,009,CT,"New Haven County",1978,3355,97146
+09,003,09,013,CT,"Tolland County",1666,2630,81428
+09,003,09,007,CT,"Middlesex County",1164,1906,63753
+09,003,09,005,CT,"Litchfield County",761,1202,34426
+09,003,25,013,MA,"Hampden County",664,1076,31266
+09,003,09,001,CT,"Fairfield County",487,866,39013
+09,003,09,011,CT,"New London County",415,609,18712
+09,003,25,017,MA,"Middlesex County",245,405,14893
+09,003,36,081,NY,"Queens County",171,343,5426
+09,003,36,047,NY,"Kings County",168,345,6315
+09,003,25,025,MA,"Suffolk County",153,205,7317
+09,003,36,061,NY,"New York County",142,226,9393
+09,003,36,005,NY,"Bronx County",135,289,3724
+09,003,25,027,MA,"Worcester County",133,235,6724
+09,003,34,023,NJ,"Middlesex County",103,203,5674
+09,003,25,021,MA,"Norfolk County",100,162,6749
+09,003,12,011,FL,"Broward County",97,169,3632
+09,003,36,103,NY,"Suffolk County",94,188,5675
+09,003,36,119,NY,"Westchester County",93,163,6709
+09,003,44,007,RI,"Providence County",91,155,4206
+09,003,25,015,MA,"Hampshire County",85,133,3505
+09,003,06,037,CA,"Los Angeles County",84,141,6571
+09,003,12,099,FL,"Palm Beach County",82,152,5297
+09,003,17,031,IL,"Cook County",72,114,4983
+09,003,12,095,FL,"Orange County",69,133,1960
+09,003,36,059,NY,"Nassau County",63,100,3614
+09,003,04,013,AZ,"Maricopa County",62,115,3545
+09,003,06,073,CA,"San Diego County",60,104,4561
+09,003,36,055,NY,"Monroe County",57,94,2472
+09,003,25,009,MA,"Essex County",56,97,3930
+09,003,34,003,NJ,"Bergen County",56,93,4514
+09,003,57,005,FR,"Foreign - APO/FPO ZIPs",55,98,2016
+09,003,42,101,PA,"Philadelphia County",53,78,3515
+09,003,57,003,FR,"Foreign - Puerto Rico",53,158,599
+09,003,42,091,PA,"Montgomery County",50,111,4507
+09,003,25,001,MA,"Barnstable County",48,70,2157
+09,003,34,017,NJ,"Hudson County",48,91,2004
+09,003,12,103,FL,"Pinellas County",47,77,1302
+09,003,25,005,MA,"Bristol County",47,84,2550
+09,003,33,011,NH,"Hillsborough County",47,73,2541
+09,003,24,031,MD,"Montgomery County",46,104,6284
+09,003,51,059,VA,"Fairfax County",42,83,3099
+09,003,12,057,FL,"Hillsborough County",41,74,1388
+09,003,25,023,MA,"Plymouth County",40,66,2080
+09,003,36,067,NY,"Onondaga County",40,73,2971
+09,003,53,033,WA,"King County",40,69,2562
+09,003,12,086,FL,"Miami Dade County",39,75,1379
+09,003,34,013,NJ,"Essex County",38,77,2721
+09,003,36,027,NY,"Dutchess County",36,55,1632
+09,003,33,005,NH,"Cheshire County",34,59,1845
+09,003,11,001,DC,"District Of Columbia",33,44,3013
+09,003,12,127,FL,"Volusia County",33,56,836
+09,003,34,027,NJ,"Morris County",33,62,3420
+09,003,37,119,NC,"Mecklenburg County",33,54,2711
+09,003,26,125,MI,"Oakland County",32,59,2646
+09,003,13,121,GA,"Fulton County",31,56,3477
+09,003,23,005,ME,"Cumberland County",31,53,1046
+09,003,25,003,MA,"Berkshire County",31,49,1623
+09,003,27,053,MN,"Hennepin County",31,52,2579
+09,003,32,003,NV,"Clark County",31,60,2618
+09,003,34,039,NJ,"Union County",31,60,1600
+09,003,06,059,CA,"Orange County",30,53,3504
+09,003,42,003,PA,"Allegheny County",30,49,1660
+09,003,36,029,NY,"Erie County",29,46,1234
+09,003,42,029,PA,"Chester County",29,50,2012
+09,003,48,439,TX,"Tarrant County",29,40,1297
+09,003,13,067,GA,"Cobb County",28,53,2623
+09,003,24,005,MD,"Baltimore County",28,49,1577
+09,003,33,015,NH,"Rockingham County",28,43,3826
+09,003,44,003,RI,"Kent County",28,36,1246
+09,003,22,071,LA,"Orleans Parish",27,41,999
+09,003,36,071,NY,"Orange County",27,51,1049
+09,003,48,201,TX,"Harris County",27,53,2553
+09,003,50,007,VT,"Chittenden County",27,34,940
+09,003,12,031,FL,"Duval County",26,45,759
+09,003,34,035,NJ,"Somerset County",26,60,2458
+09,003,39,049,OH,"Franklin County",25,52,2477
+09,003,08,031,CO,"Denver County",24,35,1680
+09,003,12,071,FL,"Lee County",24,32,875
+09,003,23,031,ME,"York County",24,56,1530
+09,003,44,009,RI,"Washington County",24,38,1141
+09,003,10,003,DE,"New Castle County",23,36,1002
+09,003,13,089,GA,"De Kalb County",23,48,822
+09,003,34,025,NJ,"Monmouth County",23,48,2513
+09,003,48,113,TX,"Dallas County",23,34,1198
+09,003,33,013,NH,"Merrimack County",22,35,580
+09,003,06,065,CA,"Riverside County",21,49,1668
+09,003,17,043,IL,"Du Page County",21,34,2317
+09,003,29,189,MO,"St Louis County",21,52,1486
+09,003,36,001,NY,"Albany County",21,39,2212
+09,003,42,017,PA,"Bucks County",21,42,21598
+09,003,06,001,CA,"Alameda County",20,31,1179
+09,003,06,085,CA,"Santa Clara County",20,43,1189
+09,003,24,510,MD,Baltimore,20,35,1455
+09,003,34,031,NJ,"Passaic County",20,43,661
+09,003,12,097,FL,"Osceola County",19,29,421
+09,003,12,111,FL,"St Lucie County",19,43,330
+09,003,12,117,FL,"Seminole County",19,40,1776
+09,003,39,061,OH,"Hamilton County",19,29,692
+09,003,55,079,WI,"Milwaukee County",19,28,897
+09,003,12,021,FL,"Collier County",18,33,871
+09,003,12,101,FL,"Pasco County",18,36,1153
+09,003,36,091,NY,"Saratoga County",18,23,741
+09,003,39,035,OH,"Cuyahoga County",18,37,1402
+09,003,48,029,TX,"Bexar County",18,33,1026
+09,003,08,005,CO,"Arapahoe County",17,25,763
+09,003,12,115,FL,"Sarasota County",17,27,516
+09,003,25,011,MA,"Franklin County",17,36,644
+09,003,34,007,NJ,"Camden County",17,26,677
+09,003,37,183,NC,"Wake County",17,33,758
+09,003,04,019,AZ,"Pima County",16,28,579
+09,003,12,009,FL,"Brevard County",16,29,547
+09,003,12,085,FL,"Martin County",16,21,1025
+09,003,20,091,KS,"Johnson County",16,32,1451
+09,003,36,087,NY,"Rockland County",16,31,363
+09,003,42,077,PA,"Lehigh County",16,34,992
+09,003,48,453,TX,"Travis County",16,25,1227
+09,003,50,023,VT,"Washington County",16,22,641
+09,003,51,013,VA,"Arlington County",16,20,676
+09,003,51,087,VA,"Henrico County",16,39,2013
+09,003,51,107,VA,"Loudoun County",16,50,2505
+09,003,51,510,VA,Alexandria,16,23,1146
+09,003,12,105,FL,"Polk County",15,30,297
+09,003,13,135,GA,"Gwinnett County",15,36,550
+09,003,23,003,ME,"Aroostook County",15,19,458
+09,003,37,133,NC,"Onslow County",15,30,323
+09,003,44,005,RI,"Newport County",15,21,907
+09,003,12,083,FL,"Marion County",14,27,478
+09,003,36,045,NY,"Jefferson County",14,23,433
+09,003,37,051,NC,"Cumberland County",14,28,374
+09,003,51,710,VA,Norfolk,14,22,400
+09,003,12,073,FL,"Leon County",13,21,446
+09,003,24,003,MD,"Anne Arundel County",13,25,2193
+09,003,24,033,MD,"Prince George's Coun",13,22,800
+09,003,36,083,NY,"Rensselaer County",13,21,644
+09,003,37,081,NC,"Guilford County",13,28,1367
+09,003,45,051,SC,"Horry County",13,20,495
+09,003,47,037,TN,"Davidson County",13,20,1066
+09,003,51,810,VA,"Virginia Beach",13,25,519
+09,003,17,097,IL,"Lake County",12,39,2260
+09,003,18,097,IN,"Marion County",12,27,769
+09,003,26,163,MI,"Wayne County",12,17,299
+09,003,33,017,NH,"Strafford County",12,22,1699
+09,003,34,005,NJ,"Burlington County",12,30,598
+09,003,34,021,NJ,"Mercer County",12,22,713
+09,003,42,045,PA,"Delaware County",12,19,473
+09,003,42,071,PA,"Lancaster County",12,27,580
+09,003,06,013,CA,"Contra Costa County",11,18,617
+09,003,06,075,CA,"San Francisco County",11,18,339
+09,003,08,041,CO,"El Paso County",11,14,794
+09,003,08,059,CO,"Jefferson County",11,20,733
+09,003,15,003,HI,"Honolulu County",11,20,356
+09,003,21,111,KY,"Jefferson County",11,22,875
+09,003,23,019,ME,"Penobscot County",11,14,326
+09,003,24,027,MD,"Howard County",11,17,1320
+09,003,34,029,NJ,"Ocean County",11,21,609
+09,003,36,065,NY,"Oneida County",11,16,425
+09,003,36,085,NY,"Richmond County",11,24,829
+09,003,36,109,NY,"Tompkins County",11,14,560
+09,003,48,085,TX,"Collin County",11,24,825
+09,003,48,121,TX,"Denton County",11,19,813
+09,003,50,025,VT,"Windham County",11,19,513
+09,003,06,067,CA,"Sacramento County",10,20,323
+09,003,12,015,FL,"Charlotte County",10,16,382
+09,003,13,051,GA,"Chatham County",10,20,452
+09,003,18,157,IN,"Tippecanoe County",10,20,750
+09,003,23,011,ME,"Kennebec County",10,12,422
+09,003,45,079,SC,"Richland County",10,22,346
+09,003,49,035,UT,"Salt Lake County",10,21,544
+09,003,49,049,UT,"Utah County",10,26,227
+09,003,55,025,WI,"Dane County",10,26,583
+09,003,58,000,SS,"Other Flows - Same State",212,318,10842
+09,003,59,000,DS,"Other Flows - Diff State",1723,3127,90828
+09,003,59,001,DS,"Other Flows - Northeast",382,625,15239
+09,003,59,003,DS,"Other Flows - Midwest",415,816,29442
+09,003,59,005,DS,"Other Flows - South",679,1273,32985
+09,003,59,007,DS,"Other Flows - West",247,413,13161
+09,003,57,009,FR,"Foreign - Other flows",274,373,10508
+09,005,96,000,CT,"Litchfield Coun Tot Mig-US",4126,7515,244715
+09,005,97,000,CT,"Litchfield Coun Tot Mig-US",4103,7471,244249
+09,005,97,001,CT,"Litchfield Coun Tot Mig-Sam",2649,4756,143826
+09,005,97,003,CT,"Litchfield Coun Tot Mig-Dif",1454,2715,100422
+09,005,98,000,CT,"Litchfield Coun Tot Mig-For",23,44,467
+09,005,09,005,CT,"Litchfield Coun Non-Migrant",70592,151658,4874104
+09,005,09,009,CT,"New Haven County",1046,1970,54412
+09,005,09,001,CT,"Fairfield County",794,1509,50230
+09,005,09,003,CT,"Hartford County",687,1099,33668
+09,005,36,119,NY,"Westchester County",103,221,10881
+09,005,36,027,NY,"Dutchess County",78,140,4584
+09,005,36,061,NY,"New York County",68,114,17047
+09,005,09,007,CT,"Middlesex County",50,74,2594
+09,005,25,003,MA,"Berkshire County",38,61,1348
+09,005,09,013,CT,"Tolland County",34,48,1446
+09,005,36,079,NY,"Putnam County",31,64,1986
+09,005,36,081,NY,"Queens County",28,63,1043
+09,005,36,103,NY,"Suffolk County",26,58,1578
+09,005,12,011,FL,"Broward County",25,47,1358
+09,005,09,011,CT,"New London County",23,36,967
+09,005,25,013,MA,"Hampden County",23,32,1240
+09,005,36,005,NY,"Bronx County",21,58,978
+09,005,25,021,MA,"Norfolk County",18,23,803
+09,005,25,025,MA,"Suffolk County",18,20,658
+09,005,36,047,NY,"Kings County",18,31,1242
+09,005,25,017,MA,"Middlesex County",16,27,859
+09,005,36,059,NY,"Nassau County",15,34,767
+09,005,04,013,AZ,"Maricopa County",14,25,367
+09,005,44,007,RI,"Providence County",14,22,470
+09,005,57,001,FR,"Foreign - Overseas",13,21,242
+09,005,12,103,FL,"Pinellas County",12,17,408
+09,005,06,037,CA,"Los Angeles County",11,19,622
+09,005,06,073,CA,"San Diego County",11,19,1889
+09,005,12,099,FL,"Palm Beach County",11,15,316
+09,005,34,003,NJ,"Bergen County",11,20,935
+09,005,34,031,NJ,"Passaic County",10,23,540
+09,005,36,021,NY,"Columbia County",10,20,360
+09,005,58,000,SS,"Other Flows - Same State",15,20,510
+09,005,59,000,DS,"Other Flows - Diff State",824,1542,48142
+09,005,59,001,DS,"Other Flows - Northeast",305,534,17186
+09,005,59,003,DS,"Other Flows - Midwest",118,255,6698
+09,005,59,005,DS,"Other Flows - South",299,564,17567
+09,005,59,007,DS,"Other Flows - West",102,189,6690
+09,005,57,009,FR,"Foreign - Other flows",10,23,224
+09,007,96,000,CT,"Middlesex Count Tot Mig-US",4834,7907,286630
+09,007,97,000,CT,"Middlesex Count Tot Mig-US",4722,7771,285241
+09,007,97,001,CT,"Middlesex Count Tot Mig-Sam",3327,5411,198926
+09,007,97,003,CT,"Middlesex Count Tot Mig-Dif",1395,2360,86315
+09,007,98,000,CT,"Middlesex Count Tot Mig-For",112,136,1389
+09,007,09,007,CT,"Middlesex Count Non-Migrant",60659,127870,4469207
+09,007,09,003,CT,"Hartford County",1354,2116,77767
+09,007,09,009,CT,"New Haven County",1209,2104,71634
+09,007,09,011,CT,"New London County",364,559,18934
+09,007,09,001,CT,"Fairfield County",172,271,19723
+09,007,09,013,CT,"Tolland County",131,193,7120
+09,007,09,005,CT,"Litchfield County",52,91,2218
+09,007,25,027,MA,"Worcester County",39,66,1767
+09,007,25,017,MA,"Middlesex County",35,65,2503
+09,007,36,119,NY,"Westchester County",30,55,5486
+09,007,25,013,MA,"Hampden County",29,39,1265
+09,007,12,099,FL,"Palm Beach County",28,54,1774
+09,007,36,061,NY,"New York County",27,47,2690
+09,007,25,025,MA,"Suffolk County",26,32,920
+09,007,44,007,RI,"Providence County",25,40,1374
+09,007,36,047,NY,"Kings County",23,43,758
+09,007,36,081,NY,"Queens County",22,44,1151
+09,007,06,073,CA,"San Diego County",19,28,718
+09,007,12,011,FL,"Broward County",18,29,620
+09,007,06,037,CA,"Los Angeles County",17,25,741
+09,007,36,103,NY,"Suffolk County",16,23,3055
+09,007,44,009,RI,"Washington County",16,28,939
+09,007,42,091,PA,"Montgomery County",15,28,1166
+09,007,34,023,NJ,"Middlesex County",14,22,1522
+09,007,25,015,MA,"Hampshire County",13,24,1106
+09,007,25,021,MA,"Norfolk County",13,19,733
+09,007,04,013,AZ,"Maricopa County",12,23,601
+09,007,34,027,NJ,"Morris County",11,20,769
+09,007,36,005,NY,"Bronx County",11,25,397
+09,007,06,059,CA,"Orange County",10,19,899
+09,007,24,031,MD,"Montgomery County",10,18,612
+09,007,34,017,NJ,"Hudson County",10,15,524
+09,007,36,059,NY,"Nassau County",10,28,753
+09,007,50,027,VT,"Windsor County",10,13,371
+09,007,57,005,FR,"Foreign - APO/FPO ZIPs",10,15,285
+09,007,58,000,SS,"Other Flows - Same State",45,77,1530
+09,007,59,000,DS,"Other Flows - Diff State",886,1488,51101
+09,007,59,001,DS,"Other Flows - Northeast",304,457,16220
+09,007,59,003,DS,"Other Flows - Midwest",137,239,11471
+09,007,59,005,DS,"Other Flows - South",330,559,16782
+09,007,59,007,DS,"Other Flows - West",115,233,6628
+09,007,57,009,FR,"Foreign - Other flows",102,121,1104
+09,009,96,000,CT,"New Haven Count Tot Mig-US",15606,26407,735161
+09,009,97,000,CT,"New Haven Count Tot Mig-US",14804,25353,719917
+09,009,97,001,CT,"New Haven Count Tot Mig-Sam",7582,12940,378181
+09,009,97,003,CT,"New Haven Count Tot Mig-Dif",7222,12413,341735
+09,009,98,000,CT,"New Haven Count Tot Mig-For",802,1054,15245
+09,009,09,009,CT,"New Haven Count Non-Migrant",305208,639162,19469422
+09,009,09,001,CT,"Fairfield County",4168,7615,224194
+09,009,09,003,CT,"Hartford County",1383,2181,64329
+09,009,09,007,CT,"Middlesex County",803,1270,37972
+09,009,09,005,CT,"Litchfield County",801,1255,32998
+09,009,36,005,NY,"Bronx County",287,668,10674
+09,009,36,061,NY,"New York County",276,397,19551
+09,009,36,119,NY,"Westchester County",269,590,17201
+09,009,36,047,NY,"Kings County",253,541,10070
+09,009,09,011,CT,"New London County",251,369,12272
+09,009,36,081,NY,"Queens County",209,425,8941
+09,009,25,017,MA,"Middlesex County",169,239,9145
+09,009,36,103,NY,"Suffolk County",131,202,5614
+09,009,09,013,CT,"Tolland County",123,179,4933
+09,009,25,025,MA,"Suffolk County",112,144,5002
+09,009,06,037,CA,"Los Angeles County",104,163,4845
+09,009,36,059,NY,"Nassau County",102,192,6301
+09,009,17,031,IL,"Cook County",93,133,3894
+09,009,25,027,MA,"Worcester County",79,122,3162
+09,009,12,099,FL,"Palm Beach County",77,117,3548
+09,009,25,013,MA,"Hampden County",72,116,2570
+09,009,34,023,NJ,"Middlesex County",71,144,4124
+09,009,12,011,FL,"Broward County",68,111,2803
+09,009,44,007,RI,"Providence County",65,102,3189
+09,009,57,003,FR,"Foreign - Puerto Rico",62,187,769
+09,009,34,003,NJ,"Bergen County",60,112,3914
+09,009,25,021,MA,"Norfolk County",59,85,3943
+09,009,42,101,PA,"Philadelphia County",59,82,2667
+09,009,06,073,CA,"San Diego County",58,82,3387
+09,009,11,001,DC,"District Of Columbia",56,68,1821
+09,009,06,075,CA,"San Francisco County",52,64,2279
+09,009,12,103,FL,"Pinellas County",52,75,1770
+09,009,12,086,FL,"Miami Dade County",51,76,1850
+09,009,25,009,MA,"Essex County",50,90,2666
+09,009,12,095,FL,"Orange County",45,85,1234
+09,009,34,017,NJ,"Hudson County",45,98,2038
+09,009,36,027,NY,"Dutchess County",44,72,1868
+09,009,42,003,PA,"Allegheny County",44,62,1999
+09,009,24,031,MD,"Montgomery County",43,76,2423
+09,009,53,033,WA,"King County",43,74,3260
+09,009,12,057,FL,"Hillsborough County",40,77,1414
+09,009,34,013,NJ,"Essex County",39,68,2070
+09,009,34,031,NJ,"Passaic County",39,77,1599
+09,009,36,055,NY,"Monroe County",37,67,1680
+09,009,48,201,TX,"Harris County",37,57,1589
+09,009,06,001,CA,"Alameda County",36,48,1555
+09,009,06,059,CA,"Orange County",36,64,3399
+09,009,57,005,FR,"Foreign - APO/FPO ZIPs",36,64,1014
+09,009,04,013,AZ,"Maricopa County",34,54,2160
+09,009,24,005,MD,"Baltimore County",33,47,1720
+09,009,48,113,TX,"Dallas County",32,58,2739
+09,009,06,085,CA,"Santa Clara County",31,57,2235
+09,009,36,087,NY,"Rockland County",31,65,1984
+09,009,34,027,NJ,"Morris County",30,55,2037
+09,009,36,071,NY,"Orange County",30,57,1235
+09,009,51,059,VA,"Fairfax County",30,48,2004
+09,009,36,079,NY,"Putnam County",29,47,1252
+09,009,23,005,ME,"Cumberland County",28,42,1088
+09,009,25,015,MA,"Hampshire County",28,45,1267
+09,009,34,039,NJ,"Union County",28,65,1825
+09,009,42,091,PA,"Montgomery County",28,49,2233
+09,009,25,005,MA,"Bristol County",27,41,1146
+09,009,12,115,FL,"Sarasota County",26,53,1160
+09,009,13,121,GA,"Fulton County",26,46,1337
+09,009,42,029,PA,"Chester County",26,34,1433
+09,009,34,021,NJ,"Mercer County",25,36,1118
+09,009,36,001,NY,"Albany County",25,41,1263
+09,009,36,029,NY,"Erie County",25,47,895
+09,009,44,003,RI,"Kent County",25,32,921
+09,009,12,097,FL,"Osceola County",24,48,646
+09,009,13,089,GA,"De Kalb County",24,45,1351
+09,009,25,001,MA,"Barnstable County",24,35,637
+09,009,26,163,MI,"Wayne County",24,36,1279
+09,009,33,011,NH,"Hillsborough County",24,34,759
+09,009,37,119,NC,"Mecklenburg County",24,41,959
+09,009,39,035,OH,"Cuyahoga County",24,49,1321
+09,009,12,071,FL,"Lee County",23,36,906
+09,009,15,003,HI,"Honolulu County",23,35,704
+09,009,34,025,NJ,"Monmouth County",23,42,1174
+09,009,36,067,NY,"Onondaga County",23,38,997
+09,009,12,127,FL,"Volusia County",22,43,597
+09,009,22,071,LA,"Orleans Parish",22,39,874
+09,009,32,003,NV,"Clark County",22,36,761
+09,009,34,035,NJ,"Somerset County",22,44,2217
+09,009,50,007,VT,"Chittenden County",22,37,881
+09,009,51,013,VA,"Arlington County",22,27,1126
+09,009,24,510,MD,Baltimore,21,32,551
+09,009,33,005,NH,"Cheshire County",21,27,518
+09,009,37,063,NC,"Durham County",21,33,816
+09,009,12,117,FL,"Seminole County",20,37,496
+09,009,13,135,GA,"Gwinnett County",20,39,1570
+09,009,27,053,MN,"Hennepin County",20,27,765
+09,009,33,015,NH,"Rockingham County",20,35,1089
+09,009,12,031,FL,"Duval County",19,37,615
+09,009,12,111,FL,"St Lucie County",19,31,571
+09,009,36,109,NY,"Tompkins County",19,27,714
+09,009,41,051,OR,"Multnomah County",19,19,582
+09,009,42,045,PA,"Delaware County",19,26,876
+09,009,12,105,FL,"Polk County",18,33,278
+09,009,25,003,MA,"Berkshire County",18,22,521
+09,009,36,065,NY,"Oneida County",18,27,596
+09,009,39,049,OH,"Franklin County",18,30,559
+09,009,06,013,CA,"Contra Costa County",17,32,1051
+09,009,10,003,DE,"New Castle County",17,27,1299
+09,009,24,003,MD,"Anne Arundel County",17,28,766
+09,009,25,023,MA,"Plymouth County",17,26,1531
+09,009,26,161,MI,"Washtenaw County",17,37,1663
+09,009,08,013,CO,"Boulder County",16,22,1112
+09,009,12,009,FL,"Brevard County",16,22,329
+09,009,12,083,FL,"Marion County",16,30,327
+09,009,12,085,FL,"Martin County",16,24,616
+09,009,24,033,MD,"Prince George's Coun",16,34,691
+09,009,34,007,NJ,"Camden County",16,29,762
+09,009,37,135,NC,"Orange County",16,28,1006
+09,009,37,183,NC,"Wake County",16,29,1295
+09,009,48,453,TX,"Travis County",16,20,610
+09,009,50,025,VT,"Windham County",16,21,532
+09,009,51,810,VA,"Virginia Beach",16,30,411
+09,009,06,081,CA,"San Mateo County",15,24,1575
+09,009,26,125,MI,"Oakland County",15,22,534
+09,009,39,061,OH,"Hamilton County",15,22,716
+09,009,42,077,PA,"Lehigh County",15,35,666
+09,009,44,009,RI,"Washington County",15,22,530
+09,009,49,049,UT,"Utah County",15,42,384
+09,009,12,015,FL,"Charlotte County",14,21,393
+09,009,13,067,GA,"Cobb County",14,23,468
+09,009,23,031,ME,"York County",14,23,479
+09,009,47,037,TN,"Davidson County",14,24,539
+09,009,12,021,FL,"Collier County",13,19,1109
+09,009,12,109,FL,"St Johns County",13,25,551
+09,009,17,097,IL,"Lake County",13,35,2117
+09,009,18,097,IN,"Marion County",13,22,452
+09,009,37,133,NC,"Onslow County",13,25,421
+09,009,48,029,TX,"Bexar County",13,22,599
+09,009,48,439,TX,"Tarrant County",13,25,880
+09,009,49,035,UT,"Salt Lake County",13,27,599
+09,009,51,710,VA,Norfolk,13,29,499
+09,009,04,019,AZ,"Pima County",12,21,330
+09,009,06,065,CA,"Riverside County",12,17,646
+09,009,08,005,CO,"Arapahoe County",12,27,1005
+09,009,12,069,FL,"Lake County",12,25,289
+09,009,12,101,FL,"Pasco County",12,21,321
+09,009,22,051,LA,"Jefferson Parish",12,21,368
+09,009,34,029,NJ,"Ocean County",12,14,560
+09,009,36,091,NY,"Saratoga County",12,18,349
+09,009,42,071,PA,"Lancaster County",12,18,356
+09,009,51,087,VA,"Henrico County",12,16,586
+09,009,51,510,VA,Alexandria,12,15,855
+09,009,06,071,CA,"San Bernardino Count",11,14,441
+09,009,08,059,CO,"Jefferson County",11,11,310
+09,009,12,035,FL,"Flagler County",11,18,379
+09,009,12,081,FL,"Manatee County",11,23,279
+09,009,27,123,MN,"Ramsey County",11,15,178
+09,009,29,189,MO,"St Louis County",11,19,573
+09,009,34,005,NJ,"Burlington County",11,18,687
+09,009,36,007,NY,"Broome County",11,15,832
+09,009,42,017,PA,"Bucks County",11,16,746
+09,009,44,005,RI,"Newport County",11,17,424
+09,009,45,051,SC,"Horry County",11,17,232
+09,009,47,093,TN,"Knox County",11,15,459
+09,009,55,025,WI,"Dane County",11,18,285
+09,009,06,067,CA,"Sacramento County",10,13,298
+09,009,13,051,GA,"Chatham County",10,15,530
+09,009,17,043,IL,"Du Page County",10,21,589
+09,009,29,095,MO,"Jackson County",10,14,730
+09,009,36,083,NY,"Rensselaer County",10,19,358
+09,009,37,051,NC,"Cumberland County",10,14,276
+09,009,37,081,NC,"Guilford County",10,17,349
+09,009,37,147,NC,"Pitt County",10,22,124
+09,009,45,019,SC,"Charleston County",10,16,399
+09,009,50,027,VT,"Windsor County",10,13,254
+09,009,58,000,SS,"Other Flows - Same State",53,71,1482
+09,009,59,000,DS,"Other Flows - Diff State",1562,2663,66418
+09,009,59,001,DS,"Other Flows - Northeast",412,625,14280
+09,009,59,003,DS,"Other Flows - Midwest",311,560,16637
+09,009,59,005,DS,"Other Flows - South",623,1124,22602
+09,009,59,007,DS,"Other Flows - West",216,354,12899
+09,009,57,009,FR,"Foreign - Other flows",704,803,13462
+09,011,96,000,CT,"New London Coun Tot Mig-US",6635,11774,314538
+09,011,97,000,CT,"New London Coun Tot Mig-US",6324,11214,304276
+09,011,97,001,CT,"New London Coun Tot Mig-Sam",2067,3405,106469
+09,011,97,003,CT,"New London Coun Tot Mig-Dif",4257,7809,197807
+09,011,98,000,CT,"New London Coun Tot Mig-For",311,560,10263
+09,011,09,011,CT,"New London Coun Non-Migrant",100999,210355,6336099
+09,011,09,015,CT,"Windham County",591,967,20347
+09,011,09,003,CT,"Hartford County",471,783,27609
+09,011,09,007,CT,"Middlesex County",414,671,21797
+09,011,44,009,RI,"Washington County",339,624,16637
+09,011,09,009,CT,"New Haven County",254,426,15304
+09,011,57,005,FR,"Foreign - APO/FPO ZIPs",197,373,7217
+09,011,09,013,CT,"Tolland County",181,300,8980
+09,011,36,047,NY,"Kings County",153,292,5646
+09,011,09,001,CT,"Fairfield County",124,203,11119
+09,011,36,081,NY,"Queens County",100,181,3515
+09,011,45,015,SC,"Berkeley County",94,183,3153
+09,011,44,007,RI,"Providence County",88,149,4001
+09,011,36,061,NY,"New York County",83,145,5741
+09,011,06,073,CA,"San Diego County",76,162,5238
+09,011,15,003,HI,"Honolulu County",68,194,3215
+09,011,36,091,NY,"Saratoga County",62,91,2706
+09,011,53,035,WA,"Kitsap County",60,154,3164
+09,011,44,003,RI,"Kent County",59,110,3232
+09,011,25,017,MA,"Middlesex County",58,97,7109
+09,011,13,039,GA,"Camden County",49,144,2427
+09,011,25,013,MA,"Hampden County",48,76,2329
+09,011,25,027,MA,"Worcester County",48,64,1713
+09,011,23,031,ME,"York County",46,136,1888
+09,011,36,005,NY,"Bronx County",43,91,1094
+09,011,36,103,NY,"Suffolk County",42,63,1768
+09,011,51,810,VA,"Virginia Beach",42,105,1918
+09,011,25,005,MA,"Bristol County",36,60,1367
+09,011,36,119,NY,"Westchester County",34,65,2787
+09,011,45,019,SC,"Charleston County",33,48,1593
+09,011,25,025,MA,"Suffolk County",31,41,1011
+09,011,06,037,CA,"Los Angeles County",30,47,1416
+09,011,12,103,FL,"Pinellas County",30,42,822
+09,011,44,005,RI,"Newport County",29,38,1163
+09,011,26,077,MI,"Kalamazoo County",28,77,3979
+09,011,51,710,VA,Norfolk,28,52,981
+09,011,12,086,FL,"Miami Dade County",26,51,785
+09,011,33,015,NH,"Rockingham County",26,36,1127
+09,011,25,021,MA,"Norfolk County",25,38,2863
+09,011,48,201,TX,"Harris County",25,39,864
+09,011,25,009,MA,"Essex County",23,40,879
+09,011,25,023,MA,"Plymouth County",23,53,1087
+09,011,36,059,NY,"Nassau County",22,37,1092
+09,011,25,001,MA,"Barnstable County",21,37,1034
+09,011,32,003,NV,"Clark County",21,36,833
+09,011,51,059,VA,"Fairfax County",21,41,1313
+09,011,12,011,FL,"Broward County",20,33,635
+09,011,12,099,FL,"Palm Beach County",20,32,550
+09,011,33,011,NH,"Hillsborough County",20,38,1116
+09,011,50,007,VT,"Chittenden County",20,29,727
+09,011,12,071,FL,"Lee County",19,46,958
+09,011,23,005,ME,"Cumberland County",18,32,885
+09,011,12,031,FL,"Duval County",17,37,553
+09,011,23,019,ME,"Penobscot County",17,27,547
+09,011,24,003,MD,"Anne Arundel County",17,34,1078
+09,011,24,005,MD,"Baltimore County",17,27,1082
+09,011,04,013,AZ,"Maricopa County",16,21,978
+09,011,12,057,FL,"Hillsborough County",16,27,666
+09,011,12,095,FL,"Orange County",16,32,368
+09,011,37,133,NC,"Onslow County",16,36,384
+09,011,51,550,VA,Chesapeake,16,43,1023
+09,011,06,053,CA,"Monterey County",15,51,1085
+09,011,12,009,FL,"Brevard County",15,24,298
+09,011,34,025,NJ,"Monmouth County",15,31,513
+09,011,12,111,FL,"St Lucie County",14,23,524
+09,011,12,127,FL,"Volusia County",14,24,445
+09,011,24,031,MD,"Montgomery County",14,32,812
+09,011,33,017,NH,"Strafford County",14,27,656
+09,011,34,023,NJ,"Middlesex County",14,22,797
+09,011,34,027,NJ,"Morris County",14,19,963
+09,011,48,439,TX,"Tarrant County",14,28,605
+09,011,51,700,VA,"Newport News",14,37,711
+09,011,12,105,FL,"Polk County",12,24,312
+09,011,17,031,IL,"Cook County",12,17,301
+09,011,34,001,NJ,"Atlantic County",12,23,728
+09,011,34,003,NJ,"Bergen County",12,14,257
+09,011,34,017,NJ,"Hudson County",12,25,347
+09,011,34,031,NJ,"Passaic County",12,21,310
+09,011,10,003,DE,"New Castle County",11,20,1778
+09,011,25,015,MA,"Hampshire County",11,15,239
+09,011,26,161,MI,"Washtenaw County",11,20,1140
+09,011,57,003,FR,"Foreign - Puerto Rico",11,36,196
+09,011,06,085,CA,"Santa Clara County",10,16,521
+09,011,12,115,FL,"Sarasota County",10,12,1368
+09,011,24,510,MD,Baltimore,10,12,1166
+09,011,34,007,NJ,"Camden County",10,17,269
+09,011,34,013,NJ,"Essex County",10,20,336
+09,011,39,049,OH,"Franklin County",10,18,253
+09,011,42,003,PA,"Allegheny County",10,21,813
+09,011,42,017,PA,"Bucks County",10,13,352
+09,011,48,029,TX,"Bexar County",10,13,322
+09,011,58,000,SS,"Other Flows - Same State",32,55,1313
+09,011,59,000,DS,"Other Flows - Diff State",1570,2737,64549
+09,011,59,001,DS,"Other Flows - Northeast",384,618,14838
+09,011,59,003,DS,"Other Flows - Midwest",289,496,10701
+09,011,59,005,DS,"Other Flows - South",609,1138,28839
+09,011,59,007,DS,"Other Flows - West",288,485,10171
+09,011,57,009,FR,"Foreign - Other flows",103,151,2850
+09,013,96,000,CT,"Tolland County Tot Mig-US &",4334,7199,210714
+09,013,97,000,CT,"Tolland County Tot Mig-US",4178,7021,209264
+09,013,97,001,CT,"Tolland County Tot Mig-Same",2903,4890,142898
+09,013,97,003,CT,"Tolland County Tot Mig-Diff",1275,2131,66366
+09,013,98,000,CT,"Tolland County Tot Mig-Fore",156,178,1449
+09,013,09,013,CT,"Tolland County Non-Migrants",49467,108899,3585102
+09,013,09,003,CT,"Hartford County",1886,3232,97412
+09,013,09,015,CT,"Windham County",419,716,16139
+09,013,09,011,CT,"New London County",198,327,9811
+09,013,09,009,CT,"New Haven County",151,226,7368
+09,013,09,007,CT,"Middlesex County",140,213,7282
+09,013,25,013,MA,"Hampden County",120,223,8167
+09,013,09,001,CT,"Fairfield County",70,117,3311
+09,013,25,027,MA,"Worcester County",65,113,3550
+09,013,25,017,MA,"Middlesex County",38,72,2668
+09,013,25,015,MA,"Hampshire County",24,31,1031
+09,013,44,007,RI,"Providence County",24,42,1063
+09,013,25,025,MA,"Suffolk County",20,25,885
+09,013,25,021,MA,"Norfolk County",19,34,1021
+09,013,36,103,NY,"Suffolk County",18,35,899
+09,013,04,013,AZ,"Maricopa County",17,25,1034
+09,013,36,081,NY,"Queens County",16,20,448
+09,013,33,011,NH,"Hillsborough County",15,24,738
+09,013,36,061,NY,"New York County",15,16,696
+09,013,23,031,ME,"York County",13,19,621
+09,013,25,009,MA,"Essex County",13,21,941
+09,013,12,103,FL,"Pinellas County",12,21,409
+09,013,33,015,NH,"Rockingham County",12,18,466
+09,013,36,047,NY,"Kings County",12,15,385
+09,013,17,031,IL,"Cook County",11,14,544
+09,013,06,073,CA,"San Diego County",10,19,588
+09,013,12,057,FL,"Hillsborough County",10,19,405
+09,013,42,091,PA,"Montgomery County",10,16,436
+09,013,44,003,RI,"Kent County",10,10,400
+09,013,58,000,SS,"Other Flows - Same State",39,59,1575
+09,013,59,000,DS,"Other Flows - Diff State",771,1299,38970
+09,013,59,001,DS,"Other Flows - Northeast",285,464,13514
+09,013,59,003,DS,"Other Flows - Midwest",107,177,5821
+09,013,59,005,DS,"Other Flows - South",283,482,15687
+09,013,59,007,DS,"Other Flows - West",96,176,3948
+09,013,57,009,FR,"Foreign - Other flows",156,178,1449
+09,015,96,000,CT,"Windham County Tot Mig-US &",2840,5175,119271
+09,015,97,000,CT,"Windham County Tot Mig-US",2788,5079,118424
+09,015,97,001,CT,"Windham County Tot Mig-Same",1302,2140,46242
+09,015,97,003,CT,"Windham County Tot Mig-Diff",1486,2939,72182
+09,015,98,000,CT,"Windham County Tot Mig-Fore",52,96,848
+09,015,09,015,CT,"Windham County Non-Migrants",41773,88514,2201947
+09,015,09,011,CT,"New London County",637,1111,23514
+09,015,09,013,CT,"Tolland County",366,559,12148
+09,015,44,007,RI,"Providence County",306,661,16824
+09,015,25,027,MA,"Worcester County",296,586,15421
+09,015,09,003,CT,"Hartford County",169,261,6041
+09,015,44,003,RI,"Kent County",109,240,6465
+09,015,09,009,CT,"New Haven County",49,77,1519
+09,015,44,009,RI,"Washington County",48,88,2610
+09,015,09,007,CT,"Middlesex County",44,79,1784
+09,015,25,017,MA,"Middlesex County",33,55,1938
+09,015,09,001,CT,"Fairfield County",25,40,941
+09,015,25,021,MA,"Norfolk County",23,40,1564
+09,015,25,005,MA,"Bristol County",21,44,1233
+09,015,36,061,NY,"New York County",15,22,564
+09,015,25,013,MA,"Hampden County",13,26,674
+09,015,25,001,MA,"Barnstable County",11,22,957
+09,015,57,005,FR,"Foreign - APO/FPO ZIPs",10,14,254
+09,015,58,000,SS,"Other Flows - Same State",12,13,294
+09,015,59,000,DS,"Other Flows - Diff State",611,1155,23933
+09,015,59,001,DS,"Other Flows - Northeast",219,415,10052
+09,015,59,003,DS,"Other Flows - Midwest",56,106,2489
+09,015,59,005,DS,"Other Flows - South",242,451,8165
+09,015,59,007,DS,"Other Flows - West",94,183,3226
+09,015,57,009,FR,"Foreign - Other flows",42,82,594

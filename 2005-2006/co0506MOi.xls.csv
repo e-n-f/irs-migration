@@ -1,0 +1,3093 @@
+"2005-2006 County to County Migration Inflow",,,,,,"Missouri Inflows",,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Missouri,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+29,000,96,000,MO,"Total Mig - US & For",166416,319015,6303650
+29,000,97,000,MO,"Total Mig - US",163974,315087,6252775
+29,000,97,001,MO,"Total Mig - US Same St",101202,191200,3464051
+29,000,97,003,MO,"Total Mig - US Diff St",62772,123887,2788724
+29,000,98,000,MO,"Total Mig - Foreign",2442,3928,50875
+29,001,96,000,MO,"Adair County Tot Mig-US & F",704,1250,20810
+29,001,97,000,MO,"Adair County Tot Mig-US",674,1210,20513
+29,001,97,001,MO,"Adair County Tot Mig-Same S",356,616,10196
+29,001,97,003,MO,"Adair County Tot Mig-Diff S",318,594,10317
+29,001,98,000,MO,"Adair County Tot Mig-Foreig",30,40,297
+29,001,29,001,MO,"Adair County Non-Migrants",6674,14558,280241
+29,001,29,121,MO,"Macon County",35,62,780
+29,001,29,171,MO,"Putnam County",32,62,579
+29,001,29,019,MO,"Boone County",25,43,886
+29,001,29,103,MO,"Knox County",25,44,661
+29,001,29,211,MO,"Sullivan County",23,44,2256
+29,001,29,197,MO,"Schuyler County",22,41,622
+29,001,29,199,MO,"Scotland County",15,28,283
+29,001,29,115,MO,"Linn County",14,19,327
+29,001,29,189,MO,"St Louis County",14,18,307
+29,001,29,095,MO,"Jackson County",11,17,254
+29,001,29,077,MO,"Greene County",10,12,88
+29,001,58,000,SS,"Other Flows - Same State",130,226,3153
+29,001,59,000,DS,"Other Flows - Diff State",318,594,10317
+29,001,59,001,DS,"Other Flows - Northeast",16,28,392
+29,001,59,003,DS,"Other Flows - Midwest",149,276,5023
+29,001,59,005,DS,"Other Flows - South",79,133,2555
+29,001,59,007,DS,"Other Flows - West",74,157,2347
+29,001,57,009,FR,"Foreign - Other flows",30,40,297
+29,003,96,000,MO,"Andrew County Tot Mig-US &",689,1379,23206
+29,003,97,000,MO,"Andrew County Tot Mig-US",689,1379,23206
+29,003,97,001,MO,"Andrew County Tot Mig-Same",530,1027,16822
+29,003,97,003,MO,"Andrew County Tot Mig-Diff",159,352,6384
+29,003,98,000,MO,"Andrew County Tot Mig-Forei",d,d,d
+29,003,29,003,MO,"Andrew County Non-Migrants",5936,13552,289388
+29,003,29,021,MO,"Buchanan County",367,738,11974
+29,003,29,147,MO,"Nodaway County",21,33,565
+29,003,29,087,MO,"Holt County",20,47,883
+29,003,29,095,MO,"Jackson County",13,23,398
+29,003,29,047,MO,"Clay County",12,15,447
+29,003,29,165,MO,"Platte County",12,26,614
+29,003,29,049,MO,"Clinton County",11,20,310
+29,003,29,063,MO,"De Kalb County",10,20,270
+29,003,58,000,SS,"Other Flows - Same State",64,105,1361
+29,003,59,000,DS,"Other Flows - Diff State",159,352,6384
+29,005,96,000,MO,"Atchison County Tot Mig-US",91,183,2744
+29,005,97,000,MO,"Atchison County Tot Mig-US",91,183,2744
+29,005,97,001,MO,"Atchison County Tot Mig-Sam",39,74,1349
+29,005,97,003,MO,"Atchison County Tot Mig-Dif",52,109,1395
+29,005,98,000,MO,"Atchison County Tot Mig-For",d,d,d
+29,005,29,005,MO,"Atchison County Non-Migrant",2112,4570,89553
+29,005,58,000,SS,"Other Flows - Same State",39,74,1349
+29,005,59,000,DS,"Other Flows - Diff State",52,109,1395
+29,007,96,000,MO,"Audrain County Tot Mig-US &",555,1045,14135
+29,007,97,000,MO,"Audrain County Tot Mig-US",555,1045,14135
+29,007,97,001,MO,"Audrain County Tot Mig-Same",418,771,9903
+29,007,97,003,MO,"Audrain County Tot Mig-Diff",137,274,4232
+29,007,98,000,MO,"Audrain County Tot Mig-Fore",d,d,d
+29,007,29,007,MO,"Audrain County Non-Migrants",8463,18739,354998
+29,007,29,019,MO,"Boone County",120,214,3242
+29,007,29,027,MO,"Callaway County",48,85,857
+29,007,29,139,MO,"Montgomery County",43,78,1045
+29,007,29,137,MO,"Monroe County",25,45,536
+29,007,29,163,MO,"Pike County",24,53,566
+29,007,29,173,MO,"Ralls County",19,39,483
+29,007,29,189,MO,"St Louis County",14,32,305
+29,007,29,183,MO,"St Charles County",12,21,395
+29,007,29,175,MO,"Randolph County",10,20,278
+29,007,58,000,SS,"Other Flows - Same State",103,184,2196
+29,007,59,000,DS,"Other Flows - Diff State",137,274,4232
+29,009,96,000,MO,"Barry County Tot Mig-US & F",1023,2289,34845
+29,009,97,000,MO,"Barry County Tot Mig-US",1023,2289,34845
+29,009,97,001,MO,"Barry County Tot Mig-Same S",485,1057,15458
+29,009,97,003,MO,"Barry County Tot Mig-Diff S",538,1232,19387
+29,009,98,000,MO,"Barry County Tot Mig-Foreig",d,d,d
+29,009,29,009,MO,"Barry County Non-Migrants",10669,24773,413429
+29,009,29,109,MO,"Lawrence County",141,323,3992
+29,009,05,007,AR,"Benton County",107,262,4240
+29,009,29,077,MO,"Greene County",55,107,1373
+29,009,29,145,MO,"Newton County",54,138,1293
+29,009,29,097,MO,"Jasper County",45,89,1083
+29,009,29,209,MO,"Stone County",41,86,1805
+29,009,05,143,AR,"Washington County",25,56,1160
+29,009,05,015,AR,"Carroll County",21,38,455
+29,009,29,119,MO,"Mcdonald County",19,57,478
+29,009,29,095,MO,"Jackson County",18,29,1190
+29,009,20,173,KS,"Sedgwick County",13,21,840
+29,009,29,043,MO,"Christian County",12,31,521
+29,009,29,213,MO,"Taney County",11,18,212
+29,009,58,000,SS,"Other Flows - Same State",89,179,3511
+29,009,59,000,DS,"Other Flows - Diff State",372,855,12692
+29,009,59,001,DS,"Other Flows - Northeast",18,51,552
+29,009,59,003,DS,"Other Flows - Midwest",103,238,3220
+29,009,59,005,DS,"Other Flows - South",165,370,5295
+29,009,59,007,DS,"Other Flows - West",86,196,3625
+29,011,96,000,MO,"Barton County Tot Mig-US &",290,671,7718
+29,011,97,000,MO,"Barton County Tot Mig-US",290,671,7718
+29,011,97,001,MO,"Barton County Tot Mig-Same",178,411,4965
+29,011,97,003,MO,"Barton County Tot Mig-Diff",112,260,2752
+29,011,98,000,MO,"Barton County Tot Mig-Forei",d,d,d
+29,011,29,011,MO,"Barton County Non-Migrants",4222,9868,153164
+29,011,29,097,MO,"Jasper County",56,140,1757
+29,011,29,217,MO,"Vernon County",29,64,741
+29,011,20,037,KS,"Crawford County",26,63,627
+29,011,29,057,MO,"Dade County",16,29,387
+29,011,29,077,MO,"Greene County",13,15,200
+29,011,58,000,SS,"Other Flows - Same State",64,163,1881
+29,011,59,000,DS,"Other Flows - Diff State",86,197,2126
+29,013,96,000,MO,"Bates County Tot Mig-US & F",433,906,13106
+29,013,97,000,MO,"Bates County Tot Mig-US",433,906,13106
+29,013,97,001,MO,"Bates County Tot Mig-Same S",310,647,9892
+29,013,97,003,MO,"Bates County Tot Mig-Diff S",123,259,3215
+29,013,98,000,MO,"Bates County Tot Mig-Foreig",d,d,d
+29,013,29,013,MO,"Bates County Non-Migrants",5521,12732,211753
+29,013,29,037,MO,"Cass County",98,212,3215
+29,013,29,095,MO,"Jackson County",59,141,2438
+29,013,29,217,MO,"Vernon County",45,81,861
+29,013,20,091,KS,"Johnson County",17,40,535
+29,013,20,107,KS,"Linn County",13,28,323
+29,013,29,083,MO,"Henry County",11,19,478
+29,013,29,047,MO,"Clay County",10,20,259
+29,013,29,185,MO,"St Clair County",10,18,326
+29,013,58,000,SS,"Other Flows - Same State",77,156,2315
+29,013,59,000,DS,"Other Flows - Diff State",93,191,2357
+29,015,96,000,MO,"Benton County Tot Mig-US &",552,1175,18617
+29,015,97,000,MO,"Benton County Tot Mig-US",552,1175,18617
+29,015,97,001,MO,"Benton County Tot Mig-Same",377,828,12780
+29,015,97,003,MO,"Benton County Tot Mig-Diff",175,347,5836
+29,015,98,000,MO,"Benton County Tot Mig-Forei",d,d,d
+29,015,29,015,MO,"Benton County Non-Migrants",5680,12269,193537
+29,015,29,095,MO,"Jackson County",77,151,2953
+29,015,29,159,MO,"Pettis County",68,166,2074
+29,015,29,083,MO,"Henry County",29,60,726
+29,015,29,037,MO,"Cass County",23,46,808
+29,015,29,047,MO,"Clay County",23,51,1184
+29,015,20,091,KS,"Johnson County",20,39,705
+29,015,29,101,MO,"Johnson County",17,33,599
+29,015,29,107,MO,"Lafayette County",12,31,561
+29,015,29,165,MO,"Platte County",12,23,885
+29,015,58,000,SS,"Other Flows - Same State",116,267,2990
+29,015,59,000,DS,"Other Flows - Diff State",155,308,5131
+29,017,96,000,MO,"Bollinger Count Tot Mig-US",263,553,8311
+29,017,97,000,MO,"Bollinger Count Tot Mig-US",263,553,8311
+29,017,97,001,MO,"Bollinger Count Tot Mig-Sam",208,441,6724
+29,017,97,003,MO,"Bollinger Count Tot Mig-Dif",55,112,1587
+29,017,98,000,MO,"Bollinger Count Tot Mig-For",d,d,d
+29,017,29,017,MO,"Bollinger Count Non-Migrant",3788,8826,132540
+29,017,29,031,MO,"Cape Girardeau Count",81,172,2334
+29,017,29,207,MO,"Stoddard County",26,61,1411
+29,017,29,201,MO,"Scott County",19,41,536
+29,017,29,123,MO,"Madison County",14,27,397
+29,017,29,157,MO,"Perry County",12,26,342
+29,017,58,000,SS,"Other Flows - Same State",56,114,1703
+29,017,59,000,DS,"Other Flows - Diff State",55,112,1587
+29,019,96,000,MO,"Boone County Tot Mig-US & F",5217,8733,174103
+29,019,97,000,MO,"Boone County Tot Mig-US",4943,8424,172499
+29,019,97,001,MO,"Boone County Tot Mig-Same S",2889,4603,85437
+29,019,97,003,MO,"Boone County Tot Mig-Diff S",2054,3821,87062
+29,019,98,000,MO,"Boone County Tot Mig-Foreig",274,309,1604
+29,019,29,019,MO,"Boone County Non-Migrants",47732,99960,2635369
+29,019,29,189,MO,"St Louis County",282,389,8718
+29,019,29,027,MO,"Callaway County",227,399,6899
+29,019,29,051,MO,"Cole County",195,329,6287
+29,019,29,095,MO,"Jackson County",175,260,4856
+29,019,29,175,MO,"Randolph County",169,323,5052
+29,019,29,007,MO,"Audrain County",135,265,3963
+29,019,29,183,MO,"St Charles County",117,186,5438
+29,019,29,053,MO,"Cooper County",106,178,3126
+29,019,29,089,MO,"Howard County",83,141,2400
+29,019,29,077,MO,"Greene County",74,108,1879
+29,019,29,510,MO,"St Louis",71,106,2165
+29,019,20,091,KS,"Johnson County",66,110,2717
+29,019,29,047,MO,"Clay County",64,94,1704
+29,019,29,001,MO,"Adair County",56,92,1267
+29,019,17,031,IL,"Cook County",55,85,2139
+29,019,29,029,MO,"Camden County",50,87,1580
+29,019,29,099,MO,"Jefferson County",49,66,2071
+29,019,29,195,MO,"Saline County",48,81,1234
+29,019,29,071,MO,"Franklin County",47,59,1163
+29,019,29,159,MO,"Pettis County",44,67,1242
+29,019,29,127,MO,"Marion County",42,64,942
+29,019,29,161,MO,"Phelps County",42,63,1003
+29,019,29,121,MO,"Macon County",38,67,1491
+29,019,29,137,MO,"Monroe County",33,51,766
+29,019,29,031,MO,"Cape Girardeau Count",31,49,947
+29,019,29,135,MO,"Moniteau County",31,45,655
+29,019,29,139,MO,"Montgomery County",29,52,734
+29,019,29,165,MO,"Platte County",29,49,1054
+29,019,29,021,MO,"Buchanan County",28,37,745
+29,019,06,037,CA,"Los Angeles County",26,49,887
+29,019,04,013,AZ,"Maricopa County",24,41,1066
+29,019,17,001,IL,"Adams County",24,40,699
+29,019,22,071,LA,"Orleans Parish",24,55,636
+29,019,40,143,OK,"Tulsa County",24,66,1215
+29,019,17,119,IL,"Madison County",22,31,423
+29,019,29,169,MO,"Pulaski County",22,27,426
+29,019,29,187,MO,"St Francois County",21,31,385
+29,019,48,201,TX,"Harris County",21,44,1081
+29,019,06,073,CA,"San Diego County",20,43,769
+29,019,29,141,MO,"Morgan County",20,32,488
+29,019,47,157,TN,"Shelby County",20,30,334
+29,019,29,097,MO,"Jasper County",19,30,463
+29,019,29,101,MO,"Johnson County",19,27,596
+29,019,29,115,MO,"Linn County",19,32,453
+29,019,29,131,MO,"Miller County",19,25,452
+29,019,06,059,CA,"Orange County",18,41,1112
+29,019,17,163,IL,"St Clair County",18,23,521
+29,019,29,107,MO,"Lafayette County",18,34,605
+29,019,29,163,MO,"Pike County",18,27,497
+29,019,29,219,MO,"Warren County",17,31,572
+29,019,31,055,NE,"Douglas County",17,31,762
+29,019,57,005,FR,"Foreign - APO/FPO ZIPs",17,27,402
+29,019,48,113,TX,"Dallas County",16,22,690
+29,019,29,041,MO,"Chariton County",15,17,661
+29,019,32,003,NV,"Clark County",15,29,521
+29,019,53,033,WA,"King County",15,23,1060
+29,019,29,037,MO,"Cass County",14,17,365
+29,019,29,091,MO,"Howell County",14,19,345
+29,019,29,145,MO,"Newton County",14,25,438
+29,019,29,173,MO,"Ralls County",14,21,316
+29,019,29,201,MO,"Scott County",14,21,418
+29,019,31,109,NE,"Lancaster County",14,31,979
+29,019,17,113,IL,"Mclean County",13,20,670
+29,019,19,153,IA,"Polk County",13,20,511
+29,019,21,111,KY,"Jefferson County",13,24,448
+29,019,29,083,MO,"Henry County",13,19,394
+29,019,29,117,MO,"Livingston County",13,26,376
+29,019,29,205,MO,"Shelby County",13,18,352
+29,019,29,213,MO,"Taney County",13,17,212
+29,019,04,019,AZ,"Pima County",12,25,743
+29,019,11,001,DC,"District Of Columbia",12,14,843
+29,019,29,043,MO,"Christian County",12,18,298
+29,019,29,151,MO,"Osage County",12,21,312
+29,019,40,109,OK,"Oklahoma County",12,29,489
+29,019,12,103,FL,"Pinellas County",11,17,396
+29,019,17,167,IL,"Sangamon County",11,15,198
+29,019,22,073,LA,"Ouachita Parish",11,32,575
+29,019,12,011,FL,"Broward County",10,15,346
+29,019,17,097,IL,"Lake County",10,14,467
+29,019,19,103,IA,"Johnson County",10,21,894
+29,019,20,173,KS,"Sedgwick County",10,15,219
+29,019,29,073,MO,"Gasconade County",10,20,605
+29,019,48,029,TX,"Bexar County",10,29,331
+29,019,48,041,TX,"Brazos County",10,19,894
+29,019,48,303,TX,"Lubbock County",10,29,461
+29,019,48,439,TX,"Tarrant County",10,18,234
+29,019,55,025,WI,"Dane County",10,13,289
+29,019,58,000,SS,"Other Flows - Same State",231,341,6027
+29,019,59,000,DS,"Other Flows - Diff State",1417,2658,60443
+29,019,59,001,DS,"Other Flows - Northeast",160,305,6620
+29,019,59,003,DS,"Other Flows - Midwest",499,890,18169
+29,019,59,005,DS,"Other Flows - South",518,981,25534
+29,019,59,007,DS,"Other Flows - West",240,482,10120
+29,019,57,009,FR,"Foreign - Other flows",257,282,1201
+29,021,96,000,MO,"Buchanan County Tot Mig-US",1891,3535,57777
+29,021,97,000,MO,"Buchanan County Tot Mig-US",1881,3518,57566
+29,021,97,001,MO,"Buchanan County Tot Mig-Sam",1107,1982,30964
+29,021,97,003,MO,"Buchanan County Tot Mig-Dif",774,1536,26602
+29,021,98,000,MO,"Buchanan County Tot Mig-For",10,17,212
+29,021,29,021,MO,"Buchanan County Non-Migrant",28615,61280,1264344
+29,021,29,003,MO,"Andrew County",321,595,9791
+29,021,29,095,MO,"Jackson County",94,149,1860
+29,021,29,063,MO,"De Kalb County",91,172,2726
+29,021,29,165,MO,"Platte County",84,141,2838
+29,021,29,047,MO,"Clay County",79,147,2612
+29,021,20,043,KS,"Doniphan County",65,118,1443
+29,021,29,049,MO,"Clinton County",60,109,1604
+29,021,20,005,KS,"Atchison County",35,70,857
+29,021,29,147,MO,"Nodaway County",35,54,826
+29,021,20,091,KS,"Johnson County",30,61,1547
+29,021,29,087,MO,"Holt County",29,61,820
+29,021,29,075,MO,"Gentry County",25,52,522
+29,021,31,109,NE,"Lancaster County",21,41,649
+29,021,29,061,MO,"Daviess County",16,23,489
+29,021,29,077,MO,"Greene County",16,25,388
+29,021,31,055,NE,"Douglas County",15,25,706
+29,021,29,079,MO,"Grundy County",14,24,280
+29,021,29,081,MO,"Harrison County",14,21,331
+29,021,29,117,MO,"Livingston County",14,20,245
+29,021,20,209,KS,"Wyandotte County",13,32,205
+29,021,29,211,MO,"Sullivan County",13,28,424
+29,021,29,019,MO,"Boone County",11,20,244
+29,021,29,025,MO,"Caldwell County",11,22,265
+29,021,32,003,NV,"Clark County",11,25,241
+29,021,20,103,KS,"Leavenworth County",10,27,299
+29,021,29,189,MO,"St Louis County",10,17,294
+29,021,58,000,SS,"Other Flows - Same State",170,302,4404
+29,021,59,000,DS,"Other Flows - Diff State",574,1137,20654
+29,021,59,001,DS,"Other Flows - Northeast",19,42,1244
+29,021,59,003,DS,"Other Flows - Midwest",243,480,8384
+29,021,59,005,DS,"Other Flows - South",194,391,7652
+29,021,59,007,DS,"Other Flows - West",118,224,3375
+29,021,57,009,FR,"Foreign - Other flows",10,17,212
+29,023,96,000,MO,"Butler County Tot Mig-US &",972,1970,28023
+29,023,97,000,MO,"Butler County Tot Mig-US",972,1970,28023
+29,023,97,001,MO,"Butler County Tot Mig-Same",547,1081,14194
+29,023,97,003,MO,"Butler County Tot Mig-Diff",425,889,13829
+29,023,98,000,MO,"Butler County Tot Mig-Forei",d,d,d
+29,023,29,023,MO,"Butler County Non-Migrants",13266,29102,504931
+29,023,29,181,MO,"Ripley County",90,191,1905
+29,023,29,223,MO,"Wayne County",74,161,1451
+29,023,29,207,MO,"Stoddard County",65,132,1408
+29,023,29,069,MO,"Dunklin County",59,108,1535
+29,023,29,035,MO,"Carter County",36,69,839
+29,023,05,021,AR,"Clay County",30,71,671
+29,023,29,189,MO,"St Louis County",30,56,1291
+29,023,29,099,MO,"Jefferson County",20,48,271
+29,023,29,510,MO,"St Louis",15,29,335
+29,023,05,031,AR,"Craighead County",14,32,310
+29,023,29,201,MO,"Scott County",14,23,315
+29,023,29,183,MO,"St Charles County",13,21,299
+29,023,29,031,MO,"Cape Girardeau Count",12,16,293
+29,023,58,000,SS,"Other Flows - Same State",119,227,4251
+29,023,59,000,DS,"Other Flows - Diff State",381,786,12848
+29,025,96,000,MO,"Caldwell County Tot Mig-US",244,548,8445
+29,025,97,000,MO,"Caldwell County Tot Mig-US",244,548,8445
+29,025,97,001,MO,"Caldwell County Tot Mig-Sam",185,425,6634
+29,025,97,003,MO,"Caldwell County Tot Mig-Dif",59,123,1811
+29,025,98,000,MO,"Caldwell County Tot Mig-For",d,d,d
+29,025,29,025,MO,"Caldwell County Non-Migrant",2917,6917,119098
+29,025,29,047,MO,"Clay County",38,80,2079
+29,025,29,049,MO,"Clinton County",27,65,705
+29,025,29,095,MO,"Jackson County",20,47,816
+29,025,29,021,MO,"Buchanan County",14,32,294
+29,025,29,061,MO,"Daviess County",14,36,399
+29,025,29,117,MO,"Livingston County",12,31,264
+29,025,29,177,MO,"Ray County",12,27,294
+29,025,58,000,SS,"Other Flows - Same State",48,107,1783
+29,025,59,000,DS,"Other Flows - Diff State",59,123,1811
+29,027,96,000,MO,"Callaway County Tot Mig-US",1310,2577,43527
+29,027,97,000,MO,"Callaway County Tot Mig-US",1269,2534,43414
+29,027,97,001,MO,"Callaway County Tot Mig-Sam",978,1926,32490
+29,027,97,003,MO,"Callaway County Tot Mig-Dif",291,608,10925
+29,027,98,000,MO,"Callaway County Tot Mig-For",41,43,113
+29,027,29,027,MO,"Callaway County Non-Migrant",13689,30474,608996
+29,027,29,051,MO,"Cole County",325,640,12726
+29,027,29,019,MO,"Boone County",208,409,6816
+29,027,29,007,MO,"Audrain County",63,134,1773
+29,027,29,189,MO,"St Louis County",33,66,1251
+29,027,29,135,MO,"Moniteau County",21,48,552
+29,027,29,139,MO,"Montgomery County",21,40,479
+29,027,29,183,MO,"St Charles County",21,30,709
+29,027,29,151,MO,"Osage County",20,36,509
+29,027,29,077,MO,"Greene County",18,30,374
+29,027,29,131,MO,"Miller County",16,30,440
+29,027,29,095,MO,"Jackson County",15,30,461
+29,027,29,071,MO,"Franklin County",11,31,450
+29,027,29,175,MO,"Randolph County",10,20,296
+29,027,58,000,SS,"Other Flows - Same State",196,382,5655
+29,027,59,000,DS,"Other Flows - Diff State",291,608,10925
+29,027,59,001,DS,"Other Flows - Northeast",13,34,594
+29,027,59,003,DS,"Other Flows - Midwest",97,195,4011
+29,027,59,005,DS,"Other Flows - South",109,232,3796
+29,027,59,007,DS,"Other Flows - West",72,147,2524
+29,027,57,009,FR,"Foreign - Other flows",41,43,113
+29,029,96,000,MO,"Camden County Tot Mig-US &",1689,3225,77657
+29,029,97,000,MO,"Camden County Tot Mig-US",1689,3225,77657
+29,029,97,001,MO,"Camden County Tot Mig-Same",1002,1924,40844
+29,029,97,003,MO,"Camden County Tot Mig-Diff",687,1301,36813
+29,029,98,000,MO,"Camden County Tot Mig-Forei",d,d,d
+29,029,29,029,MO,"Camden County Non-Migrants",12782,26770,600802
+29,029,29,131,MO,"Miller County",177,319,4527
+29,029,29,189,MO,"St Louis County",92,148,6843
+29,029,29,141,MO,"Morgan County",73,146,2038
+29,029,29,095,MO,"Jackson County",70,130,3149
+29,029,29,105,MO,"Laclede County",62,149,1630
+29,029,29,051,MO,"Cole County",55,120,2914
+29,029,29,077,MO,"Greene County",40,71,841
+29,029,29,183,MO,"St Charles County",39,74,2408
+29,029,20,091,KS,"Johnson County",35,72,2771
+29,029,29,169,MO,"Pulaski County",29,58,633
+29,029,29,047,MO,"Clay County",27,51,1579
+29,029,29,019,MO,"Boone County",23,37,1380
+29,029,29,071,MO,"Franklin County",20,38,525
+29,029,17,031,IL,"Cook County",18,34,1781
+29,029,29,510,MO,"St Louis",18,33,913
+29,029,17,167,IL,"Sangamon County",15,17,506
+29,029,19,153,IA,"Polk County",15,22,589
+29,029,04,013,AZ,"Maricopa County",14,26,2106
+29,029,29,099,MO,"Jefferson County",14,32,567
+29,029,06,073,CA,"San Diego County",13,25,1131
+29,029,29,015,MO,"Benton County",12,20,256
+29,029,29,027,MO,"Callaway County",12,23,384
+29,029,29,037,MO,"Cass County",12,24,409
+29,029,29,043,MO,"Christian County",12,22,469
+29,029,29,161,MO,"Phelps County",11,24,399
+29,029,06,037,CA,"Los Angeles County",10,18,368
+29,029,20,209,KS,"Wyandotte County",10,13,127
+29,029,29,059,MO,"Dallas County",10,22,330
+29,029,29,085,MO,"Hickory County",10,19,298
+29,029,41,001,OR,"Baker County",10,29,107
+29,029,58,000,SS,"Other Flows - Same State",184,364,8353
+29,029,59,000,DS,"Other Flows - Diff State",547,1045,27327
+29,029,59,001,DS,"Other Flows - Northeast",28,53,1247
+29,029,59,003,DS,"Other Flows - Midwest",266,489,13234
+29,029,59,005,DS,"Other Flows - South",158,327,8202
+29,029,59,007,DS,"Other Flows - West",95,176,4644
+29,031,96,000,MO,"Cape Girardeau Tot Mig-US &",1880,3529,66616
+29,031,97,000,MO,"Cape Girardeau Tot Mig-US",1848,3485,66181
+29,031,97,001,MO,"Cape Girardeau Tot Mig-Same",1096,2017,33404
+29,031,97,003,MO,"Cape Girardeau Tot Mig-Diff",752,1468,32777
+29,031,98,000,MO,"Cape Girardeau Tot Mig-Fore",32,44,435
+29,031,29,031,MO,"Cape Girardeau Non-Migrants",24245,53187,1307480
+29,031,29,201,MO,"Scott County",286,549,8593
+29,031,29,189,MO,"St Louis County",101,155,2439
+29,031,29,017,MO,"Bollinger County",98,186,2875
+29,031,29,157,MO,"Perry County",67,123,2243
+29,031,29,207,MO,"Stoddard County",66,119,1953
+29,031,17,003,IL,"Alexander County",50,106,1369
+29,031,29,099,MO,"Jefferson County",49,85,1561
+29,031,29,143,MO,"New Madrid County",48,90,1404
+29,031,29,023,MO,"Butler County",37,78,1802
+29,031,29,187,MO,"St Francois County",27,54,709
+29,031,29,183,MO,"St Charles County",26,38,561
+29,031,29,510,MO,"St Louis",26,45,900
+29,031,29,069,MO,"Dunklin County",24,52,819
+29,031,29,019,MO,"Boone County",23,37,545
+29,031,29,133,MO,"Mississippi County",23,43,802
+29,031,29,077,MO,"Greene County",20,38,754
+29,031,17,181,IL,"Union County",17,27,496
+29,031,17,077,IL,"Jackson County",16,27,467
+29,031,29,186,MO,"Ste Genevieve Count",15,22,587
+29,031,17,163,IL,"St Clair County",14,24,758
+29,031,17,153,IL,"Pulaski County",13,28,326
+29,031,21,145,KY,"Mccracken County",12,23,352
+29,031,29,223,MO,"Wayne County",12,23,338
+29,031,17,031,IL,"Cook County",11,22,198
+29,031,17,199,IL,"Williamson County",11,22,295
+29,031,29,051,MO,"Cole County",10,17,365
+29,031,29,071,MO,"Franklin County",10,18,217
+29,031,29,093,MO,"Iron County",10,13,233
+29,031,29,221,MO,"Washington County",10,18,440
+29,031,58,000,SS,"Other Flows - Same State",108,214,3265
+29,031,59,000,DS,"Other Flows - Diff State",608,1189,28514
+29,031,59,001,DS,"Other Flows - Northeast",24,63,1617
+29,031,59,003,DS,"Other Flows - Midwest",181,356,7269
+29,031,59,005,DS,"Other Flows - South",299,570,11373
+29,031,59,007,DS,"Other Flows - West",104,200,8255
+29,031,57,009,FR,"Foreign - Other flows",32,44,435
+29,033,96,000,MO,"Carroll County Tot Mig-US &",190,383,5205
+29,033,97,000,MO,"Carroll County Tot Mig-US",190,383,5205
+29,033,97,001,MO,"Carroll County Tot Mig-Same",142,299,4036
+29,033,97,003,MO,"Carroll County Tot Mig-Diff",48,84,1169
+29,033,98,000,MO,"Carroll County Tot Mig-Fore",d,d,d
+29,033,29,033,MO,"Carroll County Non-Migrants",3409,7580,131549
+29,033,29,095,MO,"Jackson County",16,27,464
+29,033,29,195,MO,"Saline County",15,31,280
+29,033,29,117,MO,"Livingston County",14,35,427
+29,033,29,177,MO,"Ray County",13,30,493
+29,033,29,047,MO,"Clay County",10,18,223
+29,033,29,107,MO,"Lafayette County",10,16,320
+29,033,58,000,SS,"Other Flows - Same State",64,142,1829
+29,033,59,000,DS,"Other Flows - Diff State",48,84,1169
+29,035,96,000,MO,"Carter County Tot Mig-US &",153,351,3845
+29,035,97,000,MO,"Carter County Tot Mig-US",153,351,3845
+29,035,97,001,MO,"Carter County Tot Mig-Same",101,237,2433
+29,035,97,003,MO,"Carter County Tot Mig-Diff",52,114,1412
+29,035,98,000,MO,"Carter County Tot Mig-Forei",d,d,d
+29,035,29,035,MO,"Carter County Non-Migrants",1887,4403,60582
+29,035,29,023,MO,"Butler County",32,87,901
+29,035,58,000,SS,"Other Flows - Same State",69,150,1532
+29,035,59,000,DS,"Other Flows - Diff State",52,114,1412
+29,037,96,000,MO,"Cass County Tot Mig-US & Fo",3143,6575,134956
+29,037,97,000,MO,"Cass County Tot Mig-US",3120,6540,134356
+29,037,97,001,MO,"Cass County Tot Mig-Same St",2081,4354,87606
+29,037,97,003,MO,"Cass County Tot Mig-Diff St",1039,2186,46750
+29,037,98,000,MO,"Cass County Tot Mig-Foreign",23,35,600
+29,037,29,037,MO,"Cass County Non-Migrants",30633,72074,1708089
+29,037,29,095,MO,"Jackson County",1421,3011,65324
+29,037,20,091,KS,"Johnson County",274,535,17517
+29,037,29,013,MO,"Bates County",89,190,2605
+29,037,29,047,MO,"Clay County",83,174,3734
+29,037,29,101,MO,"Johnson County",65,143,2728
+29,037,29,083,MO,"Henry County",55,115,1564
+29,037,29,165,MO,"Platte County",30,64,1022
+29,037,20,209,KS,"Wyandotte County",29,68,1236
+29,037,20,121,KS,"Miami County",28,60,933
+29,037,29,077,MO,"Greene County",22,41,682
+29,037,04,013,AZ,"Maricopa County",20,39,985
+29,037,29,107,MO,"Lafayette County",20,40,807
+29,037,06,073,CA,"San Diego County",19,53,740
+29,037,29,019,MO,"Boone County",19,35,758
+29,037,29,185,MO,"St Clair County",19,42,462
+29,037,29,029,MO,"Camden County",17,31,545
+29,037,29,217,MO,"Vernon County",17,35,515
+29,037,29,015,MO,"Benton County",16,26,409
+29,037,29,097,MO,"Jasper County",16,32,487
+29,037,29,189,MO,"St Louis County",13,23,521
+29,037,29,159,MO,"Pettis County",12,22,417
+29,037,06,071,CA,"San Bernardino Count",11,29,456
+29,037,29,051,MO,"Cole County",11,19,311
+29,037,37,133,NC,"Onslow County",11,32,360
+29,037,48,439,TX,"Tarrant County",11,26,454
+29,037,58,000,SS,"Other Flows - Same State",156,311,4715
+29,037,59,000,DS,"Other Flows - Diff State",636,1344,24069
+29,037,59,001,DS,"Other Flows - Northeast",41,74,1561
+29,037,59,003,DS,"Other Flows - Midwest",220,468,8567
+29,037,59,005,DS,"Other Flows - South",253,541,9494
+29,037,59,007,DS,"Other Flows - West",122,261,4448
+29,037,57,009,FR,"Foreign - Other flows",23,35,600
+29,039,96,000,MO,"Cedar County Tot Mig-US & F",332,721,9452
+29,039,97,000,MO,"Cedar County Tot Mig-US",332,721,9452
+29,039,97,001,MO,"Cedar County Tot Mig-Same S",207,444,5773
+29,039,97,003,MO,"Cedar County Tot Mig-Diff S",125,277,3679
+29,039,98,000,MO,"Cedar County Tot Mig-Foreig",d,d,d
+29,039,29,039,MO,"Cedar County Non-Migrants",4082,9271,131412
+29,039,29,217,MO,"Vernon County",40,78,1346
+29,039,29,077,MO,"Greene County",19,39,630
+29,039,29,095,MO,"Jackson County",17,35,386
+29,039,29,185,MO,"St Clair County",15,36,234
+29,039,29,057,MO,"Dade County",14,29,374
+29,039,29,167,MO,"Polk County",13,25,374
+29,039,29,011,MO,"Barton County",11,22,209
+29,039,58,000,SS,"Other Flows - Same State",78,180,2221
+29,039,59,000,DS,"Other Flows - Diff State",125,277,3679
+29,041,96,000,MO,"Chariton County Tot Mig-US",158,326,4674
+29,041,97,000,MO,"Chariton County Tot Mig-US",158,326,4674
+29,041,97,001,MO,"Chariton County Tot Mig-Sam",125,254,2890
+29,041,97,003,MO,"Chariton County Tot Mig-Dif",33,72,1784
+29,041,98,000,MO,"Chariton County Tot Mig-For",d,d,d
+29,041,29,041,MO,"Chariton County Non-Migrant",2845,6267,108498
+29,041,29,115,MO,"Linn County",29,61,724
+29,041,29,175,MO,"Randolph County",24,54,366
+29,041,58,000,SS,"Other Flows - Same State",72,139,1799
+29,041,59,000,DS,"Other Flows - Diff State",33,72,1784
+29,043,96,000,MO,"Christian Count Tot Mig-US",3227,6997,130868
+29,043,97,000,MO,"Christian Count Tot Mig-US",3227,6997,130868
+29,043,97,001,MO,"Christian Count Tot Mig-Sam",2134,4356,80326
+29,043,97,003,MO,"Christian Count Tot Mig-Dif",1093,2641,50542
+29,043,98,000,MO,"Christian Count Tot Mig-For",d,d,d
+29,043,29,043,MO,"Christian Count Non-Migrant",20685,49218,1028366
+29,043,29,077,MO,"Greene County",1231,2444,48544
+29,043,29,209,MO,"Stone County",154,339,5589
+29,043,29,213,MO,"Taney County",139,276,4454
+29,043,29,225,MO,"Webster County",70,143,2543
+29,043,29,109,MO,"Lawrence County",60,134,2152
+29,043,29,097,MO,"Jasper County",40,93,1799
+29,043,29,167,MO,"Polk County",38,71,919
+29,043,29,067,MO,"Douglas County",29,67,661
+29,043,32,003,NV,"Clark County",28,65,1423
+29,043,04,013,AZ,"Maricopa County",26,72,1153
+29,043,06,037,CA,"Los Angeles County",25,50,911
+29,043,06,065,CA,"Riverside County",22,63,1260
+29,043,29,095,MO,"Jackson County",22,45,965
+29,043,29,189,MO,"St Louis County",22,38,1292
+29,043,29,105,MO,"Laclede County",20,36,531
+29,043,29,059,MO,"Dallas County",18,44,409
+29,043,20,091,KS,"Johnson County",17,36,805
+29,043,29,091,MO,"Howell County",16,34,419
+29,043,06,071,CA,"San Bernardino Count",15,35,806
+29,043,06,073,CA,"San Diego County",15,34,548
+29,043,29,009,MO,"Barry County",15,31,492
+29,043,29,215,MO,"Texas County",15,22,305
+29,043,29,029,MO,"Camden County",14,35,646
+29,043,06,067,CA,"Sacramento County",13,36,501
+29,043,29,019,MO,"Boone County",13,35,586
+29,043,29,047,MO,"Clay County",13,28,553
+29,043,29,229,MO,"Wright County",13,30,470
+29,043,40,143,OK,"Tulsa County",13,30,559
+29,043,29,145,MO,"Newton County",11,29,330
+29,043,29,183,MO,"St Charles County",11,28,716
+29,043,48,201,TX,"Harris County",11,24,514
+29,043,05,007,AR,"Benton County",10,26,504
+29,043,05,009,AR,"Boone County",10,23,382
+29,043,06,059,CA,"Orange County",10,23,518
+29,043,20,173,KS,"Sedgwick County",10,28,631
+29,043,48,439,TX,"Tarrant County",10,28,519
+29,043,58,000,SS,"Other Flows - Same State",170,354,5950
+29,043,59,000,DS,"Other Flows - Diff State",858,2068,39510
+29,043,59,001,DS,"Other Flows - Northeast",57,154,3217
+29,043,59,003,DS,"Other Flows - Midwest",263,662,12582
+29,043,59,005,DS,"Other Flows - South",355,851,15549
+29,043,59,007,DS,"Other Flows - West",183,401,8161
+29,045,96,000,MO,"Clark County Tot Mig-US & F",127,265,3279
+29,045,97,000,MO,"Clark County Tot Mig-US",127,265,3279
+29,045,97,001,MO,"Clark County Tot Mig-Same S",36,76,1054
+29,045,97,003,MO,"Clark County Tot Mig-Diff S",91,189,2225
+29,045,98,000,MO,"Clark County Tot Mig-Foreig",d,d,d
+29,045,29,045,MO,"Clark County Non-Migrants",2492,5551,90188
+29,045,19,111,IA,"Lee County",39,85,1052
+29,045,58,000,SS,"Other Flows - Same State",36,76,1054
+29,045,59,000,DS,"Other Flows - Diff State",52,104,1174
+29,047,96,000,MO,"Clay County Tot Mig-US & Fo",8328,15398,337180
+29,047,97,000,MO,"Clay County Tot Mig-US",8306,15365,336713
+29,047,97,001,MO,"Clay County Tot Mig-Same St",5397,9621,201496
+29,047,97,003,MO,"Clay County Tot Mig-Diff St",2909,5744,135218
+29,047,98,000,MO,"Clay County Tot Mig-Foreign",22,33,467
+29,047,29,047,MO,"Clay County Non-Migrants",71879,158940,4139991
+29,047,29,095,MO,"Jackson County",2025,3712,72303
+29,047,29,165,MO,"Platte County",1674,2971,68214
+29,047,20,091,KS,"Johnson County",446,779,23082
+29,047,29,177,MO,"Ray County",253,443,7829
+29,047,20,209,KS,"Wyandotte County",242,519,7745
+29,047,29,049,MO,"Clinton County",230,445,9611
+29,047,29,021,MO,"Buchanan County",146,231,5026
+29,047,29,037,MO,"Cass County",92,159,4117
+29,047,29,077,MO,"Greene County",78,127,2628
+29,047,29,019,MO,"Boone County",61,98,2206
+29,047,29,189,MO,"St Louis County",58,94,2989
+29,047,04,013,AZ,"Maricopa County",55,118,2575
+29,047,20,103,KS,"Leavenworth County",53,119,1756
+29,047,29,101,MO,"Johnson County",51,84,1239
+29,047,29,147,MO,"Nodaway County",51,67,1415
+29,047,31,055,NE,"Douglas County",49,86,2457
+29,047,29,183,MO,"St Charles County",45,82,2509
+29,047,20,177,KS,"Shawnee County",40,86,1812
+29,047,20,173,KS,"Sedgwick County",38,66,1486
+29,047,39,093,OH,"Lorain County",38,105,3038
+29,047,29,025,MO,"Caldwell County",37,68,1200
+29,047,29,107,MO,"Lafayette County",34,51,1125
+29,047,20,045,KS,"Douglas County",33,57,1270
+29,047,06,073,CA,"San Diego County",31,70,1273
+29,047,17,031,IL,"Cook County",31,55,1288
+29,047,06,037,CA,"Los Angeles County",26,49,1220
+29,047,29,003,MO,"Andrew County",24,43,800
+29,047,29,117,MO,"Livingston County",24,38,742
+29,047,20,161,KS,"Riley County",22,41,1072
+29,047,29,061,MO,"Daviess County",21,40,1042
+29,047,48,201,TX,"Harris County",21,45,1101
+29,047,48,439,TX,"Tarrant County",21,36,860
+29,047,29,097,MO,"Jasper County",20,34,603
+29,047,29,115,MO,"Linn County",20,28,612
+29,047,19,153,IA,"Polk County",19,38,869
+29,047,29,015,MO,"Benton County",19,39,357
+29,047,31,109,NE,"Lancaster County",19,33,912
+29,047,29,029,MO,"Camden County",18,31,418
+29,047,29,083,MO,"Henry County",18,36,870
+29,047,32,003,NV,"Clark County",18,37,740
+29,047,40,109,OK,"Oklahoma County",18,47,1471
+29,047,29,033,MO,"Carroll County",17,37,710
+29,047,29,195,MO,"Saline County",17,26,416
+29,047,08,041,CO,"El Paso County",16,38,1099
+29,047,22,071,LA,"Orleans Parish",16,44,467
+29,047,29,043,MO,"Christian County",16,28,810
+29,047,29,063,MO,"De Kalb County",16,35,805
+29,047,29,081,MO,"Harrison County",16,26,586
+29,047,40,143,OK,"Tulsa County",16,32,549
+29,047,29,510,MO,"St Louis",15,22,656
+29,047,48,113,TX,"Dallas County",15,19,625
+29,047,17,043,IL,"Du Page County",14,19,1052
+29,047,17,197,IL,"Will County",14,32,898
+29,047,19,113,IA,"Linn County",14,23,563
+29,047,29,159,MO,"Pettis County",14,32,563
+29,047,28,047,MS,"Harrison County",13,26,554
+29,047,29,051,MO,"Cole County",13,15,311
+29,047,29,079,MO,"Grundy County",13,24,294
+29,047,29,145,MO,"Newton County",13,20,163
+29,047,48,085,TX,"Collin County",13,26,798
+29,047,49,049,UT,"Utah County",13,34,347
+29,047,12,095,FL,"Orange County",12,24,479
+29,047,22,103,LA,"St Tammany Parish",12,31,528
+29,047,29,001,MO,"Adair County",12,24,436
+29,047,06,085,CA,"Santa Clara County",11,26,507
+29,047,12,057,FL,"Hillsborough County",11,25,538
+29,047,20,005,KS,"Atchison County",11,17,801
+29,047,26,163,MI,"Wayne County",11,21,669
+29,047,29,213,MO,"Taney County",11,15,207
+29,047,53,033,WA,"King County",11,21,479
+29,047,15,003,HI,"Honolulu County",10,21,204
+29,047,29,075,MO,"Gentry County",10,21,446
+29,047,31,079,NE,"Hall County",10,20,276
+29,047,58,000,SS,"Other Flows - Same State",215,375,7240
+29,047,59,000,DS,"Other Flows - Diff State",1446,2859,67755
+29,047,59,001,DS,"Other Flows - Northeast",122,238,6287
+29,047,59,003,DS,"Other Flows - Midwest",554,1086,25709
+29,047,59,005,DS,"Other Flows - South",538,1061,23181
+29,047,59,007,DS,"Other Flows - West",232,474,12578
+29,047,57,009,FR,"Foreign - Other flows",22,33,467
+29,049,96,000,MO,"Clinton County Tot Mig-US &",685,1430,29140
+29,049,97,000,MO,"Clinton County Tot Mig-US",685,1430,29140
+29,049,97,001,MO,"Clinton County Tot Mig-Same",546,1117,22106
+29,049,97,003,MO,"Clinton County Tot Mig-Diff",139,313,7034
+29,049,98,000,MO,"Clinton County Tot Mig-Fore",d,d,d
+29,049,29,049,MO,"Clinton County Non-Migrants",6817,15595,335587
+29,049,29,047,MO,"Clay County",171,373,7421
+29,049,29,095,MO,"Jackson County",61,132,2332
+29,049,29,165,MO,"Platte County",56,109,2528
+29,049,29,021,MO,"Buchanan County",45,79,1449
+29,049,29,025,MO,"Caldwell County",34,65,1001
+29,049,29,063,MO,"De Kalb County",28,53,1436
+29,049,29,061,MO,"Daviess County",22,45,1083
+29,049,29,177,MO,"Ray County",15,22,567
+29,049,20,209,KS,"Wyandotte County",11,18,386
+29,049,29,003,MO,"Andrew County",10,25,256
+29,049,29,081,MO,"Harrison County",10,23,349
+29,049,58,000,SS,"Other Flows - Same State",94,191,3684
+29,049,59,000,DS,"Other Flows - Diff State",128,295,6648
+29,051,96,000,MO,"Cole County Tot Mig-US & Fo",1970,3677,67477
+29,051,97,000,MO,"Cole County Tot Mig-US",1970,3677,67477
+29,051,97,001,MO,"Cole County Tot Mig-Same St",1455,2639,46116
+29,051,97,003,MO,"Cole County Tot Mig-Diff St",515,1038,21361
+29,051,98,000,MO,"Cole County Tot Mig-Foreign",d,d,d
+29,051,29,051,MO,"Cole County Non-Migrants",25754,56272,1427578
+29,051,29,027,MO,"Callaway County",293,574,8289
+29,051,29,019,MO,"Boone County",161,287,5867
+29,051,29,131,MO,"Miller County",123,212,3845
+29,051,29,135,MO,"Moniteau County",113,193,3033
+29,051,29,151,MO,"Osage County",92,166,3533
+29,051,29,189,MO,"St Louis County",76,137,2652
+29,051,29,095,MO,"Jackson County",51,97,1618
+29,051,29,510,MO,"St Louis",42,78,803
+29,051,29,077,MO,"Greene County",36,61,1605
+29,051,29,125,MO,"Maries County",29,48,556
+29,051,29,029,MO,"Camden County",27,43,846
+29,051,29,141,MO,"Morgan County",24,49,710
+29,051,29,183,MO,"St Charles County",23,39,800
+29,051,29,169,MO,"Pulaski County",22,41,586
+29,051,29,047,MO,"Clay County",21,44,1052
+29,051,29,161,MO,"Phelps County",21,35,887
+29,051,17,031,IL,"Cook County",19,42,505
+29,051,29,159,MO,"Pettis County",18,36,825
+29,051,20,091,KS,"Johnson County",16,35,777
+29,051,29,001,MO,"Adair County",16,35,299
+29,051,29,071,MO,"Franklin County",16,28,403
+29,051,29,175,MO,"Randolph County",13,26,254
+29,051,29,031,MO,"Cape Girardeau Count",12,27,460
+29,051,29,073,MO,"Gasconade County",12,18,349
+29,051,06,037,CA,"Los Angeles County",10,27,272
+29,051,29,097,MO,"Jasper County",10,20,210
+29,051,29,101,MO,"Johnson County",10,17,339
+29,051,58,000,SS,"Other Flows - Same State",194,328,6295
+29,051,59,000,DS,"Other Flows - Diff State",470,934,19807
+29,051,59,001,DS,"Other Flows - Northeast",33,63,1459
+29,051,59,003,DS,"Other Flows - Midwest",145,290,6182
+29,051,59,005,DS,"Other Flows - South",204,416,8953
+29,051,59,007,DS,"Other Flows - West",88,165,3213
+29,053,96,000,MO,"Cooper County Tot Mig-US &",442,954,15223
+29,053,97,000,MO,"Cooper County Tot Mig-US",442,954,15223
+29,053,97,001,MO,"Cooper County Tot Mig-Same",337,708,11290
+29,053,97,003,MO,"Cooper County Tot Mig-Diff",105,246,3934
+29,053,98,000,MO,"Cooper County Tot Mig-Forei",d,d,d
+29,053,29,053,MO,"Cooper County Non-Migrants",5539,12164,222386
+29,053,29,019,MO,"Boone County",95,202,3350
+29,053,29,089,MO,"Howard County",56,120,1469
+29,053,29,159,MO,"Pettis County",24,61,518
+29,053,29,135,MO,"Moniteau County",20,32,690
+29,053,29,195,MO,"Saline County",20,45,658
+29,053,29,095,MO,"Jackson County",12,27,469
+29,053,29,175,MO,"Randolph County",10,17,203
+29,053,58,000,SS,"Other Flows - Same State",100,204,3933
+29,053,59,000,DS,"Other Flows - Diff State",105,246,3934
+29,055,96,000,MO,"Crawford County Tot Mig-US",576,1175,16922
+29,055,97,000,MO,"Crawford County Tot Mig-US",576,1175,16922
+29,055,97,001,MO,"Crawford County Tot Mig-Sam",451,899,12198
+29,055,97,003,MO,"Crawford County Tot Mig-Dif",125,276,4724
+29,055,98,000,MO,"Crawford County Tot Mig-For",d,d,d
+29,055,29,055,MO,"Crawford County Non-Migrant",7627,17203,286965
+29,055,29,071,MO,"Franklin County",139,309,4037
+29,055,29,161,MO,"Phelps County",51,105,1440
+29,055,29,189,MO,"St Louis County",49,82,1523
+29,055,29,099,MO,"Jefferson County",29,64,708
+29,055,29,183,MO,"St Charles County",20,40,699
+29,055,29,510,MO,"St Louis",19,24,566
+29,055,29,065,MO,"Dent County",13,29,316
+29,055,29,073,MO,"Gasconade County",13,22,215
+29,055,29,187,MO,"St Francois County",10,17,162
+29,055,58,000,SS,"Other Flows - Same State",108,207,2532
+29,055,59,000,DS,"Other Flows - Diff State",125,276,4724
+29,057,96,000,MO,"Dade County Tot Mig-US & Fo",219,483,5895
+29,057,97,000,MO,"Dade County Tot Mig-US",219,483,5895
+29,057,97,001,MO,"Dade County Tot Mig-Same St",162,357,3538
+29,057,97,003,MO,"Dade County Tot Mig-Diff St",57,126,2357
+29,057,98,000,MO,"Dade County Tot Mig-Foreign",d,d,d
+29,057,29,057,MO,"Dade County Non-Migrants",2593,5807,91635
+29,057,29,077,MO,"Greene County",45,97,1319
+29,057,29,109,MO,"Lawrence County",24,54,111
+29,057,29,011,MO,"Barton County",21,56,426
+29,057,29,097,MO,"Jasper County",10,13,163
+29,057,29,167,MO,"Polk County",10,16,123
+29,057,58,000,SS,"Other Flows - Same State",52,121,1395
+29,057,59,000,DS,"Other Flows - Diff State",57,126,2357
+29,059,96,000,MO,"Dallas County Tot Mig-US &",535,1170,16749
+29,059,97,000,MO,"Dallas County Tot Mig-US",535,1170,16749
+29,059,97,001,MO,"Dallas County Tot Mig-Same",364,803,11311
+29,059,97,003,MO,"Dallas County Tot Mig-Diff",171,367,5438
+29,059,98,000,MO,"Dallas County Tot Mig-Forei",d,d,d
+29,059,29,059,MO,"Dallas County Non-Migrants",4836,11180,161997
+29,059,29,077,MO,"Greene County",107,204,3690
+29,059,29,167,MO,"Polk County",39,97,1043
+29,059,29,105,MO,"Laclede County",36,93,906
+29,059,29,085,MO,"Hickory County",21,49,473
+29,059,29,225,MO,"Webster County",20,48,466
+29,059,29,043,MO,"Christian County",15,28,364
+29,059,29,015,MO,"Benton County",10,19,150
+29,059,29,029,MO,"Camden County",10,25,226
+29,059,29,213,MO,"Taney County",10,23,339
+29,059,58,000,SS,"Other Flows - Same State",96,217,3655
+29,059,59,000,DS,"Other Flows - Diff State",171,367,5438
+29,061,96,000,MO,"Daviess County Tot Mig-US &",220,500,6998
+29,061,97,000,MO,"Daviess County Tot Mig-US",220,500,6998
+29,061,97,001,MO,"Daviess County Tot Mig-Same",152,338,4340
+29,061,97,003,MO,"Daviess County Tot Mig-Diff",68,162,2658
+29,061,98,000,MO,"Daviess County Tot Mig-Fore",d,d,d
+29,061,29,061,MO,"Daviess County Non-Migrants",2703,6504,97736
+29,061,29,049,MO,"Clinton County",21,48,653
+29,061,29,095,MO,"Jackson County",16,29,615
+29,061,29,047,MO,"Clay County",12,25,479
+29,061,29,079,MO,"Grundy County",12,37,335
+29,061,29,025,MO,"Caldwell County",11,20,210
+29,061,29,063,MO,"De Kalb County",10,30,185
+29,061,58,000,SS,"Other Flows - Same State",70,149,1864
+29,061,59,000,DS,"Other Flows - Diff State",68,162,2658
+29,063,96,000,MO,"De Kalb County Tot Mig-US &",276,606,8633
+29,063,97,000,MO,"De Kalb County Tot Mig-US",276,606,8633
+29,063,97,001,MO,"De Kalb County Tot Mig-Same",215,467,6315
+29,063,97,003,MO,"De Kalb County Tot Mig-Diff",61,139,2319
+29,063,98,000,MO,"De Kalb County Tot Mig-Fore",d,d,d
+29,063,29,063,MO,"De Kalb County Non-Migrants",3039,7072,123625
+29,063,29,021,MO,"Buchanan County",78,161,2474
+29,063,29,049,MO,"Clinton County",24,51,766
+29,063,29,003,MO,"Andrew County",21,38,674
+29,063,29,047,MO,"Clay County",18,32,446
+29,063,29,061,MO,"Daviess County",15,38,422
+29,063,29,025,MO,"Caldwell County",12,28,232
+29,063,58,000,SS,"Other Flows - Same State",47,119,1301
+29,063,59,000,DS,"Other Flows - Diff State",61,139,2319
+29,065,96,000,MO,"Dent County Tot Mig-US & Fo",340,777,9171
+29,065,97,000,MO,"Dent County Tot Mig-US",340,777,9171
+29,065,97,001,MO,"Dent County Tot Mig-Same St",209,469,5383
+29,065,97,003,MO,"Dent County Tot Mig-Diff St",131,308,3789
+29,065,98,000,MO,"Dent County Tot Mig-Foreign",d,d,d
+29,065,29,065,MO,"Dent County Non-Migrants",4508,10176,175915
+29,065,29,161,MO,"Phelps County",53,121,1363
+29,065,29,189,MO,"St Louis County",15,26,493
+29,065,29,215,MO,"Texas County",13,44,351
+29,065,29,179,MO,"Reynolds County",11,27,325
+29,065,58,000,SS,"Other Flows - Same State",117,251,2852
+29,065,59,000,DS,"Other Flows - Diff State",131,308,3789
+29,067,96,000,MO,"Douglas County Tot Mig-US &",322,734,9667
+29,067,97,000,MO,"Douglas County Tot Mig-US",322,734,9667
+29,067,97,001,MO,"Douglas County Tot Mig-Same",177,397,4518
+29,067,97,003,MO,"Douglas County Tot Mig-Diff",145,337,5149
+29,067,98,000,MO,"Douglas County Tot Mig-Fore",d,d,d
+29,067,29,067,MO,"Douglas County Non-Migrants",3797,8821,110534
+29,067,29,229,MO,"Wright County",36,83,943
+29,067,29,153,MO,"Ozark County",28,61,593
+29,067,29,077,MO,"Greene County",25,46,641
+29,067,29,043,MO,"Christian County",18,40,359
+29,067,29,091,MO,"Howell County",11,29,258
+29,067,29,225,MO,"Webster County",10,21,284
+29,067,58,000,SS,"Other Flows - Same State",49,117,1441
+29,067,59,000,DS,"Other Flows - Diff State",145,337,5149
+29,069,96,000,MO,"Dunklin County Tot Mig-US &",559,1255,12378
+29,069,97,000,MO,"Dunklin County Tot Mig-US",559,1255,12378
+29,069,97,001,MO,"Dunklin County Tot Mig-Same",288,627,5914
+29,069,97,003,MO,"Dunklin County Tot Mig-Diff",271,628,6465
+29,069,98,000,MO,"Dunklin County Tot Mig-Fore",d,d,d
+29,069,29,069,MO,"Dunklin County Non-Migrants",9539,21792,334372
+29,069,29,155,MO,"Pemiscot County",63,137,1163
+29,069,29,143,MO,"New Madrid County",41,86,947
+29,069,29,023,MO,"Butler County",40,84,786
+29,069,29,207,MO,"Stoddard County",37,85,886
+29,069,05,021,AR,"Clay County",32,85,715
+29,069,29,031,MO,"Cape Girardeau Count",19,35,282
+29,069,05,055,AR,"Greene County",16,42,379
+29,069,05,093,AR,"Mississippi County",15,34,486
+29,069,05,031,AR,"Craighead County",14,26,246
+29,069,29,189,MO,"St Louis County",11,26,273
+29,069,29,201,MO,"Scott County",11,26,274
+29,069,48,215,TX,"Hidalgo County",11,31,159
+29,069,58,000,SS,"Other Flows - Same State",66,148,1301
+29,069,59,000,DS,"Other Flows - Diff State",183,410,4479
+29,069,59,001,DS,"Other Flows - Northeast",10,17,255
+29,069,59,003,DS,"Other Flows - Midwest",44,99,759
+29,069,59,005,DS,"Other Flows - South",112,256,2811
+29,069,59,007,DS,"Other Flows - West",17,38,654
+29,071,96,000,MO,"Franklin County Tot Mig-US",2229,4469,89495
+29,071,97,000,MO,"Franklin County Tot Mig-US",2217,4447,89225
+29,071,97,001,MO,"Franklin County Tot Mig-Sam",1708,3422,67633
+29,071,97,003,MO,"Franklin County Tot Mig-Dif",509,1025,21592
+29,071,98,000,MO,"Franklin County Tot Mig-For",12,22,270
+29,071,29,071,MO,"Franklin County Non-Migrant",35424,80968,1892853
+29,071,29,189,MO,"St Louis County",535,1053,29322
+29,071,29,099,MO,"Jefferson County",253,557,8731
+29,071,29,055,MO,"Crawford County",141,283,4567
+29,071,29,073,MO,"Gasconade County",128,257,3006
+29,071,29,183,MO,"St Charles County",124,241,5095
+29,071,29,510,MO,"St Louis",101,207,3979
+29,071,29,219,MO,"Warren County",83,153,2844
+29,071,29,221,MO,"Washington County",31,62,721
+29,071,29,161,MO,"Phelps County",29,46,752
+29,071,29,077,MO,"Greene County",21,33,927
+29,071,29,187,MO,"St Francois County",20,40,556
+29,071,17,163,IL,"St Clair County",18,27,588
+29,071,29,019,MO,"Boone County",18,29,706
+29,071,17,119,IL,"Madison County",15,38,561
+29,071,29,113,MO,"Lincoln County",13,23,404
+29,071,29,027,MO,"Callaway County",10,14,213
+29,071,29,047,MO,"Clay County",10,21,444
+29,071,29,051,MO,"Cole County",10,29,371
+29,071,58,000,SS,"Other Flows - Same State",181,374,4994
+29,071,59,000,DS,"Other Flows - Diff State",476,960,20443
+29,071,59,001,DS,"Other Flows - Northeast",31,56,1827
+29,071,59,003,DS,"Other Flows - Midwest",162,342,7759
+29,071,59,005,DS,"Other Flows - South",198,361,7230
+29,071,59,007,DS,"Other Flows - West",85,201,3626
+29,071,57,009,FR,"Foreign - Other flows",12,22,270
+29,073,96,000,MO,"Gasconade Count Tot Mig-US",411,827,13499
+29,073,97,000,MO,"Gasconade Count Tot Mig-US",411,827,13499
+29,073,97,001,MO,"Gasconade Count Tot Mig-Sam",336,675,10606
+29,073,97,003,MO,"Gasconade Count Tot Mig-Dif",75,152,2892
+29,073,98,000,MO,"Gasconade Count Tot Mig-For",d,d,d
+29,073,29,073,MO,"Gasconade Count Non-Migrant",5500,12158,237931
+29,073,29,071,MO,"Franklin County",122,270,3959
+29,073,29,189,MO,"St Louis County",30,52,1458
+29,073,29,125,MO,"Maries County",25,48,522
+29,073,29,151,MO,"Osage County",18,36,523
+29,073,29,055,MO,"Crawford County",16,29,386
+29,073,29,139,MO,"Montgomery County",16,39,479
+29,073,29,183,MO,"St Charles County",15,28,670
+29,073,29,510,MO,"St Louis",13,23,297
+29,073,29,099,MO,"Jefferson County",12,27,378
+29,073,29,161,MO,"Phelps County",11,20,221
+29,073,58,000,SS,"Other Flows - Same State",58,103,1713
+29,073,59,000,DS,"Other Flows - Diff State",75,152,2892
+29,075,96,000,MO,"Gentry County Tot Mig-US &",121,237,3617
+29,075,97,000,MO,"Gentry County Tot Mig-US",121,237,3617
+29,075,97,001,MO,"Gentry County Tot Mig-Same",90,167,2465
+29,075,97,003,MO,"Gentry County Tot Mig-Diff",31,70,1151
+29,075,98,000,MO,"Gentry County Tot Mig-Forei",d,d,d
+29,075,29,075,MO,"Gentry County Non-Migrants",2290,5155,80628
+29,075,29,021,MO,"Buchanan County",23,43,484
+29,075,29,081,MO,"Harrison County",11,23,324
+29,075,58,000,SS,"Other Flows - Same State",56,101,1658
+29,075,59,000,DS,"Other Flows - Diff State",31,70,1151
+29,077,96,000,MO,"Greene County Tot Mig-US &",8677,15894,276674
+29,077,97,000,MO,"Greene County Tot Mig-US",8535,15712,274972
+29,077,97,001,MO,"Greene County Tot Mig-Same",4991,8663,142864
+29,077,97,003,MO,"Greene County Tot Mig-Diff",3544,7049,132107
+29,077,98,000,MO,"Greene County Tot Mig-Forei",142,182,1703
+29,077,29,077,MO,"Greene County Non-Migrants",87421,182215,4451018
+29,077,29,043,MO,"Christian County",1155,2066,37474
+29,077,29,225,MO,"Webster County",452,898,12129
+29,077,29,167,MO,"Polk County",281,555,7775
+29,077,29,109,MO,"Lawrence County",236,416,6657
+29,077,29,213,MO,"Taney County",182,289,3654
+29,077,29,209,MO,"Stone County",171,293,5127
+29,077,29,095,MO,"Jackson County",155,244,4816
+29,077,29,097,MO,"Jasper County",144,251,3948
+29,077,29,189,MO,"St Louis County",140,208,4974
+29,077,29,059,MO,"Dallas County",135,254,3437
+29,077,29,091,MO,"Howell County",115,194,3170
+29,077,29,105,MO,"Laclede County",108,200,2637
+29,077,29,229,MO,"Wright County",100,167,2514
+29,077,29,009,MO,"Barry County",88,145,2570
+29,077,29,057,MO,"Dade County",77,136,1924
+29,077,29,183,MO,"St Charles County",77,132,2754
+29,077,20,091,KS,"Johnson County",68,119,3009
+29,077,29,019,MO,"Boone County",66,100,1763
+29,077,04,013,AZ,"Maricopa County",62,137,2795
+29,077,29,067,MO,"Douglas County",60,103,1449
+29,077,29,029,MO,"Camden County",58,87,1742
+29,077,29,047,MO,"Clay County",58,114,2376
+29,077,29,161,MO,"Phelps County",58,96,1318
+29,077,29,145,MO,"Newton County",57,89,1467
+29,077,40,143,OK,"Tulsa County",54,107,1883
+29,077,06,037,CA,"Los Angeles County",50,103,2314
+29,077,06,073,CA,"San Diego County",46,77,2201
+29,077,29,039,MO,"Cedar County",45,70,833
+29,077,29,099,MO,"Jefferson County",45,73,1057
+29,077,29,215,MO,"Texas County",45,97,1032
+29,077,05,007,AR,"Benton County",44,86,1855
+29,077,29,051,MO,"Cole County",44,65,1346
+29,077,29,169,MO,"Pulaski County",43,75,1107
+29,077,20,173,KS,"Sedgwick County",42,100,1605
+29,077,05,009,AR,"Boone County",38,79,1028
+29,077,29,071,MO,"Franklin County",38,53,1085
+29,077,29,085,MO,"Hickory County",38,59,809
+29,077,32,003,NV,"Clark County",38,69,1356
+29,077,06,065,CA,"Riverside County",35,81,1673
+29,077,17,031,IL,"Cook County",33,52,1073
+29,077,48,439,TX,"Tarrant County",32,73,4602
+29,077,05,143,AR,"Washington County",31,67,932
+29,077,29,027,MO,"Callaway County",30,43,783
+29,077,29,165,MO,"Platte County",30,46,778
+29,077,29,510,MO,"St Louis",30,41,1551
+29,077,29,037,MO,"Cass County",29,61,842
+29,077,05,005,AR,"Baxter County",28,47,691
+29,077,06,059,CA,"Orange County",28,40,1085
+29,077,06,067,CA,"Sacramento County",28,69,704
+29,077,29,023,MO,"Butler County",26,44,533
+29,077,06,071,CA,"San Bernardino Count",25,69,982
+29,077,47,157,TN,"Shelby County",25,51,1506
+29,077,48,201,TX,"Harris County",25,42,917
+29,077,29,011,MO,"Barton County",24,35,540
+29,077,29,217,MO,"Vernon County",23,33,441
+29,077,15,003,HI,"Honolulu County",22,41,739
+29,077,57,005,FR,"Foreign - APO/FPO ZIPs",22,34,571
+29,077,05,119,AR,"Pulaski County",21,39,1054
+29,077,08,005,CO,"Arapahoe County",21,38,567
+29,077,29,021,MO,"Buchanan County",21,29,552
+29,077,29,031,MO,"Cape Girardeau Count",21,29,453
+29,077,08,041,CO,"El Paso County",20,50,992
+29,077,20,037,KS,"Crawford County",20,30,441
+29,077,29,083,MO,"Henry County",20,32,464
+29,077,29,131,MO,"Miller County",20,29,283
+29,077,29,153,MO,"Ozark County",20,31,360
+29,077,29,159,MO,"Pettis County",20,41,641
+29,077,40,109,OK,"Oklahoma County",20,43,817
+29,077,29,065,MO,"Dent County",19,23,292
+29,077,29,185,MO,"St Clair County",19,28,355
+29,077,48,113,TX,"Dallas County",19,28,830
+29,077,04,019,AZ,"Pima County",18,31,615
+29,077,20,045,KS,"Douglas County",18,28,299
+29,077,22,051,LA,"Jefferson Parish",18,40,479
+29,077,29,101,MO,"Johnson County",18,26,561
+29,077,29,149,MO,"Oregon County",17,27,335
+29,077,12,011,FL,"Broward County",16,25,660
+29,077,17,119,IL,"Madison County",16,31,490
+29,077,20,209,KS,"Wyandotte County",16,27,509
+29,077,28,047,MS,"Harrison County",16,27,434
+29,077,31,055,NE,"Douglas County",16,24,690
+29,077,05,015,AR,"Carroll County",15,26,446
+29,077,05,131,AR,"Sebastian County",15,22,499
+29,077,12,099,FL,"Palm Beach County",15,32,375
+29,077,17,163,IL,"St Clair County",15,27,358
+29,077,19,153,IA,"Polk County",15,28,426
+29,077,29,201,MO,"Scott County",15,30,443
+29,077,41,051,OR,"Multnomah County",15,42,290
+29,077,53,053,WA,"Pierce County",15,27,362
+29,077,12,033,FL,"Escambia County",14,30,591
+29,077,29,015,MO,"Benton County",14,19,100
+29,077,31,109,NE,"Lancaster County",14,25,514
+29,077,48,121,TX,"Denton County",14,37,707
+29,077,12,095,FL,"Orange County",13,33,415
+29,077,20,161,KS,"Riley County",13,25,407
+29,077,35,001,NM,"Bernalillo County",13,26,344
+29,077,22,071,LA,"Orleans Parish",12,23,176
+29,077,27,053,MN,"Hennepin County",12,23,424
+29,077,29,113,MO,"Lincoln County",12,14,161
+29,077,29,135,MO,"Moniteau County",12,15,194
+29,077,04,015,AZ,"Mohave County",11,25,373
+29,077,05,089,AR,"Marion County",11,21,405
+29,077,12,057,FL,"Hillsborough County",11,15,232
+29,077,12,103,FL,"Pinellas County",11,14,253
+29,077,12,105,FL,"Polk County",11,21,283
+29,077,29,013,MO,"Bates County",11,20,272
+29,077,29,055,MO,"Crawford County",11,16,389
+29,077,29,141,MO,"Morgan County",11,16,248
+29,077,29,187,MO,"St Francois County",11,21,353
+29,077,29,195,MO,"Saline County",11,19,593
+29,077,40,027,OK,"Cleveland County",11,16,397
+29,077,40,115,OK,"Ottawa County",11,22,217
+29,077,48,491,TX,"Williamson County",11,20,478
+29,077,02,020,AK,"Anchorage Borough",10,14,316
+29,077,06,029,CA,"Kern County",10,31,311
+29,077,06,107,CA,"Tulare County",10,17,338
+29,077,20,177,KS,"Shawnee County",10,17,381
+29,077,21,111,KY,"Jefferson County",10,20,356
+29,077,29,181,MO,"Ripley County",10,22,173
+29,077,48,029,TX,"Bexar County",10,19,454
+29,077,48,141,TX,"El Paso County",10,19,413
+29,077,48,453,TX,"Travis County",10,13,457
+29,077,51,810,VA,"Virginia Beach",10,20,388
+29,077,58,000,SS,"Other Flows - Same State",215,344,7231
+29,077,59,000,DS,"Other Flows - Diff State",2147,4329,77892
+29,077,59,001,DS,"Other Flows - Northeast",181,371,8840
+29,077,59,003,DS,"Other Flows - Midwest",680,1353,23392
+29,077,59,005,DS,"Other Flows - South",908,1848,32745
+29,077,59,007,DS,"Other Flows - West",378,757,12915
+29,077,57,009,FR,"Foreign - Other flows",120,148,1132
+29,079,96,000,MO,"Grundy County Tot Mig-US &",212,454,5281
+29,079,97,000,MO,"Grundy County Tot Mig-US",212,454,5281
+29,079,97,001,MO,"Grundy County Tot Mig-Same",128,263,3025
+29,079,97,003,MO,"Grundy County Tot Mig-Diff",84,191,2256
+29,079,98,000,MO,"Grundy County Tot Mig-Forei",d,d,d
+29,079,29,079,MO,"Grundy County Non-Migrants",3396,7458,121964
+29,079,29,117,MO,"Livingston County",19,38,343
+29,079,29,211,MO,"Sullivan County",11,28,238
+29,079,29,061,MO,"Daviess County",10,25,248
+29,079,29,095,MO,"Jackson County",10,17,251
+29,079,29,129,MO,"Mercer County",10,19,248
+29,079,58,000,SS,"Other Flows - Same State",68,136,1697
+29,079,59,000,DS,"Other Flows - Diff State",84,191,2256
+29,081,96,000,MO,"Harrison County Tot Mig-US",175,396,5520
+29,081,97,000,MO,"Harrison County Tot Mig-US",175,396,5520
+29,081,97,001,MO,"Harrison County Tot Mig-Sam",97,218,2876
+29,081,97,003,MO,"Harrison County Tot Mig-Dif",78,178,2644
+29,081,98,000,MO,"Harrison County Tot Mig-For",d,d,d
+29,081,29,081,MO,"Harrison County Non-Migrant",2975,6534,95753
+29,081,29,075,MO,"Gentry County",14,31,248
+29,081,29,147,MO,"Nodaway County",10,20,419
+29,081,58,000,SS,"Other Flows - Same State",73,167,2210
+29,081,59,000,DS,"Other Flows - Diff State",78,178,2644
+29,083,96,000,MO,"Henry County Tot Mig-US & F",622,1331,21682
+29,083,97,000,MO,"Henry County Tot Mig-US",622,1331,21682
+29,083,97,001,MO,"Henry County Tot Mig-Same S",448,943,14859
+29,083,97,003,MO,"Henry County Tot Mig-Diff S",174,388,6823
+29,083,98,000,MO,"Henry County Tot Mig-Foreig",d,d,d
+29,083,29,083,MO,"Henry County Non-Migrants",7462,16323,299364
+29,083,29,101,MO,"Johnson County",65,138,2229
+29,083,29,095,MO,"Jackson County",64,140,2421
+29,083,29,037,MO,"Cass County",55,126,2239
+29,083,29,185,MO,"St Clair County",52,112,1175
+29,083,29,015,MO,"Benton County",36,83,1402
+29,083,29,159,MO,"Pettis County",25,59,600
+29,083,29,077,MO,"Greene County",14,22,386
+29,083,29,047,MO,"Clay County",13,30,550
+29,083,20,091,KS,"Johnson County",12,23,305
+29,083,29,107,MO,"Lafayette County",11,18,313
+29,083,29,013,MO,"Bates County",10,20,326
+29,083,58,000,SS,"Other Flows - Same State",103,195,3219
+29,083,59,000,DS,"Other Flows - Diff State",162,365,6517
+29,085,96,000,MO,"Hickory County Tot Mig-US &",272,589,8565
+29,085,97,000,MO,"Hickory County Tot Mig-US",272,589,8565
+29,085,97,001,MO,"Hickory County Tot Mig-Same",191,401,6021
+29,085,97,003,MO,"Hickory County Tot Mig-Diff",81,188,2544
+29,085,98,000,MO,"Hickory County Tot Mig-Fore",d,d,d
+29,085,29,085,MO,"Hickory County Non-Migrants",2756,5909,84477
+29,085,29,167,MO,"Polk County",31,66,1024
+29,085,29,095,MO,"Jackson County",28,49,1191
+29,085,29,059,MO,"Dallas County",17,41,548
+29,085,29,077,MO,"Greene County",15,35,412
+29,085,29,029,MO,"Camden County",12,26,222
+29,085,29,015,MO,"Benton County",11,22,429
+29,085,58,000,SS,"Other Flows - Same State",77,162,2195
+29,085,59,000,DS,"Other Flows - Diff State",81,188,2544
+29,087,96,000,MO,"Holt County Tot Mig-US & Fo",123,250,3184
+29,087,97,000,MO,"Holt County Tot Mig-US",123,250,3184
+29,087,97,001,MO,"Holt County Tot Mig-Same St",94,186,2309
+29,087,97,003,MO,"Holt County Tot Mig-Diff St",29,64,875
+29,087,98,000,MO,"Holt County Tot Mig-Foreign",d,d,d
+29,087,29,087,MO,"Holt County Non-Migrants",1827,3976,69350
+29,087,29,021,MO,"Buchanan County",32,72,781
+29,087,29,147,MO,"Nodaway County",20,31,432
+29,087,58,000,SS,"Other Flows - Same State",42,83,1096
+29,087,59,000,DS,"Other Flows - Diff State",29,64,875
+29,089,96,000,MO,"Howard County Tot Mig-US &",257,511,7660
+29,089,97,000,MO,"Howard County Tot Mig-US",257,511,7660
+29,089,97,001,MO,"Howard County Tot Mig-Same",215,434,6092
+29,089,97,003,MO,"Howard County Tot Mig-Diff",42,77,1568
+29,089,98,000,MO,"Howard County Tot Mig-Forei",d,d,d
+29,089,29,089,MO,"Howard County Non-Migrants",3346,7388,129930
+29,089,29,019,MO,"Boone County",68,140,2218
+29,089,29,053,MO,"Cooper County",60,110,1364
+29,089,29,041,MO,"Chariton County",12,23,415
+29,089,29,175,MO,"Randolph County",11,32,258
+29,089,29,195,MO,"Saline County",10,18,238
+29,089,58,000,SS,"Other Flows - Same State",54,111,1598
+29,089,59,000,DS,"Other Flows - Diff State",42,77,1568
+29,091,96,000,MO,"Howell County Tot Mig-US &",867,1878,25358
+29,091,97,000,MO,"Howell County Tot Mig-US",867,1878,25358
+29,091,97,001,MO,"Howell County Tot Mig-Same",406,838,11692
+29,091,97,003,MO,"Howell County Tot Mig-Diff",461,1040,13666
+29,091,98,000,MO,"Howell County Tot Mig-Forei",d,d,d
+29,091,29,091,MO,"Howell County Non-Migrants",12064,27927,431292
+29,091,29,149,MO,"Oregon County",52,111,1006
+29,091,29,077,MO,"Greene County",43,78,1256
+29,091,29,215,MO,"Texas County",42,84,892
+29,091,29,203,MO,"Shannon County",39,90,728
+29,091,29,153,MO,"Ozark County",36,82,592
+29,091,05,049,AR,"Fulton County",17,30,303
+29,091,29,213,MO,"Taney County",15,29,470
+29,091,29,067,MO,"Douglas County",13,30,403
+29,091,29,229,MO,"Wright County",12,25,294
+29,091,04,013,AZ,"Maricopa County",11,17,341
+29,091,05,005,AR,"Baxter County",11,21,287
+29,091,29,043,MO,"Christian County",10,24,881
+29,091,29,189,MO,"St Louis County",10,20,218
+29,091,58,000,SS,"Other Flows - Same State",134,265,4950
+29,091,59,000,DS,"Other Flows - Diff State",422,972,12734
+29,091,59,001,DS,"Other Flows - Northeast",23,54,760
+29,091,59,003,DS,"Other Flows - Midwest",107,234,1551
+29,091,59,005,DS,"Other Flows - South",198,458,6879
+29,091,59,007,DS,"Other Flows - West",94,226,3544
+29,093,96,000,MO,"Iron County Tot Mig-US & Fo",276,578,7260
+29,093,97,000,MO,"Iron County Tot Mig-US",276,578,7260
+29,093,97,001,MO,"Iron County Tot Mig-Same St",220,467,5521
+29,093,97,003,MO,"Iron County Tot Mig-Diff St",56,111,1739
+29,093,98,000,MO,"Iron County Tot Mig-Foreign",d,d,d
+29,093,29,093,MO,"Iron County Non-Migrants",3160,7286,106762
+29,093,29,187,MO,"St Francois County",60,119,1249
+29,093,29,189,MO,"St Louis County",25,48,863
+29,093,29,221,MO,"Washington County",19,37,387
+29,093,29,099,MO,"Jefferson County",18,41,680
+29,093,29,123,MO,"Madison County",15,34,425
+29,093,29,055,MO,"Crawford County",11,26,302
+29,093,29,179,MO,"Reynolds County",10,23,175
+29,093,29,510,MO,"St Louis",10,23,224
+29,093,58,000,SS,"Other Flows - Same State",52,116,1217
+29,093,59,000,DS,"Other Flows - Diff State",56,111,1739
+29,095,96,000,MO,"Jackson County Tot Mig-US &",15292,26572,570704
+29,095,97,000,MO,"Jackson County Tot Mig-US",15061,26265,567329
+29,095,97,001,MO,"Jackson County Tot Mig-Same",5874,10120,189462
+29,095,97,003,MO,"Jackson County Tot Mig-Diff",9187,16145,377868
+29,095,98,000,MO,"Jackson County Tot Mig-Fore",231,307,3375
+29,095,29,095,MO,"Jackson County Non-Migrants",226978,480112,11479063
+29,095,20,091,KS,"Johnson County",2529,3874,121784
+29,095,29,047,MO,"Clay County",1489,2609,48696
+29,095,29,037,MO,"Cass County",1047,1848,34296
+29,095,20,209,KS,"Wyandotte County",805,1667,20220
+29,095,29,165,MO,"Platte County",553,886,19611
+29,095,29,107,MO,"Lafayette County",361,674,11010
+29,095,29,101,MO,"Johnson County",318,581,11212
+29,095,29,019,MO,"Boone County",223,332,6390
+29,095,29,189,MO,"St Louis County",198,306,7574
+29,095,20,045,KS,"Douglas County",174,220,5240
+29,095,29,077,MO,"Greene County",174,262,4846
+29,095,06,037,CA,"Los Angeles County",133,272,19026
+29,095,04,013,AZ,"Maricopa County",124,236,4713
+29,095,20,173,KS,"Sedgwick County",121,223,2606
+29,095,29,021,MO,"Buchanan County",119,195,3073
+29,095,17,031,IL,"Cook County",117,178,4906
+29,095,20,177,KS,"Shawnee County",95,174,3065
+29,095,31,055,NE,"Douglas County",92,137,4185
+29,095,20,103,KS,"Leavenworth County",90,163,3085
+29,095,22,071,LA,"Orleans Parish",86,206,1846
+29,095,29,177,MO,"Ray County",79,151,2547
+29,095,48,201,TX,"Harris County",74,121,2802
+29,095,29,183,MO,"St Charles County",71,124,2620
+29,095,29,051,MO,"Cole County",66,109,2106
+29,095,29,159,MO,"Pettis County",65,117,2393
+29,095,48,113,TX,"Dallas County",65,122,2663
+29,095,40,143,OK,"Tulsa County",64,127,2440
+29,095,29,049,MO,"Clinton County",61,112,1552
+29,095,06,073,CA,"San Diego County",59,111,1711
+29,095,29,083,MO,"Henry County",59,105,2041
+29,095,57,005,FR,"Foreign - APO/FPO ZIPs",59,107,1607
+29,095,19,153,IA,"Polk County",58,103,3938
+29,095,29,510,MO,"St Louis",53,73,1880
+29,095,40,109,OK,"Oklahoma County",51,94,2758
+29,095,06,059,CA,"Orange County",48,98,2055
+29,095,29,097,MO,"Jasper County",48,74,1352
+29,095,32,003,NV,"Clark County",47,103,2571
+29,095,20,161,KS,"Riley County",45,63,1534
+29,095,29,015,MO,"Benton County",44,84,1068
+29,095,29,029,MO,"Camden County",44,73,1738
+29,095,29,013,MO,"Bates County",42,79,944
+29,095,27,053,MN,"Hennepin County",41,76,1405
+29,095,31,109,NE,"Lancaster County",41,63,1213
+29,095,04,019,AZ,"Pima County",40,75,1512
+29,095,06,071,CA,"San Bernardino Count",37,77,1319
+29,095,22,051,LA,"Jefferson Parish",36,80,912
+29,095,20,121,KS,"Miami County",35,64,1427
+29,095,48,439,TX,"Tarrant County",35,57,1195
+29,095,29,043,MO,"Christian County",34,68,1246
+29,095,08,031,CO,"Denver County",33,52,1571
+29,095,47,157,TN,"Shelby County",33,65,1132
+29,095,48,453,TX,"Travis County",31,50,1452
+29,095,29,147,MO,"Nodaway County",30,36,772
+29,095,06,065,CA,"Riverside County",29,67,1078
+29,095,26,163,MI,"Wayne County",29,60,1052
+29,095,29,195,MO,"Saline County",29,40,890
+29,095,48,029,TX,"Bexar County",29,46,1295
+29,095,06,067,CA,"Sacramento County",28,65,2829
+29,095,55,079,WI,"Milwaukee County",27,43,707
+29,095,29,033,MO,"Carroll County",26,50,885
+29,095,05,119,AR,"Pulaski County",25,38,848
+29,095,08,005,CO,"Arapahoe County",25,53,1055
+29,095,08,041,CO,"El Paso County",25,45,644
+29,095,29,141,MO,"Morgan County",25,46,724
+29,095,36,061,NY,"New York County",25,35,1346
+29,095,15,003,HI,"Honolulu County",24,60,892
+29,095,18,097,IN,"Marion County",23,46,799
+29,095,53,033,WA,"King County",23,35,733
+29,095,12,057,FL,"Hillsborough County",22,37,913
+29,095,12,086,FL,"Miami Dade County",22,42,691
+29,095,29,217,MO,"Vernon County",22,41,685
+29,095,39,049,OH,"Franklin County",22,41,639
+29,095,05,143,AR,"Washington County",21,41,722
+29,095,13,089,GA,"De Kalb County",21,31,550
+29,095,20,059,KS,"Franklin County",21,35,617
+29,095,26,125,MI,"Oakland County",21,35,1313
+29,095,48,085,TX,"Collin County",21,38,1113
+29,095,05,007,AR,"Benton County",20,45,1122
+29,095,06,085,CA,"Santa Clara County",20,47,1248
+29,095,29,027,MO,"Callaway County",20,31,487
+29,095,29,167,MO,"Polk County",20,43,529
+29,095,29,213,MO,"Taney County",20,47,719
+29,095,39,035,OH,"Cuyahoga County",20,34,1138
+29,095,47,037,TN,"Davidson County",20,25,571
+29,095,08,035,CO,"Douglas County",19,38,1259
+29,095,17,097,IL,"Lake County",19,39,957
+29,095,20,005,KS,"Atchison County",19,29,514
+29,095,20,037,KS,"Crawford County",19,33,512
+29,095,29,031,MO,"Cape Girardeau Count",19,29,559
+29,095,29,117,MO,"Livingston County",19,46,431
+29,095,31,153,NE,"Sarpy County",19,34,645
+29,095,17,043,IL,"Du Page County",18,31,941
+29,095,06,001,CA,"Alameda County",17,31,770
+29,095,12,011,FL,"Broward County",17,24,489
+29,095,12,031,FL,"Duval County",17,38,641
+29,095,20,015,KS,"Butler County",17,26,758
+29,095,20,169,KS,"Saline County",17,24,566
+29,095,25,017,MA,"Middlesex County",17,32,1758
+29,095,29,001,MO,"Adair County",17,26,494
+29,095,29,053,MO,"Cooper County",17,29,431
+29,095,06,075,CA,"San Francisco County",16,18,737
+29,095,08,059,CO,"Jefferson County",16,24,599
+29,095,12,095,FL,"Orange County",16,30,703
+29,095,12,099,FL,"Palm Beach County",16,31,752
+29,095,12,103,FL,"Pinellas County",16,29,733
+29,095,13,067,GA,"Cobb County",16,21,693
+29,095,20,061,KS,"Geary County",16,25,451
+29,095,20,125,KS,"Montgomery County",16,33,379
+29,095,24,031,MD,"Montgomery County",16,30,722
+29,095,28,047,MS,"Harrison County",16,33,892
+29,095,29,025,MO,"Caldwell County",16,36,490
+29,095,29,071,MO,"Franklin County",16,25,1096
+29,095,29,121,MO,"Macon County",16,20,457
+29,095,29,145,MO,"Newton County",16,29,546
+29,095,29,161,MO,"Phelps County",16,23,373
+29,095,36,055,NY,"Monroe County",16,21,660
+29,095,55,025,WI,"Dane County",16,23,481
+29,095,12,009,FL,"Brevard County",15,19,332
+29,095,12,071,FL,"Lee County",15,34,1049
+29,095,13,121,GA,"Fulton County",15,22,686
+29,095,17,119,IL,"Madison County",15,27,1087
+29,095,26,081,MI,"Kent County",15,19,514
+29,095,29,003,MO,"Andrew County",15,17,377
+29,095,29,099,MO,"Jefferson County",15,26,880
+29,095,29,175,MO,"Randolph County",15,26,313
+29,095,36,047,NY,"Kings County",15,31,411
+29,095,37,051,NC,"Cumberland County",15,37,364
+29,095,37,133,NC,"Onslow County",15,25,284
+29,095,46,099,SD,"Minnehaha County",15,16,321
+29,095,51,059,VA,"Fairfax County",15,22,592
+29,095,08,001,CO,"Adams County",14,24,562
+29,095,11,001,DC,"District Of Columbia",14,22,555
+29,095,13,135,GA,"Gwinnett County",14,34,546
+29,095,17,163,IL,"St Clair County",14,30,724
+29,095,29,063,MO,"De Kalb County",14,29,362
+29,095,40,027,OK,"Cleveland County",14,24,486
+29,095,48,121,TX,"Denton County",14,38,759
+29,095,48,215,TX,"Hidalgo County",14,28,625
+29,095,49,049,UT,"Utah County",14,30,526
+29,095,08,013,CO,"Boulder County",13,18,432
+29,095,19,103,IA,"Johnson County",13,14,302
+29,095,19,169,IA,"Story County",13,19,467
+29,095,24,033,MD,"Prince George's Coun",13,24,323
+29,095,29,135,MO,"Moniteau County",13,18,302
+29,095,36,059,NY,"Nassau County",13,29,2702
+29,095,37,183,NC,"Wake County",13,18,595
+29,095,41,051,OR,"Multnomah County",13,17,342
+29,095,48,141,TX,"El Paso County",13,23,252
+29,095,49,035,UT,"Salt Lake County",13,26,421
+29,095,17,167,IL,"Sangamon County",12,24,388
+29,095,17,197,IL,"Will County",12,25,697
+29,095,20,111,KS,"Lyon County",12,16,325
+29,095,29,105,MO,"Laclede County",12,25,325
+29,095,35,001,NM,"Bernalillo County",12,20,457
+29,095,42,101,PA,"Philadelphia County",12,16,436
+29,095,06,013,CA,"Contra Costa County",11,21,509
+29,095,06,111,CA,"Ventura County",11,26,295
+29,095,08,069,CO,"Larimer County",11,20,377
+29,095,12,115,FL,"Sarasota County",11,13,560
+29,095,12,117,FL,"Seminole County",11,14,260
+29,095,19,053,IA,"Decatur County",11,16,173
+29,095,19,193,IA,"Woodbury County",11,13,168
+29,095,20,087,KS,"Jefferson County",11,15,316
+29,095,22,103,LA,"St Tammany Parish",11,24,491
+29,095,25,025,MA,"Suffolk County",11,14,408
+29,095,26,161,MI,"Washtenaw County",11,15,607
+29,095,27,037,MN,"Dakota County",11,26,636
+29,095,29,009,MO,"Barry County",11,14,247
+29,095,29,085,MO,"Hickory County",11,17,234
+29,095,29,127,MO,"Marion County",11,17,456
+29,095,29,169,MO,"Pulaski County",11,25,300
+29,095,48,027,TX,"Bell County",11,31,392
+29,095,12,127,FL,"Volusia County",10,17,296
+29,095,18,089,IN,"Lake County",10,18,344
+29,095,19,155,IA,"Pottawattamie County",10,19,336
+29,095,20,011,KS,"Bourbon County",10,24,306
+29,095,22,019,LA,"Calcasieu Parish",10,22,299
+29,095,24,003,MD,"Anne Arundel County",10,20,392
+29,095,29,007,MO,"Audrain County",10,17,252
+29,095,29,039,MO,"Cedar County",10,20,268
+29,095,29,081,MO,"Harrison County",10,18,259
+29,095,29,113,MO,"Lincoln County",10,11,388
+29,095,29,115,MO,"Linn County",10,20,161
+29,095,29,225,MO,"Webster County",10,19,425
+29,095,39,061,OH,"Hamilton County",10,15,848
+29,095,42,003,PA,"Allegheny County",10,13,349
+29,095,51,810,VA,"Virginia Beach",10,16,252
+29,095,53,053,WA,"Pierce County",10,15,212
+29,095,58,000,SS,"Other Flows - Same State",194,342,5151
+29,095,59,000,DS,"Other Flows - Diff State",2296,4255,82663
+29,095,59,001,DS,"Other Flows - Northeast",261,482,12950
+29,095,59,003,DS,"Other Flows - Midwest",816,1397,26511
+29,095,59,005,DS,"Other Flows - South",857,1644,30096
+29,095,59,007,DS,"Other Flows - West",362,732,13106
+29,095,57,009,FR,"Foreign - Other flows",172,200,1767
+29,097,96,000,MO,"Jasper County Tot Mig-US &",2988,6047,96025
+29,097,97,000,MO,"Jasper County Tot Mig-US",2963,6002,95443
+29,097,97,001,MO,"Jasper County Tot Mig-Same",1367,2669,41724
+29,097,97,003,MO,"Jasper County Tot Mig-Diff",1596,3333,53719
+29,097,98,000,MO,"Jasper County Tot Mig-Forei",25,45,582
+29,097,29,097,MO,"Jasper County Non-Migrants",35071,78385,1438956
+29,097,29,145,MO,"Newton County",620,1218,18324
+29,097,20,021,KS,"Cherokee County",135,282,3278
+29,097,29,077,MO,"Greene County",103,196,3408
+29,097,29,109,MO,"Lawrence County",86,152,2162
+29,097,40,115,OK,"Ottawa County",85,185,3993
+29,097,29,011,MO,"Barton County",71,149,1666
+29,097,20,037,KS,"Crawford County",64,109,1698
+29,097,40,143,OK,"Tulsa County",50,91,1450
+29,097,05,007,AR,"Benton County",45,84,1263
+29,097,29,119,MO,"Mcdonald County",43,80,932
+29,097,29,095,MO,"Jackson County",41,83,3145
+29,097,29,217,MO,"Vernon County",38,87,997
+29,097,20,099,KS,"Labette County",37,60,1031
+29,097,29,009,MO,"Barry County",31,51,985
+29,097,40,041,OK,"Delaware County",27,55,773
+29,097,04,013,AZ,"Maricopa County",26,53,926
+29,097,06,037,CA,"Los Angeles County",25,72,867
+29,097,20,173,KS,"Sedgwick County",24,43,544
+29,097,20,091,KS,"Johnson County",22,39,875
+29,097,29,039,MO,"Cedar County",22,44,479
+29,097,05,143,AR,"Washington County",18,36,533
+29,097,20,125,KS,"Montgomery County",18,42,553
+29,097,48,439,TX,"Tarrant County",18,35,803
+29,097,29,213,MO,"Taney County",17,31,350
+29,097,06,071,CA,"San Bernardino Count",16,44,482
+29,097,29,043,MO,"Christian County",15,33,583
+29,097,29,189,MO,"St Louis County",15,25,470
+29,097,40,109,OK,"Oklahoma County",15,27,342
+29,097,29,019,MO,"Boone County",14,20,402
+29,097,29,047,MO,"Clay County",13,22,417
+29,097,29,057,MO,"Dade County",13,30,322
+29,097,29,183,MO,"St Charles County",13,19,478
+29,097,57,005,FR,"Foreign - APO/FPO ZIPs",13,28,481
+29,097,29,209,MO,"Stone County",12,28,363
+29,097,32,003,NV,"Clark County",11,23,517
+29,097,06,073,CA,"San Diego County",10,20,248
+29,097,29,051,MO,"Cole County",10,17,395
+29,097,29,161,MO,"Phelps County",10,17,346
+29,097,29,167,MO,"Polk County",10,16,236
+29,097,58,000,SS,"Other Flows - Same State",170,351,5263
+29,097,59,000,DS,"Other Flows - Diff State",950,2033,33541
+29,097,59,001,DS,"Other Flows - Northeast",29,69,818
+29,097,59,003,DS,"Other Flows - Midwest",264,554,9264
+29,097,59,005,DS,"Other Flows - South",457,974,14996
+29,097,59,007,DS,"Other Flows - West",200,436,8462
+29,097,57,009,FR,"Foreign - Other flows",12,17,102
+29,099,96,000,MO,"Jefferson Count Tot Mig-US",5671,10844,228655
+29,099,97,000,MO,"Jefferson Count Tot Mig-US",5651,10821,228240
+29,099,97,001,MO,"Jefferson Count Tot Mig-Sam",4509,8509,179762
+29,099,97,003,MO,"Jefferson Count Tot Mig-Dif",1142,2312,48478
+29,099,98,000,MO,"Jefferson Count Tot Mig-For",20,23,414
+29,099,29,099,MO,"Jefferson Count Non-Migrant",75420,171790,3863611
+29,099,29,189,MO,"St Louis County",2617,4855,116020
+29,099,29,510,MO,"St Louis",693,1377,25438
+29,099,29,071,MO,"Franklin County",202,406,6976
+29,099,29,187,MO,"St Francois County",181,342,4689
+29,099,29,183,MO,"St Charles County",174,331,6536
+29,099,29,186,MO,"Ste Genevieve Count",97,185,3116
+29,099,17,163,IL,"St Clair County",78,170,3028
+29,099,29,221,MO,"Washington County",72,142,2157
+29,099,17,119,IL,"Madison County",55,105,2951
+29,099,29,031,MO,"Cape Girardeau Count",31,66,1461
+29,099,29,077,MO,"Greene County",31,45,907
+29,099,29,019,MO,"Boone County",24,45,914
+29,099,17,133,IL,"Monroe County",22,49,972
+29,099,29,055,MO,"Crawford County",22,39,618
+29,099,29,095,MO,"Jackson County",20,37,827
+29,099,01,089,AL,"Madison County",19,33,1494
+29,099,06,073,CA,"San Diego County",19,40,661
+29,099,04,013,AZ,"Maricopa County",18,31,814
+29,099,29,023,MO,"Butler County",18,31,466
+29,099,29,157,MO,"Perry County",18,27,474
+29,099,29,113,MO,"Lincoln County",17,34,335
+29,099,29,161,MO,"Phelps County",17,29,476
+29,099,29,093,MO,"Iron County",15,32,317
+29,099,29,223,MO,"Wayne County",15,32,413
+29,099,29,029,MO,"Camden County",14,23,445
+29,099,48,201,TX,"Harris County",14,24,620
+29,099,29,219,MO,"Warren County",13,22,429
+29,099,17,031,IL,"Cook County",12,14,487
+29,099,29,047,MO,"Clay County",12,24,420
+29,099,29,123,MO,"Madison County",12,21,262
+29,099,29,051,MO,"Cole County",11,22,438
+29,099,47,125,TN,"Montgomery County",11,26,396
+29,099,29,073,MO,"Gasconade County",10,20,418
+29,099,29,091,MO,"Howell County",10,15,309
+29,099,58,000,SS,"Other Flows - Same State",163,307,4901
+29,099,59,000,DS,"Other Flows - Diff State",894,1820,37056
+29,099,59,001,DS,"Other Flows - Northeast",54,96,1755
+29,099,59,003,DS,"Other Flows - Midwest",277,544,12019
+29,099,59,005,DS,"Other Flows - South",426,898,17237
+29,099,59,007,DS,"Other Flows - West",137,282,6044
+29,099,57,009,FR,"Foreign - Other flows",20,23,414
+29,101,96,000,MO,"Johnson County Tot Mig-US &",1910,3716,58651
+29,101,97,000,MO,"Johnson County Tot Mig-US",1764,3412,54955
+29,101,97,001,MO,"Johnson County Tot Mig-Same",1023,1870,30105
+29,101,97,003,MO,"Johnson County Tot Mig-Diff",741,1542,24850
+29,101,98,000,MO,"Johnson County Tot Mig-Fore",146,304,3697
+29,101,29,101,MO,"Johnson County Non-Migrants",15165,34621,678172
+29,101,29,095,MO,"Jackson County",328,611,11434
+29,101,29,159,MO,"Pettis County",119,229,3457
+29,101,57,005,FR,"Foreign - APO/FPO ZIPs",115,272,3519
+29,101,29,037,MO,"Cass County",77,159,2663
+29,101,29,083,MO,"Henry County",77,164,2285
+29,101,29,107,MO,"Lafayette County",64,123,1469
+29,101,29,047,MO,"Clay County",32,61,994
+29,101,29,051,MO,"Cole County",23,31,482
+29,101,20,091,KS,"Johnson County",22,45,865
+29,101,29,189,MO,"St Louis County",22,30,434
+29,101,29,015,MO,"Benton County",18,35,474
+29,101,48,029,TX,"Bexar County",15,37,574
+29,101,29,077,MO,"Greene County",14,33,549
+29,101,04,013,AZ,"Maricopa County",13,32,427
+29,101,29,195,MO,"Saline County",13,21,341
+29,101,29,013,MO,"Bates County",12,19,209
+29,101,29,019,MO,"Boone County",11,16,318
+29,101,29,165,MO,"Platte County",11,16,334
+29,101,12,091,FL,"Okaloosa County",10,21,353
+29,101,58,000,SS,"Other Flows - Same State",202,322,4663
+29,101,59,000,DS,"Other Flows - Diff State",681,1407,22632
+29,101,59,001,DS,"Other Flows - Northeast",45,80,1170
+29,101,59,003,DS,"Other Flows - Midwest",201,383,6533
+29,101,59,005,DS,"Other Flows - South",275,579,9104
+29,101,59,007,DS,"Other Flows - West",160,365,5825
+29,101,57,009,FR,"Foreign - Other flows",31,32,178
+29,103,96,000,MO,"Knox County Tot Mig-US & Fo",97,188,1940
+29,103,97,000,MO,"Knox County Tot Mig-US",97,188,1940
+29,103,97,001,MO,"Knox County Tot Mig-Same St",60,121,1047
+29,103,97,003,MO,"Knox County Tot Mig-Diff St",37,67,892
+29,103,98,000,MO,"Knox County Tot Mig-Foreign",d,d,d
+29,103,29,103,MO,"Knox County Non-Migrants",1446,3209,43019
+29,103,29,001,MO,"Adair County",12,26,173
+29,103,58,000,SS,"Other Flows - Same State",48,95,874
+29,103,59,000,DS,"Other Flows - Diff State",37,67,892
+29,105,96,000,MO,"Laclede County Tot Mig-US &",898,2010,35503
+29,105,97,000,MO,"Laclede County Tot Mig-US",885,1973,34862
+29,105,97,001,MO,"Laclede County Tot Mig-Same",525,1190,22745
+29,105,97,003,MO,"Laclede County Tot Mig-Diff",360,783,12117
+29,105,98,000,MO,"Laclede County Tot Mig-Fore",13,37,641
+29,105,29,105,MO,"Laclede County Non-Migrants",11200,25931,430967
+29,105,29,169,MO,"Pulaski County",89,220,3582
+29,105,29,077,MO,"Greene County",74,131,2459
+29,105,29,029,MO,"Camden County",58,136,1787
+29,105,29,229,MO,"Wright County",39,95,1080
+29,105,29,225,MO,"Webster County",37,102,1031
+29,105,29,059,MO,"Dallas County",28,62,719
+29,105,29,215,MO,"Texas County",19,49,694
+29,105,29,095,MO,"Jackson County",16,33,6373
+29,105,29,161,MO,"Phelps County",12,27,513
+29,105,29,043,MO,"Christian County",11,24,159
+29,105,58,000,SS,"Other Flows - Same State",142,311,4348
+29,105,59,000,DS,"Other Flows - Diff State",360,783,12117
+29,105,59,001,DS,"Other Flows - Northeast",24,57,890
+29,105,59,003,DS,"Other Flows - Midwest",96,209,2687
+29,105,59,005,DS,"Other Flows - South",128,285,4778
+29,105,59,007,DS,"Other Flows - West",112,232,3761
+29,105,57,009,FR,"Foreign - Other flows",13,37,641
+29,107,96,000,MO,"Lafayette Count Tot Mig-US",862,1792,36016
+29,107,97,000,MO,"Lafayette Count Tot Mig-US",862,1792,36016
+29,107,97,001,MO,"Lafayette Count Tot Mig-Sam",693,1454,30936
+29,107,97,003,MO,"Lafayette Count Tot Mig-Dif",169,338,5080
+29,107,98,000,MO,"Lafayette Count Tot Mig-For",d,d,d
+29,107,29,107,MO,"Lafayette Count Non-Migrant",11242,25340,490065
+29,107,29,095,MO,"Jackson County",359,762,15133
+29,107,29,101,MO,"Johnson County",77,150,8465
+29,107,29,195,MO,"Saline County",37,78,946
+29,107,29,047,MO,"Clay County",28,51,1222
+29,107,29,177,MO,"Ray County",24,52,597
+29,107,29,037,MO,"Cass County",21,46,647
+29,107,29,159,MO,"Pettis County",15,24,368
+29,107,20,091,KS,"Johnson County",11,20,322
+29,107,29,033,MO,"Carroll County",10,25,218
+29,107,58,000,SS,"Other Flows - Same State",122,266,3340
+29,107,59,000,DS,"Other Flows - Diff State",158,318,4759
+29,109,96,000,MO,"Lawrence County Tot Mig-US",1016,2166,28825
+29,109,97,000,MO,"Lawrence County Tot Mig-US",1016,2166,28825
+29,109,97,001,MO,"Lawrence County Tot Mig-Sam",656,1392,17727
+29,109,97,003,MO,"Lawrence County Tot Mig-Dif",360,774,11099
+29,109,98,000,MO,"Lawrence County Tot Mig-For",d,d,d
+29,109,29,109,MO,"Lawrence County Non-Migrant",11662,27293,464038
+29,109,29,077,MO,"Greene County",197,380,5214
+29,109,29,009,MO,"Barry County",159,358,3952
+29,109,29,043,MO,"Christian County",53,104,1448
+29,109,29,097,MO,"Jasper County",52,118,1414
+29,109,29,209,MO,"Stone County",28,73,803
+29,109,29,145,MO,"Newton County",24,50,812
+29,109,29,057,MO,"Dade County",15,34,517
+29,109,05,007,AR,"Benton County",12,25,283
+29,109,40,143,OK,"Tulsa County",12,25,297
+29,109,29,225,MO,"Webster County",10,27,334
+29,109,58,000,SS,"Other Flows - Same State",118,248,3232
+29,109,59,000,DS,"Other Flows - Diff State",336,724,10519
+29,109,59,001,DS,"Other Flows - Northeast",13,44,368
+29,109,59,003,DS,"Other Flows - Midwest",95,199,3249
+29,109,59,005,DS,"Other Flows - South",115,247,3319
+29,109,59,007,DS,"Other Flows - West",113,234,3583
+29,111,96,000,MO,"Lewis County Tot Mig-US & F",219,427,5688
+29,111,97,000,MO,"Lewis County Tot Mig-US",219,427,5688
+29,111,97,001,MO,"Lewis County Tot Mig-Same S",87,182,1987
+29,111,97,003,MO,"Lewis County Tot Mig-Diff S",132,245,3701
+29,111,98,000,MO,"Lewis County Tot Mig-Foreig",d,d,d
+29,111,29,111,MO,"Lewis County Non-Migrants",3401,7549,121923
+29,111,17,001,IL,"Adams County",54,103,1651
+29,111,29,127,MO,"Marion County",29,67,645
+29,111,58,000,SS,"Other Flows - Same State",58,115,1342
+29,111,59,000,DS,"Other Flows - Diff State",78,142,2050
+29,113,96,000,MO,"Lincoln County Tot Mig-US &",1787,3871,77643
+29,113,97,000,MO,"Lincoln County Tot Mig-US",1787,3871,77643
+29,113,97,001,MO,"Lincoln County Tot Mig-Same",1500,3273,65841
+29,113,97,003,MO,"Lincoln County Tot Mig-Diff",287,598,11802
+29,113,98,000,MO,"Lincoln County Tot Mig-Fore",d,d,d
+29,113,29,113,MO,"Lincoln County Non-Migrants",15728,37545,781221
+29,113,29,183,MO,"St Charles County",846,1874,39980
+29,113,29,189,MO,"St Louis County",287,625,13445
+29,113,29,219,MO,"Warren County",88,201,3091
+29,113,29,163,MO,"Pike County",54,118,1670
+29,113,29,099,MO,"Jefferson County",33,57,1281
+29,113,29,510,MO,"St Louis",30,61,1051
+29,113,29,139,MO,"Montgomery County",21,40,502
+29,113,17,119,IL,"Madison County",17,36,800
+29,113,29,071,MO,"Franklin County",12,29,541
+29,113,58,000,SS,"Other Flows - Same State",129,268,4279
+29,113,59,000,DS,"Other Flows - Diff State",270,562,11003
+29,115,96,000,MO,"Linn County Tot Mig-US & Fo",241,532,7995
+29,115,97,000,MO,"Linn County Tot Mig-US",241,532,7995
+29,115,97,001,MO,"Linn County Tot Mig-Same St",183,396,5211
+29,115,97,003,MO,"Linn County Tot Mig-Diff St",58,136,2785
+29,115,98,000,MO,"Linn County Tot Mig-Foreign",d,d,d
+29,115,29,115,MO,"Linn County Non-Migrants",4638,10366,170170
+29,115,29,041,MO,"Chariton County",35,76,953
+29,115,29,121,MO,"Macon County",18,38,294
+29,115,29,117,MO,"Livingston County",16,31,484
+29,115,29,019,MO,"Boone County",12,18,527
+29,115,29,047,MO,"Clay County",10,23,238
+29,115,58,000,SS,"Other Flows - Same State",92,210,2715
+29,115,59,000,DS,"Other Flows - Diff State",58,136,2785
+29,117,96,000,MO,"Livingston Coun Tot Mig-US",327,668,9721
+29,117,97,000,MO,"Livingston Coun Tot Mig-US",327,668,9721
+29,117,97,001,MO,"Livingston Coun Tot Mig-Sam",229,455,6102
+29,117,97,003,MO,"Livingston Coun Tot Mig-Dif",98,213,3618
+29,117,98,000,MO,"Livingston Coun Tot Mig-For",d,d,d
+29,117,29,117,MO,"Livingston Coun Non-Migrant",4765,10497,204041
+29,117,29,115,MO,"Linn County",40,68,1256
+29,117,29,079,MO,"Grundy County",31,62,739
+29,117,29,047,MO,"Clay County",18,29,622
+29,117,29,025,MO,"Caldwell County",17,42,392
+29,117,29,095,MO,"Jackson County",14,35,458
+29,117,29,033,MO,"Carroll County",13,23,239
+29,117,29,101,MO,"Johnson County",10,21,247
+29,117,58,000,SS,"Other Flows - Same State",86,175,2150
+29,117,59,000,DS,"Other Flows - Diff State",98,213,3618
+29,119,96,000,MO,"Mcdonald County Tot Mig-US",586,1290,19973
+29,119,97,000,MO,"Mcdonald County Tot Mig-US",586,1290,19973
+29,119,97,001,MO,"Mcdonald County Tot Mig-Sam",182,381,4599
+29,119,97,003,MO,"Mcdonald County Tot Mig-Dif",404,909,15374
+29,119,98,000,MO,"Mcdonald County Tot Mig-For",d,d,d
+29,119,29,119,MO,"Mcdonald County Non-Migrant",5782,13961,197897
+29,119,05,007,AR,"Benton County",161,360,9265
+29,119,29,145,MO,"Newton County",96,194,2508
+29,119,05,143,AR,"Washington County",27,63,835
+29,119,29,097,MO,"Jasper County",25,51,523
+29,119,40,041,OK,"Delaware County",22,57,531
+29,119,29,009,MO,"Barry County",14,32,318
+29,119,40,115,OK,"Ottawa County",11,24,305
+29,119,48,215,TX,"Hidalgo County",11,23,167
+29,119,58,000,SS,"Other Flows - Same State",47,104,1250
+29,119,59,000,DS,"Other Flows - Diff State",172,382,4272
+29,121,96,000,MO,"Macon County Tot Mig-US & F",348,710,9860
+29,121,97,000,MO,"Macon County Tot Mig-US",348,710,9860
+29,121,97,001,MO,"Macon County Tot Mig-Same S",255,514,7090
+29,121,97,003,MO,"Macon County Tot Mig-Diff S",93,196,2770
+29,121,98,000,MO,"Macon County Tot Mig-Foreig",d,d,d
+29,121,29,121,MO,"Macon County Non-Migrants",5708,12592,212136
+29,121,29,175,MO,"Randolph County",50,93,1335
+29,121,29,001,MO,"Adair County",32,70,872
+29,121,29,019,MO,"Boone County",25,41,464
+29,121,29,205,MO,"Shelby County",24,44,575
+29,121,29,115,MO,"Linn County",15,23,302
+29,121,58,000,SS,"Other Flows - Same State",109,243,3542
+29,121,59,000,DS,"Other Flows - Diff State",93,196,2770
+29,123,96,000,MO,"Madison County Tot Mig-US &",259,529,7056
+29,123,97,000,MO,"Madison County Tot Mig-US",259,529,7056
+29,123,97,001,MO,"Madison County Tot Mig-Same",200,405,5509
+29,123,97,003,MO,"Madison County Tot Mig-Diff",59,124,1547
+29,123,98,000,MO,"Madison County Tot Mig-Fore",d,d,d
+29,123,29,123,MO,"Madison County Non-Migrants",3778,8574,143017
+29,123,29,187,MO,"St Francois County",73,151,1871
+29,123,29,093,MO,"Iron County",19,45,621
+29,123,29,017,MO,"Bollinger County",11,26,321
+29,123,29,189,MO,"St Louis County",11,20,347
+29,123,29,099,MO,"Jefferson County",10,14,286
+29,123,58,000,SS,"Other Flows - Same State",76,149,2062
+29,123,59,000,DS,"Other Flows - Diff State",59,124,1547
+29,125,96,000,MO,"Maries County Tot Mig-US &",208,447,6587
+29,125,97,000,MO,"Maries County Tot Mig-US",208,447,6587
+29,125,97,001,MO,"Maries County Tot Mig-Same",165,335,4887
+29,125,97,003,MO,"Maries County Tot Mig-Diff",43,112,1701
+29,125,98,000,MO,"Maries County Tot Mig-Forei",d,d,d
+29,125,29,125,MO,"Maries County Non-Migrants",2721,6253,98761
+29,125,29,161,MO,"Phelps County",34,70,965
+29,125,29,073,MO,"Gasconade County",25,54,592
+29,125,29,051,MO,"Cole County",15,23,348
+29,125,29,169,MO,"Pulaski County",15,34,436
+29,125,58,000,SS,"Other Flows - Same State",76,154,2546
+29,125,59,000,DS,"Other Flows - Diff State",43,112,1701
+29,127,96,000,MO,"Marion County Tot Mig-US &",676,1311,19960
+29,127,97,000,MO,"Marion County Tot Mig-US",676,1311,19960
+29,127,97,001,MO,"Marion County Tot Mig-Same",385,755,10439
+29,127,97,003,MO,"Marion County Tot Mig-Diff",291,556,9521
+29,127,98,000,MO,"Marion County Tot Mig-Forei",d,d,d
+29,127,29,127,MO,"Marion County Non-Migrants",9831,21829,425980
+29,127,29,173,MO,"Ralls County",123,249,3747
+29,127,17,001,IL,"Adams County",66,118,1927
+29,127,29,111,MO,"Lewis County",31,68,882
+29,127,29,189,MO,"St Louis County",27,48,620
+29,127,29,163,MO,"Pike County",26,54,526
+29,127,29,137,MO,"Monroe County",23,51,766
+29,127,29,019,MO,"Boone County",21,36,680
+29,127,17,149,IL,"Pike County",15,18,317
+29,127,29,007,MO,"Audrain County",11,22,344
+29,127,29,205,MO,"Shelby County",11,26,243
+29,127,58,000,SS,"Other Flows - Same State",112,201,2631
+29,127,59,000,DS,"Other Flows - Diff State",210,420,7277
+29,127,59,001,DS,"Other Flows - Northeast",12,21,227
+29,127,59,003,DS,"Other Flows - Midwest",96,186,3277
+29,127,59,005,DS,"Other Flows - South",61,132,2253
+29,127,59,007,DS,"Other Flows - West",41,81,1520
+29,129,96,000,MO,"Mercer County Tot Mig-US &",102,209,2949
+29,129,97,000,MO,"Mercer County Tot Mig-US",102,209,2949
+29,129,97,001,MO,"Mercer County Tot Mig-Same",50,103,1476
+29,129,97,003,MO,"Mercer County Tot Mig-Diff",52,106,1473
+29,129,98,000,MO,"Mercer County Tot Mig-Forei",d,d,d
+29,129,29,129,MO,"Mercer County Non-Migrants",1223,2704,42064
+29,129,29,079,MO,"Grundy County",12,25,407
+29,129,58,000,SS,"Other Flows - Same State",38,78,1069
+29,129,59,000,DS,"Other Flows - Diff State",52,106,1473
+29,131,96,000,MO,"Miller County Tot Mig-US &",757,1512,21805
+29,131,97,000,MO,"Miller County Tot Mig-US",757,1512,21805
+29,131,97,001,MO,"Miller County Tot Mig-Same",548,1112,14818
+29,131,97,003,MO,"Miller County Tot Mig-Diff",209,400,6987
+29,131,98,000,MO,"Miller County Tot Mig-Forei",d,d,d
+29,131,29,131,MO,"Miller County Non-Migrants",7473,16927,270949
+29,131,29,029,MO,"Camden County",162,327,4961
+29,131,29,141,MO,"Morgan County",76,164,1647
+29,131,29,051,MO,"Cole County",67,145,2075
+29,131,29,027,MO,"Callaway County",23,51,704
+29,131,29,169,MO,"Pulaski County",22,56,466
+29,131,29,019,MO,"Boone County",17,31,344
+29,131,29,189,MO,"St Louis County",16,30,848
+29,131,29,135,MO,"Moniteau County",14,26,403
+29,131,29,077,MO,"Greene County",11,18,185
+29,131,29,071,MO,"Franklin County",10,20,227
+29,131,29,161,MO,"Phelps County",10,20,108
+29,131,58,000,SS,"Other Flows - Same State",120,224,2848
+29,131,59,000,DS,"Other Flows - Diff State",209,400,6987
+29,133,96,000,MO,"Mississippi Cou Tot Mig-US",247,524,6283
+29,133,97,000,MO,"Mississippi Cou Tot Mig-US",247,524,6283
+29,133,97,001,MO,"Mississippi Cou Tot Mig-Sam",156,336,4159
+29,133,97,003,MO,"Mississippi Cou Tot Mig-Dif",91,188,2124
+29,133,98,000,MO,"Mississippi Cou Tot Mig-For",d,d,d
+29,133,29,133,MO,"Mississippi Cou Non-Migrant",4030,8937,140173
+29,133,29,201,MO,"Scott County",71,158,1748
+29,133,29,031,MO,"Cape Girardeau Count",20,41,938
+29,133,29,143,MO,"New Madrid County",17,40,337
+29,133,58,000,SS,"Other Flows - Same State",48,97,1136
+29,133,59,000,DS,"Other Flows - Diff State",91,188,2124
+29,135,96,000,MO,"Moniteau County Tot Mig-US",320,670,9939
+29,135,97,000,MO,"Moniteau County Tot Mig-US",320,670,9939
+29,135,97,001,MO,"Moniteau County Tot Mig-Sam",270,545,7618
+29,135,97,003,MO,"Moniteau County Tot Mig-Dif",50,125,2321
+29,135,98,000,MO,"Moniteau County Tot Mig-For",d,d,d
+29,135,29,135,MO,"Moniteau County Non-Migrant",4936,11540,199303
+29,135,29,051,MO,"Cole County",86,182,2681
+29,135,29,141,MO,"Morgan County",35,69,794
+29,135,29,131,MO,"Miller County",31,57,642
+29,135,29,053,MO,"Cooper County",14,31,628
+29,135,29,019,MO,"Boone County",13,19,455
+29,135,29,027,MO,"Callaway County",13,23,292
+29,135,58,000,SS,"Other Flows - Same State",78,164,2126
+29,135,59,000,DS,"Other Flows - Diff State",50,125,2321
+29,137,96,000,MO,"Monroe County Tot Mig-US &",248,503,7344
+29,137,97,000,MO,"Monroe County Tot Mig-US",248,503,7344
+29,137,97,001,MO,"Monroe County Tot Mig-Same",197,409,5880
+29,137,97,003,MO,"Monroe County Tot Mig-Diff",51,94,1464
+29,137,98,000,MO,"Monroe County Tot Mig-Forei",d,d,d
+29,137,29,137,MO,"Monroe County Non-Migrants",3191,7132,120270
+29,137,29,175,MO,"Randolph County",28,65,649
+29,137,29,019,MO,"Boone County",26,40,891
+29,137,29,007,MO,"Audrain County",21,42,547
+29,137,29,127,MO,"Marion County",21,43,777
+29,137,29,205,MO,"Shelby County",17,36,445
+29,137,29,173,MO,"Ralls County",10,20,222
+29,137,58,000,SS,"Other Flows - Same State",74,163,2349
+29,137,59,000,DS,"Other Flows - Diff State",51,94,1464
+29,139,96,000,MO,"Montgomery Coun Tot Mig-US",357,741,11836
+29,139,97,000,MO,"Montgomery Coun Tot Mig-US",357,741,11836
+29,139,97,001,MO,"Montgomery Coun Tot Mig-Sam",318,649,10862
+29,139,97,003,MO,"Montgomery Coun Tot Mig-Dif",39,92,974
+29,139,98,000,MO,"Montgomery Coun Tot Mig-For",d,d,d
+29,139,29,139,MO,"Montgomery Coun Non-Migrant",4158,9270,162190
+29,139,29,219,MO,"Warren County",75,166,1948
+29,139,29,183,MO,"St Charles County",53,109,1968
+29,139,29,189,MO,"St Louis County",33,64,2586
+29,139,29,113,MO,"Lincoln County",25,53,759
+29,139,29,007,MO,"Audrain County",23,55,594
+29,139,29,073,MO,"Gasconade County",23,44,628
+29,139,29,027,MO,"Callaway County",18,24,413
+29,139,29,019,MO,"Boone County",12,16,317
+29,139,29,071,MO,"Franklin County",11,27,399
+29,139,58,000,SS,"Other Flows - Same State",45,91,1250
+29,139,59,000,DS,"Other Flows - Diff State",39,92,974
+29,141,96,000,MO,"Morgan County Tot Mig-US &",669,1364,20975
+29,141,97,000,MO,"Morgan County Tot Mig-US",669,1364,20975
+29,141,97,001,MO,"Morgan County Tot Mig-Same",469,944,13339
+29,141,97,003,MO,"Morgan County Tot Mig-Diff",200,420,7636
+29,141,98,000,MO,"Morgan County Tot Mig-Forei",d,d,d
+29,141,29,141,MO,"Morgan County Non-Migrants",6295,14031,230815
+29,141,29,131,MO,"Miller County",80,168,1963
+29,141,29,029,MO,"Camden County",74,142,1932
+29,141,29,135,MO,"Moniteau County",39,82,828
+29,141,29,051,MO,"Cole County",34,79,1144
+29,141,29,095,MO,"Jackson County",31,51,1178
+29,141,29,159,MO,"Pettis County",26,58,657
+29,141,20,091,KS,"Johnson County",19,32,1224
+29,141,29,189,MO,"St Louis County",18,28,755
+29,141,29,047,MO,"Clay County",13,21,307
+29,141,29,183,MO,"St Charles County",13,28,952
+29,141,29,053,MO,"Cooper County",11,24,187
+29,141,58,000,SS,"Other Flows - Same State",130,263,3438
+29,141,59,000,DS,"Other Flows - Diff State",181,388,6412
+29,141,59,001,DS,"Other Flows - Northeast",10,17,407
+29,141,59,003,DS,"Other Flows - Midwest",86,183,2745
+29,141,59,005,DS,"Other Flows - South",47,111,1626
+29,141,59,007,DS,"Other Flows - West",38,77,1634
+29,143,96,000,MO,"New Madrid Coun Tot Mig-US",353,748,8751
+29,143,97,000,MO,"New Madrid Coun Tot Mig-US",353,748,8751
+29,143,97,001,MO,"New Madrid Coun Tot Mig-Sam",237,514,5944
+29,143,97,003,MO,"New Madrid Coun Tot Mig-Dif",116,234,2807
+29,143,98,000,MO,"New Madrid Coun Tot Mig-For",d,d,d
+29,143,29,143,MO,"New Madrid Coun Non-Migrant",5765,12991,216900
+29,143,29,201,MO,"Scott County",73,163,1533
+29,143,29,069,MO,"Dunklin County",36,74,888
+29,143,29,155,MO,"Pemiscot County",26,71,676
+29,143,29,207,MO,"Stoddard County",21,48,622
+29,143,29,133,MO,"Mississippi County",14,26,532
+29,143,29,023,MO,"Butler County",12,17,266
+29,143,29,031,MO,"Cape Girardeau Count",12,29,528
+29,143,58,000,SS,"Other Flows - Same State",43,86,898
+29,143,59,000,DS,"Other Flows - Diff State",116,234,2807
+29,145,96,000,MO,"Newton County Tot Mig-US &",1624,3539,53364
+29,145,97,000,MO,"Newton County Tot Mig-US",1624,3539,53364
+29,145,97,001,MO,"Newton County Tot Mig-Same",928,1919,26533
+29,145,97,003,MO,"Newton County Tot Mig-Diff",696,1620,26832
+29,145,98,000,MO,"Newton County Tot Mig-Forei",d,d,d
+29,145,29,145,MO,"Newton County Non-Migrants",17329,40644,786508
+29,145,29,097,MO,"Jasper County",549,1124,15408
+29,145,29,119,MO,"Mcdonald County",136,308,3653
+29,145,29,009,MO,"Barry County",51,113,1364
+29,145,40,115,OK,"Ottawa County",47,93,2552
+29,145,05,007,AR,"Benton County",34,84,2294
+29,145,29,077,MO,"Greene County",30,47,713
+29,145,29,109,MO,"Lawrence County",29,62,1016
+29,145,20,021,KS,"Cherokee County",21,43,516
+29,145,05,143,AR,"Washington County",16,32,563
+29,145,06,037,CA,"Los Angeles County",14,24,1165
+29,145,20,037,KS,"Crawford County",13,28,425
+29,145,40,041,OK,"Delaware County",13,26,851
+29,145,40,143,OK,"Tulsa County",12,35,496
+29,145,29,011,MO,"Barton County",10,21,234
+29,145,29,095,MO,"Jackson County",10,11,228
+29,145,58,000,SS,"Other Flows - Same State",113,233,3917
+29,145,59,000,DS,"Other Flows - Diff State",526,1255,17970
+29,145,59,001,DS,"Other Flows - Northeast",24,62,1509
+29,145,59,003,DS,"Other Flows - Midwest",148,381,4827
+29,145,59,005,DS,"Other Flows - South",220,492,7587
+29,145,59,007,DS,"Other Flows - West",134,320,4046
+29,147,96,000,MO,"Nodaway County Tot Mig-US &",498,839,12168
+29,147,97,000,MO,"Nodaway County Tot Mig-US",472,810,11965
+29,147,97,001,MO,"Nodaway County Tot Mig-Same",256,458,6387
+29,147,97,003,MO,"Nodaway County Tot Mig-Diff",216,352,5578
+29,147,98,000,MO,"Nodaway County Tot Mig-Fore",26,29,203
+29,147,29,147,MO,"Nodaway County Non-Migrants",6712,14511,291040
+29,147,29,021,MO,"Buchanan County",29,65,632
+29,147,29,005,MO,"Atchison County",26,39,561
+29,147,29,087,MO,"Holt County",22,38,416
+29,147,29,003,MO,"Andrew County",16,32,410
+29,147,29,075,MO,"Gentry County",16,26,333
+29,147,29,047,MO,"Clay County",15,26,366
+29,147,19,145,IA,"Page County",14,20,232
+29,147,29,227,MO,"Worth County",13,26,310
+29,147,29,095,MO,"Jackson County",11,12,270
+29,147,29,165,MO,"Platte County",10,14,280
+29,147,58,000,SS,"Other Flows - Same State",98,180,2810
+29,147,59,000,DS,"Other Flows - Diff State",202,332,5346
+29,147,57,009,FR,"Foreign - Other flows",26,29,203
+29,149,96,000,MO,"Oregon County Tot Mig-US &",232,525,6276
+29,149,97,000,MO,"Oregon County Tot Mig-US",232,525,6276
+29,149,97,001,MO,"Oregon County Tot Mig-Same",106,253,3069
+29,149,97,003,MO,"Oregon County Tot Mig-Diff",126,272,3207
+29,149,98,000,MO,"Oregon County Tot Mig-Forei",d,d,d
+29,149,29,149,MO,"Oregon County Non-Migrants",2855,6696,84065
+29,149,29,091,MO,"Howell County",43,100,1182
+29,149,05,049,AR,"Fulton County",18,36,337
+29,149,58,000,SS,"Other Flows - Same State",63,153,1887
+29,149,59,000,DS,"Other Flows - Diff State",108,236,2870
+29,151,96,000,MO,"Osage County Tot Mig-US & F",256,498,48537
+29,151,97,000,MO,"Osage County Tot Mig-US",256,498,48537
+29,151,97,001,MO,"Osage County Tot Mig-Same S",197,363,6052
+29,151,97,003,MO,"Osage County Tot Mig-Diff S",59,135,42484
+29,151,98,000,MO,"Osage County Tot Mig-Foreig",d,d,d
+29,151,29,151,MO,"Osage County Non-Migrants",4642,10803,198791
+29,151,29,051,MO,"Cole County",78,137,2821
+29,151,29,073,MO,"Gasconade County",16,29,425
+29,151,29,027,MO,"Callaway County",15,26,400
+29,151,29,125,MO,"Maries County",13,29,312
+29,151,29,071,MO,"Franklin County",10,17,138
+29,151,58,000,SS,"Other Flows - Same State",65,125,1956
+29,151,59,000,DS,"Other Flows - Diff State",59,135,42484
+29,153,96,000,MO,"Ozark County Tot Mig-US & F",274,579,7495
+29,153,97,000,MO,"Ozark County Tot Mig-US",274,579,7495
+29,153,97,001,MO,"Ozark County Tot Mig-Same S",114,260,2480
+29,153,97,003,MO,"Ozark County Tot Mig-Diff S",160,319,5015
+29,153,98,000,MO,"Ozark County Tot Mig-Foreig",d,d,d
+29,153,29,153,MO,"Ozark County Non-Migrants",2808,6313,85941
+29,153,29,091,MO,"Howell County",31,70,657
+29,153,29,067,MO,"Douglas County",22,58,321
+29,153,05,005,AR,"Baxter County",15,30,397
+29,153,29,077,MO,"Greene County",13,25,303
+29,153,58,000,SS,"Other Flows - Same State",48,107,1199
+29,153,59,000,DS,"Other Flows - Diff State",145,289,4618
+29,153,59,001,DS,"Other Flows - Northeast",12,19,312
+29,153,59,003,DS,"Other Flows - Midwest",37,70,947
+29,153,59,005,DS,"Other Flows - South",55,122,1270
+29,153,59,007,DS,"Other Flows - West",41,78,2090
+29,155,96,000,MO,"Pemiscot County Tot Mig-US",321,703,6736
+29,155,97,000,MO,"Pemiscot County Tot Mig-US",321,703,6736
+29,155,97,001,MO,"Pemiscot County Tot Mig-Sam",134,279,2647
+29,155,97,003,MO,"Pemiscot County Tot Mig-Dif",187,424,4089
+29,155,98,000,MO,"Pemiscot County Tot Mig-For",d,d,d
+29,155,29,155,MO,"Pemiscot County Non-Migrant",5475,12702,196840
+29,155,29,069,MO,"Dunklin County",48,108,1069
+29,155,05,093,AR,"Mississippi County",46,109,896
+29,155,29,143,MO,"New Madrid County",27,57,532
+29,155,47,045,TN,"Dyer County",21,51,477
+29,155,29,031,MO,"Cape Girardeau Count",11,19,268
+29,155,58,000,SS,"Other Flows - Same State",48,95,778
+29,155,59,000,DS,"Other Flows - Diff State",120,264,2716
+29,157,96,000,MO,"Perry County Tot Mig-US & F",361,729,11005
+29,157,97,000,MO,"Perry County Tot Mig-US",361,729,11005
+29,157,97,001,MO,"Perry County Tot Mig-Same S",233,473,7030
+29,157,97,003,MO,"Perry County Tot Mig-Diff S",128,256,3975
+29,157,98,000,MO,"Perry County Tot Mig-Foreig",d,d,d
+29,157,29,157,MO,"Perry County Non-Migrants",6462,14540,279067
+29,157,29,031,MO,"Cape Girardeau Count",68,151,2193
+29,157,29,186,MO,"Ste Genevieve Count",43,83,1313
+29,157,17,157,IL,"Randolph County",22,41,623
+29,157,29,017,MO,"Bollinger County",17,34,458
+29,157,29,189,MO,"St Louis County",17,32,628
+29,157,29,123,MO,"Madison County",12,20,206
+29,157,29,099,MO,"Jefferson County",10,14,389
+29,157,29,201,MO,"Scott County",10,14,107
+29,157,58,000,SS,"Other Flows - Same State",56,125,1736
+29,157,59,000,DS,"Other Flows - Diff State",106,215,3352
+29,159,96,000,MO,"Pettis County Tot Mig-US &",1034,2216,28991
+29,159,97,000,MO,"Pettis County Tot Mig-US",1024,2186,28733
+29,159,97,001,MO,"Pettis County Tot Mig-Same",654,1313,17197
+29,159,97,003,MO,"Pettis County Tot Mig-Diff",370,873,11536
+29,159,98,000,MO,"Pettis County Tot Mig-Forei",10,30,257
+29,159,29,159,MO,"Pettis County Non-Migrants",13489,30129,532468
+29,159,29,015,MO,"Benton County",108,221,2665
+29,159,29,101,MO,"Johnson County",89,179,2538
+29,159,29,195,MO,"Saline County",73,142,1888
+29,159,29,095,MO,"Jackson County",47,82,1183
+29,159,29,053,MO,"Cooper County",39,81,1052
+29,159,29,141,MO,"Morgan County",39,73,801
+29,159,29,083,MO,"Henry County",33,57,932
+29,159,29,019,MO,"Boone County",21,36,643
+29,159,06,067,CA,"Sacramento County",20,87,325
+29,159,29,051,MO,"Cole County",16,36,442
+29,159,29,077,MO,"Greene County",15,35,289
+29,159,29,135,MO,"Moniteau County",14,43,353
+29,159,06,037,CA,"Los Angeles County",11,27,247
+29,159,20,091,KS,"Johnson County",10,13,303
+29,159,29,037,MO,"Cass County",10,20,238
+29,159,29,047,MO,"Clay County",10,17,357
+29,159,58,000,SS,"Other Flows - Same State",140,291,3815
+29,159,59,000,DS,"Other Flows - Diff State",329,746,10662
+29,159,57,009,FR,"Foreign - Other flows",10,30,257
+29,161,96,000,MO,"Phelps County Tot Mig-US &",1349,2581,39997
+29,161,97,000,MO,"Phelps County Tot Mig-US",1213,2406,38496
+29,161,97,001,MO,"Phelps County Tot Mig-Same",751,1433,22490
+29,161,97,003,MO,"Phelps County Tot Mig-Diff",462,973,16005
+29,161,98,000,MO,"Phelps County Tot Mig-Forei",136,175,1501
+29,161,29,161,MO,"Phelps County Non-Migrants",13389,29453,577687
+29,161,29,169,MO,"Pulaski County",96,206,4412
+29,161,29,065,MO,"Dent County",89,193,2317
+29,161,29,189,MO,"St Louis County",76,119,2380
+29,161,29,055,MO,"Crawford County",55,96,1462
+29,161,29,215,MO,"Texas County",34,78,975
+29,161,29,077,MO,"Greene County",30,56,791
+29,161,29,125,MO,"Maries County",28,69,955
+29,161,29,183,MO,"St Charles County",27,54,762
+29,161,29,071,MO,"Franklin County",26,43,674
+29,161,29,019,MO,"Boone County",24,38,793
+29,161,29,099,MO,"Jefferson County",23,45,526
+29,161,57,005,FR,"Foreign - APO/FPO ZIPs",20,55,815
+29,161,29,051,MO,"Cole County",19,28,431
+29,161,29,510,MO,"St Louis",15,29,244
+29,161,29,105,MO,"Laclede County",14,26,342
+29,161,29,095,MO,"Jackson County",13,16,219
+29,161,17,031,IL,"Cook County",12,21,374
+29,161,29,073,MO,"Gasconade County",12,23,342
+29,161,29,187,MO,"St Francois County",10,20,218
+29,161,58,000,SS,"Other Flows - Same State",160,294,4648
+29,161,59,000,DS,"Other Flows - Diff State",450,952,15631
+29,161,59,001,DS,"Other Flows - Northeast",40,70,1759
+29,161,59,003,DS,"Other Flows - Midwest",129,236,4207
+29,161,59,005,DS,"Other Flows - South",182,417,5927
+29,161,59,007,DS,"Other Flows - West",99,229,3738
+29,161,57,009,FR,"Foreign - Other flows",116,120,686
+29,163,96,000,MO,"Pike County Tot Mig-US & Fo",321,649,9764
+29,163,97,000,MO,"Pike County Tot Mig-US",321,649,9764
+29,163,97,001,MO,"Pike County Tot Mig-Same St",236,470,7303
+29,163,97,003,MO,"Pike County Tot Mig-Diff St",85,179,2460
+29,163,98,000,MO,"Pike County Tot Mig-Foreign",d,d,d
+29,163,29,163,MO,"Pike County Non-Migrants",5642,12795,222033
+29,163,29,113,MO,"Lincoln County",61,124,1972
+29,163,29,183,MO,"St Charles County",24,49,1134
+29,163,29,127,MO,"Marion County",18,30,344
+29,163,29,189,MO,"St Louis County",18,28,531
+29,163,29,007,MO,"Audrain County",17,34,604
+29,163,29,173,MO,"Ralls County",17,40,473
+29,163,29,139,MO,"Montgomery County",13,21,192
+29,163,58,000,SS,"Other Flows - Same State",68,144,2054
+29,163,59,000,DS,"Other Flows - Diff State",85,179,2460
+29,165,96,000,MO,"Platte County Tot Mig-US &",4409,7999,206135
+29,165,97,000,MO,"Platte County Tot Mig-US",4375,7930,204789
+29,165,97,001,MO,"Platte County Tot Mig-Same",2607,4536,109886
+29,165,97,003,MO,"Platte County Tot Mig-Diff",1768,3394,94903
+29,165,98,000,MO,"Platte County Tot Mig-Forei",34,69,1346
+29,165,29,165,MO,"Platte County Non-Migrants",27731,62008,1987300
+29,165,29,047,MO,"Clay County",1363,2416,57452
+29,165,29,095,MO,"Jackson County",600,1044,22792
+29,165,20,091,KS,"Johnson County",257,483,14658
+29,165,29,021,MO,"Buchanan County",146,241,5544
+29,165,20,209,KS,"Wyandotte County",115,243,4006
+29,165,20,103,KS,"Leavenworth County",62,103,2263
+29,165,29,049,MO,"Clinton County",54,97,2466
+29,165,29,037,MO,"Cass County",39,76,1892
+29,165,29,189,MO,"St Louis County",34,48,4918
+29,165,29,077,MO,"Greene County",33,57,1141
+29,165,29,019,MO,"Boone County",29,44,905
+29,165,31,055,NE,"Douglas County",29,52,1409
+29,165,20,045,KS,"Douglas County",28,48,1254
+29,165,20,173,KS,"Sedgwick County",26,42,903
+29,165,29,147,MO,"Nodaway County",25,40,2085
+29,165,04,013,AZ,"Maricopa County",23,46,1080
+29,165,29,101,MO,"Johnson County",23,36,854
+29,165,17,031,IL,"Cook County",21,32,1167
+29,165,29,177,MO,"Ray County",21,31,615
+29,165,20,005,KS,"Atchison County",20,43,1014
+29,165,20,177,KS,"Shawnee County",18,31,1185
+29,165,29,003,MO,"Andrew County",18,33,798
+29,165,20,161,KS,"Riley County",17,26,526
+29,165,06,073,CA,"San Diego County",16,35,1200
+29,165,31,109,NE,"Lancaster County",16,32,611
+29,165,06,037,CA,"Los Angeles County",13,23,585
+29,165,17,043,IL,"Du Page County",13,26,1155
+29,165,40,143,OK,"Tulsa County",13,25,564
+29,165,48,113,TX,"Dallas County",13,26,1133
+29,165,22,071,LA,"Orleans Parish",12,27,320
+29,165,29,115,MO,"Linn County",12,17,1131
+29,165,29,183,MO,"St Charles County",12,27,881
+29,165,48,439,TX,"Tarrant County",12,22,754
+29,165,22,103,LA,"St Tammany Parish",11,22,563
+29,165,29,117,MO,"Livingston County",11,21,333
+29,165,32,003,NV,"Clark County",11,20,1885
+29,165,48,201,TX,"Harris County",11,22,560
+29,165,19,153,IA,"Polk County",10,13,504
+29,165,29,051,MO,"Cole County",10,18,208
+29,165,58,000,SS,"Other Flows - Same State",177,290,5871
+29,165,59,000,DS,"Other Flows - Diff State",1001,1952,55605
+29,165,59,001,DS,"Other Flows - Northeast",83,160,4522
+29,165,59,003,DS,"Other Flows - Midwest",330,577,16676
+29,165,59,005,DS,"Other Flows - South",390,801,23260
+29,165,59,007,DS,"Other Flows - West",198,414,11147
+29,165,57,009,FR,"Foreign - Other flows",34,69,1346
+29,167,96,000,MO,"Polk County Tot Mig-US & Fo",933,2095,29046
+29,167,97,000,MO,"Polk County Tot Mig-US",933,2095,29046
+29,167,97,001,MO,"Polk County Tot Mig-Same St",652,1435,19365
+29,167,97,003,MO,"Polk County Tot Mig-Diff St",281,660,9681
+29,167,98,000,MO,"Polk County Tot Mig-Foreign",d,d,d
+29,167,29,167,MO,"Polk County Non-Migrants",8747,20691,334544
+29,167,29,077,MO,"Greene County",283,644,8616
+29,167,29,085,MO,"Hickory County",47,95,1021
+29,167,29,059,MO,"Dallas County",41,73,1074
+29,167,29,039,MO,"Cedar County",30,70,810
+29,167,29,225,MO,"Webster County",23,49,764
+29,167,29,043,MO,"Christian County",19,45,515
+29,167,29,095,MO,"Jackson County",19,35,609
+29,167,04,013,AZ,"Maricopa County",15,54,604
+29,167,29,057,MO,"Dade County",12,28,451
+29,167,29,185,MO,"St Clair County",12,30,338
+29,167,29,109,MO,"Lawrence County",11,18,309
+29,167,58,000,SS,"Other Flows - Same State",155,348,4859
+29,167,59,000,DS,"Other Flows - Diff State",266,606,9077
+29,169,96,000,MO,"Pulaski County Tot Mig-US &",2176,5566,72819
+29,169,97,000,MO,"Pulaski County Tot Mig-US",1859,4677,61175
+29,169,97,001,MO,"Pulaski County Tot Mig-Same",378,772,9346
+29,169,97,003,MO,"Pulaski County Tot Mig-Diff",1481,3905,51829
+29,169,98,000,MO,"Pulaski County Tot Mig-Fore",317,889,11644
+29,169,29,169,MO,"Pulaski County Non-Migrants",11513,27532,468098
+29,169,48,027,TX,"Bell County",105,337,4134
+29,169,29,161,MO,"Phelps County",70,148,1709
+29,169,15,003,HI,"Honolulu County",66,192,2449
+29,169,37,051,NC,"Cumberland County",54,158,2526
+29,169,29,105,MO,"Laclede County",43,89,880
+29,169,48,099,TX,"Coryell County",41,127,1439
+29,169,08,041,CO,"El Paso County",35,105,1415
+29,169,53,053,WA,"Pierce County",35,106,1440
+29,169,48,141,TX,"El Paso County",32,92,1564
+29,169,20,061,KS,"Geary County",31,103,1154
+29,169,48,029,TX,"Bexar County",31,103,1027
+29,169,29,077,MO,"Greene County",28,48,541
+29,169,29,189,MO,"St Louis County",24,54,682
+29,169,36,045,NY,"Jefferson County",24,73,917
+29,169,22,115,LA,"Vernon Parish",23,80,937
+29,169,29,215,MO,"Texas County",21,47,627
+29,169,47,125,TN,"Montgomery County",21,55,783
+29,169,06,071,CA,"San Bernardino Count",20,60,717
+29,169,37,133,NC,"Onslow County",20,70,501
+29,169,06,073,CA,"San Diego County",19,57,735
+29,169,29,029,MO,"Camden County",19,35,399
+29,169,29,051,MO,"Cole County",18,36,410
+29,169,29,131,MO,"Miller County",17,30,360
+29,169,40,031,OK,"Comanche County",17,50,674
+29,169,51,700,VA,"Newport News",15,39,457
+29,169,45,079,SC,"Richland County",13,34,726
+29,169,02,020,AK,"Anchorage Borough",12,43,485
+29,169,20,103,KS,"Leavenworth County",11,37,657
+29,169,29,019,MO,"Boone County",11,18,250
+29,169,51,059,VA,"Fairfax County",11,28,629
+29,169,06,037,CA,"Los Angeles County",10,14,204
+29,169,13,179,GA,"Liberty County",10,21,409
+29,169,13,215,GA,"Muscogee County",10,26,315
+29,169,21,047,KY,"Christian County",10,33,317
+29,169,58,000,SS,"Other Flows - Same State",127,267,3487
+29,169,59,000,DS,"Other Flows - Diff State",805,1862,25217
+29,169,59,001,DS,"Other Flows - Northeast",77,153,2547
+29,169,59,003,DS,"Other Flows - Midwest",191,427,5853
+29,169,59,005,DS,"Other Flows - South",404,966,12799
+29,169,59,007,DS,"Other Flows - West",133,316,4018
+29,169,57,009,FR,"Foreign - Other flows",317,889,11644
+29,171,96,000,MO,"Putnam County Tot Mig-US &",124,279,3387
+29,171,97,000,MO,"Putnam County Tot Mig-US",124,279,3387
+29,171,97,001,MO,"Putnam County Tot Mig-Same",75,166,1878
+29,171,97,003,MO,"Putnam County Tot Mig-Diff",49,113,1509
+29,171,98,000,MO,"Putnam County Tot Mig-Forei",d,d,d
+29,171,29,171,MO,"Putnam County Non-Migrants",1793,4060,57362
+29,171,29,001,MO,"Adair County",17,34,606
+29,171,29,211,MO,"Sullivan County",11,21,130
+29,171,58,000,SS,"Other Flows - Same State",47,111,1142
+29,171,59,000,DS,"Other Flows - Diff State",49,113,1509
+29,173,96,000,MO,"Ralls County Tot Mig-US & F",270,588,8836
+29,173,97,000,MO,"Ralls County Tot Mig-US",270,588,8836
+29,173,97,001,MO,"Ralls County Tot Mig-Same S",202,440,6366
+29,173,97,003,MO,"Ralls County Tot Mig-Diff S",68,148,2470
+29,173,98,000,MO,"Ralls County Tot Mig-Foreig",d,d,d
+29,173,29,173,MO,"Ralls County Non-Migrants",3548,7945,152787
+29,173,29,127,MO,"Marion County",101,239,3154
+29,173,29,163,MO,"Pike County",19,38,641
+29,173,29,007,MO,"Audrain County",11,25,363
+29,173,29,183,MO,"St Charles County",11,18,570
+29,173,29,137,MO,"Monroe County",10,24,271
+29,173,58,000,SS,"Other Flows - Same State",50,96,1367
+29,173,59,000,DS,"Other Flows - Diff State",68,148,2470
+29,175,96,000,MO,"Randolph County Tot Mig-US",591,1160,16234
+29,175,97,000,MO,"Randolph County Tot Mig-US",591,1160,16234
+29,175,97,001,MO,"Randolph County Tot Mig-Sam",398,771,10707
+29,175,97,003,MO,"Randolph County Tot Mig-Dif",193,389,5527
+29,175,98,000,MO,"Randolph County Tot Mig-For",d,d,d
+29,175,29,175,MO,"Randolph County Non-Migrant",7881,17548,313545
+29,175,29,019,MO,"Boone County",109,192,2950
+29,175,29,121,MO,"Macon County",40,73,891
+29,175,29,137,MO,"Monroe County",28,52,764
+29,175,29,041,MO,"Chariton County",19,46,482
+29,175,29,007,MO,"Audrain County",17,37,455
+29,175,29,089,MO,"Howard County",16,32,332
+29,175,29,051,MO,"Cole County",14,35,350
+29,175,29,095,MO,"Jackson County",13,25,267
+29,175,29,027,MO,"Callaway County",12,17,323
+29,175,58,000,SS,"Other Flows - Same State",130,262,3895
+29,175,59,000,DS,"Other Flows - Diff State",193,389,5527
+29,175,59,001,DS,"Other Flows - Northeast",16,29,376
+29,175,59,003,DS,"Other Flows - Midwest",89,178,2361
+29,175,59,005,DS,"Other Flows - South",53,113,1661
+29,175,59,007,DS,"Other Flows - West",35,69,1129
+29,177,96,000,MO,"Ray County Tot Mig-US & For",644,1398,23368
+29,177,97,000,MO,"Ray County Tot Mig-US",644,1398,23368
+29,177,97,001,MO,"Ray County Tot Mig-Same St",498,1097,18292
+29,177,97,003,MO,"Ray County Tot Mig-Diff St",146,301,5076
+29,177,98,000,MO,"Ray County Tot Mig-Foreign",d,d,d
+29,177,29,177,MO,"Ray County Non-Migrants",8053,18970,382279
+29,177,29,047,MO,"Clay County",219,490,8858
+29,177,29,095,MO,"Jackson County",74,162,2776
+29,177,29,107,MO,"Lafayette County",45,98,1165
+29,177,29,165,MO,"Platte County",27,41,1098
+29,177,29,033,MO,"Carroll County",24,51,682
+29,177,29,049,MO,"Clinton County",19,42,662
+29,177,29,025,MO,"Caldwell County",18,42,751
+29,177,20,091,KS,"Johnson County",12,19,449
+29,177,58,000,SS,"Other Flows - Same State",72,171,2301
+29,177,59,000,DS,"Other Flows - Diff State",134,282,4627
+29,179,96,000,MO,"Reynolds County Tot Mig-US",143,288,3857
+29,179,97,000,MO,"Reynolds County Tot Mig-US",143,288,3857
+29,179,97,001,MO,"Reynolds County Tot Mig-Sam",104,207,2500
+29,179,97,003,MO,"Reynolds County Tot Mig-Dif",39,81,1357
+29,179,98,000,MO,"Reynolds County Tot Mig-For",d,d,d
+29,179,29,179,MO,"Reynolds County Non-Migrant",1917,4499,68800
+29,179,29,065,MO,"Dent County",11,36,278
+29,179,58,000,SS,"Other Flows - Same State",93,171,2222
+29,179,59,000,DS,"Other Flows - Diff State",39,81,1357
+29,181,96,000,MO,"Ripley County Tot Mig-US &",296,680,7509
+29,181,97,000,MO,"Ripley County Tot Mig-US",296,680,7509
+29,181,97,001,MO,"Ripley County Tot Mig-Same",168,374,3934
+29,181,97,003,MO,"Ripley County Tot Mig-Diff",128,306,3575
+29,181,98,000,MO,"Ripley County Tot Mig-Forei",d,d,d
+29,181,29,181,MO,"Ripley County Non-Migrants",3981,9284,121477
+29,181,29,023,MO,"Butler County",76,171,1985
+29,181,05,021,AR,"Clay County",14,42,320
+29,181,29,069,MO,"Dunklin County",10,23,193
+29,181,58,000,SS,"Other Flows - Same State",82,180,1755
+29,181,59,000,DS,"Other Flows - Diff State",114,264,3256
+29,183,96,000,MO,"St Charles Coun Tot Mig-US",10716,21041,574398
+29,183,97,000,MO,"St Charles Coun Tot Mig-US",10655,20925,572441
+29,183,97,001,MO,"St Charles Coun Tot Mig-Sam",7321,13667,365127
+29,183,97,003,MO,"St Charles Coun Tot Mig-Dif",3334,7258,207314
+29,183,98,000,MO,"St Charles Coun Tot Mig-For",61,116,1957
+29,183,29,183,MO,"St Charles Coun Non-Migrant",117353,275388,7912382
+29,183,29,189,MO,"St Louis County",4850,9246,265976
+29,183,29,113,MO,"Lincoln County",464,860,16046
+29,183,29,510,MO,"St Louis",463,865,21302
+29,183,29,219,MO,"Warren County",306,538,12117
+29,183,29,099,MO,"Jefferson County",244,431,10095
+29,183,17,119,IL,"Madison County",166,281,7978
+29,183,29,019,MO,"Boone County",114,190,4405
+29,183,17,163,IL,"St Clair County",95,167,4597
+29,183,29,071,MO,"Franklin County",90,162,4326
+29,183,29,095,MO,"Jackson County",68,126,3462
+29,183,17,031,IL,"Cook County",64,108,3380
+29,183,20,091,KS,"Johnson County",62,122,4312
+29,183,29,077,MO,"Greene County",57,81,2197
+29,183,29,031,MO,"Cape Girardeau Count",49,67,1692
+29,183,04,013,AZ,"Maricopa County",46,91,2597
+29,183,06,037,CA,"Los Angeles County",43,77,2237
+29,183,06,073,CA,"San Diego County",41,80,1762
+29,183,29,139,MO,"Montgomery County",40,72,1521
+29,183,29,051,MO,"Cole County",39,84,1917
+29,183,29,163,MO,"Pike County",39,72,1563
+29,183,32,003,NV,"Clark County",39,84,1664
+29,183,29,161,MO,"Phelps County",36,62,1307
+29,183,57,005,FR,"Foreign - APO/FPO ZIPs",35,70,1121
+29,183,17,043,IL,"Du Page County",33,59,2027
+29,183,48,439,TX,"Tarrant County",33,90,2576
+29,183,20,173,KS,"Sedgwick County",32,62,2362
+29,183,06,059,CA,"Orange County",30,68,3226
+29,183,29,187,MO,"St Francois County",30,51,1462
+29,183,29,029,MO,"Camden County",26,44,945
+29,183,12,057,FL,"Hillsborough County",25,56,1726
+29,183,29,127,MO,"Marion County",25,52,911
+29,183,40,143,OK,"Tulsa County",25,57,1575
+29,183,48,113,TX,"Dallas County",25,50,1465
+29,183,48,201,TX,"Harris County",24,53,1476
+29,183,17,167,IL,"Sangamon County",23,41,1195
+29,183,19,153,IA,"Polk County",23,53,2122
+29,183,29,027,MO,"Callaway County",22,42,923
+29,183,47,157,TN,"Shelby County",22,54,1741
+29,183,17,133,IL,"Monroe County",21,43,1219
+29,183,17,197,IL,"Will County",21,57,2325
+29,183,29,001,MO,"Adair County",21,26,544
+29,183,48,029,TX,"Bexar County",21,43,914
+29,183,18,057,IN,"Hamilton County",20,48,1891
+29,183,22,071,LA,"Orleans Parish",19,43,649
+29,183,29,047,MO,"Clay County",19,44,948
+29,183,06,065,CA,"Riverside County",18,40,861
+29,183,31,055,NE,"Douglas County",18,43,1024
+29,183,48,121,TX,"Denton County",18,47,2044
+29,183,17,001,IL,"Adams County",17,35,568
+29,183,17,113,IL,"Mclean County",17,32,1016
+29,183,26,125,MI,"Oakland County",17,30,1213
+29,183,39,049,OH,"Franklin County",17,37,1300
+29,183,06,071,CA,"San Bernardino Count",16,33,802
+29,183,20,061,KS,"Geary County",16,47,500
+29,183,29,055,MO,"Crawford County",16,33,408
+29,183,37,119,NC,"Mecklenburg County",16,37,1306
+29,183,53,033,WA,"King County",16,28,1006
+29,183,12,011,FL,"Broward County",15,29,927
+29,183,27,053,MN,"Hennepin County",15,24,1174
+29,183,48,085,TX,"Collin County",15,45,2053
+29,183,12,009,FL,"Brevard County",14,27,563
+29,183,17,019,IL,"Champaign County",14,30,718
+29,183,18,097,IN,"Marion County",14,31,714
+29,183,22,051,LA,"Jefferson Parish",14,38,270
+29,183,29,169,MO,"Pulaski County",14,29,397
+29,183,40,109,OK,"Oklahoma County",14,36,1077
+29,183,48,453,TX,"Travis County",14,40,1032
+29,183,01,089,AL,"Madison County",13,24,1287
+29,183,17,097,IL,"Lake County",13,40,950
+29,183,29,097,MO,"Jasper County",13,25,500
+29,183,55,025,WI,"Dane County",13,30,1011
+29,183,12,103,FL,"Pinellas County",12,27,511
+29,183,17,089,IL,"Kane County",12,32,1166
+29,183,29,101,MO,"Johnson County",12,17,333
+29,183,29,186,MO,"Ste Genevieve Count",12,22,328
+29,183,47,037,TN,"Davidson County",12,23,342
+29,183,51,059,VA,"Fairfax County",12,27,959
+29,183,05,119,AR,"Pulaski County",11,26,530
+29,183,08,005,CO,"Arapahoe County",11,23,925
+29,183,12,081,FL,"Manatee County",11,16,387
+29,183,12,095,FL,"Orange County",11,28,552
+29,183,12,099,FL,"Palm Beach County",11,16,363
+29,183,13,067,GA,"Cobb County",11,30,1562
+29,183,13,135,GA,"Gwinnett County",11,30,963
+29,183,17,083,IL,"Jersey County",11,16,509
+29,183,17,115,IL,"Macon County",11,21,860
+29,183,17,157,IL,"Randolph County",11,20,351
+29,183,20,209,KS,"Wyandotte County",11,15,221
+29,183,26,099,MI,"Macomb County",11,25,586
+29,183,26,163,MI,"Wayne County",11,29,957
+29,183,29,165,MO,"Platte County",11,27,816
+29,183,29,201,MO,"Scott County",11,19,337
+29,183,39,093,OH,"Lorain County",11,29,1523
+29,183,42,003,PA,"Allegheny County",11,21,349
+29,183,55,079,WI,"Milwaukee County",11,26,667
+29,183,08,035,CO,"Douglas County",10,24,1596
+29,183,08,041,CO,"El Paso County",10,24,988
+29,183,12,117,FL,"Seminole County",10,27,614
+29,183,17,143,IL,"Peoria County",10,16,214
+29,183,17,179,IL,"Tazewell County",10,16,275
+29,183,20,045,KS,"Douglas County",10,21,476
+29,183,21,111,KY,"Jefferson County",10,23,494
+29,183,22,103,LA,"St Tammany Parish",10,29,1041
+29,183,27,037,MN,"Dakota County",10,29,846
+29,183,29,159,MO,"Pettis County",10,24,388
+29,183,37,133,NC,"Onslow County",10,15,213
+29,183,55,133,WI,"Waukesha County",10,23,1123
+29,183,58,000,SS,"Other Flows - Same State",220,356,7959
+29,183,59,000,DS,"Other Flows - Diff State",1693,3841,104725
+29,183,59,001,DS,"Other Flows - Northeast",205,453,13423
+29,183,59,003,DS,"Other Flows - Midwest",516,1123,29345
+29,183,59,005,DS,"Other Flows - South",703,1623,46209
+29,183,59,007,DS,"Other Flows - West",269,642,15748
+29,183,57,009,FR,"Foreign - Other flows",26,46,836
+29,185,96,000,MO,"St Clair County Tot Mig-US",273,553,7414
+29,185,97,000,MO,"St Clair County Tot Mig-US",273,553,7414
+29,185,97,001,MO,"St Clair County Tot Mig-Sam",193,399,4920
+29,185,97,003,MO,"St Clair County Tot Mig-Dif",80,154,2494
+29,185,98,000,MO,"St Clair County Tot Mig-For",d,d,d
+29,185,29,185,MO,"St Clair County Non-Migrant",2700,5888,88932
+29,185,29,083,MO,"Henry County",35,75,759
+29,185,29,095,MO,"Jackson County",34,56,1152
+29,185,29,039,MO,"Cedar County",17,42,464
+29,185,29,037,MO,"Cass County",16,34,528
+29,185,29,085,MO,"Hickory County",13,30,195
+29,185,29,167,MO,"Polk County",11,33,256
+29,185,29,013,MO,"Bates County",10,18,209
+29,185,29,077,MO,"Greene County",10,14,170
+29,185,58,000,SS,"Other Flows - Same State",47,97,1187
+29,185,59,000,DS,"Other Flows - Diff State",80,154,2494
+29,186,96,000,MO,"Ste Genevieve C Tot Mig-US",458,926,16272
+29,186,97,000,MO,"Ste Genevieve C Tot Mig-US",458,926,16272
+29,186,97,001,MO,"Ste Genevieve C Tot Mig-Sam",373,762,13169
+29,186,97,003,MO,"Ste Genevieve C Tot Mig-Dif",85,164,3103
+29,186,98,000,MO,"Ste Genevieve C Tot Mig-For",d,d,d
+29,186,29,186,MO,"Ste Genevieve C Non-Migrant",6514,14971,312585
+29,186,29,099,MO,"Jefferson County",114,239,4482
+29,186,29,187,MO,"St Francois County",64,134,1621
+29,186,29,157,MO,"Perry County",49,93,1565
+29,186,29,189,MO,"St Louis County",48,91,2304
+29,186,29,510,MO,"St Louis",15,31,669
+29,186,29,071,MO,"Franklin County",10,18,204
+29,186,58,000,SS,"Other Flows - Same State",73,156,2324
+29,186,59,000,DS,"Other Flows - Diff State",85,164,3103
+29,187,96,000,MO,"St Francois Cou Tot Mig-US",1421,2824,43454
+29,187,97,000,MO,"St Francois Cou Tot Mig-US",1410,2812,43311
+29,187,97,001,MO,"St Francois Cou Tot Mig-Sam",1096,2135,32068
+29,187,97,003,MO,"St Francois Cou Tot Mig-Dif",314,677,11243
+29,187,98,000,MO,"St Francois Cou Tot Mig-For",11,12,143
+29,187,29,187,MO,"St Francois Cou Non-Migrant",18786,42168,772599
+29,187,29,099,MO,"Jefferson County",250,520,7741
+29,187,29,221,MO,"Washington County",154,314,3979
+29,187,29,189,MO,"St Louis County",136,218,4971
+29,187,29,093,MO,"Iron County",71,156,1811
+29,187,29,186,MO,"Ste Genevieve Count",67,147,1980
+29,187,29,123,MO,"Madison County",63,126,1836
+29,187,29,510,MO,"St Louis",55,96,1797
+29,187,29,223,MO,"Wayne County",28,48,523
+29,187,29,031,MO,"Cape Girardeau Count",23,41,526
+29,187,29,183,MO,"St Charles County",23,43,764
+29,187,17,119,IL,"Madison County",20,44,542
+29,187,29,179,MO,"Reynolds County",19,34,413
+29,187,29,071,MO,"Franklin County",14,22,270
+29,187,29,077,MO,"Greene County",14,28,402
+29,187,29,157,MO,"Perry County",14,20,421
+29,187,29,023,MO,"Butler County",13,25,268
+29,187,17,163,IL,"St Clair County",12,23,456
+29,187,29,051,MO,"Cole County",10,14,239
+29,187,58,000,SS,"Other Flows - Same State",142,283,4128
+29,187,59,000,DS,"Other Flows - Diff State",282,610,10245
+29,187,59,001,DS,"Other Flows - Northeast",15,29,410
+29,187,59,003,DS,"Other Flows - Midwest",78,188,3324
+29,187,59,005,DS,"Other Flows - South",137,282,4311
+29,187,59,007,DS,"Other Flows - West",52,111,2200
+29,187,57,009,FR,"Foreign - Other flows",11,12,143
+29,189,96,000,MO,"St Louis County Tot Mig-US",24938,45555,1126294
+29,189,97,000,MO,"St Louis County Tot Mig-US",24533,45011,1115693
+29,189,97,001,MO,"St Louis County Tot Mig-Sam",14678,26671,501360
+29,189,97,003,MO,"St Louis County Tot Mig-Dif",9855,18340,614332
+29,189,98,000,MO,"St Louis County Tot Mig-For",405,544,10601
+29,189,29,189,MO,"St Louis County Non-Migrant",370573,793051,28000192
+29,189,29,510,MO,"St Louis",7924,15831,253499
+29,189,29,183,MO,"St Charles County",2298,3744,93953
+29,189,29,099,MO,"Jefferson County",1868,3066,66286
+29,189,17,119,IL,"Madison County",501,788,18105
+29,189,17,163,IL,"St Clair County",470,808,19227
+29,189,29,071,MO,"Franklin County",444,713,16651
+29,189,17,031,IL,"Cook County",358,598,20054
+29,189,29,019,MO,"Boone County",293,436,9432
+29,189,29,077,MO,"Greene County",156,232,5143
+29,189,29,095,MO,"Jackson County",149,220,5951
+29,189,22,071,LA,"Orleans Parish",148,297,4276
+29,189,06,037,CA,"Los Angeles County",146,254,8657
+29,189,29,031,MO,"Cape Girardeau Count",146,217,5319
+29,189,29,113,MO,"Lincoln County",139,201,3786
+29,189,20,091,KS,"Johnson County",136,277,9281
+29,189,01,089,AL,"Madison County",118,238,8979
+29,189,04,013,AZ,"Maricopa County",118,205,6401
+29,189,29,187,MO,"St Francois County",113,174,3639
+29,189,17,133,IL,"Monroe County",111,189,8113
+29,189,06,073,CA,"San Diego County",104,188,3470
+29,189,48,201,TX,"Harris County",94,172,5533
+29,189,47,157,TN,"Shelby County",93,185,4746
+29,189,29,219,MO,"Warren County",90,153,2720
+29,189,29,051,MO,"Cole County",89,147,2529
+29,189,22,051,LA,"Jefferson Parish",87,192,3761
+29,189,48,113,TX,"Dallas County",86,165,5144
+29,189,18,097,IN,"Marion County",71,115,3759
+29,189,06,059,CA,"Orange County",70,138,4172
+29,189,29,161,MO,"Phelps County",69,110,2061
+29,189,57,005,FR,"Foreign - APO/FPO ZIPs",68,115,2097
+29,189,17,043,IL,"Du Page County",65,124,4023
+29,189,53,033,WA,"King County",63,142,4398
+29,189,17,167,IL,"Sangamon County",61,100,3185
+29,189,47,037,TN,"Davidson County",60,109,2088
+29,189,26,125,MI,"Oakland County",59,137,5937
+29,189,12,011,FL,"Broward County",58,100,3066
+29,189,17,019,IL,"Champaign County",57,99,2446
+29,189,21,111,KY,"Jefferson County",56,106,3742
+29,189,32,003,NV,"Clark County",55,108,2389
+29,189,39,049,OH,"Franklin County",55,90,3831
+29,189,36,061,NY,"New York County",54,77,23473
+29,189,17,097,IL,"Lake County",53,110,7995
+29,189,29,186,MO,"Ste Genevieve Count",53,79,2126
+29,189,17,077,IL,"Jackson County",51,78,1829
+29,189,26,163,MI,"Wayne County",48,103,2486
+29,189,27,053,MN,"Hennepin County",48,100,4489
+29,189,06,085,CA,"Santa Clara County",47,99,3889
+29,189,55,079,WI,"Milwaukee County",47,84,2315
+29,189,12,057,FL,"Hillsborough County",46,82,2712
+29,189,12,103,FL,"Pinellas County",46,80,3102
+29,189,39,061,OH,"Hamilton County",46,84,3627
+29,189,48,439,TX,"Tarrant County",46,92,2332
+29,189,29,029,MO,"Camden County",45,69,2292
+29,189,13,067,GA,"Cobb County",42,101,2383
+29,189,17,113,IL,"Mclean County",42,75,2894
+29,189,48,085,TX,"Collin County",42,98,3427
+29,189,12,095,FL,"Orange County",41,72,2180
+29,189,31,055,NE,"Douglas County",41,68,2480
+29,189,39,035,OH,"Cuyahoga County",41,85,3623
+29,189,08,031,CO,"Denver County",40,63,2539
+29,189,40,109,OK,"Oklahoma County",40,62,1415
+29,189,51,059,VA,"Fairfax County",39,76,3518
+29,189,17,143,IL,"Peoria County",38,69,1718
+29,189,40,143,OK,"Tulsa County",38,66,1851
+29,189,48,453,TX,"Travis County",38,70,2810
+29,189,05,119,AR,"Pulaski County",36,64,1269
+29,189,29,047,MO,"Clay County",36,65,1612
+29,189,25,017,MA,"Middlesex County",35,82,5245
+29,189,29,221,MO,"Washington County",35,42,803
+29,189,06,001,CA,"Alameda County",34,57,1918
+29,189,08,005,CO,"Arapahoe County",34,68,2740
+29,189,13,089,GA,"De Kalb County",34,66,1236
+29,189,13,121,GA,"Fulton County",34,74,4849
+29,189,17,117,IL,"Macoupin County",34,58,1520
+29,189,17,197,IL,"Will County",34,68,2528
+29,189,29,001,MO,"Adair County",34,56,837
+29,189,29,023,MO,"Butler County",34,48,1137
+29,189,19,153,IA,"Polk County",33,62,2829
+29,189,29,127,MO,"Marion County",33,47,967
+29,189,29,201,MO,"Scott County",33,50,1090
+29,189,48,029,TX,"Bexar County",33,71,2445
+29,189,11,001,DC,"District Of Columbia",32,48,1087
+29,189,01,073,AL,"Jefferson County",31,61,1820
+29,189,20,173,KS,"Sedgwick County",31,60,1417
+29,189,36,081,NY,"Queens County",31,62,1456
+29,189,04,019,AZ,"Pima County",30,61,1593
+29,189,29,007,MO,"Audrain County",30,48,963
+29,189,29,157,MO,"Perry County",30,44,1110
+29,189,17,001,IL,"Adams County",29,44,1028
+29,189,17,115,IL,"Macon County",29,46,1566
+29,189,26,161,MI,"Washtenaw County",29,57,2184
+29,189,29,055,MO,"Crawford County",29,40,864
+29,189,55,025,WI,"Dane County",29,48,1542
+29,189,06,065,CA,"Riverside County",28,64,1598
+29,189,06,075,CA,"San Francisco County",28,39,2121
+29,189,12,099,FL,"Palm Beach County",28,50,2657
+29,189,29,101,MO,"Johnson County",28,46,614
+29,189,31,109,NE,"Lancaster County",28,52,1455
+29,189,08,041,CO,"El Paso County",27,56,1324
+29,189,12,031,FL,"Duval County",27,53,1039
+29,189,12,071,FL,"Lee County",27,53,2169
+29,189,12,086,FL,"Miami Dade County",27,47,1879
+29,189,17,027,IL,"Clinton County",27,34,844
+29,189,06,013,CA,"Contra Costa County",26,63,6119
+29,189,06,071,CA,"San Bernardino Count",25,48,873
+29,189,09,001,CT,"Fairfield County",25,58,25227
+29,189,17,121,IL,"Marion County",25,30,776
+29,189,29,027,MO,"Callaway County",24,33,649
+29,189,29,043,MO,"Christian County",24,48,771
+29,189,36,047,NY,"Kings County",24,44,1049
+29,189,06,067,CA,"Sacramento County",23,45,1503
+29,189,08,013,CO,"Boulder County",23,41,7065
+29,189,17,157,IL,"Randolph County",23,33,733
+29,189,21,067,KY,"Fayette County",23,43,1152
+29,189,29,163,MO,"Pike County",23,39,715
+29,189,42,003,PA,"Allegheny County",23,46,1289
+29,189,08,059,CO,"Jefferson County",22,42,1723
+29,189,15,003,HI,"Honolulu County",22,44,1446
+29,189,17,089,IL,"Kane County",22,57,2732
+29,189,22,103,LA,"St Tammany Parish",22,46,1167
+29,189,34,023,NJ,"Middlesex County",22,39,1604
+29,189,37,119,NC,"Mecklenburg County",22,50,2960
+29,189,24,005,MD,"Baltimore County",21,48,3322
+29,189,25,025,MA,"Suffolk County",21,34,724
+29,189,26,099,MI,"Macomb County",21,37,860
+29,189,27,123,MN,"Ramsey County",21,45,1263
+29,189,29,073,MO,"Gasconade County",21,29,643
+29,189,29,165,MO,"Platte County",21,37,884
+29,189,29,169,MO,"Pulaski County",21,36,1071
+29,189,39,113,OH,"Montgomery County",21,38,1880
+29,189,47,187,TN,"Williamson County",21,49,2875
+29,189,12,021,FL,"Collier County",20,34,1690
+29,189,20,045,KS,"Douglas County",20,33,616
+29,189,24,031,MD,"Montgomery County",20,41,1646
+29,189,49,035,UT,"Salt Lake County",20,44,1052
+29,189,17,049,IL,"Effingham County",19,25,548
+29,189,17,083,IL,"Jersey County",19,27,694
+29,189,17,199,IL,"Williamson County",19,34,798
+29,189,18,163,IN,"Vanderburgh County",19,30,856
+29,189,24,003,MD,"Anne Arundel County",19,30,1262
+29,189,26,081,MI,"Kent County",19,39,1011
+29,189,28,047,MS,"Harrison County",19,38,499
+29,189,29,139,MO,"Montgomery County",19,33,478
+29,189,06,111,CA,"Ventura County",18,43,10867
+29,189,13,135,GA,"Gwinnett County",18,33,703
+29,189,18,003,IN,"Allen County",18,32,1057
+29,189,29,097,MO,"Jasper County",18,29,675
+29,189,35,001,NM,"Bernalillo County",18,29,876
+29,189,36,059,NY,"Nassau County",18,32,2171
+29,189,37,133,NC,"Onslow County",18,24,300
+29,189,42,101,PA,"Philadelphia County",18,40,800
+29,189,51,810,VA,"Virginia Beach",18,33,1295
+29,189,10,003,DE,"New Castle County",17,36,2015
+29,189,12,083,FL,"Marion County",17,36,663
+29,189,12,115,FL,"Sarasota County",17,25,802
+29,189,12,117,FL,"Seminole County",17,24,590
+29,189,19,163,IA,"Scott County",17,35,1112
+29,189,24,033,MD,"Prince George's Coun",17,42,804
+29,189,25,021,MA,"Norfolk County",17,35,1148
+29,189,37,183,NC,"Wake County",17,37,995
+29,189,42,091,PA,"Montgomery County",17,44,2290
+29,189,48,141,TX,"El Paso County",17,38,959
+29,189,48,339,TX,"Montgomery County",17,43,1885
+29,189,51,153,VA,"Prince William Count",17,46,1560
+29,189,05,143,AR,"Washington County",16,26,618
+29,189,12,033,FL,"Escambia County",16,31,494
+29,189,17,005,IL,"Bond County",16,26,329
+29,189,18,057,IN,"Hamilton County",16,34,933
+29,189,27,037,MN,"Dakota County",16,32,706
+29,189,37,051,NC,"Cumberland County",16,30,469
+29,189,48,121,TX,"Denton County",16,28,734
+29,189,53,053,WA,"Pierce County",16,31,582
+29,189,12,009,FL,"Brevard County",15,22,285
+29,189,12,073,FL,"Leon County",15,19,450
+29,189,18,157,IN,"Tippecanoe County",15,29,892
+29,189,36,029,NY,"Erie County",15,21,568
+29,189,37,081,NC,"Guilford County",15,24,726
+29,189,41,051,OR,"Multnomah County",15,26,650
+29,189,19,103,IA,"Johnson County",14,23,658
+29,189,20,209,KS,"Wyandotte County",14,21,294
+29,189,24,510,MD,Baltimore,14,35,1209
+29,189,26,077,MI,"Kalamazoo County",14,26,968
+29,189,29,123,MO,"Madison County",14,22,390
+29,189,34,017,NJ,"Hudson County",14,47,1241
+29,189,36,103,NY,"Suffolk County",14,25,481
+29,189,36,119,NY,"Westchester County",14,24,869
+29,189,51,087,VA,"Henrico County",14,31,1148
+29,189,53,061,WA,"Snohomish County",14,30,635
+29,189,08,035,CO,"Douglas County",13,32,1882
+29,189,17,111,IL,"Mchenry County",13,36,1030
+29,189,17,137,IL,"Morgan County",13,13,232
+29,189,17,179,IL,"Tazewell County",13,18,469
+29,189,17,189,IL,"Washington County",13,15,409
+29,189,18,141,IN,"St Joseph County",13,21,497
+29,189,20,061,KS,"Geary County",13,35,345
+29,189,29,093,MO,"Iron County",13,23,445
+29,189,34,027,NJ,"Morris County",13,35,1127
+29,189,36,055,NY,"Monroe County",13,23,512
+29,189,36,067,NY,"Onondaga County",13,29,753
+29,189,37,063,NC,"Durham County",13,29,818
+29,189,39,165,OH,"Warren County",13,36,1150
+29,189,42,029,PA,"Chester County",13,33,1504
+29,189,45,019,SC,"Charleston County",13,25,550
+29,189,45,079,SC,"Richland County",13,23,528
+29,189,47,093,TN,"Knox County",13,31,1260
+29,189,47,125,TN,"Montgomery County",13,32,730
+29,189,47,149,TN,"Rutherford County",13,32,821
+29,189,48,167,TX,"Galveston County",13,30,810
+29,189,51,013,VA,"Arlington County",13,18,924
+29,189,05,031,AR,"Craighead County",12,16,274
+29,189,09,009,CT,"New Haven County",12,32,845
+29,189,12,091,FL,"Okaloosa County",12,16,257
+29,189,17,081,IL,"Jefferson County",12,19,519
+29,189,17,201,IL,"Winnebago County",12,20,547
+29,189,18,167,IN,"Vigo County",12,22,296
+29,189,21,047,KY,"Christian County",12,27,276
+29,189,21,145,KY,"Mccracken County",12,19,528
+29,189,26,049,MI,"Genesee County",12,27,336
+29,189,29,065,MO,"Dent County",12,18,202
+29,189,33,011,NH,"Hillsborough County",12,34,549
+29,189,37,129,NC,"New Hanover County",12,20,432
+29,189,40,027,OK,"Cleveland County",12,25,384
+29,189,41,067,OR,"Washington County",12,29,998
+29,189,55,133,WI,"Waukesha County",12,29,1021
+29,189,06,081,CA,"San Mateo County",11,29,1039
+29,189,12,101,FL,"Pasco County",11,20,435
+29,189,17,021,IL,"Christian County",11,21,353
+29,189,17,029,IL,"Coles County",11,18,300
+29,189,17,051,IL,"Fayette County",11,12,309
+29,189,19,113,IA,"Linn County",11,14,331
+29,189,20,177,KS,"Shawnee County",11,23,503
+29,189,29,131,MO,"Miller County",11,17,455
+29,189,29,207,MO,"Stoddard County",11,18,423
+29,189,39,017,OH,"Butler County",11,26,581
+29,189,39,153,OH,"Summit County",11,13,833
+29,189,47,113,TN,"Madison County",11,15,462
+29,189,48,027,TX,"Bell County",11,16,292
+29,189,48,157,TX,"Fort Bend County",11,21,637
+29,189,55,035,WI,"Eau Claire County",11,17,247
+29,189,01,097,AL,"Mobile County",10,21,774
+29,189,01,103,AL,"Morgan County",10,15,784
+29,189,05,007,AR,"Benton County",10,16,356
+29,189,08,069,CO,"Larimer County",10,14,344
+29,189,18,105,IN,"Monroe County",10,15,873
+29,189,19,169,IA,"Story County",10,17,686
+29,189,22,017,LA,"Caddo Parish",10,14,194
+29,189,22,033,LA,"East Baton Rouge Par",10,14,1535
+29,189,25,027,MA,"Worcester County",10,27,1166
+29,189,26,065,MI,"Ingham County",10,19,409
+29,189,27,109,MN,"Olmsted County",10,20,423
+29,189,28,049,MS,"Hinds County",10,14,174
+29,189,29,021,MO,"Buchanan County",10,22,202
+29,189,29,155,MO,"Pemiscot County",10,21,242
+29,189,29,159,MO,"Pettis County",10,25,786
+29,189,29,209,MO,"Stone County",10,14,285
+29,189,29,223,MO,"Wayne County",10,19,155
+29,189,36,065,NY,"Oneida County",10,18,12
+29,189,39,041,OH,"Delaware County",10,29,1751
+29,189,39,095,OH,"Lucas County",10,14,693
+29,189,49,049,UT,"Utah County",10,26,235
+29,189,51,107,VA,"Loudoun County",10,31,1060
+29,189,51,550,VA,Chesapeake,10,19,510
+29,189,51,700,VA,"Newport News",10,24,298
+29,189,54,061,WV,"Monongalia County",10,14,527
+29,189,58,000,SS,"Other Flows - Same State",198,310,6502
+29,189,59,000,DS,"Other Flows - Diff State",2508,4707,130514
+29,189,59,001,DS,"Other Flows - Northeast",337,644,21095
+29,189,59,003,DS,"Other Flows - Midwest",763,1316,32035
+29,189,59,005,DS,"Other Flows - South",1080,2097,59989
+29,189,59,007,DS,"Other Flows - West",328,650,17395
+29,189,57,009,FR,"Foreign - Other flows",337,429,8504
+29,195,96,000,MO,"Saline County Tot Mig-US &",474,970,12489
+29,195,97,000,MO,"Saline County Tot Mig-US",474,970,12489
+29,195,97,001,MO,"Saline County Tot Mig-Same",295,584,6838
+29,195,97,003,MO,"Saline County Tot Mig-Diff",179,386,5651
+29,195,98,000,MO,"Saline County Tot Mig-Forei",d,d,d
+29,195,29,195,MO,"Saline County Non-Migrants",7628,16197,293448
+29,195,29,159,MO,"Pettis County",50,100,1093
+29,195,29,107,MO,"Lafayette County",42,82,1067
+29,195,29,095,MO,"Jackson County",30,56,583
+29,195,29,019,MO,"Boone County",15,27,359
+29,195,29,033,MO,"Carroll County",15,47,301
+29,195,29,089,MO,"Howard County",13,25,373
+29,195,29,053,MO,"Cooper County",12,24,268
+29,195,58,000,SS,"Other Flows - Same State",118,223,2794
+29,195,59,000,DS,"Other Flows - Diff State",179,386,5651
+29,195,59,001,DS,"Other Flows - Northeast",19,41,679
+29,195,59,003,DS,"Other Flows - Midwest",72,155,2487
+29,195,59,005,DS,"Other Flows - South",47,99,1587
+29,195,59,007,DS,"Other Flows - West",41,91,898
+29,197,96,000,MO,"Schuyler County Tot Mig-US",78,162,1784
+29,197,97,000,MO,"Schuyler County Tot Mig-US",78,162,1784
+29,197,97,001,MO,"Schuyler County Tot Mig-Sam",45,99,1010
+29,197,97,003,MO,"Schuyler County Tot Mig-Dif",33,63,774
+29,197,98,000,MO,"Schuyler County Tot Mig-For",d,d,d
+29,197,29,197,MO,"Schuyler County Non-Migrant",1291,2972,39719
+29,197,29,001,MO,"Adair County",19,41,395
+29,197,58,000,SS,"Other Flows - Same State",26,58,615
+29,197,59,000,DS,"Other Flows - Diff State",33,63,774
+29,199,96,000,MO,"Scotland County Tot Mig-US",91,186,4580
+29,199,97,000,MO,"Scotland County Tot Mig-US",91,186,4580
+29,199,97,001,MO,"Scotland County Tot Mig-Sam",46,90,1364
+29,199,97,003,MO,"Scotland County Tot Mig-Dif",45,96,3216
+29,199,98,000,MO,"Scotland County Tot Mig-For",d,d,d
+29,199,29,199,MO,"Scotland County Non-Migrant",1601,3833,53345
+29,199,58,000,SS,"Other Flows - Same State",46,90,1364
+29,199,59,000,DS,"Other Flows - Diff State",45,96,3216
+29,201,96,000,MO,"Scott County Tot Mig-US & F",929,1832,24530
+29,201,97,000,MO,"Scott County Tot Mig-US",929,1832,24530
+29,201,97,001,MO,"Scott County Tot Mig-Same S",652,1304,16768
+29,201,97,003,MO,"Scott County Tot Mig-Diff S",277,528,7762
+29,201,98,000,MO,"Scott County Tot Mig-Foreig",d,d,d
+29,201,29,201,MO,"Scott County Non-Migrants",13142,29708,549240
+29,201,29,031,MO,"Cape Girardeau Count",264,509,7186
+29,201,29,143,MO,"New Madrid County",89,179,2363
+29,201,29,133,MO,"Mississippi County",79,172,1905
+29,201,29,207,MO,"Stoddard County",67,148,1791
+29,201,29,189,MO,"St Louis County",22,42,751
+29,201,29,069,MO,"Dunklin County",17,44,319
+29,201,29,023,MO,"Butler County",14,25,270
+29,201,29,510,MO,"St Louis",14,24,292
+29,201,29,155,MO,"Pemiscot County",10,15,215
+29,201,58,000,SS,"Other Flows - Same State",76,146,1675
+29,201,59,000,DS,"Other Flows - Diff State",277,528,7762
+29,203,96,000,MO,"Shannon County Tot Mig-US &",160,347,5230
+29,203,97,000,MO,"Shannon County Tot Mig-US",160,347,5230
+29,203,97,001,MO,"Shannon County Tot Mig-Same",90,192,1597
+29,203,97,003,MO,"Shannon County Tot Mig-Diff",70,155,3633
+29,203,98,000,MO,"Shannon County Tot Mig-Fore",d,d,d
+29,203,29,203,MO,"Shannon County Non-Migrants",2363,5595,61967
+29,203,29,091,MO,"Howell County",32,75,529
+29,203,58,000,SS,"Other Flows - Same State",58,117,1069
+29,203,59,000,DS,"Other Flows - Diff State",70,155,3633
+29,205,96,000,MO,"Shelby County Tot Mig-US &",120,238,2728
+29,205,97,000,MO,"Shelby County Tot Mig-US",120,238,2728
+29,205,97,001,MO,"Shelby County Tot Mig-Same",96,194,2264
+29,205,97,003,MO,"Shelby County Tot Mig-Diff",24,44,464
+29,205,98,000,MO,"Shelby County Tot Mig-Forei",d,d,d
+29,205,29,205,MO,"Shelby County Non-Migrants",2328,5266,83540
+29,205,29,121,MO,"Macon County",26,48,483
+29,205,29,103,MO,"Knox County",12,32,320
+29,205,29,137,MO,"Monroe County",11,23,368
+29,205,58,000,SS,"Other Flows - Same State",47,91,1092
+29,205,59,000,DS,"Other Flows - Diff State",24,44,464
+29,207,96,000,MO,"Stoddard County Tot Mig-US",618,1310,16735
+29,207,97,000,MO,"Stoddard County Tot Mig-US",618,1310,16735
+29,207,97,001,MO,"Stoddard County Tot Mig-Sam",417,878,10983
+29,207,97,003,MO,"Stoddard County Tot Mig-Dif",201,432,5752
+29,207,98,000,MO,"Stoddard County Tot Mig-For",d,d,d
+29,207,29,207,MO,"Stoddard County Non-Migrant",9914,22150,403604
+29,207,29,023,MO,"Butler County",73,157,1789
+29,207,29,201,MO,"Scott County",63,126,1390
+29,207,29,069,MO,"Dunklin County",51,113,1469
+29,207,29,031,MO,"Cape Girardeau Count",39,74,1316
+29,207,29,143,MO,"New Madrid County",31,82,745
+29,207,29,017,MO,"Bollinger County",25,45,475
+29,207,29,189,MO,"St Louis County",17,26,458
+29,207,29,223,MO,"Wayne County",14,36,395
+29,207,29,133,MO,"Mississippi County",13,26,452
+29,207,58,000,SS,"Other Flows - Same State",91,193,2492
+29,207,59,000,DS,"Other Flows - Diff State",201,432,5752
+29,209,96,000,MO,"Stone County Tot Mig-US & F",1317,2676,53393
+29,209,97,000,MO,"Stone County Tot Mig-US",1317,2676,53393
+29,209,97,001,MO,"Stone County Tot Mig-Same S",632,1293,20788
+29,209,97,003,MO,"Stone County Tot Mig-Diff S",685,1383,32605
+29,209,98,000,MO,"Stone County Tot Mig-Foreig",d,d,d
+29,209,29,209,MO,"Stone County Non-Migrants",9609,20696,380303
+29,209,29,213,MO,"Taney County",157,314,4218
+29,209,29,077,MO,"Greene County",142,264,4773
+29,209,29,043,MO,"Christian County",80,187,2611
+29,209,29,009,MO,"Barry County",31,66,883
+29,209,29,109,MO,"Lawrence County",26,63,544
+29,209,29,189,MO,"St Louis County",26,46,1068
+29,209,29,095,MO,"Jackson County",21,41,1200
+29,209,05,015,AR,"Carroll County",20,39,382
+29,209,05,009,AR,"Boone County",18,40,493
+29,209,17,031,IL,"Cook County",15,27,1030
+29,209,32,003,NV,"Clark County",15,36,1004
+29,209,06,073,CA,"San Diego County",14,33,826
+29,209,04,013,AZ,"Maricopa County",13,26,417
+29,209,06,037,CA,"Los Angeles County",12,29,1284
+29,209,31,055,NE,"Douglas County",12,22,716
+29,209,06,059,CA,"Orange County",10,18,372
+29,209,29,225,MO,"Webster County",10,28,421
+29,209,58,000,SS,"Other Flows - Same State",139,284,5070
+29,209,59,000,DS,"Other Flows - Diff State",556,1113,26081
+29,209,59,001,DS,"Other Flows - Northeast",25,52,1570
+29,209,59,003,DS,"Other Flows - Midwest",202,404,10684
+29,209,59,005,DS,"Other Flows - South",219,439,8831
+29,209,59,007,DS,"Other Flows - West",110,218,4996
+29,211,96,000,MO,"Sullivan County Tot Mig-US",178,366,4280
+29,211,97,000,MO,"Sullivan County Tot Mig-US",178,366,4280
+29,211,97,001,MO,"Sullivan County Tot Mig-Sam",94,173,2290
+29,211,97,003,MO,"Sullivan County Tot Mig-Dif",84,193,1990
+29,211,98,000,MO,"Sullivan County Tot Mig-For",d,d,d
+29,211,29,211,MO,"Sullivan County Non-Migrant",2318,5231,72588
+29,211,29,001,MO,"Adair County",17,33,500
+29,211,29,171,MO,"Putnam County",14,25,307
+29,211,58,000,SS,"Other Flows - Same State",63,115,1483
+29,211,59,000,DS,"Other Flows - Diff State",84,193,1990
+29,213,96,000,MO,"Taney County Tot Mig-US & F",1825,3523,59089
+29,213,97,000,MO,"Taney County Tot Mig-US",1825,3523,59089
+29,213,97,001,MO,"Taney County Tot Mig-Same S",747,1401,21270
+29,213,97,003,MO,"Taney County Tot Mig-Diff S",1078,2122,37819
+29,213,98,000,MO,"Taney County Tot Mig-Foreig",d,d,d
+29,213,29,213,MO,"Taney County Non-Migrants",14023,29573,522935
+29,213,29,209,MO,"Stone County",206,380,6083
+29,213,29,077,MO,"Greene County",144,257,3744
+29,213,29,043,MO,"Christian County",76,153,2139
+29,213,05,009,AR,"Boone County",63,112,1179
+29,213,32,003,NV,"Clark County",26,45,749
+29,213,29,095,MO,"Jackson County",22,49,1024
+29,213,29,097,MO,"Jasper County",22,46,640
+29,213,20,091,KS,"Johnson County",19,33,942
+29,213,40,143,OK,"Tulsa County",17,46,660
+29,213,05,015,AR,"Carroll County",16,29,480
+29,213,29,009,MO,"Barry County",16,34,154
+29,213,29,189,MO,"St Louis County",16,24,653
+29,213,05,143,AR,"Washington County",15,30,601
+29,213,06,073,CA,"San Diego County",15,36,1107
+29,213,29,153,MO,"Ozark County",14,33,150
+29,213,48,113,TX,"Dallas County",14,22,534
+29,213,06,037,CA,"Los Angeles County",11,20,494
+29,213,20,173,KS,"Sedgwick County",11,30,609
+29,213,29,109,MO,"Lawrence County",11,22,186
+29,213,04,013,AZ,"Maricopa County",10,19,577
+29,213,05,007,AR,"Benton County",10,19,145
+29,213,58,000,SS,"Other Flows - Same State",220,403,6496
+29,213,59,000,DS,"Other Flows - Diff State",851,1681,29741
+29,213,59,001,DS,"Other Flows - Northeast",27,60,1606
+29,213,59,003,DS,"Other Flows - Midwest",274,532,10018
+29,213,59,005,DS,"Other Flows - South",393,777,11663
+29,213,59,007,DS,"Other Flows - West",157,312,6455
+29,215,96,000,MO,"Texas County Tot Mig-US & F",626,1455,18707
+29,215,97,000,MO,"Texas County Tot Mig-US",615,1420,18353
+29,215,97,001,MO,"Texas County Tot Mig-Same S",344,818,9279
+29,215,97,003,MO,"Texas County Tot Mig-Diff S",271,602,9074
+29,215,98,000,MO,"Texas County Tot Mig-Foreig",11,35,354
+29,215,29,215,MO,"Texas County Non-Migrants",7127,16300,232740
+29,215,29,091,MO,"Howell County",47,122,1164
+29,215,29,169,MO,"Pulaski County",46,123,1762
+29,215,29,229,MO,"Wright County",39,106,875
+29,215,29,077,MO,"Greene County",31,55,625
+29,215,29,161,MO,"Phelps County",20,46,595
+29,215,29,065,MO,"Dent County",13,24,236
+29,215,29,105,MO,"Laclede County",13,30,249
+29,215,29,189,MO,"St Louis County",11,20,256
+29,215,58,000,SS,"Other Flows - Same State",124,292,3518
+29,215,59,000,DS,"Other Flows - Diff State",271,602,9074
+29,215,59,001,DS,"Other Flows - Northeast",21,48,625
+29,215,59,003,DS,"Other Flows - Midwest",72,159,2268
+29,215,59,005,DS,"Other Flows - South",105,237,3676
+29,215,59,007,DS,"Other Flows - West",73,158,2505
+29,215,57,009,FR,"Foreign - Other flows",11,35,354
+29,217,96,000,MO,"Vernon County Tot Mig-US &",426,907,12222
+29,217,97,000,MO,"Vernon County Tot Mig-US",426,907,12222
+29,217,97,001,MO,"Vernon County Tot Mig-Same",241,527,5917
+29,217,97,003,MO,"Vernon County Tot Mig-Diff",185,380,6305
+29,217,98,000,MO,"Vernon County Tot Mig-Forei",d,d,d
+29,217,29,217,MO,"Vernon County Non-Migrants",6422,14655,227606
+29,217,29,039,MO,"Cedar County",63,137,1476
+29,217,29,013,MO,"Bates County",35,78,914
+29,217,20,011,KS,"Bourbon County",22,42,799
+29,217,29,077,MO,"Greene County",20,32,425
+29,217,29,011,MO,"Barton County",19,46,425
+29,217,29,097,MO,"Jasper County",16,27,289
+29,217,29,037,MO,"Cass County",10,30,361
+29,217,58,000,SS,"Other Flows - Same State",78,177,2028
+29,217,59,000,DS,"Other Flows - Diff State",163,338,5506
+29,217,59,001,DS,"Other Flows - Northeast",10,21,372
+29,217,59,003,DS,"Other Flows - Midwest",85,185,2509
+29,217,59,005,DS,"Other Flows - South",43,83,1668
+29,217,59,007,DS,"Other Flows - West",25,49,958
+29,219,96,000,MO,"Warren County Tot Mig-US &",1193,2468,53051
+29,219,97,000,MO,"Warren County Tot Mig-US",1193,2468,53051
+29,219,97,001,MO,"Warren County Tot Mig-Same",1013,2082,45541
+29,219,97,003,MO,"Warren County Tot Mig-Diff",180,386,7509
+29,219,98,000,MO,"Warren County Tot Mig-Forei",d,d,d
+29,219,29,219,MO,"Warren County Non-Migrants",9800,22342,507993
+29,219,29,183,MO,"St Charles County",484,1041,25878
+29,219,29,189,MO,"St Louis County",156,318,8045
+29,219,29,113,MO,"Lincoln County",104,196,2896
+29,219,29,071,MO,"Franklin County",84,169,3129
+29,219,29,139,MO,"Montgomery County",55,109,1326
+29,219,29,510,MO,"St Louis",19,42,666
+29,219,29,099,MO,"Jefferson County",17,25,746
+29,219,58,000,SS,"Other Flows - Same State",94,182,2856
+29,219,59,000,DS,"Other Flows - Diff State",180,386,7509
+29,219,59,001,DS,"Other Flows - Northeast",11,21,557
+29,219,59,003,DS,"Other Flows - Midwest",67,148,3035
+29,219,59,005,DS,"Other Flows - South",69,147,2408
+29,219,59,007,DS,"Other Flows - West",33,70,1508
+29,221,96,000,MO,"Washington Coun Tot Mig-US",472,989,12321
+29,221,97,000,MO,"Washington Coun Tot Mig-US",472,989,12321
+29,221,97,001,MO,"Washington Coun Tot Mig-Sam",404,872,10828
+29,221,97,003,MO,"Washington Coun Tot Mig-Dif",68,117,1493
+29,221,98,000,MO,"Washington Coun Tot Mig-For",d,d,d
+29,221,29,221,MO,"Washington Coun Non-Migrant",6537,15597,224688
+29,221,29,099,MO,"Jefferson County",118,244,3652
+29,221,29,187,MO,"St Francois County",110,243,2335
+29,221,29,189,MO,"St Louis County",43,92,1470
+29,221,29,071,MO,"Franklin County",23,50,628
+29,221,29,510,MO,"St Louis",17,35,470
+29,221,29,093,MO,"Iron County",16,39,351
+29,221,29,055,MO,"Crawford County",12,27,307
+29,221,58,000,SS,"Other Flows - Same State",65,142,1613
+29,221,59,000,DS,"Other Flows - Diff State",68,117,1493
+29,223,96,000,MO,"Wayne County Tot Mig-US & F",302,635,8174
+29,223,97,000,MO,"Wayne County Tot Mig-US",302,635,8174
+29,223,97,001,MO,"Wayne County Tot Mig-Same S",228,482,6256
+29,223,97,003,MO,"Wayne County Tot Mig-Diff S",74,153,1918
+29,223,98,000,MO,"Wayne County Tot Mig-Foreig",d,d,d
+29,223,29,223,MO,"Wayne County Non-Migrants",3660,8331,110071
+29,223,29,023,MO,"Butler County",51,110,1296
+29,223,29,099,MO,"Jefferson County",25,46,867
+29,223,29,207,MO,"Stoddard County",23,52,783
+29,223,29,189,MO,"St Louis County",17,32,415
+29,223,29,031,MO,"Cape Girardeau Count",11,22,377
+29,223,29,179,MO,"Reynolds County",10,22,142
+29,223,58,000,SS,"Other Flows - Same State",91,198,2377
+29,223,59,000,DS,"Other Flows - Diff State",74,153,1918
+29,225,96,000,MO,"Webster County Tot Mig-US &",1109,2489,38784
+29,225,97,000,MO,"Webster County Tot Mig-US",1109,2489,38784
+29,225,97,001,MO,"Webster County Tot Mig-Same",753,1662,24859
+29,225,97,003,MO,"Webster County Tot Mig-Diff",356,827,13924
+29,225,98,000,MO,"Webster County Tot Mig-Fore",d,d,d
+29,225,29,225,MO,"Webster County Non-Migrants",10206,25717,412868
+29,225,29,077,MO,"Greene County",347,747,11840
+29,225,29,043,MO,"Christian County",89,206,3187
+29,225,29,229,MO,"Wright County",66,154,2026
+29,225,29,105,MO,"Laclede County",34,88,1148
+29,225,29,059,MO,"Dallas County",25,54,810
+29,225,29,067,MO,"Douglas County",16,37,490
+29,225,04,013,AZ,"Maricopa County",12,28,495
+29,225,29,091,MO,"Howell County",12,25,209
+29,225,29,189,MO,"St Louis County",12,22,281
+29,225,29,213,MO,"Taney County",12,20,313
+29,225,06,071,CA,"San Bernardino Count",11,24,349
+29,225,29,095,MO,"Jackson County",11,22,586
+29,225,29,167,MO,"Polk County",11,27,277
+29,225,58,000,SS,"Other Flows - Same State",118,260,3692
+29,225,59,000,DS,"Other Flows - Diff State",333,775,13079
+29,225,59,001,DS,"Other Flows - Northeast",15,29,218
+29,225,59,003,DS,"Other Flows - Midwest",85,215,3747
+29,225,59,005,DS,"Other Flows - South",132,289,4724
+29,225,59,007,DS,"Other Flows - West",101,242,4391
+29,227,96,000,MO,"Worth County Tot Mig-US & F",48,99,1280
+29,227,97,000,MO,"Worth County Tot Mig-US",48,99,1280
+29,227,97,001,MO,"Worth County Tot Mig-Same S",29,48,653
+29,227,97,003,MO,"Worth County Tot Mig-Diff S",19,51,627
+29,227,98,000,MO,"Worth County Tot Mig-Foreig",d,d,d
+29,227,29,227,MO,"Worth County Non-Migrants",764,1672,25234
+29,227,58,000,SS,"Other Flows - Same State",29,48,653
+29,227,59,000,DS,"Other Flows - Diff State",19,51,627
+29,229,96,000,MO,"Wright County Tot Mig-US &",426,963,12156
+29,229,97,000,MO,"Wright County Tot Mig-US",426,963,12156
+29,229,97,001,MO,"Wright County Tot Mig-Same",248,542,5853
+29,229,97,003,MO,"Wright County Tot Mig-Diff",178,421,6304
+29,229,98,000,MO,"Wright County Tot Mig-Forei",d,d,d
+29,229,29,229,MO,"Wright County Non-Migrants",5402,12906,167911
+29,229,29,077,MO,"Greene County",50,104,1209
+29,229,29,215,MO,"Texas County",31,67,758
+29,229,29,225,MO,"Webster County",30,71,633
+29,229,29,067,MO,"Douglas County",29,67,582
+29,229,29,105,MO,"Laclede County",25,58,606
+29,229,29,091,MO,"Howell County",21,54,645
+29,229,58,000,SS,"Other Flows - Same State",62,121,1421
+29,229,59,000,DS,"Other Flows - Diff State",178,421,6304
+29,510,96,000,MO,"St Louis Tot Mig-US & For",12077,19440,392929
+29,510,97,000,MO,"St Louis Tot Mig-US",11856,19185,389359
+29,510,97,001,MO,"St Louis Tot Mig-Same St",8130,13704,253654
+29,510,97,003,MO,"St Louis Tot Mig-Diff St",3726,5481,135706
+29,510,98,000,MO,"St Louis Tot Mig-Foreign",221,255,3570
+29,510,29,510,MO,"St Louis Non-Migrants",102646,197765,4058362
+29,510,29,189,MO,"St Louis County",6503,11386,208556
+29,510,29,099,MO,"Jefferson County",478,741,13170
+29,510,29,183,MO,"St Charles County",399,549,12633
+29,510,17,163,IL,"St Clair County",357,608,9771
+29,510,17,119,IL,"Madison County",247,343,8876
+29,510,17,031,IL,"Cook County",149,215,6270
+29,510,29,071,MO,"Franklin County",106,146,3687
+29,510,29,019,MO,"Boone County",103,143,2680
+29,510,29,095,MO,"Jackson County",71,98,1890
+29,510,29,077,MO,"Greene County",68,82,1676
+29,510,06,037,CA,"Los Angeles County",58,100,2719
+29,510,22,071,LA,"Orleans Parish",48,79,1164
+29,510,47,157,TN,"Shelby County",45,68,1357
+29,510,48,201,TX,"Harris County",45,73,1912
+29,510,29,031,MO,"Cape Girardeau Count",39,53,1151
+29,510,29,051,MO,"Cole County",39,54,935
+29,510,36,061,NY,"New York County",39,50,2509
+29,510,06,073,CA,"San Diego County",38,55,1409
+29,510,17,167,IL,"Sangamon County",38,51,1016
+29,510,29,187,MO,"St Francois County",38,54,786
+29,510,48,113,TX,"Dallas County",38,68,1480
+29,510,57,005,FR,"Foreign - APO/FPO ZIPs",37,56,1390
+29,510,17,019,IL,"Champaign County",35,41,981
+29,510,17,077,IL,"Jackson County",33,40,793
+29,510,17,133,IL,"Monroe County",33,40,1043
+29,510,04,013,AZ,"Maricopa County",32,50,1302
+29,510,11,001,DC,"District Of Columbia",32,38,1943
+29,510,18,097,IN,"Marion County",28,50,707
+29,510,53,033,WA,"King County",27,41,1684
+29,510,20,091,KS,"Johnson County",26,38,1279
+29,510,39,049,OH,"Franklin County",26,39,1032
+29,510,12,103,FL,"Pinellas County",24,44,524
+29,510,29,113,MO,"Lincoln County",24,33,503
+29,510,55,079,WI,"Milwaukee County",22,38,587
+29,510,08,031,CO,"Denver County",21,29,928
+29,510,27,053,MN,"Hennepin County",21,35,775
+29,510,48,029,TX,"Bexar County",21,28,949
+29,510,22,051,LA,"Jefferson Parish",20,30,584
+29,510,24,031,MD,"Montgomery County",20,28,754
+29,510,25,017,MA,"Middlesex County",20,28,1403
+29,510,29,219,MO,"Warren County",20,24,661
+29,510,31,055,NE,"Douglas County",20,27,902
+29,510,47,037,TN,"Davidson County",20,24,575
+29,510,06,059,CA,"Orange County",19,26,871
+29,510,21,111,KY,"Jefferson County",19,27,755
+29,510,12,095,FL,"Orange County",18,29,366
+29,510,42,101,PA,"Philadelphia County",18,28,939
+29,510,13,089,GA,"De Kalb County",17,26,575
+29,510,13,121,GA,"Fulton County",17,21,1121
+29,510,17,043,IL,"Du Page County",17,22,1093
+29,510,32,003,NV,"Clark County",17,30,602
+29,510,48,453,TX,"Travis County",17,26,2603
+29,510,06,085,CA,"Santa Clara County",16,21,660
+29,510,51,059,VA,"Fairfax County",16,17,635
+29,510,17,097,IL,"Lake County",15,25,333
+29,510,17,143,IL,"Peoria County",15,21,856
+29,510,17,157,IL,"Randolph County",15,21,594
+29,510,25,025,MA,"Suffolk County",15,19,384
+29,510,13,067,GA,"Cobb County",14,22,349
+29,510,17,115,IL,"Macon County",14,20,583
+29,510,17,117,IL,"Macoupin County",14,16,451
+29,510,17,199,IL,"Williamson County",14,17,303
+29,510,26,125,MI,"Oakland County",14,18,546
+29,510,29,047,MO,"Clay County",14,18,285
+29,510,39,035,OH,"Cuyahoga County",14,16,325
+29,510,48,121,TX,"Denton County",14,17,489
+29,510,20,173,KS,"Sedgwick County",13,23,813
+29,510,26,065,MI,"Ingham County",13,25,276
+29,510,29,161,MO,"Phelps County",13,20,240
+29,510,06,001,CA,"Alameda County",12,18,653
+29,510,06,075,CA,"San Francisco County",12,13,636
+29,510,12,086,FL,"Miami Dade County",12,13,373
+29,510,17,113,IL,"Mclean County",12,14,340
+29,510,18,105,IN,"Monroe County",12,14,254
+29,510,19,153,IA,"Polk County",12,18,421
+29,510,26,161,MI,"Washtenaw County",12,13,459
+29,510,28,047,MS,"Harrison County",12,25,334
+29,510,01,073,AL,"Jefferson County",11,18,497
+29,510,04,019,AZ,"Pima County",11,12,346
+29,510,05,119,AR,"Pulaski County",11,20,274
+29,510,12,011,FL,"Broward County",11,16,473
+29,510,15,003,HI,"Honolulu County",11,17,487
+29,510,25,021,MA,"Norfolk County",11,14,642
+29,510,29,186,MO,"Ste Genevieve Count",11,15,241
+29,510,39,061,OH,"Hamilton County",11,14,357
+29,510,48,439,TX,"Tarrant County",11,18,526
+29,510,55,025,WI,"Dane County",11,15,822
+29,510,06,065,CA,"Riverside County",10,12,259
+29,510,17,027,IL,"Clinton County",10,13,371
+29,510,18,003,IN,"Allen County",10,15,257
+29,510,22,033,LA,"East Baton Rouge Par",10,11,387
+29,510,36,055,NY,"Monroe County",10,12,476
+29,510,36,103,NY,"Suffolk County",10,14,242
+29,510,40,143,OK,"Tulsa County",10,16,663
+29,510,42,003,PA,"Allegheny County",10,17,476
+29,510,49,035,UT,"Salt Lake County",10,15,516
+29,510,58,000,SS,"Other Flows - Same State",204,288,4560
+29,510,59,000,DS,"Other Flows - Diff State",1483,2153,50420
+29,510,59,001,DS,"Other Flows - Northeast",198,290,7737
+29,510,59,003,DS,"Other Flows - Midwest",513,715,15587
+29,510,59,005,DS,"Other Flows - South",563,861,21075
+29,510,59,007,DS,"Other Flows - West",209,287,6022
+29,510,57,009,FR,"Foreign - Other flows",184,199,2180

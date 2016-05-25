@@ -1,0 +1,542 @@
+"2005-2006 County to County Migration Inflow",,,,,,"Wyoming Inflows",,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Wyoming,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+56,000,96,000,WY,"Total Mig - US & For",17760,34208,765405
+56,000,97,000,WY,"Total Mig - US",17418,33635,756828
+56,000,97,001,WY,"Total Mig - US Same St",5248,10029,193896
+56,000,97,003,WY,"Total Mig - US Diff St",12170,23606,562932
+56,000,98,000,WY,"Total Mig - Foreign",342,573,8577
+56,001,96,000,WY,"Albany County Tot Mig-US &",1595,2435,44129
+56,001,97,000,WY,"Albany County Tot Mig-US",1504,2331,43596
+56,001,97,001,WY,"Albany County Tot Mig-Same",570,811,13287
+56,001,97,003,WY,"Albany County Tot Mig-Diff",934,1520,30308
+56,001,98,000,WY,"Albany County Tot Mig-Forei",91,104,534
+56,001,56,001,WY,"Albany County Non-Migrants",9979,19511,516798
+56,001,56,021,WY,"Laramie County",111,147,2759
+56,001,56,025,WY,"Natrona County",59,79,1176
+56,001,56,037,WY,"Sweetwater County",52,78,1130
+56,001,56,013,WY,"Fremont County",49,68,1048
+56,001,56,033,WY,"Sheridan County",44,59,707
+56,001,56,007,WY,"Carbon County",43,68,1518
+56,001,08,069,CO,"Larimer County",40,56,1311
+56,001,56,005,WY,"Campbell County",39,59,956
+56,001,56,015,WY,"Goshen County",27,48,928
+56,001,56,029,WY,"Park County",25,33,419
+56,001,56,023,WY,"Lincoln County",19,26,299
+56,001,08,059,CO,"Jefferson County",18,24,690
+56,001,56,041,WY,"Uinta County",17,25,247
+56,001,08,005,CO,"Arapahoe County",16,22,447
+56,001,46,103,SD,"Pennington County",15,20,412
+56,001,53,033,WA,"King County",14,18,420
+56,001,56,003,WY,"Big Horn County",14,23,418
+56,001,56,039,WY,"Teton County",14,14,218
+56,001,04,013,AZ,"Maricopa County",13,18,216
+56,001,08,041,CO,"El Paso County",13,23,195
+56,001,08,123,CO,"Weld County",13,22,490
+56,001,08,001,CO,"Adams County",12,19,562
+56,001,06,073,CA,"San Diego County",11,15,356
+56,001,56,043,WY,"Washakie County",11,19,251
+56,001,08,013,CO,"Boulder County",10,20,281
+56,001,08,031,CO,"Denver County",10,21,419
+56,001,56,009,WY,"Converse County",10,13,191
+56,001,58,000,SS,"Other Flows - Same State",36,52,1024
+56,001,59,000,DS,"Other Flows - Diff State",749,1242,24511
+56,001,59,001,DS,"Other Flows - Northeast",63,101,2472
+56,001,59,003,DS,"Other Flows - Midwest",229,366,7209
+56,001,59,005,DS,"Other Flows - South",166,274,5416
+56,001,59,007,DS,"Other Flows - West",291,501,9414
+56,001,57,009,FR,"Foreign - Other flows",91,104,534
+56,003,96,000,WY,"Big Horn County Tot Mig-US",302,651,13542
+56,003,97,000,WY,"Big Horn County Tot Mig-US",302,651,13542
+56,003,97,001,WY,"Big Horn County Tot Mig-Sam",134,275,3734
+56,003,97,003,WY,"Big Horn County Tot Mig-Dif",168,376,9807
+56,003,98,000,WY,"Big Horn County Tot Mig-For",d,d,d
+56,003,56,003,WY,"Big Horn County Non-Migrant",3398,8164,139958
+56,003,56,029,WY,"Park County",67,133,1878
+56,003,56,043,WY,"Washakie County",12,28,323
+56,003,56,001,WY,"Albany County",10,18,130
+56,003,58,000,SS,"Other Flows - Same State",45,96,1403
+56,003,59,000,DS,"Other Flows - Diff State",168,376,9807
+56,005,96,000,WY,"Campbell County Tot Mig-US",1431,2988,60908
+56,005,97,000,WY,"Campbell County Tot Mig-US",1431,2988,60908
+56,005,97,001,WY,"Campbell County Tot Mig-Sam",424,889,18479
+56,005,97,003,WY,"Campbell County Tot Mig-Dif",1007,2099,42430
+56,005,98,000,WY,"Campbell County Tot Mig-For",d,d,d
+56,005,56,005,WY,"Campbell County Non-Migrant",12992,30154,924888
+56,005,56,025,WY,"Natrona County",64,119,2624
+56,005,56,033,WY,"Sheridan County",58,134,2753
+56,005,56,011,WY,"Crook County",50,96,2162
+56,005,46,103,SD,"Pennington County",46,88,1460
+56,005,30,111,MT,"Yellowstone County",41,94,1988
+56,005,56,001,WY,"Albany County",33,56,1113
+56,005,56,009,WY,"Converse County",33,74,1689
+56,005,46,081,SD,"Lawrence County",31,39,952
+56,005,56,013,WY,"Fremont County",25,48,894
+56,005,56,021,WY,"Laramie County",22,59,1157
+56,005,46,093,SD,"Meade County",21,51,832
+56,005,56,045,WY,"Weston County",21,34,1046
+56,005,08,059,CO,"Jefferson County",18,33,763
+56,005,56,037,WY,"Sweetwater County",18,41,951
+56,005,08,001,CO,"Adams County",16,30,694
+56,005,56,019,WY,"Johnson County",16,44,578
+56,005,04,013,AZ,"Maricopa County",15,34,713
+56,005,46,019,SD,"Butte County",15,38,564
+56,005,31,157,NE,"Scotts Bluff County",13,26,359
+56,005,56,007,WY,"Carbon County",13,23,407
+56,005,56,003,WY,"Big Horn County",12,33,486
+56,005,56,015,WY,"Goshen County",12,26,392
+56,005,30,031,MT,"Gallatin County",11,26,455
+56,005,56,029,WY,"Park County",11,30,582
+56,005,46,033,SD,"Custer County",10,25,211
+56,005,58,000,SS,"Other Flows - Same State",36,72,1644
+56,005,59,000,DS,"Other Flows - Diff State",770,1615,33439
+56,005,59,001,DS,"Other Flows - Northeast",18,35,847
+56,005,59,003,DS,"Other Flows - Midwest",234,466,10815
+56,005,59,005,DS,"Other Flows - South",143,298,5689
+56,005,59,007,DS,"Other Flows - West",375,816,16088
+56,007,96,000,WY,"Carbon County Tot Mig-US &",518,1097,25394
+56,007,97,000,WY,"Carbon County Tot Mig-US",518,1097,25394
+56,007,97,001,WY,"Carbon County Tot Mig-Same",185,398,6270
+56,007,97,003,WY,"Carbon County Tot Mig-Diff",333,699,19124
+56,007,98,000,WY,"Carbon County Tot Mig-Forei",d,d,d
+56,007,56,007,WY,"Carbon County Non-Migrants",5069,10965,208870
+56,007,56,037,WY,"Sweetwater County",33,76,1367
+56,007,56,025,WY,"Natrona County",31,51,856
+56,007,56,001,WY,"Albany County",27,60,787
+56,007,56,021,WY,"Laramie County",22,51,535
+56,007,56,013,WY,"Fremont County",15,37,538
+56,007,08,123,CO,"Weld County",11,26,342
+56,007,56,041,WY,"Uinta County",10,18,366
+56,007,58,000,SS,"Other Flows - Same State",47,105,1820
+56,007,59,000,DS,"Other Flows - Diff State",322,673,18781
+56,009,96,000,WY,"Converse County Tot Mig-US",413,866,14996
+56,009,97,000,WY,"Converse County Tot Mig-US",413,866,14996
+56,009,97,001,WY,"Converse County Tot Mig-Sam",229,492,8347
+56,009,97,003,WY,"Converse County Tot Mig-Dif",184,374,6649
+56,009,98,000,WY,"Converse County Tot Mig-For",d,d,d
+56,009,56,009,WY,"Converse County Non-Migrant",4312,9900,237755
+56,009,56,025,WY,"Natrona County",120,241,4139
+56,009,56,005,WY,"Campbell County",18,41,1062
+56,009,56,031,WY,"Platte County",16,36,567
+56,009,56,001,WY,"Albany County",10,18,154
+56,009,56,027,WY,"Niobrara County",10,26,396
+56,009,56,033,WY,"Sheridan County",10,21,396
+56,009,58,000,SS,"Other Flows - Same State",45,109,1634
+56,009,59,000,DS,"Other Flows - Diff State",184,374,6649
+56,011,96,000,WY,"Crook County Tot Mig-US & F",238,478,11960
+56,011,97,000,WY,"Crook County Tot Mig-US",238,478,11960
+56,011,97,001,WY,"Crook County Tot Mig-Same S",107,211,5882
+56,011,97,003,WY,"Crook County Tot Mig-Diff S",131,267,6079
+56,011,98,000,WY,"Crook County Tot Mig-Foreig",d,d,d
+56,011,56,011,WY,"Crook County Non-Migrants",2148,4745,108283
+56,011,56,005,WY,"Campbell County",48,102,3611
+56,011,46,081,SD,"Lawrence County",15,25,587
+56,011,56,045,WY,"Weston County",11,22,439
+56,011,56,001,WY,"Albany County",10,16,256
+56,011,58,000,SS,"Other Flows - Same State",38,71,1575
+56,011,59,000,DS,"Other Flows - Diff State",116,242,5491
+56,013,96,000,WY,"Fremont County Tot Mig-US &",959,1907,35806
+56,013,97,000,WY,"Fremont County Tot Mig-US",949,1892,35575
+56,013,97,001,WY,"Fremont County Tot Mig-Same",324,666,12220
+56,013,97,003,WY,"Fremont County Tot Mig-Diff",625,1226,23355
+56,013,98,000,WY,"Fremont County Tot Mig-Fore",10,15,231
+56,013,56,013,WY,"Fremont County Non-Migrants",12499,27452,569063
+56,013,56,025,WY,"Natrona County",66,147,2373
+56,013,56,037,WY,"Sweetwater County",36,85,1710
+56,013,56,001,WY,"Albany County",33,57,1135
+56,013,56,021,WY,"Laramie County",23,53,844
+56,013,56,039,WY,"Teton County",21,34,987
+56,013,56,007,WY,"Carbon County",19,38,513
+56,013,56,029,WY,"Park County",14,27,340
+56,013,04,013,AZ,"Maricopa County",13,24,439
+56,013,56,005,WY,"Campbell County",13,21,325
+56,013,56,033,WY,"Sheridan County",13,22,465
+56,013,56,035,WY,"Sublette County",13,30,969
+56,013,56,041,WY,"Uinta County",11,21,457
+56,013,56,043,WY,"Washakie County",11,32,359
+56,013,08,069,CO,"Larimer County",10,13,259
+56,013,30,111,MT,"Yellowstone County",10,16,206
+56,013,32,003,NV,"Clark County",10,12,179
+56,013,56,017,WY,"Hot Springs County",10,19,261
+56,013,56,023,WY,"Lincoln County",10,18,373
+56,013,58,000,SS,"Other Flows - Same State",31,62,1108
+56,013,59,000,DS,"Other Flows - Diff State",582,1161,22271
+56,013,59,001,DS,"Other Flows - Northeast",30,47,2520
+56,013,59,003,DS,"Other Flows - Midwest",134,253,4373
+56,013,59,005,DS,"Other Flows - South",101,210,3494
+56,013,59,007,DS,"Other Flows - West",317,651,11885
+56,013,57,009,FR,"Foreign - Other flows",10,15,231
+56,015,96,000,WY,"Goshen County Tot Mig-US &",337,663,11694
+56,015,97,000,WY,"Goshen County Tot Mig-US",337,663,11694
+56,015,97,001,WY,"Goshen County Tot Mig-Same",110,213,3389
+56,015,97,003,WY,"Goshen County Tot Mig-Diff",227,450,8306
+56,015,98,000,WY,"Goshen County Tot Mig-Forei",d,d,d
+56,015,56,015,WY,"Goshen County Non-Migrants",3933,8640,165228
+56,015,31,157,NE,"Scotts Bluff County",34,72,1229
+56,015,56,021,WY,"Laramie County",19,41,662
+56,015,56,031,WY,"Platte County",18,36,391
+56,015,56,025,WY,"Natrona County",13,21,442
+56,015,56,001,WY,"Albany County",11,23,506
+56,015,56,005,WY,"Campbell County",11,18,353
+56,015,58,000,SS,"Other Flows - Same State",38,74,1035
+56,015,59,000,DS,"Other Flows - Diff State",193,378,7077
+56,017,96,000,WY,"Hot Springs Cou Tot Mig-US",165,323,5086
+56,017,97,000,WY,"Hot Springs Cou Tot Mig-US",165,323,5086
+56,017,97,001,WY,"Hot Springs Cou Tot Mig-Sam",84,171,2550
+56,017,97,003,WY,"Hot Springs Cou Tot Mig-Dif",81,152,2536
+56,017,98,000,WY,"Hot Springs Cou Tot Mig-For",d,d,d
+56,017,56,017,WY,"Hot Springs Cou Non-Migrant",1606,3315,71890
+56,017,56,013,WY,"Fremont County",16,32,225
+56,017,56,025,WY,"Natrona County",11,20,574
+56,017,58,000,SS,"Other Flows - Same State",57,119,1752
+56,017,59,000,DS,"Other Flows - Diff State",81,152,2536
+56,019,96,000,WY,"Johnson County Tot Mig-US &",302,587,13252
+56,019,97,000,WY,"Johnson County Tot Mig-US",302,587,13252
+56,019,97,001,WY,"Johnson County Tot Mig-Same",121,229,4242
+56,019,97,003,WY,"Johnson County Tot Mig-Diff",181,358,9010
+56,019,98,000,WY,"Johnson County Tot Mig-Fore",d,d,d
+56,019,56,019,WY,"Johnson County Non-Migrants",2544,5405,132276
+56,019,56,033,WY,"Sheridan County",43,83,1236
+56,019,56,025,WY,"Natrona County",15,30,739
+56,019,56,005,WY,"Campbell County",13,23,519
+56,019,58,000,SS,"Other Flows - Same State",50,93,1749
+56,019,59,000,DS,"Other Flows - Diff State",181,358,9010
+56,019,59,001,DS,"Other Flows - Northeast",13,30,244
+56,019,59,003,DS,"Other Flows - Midwest",36,64,1561
+56,019,59,005,DS,"Other Flows - South",25,42,1041
+56,019,59,007,DS,"Other Flows - West",107,222,6164
+56,021,96,000,WY,"Laramie County Tot Mig-US &",2733,5297,101158
+56,021,97,000,WY,"Laramie County Tot Mig-US",2617,5034,95644
+56,021,97,001,WY,"Laramie County Tot Mig-Same",519,972,19424
+56,021,97,003,WY,"Laramie County Tot Mig-Diff",2098,4062,76220
+56,021,98,000,WY,"Laramie County Tot Mig-Fore",116,263,5513
+56,021,56,021,WY,"Laramie County Non-Migrants",31479,66355,1678231
+56,021,56,001,WY,"Albany County",164,279,6028
+56,021,57,005,FR,"Foreign - APO/FPO ZIPs",106,242,3396
+56,021,08,069,CO,"Larimer County",102,174,3846
+56,021,56,025,WY,"Natrona County",74,155,2796
+56,021,08,123,CO,"Weld County",70,122,1958
+56,021,04,013,AZ,"Maricopa County",48,91,2082
+56,021,56,031,WY,"Platte County",46,87,1317
+56,021,08,041,CO,"El Paso County",45,107,1904
+56,021,56,007,WY,"Carbon County",39,75,1691
+56,021,06,083,CA,"Santa Barbara County",38,83,1196
+56,021,08,059,CO,"Jefferson County",36,61,1857
+56,021,08,001,CO,"Adams County",35,67,1049
+56,021,32,003,NV,"Clark County",34,67,1329
+56,021,56,037,WY,"Sweetwater County",30,54,1249
+56,021,48,029,TX,"Bexar County",29,79,1428
+56,021,56,015,WY,"Goshen County",28,50,956
+56,021,08,005,CO,"Arapahoe County",26,47,1069
+56,021,08,031,CO,"Denver County",26,48,960
+56,021,56,013,WY,"Fremont County",25,40,397
+56,021,56,005,WY,"Campbell County",23,51,730
+56,021,31,157,NE,"Scotts Bluff County",21,34,748
+56,021,06,073,CA,"San Diego County",19,40,1005
+56,021,31,033,NE,"Cheyenne County",19,41,567
+56,021,04,019,AZ,"Pima County",16,35,503
+56,021,06,037,CA,"Los Angeles County",16,27,463
+56,021,31,109,NE,"Lancaster County",16,21,441
+56,021,49,035,UT,"Salt Lake County",16,26,1918
+56,021,31,105,NE,"Kimball County",15,28,319
+56,021,08,013,CO,"Boulder County",14,20,582
+56,021,46,103,SD,"Pennington County",14,40,655
+56,021,56,009,WY,"Converse County",14,22,656
+56,021,56,033,WY,"Sheridan County",14,29,968
+56,021,31,111,NE,"Lincoln County",13,28,738
+56,021,06,067,CA,"Sacramento County",12,20,379
+56,021,08,035,CO,"Douglas County",12,29,724
+56,021,28,047,MS,"Harrison County",12,26,398
+56,021,30,111,MT,"Yellowstone County",12,28,350
+56,021,56,029,WY,"Park County",12,22,399
+56,021,48,201,TX,"Harris County",11,24,527
+56,021,08,077,CO,"Mesa County",10,17,291
+56,021,35,001,NM,"Bernalillo County",10,24,371
+56,021,38,101,ND,"Ward County",10,27,576
+56,021,48,303,TX,"Lubbock County",10,18,270
+56,021,49,011,UT,"Davis County",10,19,494
+56,021,56,041,WY,"Uinta County",10,29,442
+56,021,58,000,SS,"Other Flows - Same State",40,79,1796
+56,021,59,000,DS,"Other Flows - Diff State",1321,2544,45225
+56,021,59,001,DS,"Other Flows - Northeast",110,165,3412
+56,021,59,003,DS,"Other Flows - Midwest",377,718,12068
+56,021,59,005,DS,"Other Flows - South",449,868,15995
+56,021,59,007,DS,"Other Flows - West",385,793,13749
+56,021,57,009,FR,"Foreign - Other flows",10,21,2117
+56,023,96,000,WY,"Lincoln County Tot Mig-US &",618,1344,29560
+56,023,97,000,WY,"Lincoln County Tot Mig-US",618,1344,29560
+56,023,97,001,WY,"Lincoln County Tot Mig-Same",211,455,9008
+56,023,97,003,WY,"Lincoln County Tot Mig-Diff",407,889,20552
+56,023,98,000,WY,"Lincoln County Tot Mig-Fore",d,d,d
+56,023,56,023,WY,"Lincoln County Non-Migrants",5073,12614,282163
+56,023,56,039,WY,"Teton County",80,153,4291
+56,023,49,035,UT,"Salt Lake County",31,79,1836
+56,023,56,041,WY,"Uinta County",26,55,857
+56,023,56,037,WY,"Sweetwater County",22,54,869
+56,023,49,005,UT,"Cache County",20,59,655
+56,023,56,025,WY,"Natrona County",14,30,511
+56,023,56,035,WY,"Sublette County",14,40,561
+56,023,56,001,WY,"Albany County",13,27,335
+56,023,04,013,AZ,"Maricopa County",11,31,729
+56,023,49,057,UT,"Weber County",11,19,371
+56,023,32,003,NV,"Clark County",10,19,914
+56,023,58,000,SS,"Other Flows - Same State",42,96,1584
+56,023,59,000,DS,"Other Flows - Diff State",324,682,16047
+56,023,59,001,DS,"Other Flows - Northeast",12,19,426
+56,023,59,003,DS,"Other Flows - Midwest",31,56,2122
+56,023,59,005,DS,"Other Flows - South",40,74,2120
+56,023,59,007,DS,"Other Flows - West",241,533,11379
+56,025,96,000,WY,"Natrona County Tot Mig-US &",1992,3807,75482
+56,025,97,000,WY,"Natrona County Tot Mig-US",1967,3768,75037
+56,025,97,001,WY,"Natrona County Tot Mig-Same",634,1148,21953
+56,025,97,003,WY,"Natrona County Tot Mig-Diff",1333,2620,53085
+56,025,98,000,WY,"Natrona County Tot Mig-Fore",25,39,444
+56,025,56,025,WY,"Natrona County Non-Migrants",25114,52717,1568367
+56,025,56,009,WY,"Converse County",113,193,3912
+56,025,56,005,WY,"Campbell County",67,131,2652
+56,025,56,013,WY,"Fremont County",65,109,2155
+56,025,56,001,WY,"Albany County",53,88,1509
+56,025,56,021,WY,"Laramie County",52,104,1848
+56,025,56,037,WY,"Sweetwater County",43,88,2158
+56,025,56,007,WY,"Carbon County",35,59,981
+56,025,04,013,AZ,"Maricopa County",31,65,1275
+56,025,08,005,CO,"Arapahoe County",27,53,1164
+56,025,56,033,WY,"Sheridan County",27,55,1305
+56,025,08,069,CO,"Larimer County",24,37,753
+56,025,56,031,WY,"Platte County",24,42,593
+56,025,08,123,CO,"Weld County",23,37,782
+56,025,08,001,CO,"Adams County",22,47,604
+56,025,08,041,CO,"El Paso County",21,45,951
+56,025,56,043,WY,"Washakie County",21,42,669
+56,025,06,073,CA,"San Diego County",20,37,557
+56,025,30,111,MT,"Yellowstone County",19,42,864
+56,025,46,103,SD,"Pennington County",19,35,487
+56,025,08,059,CO,"Jefferson County",18,27,535
+56,025,56,015,WY,"Goshen County",18,28,483
+56,025,32,003,NV,"Clark County",17,34,454
+56,025,56,019,WY,"Johnson County",17,37,583
+56,025,56,023,WY,"Lincoln County",16,20,411
+56,025,56,029,WY,"Park County",15,33,606
+56,025,56,041,WY,"Uinta County",14,30,417
+56,025,08,031,CO,"Denver County",13,22,457
+56,025,08,077,CO,"Mesa County",13,34,652
+56,025,56,003,WY,"Big Horn County",12,29,407
+56,025,57,005,FR,"Foreign - APO/FPO ZIPs",12,21,204
+56,025,06,059,CA,"Orange County",11,20,359
+56,025,06,065,CA,"Riverside County",11,19,548
+56,025,16,001,ID,"Ada County",11,13,405
+56,025,31,109,NE,"Lancaster County",11,20,434
+56,025,48,201,TX,"Harris County",11,32,472
+56,025,56,017,WY,"Hot Springs County",11,17,364
+56,025,08,035,CO,"Douglas County",10,24,1079
+56,025,58,000,SS,"Other Flows - Same State",31,43,901
+56,025,59,000,DS,"Other Flows - Diff State",1001,1977,40253
+56,025,59,001,DS,"Other Flows - Northeast",59,122,2363
+56,025,59,003,DS,"Other Flows - Midwest",266,464,10515
+56,025,59,005,DS,"Other Flows - South",279,594,11118
+56,025,59,007,DS,"Other Flows - West",397,797,16257
+56,025,57,009,FR,"Foreign - Other flows",13,18,240
+56,027,96,000,WY,"Niobrara County Tot Mig-US",70,121,2086
+56,027,97,000,WY,"Niobrara County Tot Mig-US",70,121,2086
+56,027,97,001,WY,"Niobrara County Tot Mig-Sam",35,54,982
+56,027,97,003,WY,"Niobrara County Tot Mig-Dif",35,67,1104
+56,027,98,000,WY,"Niobrara County Tot Mig-For",d,d,d
+56,027,56,027,WY,"Niobrara County Non-Migrant",804,1677,34580
+56,027,58,000,SS,"Other Flows - Same State",35,54,982
+56,027,59,000,DS,"Other Flows - Diff State",35,67,1104
+56,029,96,000,WY,"Park County Tot Mig-US & Fo",949,1808,46792
+56,029,97,000,WY,"Park County Tot Mig-US",933,1786,46652
+56,029,97,001,WY,"Park County Tot Mig-Same St",241,472,8665
+56,029,97,003,WY,"Park County Tot Mig-Diff St",692,1314,37987
+56,029,98,000,WY,"Park County Tot Mig-Foreign",16,22,140
+56,029,56,029,WY,"Park County Non-Migrants",9650,20702,496709
+56,029,56,003,WY,"Big Horn County",58,108,1533
+56,029,30,111,MT,"Yellowstone County",34,64,746
+56,029,56,001,WY,"Albany County",23,37,432
+56,029,56,013,WY,"Fremont County",20,38,670
+56,029,56,033,WY,"Sheridan County",20,38,667
+56,029,56,025,WY,"Natrona County",19,44,648
+56,029,04,013,AZ,"Maricopa County",16,27,471
+56,029,56,017,WY,"Hot Springs County",16,37,620
+56,029,56,043,WY,"Washakie County",16,23,635
+56,029,56,005,WY,"Campbell County",13,30,961
+56,029,58,000,SS,"Other Flows - Same State",56,117,2497
+56,029,59,000,DS,"Other Flows - Diff State",642,1223,36770
+56,029,59,001,DS,"Other Flows - Northeast",41,67,1919
+56,029,59,003,DS,"Other Flows - Midwest",126,234,12569
+56,029,59,005,DS,"Other Flows - South",142,269,8052
+56,029,59,007,DS,"Other Flows - West",333,653,14230
+56,029,57,009,FR,"Foreign - Other flows",16,22,140
+56,031,96,000,WY,"Platte County Tot Mig-US &",269,536,12160
+56,031,97,000,WY,"Platte County Tot Mig-US",269,536,12160
+56,031,97,001,WY,"Platte County Tot Mig-Same",118,243,3760
+56,031,97,003,WY,"Platte County Tot Mig-Diff",151,293,8400
+56,031,98,000,WY,"Platte County Tot Mig-Forei",d,d,d
+56,031,56,031,WY,"Platte County Non-Migrants",2954,6585,137834
+56,031,56,021,WY,"Laramie County",30,57,1021
+56,031,56,025,WY,"Natrona County",20,37,573
+56,031,56,001,WY,"Albany County",17,34,529
+56,031,56,015,WY,"Goshen County",14,33,360
+56,031,58,000,SS,"Other Flows - Same State",37,82,1277
+56,031,59,000,DS,"Other Flows - Diff State",151,293,8400
+56,033,96,000,WY,"Sheridan County Tot Mig-US",893,1676,42970
+56,033,97,000,WY,"Sheridan County Tot Mig-US",893,1676,42970
+56,033,97,001,WY,"Sheridan County Tot Mig-Sam",291,516,14163
+56,033,97,003,WY,"Sheridan County Tot Mig-Dif",602,1160,28807
+56,033,98,000,WY,"Sheridan County Tot Mig-For",d,d,d
+56,033,56,033,WY,"Sheridan County Non-Migrant",10021,20499,568629
+56,033,56,005,WY,"Campbell County",67,125,2902
+56,033,30,111,MT,"Yellowstone County",36,73,1503
+56,033,56,025,WY,"Natrona County",34,58,1107
+56,033,56,019,WY,"Johnson County",32,53,1785
+56,033,56,001,WY,"Albany County",26,44,677
+56,033,56,021,WY,"Laramie County",20,34,778
+56,033,56,029,WY,"Park County",18,25,418
+56,033,04,013,AZ,"Maricopa County",17,30,844
+56,033,30,003,MT,"Big Horn County",16,34,447
+56,033,56,013,WY,"Fremont County",15,24,386
+56,033,56,037,WY,"Sweetwater County",15,33,772
+56,033,46,103,SD,"Pennington County",11,22,532
+56,033,30,031,MT,"Gallatin County",10,24,374
+56,033,56,011,WY,"Crook County",10,22,2827
+56,033,58,000,SS,"Other Flows - Same State",54,98,2512
+56,033,59,000,DS,"Other Flows - Diff State",512,977,25108
+56,033,59,001,DS,"Other Flows - Northeast",19,34,1112
+56,033,59,003,DS,"Other Flows - Midwest",133,226,5479
+56,033,59,005,DS,"Other Flows - South",77,156,3294
+56,033,59,007,DS,"Other Flows - West",283,561,15223
+56,035,96,000,WY,"Sublette County Tot Mig-US",394,771,20702
+56,035,97,000,WY,"Sublette County Tot Mig-US",394,771,20702
+56,035,97,001,WY,"Sublette County Tot Mig-Sam",139,266,6364
+56,035,97,003,WY,"Sublette County Tot Mig-Dif",255,505,14338
+56,035,98,000,WY,"Sublette County Tot Mig-For",d,d,d
+56,035,56,035,WY,"Sublette County Non-Migrant",2381,5192,168765
+56,035,56,037,WY,"Sweetwater County",45,81,2430
+56,035,56,039,WY,"Teton County",15,36,571
+56,035,56,023,WY,"Lincoln County",13,19,509
+56,035,56,025,WY,"Natrona County",13,28,782
+56,035,56,013,WY,"Fremont County",12,22,442
+56,035,56,029,WY,"Park County",10,15,332
+56,035,58,000,SS,"Other Flows - Same State",31,65,1297
+56,035,59,000,DS,"Other Flows - Diff State",255,505,14338
+56,035,59,001,DS,"Other Flows - Northeast",10,16,395
+56,035,59,003,DS,"Other Flows - Midwest",51,92,2806
+56,035,59,005,DS,"Other Flows - South",56,122,2877
+56,035,59,007,DS,"Other Flows - West",138,275,8259
+56,037,96,000,WY,"Sweetwater Coun Tot Mig-US",1442,2981,56487
+56,037,97,000,WY,"Sweetwater Coun Tot Mig-US",1430,2955,56161
+56,037,97,001,WY,"Sweetwater Coun Tot Mig-Sam",380,743,15406
+56,037,97,003,WY,"Sweetwater Coun Tot Mig-Dif",1050,2212,40756
+56,037,98,000,WY,"Sweetwater Coun Tot Mig-For",12,26,326
+56,037,56,037,WY,"Sweetwater Coun Non-Migrant",13629,30795,866254
+56,037,56,041,WY,"Uinta County",66,139,2808
+56,037,56,025,WY,"Natrona County",61,107,2332
+56,037,49,035,UT,"Salt Lake County",56,117,1959
+56,037,56,001,WY,"Albany County",49,90,1411
+56,037,56,007,WY,"Carbon County",31,69,1595
+56,037,56,023,WY,"Lincoln County",30,57,1225
+56,037,56,013,WY,"Fremont County",26,50,899
+56,037,56,005,WY,"Campbell County",25,52,1300
+56,037,56,021,WY,"Laramie County",25,41,850
+56,037,49,049,UT,"Utah County",22,51,535
+56,037,49,057,UT,"Weber County",20,42,662
+56,037,08,123,CO,"Weld County",18,35,530
+56,037,32,003,NV,"Clark County",17,38,754
+56,037,08,077,CO,"Mesa County",15,28,576
+56,037,48,201,TX,"Harris County",15,26,734
+56,037,08,005,CO,"Arapahoe County",14,26,409
+56,037,49,047,UT,"Uintah County",14,35,601
+56,037,04,013,AZ,"Maricopa County",13,17,309
+56,037,49,007,UT,"Carbon County",13,28,764
+56,037,56,033,WY,"Sheridan County",13,21,440
+56,037,56,035,WY,"Sublette County",13,32,900
+56,037,16,007,ID,"Bear Lake County",12,19,562
+56,037,30,111,MT,"Yellowstone County",12,15,313
+56,037,49,011,UT,"Davis County",12,25,616
+56,037,49,015,UT,"Emery County",12,26,605
+56,037,56,009,WY,"Converse County",12,29,461
+56,037,08,041,CO,"El Paso County",11,25,462
+56,037,35,045,NM,"San Juan County",11,23,818
+56,037,58,000,SS,"Other Flows - Same State",29,56,1185
+56,037,59,000,DS,"Other Flows - Diff State",763,1636,29547
+56,037,59,001,DS,"Other Flows - Northeast",21,42,1252
+56,037,59,003,DS,"Other Flows - Midwest",143,281,4650
+56,037,59,005,DS,"Other Flows - South",213,474,9462
+56,037,59,007,DS,"Other Flows - West",386,839,14184
+56,037,57,009,FR,"Foreign - Other flows",12,26,326
+56,039,96,000,WY,"Teton County Tot Mig-US & F",1125,1607,103097
+56,039,97,000,WY,"Teton County Tot Mig-US",1096,1571,102828
+56,039,97,001,WY,"Teton County Tot Mig-Same S",93,160,4838
+56,039,97,003,WY,"Teton County Tot Mig-Diff S",1003,1411,97989
+56,039,98,000,WY,"Teton County Tot Mig-Foreig",29,36,269
+56,039,56,039,WY,"Teton County Non-Migrants",7558,13845,826814
+56,039,16,081,ID,"Teton County",43,108,5637
+56,039,56,023,WY,"Lincoln County",27,51,870
+56,039,04,013,AZ,"Maricopa County",19,35,13955
+56,039,49,035,UT,"Salt Lake County",19,25,611
+56,039,17,031,IL,"Cook County",17,23,4394
+56,039,06,059,CA,"Orange County",13,19,853
+56,039,16,019,ID,"Bonneville County",13,22,771
+56,039,30,031,MT,"Gallatin County",13,18,346
+56,039,08,013,CO,"Boulder County",12,13,513
+56,039,06,073,CA,"San Diego County",11,16,335
+56,039,08,031,CO,"Denver County",11,19,430
+56,039,16,005,ID,"Bannock County",10,19,295
+56,039,30,063,MT,"Missoula County",10,11,276
+56,039,36,061,NY,"New York County",10,13,830
+56,039,58,000,SS,"Other Flows - Same State",66,109,3969
+56,039,59,000,DS,"Other Flows - Diff State",802,1070,68743
+56,039,59,001,DS,"Other Flows - Northeast",150,178,4085
+56,039,59,003,DS,"Other Flows - Midwest",137,166,7196
+56,039,59,005,DS,"Other Flows - South",202,280,17951
+56,039,59,007,DS,"Other Flows - West",313,446,39510
+56,039,57,009,FR,"Foreign - Other flows",29,36,269
+56,041,96,000,WY,"Uinta County Tot Mig-US & F",601,1408,22780
+56,041,97,000,WY,"Uinta County Tot Mig-US",601,1408,22780
+56,041,97,001,WY,"Uinta County Tot Mig-Same S",138,318,5647
+56,041,97,003,WY,"Uinta County Tot Mig-Diff S",463,1090,17133
+56,041,98,000,WY,"Uinta County Tot Mig-Foreig",d,d,d
+56,041,56,041,WY,"Uinta County Non-Migrants",6368,15545,368288
+56,041,56,037,WY,"Sweetwater County",54,140,2582
+56,041,49,035,UT,"Salt Lake County",38,82,1122
+56,041,49,049,UT,"Utah County",21,48,592
+56,041,56,023,WY,"Lincoln County",15,32,621
+56,041,49,011,UT,"Davis County",14,37,615
+56,041,49,057,UT,"Weber County",14,21,436
+56,041,56,025,WY,"Natrona County",14,29,227
+56,041,04,013,AZ,"Maricopa County",13,29,451
+56,041,49,053,UT,"Washington County",13,25,523
+56,041,49,005,UT,"Cache County",12,28,493
+56,041,56,001,WY,"Albany County",10,21,287
+56,041,58,000,SS,"Other Flows - Same State",45,96,1931
+56,041,59,000,DS,"Other Flows - Diff State",338,820,12901
+56,041,59,001,DS,"Other Flows - Northeast",12,23,493
+56,041,59,003,DS,"Other Flows - Midwest",43,83,1241
+56,041,59,005,DS,"Other Flows - South",82,198,3234
+56,041,59,007,DS,"Other Flows - West",201,516,7933
+56,043,96,000,WY,"Washakie County Tot Mig-US",179,386,7563
+56,043,97,000,WY,"Washakie County Tot Mig-US",179,386,7563
+56,043,97,001,WY,"Washakie County Tot Mig-Sam",73,154,2684
+56,043,97,003,WY,"Washakie County Tot Mig-Dif",106,232,4879
+56,043,98,000,WY,"Washakie County Tot Mig-For",d,d,d
+56,043,56,043,WY,"Washakie County Non-Migrant",2867,6518,140409
+56,043,56,029,WY,"Park County",11,24,198
+56,043,58,000,SS,"Other Flows - Same State",62,130,2486
+56,043,59,000,DS,"Other Flows - Diff State",106,232,4879
+56,045,96,000,WY,"Weston County Tot Mig-US &",235,471,7800
+56,045,97,000,WY,"Weston County Tot Mig-US",235,471,7800
+56,045,97,001,WY,"Weston County Tot Mig-Same",88,173,2603
+56,045,97,003,WY,"Weston County Tot Mig-Diff",147,298,5197
+56,045,98,000,WY,"Weston County Tot Mig-Forei",d,d,d
+56,045,56,045,WY,"Weston County Non-Migrants",2301,5036,114287
+56,045,56,005,WY,"Campbell County",31,56,1018
+56,045,56,011,WY,"Crook County",16,36,485
+56,045,56,025,WY,"Natrona County",15,23,459
+56,045,46,103,SD,"Pennington County",11,19,439
+56,045,58,000,SS,"Other Flows - Same State",26,58,641
+56,045,59,000,DS,"Other Flows - Diff State",136,279,4759
