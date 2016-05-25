@@ -1,0 +1,554 @@
+"1998 - 1999 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+NewHampshire,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+33,000,96,000,NH,"Total Mig - US & For",38238,69346,1713719
+33,000,97,000,NH,"Total Mig - US",37540,68341,1699203
+33,000,97,001,NH,"Total Mig - US Same St",14415,25484,523799
+33,000,97,003,NH,"Total Mig - US Diff St",23125,42857,1175404
+33,000,98,000,NH,"Total Mig - Foreign",698,1005,14516
+33,001,96,000,NH,"Belknap County Tot Mig-US & For",1961,3562,90802
+33,001,97,000,NH,"Belknap County Tot Mig-US",1948,3536,90362
+33,001,97,001,NH,"Belknap County Tot Mig-Same St",1146,2078,38773
+33,001,97,003,NH,"Belknap County Tot Mig-Diff St",802,1458,51589
+33,001,98,000,NH,"Belknap County Tot Mig-Foreign",13,26,440
+33,001,33,001,NH,"Belknap County Non-Migrants",21537,45668,1013688
+33,001,33,013,NH,"Merrimack County",454,803,14101
+33,001,33,011,NH,"Hillsborough County",190,332,9530
+33,001,33,009,NH,"Grafton County",140,259,3745
+33,001,33,015,NH,"Rockingham County",113,222,3508
+33,001,25,017,MA,"Middlesex County",109,198,7580
+33,001,33,017,NH,"Strafford County",106,212,3782
+33,001,33,003,NH,"Carroll County",93,168,2700
+33,001,25,009,MA,"Essex County",62,110,2244
+33,001,25,027,MA,"Worcester County",29,54,1790
+33,001,33,007,NH,"Coos County",27,38,681
+33,001,25,021,MA,"Norfolk County",23,42,1095
+33,001,23,031,ME,"York County",19,35,624
+33,001,25,023,MA,"Plymouth County",17,31,736
+33,001,23,005,ME,"Cumberland County",15,25,624
+33,001,09,003,CT,"Hartford County",13,27,1187
+33,001,33,005,NH,"Cheshire County",13,23,461
+33,001,25,025,MA,"Suffolk County",12,27,13922
+33,001,44,007,RI,"Providence County",12,21,370
+33,001,25,005,MA,"Bristol County",11,19,744
+33,001,58,000,SS,"Other Flows - Same State",10,21,267
+33,001,59,000,DS,"Other Flows - Diff State",480,869,20672
+33,001,59,001,DS,"Other Flows - Northeast",183,328,6976
+33,001,59,003,DS,"Other Flows - Midwest",50,97,2713
+33,001,59,005,DS,"Other Flows - South",178,328,7137
+33,001,59,007,DS,"Other Flows - West",69,116,3847
+33,001,57,009,FR,"Foreign - Other flows",13,26,440
+33,003,96,000,NH,"Carroll County Tot Mig-US & For",1544,2767,73570
+33,003,97,000,NH,"Carroll County Tot Mig-US",1544,2767,73570
+33,003,97,001,NH,"Carroll County Tot Mig-Same St",505,990,16224
+33,003,97,003,NH,"Carroll County Tot Mig-Diff St",1039,1777,57346
+33,003,33,003,NH,"Carroll County Non-Migrants",15653,32284,767414
+33,003,33,017,NH,"Strafford County",140,278,-814
+33,003,25,009,MA,"Essex County",126,231,6063
+33,003,33,015,NH,"Rockingham County",108,199,4790
+33,003,25,017,MA,"Middlesex County",95,157,6987
+33,003,33,001,NH,"Belknap County",92,190,2840
+33,003,33,011,NH,"Hillsborough County",59,122,6477
+33,003,23,017,ME,"Oxford County",56,92,1241
+33,003,23,031,ME,"York County",52,87,1496
+33,003,23,005,ME,"Cumberland County",40,56,1224
+33,003,33,009,NH,"Grafton County",36,62,973
+33,003,25,021,MA,"Norfolk County",31,49,2682
+33,003,33,013,NH,"Merrimack County",31,66,1002
+33,003,33,007,NH,"Coos County",28,54,646
+33,003,25,025,MA,"Suffolk County",24,37,1577
+33,003,25,023,MA,"Plymouth County",23,41,1086
+33,003,25,005,MA,"Bristol County",20,44,1077
+33,003,25,027,MA,"Worcester County",19,26,2768
+33,003,09,003,CT,"Hartford County",17,23,641
+33,003,09,001,CT,"Fairfield County",15,33,1221
+33,003,12,071,FL,"Lee County",12,18,336
+33,003,25,001,MA,"Barnstable County",12,24,268
+33,003,09,009,CT,"New Haven County",11,16,333
+33,003,58,000,SS,"Other Flows - Same State",11,19,308
+33,003,59,000,DS,"Other Flows - Diff State",486,843,28348
+33,003,59,001,DS,"Other Flows - Northeast",218,377,12640
+33,003,59,003,DS,"Other Flows - Midwest",37,62,3796
+33,003,59,005,DS,"Other Flows - South",146,273,5763
+33,003,59,007,DS,"Other Flows - West",85,131,6149
+33,005,96,000,NH,"Cheshire County Tot Mig-US & For",1863,3320,68800
+33,005,97,000,NH,"Cheshire County Tot Mig-US",1851,3304,68463
+33,005,97,001,NH,"Cheshire County Tot Mig-Same St",547,951,20005
+33,005,97,003,NH,"Cheshire County Tot Mig-Diff St",1304,2353,48458
+33,005,98,000,NH,"Cheshire County Tot Mig-Foreign",12,16,338
+33,005,33,005,NH,"Cheshire County Non-Migrants",26132,56061,1173656
+33,005,33,011,NH,"Hillsborough County",297,543,11443
+33,005,50,025,VT,"Windham County",216,380,6693
+33,005,25,027,MA,"Worcester County",88,163,3831
+33,005,33,019,NH,"Sullivan County",88,153,2166
+33,005,25,017,MA,"Middlesex County",66,115,3148
+33,005,33,013,NH,"Merrimack County",46,72,1021
+33,005,33,015,NH,"Rockingham County",38,70,2294
+33,005,25,011,MA,"Franklin County",34,61,918
+33,005,09,003,CT,"Hartford County",28,43,1063
+33,005,25,013,MA,"Hampden County",27,53,1123
+33,005,33,009,NH,"Grafton County",26,41,1221
+33,005,50,027,VT,"Windsor County",21,34,659
+33,005,25,009,MA,"Essex County",20,30,693
+33,005,09,009,CT,"New Haven County",18,34,729
+33,005,25,015,MA,"Hampshire County",17,23,675
+33,005,09,001,CT,"Fairfield County",16,28,698
+33,005,33,017,NH,"Strafford County",16,25,708
+33,005,33,001,NH,"Belknap County",14,16,393
+33,005,09,011,CT,"New London County",12,21,461
+33,005,33,007,NH,"Coos County",12,14,433
+33,005,36,103,NY,"Suffolk County",12,26,352
+33,005,25,021,MA,"Norfolk County",11,29,503
+33,005,50,007,VT,"Chittenden County",10,15,380
+33,005,58,000,SS,"Other Flows - Same State",10,17,326
+33,005,59,000,DS,"Other Flows - Diff State",708,1298,26533
+33,005,59,001,DS,"Other Flows - Northeast",307,533,12310
+33,005,59,003,DS,"Other Flows - Midwest",71,160,2621
+33,005,59,005,DS,"Other Flows - South",212,387,7796
+33,005,59,007,DS,"Other Flows - West",118,218,3806
+33,005,57,009,FR,"Foreign - Other flows",12,16,338
+33,007,96,000,NH,"Coos County Tot Mig-US & For",653,1251,21748
+33,007,97,000,NH,"Coos County Tot Mig-US",653,1251,21748
+33,007,97,001,NH,"Coos County Tot Mig-Same St",275,530,6711
+33,007,97,003,NH,"Coos County Tot Mig-Diff St",378,721,15037
+33,007,33,007,NH,"Coos County Non-Migrants",12529,26674,435454
+33,007,33,009,NH,"Grafton County",88,181,1866
+33,007,33,011,NH,"Hillsborough County",48,95,1373
+33,007,50,009,VT,"Essex County",33,62,655
+33,007,33,015,NH,"Rockingham County",31,59,1012
+33,007,33,017,NH,"Strafford County",28,47,742
+33,007,33,003,NH,"Carroll County",23,37,350
+33,007,33,013,NH,"Merrimack County",23,41,429
+33,007,25,017,MA,"Middlesex County",17,31,3432
+33,007,33,001,NH,"Belknap County",15,25,381
+33,007,25,009,MA,"Essex County",11,19,323
+33,007,23,017,ME,"Oxford County",10,18,276
+33,007,58,000,SS,"Other Flows - Same State",19,45,556
+33,007,59,000,DS,"Other Flows - Diff State",307,591,10352
+33,007,59,001,DS,"Other Flows - Northeast",176,327,5748
+33,007,59,003,DS,"Other Flows - Midwest",14,24,482
+33,007,59,005,DS,"Other Flows - South",71,152,2323
+33,007,59,007,DS,"Other Flows - West",46,88,1799
+33,009,96,000,NH,"Grafton County Tot Mig-US & For",2860,4766,129982
+33,009,97,000,NH,"Grafton County Tot Mig-US",2729,4605,128338
+33,009,97,001,NH,"Grafton County Tot Mig-Same St",820,1407,27646
+33,009,97,003,NH,"Grafton County Tot Mig-Diff St",1909,3198,100692
+33,009,98,000,NH,"Grafton County Tot Mig-Foreign",131,161,1644
+33,009,33,009,NH,"Grafton County Non-Migrants",28805,60360,1401476
+33,009,50,027,VT,"Windsor County",215,378,13823
+33,009,33,013,NH,"Merrimack County",161,267,4957
+33,009,33,019,NH,"Sullivan County",150,242,5464
+33,009,33,001,NH,"Belknap County",119,237,3173
+33,009,33,011,NH,"Hillsborough County",119,216,5772
+33,009,33,007,NH,"Coos County",105,191,3053
+33,009,25,017,MA,"Middlesex County",98,161,8563
+33,009,50,017,VT,"Orange County",93,157,2623
+33,009,33,015,NH,"Rockingham County",81,118,2922
+33,009,25,009,MA,"Essex County",45,70,1401
+33,009,50,005,VT,"Caledonia County",44,72,944
+33,009,25,021,MA,"Norfolk County",42,62,2409
+33,009,36,061,NY,"New York County",40,51,3123
+33,009,25,025,MA,"Suffolk County",37,59,6835
+33,009,33,003,NH,"Carroll County",30,56,611
+33,009,33,017,NH,"Strafford County",28,41,830
+33,009,25,027,MA,"Worcester County",27,48,1647
+33,009,50,007,VT,"Chittenden County",25,35,658
+33,009,17,031,IL,"Cook County",24,29,1692
+33,009,25,023,MA,"Plymouth County",24,49,1442
+33,009,25,005,MA,"Bristol County",22,44,723
+33,009,44,007,RI,"Providence County",19,27,649
+33,009,09,001,CT,"Fairfield County",17,26,1855
+33,009,09,003,CT,"Hartford County",16,31,576
+33,009,50,023,VT,"Washington County",16,23,376
+33,009,06,085,CA,"Santa Clara County",15,18,1034
+33,009,09,009,CT,"New Haven County",15,26,1448
+33,009,23,031,ME,"York County",14,23,375
+33,009,25,001,MA,"Barnstable County",13,19,983
+33,009,12,127,FL,"Volusia County",12,23,342
+33,009,23,019,ME,"Penobscot County",12,21,353
+33,009,25,013,MA,"Hampden County",12,17,262
+33,009,06,037,CA,"Los Angeles County",11,15,352
+33,009,09,011,CT,"New London County",11,19,652
+33,009,36,103,NY,"Suffolk County",11,18,418
+33,009,11,001,DC,"District Of Columbia",10,18,750
+33,009,23,005,ME,"Cumberland County",10,19,570
+33,009,50,009,VT,"Essex County",10,16,203
+33,009,50,021,VT,"Rutland County",10,19,180
+33,009,50,025,VT,"Windham County",10,18,248
+33,009,58,000,SS,"Other Flows - Same State",27,39,866
+33,009,59,000,DS,"Other Flows - Diff State",929,1587,43185
+33,009,59,001,DS,"Other Flows - Northeast",326,525,16696
+33,009,59,003,DS,"Other Flows - Midwest",127,241,5714
+33,009,59,005,DS,"Other Flows - South",309,543,14156
+33,009,59,007,DS,"Other Flows - West",167,278,6620
+33,009,57,009,FR,"Foreign - Other flows",131,161,1644
+33,011,96,000,NH,"Hillsborough Co Tot Mig-US & For",10607,19337,493499
+33,011,97,000,NH,"Hillsborough Co Tot Mig-US",10408,19022,488971
+33,011,97,001,NH,"Hillsborough Co Tot Mig-Same St",3449,5856,124944
+33,011,97,003,NH,"Hillsborough Co Tot Mig-Diff St",6959,13166,364027
+33,011,98,000,NH,"Hillsborough Co Tot Mig-Foreign",199,315,4529
+33,011,33,011,NH,"Hillsborough Co Non-Migrants",136305,299890,7694540
+33,011,25,017,MA,"Middlesex County",1704,3204,94547
+33,011,33,015,NH,"Rockingham County",1608,2787,63924
+33,011,33,013,NH,"Merrimack County",964,1614,31576
+33,011,25,009,MA,"Essex County",411,737,18318
+33,011,33,005,NH,"Cheshire County",300,525,10492
+33,011,25,027,MA,"Worcester County",218,410,11492
+33,011,25,025,MA,"Suffolk County",186,292,8467
+33,011,33,017,NH,"Strafford County",160,237,5072
+33,011,25,021,MA,"Norfolk County",149,297,11911
+33,011,33,001,NH,"Belknap County",145,253,5557
+33,011,33,009,NH,"Grafton County",115,170,3512
+33,011,23,005,ME,"Cumberland County",67,109,3408
+33,011,23,031,ME,"York County",65,103,2164
+33,011,25,023,MA,"Plymouth County",62,136,2741
+33,011,33,019,NH,"Sullivan County",59,93,1697
+33,011,06,037,CA,"Los Angeles County",58,121,3762
+33,011,09,009,CT,"New Haven County",58,98,3419
+33,011,04,013,AZ,"Maricopa County",57,96,2184
+33,011,09,001,CT,"Fairfield County",56,105,5048
+33,011,09,003,CT,"Hartford County",56,100,2442
+33,011,23,019,ME,"Penobscot County",56,94,2367
+33,011,25,001,MA,"Barnstable County",52,68,1614
+33,011,33,007,NH,"Coos County",52,91,1375
+33,011,25,005,MA,"Bristol County",50,94,2562
+33,011,57,005,FR,"Foreign - APO/FPO ZIPs",49,110,1644
+33,011,12,011,FL,"Broward County",48,101,2075
+33,011,44,007,RI,"Providence County",47,72,1759
+33,011,06,073,CA,"San Diego County",42,77,1481
+33,011,50,007,VT,"Chittenden County",42,64,1634
+33,011,36,061,NY,"New York County",41,54,2349
+33,011,06,085,CA,"Santa Clara County",38,72,3914
+33,011,17,031,IL,"Cook County",36,78,4128
+33,011,25,013,MA,"Hampden County",36,48,1137
+33,011,12,103,FL,"Pinellas County",32,65,966
+33,011,36,103,NY,"Suffolk County",32,69,1805
+33,011,12,095,FL,"Orange County",31,57,885
+33,011,48,201,TX,"Harris County",30,64,2056
+33,011,53,033,WA,"King County",30,64,2024
+33,011,12,127,FL,"Volusia County",29,43,633
+33,011,48,113,TX,"Dallas County",29,55,2044
+33,011,12,099,FL,"Palm Beach County",28,49,1214
+33,011,23,011,ME,"Kennebec County",28,49,894
+33,011,23,001,ME,"Androscoggin County",26,40,811
+33,011,23,003,ME,"Aroostook County",26,41,582
+33,011,36,047,NY,"Kings County",26,52,736
+33,011,36,119,NY,"Westchester County",26,48,1852
+33,011,12,009,FL,"Brevard County",25,43,1826
+33,011,24,031,MD,"Montgomery County",25,42,1827
+33,011,36,067,NY,"Onondaga County",25,45,1363
+33,011,51,059,VA,"Fairfax County",25,51,2621
+33,011,12,057,FL,"Hillsborough County",24,40,690
+33,011,17,043,IL,"Du Page County",24,53,1491
+33,011,25,003,MA,"Berkshire County",24,60,1446
+33,011,12,025,FL,"Dade County",23,42,968
+33,011,12,071,FL,"Lee County",23,37,586
+33,011,36,081,NY,"Queens County",23,38,603
+33,011,48,439,TX,"Tarrant County",23,51,1052
+33,011,25,015,MA,"Hampshire County",22,28,809
+33,011,32,003,NV,"Clark County",22,26,506
+33,011,39,049,OH,"Franklin County",22,45,1206
+33,011,06,059,CA,"Orange County",21,35,994
+33,011,36,055,NY,"Monroe County",21,43,1128
+33,011,49,035,UT,"Salt Lake County",21,42,927
+33,011,50,027,VT,"Windsor County",21,35,507
+33,011,51,810,VA,"Virginia Beach",21,51,922
+33,011,12,115,FL,"Sarasota County",20,42,423
+33,011,06,075,CA,"San Francisco County",19,21,1192
+33,011,34,003,NJ,"Bergen County",19,46,1822
+33,011,36,059,NY,"Nassau County",19,32,804
+33,011,42,017,PA,"Bucks County",19,46,1504
+33,011,04,019,AZ,"Pima County",17,29,441
+33,011,36,091,NY,"Saratoga County",17,23,497
+33,011,44,009,RI,"Washington County",17,41,766
+33,011,48,029,TX,"Bexar County",17,47,1013
+33,011,48,085,TX,"Collin County",17,40,1793
+33,011,08,041,CO,"El Paso County",16,30,907
+33,011,36,029,NY,"Erie County",16,29,837
+33,011,37,183,NC,"Wake County",16,40,1800
+33,011,06,001,CA,"Alameda County",15,32,4713
+33,011,09,005,CT,"Litchfield County",15,37,884
+33,011,09,007,CT,"Middlesex County",15,25,707
+33,011,15,003,HI,"Honolulu County",15,22,358
+33,011,36,007,NY,"Broome County",15,23,637
+33,011,39,035,OH,"Cuyahoga County",15,34,808
+33,011,50,021,VT,"Rutland County",15,20,320
+33,011,50,025,VT,"Windham County",15,19,412
+33,011,08,005,CO,"Arapahoe County",14,29,801
+33,011,12,031,FL,"Duval County",14,26,593
+33,011,13,135,GA,"Gwinnett County",14,32,699
+33,011,23,017,ME,"Oxford County",14,22,302
+33,011,34,023,NJ,"Middlesex County",14,29,784
+33,011,36,071,NY,"Orange County",14,36,744
+33,011,37,133,NC,"Onslow County",14,33,387
+33,011,09,011,CT,"New London County",13,21,510
+33,011,09,013,CT,"Tolland County",13,19,647
+33,011,25,011,MA,"Franklin County",13,16,368
+33,011,42,003,PA,"Allegheny County",13,18,420
+33,011,42,101,PA,"Philadelphia County",13,19,298
+33,011,44,003,RI,"Kent County",13,27,722
+33,011,08,013,CO,"Boulder County",12,19,466
+33,011,08,031,CO,"Denver County",12,22,371
+33,011,12,001,FL,"Alachua County",12,23,459
+33,011,12,015,FL,"Charlotte County",12,31,294
+33,011,12,021,FL,"Collier County",12,14,383
+33,011,34,017,NJ,"Hudson County",12,19,384
+33,011,34,027,NJ,"Morris County",12,21,923
+33,011,36,001,NY,"Albany County",12,21,443
+33,011,37,051,NC,"Cumberland County",12,17,280
+33,011,37,119,NC,"Mecklenburg County",12,15,472
+33,011,39,061,OH,"Hamilton County",12,23,654
+33,011,48,453,TX,"Travis County",12,18,466
+33,011,50,023,VT,"Washington County",12,24,437
+33,011,06,067,CA,"Sacramento County",11,21,381
+33,011,12,081,FL,"Manatee County",11,22,480
+33,011,12,101,FL,"Pasco County",11,15,282
+33,011,34,025,NJ,"Monmouth County",11,24,781
+33,011,41,051,OR,"Multnomah County",11,23,514
+33,011,51,153,VA,"Prince William Count",11,27,498
+33,011,53,053,WA,"Pierce County",11,18,299
+33,011,55,079,WI,"Milwaukee County",11,19,624
+33,011,10,003,DE,"New Castle County",10,16,419
+33,011,11,001,DC,"District Of Columbia",10,15,313
+33,011,12,069,FL,"Lake County",10,26,267
+33,011,24,005,MD,"Baltimore County",10,13,271
+33,011,24,033,MD,"Prince George's Coun",10,24,479
+33,011,27,053,MN,"Hennepin County",10,19,2037
+33,011,29,189,MO,"St Louis County",10,24,971
+33,011,34,007,NJ,"Camden County",10,19,639
+33,011,36,083,NY,"Rensselaer County",10,15,296
+33,011,36,093,NY,"Schenectady County",10,14,217
+33,011,58,000,SS,"Other Flows - Same State",46,86,1740
+33,011,59,000,DS,"Other Flows - Diff State",1647,3407,85419
+33,011,59,001,DS,"Other Flows - Northeast",466,929,22880
+33,011,59,003,DS,"Other Flows - Midwest",335,720,21791
+33,011,59,005,DS,"Other Flows - South",586,1199,27011
+33,011,59,007,DS,"Other Flows - West",260,559,13737
+33,011,57,009,FR,"Foreign - Other flows",150,205,2885
+33,013,96,000,NH,"Merrimack Count Tot Mig-US & For",4342,7946,174662
+33,013,97,000,NH,"Merrimack Count Tot Mig-US",4239,7825,173927
+33,013,97,001,NH,"Merrimack Count Tot Mig-Same St",2612,4831,94677
+33,013,97,003,NH,"Merrimack Count Tot Mig-Diff St",1627,2994,79250
+33,013,98,000,NH,"Merrimack Count Tot Mig-Foreign",103,121,735
+33,013,33,013,NH,"Merrimack Count Non-Migrants",46425,100362,2246619
+33,013,33,011,NH,"Hillsborough County",1282,2424,48727
+33,013,33,001,NH,"Belknap County",417,754,12603
+33,013,33,015,NH,"Rockingham County",382,700,15688
+33,013,33,009,NH,"Grafton County",196,376,7437
+33,013,25,017,MA,"Middlesex County",113,185,6336
+33,013,33,019,NH,"Sullivan County",106,198,3522
+33,013,33,017,NH,"Strafford County",99,170,2809
+33,013,25,009,MA,"Essex County",75,142,2995
+33,013,33,005,NH,"Cheshire County",51,82,1476
+33,013,33,007,NH,"Coos County",49,78,1652
+33,013,25,027,MA,"Worcester County",44,82,2571
+33,013,25,021,MA,"Norfolk County",35,56,1293
+33,013,25,025,MA,"Suffolk County",33,50,1819
+33,013,25,023,MA,"Plymouth County",27,57,732
+33,013,23,005,ME,"Cumberland County",26,38,775
+33,013,23,031,ME,"York County",25,48,1234
+33,013,25,005,MA,"Bristol County",21,25,639
+33,013,09,009,CT,"New Haven County",20,33,813
+33,013,09,003,CT,"Hartford County",19,29,1008
+33,013,23,019,ME,"Penobscot County",18,30,418
+33,013,57,005,FR,"Foreign - APO/FPO ZIPs",18,23,352
+33,013,09,001,CT,"Fairfield County",16,34,1222
+33,013,50,007,VT,"Chittenden County",16,25,637
+33,013,50,027,VT,"Windsor County",16,27,896
+33,013,12,103,FL,"Pinellas County",15,27,842
+33,013,44,007,RI,"Providence County",15,21,590
+33,013,04,013,AZ,"Maricopa County",12,25,292
+33,013,23,017,ME,"Oxford County",11,24,287
+33,013,25,001,MA,"Barnstable County",11,15,704
+33,013,50,023,VT,"Washington County",11,25,679
+33,013,12,101,FL,"Pasco County",10,16,278
+33,013,23,003,ME,"Aroostook County",10,17,324
+33,013,23,011,ME,"Kennebec County",10,15,332
+33,013,25,013,MA,"Hampden County",10,18,284
+33,013,25,015,MA,"Hampshire County",10,14,361
+33,013,50,019,VT,"Orleans County",10,19,274
+33,013,51,059,VA,"Fairfax County",10,28,643
+33,013,53,033,WA,"King County",10,17,260
+33,013,58,000,SS,"Other Flows - Same State",30,49,764
+33,013,59,000,DS,"Other Flows - Diff State",968,1852,49711
+33,013,59,001,DS,"Other Flows - Northeast",322,612,15515
+33,013,59,003,DS,"Other Flows - Midwest",127,248,5777
+33,013,59,005,DS,"Other Flows - South",342,654,16221
+33,013,59,007,DS,"Other Flows - West",177,338,12199
+33,013,57,009,FR,"Foreign - Other flows",85,98,383
+33,015,96,000,NH,"Rockingham Coun Tot Mig-US & For",9760,18202,496058
+33,015,97,000,NH,"Rockingham Coun Tot Mig-US",9666,18051,492632
+33,015,97,001,NH,"Rockingham Coun Tot Mig-Same St",2966,5215,124989
+33,015,97,003,NH,"Rockingham Coun Tot Mig-Diff St",6700,12836,367643
+33,015,98,000,NH,"Rockingham Coun Tot Mig-Foreign",94,151,3426
+33,015,33,015,NH,"Rockingham Coun Non-Migrants",101228,224962,6007586
+33,015,25,009,MA,"Essex County",2039,4009,95349
+33,015,33,011,NH,"Hillsborough County",1507,2828,68522
+33,015,25,017,MA,"Middlesex County",1054,2066,64387
+33,015,33,017,NH,"Strafford County",876,1409,34546
+33,015,23,031,ME,"York County",343,543,13912
+33,015,33,013,NH,"Merrimack County",277,506,10188
+33,015,25,025,MA,"Suffolk County",193,329,9799
+33,015,25,027,MA,"Worcester County",135,239,6130
+33,015,25,021,MA,"Norfolk County",120,221,6699
+33,015,23,005,ME,"Cumberland County",100,161,5985
+33,015,33,001,NH,"Belknap County",69,117,2410
+33,015,33,009,NH,"Grafton County",65,91,2913
+33,015,33,003,NH,"Carroll County",64,102,2988
+33,015,33,005,NH,"Cheshire County",58,87,2257
+33,015,25,023,MA,"Plymouth County",56,112,2734
+33,015,09,003,CT,"Hartford County",54,116,3329
+33,015,25,005,MA,"Bristol County",50,105,2785
+33,015,57,005,FR,"Foreign - APO/FPO ZIPs",45,80,1305
+33,015,23,019,ME,"Penobscot County",36,61,1433
+33,015,09,001,CT,"Fairfield County",35,62,2510
+33,015,25,001,MA,"Barnstable County",35,62,1449
+33,015,04,013,AZ,"Maricopa County",33,61,1635
+33,015,12,011,FL,"Broward County",32,63,2278
+33,015,09,009,CT,"New Haven County",28,50,1484
+33,015,33,007,NH,"Coos County",28,44,643
+33,015,50,007,VT,"Chittenden County",28,42,1078
+33,015,06,073,CA,"San Diego County",27,48,1167
+33,015,44,007,RI,"Providence County",25,41,1072
+33,015,53,033,WA,"King County",24,41,1357
+33,015,25,013,MA,"Hampden County",23,43,1013
+33,015,12,099,FL,"Palm Beach County",22,36,1167
+33,015,23,011,ME,"Kennebec County",22,40,698
+33,015,36,103,NY,"Suffolk County",22,43,1452
+33,015,48,201,TX,"Harris County",22,58,1437
+33,015,06,059,CA,"Orange County",21,50,1234
+33,015,12,031,FL,"Duval County",21,41,542
+33,015,12,057,FL,"Hillsborough County",21,44,671
+33,015,12,103,FL,"Pinellas County",20,38,667
+33,015,37,183,NC,"Wake County",20,40,1148
+33,015,51,059,VA,"Fairfax County",19,39,1479
+33,015,06,085,CA,"Santa Clara County",18,34,2522
+33,015,12,009,FL,"Brevard County",18,36,453
+33,015,36,061,NY,"New York County",18,24,1680
+33,015,09,011,CT,"New London County",17,26,819
+33,015,36,119,NY,"Westchester County",16,19,1123
+33,015,44,003,RI,"Kent County",16,36,1701
+33,015,17,031,IL,"Cook County",15,23,621
+33,015,50,027,VT,"Windsor County",15,17,434
+33,015,06,037,CA,"Los Angeles County",14,21,457
+33,015,15,003,HI,"Honolulu County",14,20,405
+33,015,23,017,ME,"Oxford County",14,22,611
+33,015,36,029,NY,"Erie County",14,31,1391
+33,015,06,001,CA,"Alameda County",13,26,790
+33,015,08,013,CO,"Boulder County",13,15,1185
+33,015,12,127,FL,"Volusia County",13,20,316
+33,015,13,121,GA,"Fulton County",13,27,1028
+33,015,23,001,ME,"Androscoggin County",13,20,691
+33,015,34,027,NJ,"Morris County",13,31,3592
+33,015,36,059,NY,"Nassau County",13,21,634
+33,015,37,119,NC,"Mecklenburg County",13,25,940
+33,015,39,049,OH,"Franklin County",13,25,816
+33,015,09,007,CT,"Middlesex County",12,25,864
+33,015,12,115,FL,"Sarasota County",12,20,354
+33,015,13,067,GA,"Cobb County",12,28,829
+33,015,23,003,ME,"Aroostook County",12,17,409
+33,015,24,003,MD,"Anne Arundel County",12,25,662
+33,015,24,031,MD,"Montgomery County",12,19,677
+33,015,32,003,NV,"Clark County",12,18,306
+33,015,34,005,NJ,"Burlington County",12,29,585
+33,015,44,009,RI,"Washington County",12,24,835
+33,015,06,075,CA,"San Francisco County",11,15,465
+33,015,12,117,FL,"Seminole County",11,20,399
+33,015,34,023,NJ,"Middlesex County",11,22,760
+33,015,36,055,NY,"Monroe County",11,18,511
+33,015,42,003,PA,"Allegheny County",11,25,8186
+33,015,48,113,TX,"Dallas County",11,21,543
+33,015,48,439,TX,"Tarrant County",11,38,1841
+33,015,12,095,FL,"Orange County",10,19,307
+33,015,13,089,GA,"De Kalb County",10,17,1010
+33,015,23,009,ME,"Hancock County",10,15,389
+33,015,25,003,MA,"Berkshire County",10,15,894
+33,015,34,029,NJ,"Ocean County",10,14,335
+33,015,36,001,NY,"Albany County",10,17,262
+33,015,36,067,NY,"Onondaga County",10,19,865
+33,015,58,000,SS,"Other Flows - Same State",22,31,522
+33,015,59,000,DS,"Other Flows - Diff State",1459,2933,85067
+33,015,59,001,DS,"Other Flows - Northeast",426,827,28847
+33,015,59,003,DS,"Other Flows - Midwest",259,569,16970
+33,015,59,005,DS,"Other Flows - South",517,1062,25510
+33,015,59,007,DS,"Other Flows - West",257,475,13741
+33,015,57,009,FR,"Foreign - Other flows",49,71,2121
+33,017,96,000,NH,"Strafford Count Tot Mig-US & For",3574,6177,119614
+33,017,97,000,NH,"Strafford Count Tot Mig-US",3458,6025,118548
+33,017,97,001,NH,"Strafford Count Tot Mig-Same St",1644,2773,53577
+33,017,97,003,NH,"Strafford Count Tot Mig-Diff St",1814,3252,64971
+33,017,98,000,NH,"Strafford Count Tot Mig-Foreign",116,152,1066
+33,017,33,017,NH,"Strafford Count Non-Migrants",38717,82180,1698127
+33,017,33,015,NH,"Rockingham County",955,1625,33814
+33,017,23,031,ME,"York County",397,675,11369
+33,017,33,011,NH,"Hillsborough County",205,348,6534
+33,017,33,003,NH,"Carroll County",148,257,3907
+33,017,25,009,MA,"Essex County",134,259,4322
+33,017,25,017,MA,"Middlesex County",106,173,4135
+33,017,33,013,NH,"Merrimack County",104,158,3168
+33,017,33,001,NH,"Belknap County",95,182,2897
+33,017,33,009,NH,"Grafton County",67,84,1383
+33,017,23,005,ME,"Cumberland County",40,68,1603
+33,017,33,005,NH,"Cheshire County",32,53,983
+33,017,23,019,ME,"Penobscot County",31,56,808
+33,017,25,025,MA,"Suffolk County",28,40,643
+33,017,25,023,MA,"Plymouth County",27,53,1698
+33,017,33,007,NH,"Coos County",21,39,450
+33,017,25,027,MA,"Worcester County",20,31,755
+33,017,57,005,FR,"Foreign - APO/FPO ZIPs",20,32,440
+33,017,12,095,FL,"Orange County",18,37,484
+33,017,04,013,AZ,"Maricopa County",17,26,455
+33,017,09,009,CT,"New Haven County",17,28,446
+33,017,25,005,MA,"Bristol County",16,23,441
+33,017,25,021,MA,"Norfolk County",16,25,360
+33,017,06,073,CA,"San Diego County",15,21,409
+33,017,23,011,ME,"Kennebec County",14,22,501
+33,017,09,003,CT,"Hartford County",13,25,1142
+33,017,23,003,ME,"Aroostook County",13,25,451
+33,017,36,081,NY,"Queens County",12,25,326
+33,017,17,031,IL,"Cook County",11,18,488
+33,017,09,011,CT,"New London County",10,23,338
+33,017,12,011,FL,"Broward County",10,16,461
+33,017,12,101,FL,"Pasco County",10,24,258
+33,017,58,000,SS,"Other Flows - Same State",17,27,441
+33,017,59,000,DS,"Other Flows - Diff State",839,1559,33078
+33,017,59,001,DS,"Other Flows - Northeast",319,538,12462
+33,017,59,003,DS,"Other Flows - Midwest",113,248,6258
+33,017,59,005,DS,"Other Flows - South",267,527,9553
+33,017,59,007,DS,"Other Flows - West",140,246,4805
+33,017,57,009,FR,"Foreign - Other flows",96,120,627
+33,019,96,000,NH,"Sullivan County Tot Mig-US & For",1074,2018,44983
+33,019,97,000,NH,"Sullivan County Tot Mig-US",1061,1987,44430
+33,019,97,001,NH,"Sullivan County Tot Mig-Same St",451,853,16254
+33,019,97,003,NH,"Sullivan County Tot Mig-Diff St",610,1134,28176
+33,019,98,000,NH,"Sullivan County Tot Mig-Foreign",13,31,554
+33,019,33,019,NH,"Sullivan County Non-Migrants",14645,31256,602636
+33,019,33,009,NH,"Grafton County",187,361,7262
+33,019,50,027,VT,"Windsor County",108,217,3412
+33,019,33,013,NH,"Merrimack County",93,175,3456
+33,019,33,005,NH,"Cheshire County",73,137,2107
+33,019,33,011,NH,"Hillsborough County",48,100,1951
+33,019,50,025,VT,"Windham County",32,51,592
+33,019,25,017,MA,"Middlesex County",22,39,2150
+33,019,33,015,NH,"Rockingham County",18,35,723
+33,019,09,003,CT,"Hartford County",17,31,1255
+33,019,09,001,CT,"Fairfield County",12,19,1814
+33,019,25,009,MA,"Essex County",12,15,326
+33,019,25,027,MA,"Worcester County",12,25,730
+33,019,33,017,NH,"Strafford County",12,15,294
+33,019,23,005,ME,"Cumberland County",10,18,230
+33,019,33,007,NH,"Coos County",10,15,249
+33,019,50,017,VT,"Orange County",10,17,268
+33,019,50,021,VT,"Rutland County",10,27,342
+33,019,58,000,SS,"Other Flows - Same State",10,15,212
+33,019,59,000,DS,"Other Flows - Diff State",365,675,17058
+33,019,59,001,DS,"Other Flows - Northeast",169,312,9870
+33,019,59,003,DS,"Other Flows - Midwest",29,55,1575
+33,019,59,005,DS,"Other Flows - South",111,211,4190
+33,019,59,007,DS,"Other Flows - West",56,97,1423
+33,019,57,009,FR,"Foreign - Other flows",13,31,554

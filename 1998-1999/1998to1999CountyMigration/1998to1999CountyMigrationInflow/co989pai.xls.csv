@@ -1,0 +1,3326 @@
+"1998 - 1999 County to County Migration Inflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Pennsylvania,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+42,0,96,0,PA,"Total Mig - US & For",211262,385345,8867539
+42,0,97,0,PA,"Total Mig - US",205366,377195,8763469
+42,0,97,1,PA,"Total Mig - US Same St",120458,215194,4755879
+42,0,97,3,PA,"Total Mig - US Diff St",84908,162001,4007591
+42,0,98,0,PA,"Total Mig - Foreign",5896,8150,104070
+42,1,96,0,PA,"Adams County Tot Mig-US & For",2284,4549,80880
+42,1,97,0,PA,"Adams County Tot Mig-US",2261,4500,80350
+42,1,97,1,PA,"Adams County Tot Mig-Same St",1150,2162,35353
+42,1,97,3,PA,"Adams County Tot Mig-Diff St",1111,2338,44998
+42,1,98,0,PA,"Adams County Tot Mig-Foreign",23,49,530
+42,1,42,1,PA,"Adams County Non-Migrants",37531,84555,1591381
+42,1,42,133,PA,"York County",658,1268,19960
+42,1,24,13,MD,"Carroll County",249,510,8668
+42,1,42,41,PA,"Cumberland County",147,292,5036
+42,1,24,5,MD,"Baltimore County",99,195,4202
+42,1,42,55,PA,"Franklin County",98,171,2532
+42,1,24,21,MD,"Frederick County",95,205,4443
+42,1,42,43,PA,"Dauphin County",38,67,1654
+42,1,24,3,MD,"Anne Arundel County",31,87,1797
+42,1,24,27,MD,"Howard County",28,58,1680
+42,1,24,510,MD,Baltimore,26,55,675
+42,1,24,31,MD,"Montgomery County",24,49,1288
+42,1,42,71,PA,"Lancaster County",24,48,1295
+42,1,24,43,MD,"Washington County",22,44,827
+42,1,24,33,MD,"Prince George's Coun",18,40,1085
+42,1,42,91,PA,"Montgomery County",11,24,375
+42,1,51,59,VA,"Fairfax County",11,23,728
+42,1,42,75,PA,"Lebanon County",10,22,322
+42,1,42,101,PA,"Philadelphia County",10,11,240
+42,1,58,0,SS,"Other Flows - Same State",154,259,3939
+42,1,59,0,DS,"Other Flows - Diff State",508,1072,19605
+42,1,59,1,DS,"Other Flows - Northeast",98,196,4649
+42,1,59,3,DS,"Other Flows - Midwest",80,177,3205
+42,1,59,5,DS,"Other Flows - South",260,550,9217
+42,1,59,7,DS,"Other Flows - West",70,149,2534
+42,1,57,9,FR,"Foreign - Other flows",23,49,530
+42,3,96,0,PA,"Allegheny Count Tot Mig-US & For",17545,28724,744587
+42,3,97,0,PA,"Allegheny Count Tot Mig-US",16425,27384,723588
+42,3,97,1,PA,"Allegheny Count Tot Mig-Same St",7575,11923,252380
+42,3,97,3,PA,"Allegheny Count Tot Mig-Diff St",8850,15461,471208
+42,3,98,0,PA,"Allegheny Count Tot Mig-Foreign",1120,1340,20999
+42,3,42,3,PA,"Allegheny Count Non-Migrants",494182,1006850,24182797
+42,3,42,129,PA,"Westmoreland County",1623,2579,49808
+42,3,42,125,PA,"Washington County",1117,1809,42120
+42,3,42,7,PA,"Beaver County",866,1533,30290
+42,3,42,19,PA,"Butler County",826,1418,32301
+42,3,42,49,PA,"Erie County",282,370,7362
+42,3,42,51,PA,"Fayette County",249,393,7891
+42,3,42,5,PA,"Armstrong County",238,363,6183
+42,3,39,35,OH,"Cuyahoga County",174,267,7815
+42,3,42,21,PA,"Cambria County",173,242,4994
+42,3,17,31,IL,"Cook County",169,276,11465
+42,3,42,63,PA,"Indiana County",156,233,3876
+42,3,39,49,OH,"Franklin County",141,210,5240
+42,3,42,85,PA,"Mercer County",123,176,3111
+42,3,42,101,PA,"Philadelphia County",118,184,3718
+42,3,42,91,PA,"Montgomery County",114,183,5668
+42,3,51,59,VA,"Fairfax County",112,209,7469
+42,3,12,11,FL,"Broward County",110,195,5229
+42,3,6,37,CA,"Los Angeles County",104,148,4005
+42,3,42,73,PA,"Lawrence County",103,150,3173
+42,3,42,39,PA,"Crawford County",101,147,2511
+42,3,24,31,MD,"Montgomery County",100,172,6941
+42,3,4,13,AZ,"Maricopa County",97,152,5549
+42,3,39,153,OH,"Summit County",96,147,18314
+42,3,42,27,PA,"Centre County",95,128,2725
+42,3,42,43,PA,"Dauphin County",95,147,3852
+42,3,39,61,OH,"Hamilton County",91,138,10352
+42,3,36,61,NY,"New York County",90,128,4135
+42,3,57,5,FR,"Foreign - APO/FPO ZIPs",90,157,2267
+42,3,39,99,OH,"Mahoning County",88,123,2463
+42,3,48,201,TX,"Harris County",87,160,7472
+42,3,25,17,MA,"Middlesex County",86,134,4974
+42,3,42,13,PA,"Blair County",79,101,2264
+42,3,37,119,NC,"Mecklenburg County",77,150,7904
+42,3,42,111,PA,"Somerset County",77,104,2358
+42,3,6,73,CA,"San Diego County",74,123,3551
+42,3,36,29,NY,"Erie County",74,122,2881
+42,3,11,1,DC,"District Of Columbia",71,97,2880
+42,3,42,29,PA,"Chester County",71,126,4098
+42,3,12,103,FL,"Pinellas County",70,108,2903
+42,3,24,5,MD,"Baltimore County",70,118,4474
+42,3,42,41,PA,"Cumberland County",70,102,2253
+42,3,42,121,PA,"Venango County",70,99,1809
+42,3,42,71,PA,"Lancaster County",69,97,2489
+42,3,12,99,FL,"Palm Beach County",67,112,2919
+42,3,54,61,WV,"Monongalia County",65,102,2258
+42,3,26,125,MI,"Oakland County",61,122,4401
+42,3,42,17,PA,"Bucks County",59,89,2355
+42,3,12,95,FL,"Orange County",58,89,1845
+42,3,36,55,NY,"Monroe County",57,109,3131
+42,3,6,85,CA,"Santa Clara County",55,87,5299
+42,3,24,33,MD,"Prince George's Coun",54,97,1533
+42,3,42,45,PA,"Delaware County",53,98,2345
+42,3,42,133,PA,"York County",53,83,2101
+42,3,12,25,FL,"Dade County",52,94,2640
+42,3,42,31,PA,"Clarion County",52,67,1239
+42,3,26,163,MI,"Wayne County",51,95,2681
+42,3,12,57,FL,"Hillsborough County",49,89,2080
+42,3,13,121,GA,"Fulton County",49,84,2488
+42,3,36,103,NY,"Suffolk County",49,92,3573
+42,3,6,59,CA,"Orange County",48,106,5982
+42,3,42,59,PA,"Greene County",48,79,1329
+42,3,51,13,VA,"Arlington County",48,57,1838
+42,3,9,9,CT,"New Haven County",47,91,2764
+42,3,42,33,PA,"Clearfield County",47,70,1369
+42,3,6,1,CA,"Alameda County",46,70,1915
+42,3,10,3,DE,"New Castle County",46,64,2671
+42,3,36,67,NY,"Onondaga County",46,81,2124
+42,3,39,81,OH,"Jefferson County",46,70,1117
+42,3,53,33,WA,"King County",46,82,2072
+42,3,34,23,NJ,"Middlesex County",45,81,2723
+42,3,42,11,PA,"Berks County",45,69,1343
+42,3,42,77,PA,"Lehigh County",45,64,1620
+42,3,51,810,VA,"Virginia Beach",45,76,1311
+42,3,54,29,WV,"Hancock County",45,61,3601
+42,3,24,3,MD,"Anne Arundel County",44,85,2736
+42,3,32,3,NV,"Clark County",44,69,1310
+42,3,47,37,TN,"Davidson County",42,68,1496
+42,3,18,97,IN,"Marion County",41,68,2065
+42,3,29,189,MO,"St Louis County",41,89,3982
+42,3,36,47,NY,"Kings County",41,73,1358
+42,3,36,81,NY,"Queens County",41,77,1466
+42,3,37,183,NC,"Wake County",41,64,1759
+42,3,39,113,OH,"Montgomery County",40,64,1618
+42,3,39,155,OH,"Trumbull County",40,57,1249
+42,3,48,113,TX,"Dallas County",40,65,2762
+42,3,27,53,MN,"Hennepin County",39,61,1792
+42,3,42,65,PA,"Jefferson County",39,52,1368
+42,3,39,29,OH,"Columbiana County",38,55,1473
+42,3,54,39,WV,"Kanawha County",37,63,1925
+42,3,54,69,WV,"Ohio County",37,52,1289
+42,3,6,75,CA,"San Francisco County",36,48,1730
+42,3,39,151,OH,"Stark County",36,56,1483
+42,3,17,43,IL,"Du Page County",35,72,2560
+42,3,24,27,MD,"Howard County",35,74,1848
+42,3,24,510,MD,Baltimore,35,67,2357
+42,3,42,79,PA,"Luzerne County",35,43,1046
+42,3,47,157,TN,"Shelby County",35,67,1681
+42,3,48,453,TX,"Travis County",34,55,1634
+42,3,17,97,IL,"Lake County",33,76,4198
+42,3,21,111,KY,"Jefferson County",33,68,2130
+42,3,25,25,MA,"Suffolk County",33,53,1619
+42,3,34,27,NJ,"Morris County",33,60,4306
+42,3,39,95,OH,"Lucas County",32,50,3345
+42,3,51,510,VA,Alexandria,31,52,2637
+42,3,39,85,OH,"Lake County",30,50,1241
+42,3,9,1,CT,"Fairfield County",29,54,1752
+42,3,13,89,GA,"De Kalb County",29,47,2587
+42,3,37,51,NC,"Cumberland County",29,57,776
+42,3,42,123,PA,"Warren County",29,36,654
+42,3,4,19,AZ,"Pima County",28,42,1421
+42,3,12,31,FL,"Duval County",28,62,2255
+42,3,37,81,NC,"Guilford County",28,53,1243
+42,3,39,93,OH,"Lorain County",28,49,1246
+42,3,42,81,PA,"Lycoming County",28,37,534
+42,3,12,117,FL,"Seminole County",27,61,1843
+42,3,13,67,GA,"Cobb County",27,52,1241
+42,3,39,41,OH,"Delaware County",27,54,2058
+42,3,42,95,PA,"Northampton County",27,35,1047
+42,3,48,439,TX,"Tarrant County",27,50,1511
+42,3,12,81,FL,"Manatee County",26,42,1323
+42,3,15,3,HI,"Honolulu County",26,53,777
+42,3,25,21,MA,"Norfolk County",26,44,3185
+42,3,42,83,PA,"Mckean County",26,33,526
+42,3,48,85,TX,"Collin County",26,53,3608
+42,3,8,31,CO,"Denver County",25,38,1148
+42,3,12,71,FL,"Lee County",25,33,617
+42,3,26,81,MI,"Kent County",25,49,1106
+42,3,26,161,MI,"Washtenaw County",25,45,1417
+42,3,34,3,NJ,"Bergen County",25,43,1379
+42,3,34,5,NJ,"Burlington County",25,42,913
+42,3,34,13,NJ,"Essex County",25,45,678
+42,3,41,51,OR,"Multnomah County",25,37,1144
+42,3,42,47,PA,"Elk County",25,31,1485
+42,3,51,87,VA,"Henrico County",25,48,1397
+42,3,9,3,CT,"Hartford County",24,46,4776
+42,3,12,115,FL,"Sarasota County",24,37,979
+42,3,34,7,NJ,"Camden County",24,38,1043
+42,3,35,1,NM,"Bernalillo County",24,40,946
+42,3,36,119,NY,"Westchester County",24,53,3513
+42,3,37,63,NC,"Durham County",24,39,779
+42,3,39,17,OH,"Butler County",24,47,1386
+42,3,42,55,PA,"Franklin County",24,42,814
+42,3,45,19,SC,"Charleston County",24,38,1234
+42,3,51,153,VA,"Prince William Count",24,56,1188
+42,3,12,1,FL,"Alachua County",23,36,612
+42,3,21,67,KY,"Fayette County",23,37,912
+42,3,24,21,MD,"Frederick County",23,34,615
+42,3,39,133,OH,"Portage County",23,34,718
+42,3,42,69,PA,"Lackawanna County",23,31,605
+42,3,54,9,WV,"Brooke County",23,40,1150
+42,3,54,33,WV,"Harrison County",23,44,1444
+42,3,6,13,CA,"Contra Costa County",22,58,3964
+42,3,8,41,CO,"El Paso County",22,44,685
+42,3,12,9,FL,"Brevard County",22,43,963
+42,3,37,133,NC,"Onslow County",22,43,523
+42,3,39,13,OH,"Belmont County",22,30,541
+42,3,48,29,TX,"Bexar County",22,53,1441
+42,3,51,107,VA,"Loudoun County",22,37,1827
+42,3,55,79,WI,"Milwaukee County",22,30,783
+42,3,12,127,FL,"Volusia County",21,35,299
+42,3,25,9,MA,"Essex County",21,38,1135
+42,3,34,25,NJ,"Monmouth County",21,35,691
+42,3,34,39,NJ,"Union County",21,37,1018
+42,3,51,710,VA,Norfolk,21,36,494
+42,3,54,49,WV,"Marion County",21,30,496
+42,3,34,17,NJ,"Hudson County",20,30,904
+42,3,36,59,NY,"Nassau County",20,39,1130
+42,3,37,67,NC,"Forsyth County",20,43,1001
+42,3,1,73,AL,"Jefferson County",19,34,1025
+42,3,6,81,CA,"San Mateo County",19,27,1112
+42,3,22,71,LA,"Orleans Parish",19,30,710
+42,3,34,35,NJ,"Somerset County",19,29,1257
+42,3,36,13,NY,"Chautauqua County",19,27,443
+42,3,42,9,PA,"Bedford County",19,27,525
+42,3,55,25,WI,"Dane County",19,27,879
+42,3,8,59,CO,"Jefferson County",18,26,587
+42,3,12,101,FL,"Pasco County",18,30,569
+42,3,25,27,MA,"Worcester County",18,28,1093
+42,3,26,99,MI,"Macomb County",18,21,635
+42,3,37,21,NC,"Buncombe County",18,28,631
+42,3,42,61,PA,"Huntingdon County",18,23,342
+42,3,42,75,PA,"Lebanon County",18,25,520
+42,3,48,27,TX,"Bell County",18,26,375
+42,3,54,107,WV,"Wood County",18,28,1007
+42,3,8,13,CO,"Boulder County",17,24,521
+42,3,13,135,GA,"Gwinnett County",17,33,3244
+42,3,17,197,IL,"Will County",17,33,1257
+42,3,18,141,IN,"St Joseph County",17,33,1314
+42,3,51,550,VA,Chesapeake,17,34,943
+42,3,34,21,NJ,"Mercer County",16,30,1163
+42,3,36,63,NY,"Niagara County",16,27,308
+42,3,40,109,OK,"Oklahoma County",16,28,622
+42,3,49,35,UT,"Salt Lake County",16,28,670
+42,3,24,1,MD,"Allegany County",15,20,459
+42,3,36,5,NY,"Bronx County",15,40,365
+42,3,39,103,OH,"Medina County",15,28,601
+42,3,45,51,SC,"Horry County",15,19,318
+42,3,45,79,SC,"Richland County",15,30,617
+42,3,51,700,VA,"Newport News",15,32,441
+42,3,1,89,AL,"Madison County",14,35,1179
+42,3,6,83,CA,"Santa Barbara County",14,26,324
+42,3,8,5,CO,"Arapahoe County",14,16,549
+42,3,10,1,DE,"Kent County",14,28,455
+42,3,12,21,FL,"Collier County",14,20,742
+42,3,12,69,FL,"Lake County",14,19,350
+42,3,12,105,FL,"Polk County",14,23,374
+42,3,20,91,KS,"Johnson County",14,32,1271
+42,3,29,510,MO,"St Louis",14,27,1132
+42,3,33,11,NH,"Hillsborough County",14,20,699
+42,3,36,1,NY,"Albany County",14,21,655
+42,3,36,45,NY,"Jefferson County",14,27,266
+42,3,36,109,NY,"Tompkins County",14,18,437
+42,3,39,55,OH,"Geauga County",14,20,648
+42,3,39,173,OH,"Wood County",14,32,670
+42,3,41,67,OR,"Washington County",14,30,1098
+42,3,45,13,SC,"Beaufort County",14,24,376
+42,3,10,5,DE,"Sussex County",13,19,330
+42,3,24,25,MD,"Harford County",13,25,497
+42,3,33,15,NH,"Rockingham County",13,28,922
+42,3,34,31,NJ,"Passaic County",13,26,585
+42,3,40,143,OK,"Tulsa County",13,24,515
+42,3,44,7,RI,"Providence County",13,15,348
+42,3,45,45,SC,"Greenville County",13,20,376
+42,3,47,93,TN,"Knox County",13,27,1364
+42,3,48,121,TX,"Denton County",13,30,1389
+42,3,51,41,VA,"Chesterfield County",13,32,710
+42,3,53,53,WA,"Pierce County",13,26,474
+42,3,1,97,AL,"Mobile County",12,24,466
+42,3,5,119,AR,"Pulaski County",12,19,355
+42,3,6,67,CA,"Sacramento County",12,20,450
+42,3,6,111,CA,"Ventura County",12,35,907
+42,3,12,73,FL,"Leon County",12,15,227
+42,3,13,51,GA,"Chatham County",12,22,390
+42,3,18,3,IN,"Allen County",12,31,416
+42,3,19,153,IA,"Polk County",12,29,782
+42,3,34,1,NJ,"Atlantic County",12,22,427
+42,3,39,7,OH,"Ashtabula County",12,13,192
+42,3,42,89,PA,"Monroe County",12,16,333
+42,3,6,65,CA,"Riverside County",11,19,311
+42,3,6,71,CA,"San Bernardino Count",11,22,293
+42,3,18,157,IN,"Tippecanoe County",11,20,727
+42,3,24,43,MD,"Washington County",11,14,485
+42,3,25,23,MA,"Plymouth County",11,18,480
+42,3,27,37,MN,"Dakota County",11,20,577
+42,3,34,29,NJ,"Ocean County",11,20,403
+42,3,36,65,NY,"Oneida County",11,18,336
+42,3,37,129,NC,"New Hanover County",11,18,289
+42,3,37,135,NC,"Orange County",11,21,459
+42,3,42,1,PA,"Adams County",11,17,280
+42,3,45,63,SC,"Lexington County",11,26,425
+42,3,50,7,VT,"Chittenden County",11,21,770
+42,3,51,121,VA,"Montgomery County",11,16,213
+42,3,9,11,CT,"New London County",10,25,274
+42,3,17,19,IL,"Champaign County",10,18,295
+42,3,19,103,IA,"Johnson County",10,19,410
+42,3,25,5,MA,"Bristol County",10,15,336
+42,3,26,49,MI,"Genesee County",10,19,611
+42,3,31,55,NE,"Douglas County",10,24,707
+42,3,36,7,NY,"Broome County",10,17,385
+42,3,37,49,NC,"Craven County",10,19,231
+42,3,37,147,NC,"Pitt County",10,20,362
+42,3,39,25,OH,"Clermont County",10,21,1287
+42,3,39,45,OH,"Fairfield County",10,17,397
+42,3,39,139,OH,"Richland County",10,25,568
+42,3,42,87,PA,"Mifflin County",10,14,362
+42,3,42,107,PA,"Schuylkill County",10,16,268
+42,3,45,83,SC,"Spartanburg County",10,27,452
+42,3,48,141,TX,"El Paso County",10,15,506
+42,3,51,3,VA,"Albemarle County",10,15,480
+42,3,51,161,VA,"Roanoke County",10,19,585
+42,3,58,0,SS,"Other Flows - Same State",104,142,3114
+42,3,59,0,DS,"Other Flows - Diff State",1982,3694,85192
+42,3,59,1,DS,"Other Flows - Northeast",270,472,12497
+42,3,59,3,DS,"Other Flows - Midwest",570,1090,27070
+42,3,59,5,DS,"Other Flows - South",890,1698,35738
+42,3,59,7,DS,"Other Flows - West",252,434,9887
+42,3,57,9,FR,"Foreign - Other flows",1030,1183,18732
+42,5,96,0,PA,"Armstrong Count Tot Mig-US & For",1130,2238,30584
+42,5,97,0,PA,"Armstrong Count Tot Mig-US",1130,2238,30584
+42,5,97,1,PA,"Armstrong Count Tot Mig-Same St",875,1711,23609
+42,5,97,3,PA,"Armstrong Count Tot Mig-Diff St",255,527,6976
+42,5,42,5,PA,"Armstrong Count Non-Migrants",29282,65795,1024993
+42,5,42,129,PA,"Westmoreland County",259,516,7063
+42,5,42,3,PA,"Allegheny County",223,413,6942
+42,5,42,19,PA,"Butler County",147,293,4251
+42,5,42,63,PA,"Indiana County",90,197,2040
+42,5,42,31,PA,"Clarion County",52,108,1081
+42,5,42,65,PA,"Jefferson County",18,33,303
+42,5,58,0,SS,"Other Flows - Same State",86,151,1929
+42,5,59,0,DS,"Other Flows - Diff State",255,527,6976
+42,5,59,1,DS,"Other Flows - Northeast",43,85,1121
+42,5,59,3,DS,"Other Flows - Midwest",39,86,1140
+42,5,59,5,DS,"Other Flows - South",131,265,3459
+42,5,59,7,DS,"Other Flows - West",42,91,1257
+42,7,96,0,PA,"Beaver County Tot Mig-US & For",2418,4610,84390
+42,7,97,0,PA,"Beaver County Tot Mig-US",2371,4543,83605
+42,7,97,1,PA,"Beaver County Tot Mig-Same St",1461,2737,51927
+42,7,97,3,PA,"Beaver County Tot Mig-Diff St",910,1806,31678
+42,7,98,0,PA,"Beaver County Tot Mig-Foreign",47,67,785
+42,7,42,7,PA,"Beaver County Non-Migrants",67095,145367,2587086
+42,7,42,3,PA,"Allegheny County",811,1493,29718
+42,7,42,19,PA,"Butler County",181,345,6489
+42,7,42,73,PA,"Lawrence County",137,279,4024
+42,7,39,29,OH,"Columbiana County",62,115,1373
+42,7,42,125,PA,"Washington County",55,103,1594
+42,7,42,129,PA,"Westmoreland County",48,91,1732
+42,7,57,5,FR,"Foreign - APO/FPO ZIPs",23,36,497
+42,7,42,85,PA,"Mercer County",18,30,1273
+42,7,54,29,WV,"Hancock County",17,37,395
+42,7,42,21,PA,"Cambria County",16,23,396
+42,7,42,49,PA,"Erie County",15,21,334
+42,7,39,99,OH,"Mahoning County",13,32,619
+42,7,4,13,AZ,"Maricopa County",12,20,453
+42,7,32,3,NV,"Clark County",12,23,348
+42,7,42,5,PA,"Armstrong County",12,17,248
+42,7,37,133,NC,"Onslow County",11,22,188
+42,7,39,35,OH,"Cuyahoga County",11,22,472
+42,7,39,49,OH,"Franklin County",11,17,257
+42,7,39,81,OH,"Jefferson County",11,19,366
+42,7,42,51,PA,"Fayette County",10,23,353
+42,7,42,59,PA,"Greene County",10,16,178
+42,7,58,0,SS,"Other Flows - Same State",148,296,5587
+42,7,59,0,DS,"Other Flows - Diff State",750,1499,27207
+42,7,59,1,DS,"Other Flows - Northeast",93,166,3817
+42,7,59,3,DS,"Other Flows - Midwest",179,382,7623
+42,7,59,5,DS,"Other Flows - South",397,799,13457
+42,7,59,7,DS,"Other Flows - West",81,152,2310
+42,7,57,9,FR,"Foreign - Other flows",24,31,288
+42,9,96,0,PA,"Bedford County Tot Mig-US & For",736,1514,22568
+42,9,97,0,PA,"Bedford County Tot Mig-US",736,1514,22568
+42,9,97,1,PA,"Bedford County Tot Mig-Same St",426,859,11455
+42,9,97,3,PA,"Bedford County Tot Mig-Diff St",310,655,11113
+42,9,42,9,PA,"Bedford County Non-Migrants",18787,42505,609229
+42,9,42,13,PA,"Blair County",140,279,3623
+42,9,42,61,PA,"Huntingdon County",39,65,796
+42,9,24,1,MD,"Allegany County",31,82,1068
+42,9,42,111,PA,"Somerset County",31,60,677
+42,9,42,21,PA,"Cambria County",28,43,517
+42,9,42,57,PA,"Fulton County",21,51,533
+42,9,42,71,PA,"Lancaster County",18,38,663
+42,9,42,133,PA,"York County",14,41,432
+42,9,42,3,PA,"Allegheny County",12,20,325
+42,9,42,41,PA,"Cumberland County",12,27,477
+42,9,42,33,PA,"Clearfield County",11,17,284
+42,9,58,0,SS,"Other Flows - Same State",100,218,3125
+42,9,59,0,DS,"Other Flows - Diff State",279,573,10045
+42,9,59,1,DS,"Other Flows - Northeast",38,80,1308
+42,9,59,3,DS,"Other Flows - Midwest",42,89,1465
+42,9,59,5,DS,"Other Flows - South",176,361,6557
+42,9,59,7,DS,"Other Flows - West",23,43,716
+42,11,96,0,PA,"Berks County Tot Mig-US & For",5691,11144,226289
+42,11,97,0,PA,"Berks County Tot Mig-US",5623,11000,224708
+42,11,97,1,PA,"Berks County Tot Mig-Same St",3649,6883,136023
+42,11,97,3,PA,"Berks County Tot Mig-Diff St",1974,4117,88685
+42,11,98,0,PA,"Berks County Tot Mig-Foreign",68,144,1580
+42,11,42,11,PA,"Berks County Non-Migrants",141158,305913,6587898
+42,11,42,91,PA,"Montgomery County",897,1674,35007
+42,11,42,29,PA,"Chester County",470,944,19428
+42,11,42,77,PA,"Lehigh County",426,769,15766
+42,11,42,71,PA,"Lancaster County",405,788,15177
+42,11,42,75,PA,"Lebanon County",222,414,7046
+42,11,42,107,PA,"Schuylkill County",202,354,6045
+42,11,42,17,PA,"Bucks County",154,310,6556
+42,11,42,101,PA,"Philadelphia County",137,280,4816
+42,11,42,45,PA,"Delaware County",80,152,3239
+42,11,42,95,PA,"Northampton County",78,145,2732
+42,11,42,133,PA,"York County",61,104,1941
+42,11,42,43,PA,"Dauphin County",49,84,1823
+42,11,36,5,NY,"Bronx County",46,102,749
+42,11,42,79,PA,"Luzerne County",46,78,1664
+42,11,36,81,NY,"Queens County",39,92,997
+42,11,36,47,NY,"Kings County",37,101,1289
+42,11,42,41,PA,"Cumberland County",33,60,1224
+42,11,42,61,PA,"Huntingdon County",33,62,923
+42,11,42,3,PA,"Allegheny County",32,57,1285
+42,11,36,103,NY,"Suffolk County",30,56,825
+42,11,34,27,NJ,"Morris County",26,53,1582
+42,11,36,61,NY,"New York County",26,39,470
+42,11,42,25,PA,"Carbon County",25,42,728
+42,11,6,37,CA,"Los Angeles County",23,51,973
+42,11,10,3,DE,"New Castle County",22,35,1002
+42,11,57,5,FR,"Foreign - APO/FPO ZIPs",22,35,485
+42,11,4,13,AZ,"Maricopa County",21,33,601
+42,11,34,5,NJ,"Burlington County",21,36,937
+42,11,34,7,NJ,"Camden County",21,38,656
+42,11,36,59,NY,"Nassau County",21,45,724
+42,11,6,73,CA,"San Diego County",19,30,512
+42,11,12,99,FL,"Palm Beach County",18,36,988
+42,11,34,23,NJ,"Middlesex County",18,33,683
+42,11,42,27,PA,"Centre County",18,33,466
+42,11,42,89,PA,"Monroe County",18,42,617
+42,11,12,95,FL,"Orange County",17,36,740
+42,11,34,25,NJ,"Monmouth County",17,34,697
+42,11,34,29,NJ,"Ocean County",17,43,913
+42,11,42,97,PA,"Northumberland Count",17,25,486
+42,11,34,13,NJ,"Essex County",16,33,420
+42,11,42,21,PA,"Cambria County",16,27,804
+42,11,42,69,PA,"Lackawanna County",16,27,458
+42,11,42,55,PA,"Franklin County",15,29,505
+42,11,51,810,VA,"Virginia Beach",15,37,532
+42,11,57,3,FR,"Foreign - Puerto Rico",15,41,155
+42,11,34,39,NJ,"Union County",14,26,406
+42,11,34,17,NJ,"Hudson County",13,27,492
+42,11,37,119,NC,"Mecklenburg County",13,27,353
+42,11,42,1,PA,"Adams County",13,32,374
+42,11,42,15,PA,"Bradford County",13,18,326
+42,11,42,81,PA,"Lycoming County",13,19,813
+42,11,51,59,VA,"Fairfax County",13,28,678
+42,11,4,19,AZ,"Pima County",12,18,199
+42,11,12,11,FL,"Broward County",12,23,438
+42,11,12,103,FL,"Pinellas County",12,22,353
+42,11,24,3,MD,"Anne Arundel County",12,17,600
+42,11,25,17,MA,"Middlesex County",12,20,393
+42,11,34,3,NJ,"Bergen County",12,20,524
+42,11,34,21,NJ,"Mercer County",12,21,410
+42,11,9,9,CT,"New Haven County",11,24,218
+42,11,12,9,FL,"Brevard County",11,21,382
+42,11,12,31,FL,"Duval County",11,31,354
+42,11,17,31,IL,"Cook County",11,18,391
+42,11,24,33,MD,"Prince George's Coun",11,21,482
+42,11,34,31,NJ,"Passaic County",11,27,206
+42,11,42,37,PA,"Columbia County",11,22,251
+42,11,42,49,PA,"Erie County",11,25,596
+42,11,6,59,CA,"Orange County",10,19,339
+42,11,9,1,CT,"Fairfield County",10,27,1091
+42,11,9,3,CT,"Hartford County",10,23,706
+42,11,11,1,DC,"District Of Columbia",10,15,826
+42,11,12,57,FL,"Hillsborough County",10,19,171
+42,11,24,5,MD,"Baltimore County",10,12,380
+42,11,34,1,NJ,"Atlantic County",10,22,187
+42,11,34,11,NJ,"Cumberland County",10,25,258
+42,11,34,15,NJ,"Gloucester County",10,26,379
+42,11,36,55,NY,"Monroe County",10,24,722
+42,11,36,119,NY,"Westchester County",10,20,466
+42,11,37,183,NC,"Wake County",10,24,816
+42,11,42,13,PA,"Blair County",10,19,539
+42,11,58,0,SS,"Other Flows - Same State",128,248,4385
+42,11,59,0,DS,"Other Flows - Diff State",1181,2507,59175
+42,11,59,1,DS,"Other Flows - Northeast",220,450,16866
+42,11,59,3,DS,"Other Flows - Midwest",236,560,15047
+42,11,59,5,DS,"Other Flows - South",567,1145,22316
+42,11,59,7,DS,"Other Flows - West",158,352,4946
+42,11,57,9,FR,"Foreign - Other flows",31,68,941
+42,13,96,0,PA,"Blair County Tot Mig-US & For",1473,2782,46065
+42,13,97,0,PA,"Blair County Tot Mig-US",1449,2737,45578
+42,13,97,1,PA,"Blair County Tot Mig-Same St",893,1622,25893
+42,13,97,3,PA,"Blair County Tot Mig-Diff St",556,1115,19686
+42,13,98,0,PA,"Blair County Tot Mig-Foreign",24,45,486
+42,13,42,13,PA,"Blair County Non-Migrants",47136,101972,1734998
+42,13,42,21,PA,"Cambria County",183,332,5317
+42,13,42,9,PA,"Bedford County",122,238,2695
+42,13,42,27,PA,"Centre County",98,179,3264
+42,13,42,61,PA,"Huntingdon County",62,126,1496
+42,13,42,3,PA,"Allegheny County",49,77,1500
+42,13,42,33,PA,"Clearfield County",43,77,1237
+42,13,42,129,PA,"Westmoreland County",23,50,717
+42,13,42,43,PA,"Dauphin County",22,28,517
+42,13,42,71,PA,"Lancaster County",21,43,469
+42,13,42,63,PA,"Indiana County",19,35,389
+42,13,42,81,PA,"Lycoming County",16,20,474
+42,13,42,133,PA,"York County",16,31,1006
+42,13,42,41,PA,"Cumberland County",15,25,402
+42,13,24,31,MD,"Montgomery County",12,28,471
+42,13,42,17,PA,"Bucks County",11,21,525
+42,13,12,103,FL,"Pinellas County",10,19,371
+42,13,42,7,PA,"Beaver County",10,11,212
+42,13,42,19,PA,"Butler County",10,15,276
+42,13,42,49,PA,"Erie County",10,17,197
+42,13,58,0,SS,"Other Flows - Same State",163,297,5200
+42,13,59,0,DS,"Other Flows - Diff State",534,1068,18843
+42,13,59,1,DS,"Other Flows - Northeast",79,154,3299
+42,13,59,3,DS,"Other Flows - Midwest",79,155,3320
+42,13,59,5,DS,"Other Flows - South",293,598,10031
+42,13,59,7,DS,"Other Flows - West",83,161,2193
+42,13,57,9,FR,"Foreign - Other flows",24,45,486
+42,15,96,0,PA,"Bradford County Tot Mig-US & For",893,1789,25051
+42,15,97,0,PA,"Bradford County Tot Mig-US",880,1771,24877
+42,15,97,1,PA,"Bradford County Tot Mig-Same St",362,697,10360
+42,15,97,3,PA,"Bradford County Tot Mig-Diff St",518,1074,14517
+42,15,98,0,PA,"Bradford County Tot Mig-Foreign",13,18,174
+42,15,42,15,PA,"Bradford County Non-Migrants",22017,50799,800249
+42,15,36,15,NY,"Chemung County",101,199,1955
+42,15,36,107,NY,"Tioga County",100,212,2143
+42,15,42,117,PA,"Tioga County",59,106,1267
+42,15,42,131,PA,"Wyoming County",34,69,892
+42,15,42,113,PA,"Sullivan County",33,64,673
+42,15,42,81,PA,"Lycoming County",25,53,777
+42,15,36,7,NY,"Broome County",21,45,545
+42,15,42,115,PA,"Susquehanna County",20,45,419
+42,15,42,69,PA,"Lackawanna County",18,31,613
+42,15,42,101,PA,"Philadelphia County",18,30,662
+42,15,42,17,PA,"Bucks County",15,28,476
+42,15,42,91,PA,"Montgomery County",13,23,509
+42,15,42,71,PA,"Lancaster County",12,22,340
+42,15,42,79,PA,"Luzerne County",10,24,338
+42,15,58,0,SS,"Other Flows - Same State",105,202,3395
+42,15,59,0,DS,"Other Flows - Diff State",296,618,9873
+42,15,59,1,DS,"Other Flows - Northeast",105,223,4449
+42,15,59,3,DS,"Other Flows - Midwest",24,50,1233
+42,15,59,5,DS,"Other Flows - South",137,286,3496
+42,15,59,7,DS,"Other Flows - West",30,59,695
+42,15,57,9,FR,"Foreign - Other flows",13,18,174
+42,17,96,0,PA,"Bucks County Tot Mig-US & For",14641,28302,821342
+42,17,97,0,PA,"Bucks County Tot Mig-US",14486,28004,814735
+42,17,97,1,PA,"Bucks County Tot Mig-Same St",8483,16139,413459
+42,17,97,3,PA,"Bucks County Tot Mig-Diff St",6003,11865,401276
+42,17,98,0,PA,"Bucks County Tot Mig-Foreign",155,298,6606
+42,17,42,17,PA,"Bucks County Non-Migrants",231431,521134,14576428
+42,17,42,101,PA,"Philadelphia County",3437,6942,155304
+42,17,42,91,PA,"Montgomery County",3269,6204,174519
+42,17,34,21,NJ,"Mercer County",695,1340,41731
+42,17,42,45,PA,"Delaware County",327,552,16874
+42,17,34,5,NJ,"Burlington County",314,579,16251
+42,17,42,77,PA,"Lehigh County",264,439,10346
+42,17,42,29,PA,"Chester County",207,372,12902
+42,17,34,19,NJ,"Hunterdon County",194,348,13347
+42,17,34,23,NJ,"Middlesex County",180,343,11372
+42,17,34,7,NJ,"Camden County",167,322,10138
+42,17,42,95,PA,"Northampton County",134,228,8035
+42,17,42,11,PA,"Berks County",95,145,3632
+42,17,34,35,NJ,"Somerset County",94,171,9838
+42,17,34,29,NJ,"Ocean County",92,148,4314
+42,17,36,61,NY,"New York County",88,123,10366
+42,17,34,15,NJ,"Gloucester County",82,144,4389
+42,17,10,3,DE,"New Castle County",76,138,4467
+42,17,34,3,NJ,"Bergen County",72,159,6014
+42,17,42,3,PA,"Allegheny County",69,118,4088
+42,17,42,71,PA,"Lancaster County",67,122,2906
+42,17,34,25,NJ,"Monmouth County",66,109,10753
+42,17,34,27,NJ,"Morris County",63,125,5599
+42,17,36,81,NY,"Queens County",60,130,2487
+42,17,12,11,FL,"Broward County",55,97,3089
+42,17,36,59,NY,"Nassau County",55,111,3476
+42,17,42,79,PA,"Luzerne County",53,82,2289
+42,17,36,103,NY,"Suffolk County",52,108,3343
+42,17,34,1,NJ,"Atlantic County",51,99,2443
+42,17,57,5,FR,"Foreign - APO/FPO ZIPs",50,96,1412
+42,17,6,37,CA,"Los Angeles County",49,96,3419
+42,17,34,13,NJ,"Essex County",49,91,3838
+42,17,17,31,IL,"Cook County",48,89,4799
+42,17,34,39,NJ,"Union County",48,111,3783
+42,17,42,27,PA,"Centre County",48,64,1401
+42,17,4,13,AZ,"Maricopa County",46,82,2169
+42,17,12,99,FL,"Palm Beach County",45,82,2248
+42,17,51,59,VA,"Fairfax County",45,85,2999
+42,17,36,47,NY,"Kings County",43,105,1799
+42,17,6,73,CA,"San Diego County",42,80,2252
+42,17,9,1,CT,"Fairfield County",42,112,7201
+42,17,34,9,NJ,"Cape May County",42,72,1790
+42,17,42,89,PA,"Monroe County",41,79,1962
+42,17,25,17,MA,"Middlesex County",39,78,2990
+42,17,12,31,FL,"Duval County",38,86,1521
+42,17,34,17,NJ,"Hudson County",36,59,1791
+42,17,6,59,CA,"Orange County",34,75,2009
+42,17,12,103,FL,"Pinellas County",34,49,1205
+42,17,17,43,IL,"Du Page County",34,82,3693
+42,17,34,41,NJ,"Warren County",34,68,2147
+42,17,42,41,PA,"Cumberland County",34,49,1467
+42,17,42,43,PA,"Dauphin County",34,61,1588
+42,17,42,69,PA,"Lackawanna County",34,49,1220
+42,17,48,201,TX,"Harris County",33,87,2428
+42,17,9,3,CT,"Hartford County",31,57,2637
+42,17,12,95,FL,"Orange County",31,54,833
+42,17,42,25,PA,"Carbon County",29,47,1143
+42,17,36,119,NY,"Westchester County",28,67,2455
+42,17,42,107,PA,"Schuylkill County",28,41,845
+42,17,6,85,CA,"Santa Clara County",26,71,2123
+42,17,24,5,MD,"Baltimore County",26,39,1613
+42,17,36,55,NY,"Monroe County",26,55,2658
+42,17,24,31,MD,"Montgomery County",25,52,1476
+42,17,34,31,NJ,"Passaic County",25,43,1614
+42,17,37,119,NC,"Mecklenburg County",25,46,2875
+42,17,39,35,OH,"Cuyahoga County",25,43,1426
+42,17,12,57,FL,"Hillsborough County",24,50,1265
+42,17,12,127,FL,"Volusia County",24,36,924
+42,17,36,67,NY,"Onondaga County",24,48,1756
+42,17,37,133,NC,"Onslow County",24,58,643
+42,17,42,133,PA,"York County",24,47,1306
+42,17,48,113,TX,"Dallas County",24,48,1216
+42,17,51,810,VA,"Virginia Beach",24,64,1410
+42,17,36,85,NY,"Richmond County",23,46,1065
+42,17,37,183,NC,"Wake County",23,51,2158
+42,17,24,3,MD,"Anne Arundel County",22,39,1598
+42,17,53,33,WA,"King County",22,42,2763
+42,17,12,25,FL,"Dade County",21,28,677
+42,17,12,71,FL,"Lee County",21,37,1980
+42,17,25,27,MA,"Worcester County",21,52,2679
+42,17,42,81,PA,"Lycoming County",21,34,800
+42,17,26,125,MI,"Oakland County",20,50,1812
+42,17,36,71,NY,"Orange County",20,39,1094
+42,17,13,67,GA,"Cobb County",19,50,1435
+42,17,13,121,GA,"Fulton County",19,35,1725
+42,17,32,3,NV,"Clark County",19,36,477
+42,17,12,9,FL,"Brevard County",18,27,476
+42,17,17,97,IL,"Lake County",18,42,3907
+42,17,36,29,NY,"Erie County",18,34,1860
+42,17,4,19,AZ,"Pima County",17,30,772
+42,17,9,9,CT,"New Haven County",17,44,1519
+42,17,13,89,GA,"De Kalb County",17,24,695
+42,17,25,21,MA,"Norfolk County",17,33,1129
+42,17,29,189,MO,"St Louis County",17,37,1497
+42,17,39,49,OH,"Franklin County",17,29,890
+42,17,6,71,CA,"San Bernardino Count",16,29,272
+42,17,10,5,DE,"Sussex County",15,26,442
+42,17,11,1,DC,"District Of Columbia",15,16,690
+42,17,15,3,HI,"Honolulu County",15,34,497
+42,17,25,25,MA,"Suffolk County",15,22,1505
+42,17,42,13,PA,"Blair County",15,24,494
+42,17,42,37,PA,"Columbia County",15,29,553
+42,17,48,439,TX,"Tarrant County",15,40,1530
+42,17,51,510,VA,Alexandria,15,21,1073
+42,17,6,1,CA,"Alameda County",14,37,879
+42,17,10,1,DE,"Kent County",14,22,300
+42,17,13,135,GA,"Gwinnett County",14,45,1882
+42,17,24,25,MD,"Harford County",14,42,1071
+42,17,27,53,MN,"Hennepin County",14,34,1310
+42,17,8,13,CO,"Boulder County",13,16,570
+42,17,20,91,KS,"Johnson County",13,37,1809
+42,17,25,9,MA,"Essex County",13,29,798
+42,17,42,21,PA,"Cambria County",13,27,299
+42,17,42,55,PA,"Franklin County",13,28,429
+42,17,12,97,FL,"Osceola County",12,18,214
+42,17,34,11,NJ,"Cumberland County",12,14,468
+42,17,35,1,NM,"Bernalillo County",12,21,234
+42,17,36,87,NY,"Rockland County",12,34,6670
+42,17,48,29,TX,"Bexar County",12,28,787
+42,17,6,75,CA,"San Francisco County",11,15,440
+42,17,12,81,FL,"Manatee County",11,17,334
+42,17,12,117,FL,"Seminole County",11,30,729
+42,17,23,5,ME,"Cumberland County",11,31,459
+42,17,24,33,MD,"Prince George's Coun",11,18,431
+42,17,24,510,MD,Baltimore,11,14,431
+42,17,36,5,NY,"Bronx County",11,21,280
+42,17,39,153,OH,"Summit County",11,36,1432
+42,17,42,1,PA,"Adams County",11,15,302
+42,17,42,15,PA,"Bradford County",11,16,275
+42,17,42,103,PA,"Pike County",11,19,415
+42,17,42,129,PA,"Westmoreland County",11,14,1624
+42,17,45,45,SC,"Greenville County",11,24,922
+42,17,51,107,VA,"Loudoun County",11,24,814
+42,17,6,111,CA,"Ventura County",10,33,603
+42,17,12,21,FL,"Collier County",10,14,212
+42,17,12,53,FL,"Hernando County",10,24,263
+42,17,24,27,MD,"Howard County",10,23,632
+42,17,26,163,MI,"Wayne County",10,37,819
+42,17,33,11,NH,"Hillsborough County",10,32,1016
+42,17,37,51,NC,"Cumberland County",10,13,220
+42,17,39,113,OH,"Montgomery County",10,20,408
+42,17,42,19,PA,"Butler County",10,15,303
+42,17,42,35,PA,"Clinton County",10,21,286
+42,17,42,75,PA,"Lebanon County",10,21,386
+42,17,42,117,PA,"Tioga County",10,20,184
+42,17,42,125,PA,"Washington County",10,25,635
+42,17,58,0,SS,"Other Flows - Same State",118,190,4649
+42,17,59,0,DS,"Other Flows - Diff State",1483,3055,91201
+42,17,59,1,DS,"Other Flows - Northeast",239,484,12819
+42,17,59,3,DS,"Other Flows - Midwest",306,660,28194
+42,17,59,5,DS,"Other Flows - South",712,1480,37756
+42,17,59,7,DS,"Other Flows - West",226,431,12432
+42,17,57,9,FR,"Foreign - Other flows",105,202,5195
+42,19,96,0,PA,"Butler County Tot Mig-US & For",3558,7219,173378
+42,19,97,0,PA,"Butler County Tot Mig-US",3469,7098,172289
+42,19,97,1,PA,"Butler County Tot Mig-Same St",2368,4573,107329
+42,19,97,3,PA,"Butler County Tot Mig-Diff St",1101,2525,64961
+42,19,98,0,PA,"Butler County Tot Mig-Foreign",89,121,1089
+42,19,42,19,PA,"Butler County Non-Migrants",62856,143091,2878378
+42,19,42,3,PA,"Allegheny County",1273,2495,66755
+42,19,42,7,PA,"Beaver County",197,384,7781
+42,19,42,85,PA,"Mercer County",121,208,3506
+42,19,42,5,PA,"Armstrong County",119,208,3453
+42,19,42,73,PA,"Lawrence County",106,189,3857
+42,19,42,129,PA,"Westmoreland County",82,171,3963
+42,19,42,121,PA,"Venango County",58,111,1665
+42,19,42,31,PA,"Clarion County",42,91,1264
+42,19,42,125,PA,"Washington County",42,84,1399
+42,19,42,49,PA,"Erie County",41,75,1357
+42,19,42,63,PA,"Indiana County",30,49,1017
+42,19,42,39,PA,"Crawford County",22,41,802
+42,19,51,59,VA,"Fairfax County",20,32,1483
+42,19,42,51,PA,"Fayette County",19,37,786
+42,19,42,13,PA,"Blair County",17,39,994
+42,19,42,21,PA,"Cambria County",17,29,472
+42,19,57,5,FR,"Foreign - APO/FPO ZIPs",17,39,631
+42,19,39,99,OH,"Mahoning County",16,39,1116
+42,19,12,57,FL,"Hillsborough County",15,35,1087
+42,19,39,35,OH,"Cuyahoga County",15,37,1480
+42,19,39,49,OH,"Franklin County",15,30,829
+42,19,39,153,OH,"Summit County",14,44,1254
+42,19,42,41,PA,"Cumberland County",13,24,650
+42,19,12,11,FL,"Broward County",12,20,271
+42,19,36,29,NY,"Erie County",12,31,1164
+42,19,42,133,PA,"York County",12,23,605
+42,19,17,31,IL,"Cook County",11,16,642
+42,19,42,123,PA,"Warren County",11,15,317
+42,19,4,13,AZ,"Maricopa County",10,27,485
+42,19,6,37,CA,"Los Angeles County",10,14,439
+42,19,12,103,FL,"Pinellas County",10,17,697
+42,19,24,31,MD,"Montgomery County",10,18,916
+42,19,42,65,PA,"Jefferson County",10,11,249
+42,19,58,0,SS,"Other Flows - Same State",136,289,6436
+42,19,59,0,DS,"Other Flows - Diff State",931,2165,53096
+42,19,59,1,DS,"Other Flows - Northeast",123,271,7262
+42,19,59,3,DS,"Other Flows - Midwest",226,578,14808
+42,19,59,5,DS,"Other Flows - South",474,1119,26141
+42,19,59,7,DS,"Other Flows - West",108,197,4885
+42,19,57,9,FR,"Foreign - Other flows",72,82,458
+42,21,96,0,PA,"Cambria County Tot Mig-US & For",1570,2976,47919
+42,21,97,0,PA,"Cambria County Tot Mig-US",1552,2945,47359
+42,21,97,1,PA,"Cambria County Tot Mig-Same St",934,1736,26324
+42,21,97,3,PA,"Cambria County Tot Mig-Diff St",618,1209,21036
+42,21,98,0,PA,"Cambria County Tot Mig-Foreign",18,31,560
+42,21,42,21,PA,"Cambria County Non-Migrants",55818,121206,1883319
+42,21,42,111,PA,"Somerset County",194,359,4465
+42,21,42,13,PA,"Blair County",142,284,4543
+42,21,42,63,PA,"Indiana County",91,158,2094
+42,21,42,3,PA,"Allegheny County",87,149,2674
+42,21,42,129,PA,"Westmoreland County",67,123,1969
+42,21,42,33,PA,"Clearfield County",38,64,753
+42,21,42,9,PA,"Bedford County",28,58,661
+42,21,42,27,PA,"Centre County",23,28,403
+42,21,42,71,PA,"Lancaster County",23,50,758
+42,21,42,125,PA,"Washington County",15,35,523
+42,21,42,133,PA,"York County",15,30,525
+42,21,42,55,PA,"Franklin County",14,19,371
+42,21,51,810,VA,"Virginia Beach",14,27,300
+42,21,51,59,VA,"Fairfax County",13,19,723
+42,21,42,41,PA,"Cumberland County",11,24,282
+42,21,42,51,PA,"Fayette County",11,20,359
+42,21,37,133,NC,"Onslow County",10,23,286
+42,21,39,49,OH,"Franklin County",10,20,196
+42,21,42,43,PA,"Dauphin County",10,16,260
+42,21,42,61,PA,"Huntingdon County",10,23,242
+42,21,42,65,PA,"Jefferson County",10,12,285
+42,21,58,0,SS,"Other Flows - Same State",145,284,5157
+42,21,59,0,DS,"Other Flows - Diff State",571,1120,19530
+42,21,59,1,DS,"Other Flows - Northeast",91,179,3890
+42,21,59,3,DS,"Other Flows - Midwest",96,200,3837
+42,21,59,5,DS,"Other Flows - South",300,583,9162
+42,21,59,7,DS,"Other Flows - West",84,158,2640
+42,21,57,9,FR,"Foreign - Other flows",18,31,560
+42,23,96,0,PA,"Cameron County Tot Mig-US & For",92,165,2243
+42,23,97,0,PA,"Cameron County Tot Mig-US",92,165,2243
+42,23,97,1,PA,"Cameron County Tot Mig-Same St",58,104,1384
+42,23,97,3,PA,"Cameron County Tot Mig-Diff St",34,61,859
+42,23,42,23,PA,"Cameron County Non-Migrants",2269,4980,109383
+42,23,42,47,PA,"Elk County",12,21,228
+42,23,42,105,PA,"Potter County",12,23,299
+42,23,58,0,SS,"Other Flows - Same State",34,60,857
+42,23,59,0,DS,"Other Flows - Diff State",34,61,859
+42,25,96,0,PA,"Carbon County Tot Mig-US & For",1242,2382,42233
+42,25,97,0,PA,"Carbon County Tot Mig-US",1242,2382,42233
+42,25,97,1,PA,"Carbon County Tot Mig-Same St",917,1716,31104
+42,25,97,3,PA,"Carbon County Tot Mig-Diff St",325,666,11129
+42,25,42,25,PA,"Carbon County Non-Migrants",22988,48695,824966
+42,25,42,77,PA,"Lehigh County",207,371,5995
+42,25,42,89,PA,"Monroe County",125,276,3727
+42,25,42,95,PA,"Northampton County",125,237,4589
+42,25,42,79,PA,"Luzerne County",119,211,4785
+42,25,42,107,PA,"Schuylkill County",103,188,2680
+42,25,42,17,PA,"Bucks County",55,108,2329
+42,25,42,91,PA,"Montgomery County",45,69,1804
+42,25,42,101,PA,"Philadelphia County",40,76,1683
+42,25,36,47,NY,"Kings County",13,24,321
+42,25,34,41,NJ,"Warren County",12,34,552
+42,25,42,29,PA,"Chester County",11,18,743
+42,25,36,103,NY,"Suffolk County",10,24,439
+42,25,58,0,SS,"Other Flows - Same State",87,162,2769
+42,25,59,0,DS,"Other Flows - Diff State",290,584,9817
+42,25,59,1,DS,"Other Flows - Northeast",154,310,6101
+42,25,59,3,DS,"Other Flows - Midwest",18,33,549
+42,25,59,5,DS,"Other Flows - South",81,160,2219
+42,25,59,7,DS,"Other Flows - West",37,81,947
+42,27,96,0,PA,"Centre County Tot Mig-US & For",3647,5601,102623
+42,27,97,0,PA,"Centre County Tot Mig-US",3007,4882,99059
+42,27,97,1,PA,"Centre County Tot Mig-Same St",1606,2484,45362
+42,27,97,3,PA,"Centre County Tot Mig-Diff St",1401,2398,53697
+42,27,98,0,PA,"Centre County Tot Mig-Foreign",640,719,3564
+42,27,42,27,PA,"Centre County Non-Migrants",39886,85723,1817077
+42,27,42,33,PA,"Clearfield County",195,330,5047
+42,27,42,13,PA,"Blair County",112,165,2974
+42,27,42,35,PA,"Clinton County",106,211,3056
+42,27,42,3,PA,"Allegheny County",93,133,2773
+42,27,42,61,PA,"Huntingdon County",60,111,1480
+42,27,42,91,PA,"Montgomery County",54,68,1500
+42,27,42,87,PA,"Mifflin County",51,88,2075
+42,27,42,41,PA,"Cumberland County",49,70,1702
+42,27,42,133,PA,"York County",46,76,1245
+42,27,42,101,PA,"Philadelphia County",45,57,836
+42,27,42,29,PA,"Chester County",44,65,2053
+42,27,42,43,PA,"Dauphin County",44,80,1585
+42,27,42,71,PA,"Lancaster County",43,71,991
+42,27,42,81,PA,"Lycoming County",43,73,930
+42,27,42,17,PA,"Bucks County",42,60,946
+42,27,42,21,PA,"Cambria County",42,63,989
+42,27,42,11,PA,"Berks County",41,53,1023
+42,27,42,129,PA,"Westmoreland County",38,57,1024
+42,27,42,79,PA,"Luzerne County",33,42,757
+42,27,42,45,PA,"Delaware County",25,38,686
+42,27,51,59,VA,"Fairfax County",24,39,1342
+42,27,42,77,PA,"Lehigh County",22,29,701
+42,27,42,7,PA,"Beaver County",20,24,454
+42,27,42,69,PA,"Lackawanna County",20,24,394
+42,27,42,49,PA,"Erie County",19,37,809
+42,27,42,119,PA,"Union County",18,27,534
+42,27,17,31,IL,"Cook County",17,26,753
+42,27,42,97,PA,"Northumberland Count",17,24,527
+42,27,24,31,MD,"Montgomery County",16,25,461
+42,27,42,65,PA,"Jefferson County",16,23,353
+42,27,42,55,PA,"Franklin County",15,23,338
+42,27,42,75,PA,"Lebanon County",15,21,365
+42,27,6,1,CA,"Alameda County",14,18,376
+42,27,34,21,NJ,"Mercer County",14,17,386
+42,27,42,19,PA,"Butler County",14,18,330
+42,27,42,95,PA,"Northampton County",14,18,351
+42,27,6,37,CA,"Los Angeles County",13,19,389
+42,27,6,73,CA,"San Diego County",13,29,313
+42,27,10,3,DE,"New Castle County",13,16,424
+42,27,42,127,PA,"Wayne County",13,14,270
+42,27,25,17,MA,"Middlesex County",12,28,644
+42,27,42,1,PA,"Adams County",12,13,139
+42,27,42,9,PA,"Bedford County",12,16,280
+42,27,42,31,PA,"Clarion County",12,13,315
+42,27,42,89,PA,"Monroe County",12,15,263
+42,27,42,107,PA,"Schuylkill County",12,17,242
+42,27,57,5,FR,"Foreign - APO/FPO ZIPs",12,26,463
+42,27,4,13,AZ,"Maricopa County",11,17,429
+42,27,24,27,MD,"Howard County",11,16,612
+42,27,24,33,MD,"Prince George's Coun",11,15,582
+42,27,29,189,MO,"St Louis County",11,25,551
+42,27,36,61,NY,"New York County",11,14,612
+42,27,36,103,NY,"Suffolk County",11,19,491
+42,27,39,35,OH,"Cuyahoga County",11,12,354
+42,27,39,49,OH,"Franklin County",11,20,354
+42,27,42,111,PA,"Somerset County",11,17,391
+42,27,9,1,CT,"Fairfield County",10,17,713
+42,27,12,99,FL,"Palm Beach County",10,16,177
+42,27,34,27,NJ,"Morris County",10,17,413
+42,27,36,55,NY,"Monroe County",10,13,381
+42,27,42,37,PA,"Columbia County",10,15,273
+42,27,42,85,PA,"Mercer County",10,15,377
+42,27,42,109,PA,"Snyder County",10,16,227
+42,27,42,125,PA,"Washington County",10,17,416
+42,27,58,0,SS,"Other Flows - Same State",86,137,3343
+42,27,59,0,DS,"Other Flows - Diff State",1137,1980,42940
+42,27,59,1,DS,"Other Flows - Northeast",239,379,9865
+42,27,59,3,DS,"Other Flows - Midwest",236,436,8354
+42,27,59,5,DS,"Other Flows - South",477,855,17681
+42,27,59,7,DS,"Other Flows - West",185,310,7040
+42,27,57,9,FR,"Foreign - Other flows",628,693,3101
+42,29,96,0,PA,"Chester County Tot Mig-US & For",12485,24082,863365
+42,29,97,0,PA,"Chester County Tot Mig-US",12244,23712,853633
+42,29,97,1,PA,"Chester County Tot Mig-Same St",7341,13427,447911
+42,29,97,3,PA,"Chester County Tot Mig-Diff St",4903,10285,405721
+42,29,98,0,PA,"Chester County Tot Mig-Foreign",241,370,9732
+42,29,42,29,PA,"Chester County Non-Migrants",153044,349832,12306447
+42,29,42,45,PA,"Delaware County",2296,4609,162695
+42,29,42,91,PA,"Montgomery County",2252,4015,139697
+42,29,10,3,DE,"New Castle County",810,1795,73767
+42,29,42,101,PA,"Philadelphia County",808,1397,41695
+42,29,42,71,PA,"Lancaster County",411,780,15768
+42,29,42,17,PA,"Bucks County",351,628,34216
+42,29,42,11,PA,"Berks County",321,545,13585
+42,29,24,15,MD,"Cecil County",103,200,4674
+42,29,42,3,PA,"Allegheny County",101,171,6470
+42,29,34,7,NJ,"Camden County",100,178,6526
+42,29,34,5,NJ,"Burlington County",78,160,6658
+42,29,42,77,PA,"Lehigh County",74,136,3468
+42,29,42,133,PA,"York County",69,121,4460
+42,29,42,43,PA,"Dauphin County",67,104,2759
+42,29,34,15,NJ,"Gloucester County",63,134,4599
+42,29,24,5,MD,"Baltimore County",60,114,3856
+42,29,42,79,PA,"Luzerne County",60,86,1509
+42,29,51,59,VA,"Fairfax County",58,133,6142
+42,29,24,31,MD,"Montgomery County",52,106,3888
+42,29,9,1,CT,"Fairfield County",51,100,6019
+42,29,42,41,PA,"Cumberland County",51,99,2582
+42,29,34,23,NJ,"Middlesex County",47,83,3635
+42,29,42,95,PA,"Northampton County",47,75,2455
+42,29,17,31,IL,"Cook County",45,117,7697
+42,29,25,17,MA,"Middlesex County",43,92,4802
+42,29,42,27,PA,"Centre County",42,57,1101
+42,29,34,9,NJ,"Cape May County",41,67,1688
+42,29,4,13,AZ,"Maricopa County",40,91,2849
+42,29,36,61,NY,"New York County",40,54,4318
+42,29,34,1,NJ,"Atlantic County",39,60,1501
+42,29,6,37,CA,"Los Angeles County",38,58,2079
+42,29,34,25,NJ,"Monmouth County",38,78,2920
+42,29,34,27,NJ,"Morris County",38,95,4877
+42,29,24,3,MD,"Anne Arundel County",34,69,2283
+42,29,25,27,MA,"Worcester County",34,97,5823
+42,29,17,43,IL,"Du Page County",32,108,5579
+42,29,9,9,CT,"New Haven County",31,72,2977
+42,29,12,11,FL,"Broward County",31,62,2663
+42,29,34,3,NJ,"Bergen County",31,69,2141
+42,29,9,3,CT,"Hartford County",30,64,3810
+42,29,34,21,NJ,"Mercer County",30,49,2203
+42,29,36,55,NY,"Monroe County",30,63,3077
+42,29,36,103,NY,"Suffolk County",30,65,2172
+42,29,34,35,NJ,"Somerset County",29,54,2531
+42,29,48,113,TX,"Dallas County",29,63,2153
+42,29,12,99,FL,"Palm Beach County",28,60,2704
+42,29,12,103,FL,"Pinellas County",28,38,1196
+42,29,39,49,OH,"Franklin County",28,46,1492
+42,29,34,39,NJ,"Union County",27,54,2053
+42,29,36,119,NY,"Westchester County",27,52,2497
+42,29,6,73,CA,"San Diego County",26,51,1928
+42,29,34,29,NJ,"Ocean County",26,57,1983
+42,29,42,89,PA,"Monroe County",26,43,693
+42,29,42,107,PA,"Schuylkill County",26,35,834
+42,29,25,21,MA,"Norfolk County",25,53,2446
+42,29,42,69,PA,"Lackawanna County",25,43,1010
+42,29,24,27,MD,"Howard County",24,47,2278
+42,29,53,33,WA,"King County",24,58,4408
+42,29,6,59,CA,"Orange County",23,48,2619
+42,29,12,57,FL,"Hillsborough County",23,44,1766
+42,29,24,25,MD,"Harford County",23,59,2082
+42,29,39,35,OH,"Cuyahoga County",23,63,3778
+42,29,10,5,DE,"Sussex County",22,38,874
+42,29,13,121,GA,"Fulton County",22,59,4574
+42,29,36,29,NY,"Erie County",22,35,1426
+42,29,37,119,NC,"Mecklenburg County",22,54,2209
+42,29,42,13,PA,"Blair County",22,36,858
+42,29,51,13,VA,"Arlington County",22,32,1503
+42,29,36,59,NY,"Nassau County",21,37,1417
+42,29,37,183,NC,"Wake County",21,48,2091
+42,29,42,129,PA,"Westmoreland County",21,37,1489
+42,29,57,5,FR,"Foreign - APO/FPO ZIPs",21,37,563
+42,29,6,1,CA,"Alameda County",20,42,1951
+42,29,42,55,PA,"Franklin County",20,27,592
+42,29,48,201,TX,"Harris County",20,46,2201
+42,29,34,19,NJ,"Hunterdon County",19,48,2766
+42,29,36,47,NY,"Kings County",19,29,567
+42,29,24,510,MD,Baltimore,18,27,1290
+42,29,42,75,PA,"Lebanon County",18,30,1058
+42,29,51,810,VA,"Virginia Beach",18,42,1340
+42,29,24,33,MD,"Prince George's Coun",17,25,593
+42,29,26,125,MI,"Oakland County",17,44,1830
+42,29,34,33,NJ,"Salem County",17,32,672
+42,29,42,81,PA,"Lycoming County",17,26,469
+42,29,48,439,TX,"Tarrant County",17,53,2085
+42,29,12,31,FL,"Duval County",16,40,3892
+42,29,12,95,FL,"Orange County",16,26,986
+42,29,17,97,IL,"Lake County",16,47,3123
+42,29,25,25,MA,"Suffolk County",16,25,838
+42,29,34,17,NJ,"Hudson County",16,22,613
+42,29,36,67,NY,"Onondaga County",16,28,1187
+42,29,36,81,NY,"Queens County",16,41,736
+42,29,39,61,OH,"Hamilton County",16,28,1580
+42,29,51,510,VA,Alexandria,16,22,1051
+42,29,12,127,FL,"Volusia County",15,29,421
+42,29,13,67,GA,"Cobb County",15,39,1318
+42,29,13,89,GA,"De Kalb County",15,31,735
+42,29,25,9,MA,"Essex County",15,36,1622
+42,29,29,189,MO,"St Louis County",15,34,1676
+42,29,51,87,VA,"Henrico County",15,27,986
+42,29,6,75,CA,"San Francisco County",14,20,527
+42,29,11,1,DC,"District Of Columbia",14,17,1184
+42,29,12,25,FL,"Dade County",14,29,1515
+42,29,20,91,KS,"Johnson County",14,42,1791
+42,29,27,53,MN,"Hennepin County",14,29,1112
+42,29,34,11,NJ,"Cumberland County",14,29,565
+42,29,34,31,NJ,"Passaic County",14,35,909
+42,29,8,13,CO,"Boulder County",13,27,1191
+42,29,8,41,CO,"El Paso County",13,30,820
+42,29,39,153,OH,"Summit County",13,35,1540
+42,29,42,7,PA,"Beaver County",13,26,697
+42,29,42,37,PA,"Columbia County",13,27,536
+42,29,54,39,WV,"Kanawha County",13,28,565
+42,29,12,71,FL,"Lee County",12,21,1173
+42,29,17,89,IL,"Kane County",12,36,2059
+42,29,26,163,MI,"Wayne County",12,28,598
+42,29,33,11,NH,"Hillsborough County",12,31,696
+42,29,34,13,NJ,"Essex County",12,22,682
+42,29,42,1,PA,"Adams County",12,16,319
+42,29,42,97,PA,"Northumberland Count",12,15,333
+42,29,45,19,SC,"Charleston County",12,23,562
+42,29,47,37,TN,"Davidson County",12,31,857
+42,29,47,157,TN,"Shelby County",12,33,1244
+42,29,51,107,VA,"Loudoun County",12,24,776
+42,29,36,71,NY,"Orange County",11,25,792
+42,29,36,91,NY,"Saratoga County",11,19,636
+42,29,42,25,PA,"Carbon County",11,17,415
+42,29,42,49,PA,"Erie County",11,16,305
+42,29,6,13,CA,"Contra Costa County",10,21,1689
+42,29,6,71,CA,"San Bernardino Count",10,25,619
+42,29,10,1,DE,"Kent County",10,11,247
+42,29,13,135,GA,"Gwinnett County",10,30,912
+42,29,18,97,IN,"Marion County",10,19,773
+42,29,23,5,ME,"Cumberland County",10,20,449
+42,29,37,81,NC,"Guilford County",10,19,521
+42,29,42,19,PA,"Butler County",10,18,596
+42,29,45,45,SC,"Greenville County",10,24,1103
+42,29,48,453,TX,"Travis County",10,23,998
+42,29,58,0,SS,"Other Flows - Same State",134,192,5247
+42,29,59,0,DS,"Other Flows - Diff State",1455,3033,103327
+42,29,59,1,DS,"Other Flows - Northeast",256,487,18115
+42,29,59,3,DS,"Other Flows - Midwest",296,659,23600
+42,29,59,5,DS,"Other Flows - South",661,1389,46371
+42,29,59,7,DS,"Other Flows - West",242,498,15241
+42,29,57,9,FR,"Foreign - Other flows",220,333,9169
+42,31,96,0,PA,"Clarion County Tot Mig-US & For",641,1248,17068
+42,31,97,0,PA,"Clarion County Tot Mig-US",630,1233,17016
+42,31,97,1,PA,"Clarion County Tot Mig-Same St",452,856,12098
+42,31,97,3,PA,"Clarion County Tot Mig-Diff St",178,377,4918
+42,31,98,0,PA,"Clarion County Tot Mig-Foreign",11,15,52
+42,31,42,31,PA,"Clarion County Non-Migrants",13443,30003,471779
+42,31,42,121,PA,"Venango County",77,147,1866
+42,31,42,5,PA,"Armstrong County",68,153,1559
+42,31,42,65,PA,"Jefferson County",59,100,1377
+42,31,42,3,PA,"Allegheny County",46,84,1654
+42,31,42,19,PA,"Butler County",36,66,763
+42,31,42,53,PA,"Forest County",22,39,522
+42,31,42,49,PA,"Erie County",15,25,812
+42,31,42,129,PA,"Westmoreland County",15,25,442
+42,31,42,33,PA,"Clearfield County",14,29,336
+42,31,42,39,PA,"Crawford County",11,21,230
+42,31,58,0,SS,"Other Flows - Same State",89,167,2537
+42,31,59,0,DS,"Other Flows - Diff State",178,377,4918
+42,31,59,1,DS,"Other Flows - Northeast",32,62,1055
+42,31,59,3,DS,"Other Flows - Midwest",44,97,1210
+42,31,59,5,DS,"Other Flows - South",85,177,2222
+42,31,59,7,DS,"Other Flows - West",17,41,432
+42,31,57,9,FR,"Foreign - Other flows",11,15,52
+42,33,96,0,PA,"Clearfield Coun Tot Mig-US & For",1194,2435,35202
+42,33,97,0,PA,"Clearfield Coun Tot Mig-US",1194,2435,35202
+42,33,97,1,PA,"Clearfield Coun Tot Mig-Same St",861,1715,24027
+42,33,97,3,PA,"Clearfield Coun Tot Mig-Diff St",333,720,11175
+42,33,42,33,PA,"Clearfield Coun Non-Migrants",28306,63039,963316
+42,33,42,65,PA,"Jefferson County",211,444,4941
+42,33,42,27,PA,"Centre County",208,442,5270
+42,33,42,13,PA,"Blair County",47,90,1124
+42,33,42,47,PA,"Elk County",44,77,1172
+42,33,42,3,PA,"Allegheny County",41,63,1057
+42,33,42,21,PA,"Cambria County",41,68,1098
+42,33,42,63,PA,"Indiana County",25,50,513
+42,33,42,31,PA,"Clarion County",16,30,506
+42,33,42,49,PA,"Erie County",13,34,480
+42,33,42,71,PA,"Lancaster County",13,31,669
+42,33,42,35,PA,"Clinton County",12,19,303
+42,33,42,129,PA,"Westmoreland County",12,25,411
+42,33,42,133,PA,"York County",11,20,350
+42,33,42,5,PA,"Armstrong County",10,15,344
+42,33,42,83,PA,"Mckean County",10,20,253
+42,33,58,0,SS,"Other Flows - Same State",147,287,5537
+42,33,59,0,DS,"Other Flows - Diff State",333,720,11175
+42,33,59,1,DS,"Other Flows - Northeast",66,133,2344
+42,33,59,3,DS,"Other Flows - Midwest",73,176,2860
+42,33,59,5,DS,"Other Flows - South",151,334,4724
+42,33,59,7,DS,"Other Flows - West",43,77,1247
+42,35,96,0,PA,"Clinton County Tot Mig-US & For",572,1036,16467
+42,35,97,0,PA,"Clinton County Tot Mig-US",561,1021,16353
+42,35,97,1,PA,"Clinton County Tot Mig-Same St",419,761,10811
+42,35,97,3,PA,"Clinton County Tot Mig-Diff St",142,260,5542
+42,35,98,0,PA,"Clinton County Tot Mig-Foreign",11,15,114
+42,35,42,35,PA,"Clinton County Non-Migrants",12954,28491,439299
+42,35,42,81,PA,"Lycoming County",165,323,3878
+42,35,42,27,PA,"Centre County",104,185,2945
+42,35,58,0,SS,"Other Flows - Same State",150,253,3988
+42,35,59,0,DS,"Other Flows - Diff State",142,260,5542
+42,35,59,1,DS,"Other Flows - Northeast",37,62,2036
+42,35,59,3,DS,"Other Flows - Midwest",23,38,617
+42,35,59,5,DS,"Other Flows - South",63,126,2314
+42,35,59,7,DS,"Other Flows - West",19,34,575
+42,35,57,9,FR,"Foreign - Other flows",11,15,114
+42,37,96,0,PA,"Columbia County Tot Mig-US & For",1112,2129,36656
+42,37,97,0,PA,"Columbia County Tot Mig-US",1112,2129,36656
+42,37,97,1,PA,"Columbia County Tot Mig-Same St",781,1461,24434
+42,37,97,3,PA,"Columbia County Tot Mig-Diff St",331,668,12222
+42,37,42,37,PA,"Columbia County Non-Migrants",24221,52629,917243
+42,37,42,79,PA,"Luzerne County",223,386,6863
+42,37,42,97,PA,"Northumberland Count",118,253,3204
+42,37,42,93,PA,"Montour County",81,138,1712
+42,37,42,81,PA,"Lycoming County",60,113,1478
+42,37,42,107,PA,"Schuylkill County",28,74,896
+42,37,42,101,PA,"Philadelphia County",17,28,823
+42,37,42,77,PA,"Lehigh County",16,22,499
+42,37,42,109,PA,"Snyder County",16,32,651
+42,37,42,119,PA,"Union County",16,26,389
+42,37,42,133,PA,"York County",14,27,565
+42,37,42,91,PA,"Montgomery County",13,32,363
+42,37,42,17,PA,"Bucks County",12,16,1443
+42,37,42,43,PA,"Dauphin County",12,20,310
+42,37,42,29,PA,"Chester County",11,22,837
+42,37,42,71,PA,"Lancaster County",11,19,415
+42,37,42,95,PA,"Northampton County",11,25,465
+42,37,58,0,SS,"Other Flows - Same State",122,228,3523
+42,37,59,0,DS,"Other Flows - Diff State",331,668,12222
+42,37,59,1,DS,"Other Flows - Northeast",109,200,4408
+42,37,59,3,DS,"Other Flows - Midwest",43,92,1646
+42,37,59,5,DS,"Other Flows - South",133,289,5149
+42,37,59,7,DS,"Other Flows - West",46,87,1019
+42,39,96,0,PA,"Crawford County Tot Mig-US & For",1415,2702,39102
+42,39,97,0,PA,"Crawford County Tot Mig-US",1395,2671,38905
+42,39,97,1,PA,"Crawford County Tot Mig-Same St",869,1651,23911
+42,39,97,3,PA,"Crawford County Tot Mig-Diff St",526,1020,14994
+42,39,98,0,PA,"Crawford County Tot Mig-Foreign",20,31,197
+42,39,42,39,PA,"Crawford County Non-Migrants",31529,71752,1158851
+42,39,42,49,PA,"Erie County",288,607,8089
+42,39,42,3,PA,"Allegheny County",129,231,4220
+42,39,42,85,PA,"Mercer County",113,201,3075
+42,39,42,121,PA,"Venango County",110,214,2853
+42,39,42,123,PA,"Warren County",34,54,892
+42,39,39,7,OH,"Ashtabula County",27,57,708
+42,39,42,19,PA,"Butler County",21,44,773
+42,39,39,35,OH,"Cuyahoga County",20,37,961
+42,39,42,129,PA,"Westmoreland County",19,39,597
+42,39,42,73,PA,"Lawrence County",16,30,346
+42,39,42,7,PA,"Beaver County",11,15,298
+42,39,42,31,PA,"Clarion County",11,24,388
+42,39,42,83,PA,"Mckean County",11,18,204
+42,39,39,155,OH,"Trumbull County",10,18,349
+42,39,58,0,SS,"Other Flows - Same State",106,174,2176
+42,39,59,0,DS,"Other Flows - Diff State",469,908,12977
+42,39,59,1,DS,"Other Flows - Northeast",79,131,2146
+42,39,59,3,DS,"Other Flows - Midwest",100,207,2975
+42,39,59,5,DS,"Other Flows - South",220,438,5990
+42,39,59,7,DS,"Other Flows - West",70,132,1866
+42,39,57,9,FR,"Foreign - Other flows",20,31,197
+42,41,96,0,PA,"Cumberland Coun Tot Mig-US & For",5696,10698,226605
+42,41,97,0,PA,"Cumberland Coun Tot Mig-US",5575,10366,221275
+42,41,97,1,PA,"Cumberland Coun Tot Mig-Same St",3800,6448,131427
+42,41,97,3,PA,"Cumberland Coun Tot Mig-Diff St",1775,3918,89849
+42,41,98,0,PA,"Cumberland Coun Tot Mig-Foreign",121,332,5329
+42,41,42,41,PA,"Cumberland Coun Non-Migrants",82102,175425,4189909
+42,41,42,43,PA,"Dauphin County",1265,2076,44667
+42,41,42,133,PA,"York County",664,1164,21845
+42,41,42,99,PA,"Perry County",345,601,10308
+42,41,42,55,PA,"Franklin County",299,531,8529
+42,41,42,1,PA,"Adams County",150,267,4878
+42,41,42,71,PA,"Lancaster County",108,178,4023
+42,41,57,5,FR,"Foreign - APO/FPO ZIPs",95,289,4853
+42,41,42,3,PA,"Allegheny County",84,135,3636
+42,41,42,75,PA,"Lebanon County",55,96,1800
+42,41,42,27,PA,"Centre County",48,85,1899
+42,41,42,17,PA,"Bucks County",45,87,2877
+42,41,42,79,PA,"Luzerne County",44,62,1273
+42,41,42,91,PA,"Montgomery County",44,86,2304
+42,41,42,29,PA,"Chester County",40,74,1907
+42,41,51,59,VA,"Fairfax County",38,99,2482
+42,41,42,11,PA,"Berks County",35,57,1753
+42,41,42,101,PA,"Philadelphia County",34,56,1243
+42,41,6,73,CA,"San Diego County",31,72,1169
+42,41,42,21,PA,"Cambria County",31,54,846
+42,41,42,81,PA,"Lycoming County",31,42,686
+42,41,42,129,PA,"Westmoreland County",30,55,1243
+42,41,42,13,PA,"Blair County",29,48,925
+42,41,42,45,PA,"Delaware County",27,42,1066
+42,41,37,51,NC,"Cumberland County",26,96,1543
+42,41,15,3,HI,"Honolulu County",25,79,1618
+42,41,34,5,NJ,"Burlington County",23,45,1119
+42,41,42,67,PA,"Juniata County",23,31,502
+42,41,42,107,PA,"Schuylkill County",23,32,862
+42,41,24,5,MD,"Baltimore County",22,39,916
+42,41,42,97,PA,"Northumberland Count",22,38,803
+42,41,24,3,MD,"Anne Arundel County",21,40,1184
+42,41,42,77,PA,"Lehigh County",21,40,1093
+42,41,42,61,PA,"Huntingdon County",19,39,585
+42,41,42,87,PA,"Mifflin County",19,30,511
+42,41,51,810,VA,"Virginia Beach",19,50,737
+42,41,34,7,NJ,"Camden County",18,35,800
+42,41,48,27,TX,"Bell County",18,69,1112
+42,41,42,95,PA,"Northampton County",17,30,803
+42,41,24,31,MD,"Montgomery County",16,23,814
+42,41,42,69,PA,"Lackawanna County",16,25,456
+42,41,42,109,PA,"Snyder County",16,27,473
+42,41,12,103,FL,"Pinellas County",15,35,765
+42,41,51,153,VA,"Prince William Count",15,43,958
+42,41,11,1,DC,"District Of Columbia",14,23,534
+42,41,42,9,PA,"Bedford County",14,23,404
+42,41,21,47,KY,"Christian County",13,48,758
+42,41,24,43,MD,"Washington County",13,20,318
+42,41,34,23,NJ,"Middlesex County",13,38,871
+42,41,34,27,NJ,"Morris County",12,18,603
+42,41,36,29,NY,"Erie County",12,20,391
+42,41,37,133,NC,"Onslow County",12,33,456
+42,41,42,63,PA,"Indiana County",12,17,261
+42,41,42,119,PA,"Union County",12,20,1278
+42,41,4,13,AZ,"Maricopa County",11,21,498
+42,41,24,21,MD,"Frederick County",11,25,412
+42,41,24,27,MD,"Howard County",11,23,740
+42,41,24,33,MD,"Prince George's Coun",11,20,817
+42,41,32,3,NV,"Clark County",11,17,368
+42,41,42,19,PA,"Butler County",11,22,660
+42,41,42,49,PA,"Erie County",11,19,261
+42,41,42,89,PA,"Monroe County",11,17,209
+42,41,6,37,CA,"Los Angeles County",10,19,464
+42,41,12,31,FL,"Duval County",10,28,367
+42,41,17,31,IL,"Cook County",10,17,464
+42,41,27,53,MN,"Hennepin County",10,28,656
+42,41,36,61,NY,"New York County",10,11,552
+42,41,36,71,NY,"Orange County",10,23,603
+42,41,42,15,PA,"Bradford County",10,22,172
+42,41,58,0,SS,"Other Flows - Same State",135,220,4388
+42,41,59,0,DS,"Other Flows - Diff State",1284,2761,64759
+42,41,59,1,DS,"Other Flows - Northeast",246,491,12396
+42,41,59,3,DS,"Other Flows - Midwest",253,568,14357
+42,41,59,5,DS,"Other Flows - South",619,1324,28285
+42,41,59,7,DS,"Other Flows - West",166,378,9721
+42,41,57,9,FR,"Foreign - Other flows",26,43,477
+42,43,96,0,PA,"Dauphin County Tot Mig-US & For",5904,10091,203169
+42,43,97,0,PA,"Dauphin County Tot Mig-US",5813,9948,201862
+42,43,97,1,PA,"Dauphin County Tot Mig-Same St",4045,6581,132233
+42,43,97,3,PA,"Dauphin County Tot Mig-Diff St",1768,3367,69630
+42,43,98,0,PA,"Dauphin County Tot Mig-Foreign",91,143,1307
+42,43,42,43,PA,"Dauphin County Non-Migrants",102709,212731,4575075
+42,43,42,41,PA,"Cumberland County",1058,1600,36313
+42,43,42,75,PA,"Lebanon County",458,796,14940
+42,43,42,71,PA,"Lancaster County",413,725,12685
+42,43,42,133,PA,"York County",367,621,11615
+42,43,42,99,PA,"Perry County",226,384,6290
+42,43,42,107,PA,"Schuylkill County",151,263,4182
+42,43,42,3,PA,"Allegheny County",95,135,3681
+42,43,42,97,PA,"Northumberland Count",80,129,2013
+42,43,42,101,PA,"Philadelphia County",74,136,2085
+42,43,42,11,PA,"Berks County",73,105,2215
+42,43,42,27,PA,"Centre County",73,105,1775
+42,43,42,91,PA,"Montgomery County",66,111,2715
+42,43,42,79,PA,"Luzerne County",60,93,2096
+42,43,42,17,PA,"Bucks County",58,104,2305
+42,43,42,29,PA,"Chester County",54,103,2348
+42,43,42,55,PA,"Franklin County",53,84,1925
+42,43,42,81,PA,"Lycoming County",53,94,1580
+42,43,42,1,PA,"Adams County",52,73,1933
+42,43,42,69,PA,"Lackawanna County",50,69,1833
+42,43,42,77,PA,"Lehigh County",42,71,1610
+42,43,24,5,MD,"Baltimore County",38,74,1504
+42,43,57,5,FR,"Foreign - APO/FPO ZIPs",36,72,816
+42,43,42,37,PA,"Columbia County",30,51,725
+42,43,42,45,PA,"Delaware County",30,44,1501
+42,43,42,21,PA,"Cambria County",28,46,962
+42,43,42,67,PA,"Juniata County",28,50,781
+42,43,42,95,PA,"Northampton County",27,47,883
+42,43,42,13,PA,"Blair County",26,41,615
+42,43,36,47,NY,"Kings County",23,45,524
+42,43,36,81,NY,"Queens County",23,44,555
+42,43,42,61,PA,"Huntingdon County",23,31,444
+42,43,42,87,PA,"Mifflin County",22,31,509
+42,43,12,103,FL,"Pinellas County",21,35,723
+42,43,42,129,PA,"Westmoreland County",21,29,479
+42,43,6,37,CA,"Los Angeles County",20,38,1186
+42,43,10,3,DE,"New Castle County",20,27,883
+42,43,24,31,MD,"Montgomery County",20,37,1076
+42,43,42,109,PA,"Snyder County",20,31,474
+42,43,42,119,PA,"Union County",20,38,665
+42,43,36,61,NY,"New York County",19,35,806
+42,43,51,59,VA,"Fairfax County",19,37,1188
+42,43,4,13,AZ,"Maricopa County",18,28,422
+42,43,17,31,IL,"Cook County",18,34,778
+42,43,24,510,MD,Baltimore,18,36,649
+42,43,34,5,NJ,"Burlington County",18,45,593
+42,43,42,7,PA,"Beaver County",17,29,440
+42,43,37,183,NC,"Wake County",16,33,744
+42,43,42,49,PA,"Erie County",16,25,578
+42,43,6,73,CA,"San Diego County",15,23,332
+42,43,34,13,NJ,"Essex County",15,26,511
+42,43,42,89,PA,"Monroe County",15,28,837
+42,43,51,810,VA,"Virginia Beach",15,28,481
+42,43,34,3,NJ,"Bergen County",14,21,720
+42,43,12,11,FL,"Broward County",13,20,458
+42,43,12,57,FL,"Hillsborough County",12,17,265
+42,43,12,95,FL,"Orange County",12,22,291
+42,43,39,35,OH,"Cuyahoga County",12,26,373
+42,43,42,125,PA,"Washington County",12,19,433
+42,43,8,41,CO,"El Paso County",11,23,575
+42,43,25,17,MA,"Middlesex County",11,17,731
+42,43,34,25,NJ,"Monmouth County",11,22,406
+42,43,34,39,NJ,"Union County",11,26,578
+42,43,36,29,NY,"Erie County",11,19,285
+42,43,37,51,NC,"Cumberland County",11,24,257
+42,43,37,119,NC,"Mecklenburg County",11,25,480
+42,43,42,33,PA,"Clearfield County",11,13,384
+42,43,42,35,PA,"Clinton County",11,16,390
+42,43,15,3,HI,"Honolulu County",10,24,427
+42,43,34,23,NJ,"Middlesex County",10,17,533
+42,43,36,5,NY,"Bronx County",10,19,216
+42,43,36,55,NY,"Monroe County",10,25,581
+42,43,58,0,SS,"Other Flows - Same State",132,211,4994
+42,43,59,0,DS,"Other Flows - Diff State",1252,2395,49500
+42,43,59,1,DS,"Other Flows - Northeast",288,547,12809
+42,43,59,3,DS,"Other Flows - Midwest",221,455,10487
+42,43,59,5,DS,"Other Flows - South",594,1107,20509
+42,43,59,7,DS,"Other Flows - West",149,286,5694
+42,43,57,9,FR,"Foreign - Other flows",55,71,492
+42,45,96,0,PA,"Delaware County Tot Mig-US & For",11016,19341,581138
+42,45,97,0,PA,"Delaware County Tot Mig-US",10701,18894,576055
+42,45,97,1,PA,"Delaware County Tot Mig-Same St",6803,11875,362613
+42,45,97,3,PA,"Delaware County Tot Mig-Diff St",3898,7019,213442
+42,45,98,0,PA,"Delaware County Tot Mig-Foreign",315,447,5083
+42,45,42,45,PA,"Delaware County Non-Migrants",198643,425616,11135376
+42,45,42,101,PA,"Philadelphia County",3526,6658,125805
+42,45,42,91,PA,"Montgomery County",1213,1960,114100
+42,45,42,29,PA,"Chester County",1089,1778,80818
+42,45,10,3,DE,"New Castle County",555,1013,26604
+42,45,42,17,PA,"Bucks County",305,464,15342
+42,45,34,7,NJ,"Camden County",179,300,9495
+42,45,34,5,NJ,"Burlington County",113,190,5962
+42,45,34,15,NJ,"Gloucester County",98,194,4859
+42,45,42,3,PA,"Allegheny County",90,149,4239
+42,45,42,71,PA,"Lancaster County",78,116,3485
+42,45,34,9,NJ,"Cape May County",66,99,2216
+42,45,36,61,NY,"New York County",66,96,5199
+42,45,34,1,NJ,"Atlantic County",64,100,1943
+42,45,42,11,PA,"Berks County",62,98,3439
+42,45,42,77,PA,"Lehigh County",53,84,1962
+42,45,6,37,CA,"Los Angeles County",46,73,2345
+42,45,25,17,MA,"Middlesex County",44,74,2837
+42,45,42,79,PA,"Luzerne County",43,60,1571
+42,45,24,31,MD,"Montgomery County",42,76,2296
+42,45,17,31,IL,"Cook County",39,59,2736
+42,45,24,5,MD,"Baltimore County",39,69,4022
+42,45,34,23,NJ,"Middlesex County",39,78,3141
+42,45,6,73,CA,"San Diego County",36,60,1747
+42,45,42,43,PA,"Dauphin County",35,42,1275
+42,45,12,11,FL,"Broward County",33,60,1711
+42,45,34,3,NJ,"Bergen County",33,63,2132
+42,45,4,13,AZ,"Maricopa County",31,47,1306
+42,45,36,81,NY,"Queens County",31,75,874
+42,45,12,103,FL,"Pinellas County",30,50,813
+42,45,57,5,FR,"Foreign - APO/FPO ZIPs",30,55,858
+42,45,34,21,NJ,"Mercer County",29,52,1939
+42,45,9,1,CT,"Fairfield County",27,57,2144
+42,45,12,99,FL,"Palm Beach County",27,42,3643
+42,45,36,47,NY,"Kings County",27,67,912
+42,45,42,69,PA,"Lackawanna County",27,39,1180
+42,45,34,27,NJ,"Morris County",26,54,2919
+42,45,51,59,VA,"Fairfax County",26,50,2725
+42,45,34,29,NJ,"Ocean County",25,31,1049
+42,45,39,49,OH,"Franklin County",25,36,1093
+42,45,42,133,PA,"York County",25,49,1188
+42,45,48,201,TX,"Harris County",25,49,2916
+42,45,42,41,PA,"Cumberland County",24,33,782
+42,45,12,95,FL,"Orange County",23,34,771
+42,45,34,25,NJ,"Monmouth County",23,40,970
+42,45,42,27,PA,"Centre County",23,31,432
+42,45,42,95,PA,"Northampton County",23,31,892
+42,45,53,33,WA,"King County",23,45,1556
+42,45,10,5,DE,"Sussex County",22,36,1009
+42,45,34,33,NJ,"Salem County",21,37,786
+42,45,34,35,NJ,"Somerset County",21,31,1132
+42,45,36,103,NY,"Suffolk County",21,34,1353
+42,45,39,35,OH,"Cuyahoga County",21,31,2020
+42,45,6,59,CA,"Orange County",20,43,1084
+42,45,6,85,CA,"Santa Clara County",20,46,1607
+42,45,11,1,DC,"District Of Columbia",20,31,617
+42,45,24,33,MD,"Prince George's Coun",20,38,908
+42,45,48,113,TX,"Dallas County",20,33,1368
+42,45,9,9,CT,"New Haven County",19,36,1599
+42,45,24,15,MD,"Cecil County",19,34,664
+42,45,51,810,VA,"Virginia Beach",19,35,553
+42,45,12,57,FL,"Hillsborough County",18,30,774
+42,45,34,17,NJ,"Hudson County",18,30,723
+42,45,37,133,NC,"Onslow County",18,37,339
+42,45,51,13,VA,"Arlington County",18,24,675
+42,45,9,3,CT,"Hartford County",17,35,2353
+42,45,13,121,GA,"Fulton County",17,37,2344
+42,45,25,25,MA,"Suffolk County",17,21,896
+42,45,36,59,NY,"Nassau County",17,32,781
+42,45,12,25,FL,"Dade County",16,30,866
+42,45,15,3,HI,"Honolulu County",16,29,456
+42,45,36,119,NY,"Westchester County",16,28,1301
+42,45,24,25,MD,"Harford County",15,28,775
+42,45,34,11,NJ,"Cumberland County",15,22,523
+42,45,34,13,NJ,"Essex County",15,28,580
+42,45,36,29,NY,"Erie County",15,26,1002
+42,45,24,27,MD,"Howard County",14,29,974
+42,45,25,21,MA,"Norfolk County",14,16,601
+42,45,26,125,MI,"Oakland County",14,28,802
+42,45,37,119,NC,"Mecklenburg County",14,27,496
+42,45,42,49,PA,"Erie County",14,22,358
+42,45,42,75,PA,"Lebanon County",14,33,427
+42,45,4,19,AZ,"Pima County",13,24,355
+42,45,10,1,DE,"Kent County",13,25,327
+42,45,12,31,FL,"Duval County",13,25,696
+42,45,24,510,MD,Baltimore,13,18,619
+42,45,36,67,NY,"Onondaga County",13,20,406
+42,45,36,87,NY,"Rockland County",13,18,477
+42,45,6,75,CA,"San Francisco County",12,15,573
+42,45,12,71,FL,"Lee County",12,17,454
+42,45,17,43,IL,"Du Page County",12,27,1222
+42,45,24,3,MD,"Anne Arundel County",12,23,838
+42,45,34,31,NJ,"Passaic County",12,23,888
+42,45,34,39,NJ,"Union County",12,18,5918
+42,45,36,5,NY,"Bronx County",12,18,304
+42,45,47,157,TN,"Shelby County",12,19,845
+42,45,51,510,VA,Alexandria,12,22,887
+42,45,6,1,CA,"Alameda County",11,27,525
+42,45,12,9,FL,"Brevard County",11,20,355
+42,45,42,89,PA,"Monroe County",11,15,353
+42,45,42,129,PA,"Westmoreland County",11,14,251
+42,45,48,439,TX,"Tarrant County",11,22,289
+42,45,12,127,FL,"Volusia County",10,20,217
+42,45,20,91,KS,"Johnson County",10,21,822
+42,45,25,27,MA,"Worcester County",10,22,378
+42,45,32,3,NV,"Clark County",10,14,292
+42,45,39,61,OH,"Hamilton County",10,22,555
+42,45,39,113,OH,"Montgomery County",10,18,219
+42,45,42,13,PA,"Blair County",10,12,255
+42,45,49,35,UT,"Salt Lake County",10,16,534
+42,45,58,0,SS,"Other Flows - Same State",127,187,4458
+42,45,59,0,DS,"Other Flows - Diff State",1152,2170,57613
+42,45,59,1,DS,"Other Flows - Northeast",210,338,9551
+42,45,59,3,DS,"Other Flows - Midwest",231,444,13990
+42,45,59,5,DS,"Other Flows - South",559,1076,25831
+42,45,59,7,DS,"Other Flows - West",152,312,8240
+42,45,57,9,FR,"Foreign - Other flows",285,392,4225
+42,47,96,0,PA,"Elk County Tot Mig-US & For",302,590,9467
+42,47,97,0,PA,"Elk County Tot Mig-US",302,590,9467
+42,47,97,1,PA,"Elk County Tot Mig-Same St",193,358,5520
+42,47,97,3,PA,"Elk County Tot Mig-Diff St",109,232,3946
+42,47,42,47,PA,"Elk County Non-Migrants",13714,30513,587446
+42,47,42,33,PA,"Clearfield County",42,72,918
+42,47,42,83,PA,"Mckean County",32,52,705
+42,47,42,65,PA,"Jefferson County",30,55,811
+42,47,42,3,PA,"Allegheny County",16,29,760
+42,47,58,0,SS,"Other Flows - Same State",73,150,2327
+42,47,59,0,DS,"Other Flows - Diff State",109,232,3946
+42,47,59,1,DS,"Other Flows - Northeast",20,42,864
+42,47,59,3,DS,"Other Flows - Midwest",20,48,912
+42,47,59,5,DS,"Other Flows - South",52,110,1599
+42,47,59,7,DS,"Other Flows - West",17,32,572
+42,49,96,0,PA,"Erie County Tot Mig-US & For",2985,5578,96672
+42,49,97,0,PA,"Erie County Tot Mig-US",2920,5490,95531
+42,49,97,1,PA,"Erie County Tot Mig-Same St",1140,1957,32178
+42,49,97,3,PA,"Erie County Tot Mig-Diff St",1780,3533,63353
+42,49,98,0,PA,"Erie County Tot Mig-Foreign",65,88,1141
+42,49,42,49,PA,"Erie County Non-Migrants",99490,218583,4078836
+42,49,42,39,PA,"Crawford County",317,567,7458
+42,49,42,3,PA,"Allegheny County",192,304,6776
+42,49,36,13,NY,"Chautauqua County",132,246,3256
+42,49,42,123,PA,"Warren County",109,188,3209
+42,49,39,7,OH,"Ashtabula County",66,159,1581
+42,49,42,85,PA,"Mercer County",61,93,1463
+42,49,36,29,NY,"Erie County",59,109,1866
+42,49,42,121,PA,"Venango County",43,78,1277
+42,49,39,35,OH,"Cuyahoga County",40,70,1332
+42,49,42,19,PA,"Butler County",34,65,1089
+42,49,39,155,OH,"Trumbull County",33,58,960
+42,49,42,129,PA,"Westmoreland County",31,59,1142
+42,49,42,83,PA,"Mckean County",28,32,517
+42,49,6,73,CA,"San Diego County",24,42,565
+42,49,39,49,OH,"Franklin County",24,41,758
+42,49,4,13,AZ,"Maricopa County",23,40,795
+42,49,42,7,PA,"Beaver County",23,31,440
+42,49,39,153,OH,"Summit County",20,34,601
+42,49,42,27,PA,"Centre County",20,32,558
+42,49,42,125,PA,"Washington County",20,38,455
+42,49,17,31,IL,"Cook County",19,26,876
+42,49,36,55,NY,"Monroe County",19,23,494
+42,49,42,91,PA,"Montgomery County",18,31,752
+42,49,36,9,NY,"Cattaraugus County",17,34,327
+42,49,39,85,OH,"Lake County",17,29,652
+42,49,42,31,PA,"Clarion County",16,32,398
+42,49,42,33,PA,"Clearfield County",16,30,401
+42,49,42,43,PA,"Dauphin County",15,21,526
+42,49,57,5,FR,"Foreign - APO/FPO ZIPs",15,18,395
+42,49,6,37,CA,"Los Angeles County",14,28,423
+42,49,42,5,PA,"Armstrong County",14,25,222
+42,49,42,73,PA,"Lawrence County",14,35,483
+42,49,42,47,PA,"Elk County",13,19,286
+42,49,51,59,VA,"Fairfax County",13,20,388
+42,49,12,57,FL,"Hillsborough County",12,24,308
+42,49,12,115,FL,"Sarasota County",12,19,255
+42,49,12,95,FL,"Orange County",11,21,310
+42,49,36,67,NY,"Onondaga County",11,25,607
+42,49,37,133,NC,"Onslow County",11,19,206
+42,49,39,99,OH,"Mahoning County",11,30,503
+42,49,42,51,PA,"Fayette County",11,25,226
+42,49,12,9,FL,"Brevard County",10,21,488
+42,49,12,99,FL,"Palm Beach County",10,14,237
+42,49,12,101,FL,"Pasco County",10,19,227
+42,49,36,63,NY,"Niagara County",10,14,187
+42,49,39,95,OH,"Lucas County",10,20,537
+42,49,42,133,PA,"York County",10,19,283
+42,49,58,0,SS,"Other Flows - Same State",135,233,4216
+42,49,59,0,DS,"Other Flows - Diff State",1142,2348,44611
+42,49,59,1,DS,"Other Flows - Northeast",206,382,8678
+42,49,59,3,DS,"Other Flows - Midwest",260,591,12830
+42,49,59,5,DS,"Other Flows - South",535,1089,18825
+42,49,59,7,DS,"Other Flows - West",141,286,4278
+42,49,57,9,FR,"Foreign - Other flows",50,70,746
+42,51,96,0,PA,"Fayette County Tot Mig-US & For",1736,3510,48142
+42,51,97,0,PA,"Fayette County Tot Mig-US",1721,3480,47872
+42,51,97,1,PA,"Fayette County Tot Mig-Same St",1069,2091,30659
+42,51,97,3,PA,"Fayette County Tot Mig-Diff St",652,1389,17213
+42,51,98,0,PA,"Fayette County Tot Mig-Foreign",15,30,270
+42,51,42,51,PA,"Fayette County Non-Migrants",53072,115403,1737127
+42,51,42,129,PA,"Westmoreland County",433,866,11554
+42,51,42,3,PA,"Allegheny County",233,444,8775
+42,51,42,125,PA,"Washington County",166,317,4191
+42,51,42,59,PA,"Greene County",56,125,1102
+42,51,54,61,WV,"Monongalia County",38,66,726
+42,51,42,111,PA,"Somerset County",30,61,709
+42,51,9,5,CT,"Litchfield County",22,143,613
+42,51,42,7,PA,"Beaver County",19,35,344
+42,51,39,35,OH,"Cuyahoga County",15,25,317
+42,51,51,59,VA,"Fairfax County",15,28,722
+42,51,24,23,MD,"Garrett County",12,25,214
+42,51,42,19,PA,"Butler County",11,20,298
+42,51,42,49,PA,"Erie County",10,15,249
+42,51,58,0,SS,"Other Flows - Same State",111,208,3438
+42,51,59,0,DS,"Other Flows - Diff State",550,1102,14622
+42,51,59,1,DS,"Other Flows - Northeast",61,135,1641
+42,51,59,3,DS,"Other Flows - Midwest",115,214,3365
+42,51,59,5,DS,"Other Flows - South",312,648,7901
+42,51,59,7,DS,"Other Flows - West",62,105,1715
+42,51,57,9,FR,"Foreign - Other flows",15,30,270
+42,53,96,0,PA,"Forest County Tot Mig-US & For",123,228,3417
+42,53,97,0,PA,"Forest County Tot Mig-US",123,228,3417
+42,53,97,1,PA,"Forest County Tot Mig-Same St",89,156,2163
+42,53,97,3,PA,"Forest County Tot Mig-Diff St",34,72,1254
+42,53,42,53,PA,"Forest County Non-Migrants",1841,3892,55858
+42,53,42,3,PA,"Allegheny County",23,37,671
+42,53,42,31,PA,"Clarion County",12,29,275
+42,53,42,39,PA,"Crawford County",11,16,227
+42,53,42,121,PA,"Venango County",10,13,170
+42,53,58,0,SS,"Other Flows - Same State",33,61,821
+42,53,59,0,DS,"Other Flows - Diff State",34,72,1254
+42,55,96,0,PA,"Franklin County Tot Mig-US & For",2115,4062,73724
+42,55,97,0,PA,"Franklin County Tot Mig-US",2062,3961,72747
+42,55,97,1,PA,"Franklin County Tot Mig-Same St",874,1582,28755
+42,55,97,3,PA,"Franklin County Tot Mig-Diff St",1188,2379,43992
+42,55,98,0,PA,"Franklin County Tot Mig-Foreign",53,101,977
+42,55,42,55,PA,"Franklin County Non-Migrants",49236,106864,2016308
+42,55,24,43,MD,"Washington County",304,643,11094
+42,55,42,41,PA,"Cumberland County",259,462,7941
+42,55,42,1,PA,"Adams County",93,165,2795
+42,55,24,21,MD,"Frederick County",67,133,2433
+42,55,42,57,PA,"Fulton County",61,109,1590
+42,55,42,133,PA,"York County",56,92,1949
+42,55,24,31,MD,"Montgomery County",30,51,2377
+42,55,42,43,PA,"Dauphin County",30,50,904
+42,55,42,71,PA,"Lancaster County",30,67,1046
+42,55,57,5,FR,"Foreign - APO/FPO ZIPs",29,67,662
+42,55,42,61,PA,"Huntingdon County",27,67,732
+42,55,54,3,WV,"Berkeley County",25,51,862
+42,55,42,3,PA,"Allegheny County",24,57,935
+42,55,42,9,PA,"Bedford County",18,32,417
+42,55,42,13,PA,"Blair County",18,31,268
+42,55,42,17,PA,"Bucks County",17,29,611
+42,55,24,5,MD,"Baltimore County",16,29,521
+42,55,42,101,PA,"Philadelphia County",14,34,416
+42,55,24,3,MD,"Anne Arundel County",13,34,791
+42,55,42,21,PA,"Cambria County",13,15,227
+42,55,42,27,PA,"Centre County",12,15,328
+42,55,42,59,PA,"Greene County",12,29,775
+42,55,42,75,PA,"Lebanon County",12,27,429
+42,55,8,41,CO,"El Paso County",11,17,184
+42,55,24,33,MD,"Prince George's Coun",10,20,703
+42,55,42,91,PA,"Montgomery County",10,17,1124
+42,55,58,0,SS,"Other Flows - Same State",168,284,6270
+42,55,59,0,DS,"Other Flows - Diff State",712,1401,25027
+42,55,59,1,DS,"Other Flows - Northeast",117,209,4660
+42,55,59,3,DS,"Other Flows - Midwest",87,182,3418
+42,55,59,5,DS,"Other Flows - South",415,815,14377
+42,55,59,7,DS,"Other Flows - West",93,195,2573
+42,55,57,9,FR,"Foreign - Other flows",24,34,315
+42,57,96,0,PA,"Fulton County Tot Mig-US & For",268,533,7629
+42,57,97,0,PA,"Fulton County Tot Mig-US",268,533,7629
+42,57,97,1,PA,"Fulton County Tot Mig-Same St",147,281,3764
+42,57,97,3,PA,"Fulton County Tot Mig-Diff St",121,252,3866
+42,57,42,57,PA,"Fulton County Non-Migrants",5341,11826,184301
+42,57,42,55,PA,"Franklin County",61,123,1500
+42,57,24,43,MD,"Washington County",53,125,1614
+42,57,42,9,PA,"Bedford County",22,37,443
+42,57,42,61,PA,"Huntingdon County",19,34,526
+42,57,54,65,WV,"Morgan County",11,24,323
+42,57,58,0,SS,"Other Flows - Same State",45,87,1295
+42,57,59,0,DS,"Other Flows - Diff State",57,103,1928
+42,59,96,0,PA,"Greene County Tot Mig-US & For",557,1099,15740
+42,59,97,0,PA,"Greene County Tot Mig-US",557,1099,15740
+42,59,97,1,PA,"Greene County Tot Mig-Same St",288,561,8328
+42,59,97,3,PA,"Greene County Tot Mig-Diff St",269,538,7412
+42,59,42,59,PA,"Greene County Non-Migrants",12736,28762,436782
+42,59,42,125,PA,"Washington County",101,209,2727
+42,59,42,3,PA,"Allegheny County",63,118,2127
+42,59,42,51,PA,"Fayette County",61,116,1549
+42,59,54,61,WV,"Monongalia County",41,86,1630
+42,59,58,0,SS,"Other Flows - Same State",63,118,1925
+42,59,59,0,DS,"Other Flows - Diff State",228,452,5782
+42,59,59,1,DS,"Other Flows - Northeast",13,36,649
+42,59,59,3,DS,"Other Flows - Midwest",52,112,1298
+42,59,59,5,DS,"Other Flows - South",132,254,2953
+42,59,59,7,DS,"Other Flows - West",31,50,882
+42,61,96,0,PA,"Huntingdon Coun Tot Mig-US & For",639,1263,22453
+42,61,97,0,PA,"Huntingdon Coun Tot Mig-US",621,1236,22385
+42,61,97,1,PA,"Huntingdon Coun Tot Mig-Same St",459,898,16354
+42,61,97,3,PA,"Huntingdon Coun Tot Mig-Diff St",162,338,6031
+42,61,98,0,PA,"Huntingdon Coun Tot Mig-Foreign",18,27,68
+42,61,42,61,PA,"Huntingdon Coun Non-Migrants",14578,32574,501104
+42,61,42,27,PA,"Centre County",90,163,3815
+42,61,42,13,PA,"Blair County",59,127,1585
+42,61,42,87,PA,"Mifflin County",53,113,1269
+42,61,42,9,PA,"Bedford County",43,82,821
+42,61,42,55,PA,"Franklin County",23,41,652
+42,61,42,71,PA,"Lancaster County",20,49,731
+42,61,42,133,PA,"York County",18,37,831
+42,61,42,41,PA,"Cumberland County",14,22,2382
+42,61,42,57,PA,"Fulton County",14,29,361
+42,61,42,3,PA,"Allegheny County",12,23,252
+42,61,42,33,PA,"Clearfield County",12,19,311
+42,61,42,21,PA,"Cambria County",11,22,359
+42,61,42,43,PA,"Dauphin County",11,17,301
+42,61,58,0,SS,"Other Flows - Same State",79,154,2684
+42,61,59,0,DS,"Other Flows - Diff State",162,338,6031
+42,61,59,1,DS,"Other Flows - Northeast",28,66,1163
+42,61,59,3,DS,"Other Flows - Midwest",19,54,833
+42,61,59,5,DS,"Other Flows - South",94,181,3598
+42,61,59,7,DS,"Other Flows - West",21,37,437
+42,61,57,9,FR,"Foreign - Other flows",18,27,68
+42,63,96,0,PA,"Indiana County Tot Mig-US & For",1338,2461,34764
+42,63,97,0,PA,"Indiana County Tot Mig-US",1275,2389,34435
+42,63,97,1,PA,"Indiana County Tot Mig-Same St",878,1595,22244
+42,63,97,3,PA,"Indiana County Tot Mig-Diff St",397,794,12191
+42,63,98,0,PA,"Indiana County Tot Mig-Foreign",63,72,329
+42,63,42,63,PA,"Indiana County Non-Migrants",29381,66341,1083931
+42,63,42,129,PA,"Westmoreland County",200,375,5386
+42,63,42,3,PA,"Allegheny County",119,179,3437
+42,63,42,5,PA,"Armstrong County",119,234,3005
+42,63,42,21,PA,"Cambria County",115,204,2857
+42,63,42,65,PA,"Jefferson County",44,91,808
+42,63,42,33,PA,"Clearfield County",32,69,987
+42,63,42,19,PA,"Butler County",25,33,588
+42,63,42,71,PA,"Lancaster County",19,44,559
+42,63,42,125,PA,"Washington County",18,37,847
+42,63,42,111,PA,"Somerset County",16,27,329
+42,63,42,13,PA,"Blair County",13,29,220
+42,63,42,49,PA,"Erie County",11,16,222
+42,63,58,0,SS,"Other Flows - Same State",147,257,2997
+42,63,59,0,DS,"Other Flows - Diff State",397,794,12191
+42,63,59,1,DS,"Other Flows - Northeast",42,78,1513
+42,63,59,3,DS,"Other Flows - Midwest",90,179,2891
+42,63,59,5,DS,"Other Flows - South",210,444,5931
+42,63,59,7,DS,"Other Flows - West",55,93,1856
+42,63,57,9,FR,"Foreign - Other flows",63,72,329
+42,65,96,0,PA,"Jefferson Count Tot Mig-US & For",721,1423,18474
+42,65,97,0,PA,"Jefferson Count Tot Mig-US",721,1423,18474
+42,65,97,1,PA,"Jefferson Count Tot Mig-Same St",537,1077,12699
+42,65,97,3,PA,"Jefferson Count Tot Mig-Diff St",184,346,5775
+42,65,42,65,PA,"Jefferson Count Non-Migrants",16396,37021,568021
+42,65,42,33,PA,"Clearfield County",179,350,3999
+42,65,42,31,PA,"Clarion County",77,153,1547
+42,65,42,63,PA,"Indiana County",66,152,1305
+42,65,42,47,PA,"Elk County",45,98,1074
+42,65,42,3,PA,"Allegheny County",29,40,873
+42,65,42,5,PA,"Armstrong County",22,41,618
+42,65,58,0,SS,"Other Flows - Same State",119,243,3284
+42,65,59,0,DS,"Other Flows - Diff State",184,346,5775
+42,65,59,1,DS,"Other Flows - Northeast",31,75,1443
+42,65,59,3,DS,"Other Flows - Midwest",41,73,1128
+42,65,59,5,DS,"Other Flows - South",90,163,2701
+42,65,59,7,DS,"Other Flows - West",22,35,502
+42,67,96,0,PA,"Juniata County Tot Mig-US & For",333,701,9400
+42,67,97,0,PA,"Juniata County Tot Mig-US",333,701,9400
+42,67,97,1,PA,"Juniata County Tot Mig-Same St",272,562,7717
+42,67,97,3,PA,"Juniata County Tot Mig-Diff St",61,139,1683
+42,67,42,67,PA,"Juniata County Non-Migrants",8405,19443,296562
+42,67,42,87,PA,"Mifflin County",74,157,1769
+42,67,42,99,PA,"Perry County",48,107,1492
+42,67,42,43,PA,"Dauphin County",29,51,1068
+42,67,42,109,PA,"Snyder County",25,52,608
+42,67,42,41,PA,"Cumberland County",14,26,478
+42,67,42,71,PA,"Lancaster County",12,32,302
+42,67,58,0,SS,"Other Flows - Same State",70,137,1999
+42,67,59,0,DS,"Other Flows - Diff State",61,139,1683
+42,69,96,0,PA,"Lackawanna Coun Tot Mig-US & For",2320,4077,80532
+42,69,97,0,PA,"Lackawanna Coun Tot Mig-US",2277,4020,79944
+42,69,97,1,PA,"Lackawanna Coun Tot Mig-Same St",1313,2264,43723
+42,69,97,3,PA,"Lackawanna Coun Tot Mig-Diff St",964,1756,36221
+42,69,98,0,PA,"Lackawanna Coun Tot Mig-Foreign",43,57,588
+42,69,42,69,PA,"Lackawanna Coun Non-Migrants",78585,164546,3091908
+42,69,42,79,PA,"Luzerne County",344,587,12940
+42,69,42,127,PA,"Wayne County",208,371,6420
+42,69,42,131,PA,"Wyoming County",141,257,3973
+42,69,42,115,PA,"Susquehanna County",136,226,3356
+42,69,42,89,PA,"Monroe County",72,132,1897
+42,69,42,91,PA,"Montgomery County",36,82,1648
+42,69,42,101,PA,"Philadelphia County",33,57,933
+42,69,57,1,FR,"Foreign - Overseas",33,43,293
+42,69,36,7,NY,"Broome County",30,51,1013
+42,69,42,103,PA,"Pike County",26,48,700
+42,69,42,77,PA,"Lehigh County",23,35,819
+42,69,34,23,NJ,"Middlesex County",22,30,658
+42,69,42,17,PA,"Bucks County",21,28,936
+42,69,42,11,PA,"Berks County",19,41,754
+42,69,42,43,PA,"Dauphin County",18,20,511
+42,69,42,45,PA,"Delaware County",18,26,826
+42,69,42,71,PA,"Lancaster County",17,21,506
+42,69,42,95,PA,"Northampton County",17,30,681
+42,69,34,13,NJ,"Essex County",16,30,302
+42,69,36,103,NY,"Suffolk County",15,46,754
+42,69,34,17,NJ,"Hudson County",14,22,485
+42,69,42,3,PA,"Allegheny County",14,18,578
+42,69,42,29,PA,"Chester County",14,24,886
+42,69,42,37,PA,"Columbia County",14,21,432
+42,69,42,107,PA,"Schuylkill County",14,24,411
+42,69,34,27,NJ,"Morris County",13,17,352
+42,69,34,39,NJ,"Union County",13,20,428
+42,69,36,47,NY,"Kings County",13,29,381
+42,69,36,81,NY,"Queens County",13,24,432
+42,69,42,81,PA,"Lycoming County",13,24,347
+42,69,34,31,NJ,"Passaic County",12,22,178
+42,69,36,61,NY,"New York County",12,16,2207
+42,69,36,71,NY,"Orange County",12,15,289
+42,69,42,25,PA,"Carbon County",12,14,639
+42,69,12,11,FL,"Broward County",11,18,365
+42,69,34,3,NJ,"Bergen County",11,24,668
+42,69,34,7,NJ,"Camden County",11,19,495
+42,69,36,59,NY,"Nassau County",11,24,308
+42,69,42,41,PA,"Cumberland County",11,22,605
+42,69,6,37,CA,"Los Angeles County",10,20,262
+42,69,36,5,NY,"Bronx County",10,22,181
+42,69,42,133,PA,"York County",10,15,255
+42,69,51,59,VA,"Fairfax County",10,14,440
+42,69,58,0,SS,"Other Flows - Same State",82,141,2673
+42,69,59,0,DS,"Other Flows - Diff State",705,1293,26021
+42,69,59,1,DS,"Other Flows - Northeast",206,372,7904
+42,69,59,3,DS,"Other Flows - Midwest",96,204,4501
+42,69,59,5,DS,"Other Flows - South",288,510,9962
+42,69,59,7,DS,"Other Flows - West",115,207,3654
+42,69,57,9,FR,"Foreign - Other flows",10,14,294
+42,71,96,0,PA,"Lancaster Count Tot Mig-US & For",6421,12204,245694
+42,71,97,0,PA,"Lancaster Count Tot Mig-US",6281,11967,242459
+42,71,97,1,PA,"Lancaster Count Tot Mig-Same St",3644,6558,131223
+42,71,97,3,PA,"Lancaster Count Tot Mig-Diff St",2637,5409,111236
+42,71,98,0,PA,"Lancaster Count Tot Mig-Foreign",140,237,3235
+42,71,42,71,PA,"Lancaster Count Non-Migrants",173011,390892,8042618
+42,71,42,29,PA,"Chester County",581,1185,23486
+42,71,42,43,PA,"Dauphin County",448,748,16626
+42,71,42,133,PA,"York County",437,771,15494
+42,71,42,11,PA,"Berks County",403,756,14903
+42,71,42,75,PA,"Lebanon County",221,367,7339
+42,71,42,101,PA,"Philadelphia County",170,339,5133
+42,71,42,91,PA,"Montgomery County",152,242,6871
+42,71,42,41,PA,"Cumberland County",133,222,4792
+42,71,42,45,PA,"Delaware County",110,208,4822
+42,71,42,17,PA,"Bucks County",109,208,4685
+42,71,42,3,PA,"Allegheny County",76,137,2715
+42,71,42,27,PA,"Centre County",61,91,2099
+42,71,10,3,DE,"New Castle County",54,114,2630
+42,71,42,77,PA,"Lehigh County",52,98,2292
+42,71,42,21,PA,"Cambria County",41,65,846
+42,71,36,47,NY,"Kings County",40,93,1266
+42,71,36,81,NY,"Queens County",39,84,1197
+42,71,36,59,NY,"Nassau County",37,68,1682
+42,71,42,107,PA,"Schuylkill County",37,61,893
+42,71,42,1,PA,"Adams County",35,54,927
+42,71,42,95,PA,"Northampton County",35,63,1423
+42,71,42,79,PA,"Luzerne County",34,48,983
+42,71,42,81,PA,"Lycoming County",34,54,1008
+42,71,24,5,MD,"Baltimore County",33,70,1619
+42,71,42,55,PA,"Franklin County",32,50,1068
+42,71,36,61,NY,"New York County",31,51,997
+42,71,57,5,FR,"Foreign - APO/FPO ZIPs",31,62,727
+42,71,24,15,MD,"Cecil County",28,46,785
+42,71,42,97,PA,"Northumberland Count",28,54,761
+42,71,12,25,FL,"Dade County",27,59,720
+42,71,42,13,PA,"Blair County",27,41,810
+42,71,6,37,CA,"Los Angeles County",25,49,894
+42,71,24,31,MD,"Montgomery County",25,49,1290
+42,71,34,7,NJ,"Camden County",25,58,1321
+42,71,36,103,NY,"Suffolk County",25,62,1490
+42,71,51,59,VA,"Fairfax County",25,55,1895
+42,71,34,5,NJ,"Burlington County",24,53,645
+42,71,6,73,CA,"San Diego County",23,45,573
+42,71,17,31,IL,"Cook County",23,40,1227
+42,71,42,69,PA,"Lackawanna County",23,34,737
+42,71,42,89,PA,"Monroe County",23,38,792
+42,71,42,111,PA,"Somerset County",22,51,667
+42,71,34,17,NJ,"Hudson County",21,50,594
+42,71,34,27,NJ,"Morris County",21,38,1446
+42,71,4,13,AZ,"Maricopa County",20,38,816
+42,71,34,23,NJ,"Middlesex County",20,45,989
+42,71,6,59,CA,"Orange County",18,47,796
+42,71,24,3,MD,"Anne Arundel County",18,31,704
+42,71,24,25,MD,"Harford County",18,44,732
+42,71,24,510,MD,Baltimore,18,35,667
+42,71,25,17,MA,"Middlesex County",18,37,1606
+42,71,36,5,NY,"Bronx County",18,33,340
+42,71,36,29,NY,"Erie County",18,49,1081
+42,71,42,87,PA,"Mifflin County",18,29,442
+42,71,42,99,PA,"Perry County",18,32,471
+42,71,12,95,FL,"Orange County",17,32,429
+42,71,12,105,FL,"Polk County",17,33,468
+42,71,34,1,NJ,"Atlantic County",17,37,515
+42,71,34,3,NJ,"Bergen County",17,40,1626
+42,71,42,61,PA,"Huntingdon County",17,29,418
+42,71,48,113,TX,"Dallas County",17,36,476
+42,71,10,1,DE,"Kent County",16,28,402
+42,71,12,11,FL,"Broward County",16,33,380
+42,71,12,57,FL,"Hillsborough County",16,33,539
+42,71,12,99,FL,"Palm Beach County",16,31,517
+42,71,34,13,NJ,"Essex County",16,26,542
+42,71,34,21,NJ,"Mercer County",16,33,1052
+42,71,36,55,NY,"Monroe County",16,36,710
+42,71,37,133,NC,"Onslow County",16,32,362
+42,71,42,9,PA,"Bedford County",16,32,337
+42,71,42,117,PA,"Tioga County",16,20,276
+42,71,10,5,DE,"Sussex County",15,33,385
+42,71,12,31,FL,"Duval County",15,25,299
+42,71,34,25,NJ,"Monmouth County",15,24,494
+42,71,34,31,NJ,"Passaic County",15,31,384
+42,71,42,37,PA,"Columbia County",15,25,389
+42,71,42,63,PA,"Indiana County",15,29,389
+42,71,12,103,FL,"Pinellas County",14,23,302
+42,71,34,15,NJ,"Gloucester County",14,28,746
+42,71,42,49,PA,"Erie County",14,31,531
+42,71,42,129,PA,"Westmoreland County",14,26,696
+42,71,9,1,CT,"Fairfield County",13,20,1554
+42,71,34,29,NJ,"Ocean County",13,27,483
+42,71,34,39,NJ,"Union County",13,26,503
+42,71,42,19,PA,"Butler County",13,32,780
+42,71,42,125,PA,"Washington County",13,19,314
+42,71,51,810,VA,"Virginia Beach",13,26,431
+42,71,24,33,MD,"Prince George's Coun",12,29,581
+42,71,34,9,NJ,"Cape May County",12,23,342
+42,71,42,33,PA,"Clearfield County",12,15,247
+42,71,12,71,FL,"Lee County",11,24,229
+42,71,12,127,FL,"Volusia County",11,21,354
+42,71,24,13,MD,"Carroll County",11,31,470
+42,71,24,27,MD,"Howard County",11,25,511
+42,71,34,19,NJ,"Hunterdon County",11,21,401
+42,71,36,87,NY,"Rockland County",11,27,290
+42,71,48,201,TX,"Harris County",11,15,239
+42,71,9,3,CT,"Hartford County",10,27,480
+42,71,11,1,DC,"District Of Columbia",10,19,386
+42,71,17,43,IL,"Du Page County",10,22,428
+42,71,34,37,NJ,"Sussex County",10,26,607
+42,71,36,45,NY,"Jefferson County",10,30,238
+42,71,36,67,NY,"Onondaga County",10,24,238
+42,71,36,71,NY,"Orange County",10,18,311
+42,71,37,119,NC,"Mecklenburg County",10,19,345
+42,71,37,183,NC,"Wake County",10,20,288
+42,71,42,35,PA,"Clinton County",10,21,178
+42,71,42,39,PA,"Crawford County",10,17,209
+42,71,58,0,SS,"Other Flows - Same State",119,216,3373
+42,71,59,0,DS,"Other Flows - Diff State",1401,2852,60896
+42,71,59,1,DS,"Other Flows - Northeast",222,430,7987
+42,71,59,3,DS,"Other Flows - Midwest",328,706,20428
+42,71,59,5,DS,"Other Flows - South",620,1220,24583
+42,71,59,7,DS,"Other Flows - West",231,496,7898
+42,71,57,9,FR,"Foreign - Other flows",109,175,2508
+42,73,96,0,PA,"Lawrence County Tot Mig-US & For",1093,2116,34283
+42,73,97,0,PA,"Lawrence County Tot Mig-US",1081,2094,34039
+42,73,97,1,PA,"Lawrence County Tot Mig-Same St",609,1197,19781
+42,73,97,3,PA,"Lawrence County Tot Mig-Diff St",472,897,14258
+42,73,98,0,PA,"Lawrence County Tot Mig-Foreign",12,22,244
+42,73,42,73,PA,"Lawrence County Non-Migrants",33801,74710,1234757
+42,73,42,7,PA,"Beaver County",153,335,4069
+42,73,42,19,PA,"Butler County",117,219,4249
+42,73,42,3,PA,"Allegheny County",113,199,4581
+42,73,42,85,PA,"Mercer County",101,195,3079
+42,73,39,99,OH,"Mahoning County",53,95,2308
+42,73,39,155,OH,"Trumbull County",22,37,614
+42,73,42,129,PA,"Westmoreland County",15,32,404
+42,73,42,39,PA,"Crawford County",13,23,368
+42,73,42,49,PA,"Erie County",11,19,285
+42,73,58,0,SS,"Other Flows - Same State",86,175,2747
+42,73,59,0,DS,"Other Flows - Diff State",397,765,11336
+42,73,59,1,DS,"Other Flows - Northeast",47,81,1508
+42,73,59,3,DS,"Other Flows - Midwest",91,175,3051
+42,73,59,5,DS,"Other Flows - South",185,372,4867
+42,73,59,7,DS,"Other Flows - West",74,137,1910
+42,73,57,9,FR,"Foreign - Other flows",12,22,244
+42,75,96,0,PA,"Lebanon County Tot Mig-US & For",2000,3749,71751
+42,75,97,0,PA,"Lebanon County Tot Mig-US",1977,3698,71428
+42,75,97,1,PA,"Lebanon County Tot Mig-Same St",1436,2611,52886
+42,75,97,3,PA,"Lebanon County Tot Mig-Diff St",541,1087,18542
+42,75,98,0,PA,"Lebanon County Tot Mig-Foreign",23,51,322
+42,75,42,75,PA,"Lebanon County Non-Migrants",44998,96929,1866519
+42,75,42,43,PA,"Dauphin County",480,829,16193
+42,75,42,71,PA,"Lancaster County",233,474,8860
+42,75,42,11,PA,"Berks County",214,361,6053
+42,75,42,107,PA,"Schuylkill County",72,133,2000
+42,75,42,41,PA,"Cumberland County",68,100,2560
+42,75,42,133,PA,"York County",52,95,2476
+42,75,42,91,PA,"Montgomery County",24,39,3254
+42,75,42,29,PA,"Chester County",23,48,1133
+42,75,42,17,PA,"Bucks County",22,51,712
+42,75,42,99,PA,"Perry County",21,36,672
+42,75,42,101,PA,"Philadelphia County",17,33,524
+42,75,42,79,PA,"Luzerne County",15,29,456
+42,75,42,77,PA,"Lehigh County",12,23,903
+42,75,42,1,PA,"Adams County",11,22,267
+42,75,42,97,PA,"Northumberland Count",11,16,213
+42,75,34,5,NJ,"Burlington County",10,19,796
+42,75,36,47,NY,"Kings County",10,19,93
+42,75,42,3,PA,"Allegheny County",10,22,440
+42,75,42,21,PA,"Cambria County",10,20,462
+42,75,42,45,PA,"Delaware County",10,20,487
+42,75,42,55,PA,"Franklin County",10,18,344
+42,75,42,61,PA,"Huntingdon County",10,23,519
+42,75,57,5,FR,"Foreign - APO/FPO ZIPs",10,23,168
+42,75,58,0,SS,"Other Flows - Same State",111,219,4357
+42,75,59,0,DS,"Other Flows - Diff State",521,1049,17653
+42,75,59,1,DS,"Other Flows - Northeast",124,241,4616
+42,75,59,3,DS,"Other Flows - Midwest",64,138,2301
+42,75,59,5,DS,"Other Flows - South",260,514,8573
+42,75,59,7,DS,"Other Flows - West",73,156,2163
+42,75,57,9,FR,"Foreign - Other flows",13,28,154
+42,77,96,0,PA,"Lehigh County Tot Mig-US & For",6396,11989,249459
+42,77,97,0,PA,"Lehigh County Tot Mig-US",6309,11825,247097
+42,77,97,1,PA,"Lehigh County Tot Mig-Same St",3979,7091,143339
+42,77,97,3,PA,"Lehigh County Tot Mig-Diff St",2330,4734,103758
+42,77,98,0,PA,"Lehigh County Tot Mig-Foreign",87,164,2362
+42,77,42,77,PA,"Lehigh County Non-Migrants",115672,245825,5577102
+42,77,42,95,PA,"Northampton County",1973,3545,62718
+42,77,42,11,PA,"Berks County",327,571,12142
+42,77,42,17,PA,"Bucks County",323,608,15930
+42,77,42,91,PA,"Montgomery County",215,369,9651
+42,77,42,25,PA,"Carbon County",173,305,5797
+42,77,42,89,PA,"Monroe County",123,219,4198
+42,77,42,101,PA,"Philadelphia County",107,185,3996
+42,77,42,79,PA,"Luzerne County",84,127,3241
+42,77,36,47,NY,"Kings County",75,185,1311
+42,77,42,107,PA,"Schuylkill County",75,131,2980
+42,77,42,29,PA,"Chester County",65,106,3252
+42,77,36,61,NY,"New York County",53,102,1946
+42,77,36,81,NY,"Queens County",51,112,1155
+42,77,57,1,FR,"Foreign - Overseas",50,93,1657
+42,77,34,23,NJ,"Middlesex County",48,103,1883
+42,77,42,45,PA,"Delaware County",48,87,2200
+42,77,42,71,PA,"Lancaster County",47,79,1651
+42,77,34,41,NJ,"Warren County",46,72,1404
+42,77,36,5,NY,"Bronx County",44,89,816
+42,77,42,69,PA,"Lackawanna County",42,75,1353
+42,77,42,43,PA,"Dauphin County",40,70,1760
+42,77,42,3,PA,"Allegheny County",39,71,1411
+42,77,36,103,NY,"Suffolk County",37,74,1531
+42,77,34,13,NJ,"Essex County",36,79,682
+42,77,34,17,NJ,"Hudson County",36,63,660
+42,77,42,27,PA,"Centre County",36,56,1177
+42,77,34,35,NJ,"Somerset County",35,72,2387
+42,77,42,133,PA,"York County",35,57,2029
+42,77,34,27,NJ,"Morris County",33,56,1934
+42,77,42,41,PA,"Cumberland County",32,64,1231
+42,77,12,11,FL,"Broward County",28,48,866
+42,77,36,59,NY,"Nassau County",28,49,1082
+42,77,34,39,NJ,"Union County",27,59,1140
+42,77,57,5,FR,"Foreign - APO/FPO ZIPs",27,46,606
+42,77,34,19,NJ,"Hunterdon County",26,51,1194
+42,77,6,37,CA,"Los Angeles County",25,45,1583
+42,77,12,95,FL,"Orange County",25,51,902
+42,77,4,13,AZ,"Maricopa County",24,49,1063
+42,77,6,73,CA,"San Diego County",23,39,873
+42,77,25,17,MA,"Middlesex County",23,35,1136
+42,77,34,3,NJ,"Bergen County",23,38,767
+42,77,10,3,DE,"New Castle County",22,47,1127
+42,77,34,7,NJ,"Camden County",22,50,800
+42,77,42,81,PA,"Lycoming County",22,43,709
+42,77,17,31,IL,"Cook County",20,39,1399
+42,77,34,31,NJ,"Passaic County",18,36,812
+42,77,36,119,NY,"Westchester County",18,35,1079
+42,77,37,119,NC,"Mecklenburg County",18,31,828
+42,77,12,103,FL,"Pinellas County",17,32,523
+42,77,34,21,NJ,"Mercer County",17,40,709
+42,77,34,29,NJ,"Ocean County",17,30,714
+42,77,42,97,PA,"Northumberland Count",17,28,460
+42,77,42,103,PA,"Pike County",17,31,549
+42,77,42,37,PA,"Columbia County",16,23,551
+42,77,45,79,SC,"Richland County",16,33,1143
+42,77,12,25,FL,"Dade County",15,31,551
+42,77,37,133,NC,"Onslow County",15,22,344
+42,77,12,57,FL,"Hillsborough County",14,21,374
+42,77,34,25,NJ,"Monmouth County",14,31,525
+42,77,9,3,CT,"Hartford County",13,25,698
+42,77,24,31,MD,"Montgomery County",13,24,578
+42,77,24,33,MD,"Prince George's Coun",13,25,809
+42,77,34,5,NJ,"Burlington County",13,25,660
+42,77,34,15,NJ,"Gloucester County",13,27,673
+42,77,36,29,NY,"Erie County",13,21,882
+42,77,42,75,PA,"Lebanon County",13,27,288
+42,77,17,43,IL,"Du Page County",12,25,537
+42,77,36,55,NY,"Monroe County",12,27,700
+42,77,51,59,VA,"Fairfax County",12,25,662
+42,77,6,59,CA,"Orange County",11,30,758
+42,77,9,1,CT,"Fairfield County",11,24,679
+42,77,15,3,HI,"Honolulu County",11,27,285
+42,77,36,7,NY,"Broome County",11,26,618
+42,77,36,67,NY,"Onondaga County",11,32,826
+42,77,42,21,PA,"Cambria County",11,14,222
+42,77,48,453,TX,"Travis County",11,18,564
+42,77,12,31,FL,"Duval County",10,17,349
+42,77,12,105,FL,"Polk County",10,21,168
+42,77,25,25,MA,"Suffolk County",10,15,314
+42,77,32,3,NV,"Clark County",10,20,155
+42,77,36,27,NY,"Dutchess County",10,22,418
+42,77,36,85,NY,"Richmond County",10,25,373
+42,77,37,51,NC,"Cumberland County",10,17,203
+42,77,51,810,VA,"Virginia Beach",10,16,476
+42,77,58,0,SS,"Other Flows - Same State",99,200,3846
+42,77,59,0,DS,"Other Flows - Diff State",1081,2251,54128
+42,77,59,1,DS,"Other Flows - Northeast",217,434,8653
+42,77,59,3,DS,"Other Flows - Midwest",197,423,10867
+42,77,59,5,DS,"Other Flows - South",529,1095,24926
+42,77,59,7,DS,"Other Flows - West",138,299,9682
+42,77,57,9,FR,"Foreign - Other flows",10,25,100
+42,79,96,0,PA,"Luzerne County Tot Mig-US & For",3231,5904,116375
+42,79,97,0,PA,"Luzerne County Tot Mig-US",3193,5833,115750
+42,79,97,1,PA,"Luzerne County Tot Mig-Same St",1810,3213,68126
+42,79,97,3,PA,"Luzerne County Tot Mig-Diff St",1383,2620,47624
+42,79,98,0,PA,"Luzerne County Tot Mig-Foreign",38,71,625
+42,79,42,79,PA,"Luzerne County Non-Migrants",118139,244152,4588013
+42,79,42,69,PA,"Lackawanna County",357,632,11338
+42,79,42,37,PA,"Columbia County",207,409,6170
+42,79,42,107,PA,"Schuylkill County",174,305,4867
+42,79,42,131,PA,"Wyoming County",131,238,3671
+42,79,42,25,PA,"Carbon County",130,258,3772
+42,79,42,89,PA,"Monroe County",78,128,2642
+42,79,42,91,PA,"Montgomery County",62,109,2665
+42,79,42,101,PA,"Philadelphia County",59,97,1574
+42,79,42,77,PA,"Lehigh County",55,93,13673
+42,79,42,17,PA,"Bucks County",40,74,1452
+42,79,42,11,PA,"Berks County",38,55,837
+42,79,34,23,NJ,"Middlesex County",35,65,927
+42,79,42,95,PA,"Northampton County",34,53,830
+42,79,42,115,PA,"Susquehanna County",32,54,563
+42,79,42,29,PA,"Chester County",29,49,917
+42,79,42,127,PA,"Wayne County",29,52,864
+42,79,36,47,NY,"Kings County",28,56,473
+42,79,42,15,PA,"Bradford County",26,45,904
+42,79,42,27,PA,"Centre County",26,41,780
+42,79,42,43,PA,"Dauphin County",26,37,853
+42,79,42,81,PA,"Lycoming County",25,54,811
+42,79,34,25,NJ,"Monmouth County",22,43,695
+42,79,36,103,NY,"Suffolk County",22,40,583
+42,79,34,27,NJ,"Morris County",21,39,848
+42,79,57,5,FR,"Foreign - APO/FPO ZIPs",21,44,517
+42,79,42,41,PA,"Cumberland County",20,34,745
+42,79,42,45,PA,"Delaware County",20,32,747
+42,79,42,133,PA,"York County",20,32,866
+42,79,42,97,PA,"Northumberland Count",19,29,365
+42,79,10,3,DE,"New Castle County",18,36,918
+42,79,34,3,NJ,"Bergen County",18,37,839
+42,79,42,71,PA,"Lancaster County",18,24,483
+42,79,42,3,PA,"Allegheny County",17,32,682
+42,79,36,61,NY,"New York County",16,28,858
+42,79,51,59,VA,"Fairfax County",16,29,842
+42,79,12,127,FL,"Volusia County",14,15,181
+42,79,32,3,NV,"Clark County",14,20,314
+42,79,34,35,NJ,"Somerset County",14,26,642
+42,79,34,39,NJ,"Union County",14,20,424
+42,79,42,93,PA,"Montour County",14,25,465
+42,79,42,103,PA,"Pike County",14,22,1600
+42,79,9,1,CT,"Fairfield County",13,21,269
+42,79,12,95,FL,"Orange County",13,22,279
+42,79,9,9,CT,"New Haven County",12,25,404
+42,79,17,31,IL,"Cook County",12,20,573
+42,79,34,17,NJ,"Hudson County",12,22,202
+42,79,36,7,NY,"Broome County",12,23,769
+42,79,36,81,NY,"Queens County",12,24,341
+42,79,4,13,AZ,"Maricopa County",11,22,251
+42,79,24,31,MD,"Montgomery County",11,26,454
+42,79,34,1,NJ,"Atlantic County",11,15,115
+42,79,37,133,NC,"Onslow County",11,19,207
+42,79,12,11,FL,"Broward County",10,13,153
+42,79,12,31,FL,"Duval County",10,17,227
+42,79,12,99,FL,"Palm Beach County",10,20,234
+42,79,12,103,FL,"Pinellas County",10,17,236
+42,79,34,5,NJ,"Burlington County",10,25,523
+42,79,34,21,NJ,"Mercer County",10,16,500
+42,79,34,29,NJ,"Ocean County",10,20,301
+42,79,36,67,NY,"Onondaga County",10,22,572
+42,79,51,810,VA,"Virginia Beach",10,16,287
+42,79,53,63,WA,"Spokane County",10,16,362
+42,79,58,0,SS,"Other Flows - Same State",110,200,2990
+42,79,59,0,DS,"Other Flows - Diff State",901,1745,31820
+42,79,59,1,DS,"Other Flows - Northeast",230,455,9063
+42,79,59,3,DS,"Other Flows - Midwest",113,209,3800
+42,79,59,5,DS,"Other Flows - South",415,810,14539
+42,79,59,7,DS,"Other Flows - West",143,271,4417
+42,79,57,9,FR,"Foreign - Other flows",17,27,108
+42,81,96,0,PA,"Lycoming County Tot Mig-US & For",1697,2928,52504
+42,81,97,0,PA,"Lycoming County Tot Mig-US",1674,2886,52124
+42,81,97,1,PA,"Lycoming County Tot Mig-Same St",1134,1847,32382
+42,81,97,3,PA,"Lycoming County Tot Mig-Diff St",540,1039,19742
+42,81,98,0,PA,"Lycoming County Tot Mig-Foreign",23,42,379
+42,81,42,81,PA,"Lycoming County Non-Migrants",43182,95230,1629817
+42,81,42,35,PA,"Clinton County",195,343,4320
+42,81,42,97,PA,"Northumberland Count",106,184,2516
+42,81,42,41,PA,"Cumberland County",69,80,2861
+42,81,42,107,PA,"Schuylkill County",66,76,2737
+42,81,42,117,PA,"Tioga County",55,98,1416
+42,81,42,13,PA,"Blair County",52,61,1983
+42,81,42,119,PA,"Union County",51,81,1708
+42,81,42,37,PA,"Columbia County",49,89,1326
+42,81,42,27,PA,"Centre County",44,80,1088
+42,81,42,15,PA,"Bradford County",40,70,819
+42,81,42,101,PA,"Philadelphia County",36,65,659
+42,81,42,43,PA,"Dauphin County",34,65,1223
+42,81,42,91,PA,"Montgomery County",33,49,1210
+42,81,42,113,PA,"Sullivan County",32,53,779
+42,81,42,71,PA,"Lancaster County",26,47,927
+42,81,42,79,PA,"Luzerne County",24,31,583
+42,81,42,11,PA,"Berks County",16,19,393
+42,81,42,33,PA,"Clearfield County",14,23,386
+42,81,42,3,PA,"Allegheny County",13,17,321
+42,81,24,1,MD,"Allegany County",12,16,1468
+42,81,42,77,PA,"Lehigh County",12,19,340
+42,81,42,45,PA,"Delaware County",11,16,344
+42,81,42,93,PA,"Montour County",11,21,226
+42,81,42,133,PA,"York County",11,22,411
+42,81,42,17,PA,"Bucks County",10,22,399
+42,81,42,109,PA,"Snyder County",10,14,303
+42,81,58,0,SS,"Other Flows - Same State",114,202,3102
+42,81,59,0,DS,"Other Flows - Diff State",528,1023,18274
+42,81,59,1,DS,"Other Flows - Northeast",132,263,4612
+42,81,59,3,DS,"Other Flows - Midwest",64,135,2736
+42,81,59,5,DS,"Other Flows - South",242,452,7378
+42,81,59,7,DS,"Other Flows - West",90,173,3548
+42,81,57,9,FR,"Foreign - Other flows",23,42,379
+42,83,96,0,PA,"Mckean County Tot Mig-US & For",567,1122,16177
+42,83,97,0,PA,"Mckean County Tot Mig-US",567,1122,16177
+42,83,97,1,PA,"Mckean County Tot Mig-Same St",236,480,6740
+42,83,97,3,PA,"Mckean County Tot Mig-Diff St",331,642,9437
+42,83,42,83,PA,"Mckean County Non-Migrants",16110,35592,572664
+42,83,42,105,PA,"Potter County",47,117,1426
+42,83,36,9,NY,"Cattaraugus County",44,88,1270
+42,83,42,47,PA,"Elk County",34,61,941
+42,83,36,3,NY,"Allegany County",19,31,289
+42,83,42,123,PA,"Warren County",19,37,442
+42,83,42,3,PA,"Allegheny County",18,32,489
+42,83,42,49,PA,"Erie County",14,28,409
+42,83,36,13,NY,"Chautauqua County",12,23,182
+42,83,42,33,PA,"Clearfield County",11,19,135
+42,83,58,0,SS,"Other Flows - Same State",93,186,2898
+42,83,59,0,DS,"Other Flows - Diff State",256,500,7696
+42,83,59,1,DS,"Other Flows - Northeast",61,110,1848
+42,83,59,3,DS,"Other Flows - Midwest",47,98,1594
+42,83,59,5,DS,"Other Flows - South",116,230,3201
+42,83,59,7,DS,"Other Flows - West",32,62,1054
+42,85,96,0,PA,"Mercer County Tot Mig-US & For",1604,3159,49583
+42,85,97,0,PA,"Mercer County Tot Mig-US",1586,3127,49215
+42,85,97,1,PA,"Mercer County Tot Mig-Same St",767,1512,26049
+42,85,97,3,PA,"Mercer County Tot Mig-Diff St",819,1615,23166
+42,85,98,0,PA,"Mercer County Tot Mig-Foreign",18,32,368
+42,85,42,85,PA,"Mercer County Non-Migrants",42232,92202,1564860
+42,85,39,155,OH,"Trumbull County",172,311,4055
+42,85,42,73,PA,"Lawrence County",124,248,3251
+42,85,42,39,PA,"Crawford County",122,264,2823
+42,85,42,19,PA,"Butler County",121,215,3208
+42,85,42,3,PA,"Allegheny County",98,165,6497
+42,85,42,121,PA,"Venango County",60,135,2052
+42,85,39,99,OH,"Mahoning County",56,111,1455
+42,85,42,49,PA,"Erie County",32,61,810
+42,85,42,129,PA,"Westmoreland County",20,45,748
+42,85,42,7,PA,"Beaver County",17,36,700
+42,85,42,125,PA,"Washington County",16,30,402
+42,85,6,37,CA,"Los Angeles County",14,19,361
+42,85,39,35,OH,"Cuyahoga County",14,17,381
+42,85,42,31,PA,"Clarion County",11,17,282
+42,85,42,33,PA,"Clearfield County",11,25,586
+42,85,32,3,NV,"Clark County",10,13,369
+42,85,42,21,PA,"Cambria County",10,26,406
+42,85,58,0,SS,"Other Flows - Same State",125,245,4285
+42,85,59,0,DS,"Other Flows - Diff State",553,1144,16545
+42,85,59,1,DS,"Other Flows - Northeast",64,123,1972
+42,85,59,3,DS,"Other Flows - Midwest",143,323,4425
+42,85,59,5,DS,"Other Flows - South",266,541,7435
+42,85,59,7,DS,"Other Flows - West",80,157,2713
+42,85,57,9,FR,"Foreign - Other flows",18,32,368
+42,87,96,0,PA,"Mifflin County Tot Mig-US & For",502,960,12986
+42,87,97,0,PA,"Mifflin County Tot Mig-US",502,960,12986
+42,87,97,1,PA,"Mifflin County Tot Mig-Same St",375,719,9554
+42,87,97,3,PA,"Mifflin County Tot Mig-Diff St",127,241,3431
+42,87,42,87,PA,"Mifflin County Non-Migrants",16604,37675,554443
+42,87,42,61,PA,"Huntingdon County",71,141,1643
+42,87,42,67,PA,"Juniata County",63,117,1363
+42,87,42,27,PA,"Centre County",34,66,1135
+42,87,42,109,PA,"Snyder County",29,57,766
+42,87,42,43,PA,"Dauphin County",20,40,643
+42,87,42,41,PA,"Cumberland County",19,37,402
+42,87,42,133,PA,"York County",15,26,333
+42,87,42,71,PA,"Lancaster County",12,23,253
+42,87,58,0,SS,"Other Flows - Same State",112,212,3016
+42,87,59,0,DS,"Other Flows - Diff State",127,241,3431
+42,87,59,1,DS,"Other Flows - Northeast",23,44,525
+42,87,59,3,DS,"Other Flows - Midwest",23,32,614
+42,87,59,5,DS,"Other Flows - South",70,147,2103
+42,87,59,7,DS,"Other Flows - West",11,18,190
+42,89,96,0,PA,"Monroe County Tot Mig-US & For",3703,7831,153881
+42,89,97,0,PA,"Monroe County Tot Mig-US",3662,7761,152822
+42,89,97,1,PA,"Monroe County Tot Mig-Same St",1127,2052,39677
+42,89,97,3,PA,"Monroe County Tot Mig-Diff St",2535,5709,113145
+42,89,98,0,PA,"Monroe County Tot Mig-Foreign",41,70,1060
+42,89,42,89,PA,"Monroe County Non-Migrants",42742,98358,1851804
+42,89,42,95,PA,"Northampton County",234,439,7502
+42,89,36,81,NY,"Queens County",209,499,10143
+42,89,36,47,NY,"Kings County",208,504,9390
+42,89,36,5,NY,"Bronx County",171,442,7699
+42,89,34,27,NJ,"Morris County",148,320,7044
+42,89,42,103,PA,"Pike County",120,265,3502
+42,89,42,25,PA,"Carbon County",116,216,3006
+42,89,34,3,NJ,"Bergen County",98,222,5079
+42,89,34,41,NJ,"Warren County",96,188,4045
+42,89,34,23,NJ,"Middlesex County",90,217,4775
+42,89,34,17,NJ,"Hudson County",86,232,4176
+42,89,42,77,PA,"Lehigh County",86,159,3104
+42,89,36,61,NY,"New York County",83,195,4259
+42,89,34,13,NJ,"Essex County",80,170,3300
+42,89,42,79,PA,"Luzerne County",75,121,1978
+42,89,34,37,NJ,"Sussex County",73,142,2752
+42,89,34,31,NJ,"Passaic County",72,171,2956
+42,89,42,69,PA,"Lackawanna County",70,110,2602
+42,89,42,17,PA,"Bucks County",69,122,3944
+42,89,36,103,NY,"Suffolk County",66,184,3250
+42,89,42,101,PA,"Philadelphia County",66,127,2350
+42,89,36,85,NY,"Richmond County",58,148,2876
+42,89,36,59,NY,"Nassau County",57,133,3081
+42,89,34,39,NJ,"Union County",47,110,1850
+42,89,34,35,NJ,"Somerset County",42,87,2067
+42,89,42,127,PA,"Wayne County",42,69,1280
+42,89,34,25,NJ,"Monmouth County",37,80,1772
+42,89,42,91,PA,"Montgomery County",37,70,2625
+42,89,36,119,NY,"Westchester County",32,76,2304
+42,89,42,45,PA,"Delaware County",30,47,979
+42,89,34,19,NJ,"Hunterdon County",24,53,1449
+42,89,6,67,CA,"Sacramento County",20,41,1185
+42,89,34,5,NJ,"Burlington County",18,32,984
+42,89,34,29,NJ,"Ocean County",18,48,706
+42,89,36,71,NY,"Orange County",18,43,803
+42,89,12,11,FL,"Broward County",17,36,410
+42,89,42,71,PA,"Lancaster County",17,30,560
+42,89,57,5,FR,"Foreign - APO/FPO ZIPs",17,31,450
+42,89,42,11,PA,"Berks County",16,24,746
+42,89,12,99,FL,"Palm Beach County",15,31,486
+42,89,34,21,NJ,"Mercer County",15,40,779
+42,89,36,87,NY,"Rockland County",14,29,715
+42,89,42,3,PA,"Allegheny County",11,17,308
+42,89,42,37,PA,"Columbia County",11,19,310
+42,89,42,107,PA,"Schuylkill County",11,14,240
+42,89,4,13,AZ,"Maricopa County",10,17,466
+42,89,6,37,CA,"Los Angeles County",10,18,352
+42,89,6,73,CA,"San Diego County",10,17,194
+42,89,12,25,FL,"Dade County",10,11,393
+42,89,42,27,PA,"Centre County",10,15,345
+42,89,42,43,PA,"Dauphin County",10,18,247
+42,89,58,0,SS,"Other Flows - Same State",96,170,4051
+42,89,59,0,DS,"Other Flows - Diff State",583,1173,21404
+42,89,59,1,DS,"Other Flows - Northeast",119,238,4725
+42,89,59,3,DS,"Other Flows - Midwest",84,186,4129
+42,89,59,5,DS,"Other Flows - South",319,647,10771
+42,89,59,7,DS,"Other Flows - West",61,102,1780
+42,89,57,9,FR,"Foreign - Other flows",24,39,609
+42,91,96,0,PA,"Montgomery Coun Tot Mig-US & For",19636,34266,1055880
+42,91,97,0,PA,"Montgomery Coun Tot Mig-US",19228,33702,1043617
+42,91,97,1,PA,"Montgomery Coun Tot Mig-Same St",13249,23072,666543
+42,91,97,3,PA,"Montgomery Coun Tot Mig-Diff St",5979,10630,377074
+42,91,98,0,PA,"Montgomery Coun Tot Mig-Foreign",408,564,12263
+42,91,42,91,PA,"Montgomery Coun Non-Migrants",262252,565545,18441363
+42,91,42,101,PA,"Philadelphia County",4832,8982,240207
+42,91,42,17,PA,"Bucks County",3007,5278,142753
+42,91,42,29,PA,"Chester County",1813,2979,95857
+42,91,42,45,PA,"Delaware County",1384,2299,93873
+42,91,42,11,PA,"Berks County",634,1125,23655
+42,91,57,1,FR,"Foreign - Overseas",343,468,10523
+42,91,42,77,PA,"Lehigh County",272,415,11967
+42,91,34,7,NJ,"Camden County",254,434,14441
+42,91,34,5,NJ,"Burlington County",189,330,11204
+42,91,10,3,DE,"New Castle County",145,229,8207
+42,91,42,3,PA,"Allegheny County",139,242,8726
+42,91,42,71,PA,"Lancaster County",139,202,5431
+42,91,36,61,NY,"New York County",114,171,7615
+42,91,42,95,PA,"Northampton County",107,149,9012
+42,91,42,79,PA,"Luzerne County",102,156,4332
+42,91,34,23,NJ,"Middlesex County",100,194,6455
+42,91,6,37,CA,"Los Angeles County",87,148,9406
+42,91,51,59,VA,"Fairfax County",85,139,6340
+42,91,12,11,FL,"Broward County",80,119,3118
+42,91,25,17,MA,"Middlesex County",80,137,16264
+42,91,42,43,PA,"Dauphin County",79,113,3763
+42,91,17,31,IL,"Cook County",77,136,6433
+42,91,24,31,MD,"Montgomery County",77,155,6070
+42,91,42,69,PA,"Lackawanna County",72,100,2727
+42,91,34,15,NJ,"Gloucester County",61,109,3368
+42,91,34,21,NJ,"Mercer County",60,93,4199
+42,91,36,103,NY,"Suffolk County",60,112,2648
+42,91,42,41,PA,"Cumberland County",59,92,2852
+42,91,42,133,PA,"York County",59,96,2411
+42,91,4,13,AZ,"Maricopa County",58,98,4872
+42,91,6,73,CA,"San Diego County",58,96,2095
+42,91,34,9,NJ,"Cape May County",57,109,3348
+42,91,42,27,PA,"Centre County",57,83,1683
+42,91,12,99,FL,"Palm Beach County",56,95,4245
+42,91,34,25,NJ,"Monmouth County",55,90,3190
+42,91,42,89,PA,"Monroe County",54,92,2185
+42,91,57,5,FR,"Foreign - APO/FPO ZIPs",53,79,1557
+42,91,34,27,NJ,"Morris County",52,89,4168
+42,91,36,81,NY,"Queens County",51,98,1738
+42,91,9,1,CT,"Fairfield County",50,94,7899
+42,91,36,47,NY,"Kings County",49,82,2310
+42,91,42,107,PA,"Schuylkill County",49,67,1755
+42,91,34,35,NJ,"Somerset County",48,96,4282
+42,91,6,59,CA,"Orange County",46,86,3983
+42,91,9,9,CT,"New Haven County",46,83,3843
+42,91,34,1,NJ,"Atlantic County",46,79,2083
+42,91,34,29,NJ,"Ocean County",46,72,3337
+42,91,24,5,MD,"Baltimore County",43,88,2825
+42,91,12,103,FL,"Pinellas County",41,67,2734
+42,91,34,3,NJ,"Bergen County",41,68,5475
+42,91,36,119,NY,"Westchester County",41,72,3145
+42,91,13,121,GA,"Fulton County",40,62,1639
+42,91,9,3,CT,"Hartford County",39,81,4025
+42,91,6,85,CA,"Santa Clara County",38,74,2609
+42,91,11,1,DC,"District Of Columbia",38,47,1406
+42,91,12,25,FL,"Dade County",38,73,3093
+42,91,34,13,NJ,"Essex County",37,63,2326
+42,91,34,39,NJ,"Union County",37,59,3022
+42,91,51,13,VA,"Arlington County",35,46,2237
+42,91,39,49,OH,"Franklin County",34,61,1928
+42,91,27,53,MN,"Hennepin County",33,44,2166
+42,91,36,59,NY,"Nassau County",33,56,2659
+42,91,37,119,NC,"Mecklenburg County",33,55,1904
+42,91,39,35,OH,"Cuyahoga County",33,66,3192
+42,91,48,201,TX,"Harris County",33,71,2428
+42,91,42,81,PA,"Lycoming County",32,47,787
+42,91,25,21,MA,"Norfolk County",30,55,2671
+42,91,24,3,MD,"Anne Arundel County",29,54,1576
+42,91,24,33,MD,"Prince George's Coun",29,51,1523
+42,91,34,17,NJ,"Hudson County",29,60,2385
+42,91,36,29,NY,"Erie County",29,52,2028
+42,91,37,183,NC,"Wake County",29,38,1575
+42,91,42,75,PA,"Lebanon County",29,39,934
+42,91,34,19,NJ,"Hunterdon County",28,58,1921
+42,91,36,55,NY,"Monroe County",28,47,1919
+42,91,36,67,NY,"Onondaga County",28,57,1467
+42,91,24,510,MD,Baltimore,27,46,1470
+42,91,48,113,TX,"Dallas County",27,42,1836
+42,91,6,75,CA,"San Francisco County",26,39,1221
+42,91,12,71,FL,"Lee County",25,51,765
+42,91,25,25,MA,"Suffolk County",25,33,3485
+42,91,17,43,IL,"Du Page County",23,48,1428
+42,91,24,27,MD,"Howard County",23,38,1731
+42,91,12,57,FL,"Hillsborough County",22,41,882
+42,91,12,95,FL,"Orange County",22,35,1026
+42,91,25,27,MA,"Worcester County",22,48,2146
+42,91,26,161,MI,"Washtenaw County",22,37,980
+42,91,42,25,PA,"Carbon County",22,37,844
+42,91,12,31,FL,"Duval County",21,44,1232
+42,91,13,89,GA,"De Kalb County",21,39,1162
+42,91,34,11,NJ,"Cumberland County",21,33,615
+42,91,36,71,NY,"Orange County",21,51,1379
+42,91,39,61,OH,"Hamilton County",21,39,1351
+42,91,47,37,TN,"Davidson County",21,39,1386
+42,91,53,33,WA,"King County",21,37,1209
+42,91,12,115,FL,"Sarasota County",20,25,463
+42,91,13,67,GA,"Cobb County",19,48,1521
+42,91,29,189,MO,"St Louis County",19,42,1702
+42,91,34,31,NJ,"Passaic County",19,37,1313
+42,91,42,37,PA,"Columbia County",19,26,548
+42,91,26,125,MI,"Oakland County",18,32,1271
+42,91,36,7,NY,"Broome County",18,25,576
+42,91,36,109,NY,"Tompkins County",18,37,1092
+42,91,48,453,TX,"Travis County",18,31,814
+42,91,51,810,VA,"Virginia Beach",18,38,736
+42,91,12,127,FL,"Volusia County",17,29,519
+42,91,17,97,IL,"Lake County",17,36,1336
+42,91,18,97,IN,"Marion County",17,28,949
+42,91,26,163,MI,"Wayne County",17,30,927
+42,91,42,19,PA,"Butler County",17,27,843
+42,91,51,87,VA,"Henrico County",17,28,1005
+42,91,6,1,CA,"Alameda County",16,29,1074
+42,91,10,1,DE,"Kent County",16,35,898
+42,91,10,5,DE,"Sussex County",16,26,541
+42,91,32,3,NV,"Clark County",16,22,515
+42,91,37,81,NC,"Guilford County",16,27,826
+42,91,51,153,VA,"Prince William Count",16,40,1219
+42,91,51,510,VA,Alexandria,16,23,1200
+42,91,24,21,MD,"Frederick County",15,31,753
+42,91,24,25,MD,"Harford County",15,28,746
+42,91,25,13,MA,"Hampden County",15,23,793
+42,91,39,113,OH,"Montgomery County",15,23,840
+42,91,42,7,PA,"Beaver County",15,36,799
+42,91,42,97,PA,"Northumberland Count",15,23,557
+42,91,42,127,PA,"Wayne County",15,22,656
+42,91,44,7,RI,"Providence County",15,35,884
+42,91,51,710,VA,Norfolk,15,21,473
+42,91,12,117,FL,"Seminole County",14,20,670
+42,91,13,135,GA,"Gwinnett County",14,29,672
+42,91,21,111,KY,"Jefferson County",14,36,1408
+42,91,22,71,LA,"Orleans Parish",14,17,223
+42,91,33,11,NH,"Hillsborough County",14,23,718
+42,91,34,41,NJ,"Warren County",13,26,1265
+42,91,48,29,TX,"Bexar County",13,21,511
+42,91,55,25,WI,"Dane County",13,23,483
+42,91,12,9,FL,"Brevard County",12,21,597
+42,91,12,33,FL,"Escambia County",12,16,491
+42,91,25,9,MA,"Essex County",12,19,878
+42,91,36,1,NY,"Albany County",12,15,483
+42,91,42,1,PA,"Adams County",12,24,440
+42,91,42,13,PA,"Blair County",12,19,414
+42,91,42,21,PA,"Cambria County",12,14,493
+42,91,42,129,PA,"Westmoreland County",12,17,490
+42,91,1,73,AL,"Jefferson County",11,15,468
+42,91,4,19,AZ,"Pima County",11,15,352
+42,91,6,13,CA,"Contra Costa County",11,27,1679
+42,91,6,111,CA,"Ventura County",11,21,1300
+42,91,8,5,CO,"Arapahoe County",11,18,818
+42,91,8,13,CO,"Boulder County",11,16,368
+42,91,8,41,CO,"El Paso County",11,17,515
+42,91,9,11,CT,"New London County",11,20,585
+42,91,23,5,ME,"Cumberland County",11,16,357
+42,91,29,95,MO,"Jackson County",11,17,426
+42,91,36,85,NY,"Richmond County",11,18,834
+42,91,39,153,OH,"Summit County",11,19,1117
+42,91,41,51,OR,"Multnomah County",11,15,381
+42,91,42,55,PA,"Franklin County",11,16,301
+42,91,42,125,PA,"Washington County",11,20,508
+42,91,45,45,SC,"Greenville County",11,17,361
+42,91,45,79,SC,"Richland County",11,25,680
+42,91,51,700,VA,"Newport News",11,18,323
+42,91,17,19,IL,"Champaign County",10,19,399
+42,91,18,57,IN,"Hamilton County",10,40,1967
+42,91,20,91,KS,"Johnson County",10,23,780
+42,91,36,5,NY,"Bronx County",10,20,436
+42,91,36,87,NY,"Rockland County",10,20,656
+42,91,36,111,NY,"Ulster County",10,19,519
+42,91,42,49,PA,"Erie County",10,11,227
+42,91,42,109,PA,"Snyder County",10,15,397
+42,91,47,157,TN,"Shelby County",10,28,561
+42,91,48,85,TX,"Collin County",10,27,1011
+42,91,48,439,TX,"Tarrant County",10,26,673
+42,91,58,0,SS,"Other Flows - Same State",137,209,4118
+42,91,59,0,DS,"Other Flows - Diff State",1578,2881,77784
+42,91,59,1,DS,"Other Flows - Northeast",263,448,13901
+42,91,59,3,DS,"Other Flows - Midwest",303,577,15159
+42,91,59,5,DS,"Other Flows - South",746,1340,34515
+42,91,59,7,DS,"Other Flows - West",266,516,14210
+42,91,57,9,FR,"Foreign - Other flows",12,17,183
+42,93,96,0,PA,"Montour County Tot Mig-US & For",409,768,13244
+42,93,97,0,PA,"Montour County Tot Mig-US",409,768,13244
+42,93,97,1,PA,"Montour County Tot Mig-Same St",304,546,8920
+42,93,97,3,PA,"Montour County Tot Mig-Diff St",105,222,4324
+42,93,42,93,PA,"Montour County Non-Migrants",4914,11003,215091
+42,93,42,97,PA,"Northumberland Count",97,173,2467
+42,93,42,37,PA,"Columbia County",95,182,2994
+42,93,42,81,PA,"Lycoming County",17,32,447
+42,93,42,119,PA,"Union County",17,34,599
+42,93,58,0,SS,"Other Flows - Same State",78,125,2414
+42,93,59,0,DS,"Other Flows - Diff State",105,222,4324
+42,93,59,1,DS,"Other Flows - Northeast",38,60,1494
+42,93,59,3,DS,"Other Flows - Midwest",17,41,954
+42,93,59,5,DS,"Other Flows - South",38,95,1465
+42,93,59,7,DS,"Other Flows - West",12,26,411
+42,95,96,0,PA,"Northampton Cou Tot Mig-US & For",5721,10675,227218
+42,95,97,0,PA,"Northampton Cou Tot Mig-US",5581,10512,226589
+42,95,97,1,PA,"Northampton Cou Tot Mig-Same St",3194,5770,114807
+42,95,97,3,PA,"Northampton Cou Tot Mig-Diff St",2387,4742,111782
+42,95,98,0,PA,"Northampton Cou Tot Mig-Foreign",140,163,629
+42,95,42,95,PA,"Northampton Cou Non-Migrants",95946,209169,4566284
+42,95,42,77,PA,"Lehigh County",2033,3716,74862
+42,95,34,41,NJ,"Warren County",475,827,15507
+42,95,42,89,PA,"Monroe County",300,547,9496
+42,95,42,17,PA,"Bucks County",179,347,6843
+42,95,34,19,NJ,"Hunterdon County",153,303,7279
+42,95,42,25,PA,"Carbon County",98,145,2533
+42,95,34,35,NJ,"Somerset County",89,190,6168
+42,95,42,11,PA,"Berks County",80,132,2917
+42,95,42,91,PA,"Montgomery County",78,135,3081
+42,95,34,23,NJ,"Middlesex County",71,133,3066
+42,95,34,27,NJ,"Morris County",71,130,2034
+42,95,34,39,NJ,"Union County",67,127,3046
+42,95,42,101,PA,"Philadelphia County",59,99,1464
+42,95,42,79,PA,"Luzerne County",46,78,1647
+42,95,34,13,NJ,"Essex County",42,108,1469
+42,95,34,3,NJ,"Bergen County",31,59,1528
+42,95,34,25,NJ,"Monmouth County",30,62,1490
+42,95,36,47,NY,"Kings County",30,85,810
+42,95,42,29,PA,"Chester County",30,52,1144
+42,95,34,37,NJ,"Sussex County",28,58,3345
+42,95,36,81,NY,"Queens County",28,58,1274
+42,95,42,107,PA,"Schuylkill County",27,44,826
+42,95,34,29,NJ,"Ocean County",26,51,965
+42,95,42,71,PA,"Lancaster County",26,53,859
+42,95,36,5,NY,"Bronx County",24,44,756
+42,95,36,61,NY,"New York County",23,41,822
+42,95,42,45,PA,"Delaware County",23,31,1302
+42,95,34,17,NJ,"Hudson County",22,45,715
+42,95,34,31,NJ,"Passaic County",21,48,1131
+42,95,6,37,CA,"Los Angeles County",20,28,786
+42,95,34,5,NJ,"Burlington County",20,39,980
+42,95,36,103,NY,"Suffolk County",17,33,463
+42,95,36,59,NY,"Nassau County",16,34,637
+42,95,42,69,PA,"Lackawanna County",16,30,539
+42,95,42,103,PA,"Pike County",16,20,415
+42,95,12,57,FL,"Hillsborough County",15,27,730
+42,95,12,103,FL,"Pinellas County",15,36,309
+42,95,34,7,NJ,"Camden County",15,33,1170
+42,95,42,133,PA,"York County",15,22,421
+42,95,17,31,IL,"Cook County",14,26,1290
+42,95,36,85,NY,"Richmond County",14,38,877
+42,95,42,41,PA,"Cumberland County",14,29,840
+42,95,9,3,CT,"Hartford County",13,17,589
+42,95,42,3,PA,"Allegheny County",13,27,443
+42,95,42,43,PA,"Dauphin County",13,23,615
+42,95,4,13,AZ,"Maricopa County",12,19,435
+42,95,10,3,DE,"New Castle County",12,25,549
+42,95,34,21,NJ,"Mercer County",12,23,633
+42,95,57,5,FR,"Foreign - APO/FPO ZIPs",12,21,248
+42,95,6,73,CA,"San Diego County",11,26,417
+42,95,12,11,FL,"Broward County",11,17,500
+42,95,12,95,FL,"Orange County",11,21,512
+42,95,24,25,MD,"Harford County",10,22,677
+42,95,42,15,PA,"Bradford County",10,20,433
+42,95,58,0,SS,"Other Flows - Same State",118,220,4127
+42,95,59,0,DS,"Other Flows - Diff State",918,1909,48825
+42,95,59,1,DS,"Other Flows - Northeast",208,435,9526
+42,95,59,3,DS,"Other Flows - Midwest",154,343,9607
+42,95,59,5,DS,"Other Flows - South",438,913,23201
+42,95,59,7,DS,"Other Flows - West",118,218,6492
+42,95,57,9,FR,"Foreign - Other flows",128,142,381
+42,97,96,0,PA,"Northumberland Tot Mig-US & For",1463,2740,38666
+42,97,97,0,PA,"Northumberland Tot Mig-US",1463,2740,38666
+42,97,97,1,PA,"Northumberland Tot Mig-Same St",1138,2122,30003
+42,97,97,3,PA,"Northumberland Tot Mig-Diff St",325,618,8664
+42,97,42,97,PA,"Northumberland Non-Migrants",33094,70963,1119491
+42,97,42,119,PA,"Union County",232,434,5580
+42,97,42,109,PA,"Snyder County",186,335,4378
+42,97,42,81,PA,"Lycoming County",113,213,3409
+42,97,42,37,PA,"Columbia County",104,186,2798
+42,97,42,93,PA,"Montour County",85,174,2787
+42,97,42,43,PA,"Dauphin County",73,137,2042
+42,97,42,107,PA,"Schuylkill County",57,113,1269
+42,97,42,79,PA,"Luzerne County",23,37,578
+42,97,42,133,PA,"York County",19,36,436
+42,97,42,17,PA,"Bucks County",16,24,464
+42,97,42,27,PA,"Centre County",16,32,393
+42,97,42,41,PA,"Cumberland County",15,30,343
+42,97,42,71,PA,"Lancaster County",15,36,226
+42,97,42,11,PA,"Berks County",14,30,380
+42,97,42,91,PA,"Montgomery County",13,23,657
+42,97,42,35,PA,"Clinton County",12,22,158
+42,97,42,77,PA,"Lehigh County",11,19,340
+42,97,42,99,PA,"Perry County",11,25,268
+42,97,42,101,PA,"Philadelphia County",11,18,433
+42,97,42,45,PA,"Delaware County",10,13,348
+42,97,42,75,PA,"Lebanon County",10,20,377
+42,97,58,0,SS,"Other Flows - Same State",92,165,2339
+42,97,59,0,DS,"Other Flows - Diff State",325,618,8664
+42,97,59,1,DS,"Other Flows - Northeast",100,188,3102
+42,97,59,3,DS,"Other Flows - Midwest",45,93,1155
+42,97,59,5,DS,"Other Flows - South",144,269,3513
+42,97,59,7,DS,"Other Flows - West",36,68,894
+42,99,96,0,PA,"Perry County Tot Mig-US & For",944,1804,30042
+42,99,97,0,PA,"Perry County Tot Mig-US",944,1804,30042
+42,99,97,1,PA,"Perry County Tot Mig-Same St",812,1538,25410
+42,99,97,3,PA,"Perry County Tot Mig-Diff St",132,266,4632
+42,99,42,99,PA,"Perry County Non-Migrants",16504,37244,637323
+42,99,42,41,PA,"Cumberland County",292,551,8862
+42,99,42,43,PA,"Dauphin County",237,444,7753
+42,99,42,133,PA,"York County",50,87,1558
+42,99,42,67,PA,"Juniata County",44,89,1025
+42,99,42,71,PA,"Lancaster County",23,51,904
+42,99,42,1,PA,"Adams County",14,28,460
+42,99,42,87,PA,"Mifflin County",14,31,398
+42,99,42,109,PA,"Snyder County",13,21,420
+42,99,42,75,PA,"Lebanon County",12,21,347
+42,99,58,0,SS,"Other Flows - Same State",113,215,3681
+42,99,59,0,DS,"Other Flows - Diff State",132,266,4632
+42,99,59,1,DS,"Other Flows - Northeast",27,53,1295
+42,99,59,3,DS,"Other Flows - Midwest",11,28,431
+42,99,59,5,DS,"Other Flows - South",77,160,2446
+42,99,59,7,DS,"Other Flows - West",17,25,460
+42,101,96,0,PA,"Philadelphia Co Tot Mig-US & For",20428,31085,666367
+42,101,97,0,PA,"Philadelphia Co Tot Mig-US",19090,29527,654073
+42,101,97,1,PA,"Philadelphia Co Tot Mig-Same St",8441,13310,286439
+42,101,97,3,PA,"Philadelphia Co Tot Mig-Diff St",10649,16217,367634
+42,101,98,0,PA,"Philadelphia Co Tot Mig-Foreign",1338,1558,12293
+42,101,42,101,PA,"Philadelphia Co Non-Migrants",465846,941001,15858809
+42,101,42,91,PA,"Montgomery County",2646,4167,103934
+42,101,42,17,PA,"Bucks County",1887,3152,60018
+42,101,42,45,PA,"Delaware County",1813,3090,56947
+42,101,34,7,NJ,"Camden County",844,1396,29005
+42,101,42,29,PA,"Chester County",474,691,19245
+42,101,34,5,NJ,"Burlington County",466,734,18766
+42,101,36,61,NY,"New York County",374,534,19925
+42,101,10,3,DE,"New Castle County",336,550,17773
+42,101,36,47,NY,"Kings County",270,542,6065
+42,101,34,15,NJ,"Gloucester County",238,418,7611
+42,101,34,1,NJ,"Atlantic County",205,308,6395
+42,101,17,31,IL,"Cook County",184,243,9307
+42,101,42,3,PA,"Allegheny County",166,215,7585
+42,101,6,37,CA,"Los Angeles County",161,219,5148
+42,101,36,81,NY,"Queens County",154,278,3751
+42,101,42,71,PA,"Lancaster County",152,202,4476
+42,101,24,31,MD,"Montgomery County",145,183,5264
+42,101,11,1,DC,"District Of Columbia",141,175,5824
+42,101,34,21,NJ,"Mercer County",138,199,5035
+42,101,42,11,PA,"Berks County",138,197,4123
+42,101,25,17,MA,"Middlesex County",131,175,6331
+42,101,34,9,NJ,"Cape May County",123,186,4834
+42,101,34,23,NJ,"Middlesex County",120,184,3639
+42,101,42,77,PA,"Lehigh County",116,170,3501
+42,101,42,43,PA,"Dauphin County",112,157,2601
+42,101,25,25,MA,"Suffolk County",109,134,3716
+42,101,57,5,FR,"Foreign - APO/FPO ZIPs",107,179,2340
+42,101,36,5,NY,"Bronx County",104,200,1705
+42,101,12,25,FL,"Dade County",102,150,2696
+42,101,42,79,PA,"Luzerne County",100,124,3391
+42,101,24,510,MD,Baltimore,96,135,2790
+42,101,24,5,MD,"Baltimore County",90,114,3152
+42,101,48,201,TX,"Harris County",89,149,3930
+42,101,6,75,CA,"San Francisco County",84,97,3604
+42,101,34,13,NJ,"Essex County",84,151,2644
+42,101,51,59,VA,"Fairfax County",84,123,3086
+42,101,12,11,FL,"Broward County",83,114,2671
+42,101,34,29,NJ,"Ocean County",83,125,3098
+42,101,24,33,MD,"Prince George's Coun",82,129,1734
+42,101,34,25,NJ,"Monmouth County",82,94,2800
+42,101,36,59,NY,"Nassau County",81,102,2349
+42,101,6,73,CA,"San Diego County",79,124,3960
+42,101,42,81,PA,"Lycoming County",79,148,972
+42,101,9,1,CT,"Fairfield County",78,96,5714
+42,101,36,103,NY,"Suffolk County",77,103,2318
+42,101,34,17,NJ,"Hudson County",72,116,2688
+42,101,34,3,NJ,"Bergen County",70,93,2837
+42,101,42,95,PA,"Northampton County",69,94,1797
+42,101,9,9,CT,"New Haven County",68,94,2916
+42,101,36,119,NY,"Westchester County",67,94,2976
+42,101,12,103,FL,"Pinellas County",63,96,2188
+42,101,42,69,PA,"Lackawanna County",63,80,2210
+42,101,42,27,PA,"Centre County",62,71,1252
+42,101,13,121,GA,"Fulton County",61,83,2732
+42,101,42,89,PA,"Monroe County",61,84,1674
+42,101,53,33,WA,"King County",61,83,2195
+42,101,42,41,PA,"Cumberland County",58,74,1954
+42,101,13,89,GA,"De Kalb County",56,83,1195
+42,101,42,133,PA,"York County",55,70,1571
+42,101,12,99,FL,"Palm Beach County",54,74,1925
+42,101,34,39,NJ,"Union County",54,84,1832
+42,101,51,13,VA,"Arlington County",54,67,2314
+42,101,6,1,CA,"Alameda County",53,74,2123
+42,101,39,35,OH,"Cuyahoga County",52,74,2456
+42,101,34,27,NJ,"Morris County",50,72,2365
+42,101,36,29,NY,"Erie County",47,65,1856
+42,101,9,3,CT,"Hartford County",46,63,1441
+42,101,6,59,CA,"Orange County",45,67,1307
+42,101,12,31,FL,"Duval County",45,81,1512
+42,101,12,57,FL,"Hillsborough County",45,80,1361
+42,101,48,113,TX,"Dallas County",45,68,1960
+42,101,36,55,NY,"Monroe County",44,61,895
+42,101,4,13,AZ,"Maricopa County",42,60,1287
+42,101,12,95,FL,"Orange County",42,74,1268
+42,101,34,35,NJ,"Somerset County",42,53,1525
+42,101,6,85,CA,"Santa Clara County",41,50,1610
+42,101,37,51,NC,"Cumberland County",41,63,1071
+42,101,39,49,OH,"Franklin County",39,57,1172
+42,101,25,21,MA,"Norfolk County",38,47,1565
+42,101,24,3,MD,"Anne Arundel County",37,57,1342
+42,101,44,7,RI,"Providence County",37,52,1060
+42,101,51,710,VA,Norfolk,36,79,581
+42,101,32,3,NV,"Clark County",34,50,792
+42,101,42,75,PA,"Lebanon County",34,53,637
+42,101,51,760,VA,Richmond,34,48,1487
+42,101,57,3,FR,"Foreign - Puerto Rico",34,90,572
+42,101,37,183,NC,"Wake County",33,54,750
+42,101,27,53,MN,"Hennepin County",32,37,815
+42,101,26,125,MI,"Oakland County",31,43,1671
+42,101,42,107,PA,"Schuylkill County",31,46,917
+42,101,36,67,NY,"Onondaga County",30,44,904
+42,101,37,119,NC,"Mecklenburg County",30,49,1384
+42,101,10,1,DE,"Kent County",28,47,520
+42,101,36,1,NY,"Albany County",28,32,535
+42,101,45,79,SC,"Richland County",28,51,611
+42,101,12,127,FL,"Volusia County",27,39,1028
+42,101,34,11,NJ,"Cumberland County",27,35,469
+42,101,48,27,TX,"Bell County",27,45,438
+42,101,51,87,VA,"Henrico County",27,40,949
+42,101,39,61,OH,"Hamilton County",26,33,962
+42,101,48,453,TX,"Travis County",26,34,949
+42,101,34,31,NJ,"Passaic County",25,47,791
+42,101,13,67,GA,"Cobb County",24,32,857
+42,101,24,27,MD,"Howard County",24,38,731
+42,101,36,87,NY,"Rockland County",24,38,792
+42,101,15,3,HI,"Honolulu County",23,43,511
+42,101,26,163,MI,"Wayne County",23,36,618
+42,101,29,189,MO,"St Louis County",23,31,1327
+42,101,34,19,NJ,"Hunterdon County",23,29,754
+42,101,42,21,PA,"Cambria County",23,29,473
+42,101,51,810,VA,"Virginia Beach",23,39,450
+42,101,26,161,MI,"Washtenaw County",22,24,525
+42,101,51,510,VA,Alexandria,22,27,719
+42,101,55,79,WI,"Milwaukee County",22,30,659
+42,101,24,25,MD,"Harford County",21,26,530
+42,101,36,45,NY,"Jefferson County",21,48,411
+42,101,42,37,PA,"Columbia County",21,30,628
+42,101,47,37,TN,"Davidson County",21,35,1045
+42,101,4,19,AZ,"Pima County",20,29,429
+42,101,12,1,FL,"Alachua County",20,29,636
+42,101,34,33,NJ,"Salem County",20,29,499
+42,101,37,135,NC,"Orange County",20,23,537
+42,101,47,157,TN,"Shelby County",20,30,660
+42,101,18,97,IN,"Marion County",19,23,650
+42,101,25,9,MA,"Essex County",19,38,711
+42,101,36,7,NY,"Broome County",19,25,424
+42,101,41,51,OR,"Multnomah County",19,23,2288
+42,101,45,19,SC,"Charleston County",19,25,304
+42,101,51,41,VA,"Chesterfield County",19,36,908
+42,101,6,81,CA,"San Mateo County",18,31,1080
+42,101,8,5,CO,"Arapahoe County",18,21,501
+42,101,22,71,LA,"Orleans Parish",18,26,451
+42,101,42,97,PA,"Northumberland Count",18,24,434
+42,101,42,129,PA,"Westmoreland County",18,20,392
+42,101,25,15,MA,"Hampshire County",17,18,427
+42,101,36,109,NY,"Tompkins County",17,31,709
+42,101,37,63,NC,"Durham County",17,20,669
+42,101,42,127,PA,"Wayne County",17,25,443
+42,101,48,439,TX,"Tarrant County",17,23,744
+42,101,8,31,CO,"Denver County",16,23,736
+42,101,10,5,DE,"Sussex County",16,28,566
+42,101,12,71,FL,"Lee County",16,27,521
+42,101,13,135,GA,"Gwinnett County",16,24,448
+42,101,25,27,MA,"Worcester County",16,27,292
+42,101,29,95,MO,"Jackson County",16,22,460
+42,101,36,85,NY,"Richmond County",16,21,385
+42,101,37,81,NC,"Guilford County",16,24,386
+42,101,55,25,WI,"Dane County",16,23,609
+42,101,26,65,MI,"Ingham County",15,15,204
+42,101,37,67,NC,"Forsyth County",15,24,506
+42,101,42,25,PA,"Carbon County",15,19,284
+42,101,6,65,CA,"Riverside County",14,20,464
+42,101,6,71,CA,"San Bernardino Count",14,26,156
+42,101,12,101,FL,"Pasco County",14,22,200
+42,101,25,5,MA,"Bristol County",14,20,355
+42,101,33,9,NH,"Grafton County",14,19,648
+42,101,34,41,NJ,"Warren County",14,17,412
+42,101,49,35,UT,"Salt Lake County",14,18,285
+42,101,53,53,WA,"Pierce County",14,32,490
+42,101,6,13,CA,"Contra Costa County",13,17,470
+42,101,6,67,CA,"Sacramento County",13,18,310
+42,101,12,73,FL,"Leon County",13,16,230
+42,101,12,81,FL,"Manatee County",13,20,484
+42,101,12,97,FL,"Osceola County",13,32,250
+42,101,12,105,FL,"Polk County",13,25,457
+42,101,13,51,GA,"Chatham County",13,22,514
+42,101,21,47,KY,"Christian County",13,32,185
+42,101,25,13,MA,"Hampden County",13,16,268
+42,101,29,510,MO,"St Louis",13,19,875
+42,101,36,91,NY,"Saratoga County",13,17,296
+42,101,37,133,NC,"Onslow County",13,26,207
+42,101,42,13,PA,"Blair County",13,17,178
+42,101,42,55,PA,"Franklin County",13,16,494
+42,101,51,650,VA,Hampton,13,21,269
+42,101,27,123,MN,"Ramsey County",12,20,336
+42,101,42,15,PA,"Bradford County",12,12,213
+42,101,42,49,PA,"Erie County",12,16,252
+42,101,48,141,TX,"El Paso County",12,22,205
+42,101,51,153,VA,"Prince William Count",12,19,461
+42,101,1,73,AL,"Jefferson County",11,14,400
+42,101,9,11,CT,"New London County",11,15,264
+42,101,12,9,FL,"Brevard County",11,16,307
+42,101,12,115,FL,"Sarasota County",11,13,449
+42,101,12,117,FL,"Seminole County",11,18,169
+42,101,13,245,GA,"Richmond County",11,20,328
+42,101,17,97,IL,"Lake County",11,12,286
+42,101,20,61,KS,"Geary County",11,21,167
+42,101,23,5,ME,"Cumberland County",11,11,248
+42,101,25,23,MA,"Plymouth County",11,20,882
+42,101,33,11,NH,"Hillsborough County",11,14,619
+42,101,35,1,NM,"Bernalillo County",11,16,404
+42,101,36,71,NY,"Orange County",11,17,614
+42,101,39,95,OH,"Lucas County",11,13,252
+42,101,39,153,OH,"Summit County",11,12,286
+42,101,40,109,OK,"Oklahoma County",11,15,292
+42,101,42,1,PA,"Adams County",11,12,223
+42,101,42,115,PA,"Susquehanna County",11,15,198
+42,101,45,75,SC,"Orangeburg County",11,21,149
+42,101,51,107,VA,"Loudoun County",11,15,288
+42,101,51,550,VA,Chesapeake,11,20,350
+42,101,1,89,AL,"Madison County",10,12,129
+42,101,13,215,GA,"Muscogee County",10,20,240
+42,101,24,15,MD,"Cecil County",10,17,214
+42,101,24,45,MD,"Wicomico County",10,15,146
+42,101,25,3,MA,"Berkshire County",10,18,236
+42,101,36,27,NY,"Dutchess County",10,14,236
+42,101,36,65,NY,"Oneida County",10,12,195
+42,101,36,93,NY,"Schenectady County",10,18,283
+42,101,40,31,OK,"Comanche County",10,24,168
+42,101,42,103,PA,"Pike County",10,22,187
+42,101,48,29,TX,"Bexar County",10,14,187
+42,101,51,700,VA,"Newport News",10,16,115
+42,101,51,740,VA,Portsmouth,10,19,156
+42,101,58,0,SS,"Other Flows - Same State",131,168,3231
+42,101,59,0,DS,"Other Flows - Diff State",1620,2529,44828
+42,101,59,1,DS,"Other Flows - Northeast",202,288,5864
+42,101,59,3,DS,"Other Flows - Midwest",346,503,9189
+42,101,59,5,DS,"Other Flows - South",819,1372,22114
+42,101,59,7,DS,"Other Flows - West",253,366,7660
+42,101,57,9,FR,"Foreign - Other flows",1197,1289,9381
+42,103,96,0,PA,"Pike County Tot Mig-US & For",1550,3342,95818
+42,103,97,0,PA,"Pike County Tot Mig-US",1550,3342,95818
+42,103,97,1,PA,"Pike County Tot Mig-Same St",336,664,38076
+42,103,97,3,PA,"Pike County Tot Mig-Diff St",1214,2678,57742
+42,103,42,103,PA,"Pike County Non-Migrants",14058,33160,616514
+42,103,36,71,NY,"Orange County",133,312,5866
+42,103,34,37,NJ,"Sussex County",115,248,3969
+42,103,42,89,PA,"Monroe County",106,207,3265
+42,103,34,27,NJ,"Morris County",73,140,2752
+42,103,36,81,NY,"Queens County",70,142,3912
+42,103,42,127,PA,"Wayne County",70,158,1871
+42,103,34,3,NJ,"Bergen County",69,144,4292
+42,103,36,47,NY,"Kings County",64,158,3051
+42,103,36,59,NY,"Nassau County",42,102,2084
+42,103,36,61,NY,"New York County",40,64,3126
+42,103,34,23,NJ,"Middlesex County",35,93,1612
+42,103,34,31,NJ,"Passaic County",33,71,1303
+42,103,34,13,NJ,"Essex County",31,67,1638
+42,103,36,103,NY,"Suffolk County",29,76,2161
+42,103,42,69,PA,"Lackawanna County",26,46,731
+42,103,36,85,NY,"Richmond County",25,54,880
+42,103,34,17,NJ,"Hudson County",24,63,1475
+42,103,36,105,NY,"Sullivan County",23,61,662
+42,103,34,39,NJ,"Union County",22,48,973
+42,103,34,41,NJ,"Warren County",22,48,419
+42,103,36,5,NY,"Bronx County",21,58,1103
+42,103,34,35,NJ,"Somerset County",19,47,1148
+42,103,42,17,PA,"Bucks County",18,36,646
+42,103,42,95,PA,"Northampton County",18,29,536
+42,103,36,119,NY,"Westchester County",17,35,426
+42,103,42,91,PA,"Montgomery County",17,34,28232
+42,103,42,79,PA,"Luzerne County",14,26,717
+42,103,36,87,NY,"Rockland County",13,29,661
+42,103,34,25,NJ,"Monmouth County",11,23,400
+42,103,34,29,NJ,"Ocean County",11,26,444
+42,103,42,101,PA,"Philadelphia County",11,20,265
+42,103,58,0,SS,"Other Flows - Same State",56,108,1813
+42,103,59,0,DS,"Other Flows - Diff State",272,569,13386
+42,103,59,1,DS,"Other Flows - Northeast",94,196,6571
+42,103,59,3,DS,"Other Flows - Midwest",30,67,1204
+42,103,59,5,DS,"Other Flows - South",113,217,4145
+42,103,59,7,DS,"Other Flows - West",35,89,1466
+42,105,96,0,PA,"Potter County Tot Mig-US & For",343,711,10467
+42,105,97,0,PA,"Potter County Tot Mig-US",343,711,10467
+42,105,97,1,PA,"Potter County Tot Mig-Same St",177,360,5235
+42,105,97,3,PA,"Potter County Tot Mig-Diff St",166,351,5232
+42,105,42,105,PA,"Potter County Non-Migrants",6007,14170,206780
+42,105,42,83,PA,"Mckean County",27,54,515
+42,105,42,117,PA,"Tioga County",23,40,576
+42,105,36,3,NY,"Allegany County",16,40,292
+42,105,42,133,PA,"York County",14,23,405
+42,105,42,23,PA,"Cameron County",12,28,310
+42,105,36,9,NY,"Cattaraugus County",10,18,141
+42,105,58,0,SS,"Other Flows - Same State",101,215,3429
+42,105,59,0,DS,"Other Flows - Diff State",140,293,4800
+42,105,59,1,DS,"Other Flows - Northeast",30,62,1148
+42,105,59,3,DS,"Other Flows - Midwest",20,58,711
+42,105,59,5,DS,"Other Flows - South",71,140,2182
+42,105,59,7,DS,"Other Flows - West",19,33,758
+42,107,96,0,PA,"Schuylkill Coun Tot Mig-US & For",1434,2733,43069
+42,107,97,0,PA,"Schuylkill Coun Tot Mig-US",1418,2705,42732
+42,107,97,1,PA,"Schuylkill Coun Tot Mig-Same St",986,1829,27957
+42,107,97,3,PA,"Schuylkill Coun Tot Mig-Diff St",432,876,14776
+42,107,98,0,PA,"Schuylkill Coun Tot Mig-Foreign",16,28,337
+42,107,42,107,PA,"Schuylkill Coun Non-Migrants",54361,115369,1965962
+42,107,42,11,PA,"Berks County",188,346,5747
+42,107,42,79,PA,"Luzerne County",127,232,3490
+42,107,42,25,PA,"Carbon County",113,218,2981
+42,107,42,43,PA,"Dauphin County",100,184,2285
+42,107,42,75,PA,"Lebanon County",66,129,1528
+42,107,42,77,PA,"Lehigh County",57,98,2098
+42,107,42,97,PA,"Northumberland Count",46,78,1018
+42,107,42,71,PA,"Lancaster County",30,63,962
+42,107,42,91,PA,"Montgomery County",29,46,872
+42,107,42,101,PA,"Philadelphia County",29,44,924
+42,107,42,41,PA,"Cumberland County",21,35,791
+42,107,42,17,PA,"Bucks County",17,44,603
+42,107,42,95,PA,"Northampton County",17,21,330
+42,107,42,37,PA,"Columbia County",16,27,511
+42,107,42,29,PA,"Chester County",13,27,414
+42,107,42,133,PA,"York County",11,23,355
+42,107,37,133,NC,"Onslow County",10,16,203
+42,107,42,45,PA,"Delaware County",10,24,271
+42,107,42,69,PA,"Lackawanna County",10,16,273
+42,107,58,0,SS,"Other Flows - Same State",86,174,2503
+42,107,59,0,DS,"Other Flows - Diff State",422,860,14573
+42,107,59,1,DS,"Other Flows - Northeast",135,299,5666
+42,107,59,3,DS,"Other Flows - Midwest",38,85,1082
+42,107,59,5,DS,"Other Flows - South",197,387,6478
+42,107,59,7,DS,"Other Flows - West",52,89,1347
+42,107,57,9,FR,"Foreign - Other flows",16,28,337
+42,109,96,0,PA,"Snyder County Tot Mig-US & For",668,1240,17894
+42,109,97,0,PA,"Snyder County Tot Mig-US",658,1225,17683
+42,109,97,1,PA,"Snyder County Tot Mig-Same St",525,962,13726
+42,109,97,3,PA,"Snyder County Tot Mig-Diff St",133,263,3957
+42,109,98,0,PA,"Snyder County Tot Mig-Foreign",10,15,211
+42,109,42,109,PA,"Snyder County Non-Migrants",12047,27542,448145
+42,109,42,97,PA,"Northumberland Count",174,308,3854
+42,109,42,119,PA,"Union County",106,192,2825
+42,109,42,67,PA,"Juniata County",34,59,872
+42,109,42,87,PA,"Mifflin County",29,64,629
+42,109,42,43,PA,"Dauphin County",26,46,896
+42,109,42,99,PA,"Perry County",24,41,598
+42,109,42,81,PA,"Lycoming County",14,31,593
+42,109,42,71,PA,"Lancaster County",13,24,337
+42,109,42,41,PA,"Cumberland County",12,19,286
+42,109,42,37,PA,"Columbia County",11,21,196
+42,109,58,0,SS,"Other Flows - Same State",82,157,2641
+42,109,59,0,DS,"Other Flows - Diff State",133,263,3957
+42,109,59,1,DS,"Other Flows - Northeast",25,52,831
+42,109,59,3,DS,"Other Flows - Midwest",20,48,728
+42,109,59,5,DS,"Other Flows - South",69,133,1904
+42,109,59,7,DS,"Other Flows - West",19,30,495
+42,109,57,9,FR,"Foreign - Other flows",10,15,211
+42,111,96,0,PA,"Somerset County Tot Mig-US & For",932,1824,30542
+42,111,97,0,PA,"Somerset County Tot Mig-US",932,1824,30542
+42,111,97,1,PA,"Somerset County Tot Mig-Same St",595,1162,19487
+42,111,97,3,PA,"Somerset County Tot Mig-Diff St",337,662,11055
+42,111,42,111,PA,"Somerset County Non-Migrants",26763,60314,883266
+42,111,42,21,PA,"Cambria County",251,526,6319
+42,111,42,3,PA,"Allegheny County",72,114,4276
+42,111,42,129,PA,"Westmoreland County",59,133,2301
+42,111,42,51,PA,"Fayette County",37,78,942
+42,111,42,9,PA,"Bedford County",31,55,686
+42,111,42,63,PA,"Indiana County",14,34,344
+42,111,24,1,MD,"Allegany County",13,21,285
+42,111,42,13,PA,"Blair County",13,22,278
+42,111,42,125,PA,"Washington County",12,19,933
+42,111,24,23,MD,"Garrett County",11,21,226
+42,111,42,43,PA,"Dauphin County",10,12,240
+42,111,58,0,SS,"Other Flows - Same State",96,169,3168
+42,111,59,0,DS,"Other Flows - Diff State",313,620,10544
+42,111,59,1,DS,"Other Flows - Northeast",35,63,1136
+42,111,59,3,DS,"Other Flows - Midwest",62,124,1932
+42,111,59,5,DS,"Other Flows - South",180,368,6308
+42,111,59,7,DS,"Other Flows - West",36,65,1168
+42,113,96,0,PA,"Sullivan County Tot Mig-US & For",135,254,4325
+42,113,97,0,PA,"Sullivan County Tot Mig-US",135,254,4325
+42,113,97,1,PA,"Sullivan County Tot Mig-Same St",102,195,3434
+42,113,97,3,PA,"Sullivan County Tot Mig-Diff St",33,59,891
+42,113,42,113,PA,"Sullivan County Non-Migrants",2013,4221,68562
+42,113,42,15,PA,"Bradford County",25,44,637
+42,113,42,81,PA,"Lycoming County",22,50,791
+42,113,58,0,SS,"Other Flows - Same State",55,101,2007
+42,113,59,0,DS,"Other Flows - Diff State",33,59,891
+42,115,96,0,PA,"Susquehanna Cou Tot Mig-US & For",762,1513,23017
+42,115,97,0,PA,"Susquehanna Cou Tot Mig-US",752,1485,22859
+42,115,97,1,PA,"Susquehanna Cou Tot Mig-Same St",392,790,11160
+42,115,97,3,PA,"Susquehanna Cou Tot Mig-Diff St",360,695,11699
+42,115,98,0,PA,"Susquehanna Cou Tot Mig-Foreign",10,28,158
+42,115,42,115,PA,"Susquehanna Cou Non-Migrants",15239,34974,537858
+42,115,42,69,PA,"Lackawanna County",153,286,3939
+42,115,36,7,NY,"Broome County",114,236,3823
+42,115,42,131,PA,"Wyoming County",76,159,2180
+42,115,42,15,PA,"Bradford County",26,53,682
+42,115,42,127,PA,"Wayne County",26,54,629
+42,115,42,79,PA,"Luzerne County",24,41,631
+42,115,36,107,NY,"Tioga County",12,28,348
+42,115,42,17,PA,"Bucks County",12,31,317
+42,115,42,91,PA,"Montgomery County",10,16,270
+42,115,58,0,SS,"Other Flows - Same State",65,150,2511
+42,115,59,0,DS,"Other Flows - Diff State",234,431,7528
+42,115,59,1,DS,"Other Flows - Northeast",109,194,4356
+42,115,59,3,DS,"Other Flows - Midwest",21,40,608
+42,115,59,5,DS,"Other Flows - South",84,158,2090
+42,115,59,7,DS,"Other Flows - West",20,39,473
+42,115,57,9,FR,"Foreign - Other flows",10,28,158
+42,117,96,0,PA,"Tioga County Tot Mig-US & For",710,1394,18965
+42,117,97,0,PA,"Tioga County Tot Mig-US",710,1394,18965
+42,117,97,1,PA,"Tioga County Tot Mig-Same St",372,723,10297
+42,117,97,3,PA,"Tioga County Tot Mig-Diff St",338,671,8668
+42,117,42,117,PA,"Tioga County Non-Migrants",13863,32046,475247
+42,117,42,15,PA,"Bradford County",59,112,1227
+42,117,36,101,NY,"Steuben County",53,106,930
+42,117,42,81,PA,"Lycoming County",45,85,1420
+42,117,42,105,PA,"Potter County",45,95,1233
+42,117,36,15,NY,"Chemung County",29,57,825
+42,117,42,71,PA,"Lancaster County",23,37,636
+42,117,42,17,PA,"Bucks County",21,41,621
+42,117,42,11,PA,"Berks County",19,49,734
+42,117,42,91,PA,"Montgomery County",18,31,403
+42,117,42,133,PA,"York County",17,38,596
+42,117,58,0,SS,"Other Flows - Same State",125,235,3427
+42,117,59,0,DS,"Other Flows - Diff State",256,508,6913
+42,117,59,1,DS,"Other Flows - Northeast",89,173,2439
+42,117,59,3,DS,"Other Flows - Midwest",28,75,710
+42,117,59,5,DS,"Other Flows - South",105,186,2642
+42,117,59,7,DS,"Other Flows - West",34,74,1122
+42,119,96,0,PA,"Union County Tot Mig-US & For",934,1830,31662
+42,119,97,0,PA,"Union County Tot Mig-US",898,1788,31392
+42,119,97,1,PA,"Union County Tot Mig-Same St",634,1227,19341
+42,119,97,3,PA,"Union County Tot Mig-Diff St",264,561,12050
+42,119,98,0,PA,"Union County Tot Mig-Foreign",36,42,270
+42,119,42,119,PA,"Union County Non-Migrants",12211,28224,527769
+42,119,42,97,PA,"Northumberland Count",274,532,7338
+42,119,42,109,PA,"Snyder County",114,237,2902
+42,119,42,81,PA,"Lycoming County",51,87,2444
+42,119,42,71,PA,"Lancaster County",19,40,646
+42,119,42,27,PA,"Centre County",15,30,350
+42,119,42,133,PA,"York County",15,28,464
+42,119,42,93,PA,"Montour County",14,32,341
+42,119,42,43,PA,"Dauphin County",13,24,646
+42,119,42,37,PA,"Columbia County",12,23,587
+42,119,58,0,SS,"Other Flows - Same State",107,194,3624
+42,119,59,0,DS,"Other Flows - Diff State",264,561,12050
+42,119,59,1,DS,"Other Flows - Northeast",78,163,3135
+42,119,59,3,DS,"Other Flows - Midwest",54,111,2283
+42,119,59,5,DS,"Other Flows - South",98,220,5174
+42,119,59,7,DS,"Other Flows - West",34,67,1459
+42,119,57,9,FR,"Foreign - Other flows",36,42,270
+42,121,96,0,PA,"Venango County Tot Mig-US & For",842,1626,24380
+42,121,97,0,PA,"Venango County Tot Mig-US",829,1604,24140
+42,121,97,1,PA,"Venango County Tot Mig-Same St",536,1041,14344
+42,121,97,3,PA,"Venango County Tot Mig-Diff St",293,563,9796
+42,121,98,0,PA,"Venango County Tot Mig-Foreign",13,22,240
+42,121,42,121,PA,"Venango County Non-Migrants",20173,44936,704524
+42,121,42,39,PA,"Crawford County",109,229,2598
+42,121,42,31,PA,"Clarion County",72,138,1688
+42,121,42,85,PA,"Mercer County",66,140,1617
+42,121,42,3,PA,"Allegheny County",56,97,1656
+42,121,42,19,PA,"Butler County",55,106,1670
+42,121,42,49,PA,"Erie County",45,74,1304
+42,121,42,123,PA,"Warren County",15,25,444
+42,121,42,53,PA,"Forest County",13,24,334
+42,121,42,73,PA,"Lawrence County",10,26,336
+42,121,58,0,SS,"Other Flows - Same State",95,182,2697
+42,121,59,0,DS,"Other Flows - Diff State",293,563,9796
+42,121,59,1,DS,"Other Flows - Northeast",35,61,1005
+42,121,59,3,DS,"Other Flows - Midwest",88,180,3019
+42,121,59,5,DS,"Other Flows - South",126,235,4558
+42,121,59,7,DS,"Other Flows - West",44,87,1214
+42,121,57,9,FR,"Foreign - Other flows",13,22,240
+42,123,96,0,PA,"Warren County Tot Mig-US & For",576,1089,16366
+42,123,97,0,PA,"Warren County Tot Mig-US",576,1089,16366
+42,123,97,1,PA,"Warren County Tot Mig-Same St",266,476,7001
+42,123,97,3,PA,"Warren County Tot Mig-Diff St",310,613,9364
+42,123,42,123,PA,"Warren County Non-Migrants",15779,34795,601480
+42,123,42,49,PA,"Erie County",85,186,2182
+42,123,36,13,NY,"Chautauqua County",70,149,1784
+42,123,42,39,PA,"Crawford County",29,48,570
+42,123,42,83,PA,"Mckean County",26,36,842
+42,123,42,3,PA,"Allegheny County",25,34,844
+42,123,42,121,PA,"Venango County",14,24,412
+42,123,36,9,NY,"Cattaraugus County",11,22,252
+42,123,42,19,PA,"Butler County",10,17,266
+42,123,58,0,SS,"Other Flows - Same State",77,131,1885
+42,123,59,0,DS,"Other Flows - Diff State",229,442,7329
+42,123,59,1,DS,"Other Flows - Northeast",46,99,1781
+42,123,59,3,DS,"Other Flows - Midwest",53,83,1789
+42,123,59,5,DS,"Other Flows - South",92,184,2706
+42,123,59,7,DS,"Other Flows - West",38,76,1052
+42,125,96,0,PA,"Washington Coun Tot Mig-US & For",3066,5902,130681
+42,125,97,0,PA,"Washington Coun Tot Mig-US",3044,5871,130086
+42,125,97,1,PA,"Washington Coun Tot Mig-Same St",2116,4034,90502
+42,125,97,3,PA,"Washington Coun Tot Mig-Diff St",928,1837,39585
+42,125,98,0,PA,"Washington Coun Tot Mig-Foreign",22,31,595
+42,125,42,125,PA,"Washington Coun Non-Migrants",71479,153537,3114136
+42,125,42,3,PA,"Allegheny County",1304,2503,64414
+42,125,42,51,PA,"Fayette County",189,362,4857
+42,125,42,129,PA,"Westmoreland County",189,358,5320
+42,125,42,59,PA,"Greene County",125,236,2972
+42,125,42,7,PA,"Beaver County",47,73,1639
+42,125,54,9,WV,"Brooke County",27,55,460
+42,125,42,19,PA,"Butler County",25,41,1098
+42,125,54,69,WV,"Ohio County",23,46,751
+42,125,39,49,OH,"Franklin County",20,42,912
+42,125,54,29,WV,"Hancock County",18,31,457
+42,125,51,59,VA,"Fairfax County",17,28,732
+42,125,42,63,PA,"Indiana County",15,40,677
+42,125,42,111,PA,"Somerset County",15,23,403
+42,125,54,61,WV,"Monongalia County",15,29,560
+42,125,42,49,PA,"Erie County",14,25,526
+42,125,39,35,OH,"Cuyahoga County",12,26,862
+42,125,39,13,OH,"Belmont County",11,22,346
+42,125,42,21,PA,"Cambria County",11,22,229
+42,125,42,41,PA,"Cumberland County",11,30,596
+42,125,42,85,PA,"Mercer County",11,21,458
+42,125,57,5,FR,"Foreign - APO/FPO ZIPs",11,16,195
+42,125,58,0,SS,"Other Flows - Same State",160,300,7312
+42,125,59,0,DS,"Other Flows - Diff State",785,1558,34506
+42,125,59,1,DS,"Other Flows - Northeast",80,143,5144
+42,125,59,3,DS,"Other Flows - Midwest",198,433,9803
+42,125,59,5,DS,"Other Flows - South",406,792,16155
+42,125,59,7,DS,"Other Flows - West",101,190,3405
+42,125,57,9,FR,"Foreign - Other flows",11,15,400
+42,127,96,0,PA,"Wayne County Tot Mig-US & For",1101,2192,42788
+42,127,97,0,PA,"Wayne County Tot Mig-US",1101,2192,42788
+42,127,97,1,PA,"Wayne County Tot Mig-Same St",527,1065,17478
+42,127,97,3,PA,"Wayne County Tot Mig-Diff St",574,1127,25310
+42,127,42,127,PA,"Wayne County Non-Migrants",15401,33940,580594
+42,127,42,69,PA,"Lackawanna County",229,476,6082
+42,127,42,103,PA,"Pike County",89,191,2262
+42,127,42,115,PA,"Susquehanna County",36,89,857
+42,127,42,89,PA,"Monroe County",32,61,834
+42,127,34,3,NJ,"Bergen County",26,49,1250
+42,127,36,105,NY,"Sullivan County",26,64,950
+42,127,36,47,NY,"Kings County",24,54,1344
+42,127,36,81,NY,"Queens County",23,45,1148
+42,127,36,59,NY,"Nassau County",21,32,563
+42,127,42,79,PA,"Luzerne County",21,32,665
+42,127,34,23,NJ,"Middlesex County",18,40,704
+42,127,36,61,NY,"New York County",18,25,1620
+42,127,34,31,NJ,"Passaic County",16,30,517
+42,127,36,71,NY,"Orange County",16,36,694
+42,127,36,103,NY,"Suffolk County",16,27,997
+42,127,42,91,PA,"Montgomery County",16,25,825
+42,127,34,13,NJ,"Essex County",15,27,605
+42,127,34,27,NJ,"Morris County",14,22,552
+42,127,36,85,NY,"Richmond County",13,28,894
+42,127,42,17,PA,"Bucks County",13,29,456
+42,127,36,25,NY,"Delaware County",10,16,289
+42,127,42,77,PA,"Lehigh County",10,14,350
+42,127,58,0,SS,"Other Flows - Same State",81,148,5147
+42,127,59,0,DS,"Other Flows - Diff State",318,632,13184
+42,127,59,1,DS,"Other Flows - Northeast",154,310,7493
+42,127,59,3,DS,"Other Flows - Midwest",29,70,590
+42,127,59,5,DS,"Other Flows - South",98,184,4113
+42,127,59,7,DS,"Other Flows - West",37,68,988
+42,129,96,0,PA,"Westmoreland Co Tot Mig-US & For",4907,9367,187801
+42,129,97,0,PA,"Westmoreland Co Tot Mig-US",4848,9284,186209
+42,129,97,1,PA,"Westmoreland Co Tot Mig-Same St",3461,6543,129377
+42,129,97,3,PA,"Westmoreland Co Tot Mig-Diff St",1387,2741,56833
+42,129,98,0,PA,"Westmoreland Co Tot Mig-Foreign",59,83,1592
+42,129,42,129,PA,"Westmoreland Co Non-Migrants",131541,285440,5604943
+42,129,42,3,PA,"Allegheny County",1824,3478,79801
+42,129,42,51,PA,"Fayette County",434,842,10722
+42,129,42,5,PA,"Armstrong County",247,515,6452
+42,129,42,63,PA,"Indiana County",216,370,6366
+42,129,42,125,PA,"Washington County",180,351,5971
+42,129,42,21,PA,"Cambria County",74,120,2452
+42,129,42,19,PA,"Butler County",62,104,2129
+42,129,42,111,PA,"Somerset County",52,88,1860
+42,129,39,35,OH,"Cuyahoga County",28,43,850
+42,129,12,11,FL,"Broward County",26,51,804
+42,129,57,5,FR,"Foreign - APO/FPO ZIPs",24,34,468
+42,129,42,7,PA,"Beaver County",22,31,956
+42,129,42,13,PA,"Blair County",21,43,919
+42,129,42,49,PA,"Erie County",21,29,558
+42,129,4,13,AZ,"Maricopa County",18,32,583
+42,129,37,183,NC,"Wake County",18,35,1232
+42,129,42,41,PA,"Cumberland County",18,45,781
+42,129,39,49,OH,"Franklin County",17,29,512
+42,129,48,201,TX,"Harris County",17,32,840
+42,129,51,59,VA,"Fairfax County",17,22,777
+42,129,12,99,FL,"Palm Beach County",16,32,617
+42,129,12,103,FL,"Pinellas County",16,27,497
+42,129,42,85,PA,"Mercer County",15,29,444
+42,129,42,17,PA,"Bucks County",14,21,597
+42,129,6,37,CA,"Los Angeles County",13,19,481
+42,129,42,29,PA,"Chester County",13,22,633
+42,129,42,33,PA,"Clearfield County",13,33,467
+42,129,42,71,PA,"Lancaster County",13,20,341
+42,129,42,91,PA,"Montgomery County",13,22,627
+42,129,42,121,PA,"Venango County",13,22,509
+42,129,12,31,FL,"Duval County",12,28,432
+42,129,42,31,PA,"Clarion County",12,24,389
+42,129,42,39,PA,"Crawford County",12,14,282
+42,129,42,43,PA,"Dauphin County",12,19,500
+42,129,42,59,PA,"Greene County",12,23,593
+42,129,42,65,PA,"Jefferson County",12,22,373
+42,129,42,101,PA,"Philadelphia County",12,13,386
+42,129,32,3,NV,"Clark County",11,23,292
+42,129,36,55,NY,"Monroe County",11,21,685
+42,129,42,27,PA,"Centre County",11,19,252
+42,129,42,133,PA,"York County",11,27,455
+42,129,24,27,MD,"Howard County",10,18,502
+42,129,37,119,NC,"Mecklenburg County",10,15,511
+42,129,58,0,SS,"Other Flows - Same State",102,197,3563
+42,129,59,0,DS,"Other Flows - Diff State",1147,2314,47219
+42,129,59,1,DS,"Other Flows - Northeast",163,328,7802
+42,129,59,3,DS,"Other Flows - Midwest",256,527,12173
+42,129,59,5,DS,"Other Flows - South",585,1147,21811
+42,129,59,7,DS,"Other Flows - West",143,312,5433
+42,129,57,9,FR,"Foreign - Other flows",35,49,1125
+42,131,96,0,PA,"Wyoming County Tot Mig-US & For",614,1214,17839
+42,131,97,0,PA,"Wyoming County Tot Mig-US",614,1214,17839
+42,131,97,1,PA,"Wyoming County Tot Mig-Same St",469,914,12842
+42,131,97,3,PA,"Wyoming County Tot Mig-Diff St",145,300,4997
+42,131,42,131,PA,"Wyoming County Non-Migrants",9246,20758,361061
+42,131,42,69,PA,"Lackawanna County",167,350,4822
+42,131,42,79,PA,"Luzerne County",139,273,3977
+42,131,42,15,PA,"Bradford County",61,108,1521
+42,131,42,115,PA,"Susquehanna County",49,81,943
+42,131,42,17,PA,"Bucks County",10,17,277
+42,131,58,0,SS,"Other Flows - Same State",43,85,1301
+42,131,59,0,DS,"Other Flows - Diff State",145,300,4997
+42,131,59,1,DS,"Other Flows - Northeast",60,114,2667
+42,131,59,3,DS,"Other Flows - Midwest",14,38,611
+42,131,59,5,DS,"Other Flows - South",49,104,1294
+42,131,59,7,DS,"Other Flows - West",22,44,426
+42,133,96,0,PA,"York County Tot Mig-US & For",6481,12532,248479
+42,133,97,0,PA,"York County Tot Mig-US",6398,12380,245474
+42,133,97,1,PA,"York County Tot Mig-Same St",3322,6068,118216
+42,133,97,3,PA,"York County Tot Mig-Diff St",3076,6312,127258
+42,133,98,0,PA,"York County Tot Mig-Foreign",83,152,3005
+42,133,42,133,PA,"York County Non-Migrants",140537,306062,6433410
+42,133,42,41,PA,"Cumberland County",735,1359,31419
+42,133,42,1,PA,"Adams County",720,1348,21391
+42,133,24,5,MD,"Baltimore County",521,1123,23892
+42,133,42,71,PA,"Lancaster County",464,856,15255
+42,133,42,43,PA,"Dauphin County",415,753,14221
+42,133,24,25,MD,"Harford County",194,432,8165
+42,133,24,510,MD,Baltimore,155,327,6004
+42,133,24,13,MD,"Carroll County",148,277,5331
+42,133,24,3,MD,"Anne Arundel County",76,172,3603
+42,133,42,55,PA,"Franklin County",59,113,2009
+42,133,42,3,PA,"Allegheny County",58,103,2186
+42,133,42,11,PA,"Berks County",55,99,1732
+42,133,42,99,PA,"Perry County",54,115,1727
+42,133,57,5,FR,"Foreign - APO/FPO ZIPs",53,98,2132
+42,133,42,101,PA,"Philadelphia County",52,79,3439
+42,133,42,75,PA,"Lebanon County",47,82,1927
+42,133,42,17,PA,"Bucks County",45,79,1562
+42,133,42,27,PA,"Centre County",43,54,2080
+42,133,42,29,PA,"Chester County",41,64,1757
+42,133,24,27,MD,"Howard County",36,74,2049
+42,133,42,81,PA,"Lycoming County",30,56,1195
+42,133,24,31,MD,"Montgomery County",29,47,1391
+42,133,42,91,PA,"Montgomery County",29,43,1155
+42,133,42,79,PA,"Luzerne County",28,61,983
+42,133,24,33,MD,"Prince George's Coun",27,48,1195
+42,133,42,21,PA,"Cambria County",26,38,750
+42,133,42,77,PA,"Lehigh County",26,44,865
+42,133,42,129,PA,"Westmoreland County",26,43,727
+42,133,24,21,MD,"Frederick County",23,44,888
+42,133,42,13,PA,"Blair County",23,48,585
+42,133,4,13,AZ,"Maricopa County",21,43,875
+42,133,36,47,NY,"Kings County",21,46,468
+42,133,42,45,PA,"Delaware County",21,54,850
+42,133,42,49,PA,"Erie County",20,43,746
+42,133,42,63,PA,"Indiana County",20,37,381
+42,133,9,1,CT,"Fairfield County",19,46,962
+42,133,12,11,FL,"Broward County",19,34,522
+42,133,42,97,PA,"Northumberland Count",19,26,476
+42,133,36,81,NY,"Queens County",18,47,422
+42,133,37,133,NC,"Onslow County",18,31,399
+42,133,6,73,CA,"San Diego County",17,27,402
+42,133,12,57,FL,"Hillsborough County",17,27,346
+42,133,36,103,NY,"Suffolk County",17,27,619
+42,133,42,95,PA,"Northampton County",17,33,1159
+42,133,51,59,VA,"Fairfax County",17,34,656
+42,133,10,3,DE,"New Castle County",16,17,283
+42,133,24,15,MD,"Cecil County",16,35,677
+42,133,42,33,PA,"Clearfield County",16,28,500
+42,133,12,95,FL,"Orange County",15,35,554
+42,133,36,61,NY,"New York County",15,35,313
+42,133,42,107,PA,"Schuylkill County",15,24,413
+42,133,6,37,CA,"Los Angeles County",14,28,633
+42,133,12,103,FL,"Pinellas County",14,35,931
+42,133,17,31,IL,"Cook County",14,26,481
+42,133,32,3,NV,"Clark County",14,20,409
+42,133,42,87,PA,"Mifflin County",14,25,400
+42,133,24,43,MD,"Washington County",13,17,294
+42,133,42,15,PA,"Bradford County",13,22,297
+42,133,42,109,PA,"Snyder County",13,23,444
+42,133,42,111,PA,"Somerset County",13,22,385
+42,133,10,5,DE,"Sussex County",12,17,265
+42,133,34,5,NJ,"Burlington County",12,19,418
+42,133,34,23,NJ,"Middlesex County",12,31,481
+42,133,34,25,NJ,"Monmouth County",12,31,541
+42,133,36,5,NY,"Bronx County",12,30,149
+42,133,37,51,NC,"Cumberland County",12,23,351
+42,133,8,41,CO,"El Paso County",11,21,377
+42,133,12,99,FL,"Palm Beach County",11,21,394
+42,133,12,127,FL,"Volusia County",11,17,310
+42,133,39,49,OH,"Franklin County",11,17,381
+42,133,48,29,TX,"Bexar County",11,21,486
+42,133,51,107,VA,"Loudoun County",11,19,1180
+42,133,51,550,VA,Chesapeake,11,21,393
+42,133,4,19,AZ,"Pima County",10,20,289
+42,133,6,59,CA,"Orange County",10,19,368
+42,133,9,9,CT,"New Haven County",10,12,248
+42,133,34,17,NJ,"Hudson County",10,26,165
+42,133,34,35,NJ,"Somerset County",10,19,436
+42,133,36,7,NY,"Broome County",10,16,355
+42,133,42,37,PA,"Columbia County",10,15,257
+42,133,42,89,PA,"Monroe County",10,22,478
+42,133,48,27,TX,"Bell County",10,21,236
+42,133,48,201,TX,"Harris County",10,19,401
+42,133,51,710,VA,Norfolk,10,15,233
+42,133,51,810,VA,"Virginia Beach",10,27,188
+42,133,58,0,SS,"Other Flows - Same State",145,257,4465
+42,133,59,0,DS,"Other Flows - Diff State",1303,2676,55847
+42,133,59,1,DS,"Other Flows - Northeast",277,566,13535
+42,133,59,3,DS,"Other Flows - Midwest",245,535,11935
+42,133,59,5,DS,"Other Flows - South",606,1226,24209
+42,133,59,7,DS,"Other Flows - West",175,349,6168
+42,133,57,9,FR,"Foreign - Other flows",30,54,873

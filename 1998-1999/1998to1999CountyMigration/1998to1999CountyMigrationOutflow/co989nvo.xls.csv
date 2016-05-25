@@ -1,0 +1,854 @@
+"1998 - 1999 County to County Migration Outflow",,,,,,,,
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Nevada,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+32,000,96,000,NV,"Total Mig - US & For",46182,87252,1694173
+32,000,97,000,NV,"Total Mig - US",45356,85712,1669891
+32,000,97,001,NV,"Total Mig - US Same St",8820,16924,326133
+32,000,97,003,NV,"Total Mig - US Diff St",36536,68788,1343758
+32,000,98,000,NV,"Total Mig - Foreign",826,1540,24282
+32,001,96,000,NV,"Churchill Count Tot Mig-US & For",946,2124,28634
+32,001,97,000,NV,"Churchill Count Tot Mig-US",890,1979,27176
+32,001,97,001,NV,"Churchill Count Tot Mig-Same St",290,554,8936
+32,001,97,003,NV,"Churchill Count Tot Mig-Diff St",600,1425,18240
+32,001,98,000,NV,"Churchill Count Tot Mig-Foreign",56,145,1458
+32,001,32,001,NV,"Churchill Count Non-Migrants",7218,17096,288277
+32,001,32,031,NV,"Washoe County",122,211,4001
+32,001,32,019,NV,"Lyon County",63,129,1729
+32,001,06,073,CA,"San Diego County",40,90,1121
+32,001,32,003,NV,"Clark County",28,47,864
+32,001,32,510,NV,"Carson City",24,54,703
+32,001,51,810,VA,"Virginia Beach",16,52,903
+32,001,04,013,AZ,"Maricopa County",14,25,338
+32,001,06,031,CA,"Kings County",11,46,556
+32,001,32,007,NV,"Elko County",11,24,302
+32,001,53,029,WA,"Island County",11,29,226
+32,001,58,000,SS,"Other Flows - Same State",42,89,1337
+32,001,59,000,DS,"Other Flows - Diff State",508,1183,15095
+32,001,59,001,DS,"Other Flows - Northeast",23,51,963
+32,001,59,003,DS,"Other Flows - Midwest",68,148,1775
+32,001,59,005,DS,"Other Flows - South",142,338,4653
+32,001,59,007,DS,"Other Flows - West",275,646,7705
+32,001,57,009,FR,"Foreign - Other flows",56,145,1458
+32,003,96,000,NV,"Clark County Tot Mig-US & For",25531,47606,944224
+32,003,97,000,NV,"Clark County Tot Mig-US",24934,46446,927319
+32,003,97,001,NV,"Clark County Tot Mig-Same St",1457,2808,55433
+32,003,97,003,NV,"Clark County Tot Mig-Diff St",23477,43638,871886
+32,003,98,000,NV,"Clark County Tot Mig-Foreign",597,1160,16905
+32,003,32,003,NV,"Clark County Non-Migrants",423413,885541,19861872
+32,003,06,037,CA,"Los Angeles County",1778,3148,85265
+32,003,04,013,AZ,"Maricopa County",964,1803,39436
+32,003,06,073,CA,"San Diego County",871,1552,34757
+32,003,06,059,CA,"Orange County",688,1217,29514
+32,003,32,023,NV,"Nye County",590,1225,20361
+32,003,04,015,AZ,"Mohave County",581,1124,15504
+32,003,06,071,CA,"San Bernardino Count",518,1043,12576
+32,003,32,031,NV,"Washoe County",487,846,17511
+32,003,06,065,CA,"Riverside County",467,908,12773
+32,003,57,005,FR,"Foreign - APO/FPO ZIPs",464,936,12196
+32,003,53,033,WA,"King County",335,573,19383
+32,003,17,031,IL,"Cook County",303,480,14663
+32,003,49,035,UT,"Salt Lake County",288,614,27315
+32,003,04,019,AZ,"Pima County",221,409,7225
+32,003,49,053,UT,"Washington County",203,448,6841
+32,003,28,047,MS,"Harrison County",183,317,6988
+32,003,06,111,CA,"Ventura County",172,339,6231
+32,003,06,029,CA,"Kern County",167,345,8274
+32,003,15,003,HI,"Honolulu County",165,311,4711
+32,003,48,201,TX,"Harris County",154,301,5223
+32,003,49,049,UT,"Utah County",146,311,3704
+32,003,35,001,NM,"Bernalillo County",139,275,5153
+32,003,08,005,CO,"Arapahoe County",137,259,5096
+32,003,06,067,CA,"Sacramento County",135,278,3738
+32,003,06,085,CA,"Santa Clara County",135,223,6205
+32,003,48,113,TX,"Dallas County",135,240,7759
+32,003,06,001,CA,"Alameda County",134,243,4576
+32,003,12,025,FL,"Dade County",128,219,3163
+32,003,48,029,TX,"Bexar County",120,250,3969
+32,003,08,041,CO,"El Paso County",116,236,4454
+32,003,08,031,CO,"Denver County",112,194,2953
+32,003,08,059,CO,"Jefferson County",112,203,4267
+32,003,48,439,TX,"Tarrant County",111,216,4251
+32,003,12,095,FL,"Orange County",103,179,3675
+32,003,41,051,OR,"Multnomah County",101,174,2359
+32,003,06,013,CA,"Contra Costa County",99,179,4176
+32,003,12,011,FL,"Broward County",98,159,4064
+32,003,49,021,UT,"Iron County",95,211,3137
+32,003,48,141,TX,"El Paso County",93,213,2150
+32,003,53,053,WA,"Pierce County",93,171,2738
+32,003,04,025,AZ,"Yavapai County",91,167,3992
+32,003,06,075,CA,"San Francisco County",91,114,2963
+32,003,06,083,CA,"Santa Barbara County",91,162,3196
+32,003,16,001,ID,"Ada County",90,167,3327
+32,003,53,061,WA,"Snohomish County",89,159,3042
+32,003,08,001,CO,"Adams County",87,174,2641
+32,003,27,053,MN,"Hennepin County",86,147,3825
+32,003,36,061,NY,"New York County",85,101,3800
+32,003,48,453,TX,"Travis County",85,142,3269
+32,003,49,011,UT,"Davis County",85,222,3723
+32,003,26,125,MI,"Oakland County",82,136,2641
+32,003,06,081,CA,"San Mateo County",81,123,5858
+32,003,32,510,NV,"Carson City",80,151,2580
+32,003,06,019,CA,"Fresno County",78,167,1959
+32,003,51,059,VA,"Fairfax County",77,140,3691
+32,003,40,109,OK,"Oklahoma County",76,141,1977
+32,003,12,099,FL,"Palm Beach County",72,131,11923
+32,003,26,163,MI,"Wayne County",72,140,1911
+32,003,04,005,AZ,"Coconino County",71,145,1927
+32,003,31,055,NE,"Douglas County",68,121,2865
+32,003,32,007,NV,"Elko County",68,134,3498
+32,003,48,085,TX,"Collin County",68,141,3765
+32,003,53,063,WA,"Spokane County",67,119,1998
+32,003,02,020,AK,"Anchorage Borough",66,129,1991
+32,003,06,095,CA,"Solano County",66,137,2131
+32,003,41,067,OR,"Washington County",66,114,2073
+32,003,53,011,WA,"Clark County",66,115,2523
+32,003,36,029,NY,"Erie County",65,119,1835
+32,003,12,103,FL,"Pinellas County",63,92,994
+32,003,49,057,UT,"Weber County",62,125,3165
+32,003,12,057,FL,"Hillsborough County",61,111,2638
+32,003,55,079,WI,"Milwaukee County",61,95,1338
+32,003,41,029,OR,"Jackson County",60,111,2620
+32,003,06,053,CA,"Monterey County",59,88,1511
+32,003,20,091,KS,"Johnson County",59,120,2579
+32,003,39,035,OH,"Cuyahoga County",59,98,1668
+32,003,40,143,OK,"Tulsa County",59,113,1644
+32,003,06,079,CA,"San Luis Obispo Coun",58,107,2520
+32,003,41,039,OR,"Lane County",58,88,1344
+32,003,17,043,IL,"Du Page County",57,111,2430
+32,003,32,017,NV,"Lincoln County",57,117,2000
+32,003,18,097,IN,"Marion County",56,91,1661
+32,003,29,095,MO,"Jackson County",56,100,1688
+32,003,32,005,NV,"Douglas County",56,95,5647
+32,003,36,103,NY,"Suffolk County",56,96,1503
+32,003,08,077,CO,"Mesa County",53,96,1497
+32,003,28,059,MS,"Jackson County",53,135,2510
+32,003,08,035,CO,"Douglas County",52,115,2897
+32,003,06,077,CA,"San Joaquin County",51,107,1519
+32,003,36,047,NY,"Kings County",50,76,940
+32,003,08,069,CO,"Larimer County",49,100,1727
+32,003,29,189,MO,"St Louis County",49,91,2309
+32,003,36,081,NY,"Queens County",49,76,1192
+32,003,39,049,OH,"Franklin County",47,83,1735
+32,003,47,157,TN,"Shelby County",46,93,2833
+32,003,04,027,AZ,"Yuma County",45,104,990
+32,003,41,005,OR,"Clackamas County",44,82,1505
+32,003,42,003,PA,"Allegheny County",44,69,1310
+32,003,08,013,CO,"Boulder County",43,72,1818
+32,003,13,067,GA,"Cobb County",43,84,2060
+32,003,53,035,WA,"Kitsap County",43,84,1556
+32,003,36,059,NY,"Nassau County",42,62,1437
+32,003,06,017,CA,"El Dorado County",41,82,2125
+32,003,17,097,IL,"Lake County",41,78,1685
+32,003,41,047,OR,"Marion County",41,91,991
+32,003,48,121,TX,"Denton County",41,73,1854
+32,003,06,099,CA,"Stanislaus County",40,76,1130
+32,003,06,025,CA,"Imperial County",39,80,705
+32,003,12,009,FL,"Brevard County",39,75,1239
+32,003,20,173,KS,"Sedgwick County",39,88,1164
+32,003,12,031,FL,"Duval County",38,56,1169
+32,003,15,001,HI,"Hawaii County",38,64,1321
+32,003,25,017,MA,"Middlesex County",38,57,1024
+32,003,41,017,OR,"Deschutes County",38,74,1141
+32,003,47,037,TN,"Davidson County",38,60,1214
+32,003,13,121,GA,"Fulton County",37,53,1339
+32,003,35,049,NM,"Santa Fe County",37,60,1243
+32,003,37,051,NC,"Cumberland County",37,73,918
+32,003,06,061,CA,"Placer County",36,79,1998
+32,003,19,153,IA,"Polk County",36,59,1164
+32,003,12,033,FL,"Escambia County",35,55,921
+32,003,13,089,GA,"De Kalb County",35,50,1294
+32,003,35,045,NM,"San Juan County",35,77,1013
+32,003,08,101,CO,"Pueblo County",34,79,803
+32,003,11,001,DC,"District Of Columbia",34,41,1142
+32,003,12,091,FL,"Okaloosa County",34,72,1497
+32,003,12,101,FL,"Pasco County",34,57,966
+32,003,30,111,MT,"Yellowstone County",34,53,817
+32,003,32,033,NV,"White Pine County",34,69,1124
+32,003,42,101,PA,"Philadelphia County",34,50,792
+32,003,04,021,AZ,"Pinal County",33,69,1033
+32,003,06,107,CA,"Tulare County",33,81,767
+32,003,08,123,CO,"Weld County",33,67,1059
+32,003,12,117,FL,"Seminole County",33,56,1452
+32,003,27,123,MN,"Ramsey County",33,44,816
+32,003,39,113,OH,"Montgomery County",33,63,1354
+32,003,13,135,GA,"Gwinnett County",32,63,1646
+32,003,25,025,MA,"Suffolk County",32,50,1580
+32,003,37,119,NC,"Mecklenburg County",32,65,1390
+32,003,39,061,OH,"Hamilton County",32,57,750
+32,003,04,003,AZ,"Cochise County",31,61,845
+32,003,48,027,TX,"Bell County",31,49,753
+32,003,51,810,VA,"Virginia Beach",31,60,1621
+32,003,53,067,WA,"Thurston County",31,59,881
+32,003,12,127,FL,"Volusia County",30,44,588
+32,003,22,051,LA,"Jefferson Parish",30,42,1000
+32,003,24,031,MD,"Montgomery County",30,53,3064
+32,003,26,099,MI,"Macomb County",30,50,1705
+32,003,32,001,NV,"Churchill County",30,53,900
+32,003,36,055,NY,"Monroe County",30,52,729
+32,003,06,097,CA,"Sonoma County",29,47,796
+32,003,34,029,NJ,"Ocean County",29,41,586
+32,003,48,491,TX,"Williamson County",29,61,1463
+32,003,53,005,WA,"Benton County",29,59,1382
+32,003,04,017,AZ,"Navajo County",28,62,855
+32,003,17,163,IL,"St Clair County",28,57,685
+32,003,05,119,AR,"Pulaski County",27,57,872
+32,003,12,071,FL,"Lee County",27,45,933
+32,003,15,009,HI,"Maui County",27,53,858
+32,003,22,071,LA,"Orleans Parish",27,43,519
+32,003,25,027,MA,"Worcester County",27,42,741
+32,003,35,013,NM,"Dona Ana County",27,58,813
+32,003,35,043,NM,"Sandoval County",26,54,1376
+32,003,49,005,UT,"Cache County",26,50,668
+32,003,09,009,CT,"New Haven County",25,40,759
+32,003,12,021,FL,"Collier County",25,42,630
+32,003,16,055,ID,"Kootenai County",25,44,673
+32,003,28,033,MS,"De Soto County",25,45,768
+32,003,40,027,OK,"Cleveland County",25,53,715
+32,003,56,021,WY,"Laramie County",25,43,1387
+32,003,56,025,WY,"Natrona County",25,43,828
+32,003,06,087,CA,"Santa Cruz County",24,47,1091
+32,003,09,003,CT,"Hartford County",24,48,662
+32,003,12,005,FL,"Bay County",24,48,808
+32,003,17,197,IL,"Will County",24,38,809
+32,003,34,001,NJ,"Atlantic County",24,34,1005
+32,003,51,650,VA,Hampton,24,64,997
+32,003,06,055,CA,"Napa County",23,44,770
+32,003,25,009,MA,"Essex County",23,33,504
+32,003,25,021,MA,"Norfolk County",23,36,698
+32,003,27,037,MN,"Dakota County",23,37,711
+32,003,29,077,MO,"Greene County",23,41,592
+32,003,34,003,NJ,"Bergen County",23,31,693
+32,003,36,067,NY,"Onondaga County",23,52,684
+32,003,36,119,NY,"Westchester County",23,30,838
+32,003,48,485,TX,"Wichita County",23,50,639
+32,003,02,090,AK,"Fairbanks North Star",22,50,586
+32,003,06,047,CA,"Merced County",22,42,540
+32,003,18,089,IN,"Lake County",22,40,685
+32,003,21,111,KY,"Jefferson County",22,44,835
+32,003,24,003,MD,"Anne Arundel County",22,43,928
+32,003,26,081,MI,"Kent County",22,40,734
+32,003,32,019,NV,"Lyon County",22,49,532
+32,003,33,011,NH,"Hillsborough County",22,26,506
+32,003,34,025,NJ,"Monmouth County",22,33,638
+32,003,36,063,NY,"Niagara County",22,41,309
+32,003,39,151,OH,"Stark County",22,44,618
+32,003,39,153,OH,"Summit County",22,32,625
+32,003,41,019,OR,"Douglas County",22,36,725
+32,003,48,303,TX,"Lubbock County",22,40,660
+32,003,06,089,CA,"Shasta County",21,36,718
+32,003,34,023,NJ,"Middlesex County",21,32,1090
+32,003,39,093,OH,"Lorain County",21,31,484
+32,003,48,215,TX,"Hidalgo County",21,50,755
+32,003,48,339,TX,"Montgomery County",21,41,1101
+32,003,53,029,WA,"Island County",21,34,624
+32,003,12,081,FL,"Manatee County",20,34,973
+32,003,16,005,ID,"Bannock County",20,32,482
+32,003,16,019,ID,"Bonneville County",20,54,539
+32,003,17,089,IL,"Kane County",20,28,821
+32,003,29,047,MO,"Clay County",20,39,693
+32,003,41,033,OR,"Josephine County",20,36,524
+32,003,47,093,TN,"Knox County",20,40,927
+32,003,51,013,VA,"Arlington County",20,24,527
+32,003,09,001,CT,"Fairfield County",19,39,1336
+32,003,12,105,FL,"Polk County",19,31,500
+32,003,12,115,FL,"Sarasota County",19,35,612
+32,003,16,027,ID,"Canyon County",19,36,638
+32,003,22,017,LA,"Caddo Parish",19,33,652
+32,003,30,013,MT,"Cascade County",19,49,555
+32,003,36,071,NY,"Orange County",19,25,211
+32,003,42,017,PA,"Bucks County",19,36,477
+32,003,48,167,TX,"Galveston County",19,30,735
+32,003,06,041,CA,"Marin County",18,25,972
+32,003,30,031,MT,"Gallatin County",18,30,537
+32,003,31,109,NE,"Lancaster County",18,32,674
+32,003,35,035,NM,"Otero County",18,47,532
+32,003,36,005,NY,"Bronx County",18,31,413
+32,003,22,033,LA,"East Baton Rouge Par",17,24,638
+32,003,24,005,MD,"Baltimore County",17,32,430
+32,003,24,033,MD,"Prince George's Coun",17,25,500
+32,003,26,049,MI,"Genesee County",17,43,657
+32,003,39,095,OH,"Lucas County",17,33,434
+32,003,41,041,OR,"Lincoln County",17,29,349
+32,003,44,007,RI,"Providence County",17,35,347
+32,003,45,019,SC,"Charleston County",17,35,589
+32,003,49,025,UT,"Kane County",17,28,682
+32,003,49,041,UT,"Sevier County",17,44,889
+32,003,55,025,WI,"Dane County",17,31,616
+32,003,06,007,CA,"Butte County",16,25,291
+32,003,08,037,CO,"Eagle County",16,25,588
+32,003,08,067,CO,"La Plata County",16,26,965
+32,003,12,083,FL,"Marion County",16,27,690
+32,003,13,215,GA,"Muscogee County",16,27,299
+32,003,16,083,ID,"Twin Falls County",16,33,457
+32,003,27,003,MN,"Anoka County",16,29,537
+32,003,27,137,MN,"St Louis County",16,24,325
+32,003,34,005,NJ,"Burlington County",16,32,938
+32,003,34,007,NJ,"Camden County",16,32,1083
+32,003,37,183,NC,"Wake County",16,52,881
+32,003,39,099,OH,"Mahoning County",16,28,236
+32,003,42,091,PA,"Montgomery County",16,22,515
+32,003,46,099,SD,"Minnehaha County",16,33,313
+32,003,47,065,TN,"Hamilton County",16,22,383
+32,003,48,451,TX,"Tom Green County",16,34,453
+32,003,06,057,CA,"Nevada County",15,33,728
+32,003,12,069,FL,"Lake County",15,31,717
+32,003,12,087,FL,"Monroe County",15,17,4523
+32,003,12,097,FL,"Osceola County",15,34,377
+32,003,17,119,IL,"Madison County",15,30,374
+32,003,25,005,MA,"Bristol County",15,31,547
+32,003,34,013,NJ,"Essex County",15,19,380
+32,003,34,017,NJ,"Hudson County",15,23,391
+32,003,35,005,NM,"Chaves County",15,26,289
+32,003,35,009,NM,"Curry County",15,45,501
+32,003,36,001,NY,"Albany County",15,21,348
+32,003,36,085,NY,"Richmond County",15,26,305
+32,003,45,079,SC,"Richland County",15,27,606
+32,003,46,103,SD,"Pennington County",15,28,306
+32,003,48,355,TX,"Nueces County",15,30,595
+32,003,53,015,WA,"Cowlitz County",15,20,372
+32,003,55,009,WI,"Brown County",15,20,330
+32,003,55,133,WI,"Waukesha County",15,22,479
+32,003,06,027,CA,"Inyo County",14,16,125
+32,003,09,011,CT,"New London County",14,27,1455
+32,003,12,015,FL,"Charlotte County",14,24,518
+32,003,17,111,IL,"Mchenry County",14,28,701
+32,003,29,510,MO,"St Louis",14,20,278
+32,003,30,049,MT,"Lewis And Clark Coun",14,26,437
+32,003,42,079,PA,"Luzerne County",14,20,314
+32,003,42,133,PA,"York County",14,20,409
+32,003,48,441,TX,"Taylor County",14,30,707
+32,003,49,001,UT,"Beaver County",14,27,409
+32,003,51,199,VA,"York County",14,43,671
+32,003,05,131,AR,"Sebastian County",13,20,184
+32,003,13,063,GA,"Clayton County",13,26,347
+32,003,16,017,ID,"Bonner County",13,27,372
+32,003,17,167,IL,"Sangamon County",13,24,243
+32,003,17,201,IL,"Winnebago County",13,29,356
+32,003,19,103,IA,"Johnson County",13,32,355
+32,003,19,155,IA,"Pottawattamie County",13,29,554
+32,003,20,209,KS,"Wyandotte County",13,16,177
+32,003,22,015,LA,"Bossier Parish",13,25,434
+32,003,22,073,LA,"Ouachita Parish",13,30,227
+32,003,24,027,MD,"Howard County",13,21,537
+32,003,24,510,MD,Baltimore,13,22,328
+32,003,26,161,MI,"Washtenaw County",13,30,526
+32,003,29,183,MO,"St Charles County",13,30,422
+32,003,30,029,MT,"Flathead County",13,27,505
+32,003,31,153,NE,"Sarpy County",13,23,459
+32,003,34,021,NJ,"Mercer County",13,21,396
+32,003,36,027,NY,"Dutchess County",13,20,420
+32,003,39,155,OH,"Trumbull County",13,19,151
+32,003,41,059,OR,"Umatilla County",13,34,324
+32,003,45,045,SC,"Greenville County",13,26,565
+32,003,48,041,TX,"Brazos County",13,20,377
+32,003,49,043,UT,"Summit County",13,25,683
+32,003,01,073,AL,"Jefferson County",12,23,373
+32,003,01,089,AL,"Madison County",12,25,647
+32,003,04,001,AZ,"Apache County",12,40,379
+32,003,05,051,AR,"Garland County",12,17,353
+32,003,12,035,FL,"Flagler County",12,16,367
+32,003,18,057,IN,"Hamilton County",12,27,982
+32,003,26,065,MI,"Ingham County",12,16,395
+32,003,29,165,MO,"Platte County",12,22,629
+32,003,33,015,NH,"Rockingham County",12,18,306
+32,003,34,031,NJ,"Passaic County",12,18,467
+32,003,36,065,NY,"Oneida County",12,22,231
+32,003,37,133,NC,"Onslow County",12,14,162
+32,003,37,191,NC,"Wayne County",12,19,371
+32,003,40,031,OK,"Comanche County",12,15,227
+32,003,42,007,PA,"Beaver County",12,23,348
+32,003,45,015,SC,"Berkeley County",12,17,194
+32,003,48,157,TX,"Fort Bend County",12,31,1542
+32,003,48,373,TX,"Polk County",12,23,848
+32,003,51,153,VA,"Prince William Count",12,31,705
+32,003,51,700,VA,"Newport News",12,24,275
+32,003,53,073,WA,"Whatcom County",12,17,492
+32,003,55,101,WI,"Racine County",12,20,203
+32,003,57,003,FR,"Foreign - Puerto Rico",12,23,408
+32,003,04,007,AZ,"Gila County",11,26,383
+32,003,04,012,AZ,"La Paz County",11,25,313
+32,003,06,039,CA,"Madera County",11,19,318
+32,003,08,045,CO,"Garfield County",11,21,856
+32,003,12,061,FL,"Indian River County",11,12,267
+32,003,12,073,FL,"Leon County",11,24,414
+32,003,18,105,IN,"Monroe County",11,17,221
+32,003,19,113,IA,"Linn County",11,19,333
+32,003,22,019,LA,"Calcasieu Parish",11,26,383
+32,003,30,047,MT,"Lake County",11,22,239
+32,003,30,063,MT,"Missoula County",11,18,321
+32,003,34,039,NJ,"Union County",11,15,216
+32,003,38,017,ND,"Cass County",11,24,775
+32,003,39,043,OH,"Erie County",11,12,311
+32,003,39,085,OH,"Lake County",11,15,286
+32,003,41,003,OR,"Benton County",11,24,356
+32,003,41,043,OR,"Linn County",11,27,366
+32,003,41,071,OR,"Yamhill County",11,21,489
+32,003,42,041,PA,"Cumberland County",11,17,368
+32,003,42,129,PA,"Westmoreland County",11,23,292
+32,003,48,381,TX,"Randall County",11,20,286
+32,003,49,003,UT,"Box Elder County",11,27,336
+32,003,49,045,UT,"Tooele County",11,23,429
+32,003,51,510,VA,Alexandria,11,13,420
+32,003,53,009,WA,"Clallam County",11,24,380
+32,003,53,077,WA,"Yakima County",11,24,173
+32,003,01,097,AL,"Mobile County",10,18,312
+32,003,06,023,CA,"Humboldt County",10,16,140
+32,003,06,033,CA,"Lake County",10,15,279
+32,003,08,119,CO,"Teller County",10,20,351
+32,003,12,085,FL,"Martin County",10,18,362
+32,003,15,007,HI,"Kauai County",10,13,120
+32,003,17,161,IL,"Rock Island County",10,16,203
+32,003,19,163,IA,"Scott County",10,17,242
+32,003,21,047,KY,"Christian County",10,16,151
+32,003,22,065,LA,"Madison Parish",10,22,95
+32,003,25,013,MA,"Hampden County",10,12,162
+32,003,25,023,MA,"Plymouth County",10,14,307
+32,003,26,077,MI,"Kalamazoo County",10,17,347
+32,003,29,101,MO,"Johnson County",10,25,361
+32,003,34,027,NJ,"Morris County",10,12,245
+32,003,35,031,NM,"Mckinley County",10,16,251
+32,003,35,061,NM,"Valencia County",10,25,421
+32,003,37,067,NC,"Forsyth County",10,22,338
+32,003,37,081,NC,"Guilford County",10,14,339
+32,003,38,101,ND,"Ward County",10,17,279
+32,003,39,017,OH,"Butler County",10,14,166
+32,003,39,025,OH,"Clermont County",10,18,434
+32,003,41,011,OR,"Coos County",10,20,277
+32,003,41,015,OR,"Curry County",10,21,312
+32,003,41,053,OR,"Polk County",10,21,315
+32,003,42,045,PA,"Delaware County",10,14,292
+32,003,42,077,PA,"Lehigh County",10,20,155
+32,003,42,085,PA,"Mercer County",10,13,369
+32,003,45,051,SC,"Horry County",10,16,242
+32,003,45,085,SC,"Sumter County",10,27,365
+32,003,48,139,TX,"Ellis County",10,26,541
+32,003,48,309,TX,"Mclennan County",10,25,447
+32,003,53,045,WA,"Mason County",10,24,277
+32,003,55,031,WI,"Douglas County",10,14,276
+32,003,55,127,WI,"Walworth County",10,17,222
+32,003,58,000,SS,"Other Flows - Same State",33,69,1280
+32,003,59,000,DS,"Other Flows - Diff State",3955,7634,124397
+32,003,59,001,DS,"Other Flows - Northeast",400,649,12792
+32,003,59,003,DS,"Other Flows - Midwest",1311,2484,37742
+32,003,59,005,DS,"Other Flows - South",1542,3067,48956
+32,003,59,007,DS,"Other Flows - West",702,1434,24906
+32,003,57,009,FR,"Foreign - Other flows",121,201,4301
+32,005,96,000,NV,"Douglas County Tot Mig-US & For",1805,3256,71469
+32,005,97,000,NV,"Douglas County Tot Mig-US",1805,3256,71469
+32,005,97,001,NV,"Douglas County Tot Mig-Same St",824,1509,28911
+32,005,97,003,NV,"Douglas County Tot Mig-Diff St",981,1747,42558
+32,005,32,005,NV,"Douglas County Non-Migrants",14295,30447,871169
+32,005,32,510,NV,"Carson City",376,689,13367
+32,005,32,031,NV,"Washoe County",226,391,8377
+32,005,06,017,CA,"El Dorado County",189,363,4800
+32,005,32,019,NV,"Lyon County",105,208,2963
+32,005,32,003,NV,"Clark County",89,169,2629
+32,005,06,037,CA,"Los Angeles County",40,67,3662
+32,005,06,073,CA,"San Diego County",35,53,1500
+32,005,04,013,AZ,"Maricopa County",26,56,4156
+32,005,06,067,CA,"Sacramento County",26,48,739
+32,005,06,065,CA,"Riverside County",21,45,948
+32,005,06,001,CA,"Alameda County",20,37,667
+32,005,06,085,CA,"Santa Clara County",20,39,707
+32,005,06,059,CA,"Orange County",16,29,370
+32,005,06,097,CA,"Sonoma County",14,24,495
+32,005,06,003,CA,"Alpine County",12,14,246
+32,005,06,071,CA,"San Bernardino Count",12,18,1215
+32,005,06,081,CA,"San Mateo County",11,19,691
+32,005,06,053,CA,"Monterey County",10,22,1218
+32,005,53,033,WA,"King County",10,13,201
+32,005,58,000,SS,"Other Flows - Same State",28,52,1576
+32,005,59,000,DS,"Other Flows - Diff State",519,900,20943
+32,005,59,001,DS,"Other Flows - Northeast",26,43,2342
+32,005,59,003,DS,"Other Flows - Midwest",76,141,2546
+32,005,59,005,DS,"Other Flows - South",106,185,4431
+32,005,59,007,DS,"Other Flows - West",311,531,11624
+32,007,96,000,NV,"Elko County Tot Mig-US & For",1778,3840,60954
+32,007,97,000,NV,"Elko County Tot Mig-US",1761,3817,60568
+32,007,97,001,NV,"Elko County Tot Mig-Same St",434,897,15204
+32,007,97,003,NV,"Elko County Tot Mig-Diff St",1327,2920,45364
+32,007,98,000,NV,"Elko County Tot Mig-Foreign",17,23,387
+32,007,32,007,NV,"Elko County Non-Migrants",14189,35451,661518
+32,007,32,031,NV,"Washoe County",127,236,3866
+32,007,32,003,NV,"Clark County",123,252,3742
+32,007,49,035,UT,"Salt Lake County",77,136,2042
+32,007,32,013,NV,"Humboldt County",61,141,2903
+32,007,16,083,ID,"Twin Falls County",45,99,1692
+32,007,49,045,UT,"Tooele County",44,110,1610
+32,007,16,001,ID,"Ada County",43,84,1153
+32,007,04,013,AZ,"Maricopa County",40,80,1338
+32,007,49,011,UT,"Davis County",25,51,826
+32,007,56,037,WY,"Sweetwater County",22,61,757
+32,007,16,005,ID,"Bannock County",21,48,432
+32,007,32,019,NV,"Lyon County",20,42,630
+32,007,32,510,NV,"Carson City",17,30,492
+32,007,49,049,UT,"Utah County",17,37,440
+32,007,49,053,UT,"Washington County",17,31,505
+32,007,06,037,CA,"Los Angeles County",16,28,352
+32,007,06,067,CA,"Sacramento County",16,22,566
+32,007,16,027,ID,"Canyon County",16,41,986
+32,007,56,013,WY,"Fremont County",16,28,460
+32,007,32,001,NV,"Churchill County",15,34,613
+32,007,32,015,NV,"Lander County",15,40,611
+32,007,04,019,AZ,"Pima County",14,19,331
+32,007,04,015,AZ,"Mohave County",13,32,340
+32,007,32,023,NV,"Nye County",13,29,554
+32,007,53,033,WA,"King County",13,24,336
+32,007,06,029,CA,"Kern County",11,23,424
+32,007,06,073,CA,"San Diego County",11,23,193
+32,007,30,111,MT,"Yellowstone County",11,29,432
+32,007,32,033,NV,"White Pine County",11,22,439
+32,007,49,057,UT,"Weber County",11,21,332
+32,007,08,041,CO,"El Paso County",10,28,388
+32,007,16,047,ID,"Gooding County",10,26,231
+32,007,32,011,NV,"Eureka County",10,25,495
+32,007,56,005,WY,"Campbell County",10,29,552
+32,007,58,000,SS,"Other Flows - Same State",22,46,858
+32,007,59,000,DS,"Other Flows - Diff State",798,1810,28646
+32,007,59,001,DS,"Other Flows - Northeast",25,51,630
+32,007,59,003,DS,"Other Flows - Midwest",107,231,3854
+32,007,59,005,DS,"Other Flows - South",124,263,4716
+32,007,59,007,DS,"Other Flows - West",542,1265,19446
+32,007,57,009,FR,"Foreign - Other flows",17,23,387
+32,009,96,000,NV,"Esmeralda Count Tot Mig-US & For",53,116,1473
+32,009,97,000,NV,"Esmeralda Count Tot Mig-US",53,116,1473
+32,009,97,001,NV,"Esmeralda Count Tot Mig-Same St",24,53,636
+32,009,97,003,NV,"Esmeralda Count Tot Mig-Diff St",29,63,837
+32,009,32,009,NV,"Esmeralda Count Non-Migrants",264,572,9119
+32,009,58,000,SS,"Other Flows - Same State",24,53,636
+32,009,59,000,DS,"Other Flows - Diff State",29,63,837
+32,011,96,000,NV,"Eureka County Tot Mig-US & For",96,201,2333
+32,011,97,000,NV,"Eureka County Tot Mig-US",96,201,2333
+32,011,97,001,NV,"Eureka County Tot Mig-Same St",58,118,1917
+32,011,97,003,NV,"Eureka County Tot Mig-Diff St",38,83,415
+32,011,32,011,NV,"Eureka County Non-Migrants",522,1278,21388
+32,011,32,007,NV,"Elko County",17,36,587
+32,011,58,000,SS,"Other Flows - Same State",41,82,1330
+32,011,59,000,DS,"Other Flows - Diff State",38,83,415
+32,013,96,000,NV,"Humboldt County Tot Mig-US & For",827,1742,28644
+32,013,97,000,NV,"Humboldt County Tot Mig-US",827,1742,28644
+32,013,97,001,NV,"Humboldt County Tot Mig-Same St",298,629,9303
+32,013,97,003,NV,"Humboldt County Tot Mig-Diff St",529,1113,19341
+32,013,32,013,NV,"Humboldt County Non-Migrants",5753,14588,248544
+32,013,32,031,NV,"Washoe County",102,178,3075
+32,013,32,007,NV,"Elko County",42,95,1469
+32,013,32,003,NV,"Clark County",31,68,1046
+32,013,32,027,NV,"Pershing County",25,57,649
+32,013,32,019,NV,"Lyon County",18,41,554
+32,013,32,015,NV,"Lander County",17,43,417
+32,013,04,013,AZ,"Maricopa County",15,24,476
+32,013,32,023,NV,"Nye County",15,38,578
+32,013,49,035,UT,"Salt Lake County",15,22,548
+32,013,16,001,ID,"Ada County",13,24,498
+32,013,32,001,NV,"Churchill County",13,34,348
+32,013,32,005,NV,"Douglas County",11,19,268
+32,013,56,005,WY,"Campbell County",11,20,484
+32,013,58,000,SS,"Other Flows - Same State",24,56,899
+32,013,59,000,DS,"Other Flows - Diff State",475,1023,17335
+32,015,96,000,NV,"Lander County Tot Mig-US & For",335,744,13543
+32,015,97,000,NV,"Lander County Tot Mig-US",335,744,13543
+32,015,97,001,NV,"Lander County Tot Mig-Same St",150,323,7260
+32,015,97,003,NV,"Lander County Tot Mig-Diff St",185,421,6283
+32,015,32,015,NV,"Lander County Non-Migrants",1965,5258,89391
+32,015,32,007,NV,"Elko County",33,75,1212
+32,015,32,013,NV,"Humboldt County",27,68,954
+32,015,32,031,NV,"Washoe County",27,50,2643
+32,015,32,003,NV,"Clark County",20,35,633
+32,015,32,001,NV,"Churchill County",12,26,422
+32,015,58,000,SS,"Other Flows - Same State",31,69,1396
+32,015,59,000,DS,"Other Flows - Diff State",185,421,6283
+32,017,96,000,NV,"Lincoln County Tot Mig-US & For",94,190,2636
+32,017,97,000,NV,"Lincoln County Tot Mig-US",94,190,2636
+32,017,97,001,NV,"Lincoln County Tot Mig-Same St",56,119,1796
+32,017,97,003,NV,"Lincoln County Tot Mig-Diff St",38,71,839
+32,017,32,017,NV,"Lincoln County Non-Migrants",1075,2800,38071
+32,017,32,003,NV,"Clark County",46,93,1473
+32,017,58,000,SS,"Other Flows - Same State",10,26,324
+32,017,59,000,DS,"Other Flows - Diff State",38,71,839
+32,019,96,000,NV,"Lyon County Tot Mig-US & For",1262,2500,33882
+32,019,97,000,NV,"Lyon County Tot Mig-US",1252,2490,33773
+32,019,97,001,NV,"Lyon County Tot Mig-Same St",726,1420,20638
+32,019,97,003,NV,"Lyon County Tot Mig-Diff St",526,1070,13135
+32,019,98,000,NV,"Lyon County Tot Mig-Foreign",10,10,108
+32,019,32,019,NV,"Lyon County Non-Migrants",10663,24268,391589
+32,019,32,031,NV,"Washoe County",270,492,7377
+32,019,32,510,NV,"Carson City",232,461,6570
+32,019,32,005,NV,"Douglas County",71,146,2319
+32,019,32,001,NV,"Churchill County",56,122,1517
+32,019,32,003,NV,"Clark County",39,71,1177
+32,019,06,037,CA,"Los Angeles County",20,37,472
+32,019,06,073,CA,"San Diego County",13,25,369
+32,019,04,013,AZ,"Maricopa County",12,20,276
+32,019,06,065,CA,"Riverside County",12,22,354
+32,019,06,067,CA,"Sacramento County",12,25,192
+32,019,32,023,NV,"Nye County",12,22,246
+32,019,06,017,CA,"El Dorado County",11,22,232
+32,019,32,029,NV,"Storey County",11,27,258
+32,019,32,007,NV,"Elko County",10,23,377
+32,019,58,000,SS,"Other Flows - Same State",25,56,797
+32,019,59,000,DS,"Other Flows - Diff State",446,919,11241
+32,019,57,009,FR,"Foreign - Other flows",10,10,108
+32,021,96,000,NV,"Mineral County Tot Mig-US & For",194,382,6108
+32,021,97,000,NV,"Mineral County Tot Mig-US",194,382,6108
+32,021,97,001,NV,"Mineral County Tot Mig-Same St",81,155,2418
+32,021,97,003,NV,"Mineral County Tot Mig-Diff St",113,227,3690
+32,021,32,021,NV,"Mineral County Non-Migrants",1831,3867,58572
+32,021,32,031,NV,"Washoe County",27,44,651
+32,021,32,001,NV,"Churchill County",16,37,410
+32,021,32,019,NV,"Lyon County",14,32,572
+32,021,58,000,SS,"Other Flows - Same State",24,42,785
+32,021,59,000,DS,"Other Flows - Diff State",113,227,3690
+32,023,96,000,NV,"Nye County Tot Mig-US & For",1183,2474,41902
+32,023,97,000,NV,"Nye County Tot Mig-US",1183,2474,41902
+32,023,97,001,NV,"Nye County Tot Mig-Same St",525,1103,20873
+32,023,97,003,NV,"Nye County Tot Mig-Diff St",658,1371,21029
+32,023,32,023,NV,"Nye County Non-Migrants",9063,20019,349454
+32,023,32,003,NV,"Clark County",345,695,12653
+32,023,32,007,NV,"Elko County",47,132,2873
+32,023,32,031,NV,"Washoe County",35,60,1326
+32,023,06,071,CA,"San Bernardino Count",24,44,503
+32,023,04,015,AZ,"Mohave County",23,49,765
+32,023,06,073,CA,"San Diego County",20,27,483
+32,023,04,013,AZ,"Maricopa County",19,32,605
+32,023,32,001,NV,"Churchill County",18,37,636
+32,023,32,013,NV,"Humboldt County",18,47,989
+32,023,32,009,NV,"Esmeralda County",17,37,613
+32,023,06,037,CA,"Los Angeles County",14,25,377
+32,023,04,019,AZ,"Pima County",12,24,416
+32,023,32,019,NV,"Lyon County",12,27,495
+32,023,06,065,CA,"Riverside County",11,23,290
+32,023,58,000,SS,"Other Flows - Same State",33,68,1291
+32,023,59,000,DS,"Other Flows - Diff State",535,1147,17590
+32,023,59,001,DS,"Other Flows - Northeast",15,27,393
+32,023,59,003,DS,"Other Flows - Midwest",96,202,3001
+32,023,59,005,DS,"Other Flows - South",106,226,3754
+32,023,59,007,DS,"Other Flows - West",318,692,10442
+32,027,96,000,NV,"Pershing County Tot Mig-US & For",168,378,4969
+32,027,97,000,NV,"Pershing County Tot Mig-US",168,378,4969
+32,027,97,001,NV,"Pershing County Tot Mig-Same St",85,189,2564
+32,027,97,003,NV,"Pershing County Tot Mig-Diff St",83,189,2405
+32,027,32,027,NV,"Pershing County Non-Migrants",1372,3459,53548
+32,027,32,031,NV,"Washoe County",26,47,644
+32,027,32,013,NV,"Humboldt County",21,57,591
+32,027,32,019,NV,"Lyon County",10,26,370
+32,027,58,000,SS,"Other Flows - Same State",28,59,959
+32,027,59,000,DS,"Other Flows - Diff State",83,189,2405
+32,029,96,000,NV,"Storey County Tot Mig-US & For",357,640,19868
+32,029,97,000,NV,"Storey County Tot Mig-US",357,640,19868
+32,029,97,001,NV,"Storey County Tot Mig-Same St",226,384,8447
+32,029,97,003,NV,"Storey County Tot Mig-Diff St",131,256,11421
+32,029,32,029,NV,"Storey County Non-Migrants",2787,6297,227464
+32,029,32,031,NV,"Washoe County",178,295,6548
+32,029,32,510,NV,"Carson City",16,28,697
+32,029,32,019,NV,"Lyon County",15,33,545
+32,029,58,000,SS,"Other Flows - Same State",17,28,656
+32,029,59,000,DS,"Other Flows - Diff State",131,256,11421
+32,029,59,001,DS,"Other Flows - Northeast",10,17,488
+32,029,59,003,DS,"Other Flows - Midwest",17,45,1322
+32,029,59,005,DS,"Other Flows - South",28,59,1751
+32,029,59,007,DS,"Other Flows - West",76,135,7861
+32,031,96,000,NV,"Washoe County Tot Mig-US & For",9091,16315,353323
+32,031,97,000,NV,"Washoe County Tot Mig-US",8987,16182,349148
+32,031,97,001,NV,"Washoe County Tot Mig-Same St",2233,4039,96626
+32,031,97,003,NV,"Washoe County Tot Mig-Diff St",6754,12143,252523
+32,031,98,000,NV,"Washoe County Tot Mig-Foreign",104,133,4174
+32,031,32,031,NV,"Washoe County Non-Migrants",115680,236485,6273406
+32,031,32,003,NV,"Clark County",809,1350,34201
+32,031,32,019,NV,"Lyon County",405,813,13875
+32,031,32,510,NV,"Carson City",360,662,12602
+32,031,06,037,CA,"Los Angeles County",304,527,14049
+32,031,06,067,CA,"Sacramento County",272,495,7948
+32,031,04,013,AZ,"Maricopa County",219,404,9948
+32,031,06,073,CA,"San Diego County",205,342,7464
+32,031,32,029,NV,"Storey County",190,372,9626
+32,031,32,005,NV,"Douglas County",151,263,16482
+32,031,06,061,CA,"Placer County",150,243,4807
+32,031,53,033,WA,"King County",148,205,4689
+32,031,06,001,CA,"Alameda County",136,210,4764
+32,031,06,085,CA,"Santa Clara County",129,199,4053
+32,031,06,059,CA,"Orange County",127,217,11371
+32,031,06,057,CA,"Nevada County",104,179,3039
+32,031,06,013,CA,"Contra Costa County",93,178,4375
+32,031,06,075,CA,"San Francisco County",90,122,3334
+32,031,32,001,NV,"Churchill County",90,161,2371
+32,031,06,071,CA,"San Bernardino Count",89,161,2427
+32,031,06,065,CA,"Riverside County",79,150,3617
+32,031,32,007,NV,"Elko County",76,166,2657
+32,031,41,051,OR,"Multnomah County",70,102,1713
+32,031,49,035,UT,"Salt Lake County",69,143,2921
+32,031,06,017,CA,"El Dorado County",67,108,2110
+32,031,06,077,CA,"San Joaquin County",65,123,1861
+32,031,06,081,CA,"San Mateo County",65,85,2733
+32,031,16,001,ID,"Ada County",65,128,2449
+32,031,06,097,CA,"Sonoma County",61,111,2510
+32,031,04,019,AZ,"Pima County",60,118,3632
+32,031,06,019,CA,"Fresno County",57,101,1653
+32,031,06,007,CA,"Butte County",56,104,1246
+32,031,06,063,CA,"Plumas County",53,102,1348
+32,031,53,053,WA,"Pierce County",53,93,1310
+32,031,06,099,CA,"Stanislaus County",48,98,1619
+32,031,32,013,NV,"Humboldt County",47,79,1625
+32,031,06,095,CA,"Solano County",46,96,1801
+32,031,53,011,WA,"Clark County",45,72,3947
+32,031,06,111,CA,"Ventura County",44,92,1234
+32,031,53,061,WA,"Snohomish County",44,74,1456
+32,031,41,039,OR,"Lane County",42,78,865
+32,031,06,053,CA,"Monterey County",41,72,1293
+32,031,41,029,OR,"Jackson County",41,66,982
+32,031,06,035,CA,"Lassen County",39,81,835
+32,031,48,113,TX,"Dallas County",39,72,2133
+32,031,06,089,CA,"Shasta County",38,63,758
+32,031,04,015,AZ,"Mohave County",37,79,1108
+32,031,41,067,OR,"Washington County",37,82,1473
+32,031,48,201,TX,"Harris County",37,73,1920
+32,031,57,005,FR,"Foreign - APO/FPO ZIPs",37,46,725
+32,031,32,023,NV,"Nye County",35,59,1443
+32,031,53,063,WA,"Spokane County",35,64,1048
+32,031,35,001,NM,"Bernalillo County",31,54,1455
+32,031,06,113,CA,"Yolo County",30,43,669
+32,031,15,003,HI,"Honolulu County",30,46,1164
+32,031,06,087,CA,"Santa Cruz County",27,46,775
+32,031,08,005,CO,"Arapahoe County",27,36,821
+32,031,48,029,TX,"Bexar County",27,49,853
+32,031,48,439,TX,"Tarrant County",26,49,1127
+32,031,06,029,CA,"Kern County",25,61,785
+32,031,06,079,CA,"San Luis Obispo Coun",25,46,773
+32,031,08,041,CO,"El Paso County",25,55,1087
+32,031,17,031,IL,"Cook County",25,31,645
+32,031,06,083,CA,"Santa Barbara County",24,40,552
+32,031,48,453,TX,"Travis County",24,40,712
+32,031,06,041,CA,"Marin County",23,34,691
+32,031,08,031,CO,"Denver County",23,36,684
+32,031,08,069,CO,"Larimer County",23,32,845
+32,031,41,005,OR,"Clackamas County",23,44,690
+32,031,41,017,OR,"Deschutes County",23,46,1577
+32,031,49,049,UT,"Utah County",23,45,888
+32,031,08,001,CO,"Adams County",22,39,711
+32,031,02,020,AK,"Anchorage Borough",21,27,659
+32,031,17,043,IL,"Du Page County",21,45,919
+32,031,27,053,MN,"Hennepin County",21,29,749
+32,031,06,103,CA,"Tehama County",20,36,499
+32,031,41,033,OR,"Josephine County",20,37,528
+32,031,53,067,WA,"Thurston County",20,40,502
+32,031,12,115,FL,"Sarasota County",19,31,199
+32,031,32,033,NV,"White Pine County",19,24,448
+32,031,16,027,ID,"Canyon County",18,39,531
+32,031,32,027,NV,"Pershing County",18,33,543
+32,031,04,025,AZ,"Yavapai County",17,29,907
+32,031,06,101,CA,"Sutter County",17,39,495
+32,031,13,067,GA,"Cobb County",17,36,613
+32,031,41,047,OR,"Marion County",17,32,326
+32,031,06,055,CA,"Napa County",16,26,520
+32,031,06,107,CA,"Tulare County",16,40,420
+32,031,12,103,FL,"Pinellas County",16,19,353
+32,031,15,001,HI,"Hawaii County",16,24,478
+32,031,41,019,OR,"Douglas County",16,31,452
+32,031,41,035,OR,"Klamath County",16,35,364
+32,031,53,073,WA,"Whatcom County",16,25,450
+32,031,08,059,CO,"Jefferson County",15,25,695
+32,031,12,011,FL,"Broward County",15,20,505
+32,031,12,025,FL,"Dade County",15,30,445
+32,031,15,009,HI,"Maui County",15,24,-177
+32,031,16,055,ID,"Kootenai County",15,42,911
+32,031,36,061,NY,"New York County",15,18,509
+32,031,39,049,OH,"Franklin County",15,32,539
+32,031,49,011,UT,"Davis County",15,37,575
+32,031,53,035,WA,"Kitsap County",15,32,402
+32,031,08,013,CO,"Boulder County",14,25,1002
+32,031,12,009,FL,"Brevard County",14,21,473
+32,031,12,071,FL,"Lee County",14,24,408
+32,031,40,143,OK,"Tulsa County",14,33,357
+32,031,48,373,TX,"Polk County",14,26,818
+32,031,51,059,VA,"Fairfax County",14,36,814
+32,031,06,023,CA,"Humboldt County",13,23,293
+32,031,06,045,CA,"Mendocino County",13,30,353
+32,031,12,031,FL,"Duval County",13,19,249
+32,031,12,057,FL,"Hillsborough County",13,29,867
+32,031,12,099,FL,"Palm Beach County",13,20,670
+32,031,24,031,MD,"Montgomery County",13,22,511
+32,031,27,037,MN,"Dakota County",13,23,619
+32,031,31,055,NE,"Douglas County",13,29,358
+32,031,48,085,TX,"Collin County",13,32,1242
+32,031,48,141,TX,"El Paso County",13,19,212
+32,031,06,005,CA,"Amador County",12,27,383
+32,031,06,033,CA,"Lake County",12,19,254
+32,031,06,047,CA,"Merced County",12,29,243
+32,031,08,035,CO,"Douglas County",12,36,1253
+32,031,32,021,NV,"Mineral County",12,20,181
+32,031,40,109,OK,"Oklahoma County",12,27,824
+32,031,47,037,TN,"Davidson County",12,19,368
+32,031,48,121,TX,"Denton County",12,26,635
+32,031,02,170,AK,"Matanuska Susitna Bo",11,14,419
+32,031,06,025,CA,"Imperial County",11,19,131
+32,031,06,027,CA,"Inyo County",11,16,161
+32,031,06,049,CA,"Modoc County",11,27,269
+32,031,06,109,CA,"Tuolumne County",11,24,402
+32,031,25,017,MA,"Middlesex County",11,21,438
+32,031,26,163,MI,"Wayne County",11,18,302
+32,031,41,015,OR,"Curry County",11,13,283
+32,031,06,039,CA,"Madera County",10,17,304
+32,031,06,093,CA,"Siskiyou County",10,21,268
+32,031,06,115,CA,"Yuba County",10,21,181
+32,031,12,095,FL,"Orange County",10,23,558
+32,031,36,103,NY,"Suffolk County",10,16,394
+32,031,41,041,OR,"Lincoln County",10,17,165
+32,031,47,157,TN,"Shelby County",10,17,291
+32,031,53,077,WA,"Yakima County",10,16,180
+32,031,55,025,WI,"Dane County",10,19,288
+32,031,58,000,SS,"Other Flows - Same State",21,37,573
+32,031,59,000,DS,"Other Flows - Diff State",1798,3366,68571
+32,031,59,001,DS,"Other Flows - Northeast",225,379,7958
+32,031,59,003,DS,"Other Flows - Midwest",451,827,16961
+32,031,59,005,DS,"Other Flows - South",612,1160,22863
+32,031,59,007,DS,"Other Flows - West",510,1000,20789
+32,031,57,009,FR,"Foreign - Other flows",67,87,3450
+32,033,96,000,NV,"White Pine Coun Tot Mig-US & For",396,845,12399
+32,033,97,000,NV,"White Pine Coun Tot Mig-US",396,845,12399
+32,033,97,001,NV,"White Pine Coun Tot Mig-Same St",176,377,5880
+32,033,97,003,NV,"White Pine Coun Tot Mig-Diff St",220,468,6520
+32,033,32,033,NV,"White Pine Coun Non-Migrants",3034,7005,119591
+32,033,32,003,NV,"Clark County",68,140,2280
+32,033,32,007,NV,"Elko County",36,80,997
+32,033,32,031,NV,"Washoe County",23,41,719
+32,033,32,019,NV,"Lyon County",12,40,440
+32,033,58,000,SS,"Other Flows - Same State",37,76,1443
+32,033,59,000,DS,"Other Flows - Diff State",220,468,6520
+32,510,96,000,NV,"Carson City Tot Mig-US & For",2066,3899,67813
+32,510,97,000,NV,"Carson City Tot Mig-US",2055,3881,67612
+32,510,97,001,NV,"Carson City Tot Mig-Same St",1177,2247,39291
+32,510,97,003,NV,"Carson City Tot Mig-Diff St",878,1634,28321
+32,510,98,000,NV,"Carson City Tot Mig-Foreign",11,18,201
+32,510,32,510,NV,"Carson City Non-Migrants",16929,35245,790146
+32,510,32,031,NV,"Washoe County",452,750,13647
+32,510,32,019,NV,"Lyon County",281,641,7949
+32,510,32,005,NV,"Douglas County",271,537,11402
+32,510,32,003,NV,"Clark County",97,177,3900
+32,510,06,037,CA,"Los Angeles County",37,71,1091
+32,510,06,067,CA,"Sacramento County",31,57,652
+32,510,04,013,AZ,"Maricopa County",27,46,824
+32,510,06,059,CA,"Orange County",27,46,1974
+32,510,06,073,CA,"San Diego County",25,38,976
+32,510,32,001,NV,"Churchill County",21,47,528
+32,510,32,029,NV,"Storey County",18,35,716
+32,510,06,017,CA,"El Dorado County",16,29,382
+32,510,06,071,CA,"San Bernardino Count",14,28,383
+32,510,06,085,CA,"Santa Clara County",14,31,439
+32,510,06,065,CA,"Riverside County",13,24,318
+32,510,06,061,CA,"Placer County",12,22,134
+32,510,06,001,CA,"Alameda County",11,16,391
+32,510,32,007,NV,"Elko County",11,17,382
+32,510,53,033,WA,"King County",11,15,257
+32,510,53,061,WA,"Snohomish County",11,16,395
+32,510,06,079,CA,"San Luis Obispo Coun",10,17,327
+32,510,58,000,SS,"Other Flows - Same State",26,43,767
+32,510,59,000,DS,"Other Flows - Diff State",619,1178,19778
+32,510,59,001,DS,"Other Flows - Northeast",27,59,947
+32,510,59,003,DS,"Other Flows - Midwest",90,179,3373
+32,510,59,005,DS,"Other Flows - South",140,267,4616
+32,510,59,007,DS,"Other Flows - West",362,673,10842
+32,510,57,009,FR,"Foreign - Other flows",11,18,201
