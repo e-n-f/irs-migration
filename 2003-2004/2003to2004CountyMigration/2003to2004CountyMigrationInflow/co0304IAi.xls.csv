@@ -1,0 +1,1863 @@
+"2003-2004 County to County Migration Inflow",,,,,,,,"Iowa Inflows"
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration into",,"Migration from",,,,Number,Number,Aggregate
+Iowa,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+19,000,96,000,IA,"Total Mig - US & For",66309,123218,2287147
+19,000,97,000,IA,"Total Mig - US",64827,121346,2270373
+19,000,97,001,IA,"Total Mig - US Same St",38461,69347,1279244
+19,000,97,003,IA,"Total Mig - US Diff St",26366,51999,991128
+19,000,98,000,IA,"Total Mig - Foreign",1482,1872,16774
+19,001,96,000,IA,"Adair County Tot Mig-US & For",207,402,5492
+19,001,97,000,IA,"Adair County Tot Mig-US",207,402,5492
+19,001,97,001,IA,"Adair County Tot Mig-Same St",163,314,4185
+19,001,97,003,IA,"Adair County Tot Mig-Diff St",44,88,1306
+19,001,19,001,IA,"Adair County Non-Migrants",3405,7630,130984
+19,001,19,153,IA,"Polk County",49,99,1367
+19,001,19,049,IA,"Dallas County",20,35,498
+19,001,19,077,IA,"Guthrie County",15,31,463
+19,001,19,121,IA,"Madison County",15,32,446
+19,001,19,029,IA,"Cass County",13,21,245
+19,001,58,000,SS,"Other Flows - Same State",51,96,1166
+19,001,59,000,DS,"Other Flows - Diff State",44,88,1306
+19,003,96,000,IA,"Adams County Tot Mig-US & For",84,161,5929
+19,003,97,000,IA,"Adams County Tot Mig-US",84,161,5929
+19,003,97,001,IA,"Adams County Tot Mig-Same St",62,116,1565
+19,003,97,003,IA,"Adams County Tot Mig-Diff St",22,45,4364
+19,003,19,003,IA,"Adams County Non-Migrants",1647,3803,56251
+19,003,19,175,IA,"Union County",12,23,316
+19,003,19,173,IA,"Taylor County",11,17,302
+19,003,58,000,SS,"Other Flows - Same State",39,76,947
+19,003,59,000,DS,"Other Flows - Diff State",22,45,4364
+19,005,96,000,IA,"Allamakee Count Tot Mig-US & For",252,497,6932
+19,005,97,000,IA,"Allamakee Count Tot Mig-US",252,497,6932
+19,005,97,001,IA,"Allamakee Count Tot Mig-Same St",139,257,3976
+19,005,97,003,IA,"Allamakee Count Tot Mig-Diff St",113,240,2956
+19,005,19,005,IA,"Allamakee Count Non-Migrants",5254,12021,188603
+19,005,19,043,IA,"Clayton County",27,48,519
+19,005,19,191,IA,"Winneshiek County",22,43,515
+19,005,19,065,IA,"Fayette County",16,31,445
+19,005,19,013,IA,"Black Hawk County",11,18,260
+19,005,19,113,IA,"Linn County",11,13,292
+19,005,58,000,SS,"Other Flows - Same State",52,104,1945
+19,005,59,000,DS,"Other Flows - Diff State",113,240,2956
+19,007,96,000,IA,"Appanoose Count Tot Mig-US & For",239,493,6184
+19,007,97,000,IA,"Appanoose Count Tot Mig-US",239,493,6184
+19,007,97,001,IA,"Appanoose Count Tot Mig-Same St",154,287,3926
+19,007,97,003,IA,"Appanoose Count Tot Mig-Diff St",85,206,2258
+19,007,19,007,IA,"Appanoose Count Non-Migrants",4484,10023,149153
+19,007,19,185,IA,"Wayne County",31,66,614
+19,007,19,135,IA,"Monroe County",18,37,586
+19,007,19,153,IA,"Polk County",18,28,620
+19,007,19,179,IA,"Wapello County",16,29,356
+19,007,29,171,MO,"Putnam County",13,33,259
+19,007,19,051,IA,"Davis County",12,27,353
+19,007,58,000,SS,"Other Flows - Same State",59,100,1397
+19,007,59,000,DS,"Other Flows - Diff State",72,173,1999
+19,009,96,000,IA,"Audubon County Tot Mig-US & For",142,285,3691
+19,009,97,000,IA,"Audubon County Tot Mig-US",142,285,3691
+19,009,97,001,IA,"Audubon County Tot Mig-Same St",109,204,2632
+19,009,97,003,IA,"Audubon County Tot Mig-Diff St",33,81,1059
+19,009,19,009,IA,"Audubon County Non-Migrants",2578,5932,89476
+19,009,19,029,IA,"Cass County",27,45,630
+19,009,19,027,IA,"Carroll County",17,34,406
+19,009,19,153,IA,"Polk County",12,21,364
+19,009,19,165,IA,"Shelby County",12,26,243
+19,009,58,000,SS,"Other Flows - Same State",41,78,990
+19,009,59,000,DS,"Other Flows - Diff State",33,81,1059
+19,011,96,000,IA,"Benton County Tot Mig-US & For",758,1564,29648
+19,011,97,000,IA,"Benton County Tot Mig-US",758,1564,29648
+19,011,97,001,IA,"Benton County Tot Mig-Same St",639,1319,25289
+19,011,97,003,IA,"Benton County Tot Mig-Diff St",119,245,4359
+19,011,19,011,IA,"Benton County Non-Migrants",10115,24270,478101
+19,011,19,113,IA,"Linn County",376,799,16580
+19,011,19,013,IA,"Black Hawk County",44,97,1753
+19,011,19,103,IA,"Johnson County",34,61,1151
+19,011,19,095,IA,"Iowa County",30,58,882
+19,011,19,171,IA,"Tama County",23,35,481
+19,011,19,019,IA,"Buchanan County",20,47,749
+19,011,19,153,IA,"Polk County",14,29,534
+19,011,58,000,SS,"Other Flows - Same State",98,193,3160
+19,011,59,000,DS,"Other Flows - Diff State",119,245,4359
+19,013,96,000,IA,"Black Hawk Coun Tot Mig-US & For",2505,4267,78018
+19,013,97,000,IA,"Black Hawk Coun Tot Mig-US",2407,4150,76644
+19,013,97,001,IA,"Black Hawk Coun Tot Mig-Same St",1484,2294,40662
+19,013,97,003,IA,"Black Hawk Coun Tot Mig-Diff St",923,1856,35981
+19,013,98,000,IA,"Black Hawk Coun Tot Mig-Foreign",98,117,1374
+19,013,19,013,IA,"Black Hawk Coun Non-Migrants",43565,93853,2038568
+19,013,19,017,IA,"Bremer County",163,278,5366
+19,013,19,113,IA,"Linn County",117,177,3426
+19,013,19,019,IA,"Buchanan County",92,149,2563
+19,013,19,153,IA,"Polk County",91,153,2754
+19,013,19,023,IA,"Butler County",75,139,2332
+19,013,19,075,IA,"Grundy County",72,132,1916
+19,013,19,065,IA,"Fayette County",64,96,1435
+19,013,19,103,IA,"Johnson County",54,81,1402
+19,013,19,061,IA,"Dubuque County",44,55,1253
+19,013,19,033,IA,"Cerro Gordo County",41,55,1088
+19,013,19,163,IA,"Scott County",41,63,1328
+19,013,17,031,IL,"Cook County",34,67,1032
+19,013,19,011,IA,"Benton County",34,63,1167
+19,013,19,171,IA,"Tama County",34,59,1106
+19,013,19,127,IA,"Marshall County",33,54,765
+19,013,19,169,IA,"Story County",28,39,697
+19,013,19,067,IA,"Floyd County",26,41,524
+19,013,04,013,AZ,"Maricopa County",25,46,689
+19,013,19,037,IA,"Chickasaw County",25,32,507
+19,013,19,187,IA,"Webster County",21,24,496
+19,013,19,191,IA,"Winneshiek County",18,26,256
+19,013,27,053,MN,"Hennepin County",18,30,489
+19,013,19,069,IA,"Franklin County",17,24,287
+19,013,19,083,IA,"Hardin County",17,25,455
+19,013,06,073,CA,"San Diego County",16,40,988
+19,013,19,043,IA,"Clayton County",15,21,494
+19,013,19,055,IA,"Delaware County",15,21,434
+19,013,19,005,IA,"Allamakee County",14,17,392
+19,013,06,037,CA,"Los Angeles County",13,22,677
+19,013,19,045,IA,"Clinton County",13,17,267
+19,013,19,197,IA,"Wright County",13,18,268
+19,013,19,041,IA,"Clay County",12,16,190
+19,013,19,089,IA,"Howard County",12,13,163
+19,013,57,005,FR,"Foreign - APO/FPO ZIPs",12,23,285
+19,013,17,161,IL,"Rock Island County",11,20,649
+19,013,19,015,IA,"Boone County",11,12,184
+19,013,48,113,TX,"Dallas County",11,26,218
+19,013,04,019,AZ,"Pima County",10,18,362
+19,013,19,179,IA,"Wapello County",10,14,348
+19,013,32,003,NV,"Clark County",10,20,198
+19,013,48,201,TX,"Harris County",10,23,506
+19,013,48,215,TX,"Hidalgo County",10,18,243
+19,013,58,000,SS,"Other Flows - Same State",262,380,6801
+19,013,59,000,DS,"Other Flows - Diff State",755,1526,29931
+19,013,59,001,DS,"Other Flows - Northeast",30,48,1022
+19,013,59,003,DS,"Other Flows - Midwest",335,720,14083
+19,013,59,005,DS,"Other Flows - South",251,492,10856
+19,013,59,007,DS,"Other Flows - West",139,266,3969
+19,013,57,009,FR,"Foreign - Other flows",86,94,1089
+19,015,96,000,IA,"Boone County Tot Mig-US & For",928,1687,30246
+19,015,97,000,IA,"Boone County Tot Mig-US",915,1663,30139
+19,015,97,001,IA,"Boone County Tot Mig-Same St",708,1265,23024
+19,015,97,003,IA,"Boone County Tot Mig-Diff St",207,398,7114
+19,015,98,000,IA,"Boone County Tot Mig-Foreign",13,24,107
+19,015,19,015,IA,"Boone County Non-Migrants",11419,25958,537205
+19,015,19,169,IA,"Story County",257,457,8434
+19,015,19,153,IA,"Polk County",144,253,5865
+19,015,19,049,IA,"Dallas County",62,118,2007
+19,015,19,073,IA,"Greene County",20,38,516
+19,015,19,187,IA,"Webster County",20,38,594
+19,015,19,079,IA,"Hamilton County",18,35,500
+19,015,19,127,IA,"Marshall County",11,19,386
+19,015,58,000,SS,"Other Flows - Same State",176,307,4721
+19,015,59,000,DS,"Other Flows - Diff State",207,398,7114
+19,015,59,001,DS,"Other Flows - Northeast",14,30,420
+19,015,59,003,DS,"Other Flows - Midwest",92,178,3374
+19,015,59,005,DS,"Other Flows - South",48,97,1628
+19,015,59,007,DS,"Other Flows - West",53,93,1693
+19,015,57,009,FR,"Foreign - Other flows",13,24,107
+19,017,96,000,IA,"Bremer County Tot Mig-US & For",528,1065,19376
+19,017,97,000,IA,"Bremer County Tot Mig-US",511,1048,19354
+19,017,97,001,IA,"Bremer County Tot Mig-Same St",377,767,13652
+19,017,97,003,IA,"Bremer County Tot Mig-Diff St",134,281,5701
+19,017,98,000,IA,"Bremer County Tot Mig-Foreign",17,17,22
+19,017,19,017,IA,"Bremer County Non-Migrants",7753,18086,381177
+19,017,19,013,IA,"Black Hawk County",163,363,6756
+19,017,19,023,IA,"Butler County",42,83,1307
+19,017,19,037,IA,"Chickasaw County",23,41,598
+19,017,19,065,IA,"Fayette County",22,38,452
+19,017,19,113,IA,"Linn County",13,18,348
+19,017,19,019,IA,"Buchanan County",12,25,388
+19,017,19,067,IA,"Floyd County",12,21,397
+19,017,19,153,IA,"Polk County",10,25,447
+19,017,58,000,SS,"Other Flows - Same State",80,153,2961
+19,017,59,000,DS,"Other Flows - Diff State",134,281,5701
+19,017,57,009,FR,"Foreign - Other flows",17,17,22
+19,019,96,000,IA,"Buchanan County Tot Mig-US & For",460,946,14503
+19,019,97,000,IA,"Buchanan County Tot Mig-US",460,946,14503
+19,019,97,001,IA,"Buchanan County Tot Mig-Same St",365,775,11569
+19,019,97,003,IA,"Buchanan County Tot Mig-Diff St",95,171,2934
+19,019,19,019,IA,"Buchanan County Non-Migrants",7487,17909,318310
+19,019,19,013,IA,"Black Hawk County",113,220,3838
+19,019,19,113,IA,"Linn County",73,167,2278
+19,019,19,065,IA,"Fayette County",57,111,1375
+19,019,19,011,IA,"Benton County",21,39,689
+19,019,19,055,IA,"Delaware County",16,42,513
+19,019,19,017,IA,"Bremer County",11,21,372
+19,019,58,000,SS,"Other Flows - Same State",74,175,2503
+19,019,59,000,DS,"Other Flows - Diff State",95,171,2934
+19,021,96,000,IA,"Buena Vista Cou Tot Mig-US & For",419,850,10805
+19,021,97,000,IA,"Buena Vista Cou Tot Mig-US",419,850,10805
+19,021,97,001,IA,"Buena Vista Cou Tot Mig-Same St",201,393,5392
+19,021,97,003,IA,"Buena Vista Cou Tot Mig-Diff St",218,457,5414
+19,021,19,021,IA,"Buena Vista Cou Non-Migrants",6716,15932,276235
+19,021,06,037,CA,"Los Angeles County",29,79,630
+19,021,19,161,IA,"Sac County",25,48,614
+19,021,19,035,IA,"Cherokee County",23,39,573
+19,021,19,041,IA,"Clay County",17,32,356
+19,021,19,151,IA,"Pocahontas County",16,37,406
+19,021,19,153,IA,"Polk County",14,27,345
+19,021,19,047,IA,"Crawford County",13,44,385
+19,021,58,000,SS,"Other Flows - Same State",93,166,2713
+19,021,59,000,DS,"Other Flows - Diff State",189,378,4784
+19,023,96,000,IA,"Butler County Tot Mig-US & For",332,672,9516
+19,023,97,000,IA,"Butler County Tot Mig-US",332,672,9516
+19,023,97,001,IA,"Butler County Tot Mig-Same St",271,547,7577
+19,023,97,003,IA,"Butler County Tot Mig-Diff St",61,125,1939
+19,023,19,023,IA,"Butler County Non-Migrants",5593,12839,217804
+19,023,19,013,IA,"Black Hawk County",105,202,3009
+19,023,19,017,IA,"Bremer County",62,140,1885
+19,023,19,069,IA,"Franklin County",11,21,209
+19,023,19,075,IA,"Grundy County",11,19,284
+19,023,58,000,SS,"Other Flows - Same State",82,165,2189
+19,023,59,000,DS,"Other Flows - Diff State",61,125,1939
+19,025,96,000,IA,"Calhoun County Tot Mig-US & For",231,465,7359
+19,025,97,000,IA,"Calhoun County Tot Mig-US",231,465,7359
+19,025,97,001,IA,"Calhoun County Tot Mig-Same St",175,320,5706
+19,025,97,003,IA,"Calhoun County Tot Mig-Diff St",56,145,1653
+19,025,19,025,IA,"Calhoun County Non-Migrants",4116,9205,152348
+19,025,19,187,IA,"Webster County",51,103,1815
+19,025,19,151,IA,"Pocahontas County",18,33,659
+19,025,19,027,IA,"Carroll County",17,32,385
+19,025,19,161,IA,"Sac County",17,33,411
+19,025,19,153,IA,"Polk County",12,28,879
+19,025,58,000,SS,"Other Flows - Same State",60,91,1557
+19,025,59,000,DS,"Other Flows - Diff State",56,145,1653
+19,027,96,000,IA,"Carroll County Tot Mig-US & For",347,652,9850
+19,027,97,000,IA,"Carroll County Tot Mig-US",347,652,9850
+19,027,97,001,IA,"Carroll County Tot Mig-Same St",244,433,6094
+19,027,97,003,IA,"Carroll County Tot Mig-Diff St",103,219,3755
+19,027,19,027,IA,"Carroll County Non-Migrants",8071,18783,349972
+19,027,19,047,IA,"Crawford County",39,67,980
+19,027,19,153,IA,"Polk County",30,48,826
+19,027,19,161,IA,"Sac County",22,33,245
+19,027,19,073,IA,"Greene County",18,37,475
+19,027,19,009,IA,"Audubon County",15,25,292
+19,027,19,077,IA,"Guthrie County",14,23,260
+19,027,19,025,IA,"Calhoun County",11,18,250
+19,027,19,169,IA,"Story County",10,16,222
+19,027,58,000,SS,"Other Flows - Same State",85,166,2544
+19,027,59,000,DS,"Other Flows - Diff State",103,219,3755
+19,029,96,000,IA,"Cass County Tot Mig-US & For",241,459,6514
+19,029,97,000,IA,"Cass County Tot Mig-US",241,459,6514
+19,029,97,001,IA,"Cass County Tot Mig-Same St",140,254,3703
+19,029,97,003,IA,"Cass County Tot Mig-Diff St",101,205,2811
+19,029,19,029,IA,"Cass County Non-Migrants",4893,10791,183761
+19,029,19,155,IA,"Pottawattamie County",24,38,516
+19,029,19,009,IA,"Audubon County",20,36,560
+19,029,19,137,IA,"Montgomery County",17,35,314
+19,029,19,153,IA,"Polk County",17,34,472
+19,029,31,055,NE,"Douglas County",15,22,416
+19,029,19,001,IA,"Adair County",10,12,231
+19,029,58,000,SS,"Other Flows - Same State",52,99,1610
+19,029,59,000,DS,"Other Flows - Diff State",86,183,2395
+19,031,96,000,IA,"Cedar County Tot Mig-US & For",547,1036,19276
+19,031,97,000,IA,"Cedar County Tot Mig-US",547,1036,19276
+19,031,97,001,IA,"Cedar County Tot Mig-Same St",416,794,14916
+19,031,97,003,IA,"Cedar County Tot Mig-Diff St",131,242,4360
+19,031,19,031,IA,"Cedar County Non-Migrants",7296,16566,325692
+19,031,19,103,IA,"Johnson County",128,227,4524
+19,031,19,139,IA,"Muscatine County",76,144,2517
+19,031,19,113,IA,"Linn County",59,115,2082
+19,031,19,163,IA,"Scott County",42,89,1934
+19,031,19,105,IA,"Jones County",18,32,554
+19,031,17,161,IL,"Rock Island County",10,22,374
+19,031,19,045,IA,"Clinton County",10,21,275
+19,031,58,000,SS,"Other Flows - Same State",83,166,3031
+19,031,59,000,DS,"Other Flows - Diff State",121,220,3986
+19,033,96,000,IA,"Cerro Gordo Cou Tot Mig-US & For",923,1622,28038
+19,033,97,000,IA,"Cerro Gordo Cou Tot Mig-US",923,1622,28038
+19,033,97,001,IA,"Cerro Gordo Cou Tot Mig-Same St",573,989,14559
+19,033,97,003,IA,"Cerro Gordo Cou Tot Mig-Diff St",350,633,13479
+19,033,19,033,IA,"Cerro Gordo Cou Non-Migrants",17229,37249,768260
+19,033,19,081,IA,"Hancock County",65,109,1903
+19,033,19,195,IA,"Worth County",63,116,1743
+19,033,19,067,IA,"Floyd County",59,93,1890
+19,033,19,189,IA,"Winnebago County",44,80,1139
+19,033,19,153,IA,"Polk County",34,57,945
+19,033,19,069,IA,"Franklin County",32,45,586
+19,033,19,131,IA,"Mitchell County",26,39,978
+19,033,19,013,IA,"Black Hawk County",22,37,977
+19,033,19,109,IA,"Kossuth County",18,29,628
+19,033,19,103,IA,"Johnson County",16,21,669
+19,033,19,197,IA,"Wright County",16,29,433
+19,033,19,169,IA,"Story County",15,25,369
+19,033,27,053,MN,"Hennepin County",15,23,592
+19,033,04,013,AZ,"Maricopa County",11,16,622
+19,033,27,037,MN,"Dakota County",11,14,433
+19,033,58,000,SS,"Other Flows - Same State",163,309,2300
+19,033,59,000,DS,"Other Flows - Diff State",313,580,11832
+19,033,59,001,DS,"Other Flows - Northeast",15,29,666
+19,033,59,003,DS,"Other Flows - Midwest",173,313,5658
+19,033,59,005,DS,"Other Flows - South",65,134,3617
+19,033,59,007,DS,"Other Flows - West",60,104,1891
+19,035,96,000,IA,"Cherokee County Tot Mig-US & For",234,485,6777
+19,035,97,000,IA,"Cherokee County Tot Mig-US",234,485,6777
+19,035,97,001,IA,"Cherokee County Tot Mig-Same St",168,349,5047
+19,035,97,003,IA,"Cherokee County Tot Mig-Diff St",66,136,1730
+19,035,19,035,IA,"Cherokee County Non-Migrants",5099,11517,202093
+19,035,19,193,IA,"Woodbury County",31,56,819
+19,035,19,021,IA,"Buena Vista County",20,49,629
+19,035,19,149,IA,"Plymouth County",19,40,441
+19,035,19,093,IA,"Ida County",17,34,461
+19,035,19,141,IA,"O'brien County",15,36,379
+19,035,19,153,IA,"Polk County",10,19,266
+19,035,58,000,SS,"Other Flows - Same State",56,115,2052
+19,035,59,000,DS,"Other Flows - Diff State",66,136,1730
+19,037,96,000,IA,"Chickasaw Count Tot Mig-US & For",197,367,5499
+19,037,97,000,IA,"Chickasaw Count Tot Mig-US",197,367,5499
+19,037,97,001,IA,"Chickasaw Count Tot Mig-Same St",142,279,3793
+19,037,97,003,IA,"Chickasaw Count Tot Mig-Diff St",55,88,1706
+19,037,19,037,IA,"Chickasaw Count Non-Migrants",4595,10661,181102
+19,037,19,067,IA,"Floyd County",25,55,995
+19,037,19,013,IA,"Black Hawk County",18,30,300
+19,037,19,017,IA,"Bremer County",18,42,588
+19,037,19,065,IA,"Fayette County",16,35,434
+19,037,19,089,IA,"Howard County",12,19,193
+19,037,58,000,SS,"Other Flows - Same State",53,98,1284
+19,037,59,000,DS,"Other Flows - Diff State",55,88,1706
+19,039,96,000,IA,"Clarke County Tot Mig-US & For",289,597,8000
+19,039,97,000,IA,"Clarke County Tot Mig-US",289,597,8000
+19,039,97,001,IA,"Clarke County Tot Mig-Same St",213,433,5939
+19,039,97,003,IA,"Clarke County Tot Mig-Diff St",76,164,2061
+19,039,19,039,IA,"Clarke County Non-Migrants",3266,7453,120397
+19,039,19,153,IA,"Polk County",57,125,1777
+19,039,19,053,IA,"Decatur County",47,97,1127
+19,039,19,181,IA,"Warren County",20,42,628
+19,039,19,175,IA,"Union County",19,29,453
+19,039,19,117,IA,"Lucas County",12,23,410
+19,039,19,121,IA,"Madison County",12,22,286
+19,039,58,000,SS,"Other Flows - Same State",46,95,1260
+19,039,59,000,DS,"Other Flows - Diff State",76,164,2061
+19,041,96,000,IA,"Clay County Tot Mig-US & For",340,641,9825
+19,041,97,000,IA,"Clay County Tot Mig-US",340,641,9825
+19,041,97,001,IA,"Clay County Tot Mig-Same St",227,426,6539
+19,041,97,003,IA,"Clay County Tot Mig-Diff St",113,215,3286
+19,041,19,041,IA,"Clay County Non-Migrants",6386,14380,282351
+19,041,19,059,IA,"Dickinson County",42,71,1380
+19,041,19,141,IA,"O'brien County",29,51,707
+19,041,19,147,IA,"Palo Alto County",28,50,711
+19,041,19,021,IA,"Buena Vista County",27,60,657
+19,041,19,151,IA,"Pocahontas County",10,19,314
+19,041,58,000,SS,"Other Flows - Same State",91,175,2770
+19,041,59,000,DS,"Other Flows - Diff State",113,215,3286
+19,043,96,000,IA,"Clayton County Tot Mig-US & For",347,661,9817
+19,043,97,000,IA,"Clayton County Tot Mig-US",347,661,9817
+19,043,97,001,IA,"Clayton County Tot Mig-Same St",221,438,6408
+19,043,97,003,IA,"Clayton County Tot Mig-Diff St",126,223,3409
+19,043,19,043,IA,"Clayton County Non-Migrants",6935,15823,261725
+19,043,19,061,IA,"Dubuque County",37,69,1113
+19,043,55,023,WI,"Crawford County",35,63,650
+19,043,19,055,IA,"Delaware County",28,60,615
+19,043,19,005,IA,"Allamakee County",26,47,719
+19,043,19,113,IA,"Linn County",24,38,816
+19,043,19,065,IA,"Fayette County",23,53,758
+19,043,58,000,SS,"Other Flows - Same State",83,171,2387
+19,043,59,000,DS,"Other Flows - Diff State",91,160,2758
+19,045,96,000,IA,"Clinton County Tot Mig-US & For",866,1684,25027
+19,045,97,000,IA,"Clinton County Tot Mig-US",866,1684,25027
+19,045,97,001,IA,"Clinton County Tot Mig-Same St",418,775,11870
+19,045,97,003,IA,"Clinton County Tot Mig-Diff St",448,909,13157
+19,045,19,045,IA,"Clinton County Non-Migrants",18219,40989,760858
+19,045,19,163,IA,"Scott County",175,341,5401
+19,045,19,097,IA,"Jackson County",95,180,2071
+19,045,17,195,IL,"Whiteside County",82,157,2104
+19,045,17,015,IL,"Carroll County",35,67,862
+19,045,17,161,IL,"Rock Island County",27,47,617
+19,045,19,113,IA,"Linn County",21,28,510
+19,045,17,031,IL,"Cook County",20,41,327
+19,045,19,061,IA,"Dubuque County",15,25,450
+19,045,19,103,IA,"Johnson County",13,26,381
+19,045,19,153,IA,"Polk County",12,17,294
+19,045,04,013,AZ,"Maricopa County",11,17,227
+19,045,19,031,IA,"Cedar County",10,24,519
+19,045,58,000,SS,"Other Flows - Same State",77,134,2245
+19,045,59,000,DS,"Other Flows - Diff State",273,580,9020
+19,047,96,000,IA,"Crawford County Tot Mig-US & For",288,615,7077
+19,047,97,000,IA,"Crawford County Tot Mig-US",288,615,7077
+19,047,97,001,IA,"Crawford County Tot Mig-Same St",150,282,3836
+19,047,97,003,IA,"Crawford County Tot Mig-Diff St",138,333,3241
+19,047,19,047,IA,"Crawford County Non-Migrants",5557,13193,211630
+19,047,19,027,IA,"Carroll County",20,41,464
+19,047,06,037,CA,"Los Angeles County",17,50,276
+19,047,19,165,IA,"Shelby County",17,31,463
+19,047,19,153,IA,"Polk County",16,26,373
+19,047,31,055,NE,"Douglas County",15,36,356
+19,047,19,155,IA,"Pottawattamie County",11,19,320
+19,047,58,000,SS,"Other Flows - Same State",86,165,2215
+19,047,59,000,DS,"Other Flows - Diff State",106,247,2609
+19,049,96,000,IA,"Dallas County Tot Mig-US & For",2615,5277,161879
+19,049,97,000,IA,"Dallas County Tot Mig-US",2615,5277,161879
+19,049,97,001,IA,"Dallas County Tot Mig-Same St",2062,4014,124383
+19,049,97,003,IA,"Dallas County Tot Mig-Diff St",553,1263,37495
+19,049,19,049,IA,"Dallas County Non-Migrants",15529,37762,1077356
+19,049,19,153,IA,"Polk County",1494,3017,101632
+19,049,19,169,IA,"Story County",56,88,1847
+19,049,19,121,IA,"Madison County",48,98,1810
+19,049,19,181,IA,"Warren County",44,89,2089
+19,049,19,015,IA,"Boone County",37,64,1246
+19,049,19,077,IA,"Guthrie County",36,70,1085
+19,049,19,103,IA,"Johnson County",28,38,1289
+19,049,19,013,IA,"Black Hawk County",26,43,971
+19,049,19,163,IA,"Scott County",22,51,1211
+19,049,04,013,AZ,"Maricopa County",20,47,1435
+19,049,19,001,IA,"Adair County",19,34,682
+19,049,17,031,IL,"Cook County",17,29,965
+19,049,19,113,IA,"Linn County",17,28,684
+19,049,19,073,IA,"Greene County",14,32,496
+19,049,06,037,CA,"Los Angeles County",13,37,418
+19,049,19,099,IA,"Jasper County",13,19,262
+19,049,19,127,IA,"Marshall County",12,30,985
+19,049,19,187,IA,"Webster County",12,21,787
+19,049,20,091,KS,"Johnson County",11,17,513
+19,049,27,053,MN,"Hennepin County",11,29,1485
+19,049,31,055,NE,"Douglas County",11,19,329
+19,049,31,109,NE,"Lancaster County",11,29,1008
+19,049,19,193,IA,"Woodbury County",10,19,362
+19,049,58,000,SS,"Other Flows - Same State",174,273,6944
+19,049,59,000,DS,"Other Flows - Diff State",459,1056,31342
+19,049,59,001,DS,"Other Flows - Northeast",15,27,1059
+19,049,59,003,DS,"Other Flows - Midwest",218,488,15290
+19,049,59,005,DS,"Other Flows - South",120,291,8681
+19,049,59,007,DS,"Other Flows - West",106,250,6313
+19,051,96,000,IA,"Davis County Tot Mig-US & For",162,382,4485
+19,051,97,000,IA,"Davis County Tot Mig-US",162,382,4485
+19,051,97,001,IA,"Davis County Tot Mig-Same St",105,247,3139
+19,051,97,003,IA,"Davis County Tot Mig-Diff St",57,135,1345
+19,051,19,051,IA,"Davis County Non-Migrants",2879,7197,96369
+19,051,19,179,IA,"Wapello County",53,124,1620
+19,051,58,000,SS,"Other Flows - Same State",52,123,1520
+19,051,59,000,DS,"Other Flows - Diff State",57,135,1345
+19,053,96,000,IA,"Decatur County Tot Mig-US & For",245,447,6519
+19,053,97,000,IA,"Decatur County Tot Mig-US",203,405,6473
+19,053,97,001,IA,"Decatur County Tot Mig-Same St",121,232,2837
+19,053,97,003,IA,"Decatur County Tot Mig-Diff St",82,173,3636
+19,053,98,000,IA,"Decatur County Tot Mig-Foreign",42,42,46
+19,053,19,053,IA,"Decatur County Non-Migrants",2379,5427,75041
+19,053,19,039,IA,"Clarke County",40,77,982
+19,053,19,153,IA,"Polk County",17,35,404
+19,053,58,000,SS,"Other Flows - Same State",64,120,1451
+19,053,59,000,DS,"Other Flows - Diff State",82,173,3636
+19,053,57,009,FR,"Foreign - Other flows",42,42,46
+19,055,96,000,IA,"Delaware County Tot Mig-US & For",280,503,8962
+19,055,97,000,IA,"Delaware County Tot Mig-US",280,503,8962
+19,055,97,001,IA,"Delaware County Tot Mig-Same St",223,408,7131
+19,055,97,003,IA,"Delaware County Tot Mig-Diff St",57,95,1830
+19,055,19,055,IA,"Delaware County Non-Migrants",6168,15049,248332
+19,055,19,113,IA,"Linn County",48,86,1643
+19,055,19,043,IA,"Clayton County",34,62,906
+19,055,19,061,IA,"Dubuque County",34,65,916
+19,055,19,019,IA,"Buchanan County",19,32,553
+19,055,19,105,IA,"Jones County",16,36,426
+19,055,19,013,IA,"Black Hawk County",15,22,609
+19,055,58,000,SS,"Other Flows - Same State",57,105,2079
+19,055,59,000,DS,"Other Flows - Diff State",57,95,1830
+19,057,96,000,IA,"Des Moines Coun Tot Mig-US & For",662,1286,20303
+19,057,97,000,IA,"Des Moines Coun Tot Mig-US",662,1286,20303
+19,057,97,001,IA,"Des Moines Coun Tot Mig-Same St",294,544,7754
+19,057,97,003,IA,"Des Moines Coun Tot Mig-Diff St",368,742,12549
+19,057,19,057,IA,"Des Moines Coun Non-Migrants",15225,33079,644713
+19,057,19,111,IA,"Lee County",71,118,1759
+19,057,19,087,IA,"Henry County",63,122,1716
+19,057,17,071,IL,"Henderson County",48,99,1017
+19,057,19,115,IA,"Louisa County",21,41,690
+19,057,19,103,IA,"Johnson County",18,26,504
+19,057,17,187,IL,"Warren County",16,45,341
+19,057,17,067,IL,"Hancock County",15,32,481
+19,057,19,179,IA,"Wapello County",12,21,203
+19,057,19,113,IA,"Linn County",11,28,347
+19,057,19,163,IA,"Scott County",11,15,195
+19,057,19,153,IA,"Polk County",10,10,296
+19,057,58,000,SS,"Other Flows - Same State",77,163,2044
+19,057,59,000,DS,"Other Flows - Diff State",289,566,10710
+19,057,59,001,DS,"Other Flows - Northeast",11,24,330
+19,057,59,003,DS,"Other Flows - Midwest",145,285,5403
+19,057,59,005,DS,"Other Flows - South",80,155,3127
+19,057,59,007,DS,"Other Flows - West",53,102,1850
+19,059,96,000,IA,"Dickinson Count Tot Mig-US & For",497,915,23299
+19,059,97,000,IA,"Dickinson Count Tot Mig-US",497,915,23299
+19,059,97,001,IA,"Dickinson Count Tot Mig-Same St",297,520,12420
+19,059,97,003,IA,"Dickinson Count Tot Mig-Diff St",200,395,10879
+19,059,19,059,IA,"Dickinson Count Non-Migrants",6354,13557,325573
+19,059,19,041,IA,"Clay County",67,126,3125
+19,059,19,063,IA,"Emmet County",32,64,1190
+19,059,19,153,IA,"Polk County",18,27,871
+19,059,19,141,IA,"O'brien County",16,34,523
+19,059,27,063,MN,"Jackson County",15,25,444
+19,059,19,035,IA,"Cherokee County",14,18,586
+19,059,19,021,IA,"Buena Vista County",12,17,331
+19,059,19,143,IA,"Osceola County",12,24,585
+19,059,19,193,IA,"Woodbury County",12,19,566
+19,059,31,055,NE,"Douglas County",11,25,593
+19,059,19,103,IA,"Johnson County",10,17,495
+19,059,19,147,IA,"Palo Alto County",10,18,264
+19,059,46,099,SD,"Minnehaha County",10,23,419
+19,059,58,000,SS,"Other Flows - Same State",94,156,3886
+19,059,59,000,DS,"Other Flows - Diff State",164,322,9423
+19,061,96,000,IA,"Dubuque County Tot Mig-US & For",1396,2603,47982
+19,061,97,000,IA,"Dubuque County Tot Mig-US",1381,2585,47694
+19,061,97,001,IA,"Dubuque County Tot Mig-Same St",511,901,17503
+19,061,97,003,IA,"Dubuque County Tot Mig-Diff St",870,1684,30191
+19,061,98,000,IA,"Dubuque County Tot Mig-Foreign",15,18,288
+19,061,19,061,IA,"Dubuque County Non-Migrants",33079,75707,1590982
+19,061,17,085,IL,"Jo Daviess County",113,206,3524
+19,061,19,097,IA,"Jackson County",77,132,2099
+19,061,55,043,WI,"Grant County",70,108,2014
+19,061,17,031,IL,"Cook County",59,140,2153
+19,061,19,055,IA,"Delaware County",59,122,2048
+19,061,19,113,IA,"Linn County",59,99,1722
+19,061,19,163,IA,"Scott County",41,84,2603
+19,061,19,103,IA,"Johnson County",35,54,1427
+19,061,19,043,IA,"Clayton County",31,47,951
+19,061,19,013,IA,"Black Hawk County",27,40,705
+19,061,19,153,IA,"Polk County",24,43,980
+19,061,17,043,IL,"Du Page County",19,38,891
+19,061,19,045,IA,"Clinton County",18,24,337
+19,061,27,053,MN,"Hennepin County",18,29,672
+19,061,19,105,IA,"Jones County",13,21,441
+19,061,55,025,WI,"Dane County",13,25,610
+19,061,04,013,AZ,"Maricopa County",12,23,396
+19,061,19,065,IA,"Fayette County",10,17,479
+19,061,58,000,SS,"Other Flows - Same State",117,218,3711
+19,061,59,000,DS,"Other Flows - Diff State",566,1115,19931
+19,061,59,001,DS,"Other Flows - Northeast",36,67,1463
+19,061,59,003,DS,"Other Flows - Midwest",284,563,10101
+19,061,59,005,DS,"Other Flows - South",140,264,4437
+19,061,59,007,DS,"Other Flows - West",106,221,3929
+19,061,57,009,FR,"Foreign - Other flows",15,18,288
+19,063,96,000,IA,"Emmet County Tot Mig-US & For",187,346,4699
+19,063,97,000,IA,"Emmet County Tot Mig-US",187,346,4699
+19,063,97,001,IA,"Emmet County Tot Mig-Same St",100,172,2556
+19,063,97,003,IA,"Emmet County Tot Mig-Diff St",87,174,2143
+19,063,19,063,IA,"Emmet County Non-Migrants",3735,8369,141456
+19,063,19,059,IA,"Dickinson County",31,47,833
+19,063,19,147,IA,"Palo Alto County",13,31,358
+19,063,27,091,MN,"Martin County",11,23,287
+19,063,19,109,IA,"Kossuth County",10,16,285
+19,063,58,000,SS,"Other Flows - Same State",46,78,1080
+19,063,59,000,DS,"Other Flows - Diff State",76,151,1856
+19,065,96,000,IA,"Fayette County Tot Mig-US & For",362,685,9479
+19,065,97,000,IA,"Fayette County Tot Mig-US",362,685,9479
+19,065,97,001,IA,"Fayette County Tot Mig-Same St",264,495,7112
+19,065,97,003,IA,"Fayette County Tot Mig-Diff St",98,190,2367
+19,065,19,065,IA,"Fayette County Non-Migrants",7074,16053,251782
+19,065,19,019,IA,"Buchanan County",58,118,1347
+19,065,19,013,IA,"Black Hawk County",36,55,1261
+19,065,19,043,IA,"Clayton County",25,53,587
+19,065,19,113,IA,"Linn County",20,32,559
+19,065,19,017,IA,"Bremer County",17,33,335
+19,065,19,191,IA,"Winneshiek County",17,21,255
+19,065,58,000,SS,"Other Flows - Same State",91,183,2766
+19,065,59,000,DS,"Other Flows - Diff State",98,190,2367
+19,067,96,000,IA,"Floyd County Tot Mig-US & For",301,570,8225
+19,067,97,000,IA,"Floyd County Tot Mig-US",301,570,8225
+19,067,97,001,IA,"Floyd County Tot Mig-Same St",198,370,5315
+19,067,97,003,IA,"Floyd County Tot Mig-Diff St",103,200,2910
+19,067,19,067,IA,"Floyd County Non-Migrants",5569,12786,217552
+19,067,19,033,IA,"Cerro Gordo County",45,81,1094
+19,067,19,037,IA,"Chickasaw County",27,63,611
+19,067,19,023,IA,"Butler County",16,33,621
+19,067,19,013,IA,"Black Hawk County",15,25,391
+19,067,19,017,IA,"Bremer County",12,24,378
+19,067,58,000,SS,"Other Flows - Same State",83,144,2220
+19,067,59,000,DS,"Other Flows - Diff State",103,200,2910
+19,069,96,000,IA,"Franklin County Tot Mig-US & For",240,494,6850
+19,069,97,000,IA,"Franklin County Tot Mig-US",240,494,6850
+19,069,97,001,IA,"Franklin County Tot Mig-Same St",176,334,5066
+19,069,97,003,IA,"Franklin County Tot Mig-Diff St",64,160,1784
+19,069,19,069,IA,"Franklin County Non-Migrants",4438,10025,170684
+19,069,19,083,IA,"Hardin County",37,60,927
+19,069,19,033,IA,"Cerro Gordo County",32,67,1010
+19,069,19,197,IA,"Wright County",15,26,421
+19,069,19,013,IA,"Black Hawk County",13,23,285
+19,069,19,023,IA,"Butler County",13,26,339
+19,069,58,000,SS,"Other Flows - Same State",66,132,2085
+19,069,59,000,DS,"Other Flows - Diff State",64,160,1784
+19,071,96,000,IA,"Fremont County Tot Mig-US & For",206,415,6820
+19,071,97,000,IA,"Fremont County Tot Mig-US",206,415,6820
+19,071,97,001,IA,"Fremont County Tot Mig-Same St",97,202,2883
+19,071,97,003,IA,"Fremont County Tot Mig-Diff St",109,213,3937
+19,071,19,071,IA,"Fremont County Non-Migrants",3114,7045,118985
+19,071,19,145,IA,"Page County",40,92,1267
+19,071,31,055,NE,"Douglas County",31,55,982
+19,071,19,129,IA,"Mills County",17,25,403
+19,071,19,155,IA,"Pottawattamie County",15,39,422
+19,071,31,131,NE,"Otoe County",14,30,415
+19,071,58,000,SS,"Other Flows - Same State",25,46,791
+19,071,59,000,DS,"Other Flows - Diff State",64,128,2540
+19,073,96,000,IA,"Greene County Tot Mig-US & For",209,428,5895
+19,073,97,000,IA,"Greene County Tot Mig-US",209,428,5895
+19,073,97,001,IA,"Greene County Tot Mig-Same St",152,308,4378
+19,073,97,003,IA,"Greene County Tot Mig-Diff St",57,120,1517
+19,073,19,073,IA,"Greene County Non-Migrants",3542,8093,133976
+19,073,19,153,IA,"Polk County",25,53,845
+19,073,19,049,IA,"Dallas County",21,46,429
+19,073,19,015,IA,"Boone County",18,32,476
+19,073,19,027,IA,"Carroll County",16,31,393
+19,073,19,077,IA,"Guthrie County",13,26,486
+19,073,19,025,IA,"Calhoun County",12,21,389
+19,073,58,000,SS,"Other Flows - Same State",47,99,1359
+19,073,59,000,DS,"Other Flows - Diff State",57,120,1517
+19,075,96,000,IA,"Grundy County Tot Mig-US & For",294,611,11209
+19,075,97,000,IA,"Grundy County Tot Mig-US",294,611,11209
+19,075,97,001,IA,"Grundy County Tot Mig-Same St",243,514,9177
+19,075,97,003,IA,"Grundy County Tot Mig-Diff St",51,97,2031
+19,075,19,075,IA,"Grundy County Non-Migrants",4545,10575,205257
+19,075,19,013,IA,"Black Hawk County",101,201,3742
+19,075,19,127,IA,"Marshall County",30,68,1587
+19,075,19,023,IA,"Butler County",18,45,492
+19,075,19,083,IA,"Hardin County",15,29,530
+19,075,19,171,IA,"Tama County",11,19,284
+19,075,58,000,SS,"Other Flows - Same State",68,152,2543
+19,075,59,000,DS,"Other Flows - Diff State",51,97,2031
+19,077,96,000,IA,"Guthrie County Tot Mig-US & For",267,567,10224
+19,077,97,000,IA,"Guthrie County Tot Mig-US",267,567,10224
+19,077,97,001,IA,"Guthrie County Tot Mig-Same St",210,443,8293
+19,077,97,003,IA,"Guthrie County Tot Mig-Diff St",57,124,1931
+19,077,19,077,IA,"Guthrie County Non-Migrants",3698,8407,162868
+19,077,19,153,IA,"Polk County",69,138,3190
+19,077,19,049,IA,"Dallas County",37,86,1009
+19,077,19,001,IA,"Adair County",20,36,565
+19,077,19,073,IA,"Greene County",14,26,666
+19,077,58,000,SS,"Other Flows - Same State",70,157,2862
+19,077,59,000,DS,"Other Flows - Diff State",57,124,1931
+19,079,96,000,IA,"Hamilton County Tot Mig-US & For",373,705,10973
+19,079,97,000,IA,"Hamilton County Tot Mig-US",373,705,10973
+19,079,97,001,IA,"Hamilton County Tot Mig-Same St",265,486,7578
+19,079,97,003,IA,"Hamilton County Tot Mig-Diff St",108,219,3395
+19,079,19,079,IA,"Hamilton County Non-Migrants",5723,12976,258686
+19,079,19,169,IA,"Story County",53,91,1607
+19,079,19,187,IA,"Webster County",47,94,1309
+19,079,19,015,IA,"Boone County",29,44,648
+19,079,19,197,IA,"Wright County",28,58,730
+19,079,19,083,IA,"Hardin County",21,34,390
+19,079,19,153,IA,"Polk County",18,36,644
+19,079,58,000,SS,"Other Flows - Same State",69,129,2250
+19,079,59,000,DS,"Other Flows - Diff State",108,219,3395
+19,081,96,000,IA,"Hancock County Tot Mig-US & For",231,436,6792
+19,081,97,000,IA,"Hancock County Tot Mig-US",231,436,6792
+19,081,97,001,IA,"Hancock County Tot Mig-Same St",161,303,4879
+19,081,97,003,IA,"Hancock County Tot Mig-Diff St",70,133,1913
+19,081,19,081,IA,"Hancock County Non-Migrants",4176,9618,173063
+19,081,19,033,IA,"Cerro Gordo County",50,95,1178
+19,081,19,189,IA,"Winnebago County",28,52,965
+19,081,19,197,IA,"Wright County",15,29,402
+19,081,19,109,IA,"Kossuth County",12,22,475
+19,081,58,000,SS,"Other Flows - Same State",56,105,1858
+19,081,59,000,DS,"Other Flows - Diff State",70,133,1913
+19,083,96,000,IA,"Hardin County Tot Mig-US & For",333,654,10261
+19,083,97,000,IA,"Hardin County Tot Mig-US",333,654,10261
+19,083,97,001,IA,"Hardin County Tot Mig-Same St",238,456,7168
+19,083,97,003,IA,"Hardin County Tot Mig-Diff St",95,198,3093
+19,083,19,083,IA,"Hardin County Non-Migrants",5805,12936,231571
+19,083,19,069,IA,"Franklin County",39,75,1138
+19,083,19,169,IA,"Story County",33,60,1172
+19,083,19,127,IA,"Marshall County",25,51,673
+19,083,19,153,IA,"Polk County",16,30,467
+19,083,19,079,IA,"Hamilton County",14,36,495
+19,083,19,013,IA,"Black Hawk County",12,19,292
+19,083,19,075,IA,"Grundy County",12,20,359
+19,083,58,000,SS,"Other Flows - Same State",87,165,2573
+19,083,59,000,DS,"Other Flows - Diff State",95,198,3093
+19,085,96,000,IA,"Harrison County Tot Mig-US & For",329,683,13438
+19,085,97,000,IA,"Harrison County Tot Mig-US",329,683,13438
+19,085,97,001,IA,"Harrison County Tot Mig-Same St",152,324,5802
+19,085,97,003,IA,"Harrison County Tot Mig-Diff St",177,359,7636
+19,085,19,085,IA,"Harrison County Non-Migrants",5519,12858,221014
+19,085,31,055,NE,"Douglas County",76,146,3403
+19,085,19,155,IA,"Pottawattamie County",71,153,2293
+19,085,31,153,NE,"Sarpy County",17,38,771
+19,085,19,047,IA,"Crawford County",15,25,843
+19,085,19,165,IA,"Shelby County",12,32,1311
+19,085,19,133,IA,"Monona County",11,22,360
+19,085,31,177,NE,"Washington County",10,20,425
+19,085,58,000,SS,"Other Flows - Same State",43,92,995
+19,085,59,000,DS,"Other Flows - Diff State",74,155,3036
+19,087,96,000,IA,"Henry County Tot Mig-US & For",421,766,11763
+19,087,97,000,IA,"Henry County Tot Mig-US",421,766,11763
+19,087,97,001,IA,"Henry County Tot Mig-Same St",289,518,7830
+19,087,97,003,IA,"Henry County Tot Mig-Diff St",132,248,3933
+19,087,19,087,IA,"Henry County Non-Migrants",6940,15925,290878
+19,087,19,057,IA,"Des Moines County",70,133,1942
+19,087,19,183,IA,"Washington County",34,69,1013
+19,087,19,111,IA,"Lee County",31,52,656
+19,087,19,115,IA,"Louisa County",24,45,689
+19,087,19,101,IA,"Jefferson County",19,33,502
+19,087,19,103,IA,"Johnson County",19,31,469
+19,087,19,113,IA,"Linn County",14,23,261
+19,087,19,177,IA,"Van Buren County",12,24,288
+19,087,58,000,SS,"Other Flows - Same State",66,108,2011
+19,087,59,000,DS,"Other Flows - Diff State",132,248,3933
+19,089,96,000,IA,"Howard County Tot Mig-US & For",206,400,5617
+19,089,97,000,IA,"Howard County Tot Mig-US",206,400,5617
+19,089,97,001,IA,"Howard County Tot Mig-Same St",93,172,2447
+19,089,97,003,IA,"Howard County Tot Mig-Diff St",113,228,3170
+19,089,19,089,IA,"Howard County Non-Migrants",3907,8826,139494
+19,089,19,191,IA,"Winneshiek County",30,56,702
+19,089,27,045,MN,"Fillmore County",23,44,519
+19,089,19,037,IA,"Chickasaw County",10,20,253
+19,089,58,000,SS,"Other Flows - Same State",53,96,1492
+19,089,59,000,DS,"Other Flows - Diff State",90,184,2651
+19,089,59,001,DS,"Other Flows - Northeast",12,33,420
+19,089,59,003,DS,"Other Flows - Midwest",54,105,1611
+19,089,59,005,DS,"Other Flows - South",12,25,330
+19,089,59,007,DS,"Other Flows - West",12,21,291
+19,091,96,000,IA,"Humboldt County Tot Mig-US & For",185,392,5590
+19,091,97,000,IA,"Humboldt County Tot Mig-US",185,392,5590
+19,091,97,001,IA,"Humboldt County Tot Mig-Same St",123,254,3528
+19,091,97,003,IA,"Humboldt County Tot Mig-Diff St",62,138,2062
+19,091,19,091,IA,"Humboldt County Non-Migrants",3818,8609,153110
+19,091,19,187,IA,"Webster County",36,80,1281
+19,091,19,151,IA,"Pocahontas County",12,20,233
+19,091,19,197,IA,"Wright County",12,31,461
+19,091,58,000,SS,"Other Flows - Same State",63,123,1552
+19,091,59,000,DS,"Other Flows - Diff State",62,138,2062
+19,093,96,000,IA,"Ida County Tot Mig-US & For",130,248,3604
+19,093,97,000,IA,"Ida County Tot Mig-US",130,248,3604
+19,093,97,001,IA,"Ida County Tot Mig-Same St",89,177,2293
+19,093,97,003,IA,"Ida County Tot Mig-Diff St",41,71,1311
+19,093,19,093,IA,"Ida County Non-Migrants",2638,6194,105663
+19,093,19,161,IA,"Sac County",13,18,271
+19,093,19,193,IA,"Woodbury County",13,27,357
+19,093,19,035,IA,"Cherokee County",11,24,275
+19,093,58,000,SS,"Other Flows - Same State",52,108,1389
+19,093,59,000,DS,"Other Flows - Diff State",41,71,1311
+19,095,96,000,IA,"Iowa County Tot Mig-US & For",404,745,14383
+19,095,97,000,IA,"Iowa County Tot Mig-US",404,745,14383
+19,095,97,001,IA,"Iowa County Tot Mig-Same St",323,587,11184
+19,095,97,003,IA,"Iowa County Tot Mig-Diff St",81,158,3200
+19,095,19,095,IA,"Iowa County Non-Migrants",6017,13896,292780
+19,095,19,103,IA,"Johnson County",92,190,3480
+19,095,19,113,IA,"Linn County",49,71,1850
+19,095,19,011,IA,"Benton County",42,75,1381
+19,095,19,107,IA,"Keokuk County",25,43,747
+19,095,19,157,IA,"Poweshiek County",20,31,517
+19,095,19,183,IA,"Washington County",15,33,503
+19,095,58,000,SS,"Other Flows - Same State",80,144,2707
+19,095,59,000,DS,"Other Flows - Diff State",81,158,3200
+19,097,96,000,IA,"Jackson County Tot Mig-US & For",360,717,11937
+19,097,97,000,IA,"Jackson County Tot Mig-US",360,717,11937
+19,097,97,001,IA,"Jackson County Tot Mig-Same St",236,478,7764
+19,097,97,003,IA,"Jackson County Tot Mig-Diff St",124,239,4173
+19,097,19,097,IA,"Jackson County Non-Migrants",6905,15690,257430
+19,097,19,061,IA,"Dubuque County",79,170,3193
+19,097,19,045,IA,"Clinton County",72,143,2064
+19,097,19,163,IA,"Scott County",20,39,504
+19,097,19,105,IA,"Jones County",13,27,297
+19,097,19,113,IA,"Linn County",12,26,216
+19,097,17,015,IL,"Carroll County",10,18,261
+19,097,58,000,SS,"Other Flows - Same State",40,73,1489
+19,097,59,000,DS,"Other Flows - Diff State",114,221,3912
+19,099,96,000,IA,"Jasper County Tot Mig-US & For",744,1468,26811
+19,099,97,000,IA,"Jasper County Tot Mig-US",744,1468,26811
+19,099,97,001,IA,"Jasper County Tot Mig-Same St",541,1062,19957
+19,099,97,003,IA,"Jasper County Tot Mig-Diff St",203,406,6854
+19,099,19,099,IA,"Jasper County Non-Migrants",13549,30812,641664
+19,099,19,153,IA,"Polk County",224,462,8849
+19,099,19,125,IA,"Marion County",43,95,1341
+19,099,19,157,IA,"Poweshiek County",37,72,1332
+19,099,19,127,IA,"Marshall County",28,48,869
+19,099,19,181,IA,"Warren County",15,26,549
+19,099,19,169,IA,"Story County",13,20,529
+19,099,19,103,IA,"Johnson County",12,21,393
+19,099,19,123,IA,"Mahaska County",10,33,366
+19,099,19,163,IA,"Scott County",10,18,306
+19,099,58,000,SS,"Other Flows - Same State",149,267,5424
+19,099,59,000,DS,"Other Flows - Diff State",203,406,6854
+19,099,59,001,DS,"Other Flows - Northeast",15,31,542
+19,099,59,003,DS,"Other Flows - Midwest",78,142,2423
+19,099,59,005,DS,"Other Flows - South",55,107,1955
+19,099,59,007,DS,"Other Flows - West",55,126,1934
+19,101,96,000,IA,"Jefferson Count Tot Mig-US & For",352,686,10733
+19,101,97,000,IA,"Jefferson Count Tot Mig-US",352,686,10733
+19,101,97,001,IA,"Jefferson Count Tot Mig-Same St",186,393,4931
+19,101,97,003,IA,"Jefferson Count Tot Mig-Diff St",166,293,5802
+19,101,19,101,IA,"Jefferson Count Non-Migrants",5315,11861,227326
+19,101,19,177,IA,"Van Buren County",34,61,884
+19,101,19,179,IA,"Wapello County",26,60,712
+19,101,19,183,IA,"Washington County",26,57,704
+19,101,19,087,IA,"Henry County",18,38,314
+19,101,19,103,IA,"Johnson County",10,31,381
+19,101,19,107,IA,"Keokuk County",10,23,228
+19,101,58,000,SS,"Other Flows - Same State",62,123,1708
+19,101,59,000,DS,"Other Flows - Diff State",166,293,5802
+19,101,59,001,DS,"Other Flows - Northeast",21,37,589
+19,101,59,003,DS,"Other Flows - Midwest",63,109,2712
+19,101,59,005,DS,"Other Flows - South",29,64,1261
+19,101,59,007,DS,"Other Flows - West",53,83,1240
+19,103,96,000,IA,"Johnson County Tot Mig-US & For",4760,7334,150648
+19,103,97,000,IA,"Johnson County Tot Mig-US",4396,6924,148184
+19,103,97,001,IA,"Johnson County Tot Mig-Same St",2403,3566,77981
+19,103,97,003,IA,"Johnson County Tot Mig-Diff St",1993,3358,70203
+19,103,98,000,IA,"Johnson County Tot Mig-Foreign",364,410,2464
+19,103,19,103,IA,"Johnson County Non-Migrants",39096,80726,2219154
+19,103,19,113,IA,"Linn County",548,910,24520
+19,103,17,031,IL,"Cook County",191,326,4692
+19,103,19,153,IA,"Polk County",183,255,6770
+19,103,19,183,IA,"Washington County",148,220,3832
+19,103,19,031,IA,"Cedar County",123,196,3302
+19,103,19,163,IA,"Scott County",117,175,3178
+19,103,19,139,IA,"Muscatine County",101,158,3445
+19,103,19,013,IA,"Black Hawk County",95,140,2726
+19,103,19,169,IA,"Story County",88,129,2645
+19,103,19,095,IA,"Iowa County",84,138,2305
+19,103,19,061,IA,"Dubuque County",65,77,1511
+19,103,17,043,IL,"Du Page County",48,84,1826
+19,103,27,053,MN,"Hennepin County",44,58,1847
+19,103,19,057,IA,"Des Moines County",43,62,1099
+19,103,19,045,IA,"Clinton County",42,48,938
+19,103,31,055,NE,"Douglas County",38,67,923
+19,103,19,087,IA,"Henry County",35,67,1110
+19,103,19,011,IA,"Benton County",34,47,1479
+19,103,19,111,IA,"Lee County",32,48,890
+19,103,19,193,IA,"Woodbury County",30,42,696
+19,103,06,037,CA,"Los Angeles County",28,47,1082
+19,103,19,179,IA,"Wapello County",26,35,507
+19,103,04,013,AZ,"Maricopa County",25,46,900
+19,103,17,161,IL,"Rock Island County",24,28,517
+19,103,19,099,IA,"Jasper County",23,35,449
+19,103,17,095,IL,"Knox County",22,48,1374
+19,103,19,033,IA,"Cerro Gordo County",22,28,885
+19,103,19,049,IA,"Dallas County",22,32,745
+19,103,19,155,IA,"Pottawattamie County",22,25,565
+19,103,08,031,CO,"Denver County",21,31,587
+19,103,17,097,IL,"Lake County",21,28,616
+19,103,19,115,IA,"Louisa County",20,32,506
+19,103,26,161,MI,"Washtenaw County",20,31,1059
+19,103,27,123,MN,"Ramsey County",20,31,636
+19,103,48,201,TX,"Harris County",20,33,796
+19,103,53,033,WA,"King County",20,34,1544
+19,103,06,073,CA,"San Diego County",19,25,378
+19,103,19,101,IA,"Jefferson County",19,32,770
+19,103,19,107,IA,"Keokuk County",19,23,435
+19,103,19,019,IA,"Buchanan County",18,29,582
+19,103,19,065,IA,"Fayette County",18,20,449
+19,103,55,025,WI,"Dane County",18,24,542
+19,103,19,127,IA,"Marshall County",17,26,624
+19,103,25,017,MA,"Middlesex County",17,37,760
+19,103,36,061,NY,"New York County",17,22,844
+19,103,17,089,IL,"Kane County",16,24,369
+19,103,19,125,IA,"Marion County",16,24,504
+19,103,20,091,KS,"Johnson County",15,20,721
+19,103,36,047,NY,"Kings County",15,23,362
+19,103,17,073,IL,"Henry County",14,22,601
+19,103,19,015,IA,"Boone County",14,21,449
+19,103,19,043,IA,"Clayton County",14,19,394
+19,103,19,105,IA,"Jones County",14,19,377
+19,103,19,187,IA,"Webster County",14,16,315
+19,103,19,017,IA,"Bremer County",13,22,254
+19,103,19,021,IA,"Buena Vista County",13,16,267
+19,103,19,097,IA,"Jackson County",13,18,408
+19,103,19,123,IA,"Mahaska County",13,14,335
+19,103,19,157,IA,"Poweshiek County",13,19,436
+19,103,49,035,UT,"Salt Lake County",13,41,665
+19,103,55,079,WI,"Milwaukee County",13,25,483
+19,103,19,149,IA,"Plymouth County",12,15,540
+19,103,19,191,IA,"Winneshiek County",12,21,232
+19,103,39,049,OH,"Franklin County",12,23,282
+19,103,41,051,OR,"Multnomah County",12,13,213
+19,103,48,113,TX,"Dallas County",12,22,403
+19,103,49,049,UT,"Utah County",12,34,244
+19,103,06,075,CA,"San Francisco County",11,12,276
+19,103,06,085,CA,"Santa Clara County",11,16,472
+19,103,17,143,IL,"Peoria County",11,25,954
+19,103,27,037,MN,"Dakota County",11,21,284
+19,103,27,109,MN,"Olmsted County",11,20,608
+19,103,29,095,MO,"Jackson County",11,17,399
+19,103,04,019,AZ,"Pima County",10,15,445
+19,103,06,059,CA,"Orange County",10,20,1222
+19,103,08,013,CO,"Boulder County",10,14,329
+19,103,19,035,IA,"Cherokee County",10,12,183
+19,103,19,055,IA,"Delaware County",10,10,242
+19,103,19,079,IA,"Hamilton County",10,14,232
+19,103,29,189,MO,"St Louis County",10,13,309
+19,103,31,109,NE,"Lancaster County",10,13,228
+19,103,48,453,TX,"Travis County",10,15,565
+19,103,57,005,FR,"Foreign - APO/FPO ZIPs",10,20,232
+19,103,58,000,SS,"Other Flows - Same State",218,277,5845
+19,103,59,000,DS,"Other Flows - Diff State",1120,1910,38847
+19,103,59,001,DS,"Other Flows - Northeast",140,235,5711
+19,103,59,003,DS,"Other Flows - Midwest",454,761,15072
+19,103,59,005,DS,"Other Flows - South",325,528,10417
+19,103,59,007,DS,"Other Flows - West",201,386,7647
+19,103,57,009,FR,"Foreign - Other flows",354,390,2232
+19,105,96,000,IA,"Jones County Tot Mig-US & For",395,822,13412
+19,105,97,000,IA,"Jones County Tot Mig-US",395,822,13412
+19,105,97,001,IA,"Jones County Tot Mig-Same St",321,671,10967
+19,105,97,003,IA,"Jones County Tot Mig-Diff St",74,151,2445
+19,105,19,105,IA,"Jones County Non-Migrants",6716,15032,270118
+19,105,19,113,IA,"Linn County",168,357,6490
+19,105,19,031,IA,"Cedar County",24,51,680
+19,105,19,061,IA,"Dubuque County",22,46,652
+19,105,19,055,IA,"Delaware County",18,37,440
+19,105,19,103,IA,"Johnson County",15,26,510
+19,105,19,045,IA,"Clinton County",14,28,327
+19,105,58,000,SS,"Other Flows - Same State",60,126,1867
+19,105,59,000,DS,"Other Flows - Diff State",74,151,2445
+19,107,96,000,IA,"Keokuk County Tot Mig-US & For",197,371,5581
+19,107,97,000,IA,"Keokuk County Tot Mig-US",197,371,5581
+19,107,97,001,IA,"Keokuk County Tot Mig-Same St",152,273,4076
+19,107,97,003,IA,"Keokuk County Tot Mig-Diff St",45,98,1505
+19,107,19,107,IA,"Keokuk County Non-Migrants",4003,9133,141025
+19,107,19,123,IA,"Mahaska County",22,43,674
+19,107,19,179,IA,"Wapello County",21,39,501
+19,107,19,183,IA,"Washington County",19,45,546
+19,107,19,095,IA,"Iowa County",16,22,343
+19,107,19,103,IA,"Johnson County",14,19,271
+19,107,19,101,IA,"Jefferson County",13,19,376
+19,107,58,000,SS,"Other Flows - Same State",47,86,1365
+19,107,59,000,DS,"Other Flows - Diff State",45,98,1505
+19,109,96,000,IA,"Kossuth County Tot Mig-US & For",243,487,7642
+19,109,97,000,IA,"Kossuth County Tot Mig-US",243,487,7642
+19,109,97,001,IA,"Kossuth County Tot Mig-Same St",141,280,4718
+19,109,97,003,IA,"Kossuth County Tot Mig-Diff St",102,207,2924
+19,109,19,109,IA,"Kossuth County Non-Migrants",6067,14157,233801
+19,109,19,091,IA,"Humboldt County",17,24,532
+19,109,19,063,IA,"Emmet County",16,29,495
+19,109,19,153,IA,"Polk County",13,29,742
+19,109,19,033,IA,"Cerro Gordo County",11,27,461
+19,109,19,081,IA,"Hancock County",10,22,219
+19,109,19,147,IA,"Palo Alto County",10,17,223
+19,109,19,187,IA,"Webster County",10,18,173
+19,109,58,000,SS,"Other Flows - Same State",54,114,1874
+19,109,59,000,DS,"Other Flows - Diff State",102,207,2924
+19,111,96,000,IA,"Lee County Tot Mig-US & For",608,1153,18342
+19,111,97,000,IA,"Lee County Tot Mig-US",608,1153,18342
+19,111,97,001,IA,"Lee County Tot Mig-Same St",224,401,6831
+19,111,97,003,IA,"Lee County Tot Mig-Diff St",384,752,11511
+19,111,19,111,IA,"Lee County Non-Migrants",12754,28206,515357
+19,111,17,067,IL,"Hancock County",85,176,2367
+19,111,19,057,IA,"Des Moines County",64,123,1750
+19,111,29,045,MO,"Clark County",30,59,493
+19,111,19,087,IA,"Henry County",29,49,774
+19,111,19,113,IA,"Linn County",23,41,692
+19,111,17,001,IL,"Adams County",16,24,255
+19,111,19,103,IA,"Johnson County",11,14,290
+19,111,19,177,IA,"Van Buren County",10,20,301
+19,111,58,000,SS,"Other Flows - Same State",87,154,3024
+19,111,59,000,DS,"Other Flows - Diff State",253,493,8396
+19,113,96,000,IA,"Linn County Tot Mig-US & For",4136,7225,151259
+19,113,97,000,IA,"Linn County Tot Mig-US",4082,7141,150168
+19,113,97,001,IA,"Linn County Tot Mig-Same St",2496,4011,78162
+19,113,97,003,IA,"Linn County Tot Mig-Diff St",1586,3130,72006
+19,113,98,000,IA,"Linn County Tot Mig-Foreign",54,84,1091
+19,113,19,113,IA,"Linn County Non-Migrants",70713,154419,3768991
+19,113,19,103,IA,"Johnson County",561,921,22017
+19,113,19,011,IA,"Benton County",286,500,8948
+19,113,19,013,IA,"Black Hawk County",155,244,4429
+19,113,19,105,IA,"Jones County",139,235,4260
+19,113,19,153,IA,"Polk County",113,192,4106
+19,113,19,061,IA,"Dubuque County",92,139,2459
+19,113,19,055,IA,"Delaware County",83,111,2195
+19,113,19,095,IA,"Iowa County",81,117,1951
+19,113,19,031,IA,"Cedar County",78,125,2167
+19,113,19,019,IA,"Buchanan County",73,134,2332
+19,113,19,163,IA,"Scott County",68,130,2963
+19,113,17,031,IL,"Cook County",53,93,2135
+19,113,19,169,IA,"Story County",46,64,1011
+19,113,19,043,IA,"Clayton County",45,63,1242
+19,113,19,065,IA,"Fayette County",39,64,1000
+19,113,04,013,AZ,"Maricopa County",37,72,1435
+19,113,19,045,IA,"Clinton County",37,50,926
+19,113,19,183,IA,"Washington County",32,39,677
+19,113,19,057,IA,"Des Moines County",31,49,752
+19,113,19,139,IA,"Muscatine County",31,50,802
+19,113,27,053,MN,"Hennepin County",31,49,1635
+19,113,19,017,IA,"Bremer County",30,57,1117
+19,113,19,171,IA,"Tama County",29,46,639
+19,113,19,097,IA,"Jackson County",26,38,471
+19,113,19,111,IA,"Lee County",25,26,589
+19,113,19,127,IA,"Marshall County",24,44,682
+19,113,17,161,IL,"Rock Island County",23,35,644
+19,113,17,043,IL,"Du Page County",21,52,1598
+19,113,19,099,IA,"Jasper County",20,32,513
+19,113,06,037,CA,"Los Angeles County",18,27,373
+19,113,19,193,IA,"Woodbury County",18,27,649
+19,113,17,095,IL,"Knox County",17,55,1774
+19,113,48,439,TX,"Tarrant County",17,39,1286
+19,113,06,073,CA,"San Diego County",16,38,755
+19,113,19,037,IA,"Chickasaw County",16,22,385
+19,113,19,087,IA,"Henry County",16,25,331
+19,113,19,107,IA,"Keokuk County",16,24,376
+19,113,08,031,CO,"Denver County",15,22,489
+19,113,17,019,IL,"Champaign County",15,26,446
+19,113,19,033,IA,"Cerro Gordo County",15,23,363
+19,113,29,095,MO,"Jackson County",15,27,942
+19,113,31,055,NE,"Douglas County",14,22,463
+19,113,55,079,WI,"Milwaukee County",14,26,1042
+19,113,57,005,FR,"Foreign - APO/FPO ZIPs",14,22,407
+19,113,08,041,CO,"El Paso County",13,27,740
+19,113,19,179,IA,"Wapello County",13,28,553
+19,113,20,091,KS,"Johnson County",13,39,1138
+19,113,29,189,MO,"St Louis County",13,21,796
+19,113,17,197,IL,"Will County",12,22,620
+19,113,19,157,IA,"Poweshiek County",12,16,401
+19,113,19,005,IA,"Allamakee County",11,13,290
+19,113,19,101,IA,"Jefferson County",11,17,287
+19,113,19,181,IA,"Warren County",11,14,202
+19,113,19,187,IA,"Webster County",11,15,328
+19,113,27,037,MN,"Dakota County",11,22,562
+19,113,31,109,NE,"Lancaster County",11,18,258
+19,113,06,071,CA,"San Bernardino Count",10,24,436
+19,113,19,049,IA,"Dallas County",10,20,380
+19,113,27,123,MN,"Ramsey County",10,15,403
+19,113,48,121,TX,"Denton County",10,23,731
+19,113,58,000,SS,"Other Flows - Same State",192,297,5369
+19,113,59,000,DS,"Other Flows - Diff State",1177,2336,51307
+19,113,59,001,DS,"Other Flows - Northeast",75,153,3585
+19,113,59,003,DS,"Other Flows - Midwest",543,1044,23257
+19,113,59,005,DS,"Other Flows - South",349,734,15142
+19,113,59,007,DS,"Other Flows - West",210,405,9324
+19,113,57,009,FR,"Foreign - Other flows",40,62,684
+19,115,96,000,IA,"Louisa County Tot Mig-US & For",258,534,7818
+19,115,97,000,IA,"Louisa County Tot Mig-US",258,534,7818
+19,115,97,001,IA,"Louisa County Tot Mig-Same St",191,383,6090
+19,115,97,003,IA,"Louisa County Tot Mig-Diff St",67,151,1727
+19,115,19,115,IA,"Louisa County Non-Migrants",4400,10622,185876
+19,115,19,139,IA,"Muscatine County",78,158,2512
+19,115,19,103,IA,"Johnson County",23,39,998
+19,115,19,057,IA,"Des Moines County",18,32,327
+19,115,19,183,IA,"Washington County",16,31,440
+19,115,19,163,IA,"Scott County",12,36,465
+19,115,19,087,IA,"Henry County",11,27,454
+19,115,58,000,SS,"Other Flows - Same State",33,60,895
+19,115,59,000,DS,"Other Flows - Diff State",67,151,1727
+19,117,96,000,IA,"Lucas County Tot Mig-US & For",202,502,6142
+19,117,97,000,IA,"Lucas County Tot Mig-US",202,502,6142
+19,117,97,001,IA,"Lucas County Tot Mig-Same St",135,293,4232
+19,117,97,003,IA,"Lucas County Tot Mig-Diff St",67,209,1910
+19,117,19,117,IA,"Lucas County Non-Migrants",3103,7080,117493
+19,117,19,153,IA,"Polk County",29,62,1094
+19,117,19,125,IA,"Marion County",17,34,409
+19,117,19,181,IA,"Warren County",17,38,789
+19,117,58,000,SS,"Other Flows - Same State",72,159,1941
+19,117,59,000,DS,"Other Flows - Diff State",67,209,1910
+19,119,96,000,IA,"Lyon County Tot Mig-US & For",196,424,5607
+19,119,97,000,IA,"Lyon County Tot Mig-US",196,424,5607
+19,119,97,001,IA,"Lyon County Tot Mig-Same St",72,136,2118
+19,119,97,003,IA,"Lyon County Tot Mig-Diff St",124,288,3489
+19,119,19,119,IA,"Lyon County Non-Migrants",4310,10699,180107
+19,119,46,099,SD,"Minnehaha County",41,84,914
+19,119,19,167,IA,"Sioux County",34,69,922
+19,119,46,083,SD,"Lincoln County",13,21,346
+19,119,58,000,SS,"Other Flows - Same State",38,67,1197
+19,119,59,000,DS,"Other Flows - Diff State",70,183,2229
+19,121,96,000,IA,"Madison County Tot Mig-US & For",445,987,19836
+19,121,97,000,IA,"Madison County Tot Mig-US",445,987,19836
+19,121,97,001,IA,"Madison County Tot Mig-Same St",339,762,15424
+19,121,97,003,IA,"Madison County Tot Mig-Diff St",106,225,4413
+19,121,19,121,IA,"Madison County Non-Migrants",4990,11910,238079
+19,121,19,153,IA,"Polk County",147,331,7245
+19,121,19,049,IA,"Dallas County",47,122,2694
+19,121,19,181,IA,"Warren County",35,78,1435
+19,121,19,039,IA,"Clarke County",17,29,599
+19,121,19,175,IA,"Union County",15,34,537
+19,121,58,000,SS,"Other Flows - Same State",78,168,2914
+19,121,59,000,DS,"Other Flows - Diff State",106,225,4413
+19,123,96,000,IA,"Mahaska County Tot Mig-US & For",527,1097,16225
+19,123,97,000,IA,"Mahaska County Tot Mig-US",527,1097,16225
+19,123,97,001,IA,"Mahaska County Tot Mig-Same St",387,804,11785
+19,123,97,003,IA,"Mahaska County Tot Mig-Diff St",140,293,4440
+19,123,19,123,IA,"Mahaska County Non-Migrants",8153,19170,356088
+19,123,19,125,IA,"Marion County",73,153,2528
+19,123,19,179,IA,"Wapello County",72,159,2133
+19,123,19,107,IA,"Keokuk County",40,77,998
+19,123,19,153,IA,"Polk County",26,50,848
+19,123,19,157,IA,"Poweshiek County",26,45,819
+19,123,19,099,IA,"Jasper County",24,58,1130
+19,123,19,135,IA,"Monroe County",18,37,470
+19,123,58,000,SS,"Other Flows - Same State",108,225,2859
+19,123,59,000,DS,"Other Flows - Diff State",140,293,4440
+19,125,96,000,IA,"Marion County Tot Mig-US & For",695,1381,26440
+19,125,97,000,IA,"Marion County Tot Mig-US",695,1381,26440
+19,125,97,001,IA,"Marion County Tot Mig-Same St",483,938,16417
+19,125,97,003,IA,"Marion County Tot Mig-Diff St",212,443,10023
+19,125,19,125,IA,"Marion County Non-Migrants",10357,24600,496507
+19,125,19,153,IA,"Polk County",127,246,4198
+19,125,19,123,IA,"Mahaska County",70,152,2464
+19,125,19,099,IA,"Jasper County",58,105,2074
+19,125,19,181,IA,"Warren County",29,55,944
+19,125,19,117,IA,"Lucas County",19,34,566
+19,125,19,169,IA,"Story County",15,24,445
+19,125,19,179,IA,"Wapello County",13,27,375
+19,125,04,013,AZ,"Maricopa County",11,15,244
+19,125,19,113,IA,"Linn County",11,24,446
+19,125,19,135,IA,"Monroe County",11,27,337
+19,125,58,000,SS,"Other Flows - Same State",130,244,4568
+19,125,59,000,DS,"Other Flows - Diff State",201,428,9779
+19,125,59,001,DS,"Other Flows - Northeast",13,26,736
+19,125,59,003,DS,"Other Flows - Midwest",99,227,4534
+19,125,59,005,DS,"Other Flows - South",43,85,2269
+19,125,59,007,DS,"Other Flows - West",46,90,2240
+19,127,96,000,IA,"Marshall County Tot Mig-US & For",757,1554,27037
+19,127,97,000,IA,"Marshall County Tot Mig-US",733,1525,26707
+19,127,97,001,IA,"Marshall County Tot Mig-Same St",458,870,14699
+19,127,97,003,IA,"Marshall County Tot Mig-Diff St",275,655,12008
+19,127,98,000,IA,"Marshall County Tot Mig-Foreign",24,29,330
+19,127,19,127,IA,"Marshall County Non-Migrants",14493,32862,621900
+19,127,19,153,IA,"Polk County",67,113,2367
+19,127,19,171,IA,"Tama County",66,131,1890
+19,127,19,169,IA,"Story County",51,100,1965
+19,127,19,099,IA,"Jasper County",33,56,893
+19,127,19,083,IA,"Hardin County",26,60,683
+19,127,19,075,IA,"Grundy County",22,39,835
+19,127,19,157,IA,"Poweshiek County",21,43,648
+19,127,06,037,CA,"Los Angeles County",17,55,327
+19,127,19,103,IA,"Johnson County",16,21,682
+19,127,19,113,IA,"Linn County",16,23,441
+19,127,19,013,IA,"Black Hawk County",12,23,312
+19,127,58,000,SS,"Other Flows - Same State",128,261,3983
+19,127,59,000,DS,"Other Flows - Diff State",258,600,11681
+19,127,57,009,FR,"Foreign - Other flows",24,29,330
+19,129,96,000,IA,"Mills County Tot Mig-US & For",433,917,17372
+19,129,97,000,IA,"Mills County Tot Mig-US",433,917,17372
+19,129,97,001,IA,"Mills County Tot Mig-Same St",207,385,6280
+19,129,97,003,IA,"Mills County Tot Mig-Diff St",226,532,11092
+19,129,19,129,IA,"Mills County Non-Migrants",5226,12073,260265
+19,129,19,155,IA,"Pottawattamie County",144,269,4344
+19,129,31,055,NE,"Douglas County",84,179,4160
+19,129,31,153,NE,"Sarpy County",40,117,2249
+19,129,19,071,IA,"Fremont County",21,32,652
+19,129,58,000,SS,"Other Flows - Same State",42,84,1284
+19,129,59,000,DS,"Other Flows - Diff State",102,236,4683
+19,131,96,000,IA,"Mitchell County Tot Mig-US & For",179,360,5391
+19,131,97,000,IA,"Mitchell County Tot Mig-US",179,360,5391
+19,131,97,001,IA,"Mitchell County Tot Mig-Same St",106,218,3194
+19,131,97,003,IA,"Mitchell County Tot Mig-Diff St",73,142,2197
+19,131,19,131,IA,"Mitchell County Non-Migrants",3656,8777,147578
+19,131,19,033,IA,"Cerro Gordo County",27,59,779
+19,131,19,089,IA,"Howard County",20,37,609
+19,131,19,067,IA,"Floyd County",16,34,486
+19,131,27,099,MN,"Mower County",13,34,407
+19,131,58,000,SS,"Other Flows - Same State",43,88,1319
+19,131,59,000,DS,"Other Flows - Diff State",60,108,1789
+19,133,96,000,IA,"Monona County Tot Mig-US & For",195,371,5382
+19,133,97,000,IA,"Monona County Tot Mig-US",195,371,5382
+19,133,97,001,IA,"Monona County Tot Mig-Same St",119,234,3251
+19,133,97,003,IA,"Monona County Tot Mig-Diff St",76,137,2132
+19,133,19,133,IA,"Monona County Non-Migrants",3628,7965,130682
+19,133,19,193,IA,"Woodbury County",58,112,1756
+19,133,19,047,IA,"Crawford County",11,20,339
+19,133,19,085,IA,"Harrison County",11,23,214
+19,133,58,000,SS,"Other Flows - Same State",39,79,942
+19,133,59,000,DS,"Other Flows - Diff State",76,137,2132
+19,135,96,000,IA,"Monroe County Tot Mig-US & For",152,307,4358
+19,135,97,000,IA,"Monroe County Tot Mig-US",152,307,4358
+19,135,97,001,IA,"Monroe County Tot Mig-Same St",120,233,3311
+19,135,97,003,IA,"Monroe County Tot Mig-Diff St",32,74,1047
+19,135,19,135,IA,"Monroe County Non-Migrants",2716,6252,100143
+19,135,19,125,IA,"Marion County",19,37,367
+19,135,19,179,IA,"Wapello County",19,46,595
+19,135,19,007,IA,"Appanoose County",15,23,305
+19,135,19,123,IA,"Mahaska County",13,20,307
+19,135,19,153,IA,"Polk County",12,24,303
+19,135,58,000,SS,"Other Flows - Same State",42,83,1432
+19,135,59,000,DS,"Other Flows - Diff State",32,74,1047
+19,137,96,000,IA,"Montgomery Coun Tot Mig-US & For",233,506,6918
+19,137,97,000,IA,"Montgomery Coun Tot Mig-US",233,506,6918
+19,137,97,001,IA,"Montgomery Coun Tot Mig-Same St",134,289,3627
+19,137,97,003,IA,"Montgomery Coun Tot Mig-Diff St",99,217,3292
+19,137,19,137,IA,"Montgomery Coun Non-Migrants",4079,9049,154368
+19,137,19,145,IA,"Page County",29,55,982
+19,137,19,155,IA,"Pottawattamie County",26,65,686
+19,137,31,055,NE,"Douglas County",18,33,427
+19,137,19,129,IA,"Mills County",12,36,252
+19,137,19,029,IA,"Cass County",11,24,270
+19,137,58,000,SS,"Other Flows - Same State",56,109,1437
+19,137,59,000,DS,"Other Flows - Diff State",81,184,2865
+19,139,96,000,IA,"Muscatine Count Tot Mig-US & For",793,1632,28232
+19,139,97,000,IA,"Muscatine Count Tot Mig-US",793,1632,28232
+19,139,97,001,IA,"Muscatine Count Tot Mig-Same St",449,919,14591
+19,139,97,003,IA,"Muscatine Count Tot Mig-Diff St",344,713,13641
+19,139,19,139,IA,"Muscatine Count Non-Migrants",14440,33245,682897
+19,139,19,103,IA,"Johnson County",107,203,3444
+19,139,19,163,IA,"Scott County",92,204,3008
+19,139,19,115,IA,"Louisa County",70,170,2272
+19,139,19,031,IA,"Cedar County",55,105,1571
+19,139,17,161,IL,"Rock Island County",36,62,838
+19,139,17,131,IL,"Mercer County",16,23,346
+19,139,19,113,IA,"Linn County",14,26,550
+19,139,19,153,IA,"Polk County",13,19,255
+19,139,04,013,AZ,"Maricopa County",10,17,225
+19,139,19,013,IA,"Black Hawk County",10,17,244
+19,139,19,057,IA,"Des Moines County",10,21,317
+19,139,58,000,SS,"Other Flows - Same State",78,154,2928
+19,139,59,000,DS,"Other Flows - Diff State",282,611,12232
+19,139,59,001,DS,"Other Flows - Northeast",10,25,852
+19,139,59,003,DS,"Other Flows - Midwest",134,280,6005
+19,139,59,005,DS,"Other Flows - South",81,181,3393
+19,139,59,007,DS,"Other Flows - West",57,125,1982
+19,141,96,000,IA,"O'brien County Tot Mig-US & For",249,473,6446
+19,141,97,000,IA,"O'brien County Tot Mig-US",249,473,6446
+19,141,97,001,IA,"O'brien County Tot Mig-Same St",164,308,4198
+19,141,97,003,IA,"O'brien County Tot Mig-Diff St",85,165,2248
+19,141,19,141,IA,"O'brien County Non-Migrants",5124,11859,196292
+19,141,19,041,IA,"Clay County",28,56,810
+19,141,19,167,IA,"Sioux County",20,29,431
+19,141,19,035,IA,"Cherokee County",19,43,615
+19,141,19,143,IA,"Osceola County",14,29,296
+19,141,19,193,IA,"Woodbury County",12,23,272
+19,141,19,021,IA,"Buena Vista County",10,20,182
+19,141,58,000,SS,"Other Flows - Same State",61,108,1593
+19,141,59,000,DS,"Other Flows - Diff State",85,165,2248
+19,143,96,000,IA,"Osceola County Tot Mig-US & For",113,223,2606
+19,143,97,000,IA,"Osceola County Tot Mig-US",113,223,2606
+19,143,97,001,IA,"Osceola County Tot Mig-Same St",72,146,1641
+19,143,97,003,IA,"Osceola County Tot Mig-Diff St",41,77,965
+19,143,19,143,IA,"Osceola County Non-Migrants",2063,4805,77226
+19,143,19,059,IA,"Dickinson County",19,37,452
+19,143,19,141,IA,"O'brien County",19,41,466
+19,143,27,105,MN,"Nobles County",10,19,233
+19,143,58,000,SS,"Other Flows - Same State",34,68,723
+19,143,59,000,DS,"Other Flows - Diff State",31,58,732
+19,145,96,000,IA,"Page County Tot Mig-US & For",293,579,9546
+19,145,97,000,IA,"Page County Tot Mig-US",293,579,9546
+19,145,97,001,IA,"Page County Tot Mig-Same St",159,300,4282
+19,145,97,003,IA,"Page County Tot Mig-Diff St",134,279,5264
+19,145,19,145,IA,"Page County Non-Migrants",4900,10892,197616
+19,145,19,071,IA,"Fremont County",38,74,983
+19,145,19,137,IA,"Montgomery County",26,52,740
+19,145,19,173,IA,"Taylor County",20,38,492
+19,145,29,147,MO,"Nodaway County",11,14,237
+19,145,31,055,NE,"Douglas County",10,23,380
+19,145,58,000,SS,"Other Flows - Same State",75,136,2068
+19,145,59,000,DS,"Other Flows - Diff State",113,242,4647
+19,147,96,000,IA,"Palo Alto Count Tot Mig-US & For",208,405,5593
+19,147,97,000,IA,"Palo Alto Count Tot Mig-US",208,405,5593
+19,147,97,001,IA,"Palo Alto Count Tot Mig-Same St",139,263,3513
+19,147,97,003,IA,"Palo Alto Count Tot Mig-Diff St",69,142,2079
+19,147,19,147,IA,"Palo Alto Count Non-Migrants",3312,7599,121329
+19,147,19,041,IA,"Clay County",25,48,573
+19,147,19,063,IA,"Emmet County",23,38,477
+19,147,19,059,IA,"Dickinson County",10,16,166
+19,147,58,000,SS,"Other Flows - Same State",81,161,2298
+19,147,59,000,DS,"Other Flows - Diff State",69,142,2079
+19,149,96,000,IA,"Plymouth County Tot Mig-US & For",470,1000,17038
+19,149,97,000,IA,"Plymouth County Tot Mig-US",470,1000,17038
+19,149,97,001,IA,"Plymouth County Tot Mig-Same St",304,674,11015
+19,149,97,003,IA,"Plymouth County Tot Mig-Diff St",166,326,6022
+19,149,19,149,IA,"Plymouth County Non-Migrants",8302,20147,380876
+19,149,19,193,IA,"Woodbury County",160,365,6128
+19,149,19,167,IA,"Sioux County",43,84,1079
+19,149,19,035,IA,"Cherokee County",24,63,1085
+19,149,31,043,NE,"Dakota County",16,38,348
+19,149,46,127,SD,"Union County",14,23,408
+19,149,19,141,IA,"O'brien County",10,24,390
+19,149,58,000,SS,"Other Flows - Same State",67,138,2333
+19,149,59,000,DS,"Other Flows - Diff State",136,265,5266
+19,151,96,000,IA,"Pocahontas Coun Tot Mig-US & For",117,254,3515
+19,151,97,000,IA,"Pocahontas Coun Tot Mig-US",117,254,3515
+19,151,97,001,IA,"Pocahontas Coun Tot Mig-Same St",82,166,2277
+19,151,97,003,IA,"Pocahontas Coun Tot Mig-Diff St",35,88,1238
+19,151,19,151,IA,"Pocahontas Coun Non-Migrants",2805,6580,97817
+19,151,19,187,IA,"Webster County",11,27,170
+19,151,58,000,SS,"Other Flows - Same State",71,139,2107
+19,151,59,000,DS,"Other Flows - Diff State",35,88,1238
+19,153,96,000,IA,"Polk County Tot Mig-US & For",8999,15569,352651
+19,153,97,000,IA,"Polk County Tot Mig-US",8896,15420,351313
+19,153,97,001,IA,"Polk County Tot Mig-Same St",5278,8421,185051
+19,153,97,003,IA,"Polk County Tot Mig-Diff St",3618,6999,166262
+19,153,98,000,IA,"Polk County Tot Mig-Foreign",103,149,1338
+19,153,19,153,IA,"Polk County Non-Migrants",141417,307412,8220088
+19,153,19,049,IA,"Dallas County",661,1116,28894
+19,153,19,169,IA,"Story County",600,922,20041
+19,153,19,181,IA,"Warren County",528,930,22310
+19,153,19,099,IA,"Jasper County",280,487,9281
+19,153,19,103,IA,"Johnson County",213,300,7051
+19,153,19,013,IA,"Black Hawk County",192,293,5831
+19,153,19,015,IA,"Boone County",184,295,6814
+19,153,19,113,IA,"Linn County",177,292,6832
+19,153,19,125,IA,"Marion County",138,219,4454
+19,153,17,031,IL,"Cook County",128,248,6368
+19,153,31,055,NE,"Douglas County",121,218,5191
+19,153,19,121,IA,"Madison County",120,180,3470
+19,153,19,127,IA,"Marshall County",101,150,2931
+19,153,19,163,IA,"Scott County",96,162,4076
+19,153,27,053,MN,"Hennepin County",89,158,6120
+19,153,19,187,IA,"Webster County",88,140,2634
+19,153,19,077,IA,"Guthrie County",86,127,2658
+19,153,04,013,AZ,"Maricopa County",85,179,3486
+19,153,19,193,IA,"Woodbury County",80,131,2718
+19,153,19,033,IA,"Cerro Gordo County",72,121,3377
+19,153,19,027,IA,"Carroll County",69,89,2153
+19,153,19,179,IA,"Wapello County",68,110,1889
+19,153,06,037,CA,"Los Angeles County",64,117,2479
+19,153,20,091,KS,"Johnson County",61,121,3525
+19,153,19,039,IA,"Clarke County",58,94,1483
+19,153,19,123,IA,"Mahaska County",55,90,1815
+19,153,19,157,IA,"Poweshiek County",55,80,2062
+19,153,19,061,IA,"Dubuque County",53,98,2150
+19,153,19,001,IA,"Adair County",45,84,1286
+19,153,19,155,IA,"Pottawattamie County",45,66,1217
+19,153,19,175,IA,"Union County",44,68,1212
+19,153,19,057,IA,"Des Moines County",43,80,1616
+19,153,19,083,IA,"Hardin County",40,72,1556
+19,153,19,079,IA,"Hamilton County",39,65,1205
+19,153,06,073,CA,"San Diego County",37,70,1196
+19,153,19,021,IA,"Buena Vista County",37,56,1115
+19,153,31,109,NE,"Lancaster County",37,83,1487
+19,153,19,073,IA,"Greene County",36,54,1083
+19,153,19,117,IA,"Lucas County",36,67,1265
+19,153,17,161,IL,"Rock Island County",35,67,1561
+19,153,19,109,IA,"Kossuth County",34,50,1137
+19,153,19,029,IA,"Cass County",33,42,824
+19,153,29,095,MO,"Jackson County",31,57,1745
+19,153,53,033,WA,"King County",31,52,2436
+19,153,19,069,IA,"Franklin County",30,45,1454
+19,153,19,197,IA,"Wright County",30,40,776
+19,153,27,037,MN,"Dakota County",30,50,1608
+19,153,20,173,KS,"Sedgwick County",29,61,1165
+19,153,06,059,CA,"Orange County",28,51,1267
+19,153,08,031,CO,"Denver County",28,57,882
+19,153,08,041,CO,"El Paso County",28,50,1010
+19,153,19,047,IA,"Crawford County",27,42,724
+19,153,46,099,SD,"Minnehaha County",27,46,1202
+19,153,55,079,WI,"Milwaukee County",27,54,1108
+19,153,19,091,IA,"Humboldt County",26,40,897
+19,153,29,189,MO,"St Louis County",26,43,1674
+19,153,57,005,FR,"Foreign - APO/FPO ZIPs",26,50,485
+19,153,19,007,IA,"Appanoose County",25,31,457
+19,153,48,113,TX,"Dallas County",25,47,885
+19,153,08,069,CO,"Larimer County",24,43,991
+19,153,32,003,NV,"Clark County",24,43,1088
+19,153,48,439,TX,"Tarrant County",24,34,782
+19,153,19,191,IA,"Winneshiek County",23,39,992
+19,153,08,059,CO,"Jefferson County",22,34,1254
+19,153,17,097,IL,"Lake County",22,44,1645
+19,153,19,017,IA,"Bremer County",22,28,700
+19,153,27,123,MN,"Ramsey County",22,41,969
+19,153,48,201,TX,"Harris County",22,52,916
+19,153,12,103,FL,"Pinellas County",21,33,579
+19,153,19,011,IA,"Benton County",21,36,614
+19,153,19,111,IA,"Lee County",21,28,667
+19,153,31,153,NE,"Sarpy County",21,45,873
+19,153,06,085,CA,"Santa Clara County",20,37,764
+19,153,19,025,IA,"Calhoun County",20,29,486
+19,153,19,045,IA,"Clinton County",20,29,718
+19,153,06,065,CA,"Riverside County",19,40,456
+19,153,17,043,IL,"Du Page County",19,42,1353
+19,153,19,087,IA,"Henry County",19,28,487
+19,153,19,171,IA,"Tama County",19,30,632
+19,153,04,019,AZ,"Pima County",18,42,599
+19,153,17,089,IL,"Kane County",18,31,756
+19,153,19,009,IA,"Audubon County",18,19,463
+19,153,19,145,IA,"Page County",18,25,421
+19,153,19,149,IA,"Plymouth County",18,27,544
+19,153,19,183,IA,"Washington County",18,29,477
+19,153,19,041,IA,"Clay County",17,25,502
+19,153,19,053,IA,"Decatur County",17,25,453
+19,153,19,059,IA,"Dickinson County",17,33,895
+19,153,19,075,IA,"Grundy County",17,23,535
+19,153,19,095,IA,"Iowa County",17,32,563
+19,153,19,185,IA,"Wayne County",17,22,384
+19,153,19,035,IA,"Cherokee County",16,30,512
+19,153,19,159,IA,"Ringgold County",16,23,291
+19,153,19,189,IA,"Winnebago County",16,17,323
+19,153,29,077,MO,"Greene County",16,30,618
+19,153,29,183,MO,"St Charles County",16,34,906
+19,153,41,051,OR,"Multnomah County",16,23,384
+19,153,06,001,CA,"Alameda County",15,24,719
+19,153,08,001,CO,"Adams County",15,34,543
+19,153,08,005,CO,"Arapahoe County",15,27,604
+19,153,18,097,IN,"Marion County",15,29,1085
+19,153,19,137,IA,"Montgomery County",15,27,486
+19,153,27,003,MN,"Anoka County",15,32,760
+19,153,27,109,MN,"Olmsted County",15,32,951
+19,153,29,047,MO,"Clay County",15,37,1088
+19,153,48,453,TX,"Travis County",15,30,589
+19,153,08,035,CO,"Douglas County",14,31,1238
+19,153,19,037,IA,"Chickasaw County",14,18,317
+19,153,19,147,IA,"Palo Alto County",14,15,298
+19,153,19,167,IA,"Sioux County",14,21,481
+19,153,31,079,NE,"Hall County",14,30,536
+19,153,49,035,UT,"Salt Lake County",14,34,710
+19,153,12,057,FL,"Hillsborough County",13,24,602
+19,153,17,197,IL,"Will County",13,27,438
+19,153,19,019,IA,"Buchanan County",13,25,366
+19,153,35,001,NM,"Bernalillo County",13,32,614
+19,153,08,123,CO,"Weld County",12,20,237
+19,153,12,011,FL,"Broward County",12,22,605
+19,153,12,095,FL,"Orange County",12,17,297
+19,153,13,121,GA,"Fulton County",12,21,610
+19,153,19,063,IA,"Emmet County",12,17,331
+19,153,19,093,IA,"Ida County",12,20,353
+19,153,19,161,IA,"Sac County",12,13,228
+19,153,19,165,IA,"Shelby County",12,17,475
+19,153,19,173,IA,"Taylor County",12,21,254
+19,153,29,165,MO,"Platte County",12,20,429
+19,153,40,109,OK,"Oklahoma County",12,21,271
+19,153,47,157,TN,"Shelby County",12,26,351
+19,153,48,029,TX,"Bexar County",12,19,545
+19,153,48,141,TX,"El Paso County",12,31,312
+19,153,53,053,WA,"Pierce County",12,32,812
+19,153,55,025,WI,"Dane County",12,25,744
+19,153,05,119,AR,"Pulaski County",11,13,441
+19,153,09,003,CT,"Hartford County",11,33,4003
+19,153,17,201,IL,"Winnebago County",11,19,626
+19,153,19,023,IA,"Butler County",11,14,403
+19,153,19,031,IA,"Cedar County",11,16,246
+19,153,19,101,IA,"Jefferson County",11,21,544
+19,153,19,139,IA,"Muscatine County",11,21,531
+19,153,20,045,KS,"Douglas County",11,13,371
+19,153,27,163,MN,"Washington County",11,31,684
+19,153,29,019,MO,"Boone County",11,23,651
+19,153,36,047,NY,"Kings County",11,20,891
+19,153,37,119,NC,"Mecklenburg County",11,24,814
+19,153,38,017,ND,"Cass County",11,18,601
+19,153,40,143,OK,"Tulsa County",11,25,422
+19,153,48,121,TX,"Denton County",11,27,1178
+19,153,55,133,WI,"Waukesha County",11,29,770
+19,153,05,007,AR,"Benton County",10,17,454
+19,153,06,071,CA,"San Bernardino Count",10,20,254
+19,153,06,075,CA,"San Francisco County",10,12,459
+19,153,17,167,IL,"Sangamon County",10,21,1000
+19,153,19,051,IA,"Davis County",10,13,274
+19,153,19,055,IA,"Delaware County",10,13,302
+19,153,19,081,IA,"Hancock County",10,14,269
+19,153,19,135,IA,"Monroe County",10,16,282
+19,153,19,141,IA,"O'brien County",10,17,268
+19,153,25,017,MA,"Middlesex County",10,22,398
+19,153,29,510,MO,"St Louis",10,22,473
+19,153,36,061,NY,"New York County",10,14,479
+19,153,58,000,SS,"Other Flows - Same State",123,177,3937
+19,153,59,000,DS,"Other Flows - Diff State",1772,3442,74273
+19,153,59,001,DS,"Other Flows - Northeast",195,380,10739
+19,153,59,003,DS,"Other Flows - Midwest",752,1386,28484
+19,153,59,005,DS,"Other Flows - South",521,1057,23480
+19,153,59,007,DS,"Other Flows - West",304,619,11570
+19,153,57,009,FR,"Foreign - Other flows",77,99,853
+19,155,96,000,IA,"Pottawattamie C Tot Mig-US & For",2051,3936,65265
+19,155,97,000,IA,"Pottawattamie C Tot Mig-US",2041,3921,65100
+19,155,97,001,IA,"Pottawattamie C Tot Mig-Same St",567,1055,16438
+19,155,97,003,IA,"Pottawattamie C Tot Mig-Diff St",1474,2866,48662
+19,155,98,000,IA,"Pottawattamie C Tot Mig-Foreign",10,15,165
+19,155,19,155,IA,"Pottawattamie C Non-Migrants",30467,66873,1334217
+19,155,31,055,NE,"Douglas County",713,1356,22292
+19,155,31,153,NE,"Sarpy County",136,299,5177
+19,155,19,129,IA,"Mills County",132,241,3583
+19,155,19,085,IA,"Harrison County",87,160,2398
+19,155,19,165,IA,"Shelby County",44,88,1084
+19,155,19,029,IA,"Cass County",36,68,1044
+19,155,31,109,NE,"Lancaster County",33,51,1550
+19,155,19,071,IA,"Fremont County",26,51,586
+19,155,19,145,IA,"Page County",25,45,655
+19,155,19,193,IA,"Woodbury County",24,52,930
+19,155,19,137,IA,"Montgomery County",23,33,606
+19,155,31,025,NE,"Cass County",18,33,669
+19,155,19,153,IA,"Polk County",17,29,858
+19,155,04,013,AZ,"Maricopa County",15,25,506
+19,155,19,047,IA,"Crawford County",15,22,441
+19,155,19,103,IA,"Johnson County",14,19,517
+19,155,31,053,NE,"Dodge County",12,23,300
+19,155,58,000,SS,"Other Flows - Same State",124,247,3736
+19,155,59,000,DS,"Other Flows - Diff State",547,1079,18167
+19,155,59,001,DS,"Other Flows - Northeast",20,42,878
+19,155,59,003,DS,"Other Flows - Midwest",230,447,7316
+19,155,59,005,DS,"Other Flows - South",157,301,5268
+19,155,59,007,DS,"Other Flows - West",140,289,4705
+19,155,57,009,FR,"Foreign - Other flows",10,15,165
+19,157,96,000,IA,"Poweshiek Count Tot Mig-US & For",414,773,12490
+19,157,97,000,IA,"Poweshiek Count Tot Mig-US",377,736,12439
+19,157,97,001,IA,"Poweshiek Count Tot Mig-Same St",250,515,7924
+19,157,97,003,IA,"Poweshiek Count Tot Mig-Diff St",127,221,4514
+19,157,98,000,IA,"Poweshiek Count Tot Mig-Foreign",37,37,51
+19,157,19,157,IA,"Poweshiek Count Non-Migrants",6533,14162,297742
+19,157,19,099,IA,"Jasper County",41,72,648
+19,157,19,153,IA,"Polk County",29,80,1026
+19,157,19,123,IA,"Mahaska County",28,57,779
+19,157,19,127,IA,"Marshall County",17,28,576
+19,157,19,095,IA,"Iowa County",15,35,592
+19,157,19,103,IA,"Johnson County",15,29,331
+19,157,19,011,IA,"Benton County",13,20,384
+19,157,19,113,IA,"Linn County",13,30,566
+19,157,58,000,SS,"Other Flows - Same State",79,164,3023
+19,157,59,000,DS,"Other Flows - Diff State",127,221,4514
+19,157,57,009,FR,"Foreign - Other flows",37,37,51
+19,159,96,000,IA,"Ringgold County Tot Mig-US & For",102,202,2062
+19,159,97,000,IA,"Ringgold County Tot Mig-US",102,202,2062
+19,159,97,001,IA,"Ringgold County Tot Mig-Same St",77,157,2228
+19,159,97,003,IA,"Ringgold County Tot Mig-Diff St",25,45,-166
+19,159,19,159,IA,"Ringgold County Non-Migrants",1705,3878,53571
+19,159,19,053,IA,"Decatur County",13,28,281
+19,159,19,175,IA,"Union County",10,18,230
+19,159,58,000,SS,"Other Flows - Same State",54,111,1717
+19,159,59,000,DS,"Other Flows - Diff State",25,45,-166
+19,161,96,000,IA,"Sac County Tot Mig-US & For",179,370,5266
+19,161,97,000,IA,"Sac County Tot Mig-US",179,370,5266
+19,161,97,001,IA,"Sac County Tot Mig-Same St",121,253,3600
+19,161,97,003,IA,"Sac County Tot Mig-Diff St",58,117,1666
+19,161,19,161,IA,"Sac County Non-Migrants",3683,8433,140003
+19,161,19,021,IA,"Buena Vista County",25,53,763
+19,161,19,025,IA,"Calhoun County",16,35,712
+19,161,19,093,IA,"Ida County",12,19,323
+19,161,19,027,IA,"Carroll County",11,25,343
+19,161,19,047,IA,"Crawford County",10,22,332
+19,161,58,000,SS,"Other Flows - Same State",47,99,1127
+19,161,59,000,DS,"Other Flows - Diff State",58,117,1666
+19,163,96,000,IA,"Scott County Tot Mig-US & For",3454,6523,130980
+19,163,97,000,IA,"Scott County Tot Mig-US",3380,6396,127991
+19,163,97,001,IA,"Scott County Tot Mig-Same St",964,1699,33573
+19,163,97,003,IA,"Scott County Tot Mig-Diff St",2416,4697,94418
+19,163,98,000,IA,"Scott County Tot Mig-Foreign",74,127,2990
+19,163,19,163,IA,"Scott County Non-Migrants",56219,124409,2952246
+19,163,17,161,IL,"Rock Island County",707,1378,22632
+19,163,19,045,IA,"Clinton County",163,284,5229
+19,163,19,139,IA,"Muscatine County",101,203,3546
+19,163,19,103,IA,"Johnson County",100,140,2353
+19,163,17,073,IL,"Henry County",93,158,2388
+19,163,19,113,IA,"Linn County",76,144,2722
+19,163,19,153,IA,"Polk County",73,132,3549
+19,163,17,031,IL,"Cook County",66,120,2111
+19,163,19,013,IA,"Black Hawk County",58,81,1803
+19,163,19,031,IA,"Cedar County",52,104,1724
+19,163,19,061,IA,"Dubuque County",52,117,3123
+19,163,04,013,AZ,"Maricopa County",38,72,1749
+19,163,57,005,FR,"Foreign - APO/FPO ZIPs",34,73,1814
+19,163,17,195,IL,"Whiteside County",31,49,911
+19,163,17,131,IL,"Mercer County",29,47,1007
+19,163,17,043,IL,"Du Page County",28,51,1738
+19,163,19,057,IA,"Des Moines County",24,36,672
+19,163,19,169,IA,"Story County",20,25,409
+19,163,19,097,IA,"Jackson County",19,28,399
+19,163,31,055,NE,"Douglas County",19,39,1038
+19,163,17,095,IL,"Knox County",17,31,720
+19,163,27,053,MN,"Hennepin County",17,25,698
+19,163,19,179,IA,"Wapello County",16,30,816
+19,163,20,091,KS,"Johnson County",15,38,1028
+19,163,55,025,WI,"Dane County",15,20,345
+19,163,06,037,CA,"Los Angeles County",14,22,572
+19,163,17,143,IL,"Peoria County",14,22,557
+19,163,19,049,IA,"Dallas County",14,21,595
+19,163,17,019,IL,"Champaign County",13,19,397
+19,163,19,111,IA,"Lee County",13,26,454
+19,163,19,115,IA,"Louisa County",13,26,352
+19,163,17,097,IL,"Lake County",12,21,744
+19,163,17,113,IL,"Mclean County",12,20,609
+19,163,17,197,IL,"Will County",12,23,791
+19,163,17,201,IL,"Winnebago County",12,23,315
+19,163,32,003,NV,"Clark County",12,23,433
+19,163,06,071,CA,"San Bernardino Count",11,22,443
+19,163,06,073,CA,"San Diego County",11,23,337
+19,163,08,001,CO,"Adams County",11,20,344
+19,163,08,041,CO,"El Paso County",11,19,341
+19,163,37,183,NC,"Wake County",11,38,1687
+19,163,17,187,IL,"Warren County",10,23,476
+19,163,26,125,MI,"Oakland County",10,19,806
+19,163,58,000,SS,"Other Flows - Same State",170,302,5828
+19,163,59,000,DS,"Other Flows - Diff State",1165,2332,49200
+19,163,59,001,DS,"Other Flows - Northeast",91,169,3055
+19,163,59,003,DS,"Other Flows - Midwest",517,1008,21609
+19,163,59,005,DS,"Other Flows - South",389,809,18388
+19,163,59,007,DS,"Other Flows - West",168,346,6147
+19,163,57,009,FR,"Foreign - Other flows",40,54,1176
+19,165,96,000,IA,"Shelby County Tot Mig-US & For",224,439,5997
+19,165,97,000,IA,"Shelby County Tot Mig-US",224,439,5997
+19,165,97,001,IA,"Shelby County Tot Mig-Same St",128,261,3544
+19,165,97,003,IA,"Shelby County Tot Mig-Diff St",96,178,2453
+19,165,19,165,IA,"Shelby County Non-Migrants",4561,10678,186382
+19,165,19,155,IA,"Pottawattamie County",43,91,1134
+19,165,31,055,NE,"Douglas County",32,53,787
+19,165,19,047,IA,"Crawford County",11,26,210
+19,165,19,029,IA,"Cass County",10,16,314
+19,165,58,000,SS,"Other Flows - Same State",64,128,1886
+19,165,59,000,DS,"Other Flows - Diff State",64,125,1666
+19,167,96,000,IA,"Sioux County Tot Mig-US & For",443,987,14583
+19,167,97,000,IA,"Sioux County Tot Mig-US",443,987,14583
+19,167,97,001,IA,"Sioux County Tot Mig-Same St",212,474,6986
+19,167,97,003,IA,"Sioux County Tot Mig-Diff St",231,513,7597
+19,167,19,167,IA,"Sioux County Non-Migrants",10180,26573,486452
+19,167,19,141,IA,"O'brien County",44,100,1526
+19,167,19,149,IA,"Plymouth County",38,85,1224
+19,167,19,119,IA,"Lyon County",32,80,1225
+19,167,19,193,IA,"Woodbury County",28,70,663
+19,167,46,099,SD,"Minnehaha County",19,42,778
+19,167,58,000,SS,"Other Flows - Same State",70,139,2349
+19,167,59,000,DS,"Other Flows - Diff State",212,471,6818
+19,167,59,001,DS,"Other Flows - Northeast",10,26,384
+19,167,59,003,DS,"Other Flows - Midwest",122,248,3781
+19,167,59,005,DS,"Other Flows - South",36,98,783
+19,167,59,007,DS,"Other Flows - West",44,99,1870
+19,169,96,000,IA,"Story County Tot Mig-US & For",2998,4428,81989
+19,169,97,000,IA,"Story County Tot Mig-US",2579,3965,79604
+19,169,97,001,IA,"Story County Tot Mig-Same St",1573,2290,43120
+19,169,97,003,IA,"Story County Tot Mig-Diff St",1006,1675,36484
+19,169,98,000,IA,"Story County Tot Mig-Foreign",419,463,2385
+19,169,19,169,IA,"Story County Non-Migrants",23687,50844,1288544
+19,169,19,153,IA,"Polk County",340,554,11153
+19,169,19,015,IA,"Boone County",182,295,5689
+19,169,19,103,IA,"Johnson County",48,61,1153
+19,169,19,079,IA,"Hamilton County",47,71,1982
+19,169,19,127,IA,"Marshall County",47,83,1545
+19,169,19,113,IA,"Linn County",46,60,1066
+19,169,19,013,IA,"Black Hawk County",41,67,1097
+19,169,19,187,IA,"Webster County",35,43,704
+19,169,19,049,IA,"Dallas County",33,51,901
+19,169,19,083,IA,"Hardin County",32,49,1013
+19,169,17,031,IL,"Cook County",30,42,1151
+19,169,19,033,IA,"Cerro Gordo County",30,39,534
+19,169,19,193,IA,"Woodbury County",29,38,560
+19,169,31,055,NE,"Douglas County",29,39,697
+19,169,19,163,IA,"Scott County",28,32,607
+19,169,27,053,MN,"Hennepin County",27,39,1116
+19,169,04,013,AZ,"Maricopa County",26,40,884
+19,169,19,027,IA,"Carroll County",22,24,464
+19,169,19,073,IA,"Greene County",19,22,408
+19,169,19,021,IA,"Buena Vista County",17,23,335
+19,169,19,099,IA,"Jasper County",17,20,327
+19,169,19,125,IA,"Marion County",17,23,527
+19,169,19,155,IA,"Pottawattamie County",17,21,430
+19,169,19,181,IA,"Warren County",17,21,372
+19,169,31,109,NE,"Lancaster County",16,28,598
+19,169,19,069,IA,"Franklin County",15,26,511
+19,169,19,109,IA,"Kossuth County",14,16,295
+19,169,19,121,IA,"Madison County",14,16,270
+19,169,19,061,IA,"Dubuque County",13,16,245
+19,169,19,157,IA,"Poweshiek County",13,15,283
+19,169,17,043,IL,"Du Page County",12,13,210
+19,169,19,017,IA,"Bremer County",12,18,343
+19,169,19,025,IA,"Calhoun County",12,16,539
+19,169,19,041,IA,"Clay County",12,16,421
+19,169,19,149,IA,"Plymouth County",12,16,217
+19,169,19,167,IA,"Sioux County",12,15,233
+19,169,19,057,IA,"Des Moines County",11,13,165
+19,169,19,065,IA,"Fayette County",11,13,225
+19,169,19,081,IA,"Hancock County",11,12,353
+19,169,19,123,IA,"Mahaska County",11,18,308
+19,169,19,161,IA,"Sac County",11,13,304
+19,169,26,065,MI,"Ingham County",11,27,649
+19,169,06,073,CA,"San Diego County",10,14,338
+19,169,19,045,IA,"Clinton County",10,24,169
+19,169,19,165,IA,"Shelby County",10,12,209
+19,169,37,183,NC,"Wake County",10,19,301
+19,169,48,201,TX,"Harris County",10,14,191
+19,169,55,025,WI,"Dane County",10,16,336
+19,169,58,000,SS,"Other Flows - Same State",305,418,7167
+19,169,59,000,DS,"Other Flows - Diff State",815,1384,30013
+19,169,59,001,DS,"Other Flows - Northeast",71,110,2586
+19,169,59,003,DS,"Other Flows - Midwest",374,598,12591
+19,169,59,005,DS,"Other Flows - South",199,353,8808
+19,169,59,007,DS,"Other Flows - West",171,323,6028
+19,169,57,009,FR,"Foreign - Other flows",419,463,2385
+19,171,96,000,IA,"Tama County Tot Mig-US & For",333,720,10510
+19,171,97,000,IA,"Tama County Tot Mig-US",333,720,10510
+19,171,97,001,IA,"Tama County Tot Mig-Same St",249,495,7673
+19,171,97,003,IA,"Tama County Tot Mig-Diff St",84,225,2838
+19,171,19,171,IA,"Tama County Non-Migrants",5625,12595,224025
+19,171,19,127,IA,"Marshall County",70,147,2217
+19,171,19,013,IA,"Black Hawk County",48,100,1542
+19,171,19,113,IA,"Linn County",20,32,957
+19,171,19,011,IA,"Benton County",18,32,572
+19,171,19,153,IA,"Polk County",14,23,302
+19,171,19,075,IA,"Grundy County",11,19,274
+19,171,19,157,IA,"Poweshiek County",10,15,312
+19,171,58,000,SS,"Other Flows - Same State",58,127,1496
+19,171,59,000,DS,"Other Flows - Diff State",84,225,2838
+19,173,96,000,IA,"Taylor County Tot Mig-US & For",148,270,3473
+19,173,97,000,IA,"Taylor County Tot Mig-US",148,270,3473
+19,173,97,001,IA,"Taylor County Tot Mig-Same St",76,135,1905
+19,173,97,003,IA,"Taylor County Tot Mig-Diff St",72,135,1568
+19,173,19,173,IA,"Taylor County Non-Migrants",2279,5247,72407
+19,173,19,145,IA,"Page County",21,41,668
+19,173,19,175,IA,"Union County",14,17,269
+19,173,58,000,SS,"Other Flows - Same State",41,77,968
+19,173,59,000,DS,"Other Flows - Diff State",72,135,1568
+19,175,96,000,IA,"Union County Tot Mig-US & For",293,559,8348
+19,175,97,000,IA,"Union County Tot Mig-US",293,559,8348
+19,175,97,001,IA,"Union County Tot Mig-Same St",188,378,5275
+19,175,97,003,IA,"Union County Tot Mig-Diff St",105,181,3073
+19,175,19,175,IA,"Union County Non-Migrants",4044,8668,146607
+19,175,19,001,IA,"Adair County",26,48,690
+19,175,19,003,IA,"Adams County",22,35,571
+19,175,19,153,IA,"Polk County",18,39,640
+19,175,19,173,IA,"Taylor County",14,31,324
+19,175,19,121,IA,"Madison County",13,26,316
+19,175,19,039,IA,"Clarke County",11,19,130
+19,175,58,000,SS,"Other Flows - Same State",84,180,2603
+19,175,59,000,DS,"Other Flows - Diff State",105,181,3073
+19,177,96,000,IA,"Van Buren Count Tot Mig-US & For",153,305,4041
+19,177,97,000,IA,"Van Buren Count Tot Mig-US",153,305,4041
+19,177,97,001,IA,"Van Buren Count Tot Mig-Same St",110,224,2941
+19,177,97,003,IA,"Van Buren Count Tot Mig-Diff St",43,81,1100
+19,177,19,177,IA,"Van Buren Count Non-Migrants",2848,6322,93969
+19,177,19,101,IA,"Jefferson County",31,65,733
+19,177,19,179,IA,"Wapello County",15,31,407
+19,177,19,087,IA,"Henry County",13,21,267
+19,177,19,111,IA,"Lee County",10,27,251
+19,177,58,000,SS,"Other Flows - Same State",41,80,1283
+19,177,59,000,DS,"Other Flows - Diff State",43,81,1100
+19,179,96,000,IA,"Wapello County Tot Mig-US & For",709,1469,18962
+19,179,97,000,IA,"Wapello County Tot Mig-US",709,1469,18962
+19,179,97,001,IA,"Wapello County Tot Mig-Same St",405,800,10621
+19,179,97,003,IA,"Wapello County Tot Mig-Diff St",304,669,8341
+19,179,19,179,IA,"Wapello County Non-Migrants",11606,25597,449392
+19,179,19,123,IA,"Mahaska County",53,113,1328
+19,179,19,101,IA,"Jefferson County",39,73,800
+19,179,19,051,IA,"Davis County",37,73,917
+19,179,19,153,IA,"Polk County",31,53,912
+19,179,19,135,IA,"Monroe County",22,36,485
+19,179,19,013,IA,"Black Hawk County",18,32,412
+19,179,19,007,IA,"Appanoose County",17,31,380
+19,179,17,161,IL,"Rock Island County",16,43,416
+19,179,19,107,IA,"Keokuk County",16,19,286
+19,179,19,127,IA,"Marshall County",16,49,397
+19,179,19,177,IA,"Van Buren County",14,29,386
+19,179,19,049,IA,"Dallas County",11,18,258
+19,179,19,057,IA,"Des Moines County",10,23,402
+19,179,58,000,SS,"Other Flows - Same State",121,251,3658
+19,179,59,000,DS,"Other Flows - Diff State",288,626,7925
+19,181,96,000,IA,"Warren County Tot Mig-US & For",1084,2171,42052
+19,181,97,000,IA,"Warren County Tot Mig-US",1084,2171,42052
+19,181,97,001,IA,"Warren County Tot Mig-Same St",845,1698,33596
+19,181,97,003,IA,"Warren County Tot Mig-Diff St",239,473,8456
+19,181,19,181,IA,"Warren County Non-Migrants",13117,31587,714913
+19,181,19,153,IA,"Polk County",512,1061,21713
+19,181,19,121,IA,"Madison County",48,98,1858
+19,181,19,125,IA,"Marion County",28,59,1131
+19,181,19,049,IA,"Dallas County",26,49,1001
+19,181,19,039,IA,"Clarke County",23,44,825
+19,181,19,099,IA,"Jasper County",14,36,637
+19,181,19,015,IA,"Boone County",13,28,442
+19,181,19,117,IA,"Lucas County",13,24,494
+19,181,19,169,IA,"Story County",12,20,378
+19,181,19,113,IA,"Linn County",11,16,272
+19,181,19,053,IA,"Decatur County",10,16,234
+19,181,58,000,SS,"Other Flows - Same State",135,247,4612
+19,181,59,000,DS,"Other Flows - Diff State",239,473,8456
+19,181,59,001,DS,"Other Flows - Northeast",13,21,269
+19,181,59,003,DS,"Other Flows - Midwest",111,222,4057
+19,181,59,005,DS,"Other Flows - South",63,119,2079
+19,181,59,007,DS,"Other Flows - West",52,111,2051
+19,183,96,000,IA,"Washington Coun Tot Mig-US & For",475,921,16341
+19,183,97,000,IA,"Washington Coun Tot Mig-US",475,921,16341
+19,183,97,001,IA,"Washington Coun Tot Mig-Same St",349,675,12910
+19,183,97,003,IA,"Washington Coun Tot Mig-Diff St",126,246,3430
+19,183,19,183,IA,"Washington Coun Non-Migrants",7058,16367,294417
+19,183,19,103,IA,"Johnson County",137,263,5096
+19,183,19,087,IA,"Henry County",34,65,1263
+19,183,19,107,IA,"Keokuk County",29,55,844
+19,183,19,101,IA,"Jefferson County",26,50,578
+19,183,19,115,IA,"Louisa County",17,38,1475
+19,183,19,113,IA,"Linn County",13,29,354
+19,183,19,153,IA,"Polk County",10,13,325
+19,183,58,000,SS,"Other Flows - Same State",83,162,2975
+19,183,59,000,DS,"Other Flows - Diff State",126,246,3430
+19,185,96,000,IA,"Wayne County Tot Mig-US & For",136,289,3891
+19,185,97,000,IA,"Wayne County Tot Mig-US",136,289,3891
+19,185,97,001,IA,"Wayne County Tot Mig-Same St",90,179,2540
+19,185,97,003,IA,"Wayne County Tot Mig-Diff St",46,110,1351
+19,185,19,185,IA,"Wayne County Non-Migrants",2209,5066,68356
+19,185,19,007,IA,"Appanoose County",17,38,471
+19,185,19,153,IA,"Polk County",17,36,493
+19,185,19,117,IA,"Lucas County",14,32,433
+19,185,19,053,IA,"Decatur County",10,15,260
+19,185,58,000,SS,"Other Flows - Same State",32,58,884
+19,185,59,000,DS,"Other Flows - Diff State",46,110,1351
+19,187,96,000,IA,"Webster County Tot Mig-US & For",615,1137,18936
+19,187,97,000,IA,"Webster County Tot Mig-US",615,1137,18936
+19,187,97,001,IA,"Webster County Tot Mig-Same St",421,723,11474
+19,187,97,003,IA,"Webster County Tot Mig-Diff St",194,414,7463
+19,187,19,187,IA,"Webster County Non-Migrants",13082,28705,558382
+19,187,19,025,IA,"Calhoun County",53,99,1381
+19,187,19,079,IA,"Hamilton County",49,88,1278
+19,187,19,153,IA,"Polk County",39,70,960
+19,187,19,091,IA,"Humboldt County",37,62,928
+19,187,19,015,IA,"Boone County",25,46,645
+19,187,19,169,IA,"Story County",24,34,644
+19,187,19,197,IA,"Wright County",21,28,519
+19,187,04,013,AZ,"Maricopa County",13,28,686
+19,187,19,033,IA,"Cerro Gordo County",13,28,462
+19,187,58,000,SS,"Other Flows - Same State",160,268,4657
+19,187,59,000,DS,"Other Flows - Diff State",181,386,6777
+19,189,96,000,IA,"Winnebago Count Tot Mig-US & For",277,492,7463
+19,189,97,000,IA,"Winnebago Count Tot Mig-US",265,480,7416
+19,189,97,001,IA,"Winnebago Count Tot Mig-Same St",165,304,4786
+19,189,97,003,IA,"Winnebago Count Tot Mig-Diff St",100,176,2630
+19,189,98,000,IA,"Winnebago Count Tot Mig-Foreign",12,12,47
+19,189,19,189,IA,"Winnebago Count Non-Migrants",4131,9307,168831
+19,189,19,033,IA,"Cerro Gordo County",45,78,1254
+19,189,19,081,IA,"Hancock County",40,83,1143
+19,189,19,195,IA,"Worth County",20,37,642
+19,189,27,047,MN,"Freeborn County",14,28,333
+19,189,19,109,IA,"Kossuth County",12,18,207
+19,189,58,000,SS,"Other Flows - Same State",48,88,1540
+19,189,59,000,DS,"Other Flows - Diff State",86,148,2298
+19,189,57,009,FR,"Foreign - Other flows",12,12,47
+19,191,96,000,IA,"Winneshiek Coun Tot Mig-US & For",350,601,12101
+19,191,97,000,IA,"Winneshiek Coun Tot Mig-US",322,570,11840
+19,191,97,001,IA,"Winneshiek Coun Tot Mig-Same St",165,286,5244
+19,191,97,003,IA,"Winneshiek Coun Tot Mig-Diff St",157,284,6596
+19,191,98,000,IA,"Winneshiek Coun Tot Mig-Foreign",28,31,261
+19,191,19,191,IA,"Winneshiek Coun Non-Migrants",6620,14901,271297
+19,191,19,005,IA,"Allamakee County",35,65,1134
+19,191,19,089,IA,"Howard County",21,46,629
+19,191,19,065,IA,"Fayette County",20,35,836
+19,191,19,043,IA,"Clayton County",12,22,322
+19,191,19,113,IA,"Linn County",12,16,319
+19,191,27,045,MN,"Fillmore County",12,19,331
+19,191,19,153,IA,"Polk County",10,11,344
+19,191,58,000,SS,"Other Flows - Same State",55,91,1661
+19,191,59,000,DS,"Other Flows - Diff State",145,265,6264
+19,191,57,009,FR,"Foreign - Other flows",28,31,261
+19,193,96,000,IA,"Woodbury County Tot Mig-US & For",1875,3714,56299
+19,193,97,000,IA,"Woodbury County Tot Mig-US",1875,3714,56299
+19,193,97,001,IA,"Woodbury County Tot Mig-Same St",544,1000,17087
+19,193,97,003,IA,"Woodbury County Tot Mig-Diff St",1331,2714,39212
+19,193,19,193,IA,"Woodbury County Non-Migrants",34977,80793,1585763
+19,193,31,043,NE,"Dakota County",316,685,7802
+19,193,19,149,IA,"Plymouth County",122,219,3837
+19,193,46,127,SD,"Union County",104,189,3421
+19,193,19,133,IA,"Monona County",62,124,1654
+19,193,31,055,NE,"Douglas County",51,80,1553
+19,193,19,167,IA,"Sioux County",32,61,734
+19,193,46,099,SD,"Minnehaha County",32,66,614
+19,193,19,153,IA,"Polk County",29,57,1533
+19,193,19,035,IA,"Cherokee County",25,37,592
+19,193,06,037,CA,"Los Angeles County",24,62,650
+19,193,19,169,IA,"Story County",24,35,478
+19,193,46,027,SD,"Clay County",23,36,589
+19,193,19,021,IA,"Buena Vista County",21,36,534
+19,193,19,155,IA,"Pottawattamie County",21,32,614
+19,193,31,173,NE,"Thurston County",21,61,318
+19,193,04,013,AZ,"Maricopa County",20,43,927
+19,193,19,093,IA,"Ida County",17,34,492
+19,193,19,047,IA,"Crawford County",15,28,530
+19,193,17,031,IL,"Cook County",14,27,263
+19,193,19,041,IA,"Clay County",13,16,242
+19,193,31,119,NE,"Madison County",13,35,392
+19,193,19,103,IA,"Johnson County",12,22,247
+19,193,27,053,MN,"Hennepin County",11,16,503
+19,193,31,109,NE,"Lancaster County",11,23,237
+19,193,31,153,NE,"Sarpy County",11,20,326
+19,193,19,113,IA,"Linn County",10,20,823
+19,193,31,051,NE,"Dixon County",10,24,232
+19,193,58,000,SS,"Other Flows - Same State",141,279,4775
+19,193,59,000,DS,"Other Flows - Diff State",670,1347,21386
+19,193,59,001,DS,"Other Flows - Northeast",37,77,851
+19,193,59,003,DS,"Other Flows - Midwest",286,568,8492
+19,193,59,005,DS,"Other Flows - South",157,298,5169
+19,193,59,007,DS,"Other Flows - West",190,404,6873
+19,195,96,000,IA,"Worth County Tot Mig-US & For",197,363,5822
+19,195,97,000,IA,"Worth County Tot Mig-US",197,363,5822
+19,195,97,001,IA,"Worth County Tot Mig-Same St",149,274,4259
+19,195,97,003,IA,"Worth County Tot Mig-Diff St",48,89,1564
+19,195,19,195,IA,"Worth County Non-Migrants",2711,6116,104612
+19,195,19,033,IA,"Cerro Gordo County",82,146,2461
+19,195,19,189,IA,"Winnebago County",17,39,341
+19,195,27,047,MN,"Freeborn County",14,26,542
+19,195,19,131,IA,"Mitchell County",11,19,373
+19,195,58,000,SS,"Other Flows - Same State",39,70,1084
+19,195,59,000,DS,"Other Flows - Diff State",34,63,1022
+19,197,96,000,IA,"Wright County Tot Mig-US & For",251,480,7110
+19,197,97,000,IA,"Wright County Tot Mig-US",251,480,7110
+19,197,97,001,IA,"Wright County Tot Mig-Same St",170,304,4621
+19,197,97,003,IA,"Wright County Tot Mig-Diff St",81,176,2490
+19,197,19,197,IA,"Wright County Non-Migrants",4675,10651,177025
+19,197,19,033,IA,"Cerro Gordo County",22,29,399
+19,197,19,079,IA,"Hamilton County",22,55,659
+19,197,19,187,IA,"Webster County",19,25,293
+19,197,19,153,IA,"Polk County",13,19,381
+19,197,19,081,IA,"Hancock County",11,23,248
+19,197,19,069,IA,"Franklin County",10,16,409
+19,197,58,000,SS,"Other Flows - Same State",73,137,2232
+19,197,59,000,DS,"Other Flows - Diff State",81,176,2490

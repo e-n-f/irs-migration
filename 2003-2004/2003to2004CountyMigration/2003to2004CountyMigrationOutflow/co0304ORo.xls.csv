@@ -1,0 +1,1559 @@
+"2003-2004 County to County Migration Outflow",,,,,,,,"Oregon Outflows"
+"(Aggregate money amounts are in thousands of dollars)",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+"Migration from",,"Migration into",,,,Number,Number,Aggregate
+Oregon,,,,,,of,of,adjusted
+State,County,State,County,State,"State totals, county totals,",returns,exemptions,gross
+"FIPS Code",,,,,"and county by county detail",,,income
+41,000,96,000,OR,"Total Mig - US & For",101177,184738,3703231
+41,000,97,000,OR,"Total Mig - US",100077,182980,3671223
+41,000,97,001,OR,"Total Mig - US Same St",55199,99561,1985477
+41,000,97,003,OR,"Total Mig - US Diff St",44878,83419,1685746
+41,000,98,000,OR,"Total Mig - Foreign",1100,1758,32009
+41,001,96,000,OR,"Baker County Tot Mig-US & For",415,841,13036
+41,001,97,000,OR,"Baker County Tot Mig-US",415,841,13036
+41,001,97,001,OR,"Baker County Tot Mig-Same St",176,342,4689
+41,001,97,003,OR,"Baker County Tot Mig-Diff St",239,499,8347
+41,001,41,001,OR,"Baker County Non-Migrants",5029,11149,179620
+41,001,41,061,OR,"Union County",33,63,720
+41,001,16,001,ID,"Ada County",29,48,801
+41,001,41,059,OR,"Umatilla County",21,42,745
+41,001,41,047,OR,"Marion County",13,26,520
+41,001,41,039,OR,"Lane County",12,28,302
+41,001,41,017,OR,"Deschutes County",11,16,241
+41,001,41,045,OR,"Malheur County",11,25,197
+41,001,16,027,ID,"Canyon County",10,19,245
+41,001,58,000,SS,"Other Flows - Same State",75,142,1963
+41,001,59,000,DS,"Other Flows - Diff State",200,432,7301
+41,003,96,000,OR,"Benton County Tot Mig-US & For",3148,5315,101979
+41,003,97,000,OR,"Benton County Tot Mig-US",3101,5248,100842
+41,003,97,001,OR,"Benton County Tot Mig-Same St",1901,3181,60543
+41,003,97,003,OR,"Benton County Tot Mig-Diff St",1200,2067,40299
+41,003,98,000,OR,"Benton County Tot Mig-Foreign",47,67,1137
+41,003,41,003,OR,"Benton County Non-Migrants",26004,56258,1472307
+41,003,41,043,OR,"Linn County",576,1124,19725
+41,003,41,051,OR,"Multnomah County",216,281,5049
+41,003,41,039,OR,"Lane County",209,346,6046
+41,003,41,067,OR,"Washington County",188,272,4641
+41,003,41,047,OR,"Marion County",174,275,5742
+41,003,41,017,OR,"Deschutes County",90,159,3333
+41,003,41,005,OR,"Clackamas County",89,131,2603
+41,003,41,053,OR,"Polk County",76,121,2512
+41,003,53,033,WA,"King County",61,82,2078
+41,003,41,041,OR,"Lincoln County",52,99,4745
+41,003,06,073,CA,"San Diego County",41,54,1410
+41,003,41,029,OR,"Jackson County",40,58,842
+41,003,04,013,AZ,"Maricopa County",38,72,969
+41,003,06,037,CA,"Los Angeles County",33,46,1221
+41,003,53,011,WA,"Clark County",32,68,1726
+41,003,41,071,OR,"Yamhill County",29,54,974
+41,003,06,085,CA,"Santa Clara County",23,45,1608
+41,003,41,019,OR,"Douglas County",22,39,659
+41,003,06,059,CA,"Orange County",20,28,580
+41,003,32,003,NV,"Clark County",20,41,856
+41,003,06,001,CA,"Alameda County",19,25,897
+41,003,41,011,OR,"Coos County",19,30,613
+41,003,16,001,ID,"Ada County",17,33,608
+41,003,08,069,CO,"Larimer County",16,24,811
+41,003,15,003,HI,"Honolulu County",16,22,470
+41,003,06,075,CA,"San Francisco County",15,22,477
+41,003,41,033,OR,"Josephine County",15,25,574
+41,003,53,035,WA,"Kitsap County",15,33,591
+41,003,04,019,AZ,"Pima County",13,32,442
+41,003,49,035,UT,"Salt Lake County",13,22,399
+41,003,53,061,WA,"Snohomish County",13,21,459
+41,003,06,113,CA,"Yolo County",12,14,271
+41,003,57,005,FR,"Foreign - APO/FPO ZIPs",12,16,327
+41,003,06,067,CA,"Sacramento County",11,17,433
+41,003,41,035,OR,"Klamath County",11,17,230
+41,003,41,059,OR,"Umatilla County",11,19,272
+41,003,53,067,WA,"Thurston County",11,22,271
+41,003,36,061,NY,"New York County",10,16,422
+41,003,41,007,OR,"Clatsop County",10,18,269
+41,003,41,027,OR,"Hood River County",10,12,128
+41,003,48,453,TX,"Travis County",10,14,212
+41,003,53,063,WA,"Spokane County",10,15,336
+41,003,53,075,WA,"Whitman County",10,14,142
+41,003,58,000,SS,"Other Flows - Same State",64,101,1586
+41,003,59,000,DS,"Other Flows - Diff State",721,1285,22609
+41,003,59,001,DS,"Other Flows - Northeast",81,122,2185
+41,003,59,003,DS,"Other Flows - Midwest",123,226,3611
+41,003,59,005,DS,"Other Flows - South",183,338,6646
+41,003,59,007,DS,"Other Flows - West",334,599,10167
+41,003,57,009,FR,"Foreign - Other flows",35,51,810
+41,005,96,000,OR,"Clackamas County Tot Mig-US & For",12078,21866,494698
+41,005,97,000,OR,"Clackamas County Tot Mig-US",11979,21706,490356
+41,005,97,001,OR,"Clackamas County Tot Mig-Same St",7797,13542,288369
+41,005,97,003,OR,"Clackamas County Tot Mig-Diff St",4182,8164,201987
+41,005,98,000,OR,"Clackamas County Tot Mig-Foreign",99,160,4342
+41,005,41,005,OR,"Clackamas County Non-Migrants",121876,276363,7577956
+41,005,41,051,OR,"Multnomah County",3719,6226,124325
+41,005,41,067,OR,"Washington County",1965,3287,82025
+41,005,53,011,WA,"Clark County",754,1560,40034
+41,005,41,047,OR,"Marion County",633,1243,24135
+41,005,41,017,OR,"Deschutes County",231,461,11030
+41,005,41,071,OR,"Yamhill County",208,430,9064
+41,005,53,033,WA,"King County",180,282,11153
+41,005,41,039,OR,"Lane County",171,287,6499
+41,005,04,013,AZ,"Maricopa County",147,264,7650
+41,005,06,037,CA,"Los Angeles County",113,199,3809
+41,005,06,073,CA,"San Diego County",106,175,3655
+41,005,32,003,NV,"Clark County",92,169,3595
+41,005,41,003,OR,"Benton County",81,119,2238
+41,005,41,009,OR,"Columbia County",67,133,2555
+41,005,41,029,OR,"Jackson County",66,115,2592
+41,005,41,041,OR,"Lincoln County",65,122,2054
+41,005,41,053,OR,"Polk County",65,106,2068
+41,005,53,053,WA,"Pierce County",65,148,3137
+41,005,06,059,CA,"Orange County",62,149,3567
+41,005,16,001,ID,"Ada County",57,120,2523
+41,005,41,007,OR,"Clatsop County",54,89,2130
+41,005,41,013,OR,"Crook County",53,104,1903
+41,005,06,065,CA,"Riverside County",49,102,2642
+41,005,53,061,WA,"Snohomish County",49,81,2231
+41,005,41,057,OR,"Tillamook County",47,97,2208
+41,005,41,019,OR,"Douglas County",46,76,1465
+41,005,57,005,FR,"Foreign - APO/FPO ZIPs",45,67,1121
+41,005,41,043,OR,"Linn County",44,80,1176
+41,005,53,063,WA,"Spokane County",42,71,1647
+41,005,06,085,CA,"Santa Clara County",39,56,2231
+41,005,04,019,AZ,"Pima County",38,74,1563
+41,005,15,003,HI,"Honolulu County",38,64,1213
+41,005,41,065,OR,"Wasco County",37,75,1905
+41,005,49,035,UT,"Salt Lake County",37,76,1732
+41,005,06,067,CA,"Sacramento County",33,71,1479
+41,005,41,059,OR,"Umatilla County",32,68,1157
+41,005,53,015,WA,"Cowlitz County",32,64,1238
+41,005,41,033,OR,"Josephine County",30,60,1122
+41,005,06,071,CA,"San Bernardino Count",29,55,1063
+41,005,02,020,AK,"Anchorage Borough",28,46,1052
+41,005,41,027,OR,"Hood River County",28,54,1355
+41,005,53,067,WA,"Thurston County",28,62,810
+41,005,06,001,CA,"Alameda County",27,49,1006
+41,005,41,011,OR,"Coos County",26,48,989
+41,005,41,061,OR,"Union County",23,49,677
+41,005,49,049,UT,"Utah County",23,52,518
+41,005,41,035,OR,"Klamath County",22,45,1274
+41,005,32,031,NV,"Washoe County",21,38,1009
+41,005,15,001,HI,"Hawaii County",20,36,630
+41,005,15,009,HI,"Maui County",20,34,2314
+41,005,16,027,ID,"Canyon County",20,37,470
+41,005,41,031,OR,"Jefferson County",20,35,836
+41,005,53,005,WA,"Benton County",20,40,822
+41,005,17,031,IL,"Cook County",19,36,541
+41,005,48,029,TX,"Bexar County",19,34,1145
+41,005,51,059,VA,"Fairfax County",19,41,1380
+41,005,04,015,AZ,"Mohave County",18,41,797
+41,005,53,073,WA,"Whatcom County",18,36,395
+41,005,06,013,CA,"Contra Costa County",17,30,727
+41,005,36,061,NY,"New York County",17,27,965
+41,005,06,029,CA,"Kern County",16,38,463
+41,005,06,053,CA,"Monterey County",16,18,326
+41,005,16,055,ID,"Kootenai County",16,45,571
+41,005,48,113,TX,"Dallas County",16,29,1007
+41,005,48,453,TX,"Travis County",16,31,1370
+41,005,53,035,WA,"Kitsap County",16,29,523
+41,005,04,027,AZ,"Yuma County",15,33,712
+41,005,06,075,CA,"San Francisco County",15,18,485
+41,005,08,005,CO,"Arapahoe County",15,35,448
+41,005,48,439,TX,"Tarrant County",15,36,993
+41,005,53,009,WA,"Clallam County",15,32,971
+41,005,02,170,AK,"Matanuska Susitna Bo",14,27,478
+41,005,53,039,WA,"Klickitat County",14,24,379
+41,005,53,071,WA,"Walla Walla County",14,18,690
+41,005,06,061,CA,"Placer County",13,25,737
+41,005,06,081,CA,"San Mateo County",13,28,1231
+41,005,08,059,CO,"Jefferson County",13,25,352
+41,005,25,025,MA,"Suffolk County",13,17,415
+41,005,48,201,TX,"Harris County",13,24,751
+41,005,53,077,WA,"Yakima County",13,30,403
+41,005,08,041,CO,"El Paso County",12,23,304
+41,005,48,085,TX,"Collin County",12,34,1821
+41,005,11,001,DC,"District Of Columbia",11,12,259
+41,005,13,067,GA,"Cobb County",11,22,697
+41,005,16,065,ID,"Madison County",11,21,148
+41,005,29,189,MO,"St Louis County",11,21,370
+41,005,41,001,OR,"Baker County",11,19,298
+41,005,41,045,OR,"Malheur County",11,25,285
+41,005,53,057,WA,"Skagit County",11,21,332
+41,005,04,005,AZ,"Coconino County",10,16,384
+41,005,06,017,CA,"El Dorado County",10,17,584
+41,005,06,019,CA,"Fresno County",10,30,518
+41,005,06,083,CA,"Santa Barbara County",10,16,154
+41,005,39,049,OH,"Franklin County",10,23,541
+41,005,41,023,OR,"Grant County",10,17,197
+41,005,53,027,WA,"Grays Harbor County",10,21,401
+41,005,58,000,SS,"Other Flows - Same State",32,72,805
+41,005,59,000,DS,"Other Flows - Diff State",1456,2906,71428
+41,005,59,001,DS,"Other Flows - Northeast",159,309,11326
+41,005,59,003,DS,"Other Flows - Midwest",294,573,15097
+41,005,59,005,DS,"Other Flows - South",461,951,22829
+41,005,59,007,DS,"Other Flows - West",542,1073,22176
+41,005,57,009,FR,"Foreign - Other flows",54,93,3221
+41,007,96,000,OR,"Clatsop County Tot Mig-US & For",1015,1928,32564
+41,007,97,000,OR,"Clatsop County Tot Mig-US",1015,1928,32564
+41,007,97,001,OR,"Clatsop County Tot Mig-Same St",439,795,14619
+41,007,97,003,OR,"Clatsop County Tot Mig-Diff St",576,1133,17945
+41,007,41,007,OR,"Clatsop County Non-Migrants",11118,23253,457662
+41,007,41,051,OR,"Multnomah County",88,136,3177
+41,007,41,067,OR,"Washington County",75,124,3422
+41,007,41,005,OR,"Clackamas County",42,86,1639
+41,007,53,049,WA,"Pacific County",31,77,1006
+41,007,41,039,OR,"Lane County",29,42,563
+41,007,41,017,OR,"Deschutes County",27,54,875
+41,007,53,033,WA,"King County",27,36,967
+41,007,53,015,WA,"Cowlitz County",26,48,933
+41,007,53,011,WA,"Clark County",25,62,848
+41,007,41,009,OR,"Columbia County",24,55,706
+41,007,41,057,OR,"Tillamook County",23,44,544
+41,007,41,047,OR,"Marion County",19,35,689
+41,007,41,003,OR,"Benton County",16,19,285
+41,007,06,073,CA,"San Diego County",14,28,375
+41,007,53,053,WA,"Pierce County",14,25,317
+41,007,41,071,OR,"Yamhill County",13,37,295
+41,007,04,013,AZ,"Maricopa County",12,25,413
+41,007,53,061,WA,"Snohomish County",11,20,360
+41,007,32,003,NV,"Clark County",10,13,116
+41,007,58,000,SS,"Other Flows - Same State",83,163,2426
+41,007,59,000,DS,"Other Flows - Diff State",406,799,12609
+41,007,59,001,DS,"Other Flows - Northeast",28,47,839
+41,007,59,003,DS,"Other Flows - Midwest",36,71,1012
+41,007,59,005,DS,"Other Flows - South",86,196,3924
+41,007,59,007,DS,"Other Flows - West",256,485,6835
+41,009,96,000,OR,"Columbia County Tot Mig-US & For",1183,2303,42452
+41,009,97,000,OR,"Columbia County Tot Mig-US",1172,2286,42249
+41,009,97,001,OR,"Columbia County Tot Mig-Same St",639,1206,22597
+41,009,97,003,OR,"Columbia County Tot Mig-Diff St",533,1080,19652
+41,009,98,000,OR,"Columbia County Tot Mig-Foreign",11,17,203
+41,009,41,009,OR,"Columbia County Non-Migrants",14754,34374,712982
+41,009,41,067,OR,"Washington County",206,385,7436
+41,009,41,051,OR,"Multnomah County",144,251,4762
+41,009,53,015,WA,"Cowlitz County",122,273,4180
+41,009,41,005,OR,"Clackamas County",75,142,2963
+41,009,53,011,WA,"Clark County",74,137,2821
+41,009,41,007,OR,"Clatsop County",52,108,2162
+41,009,41,047,OR,"Marion County",25,41,721
+41,009,41,039,OR,"Lane County",22,42,835
+41,009,41,017,OR,"Deschutes County",20,46,575
+41,009,53,033,WA,"King County",14,30,769
+41,009,53,063,WA,"Spokane County",10,15,410
+41,009,58,000,SS,"Other Flows - Same State",95,191,3141
+41,009,59,000,DS,"Other Flows - Diff State",313,625,11473
+41,009,59,001,DS,"Other Flows - Northeast",12,24,573
+41,009,59,003,DS,"Other Flows - Midwest",33,86,1132
+41,009,59,005,DS,"Other Flows - South",57,106,2033
+41,009,59,007,DS,"Other Flows - West",211,409,7735
+41,009,57,009,FR,"Foreign - Other flows",11,17,203
+41,011,96,000,OR,"Coos County Tot Mig-US & For",1352,2567,40293
+41,011,97,000,OR,"Coos County Tot Mig-US",1339,2541,40025
+41,011,97,001,OR,"Coos County Tot Mig-Same St",715,1322,20731
+41,011,97,003,OR,"Coos County Tot Mig-Diff St",624,1219,19294
+41,011,98,000,OR,"Coos County Tot Mig-Foreign",13,26,268
+41,011,41,011,OR,"Coos County Non-Migrants",19507,40965,750410
+41,011,41,039,OR,"Lane County",132,233,4299
+41,011,41,019,OR,"Douglas County",114,236,2737
+41,011,41,029,OR,"Jackson County",51,108,1417
+41,011,41,051,OR,"Multnomah County",50,80,1419
+41,011,41,017,OR,"Deschutes County",47,92,2314
+41,011,41,067,OR,"Washington County",45,67,1089
+41,011,41,047,OR,"Marion County",36,65,1084
+41,011,41,015,OR,"Curry County",32,61,845
+41,011,41,005,OR,"Clackamas County",31,51,817
+41,011,53,011,WA,"Clark County",27,45,807
+41,011,41,043,OR,"Linn County",26,60,1002
+41,011,41,003,OR,"Benton County",25,32,493
+41,011,32,031,NV,"Washoe County",19,28,692
+41,011,06,037,CA,"Los Angeles County",18,24,678
+41,011,41,035,OR,"Klamath County",18,26,398
+41,011,41,053,OR,"Polk County",18,37,522
+41,011,06,073,CA,"San Diego County",17,30,661
+41,011,53,033,WA,"King County",17,26,435
+41,011,41,033,OR,"Josephine County",16,33,435
+41,011,32,003,NV,"Clark County",14,25,530
+41,011,41,071,OR,"Yamhill County",14,26,350
+41,011,06,065,CA,"Riverside County",13,23,369
+41,011,41,041,OR,"Lincoln County",11,23,233
+41,011,04,013,AZ,"Maricopa County",10,17,428
+41,011,58,000,SS,"Other Flows - Same State",49,92,1277
+41,011,59,000,DS,"Other Flows - Diff State",489,1001,14695
+41,011,59,001,DS,"Other Flows - Northeast",23,45,1471
+41,011,59,003,DS,"Other Flows - Midwest",52,110,1454
+41,011,59,005,DS,"Other Flows - South",113,246,3654
+41,011,59,007,DS,"Other Flows - West",301,600,8116
+41,011,57,009,FR,"Foreign - Other flows",13,26,268
+41,013,96,000,OR,"Crook County Tot Mig-US & For",562,1141,15505
+41,013,97,000,OR,"Crook County Tot Mig-US",562,1141,15505
+41,013,97,001,OR,"Crook County Tot Mig-Same St",382,767,10318
+41,013,97,003,OR,"Crook County Tot Mig-Diff St",180,374,5187
+41,013,41,013,OR,"Crook County Non-Migrants",6134,13955,246437
+41,013,41,017,OR,"Deschutes County",210,411,5747
+41,013,41,039,OR,"Lane County",18,36,339
+41,013,41,047,OR,"Marion County",14,29,490
+41,013,41,005,OR,"Clackamas County",13,21,277
+41,013,41,031,OR,"Jefferson County",12,27,264
+41,013,41,003,OR,"Benton County",10,15,160
+41,013,41,043,OR,"Linn County",10,24,234
+41,013,41,059,OR,"Umatilla County",10,23,337
+41,013,41,067,OR,"Washington County",10,15,336
+41,013,58,000,SS,"Other Flows - Same State",75,166,2133
+41,013,59,000,DS,"Other Flows - Diff State",180,374,5187
+41,015,96,000,OR,"Curry County Tot Mig-US & For",700,1229,21291
+41,015,97,000,OR,"Curry County Tot Mig-US",700,1229,21291
+41,015,97,001,OR,"Curry County Tot Mig-Same St",310,546,9451
+41,015,97,003,OR,"Curry County Tot Mig-Diff St",390,683,11840
+41,015,41,015,OR,"Curry County Non-Migrants",7495,14987,296205
+41,015,41,029,OR,"Jackson County",61,108,1815
+41,015,41,011,OR,"Coos County",49,95,2336
+41,015,41,039,OR,"Lane County",44,63,998
+41,015,06,015,CA,"Del Norte County",32,66,1106
+41,015,41,019,OR,"Douglas County",26,53,513
+41,015,41,033,OR,"Josephine County",20,42,527
+41,015,04,013,AZ,"Maricopa County",17,33,449
+41,015,41,017,OR,"Deschutes County",17,32,386
+41,015,41,067,OR,"Washington County",15,21,318
+41,015,06,067,CA,"Sacramento County",12,19,400
+41,015,41,003,OR,"Benton County",12,18,273
+41,015,06,037,CA,"Los Angeles County",11,17,936
+41,015,58,000,SS,"Other Flows - Same State",66,114,2284
+41,015,59,000,DS,"Other Flows - Diff State",318,548,8949
+41,017,96,000,OR,"Deschutes County Tot Mig-US & For",3496,6246,115365
+41,017,97,000,OR,"Deschutes County Tot Mig-US",3459,6187,114578
+41,017,97,001,OR,"Deschutes County Tot Mig-Same St",1717,3174,50980
+41,017,97,003,OR,"Deschutes County Tot Mig-Diff St",1742,3013,63599
+41,017,98,000,OR,"Deschutes County Tot Mig-Foreign",37,59,787
+41,017,41,017,OR,"Deschutes County Non-Migrants",43868,94587,2123490
+41,017,41,013,OR,"Crook County",272,587,9814
+41,017,41,039,OR,"Lane County",205,328,4596
+41,017,41,051,OR,"Multnomah County",192,262,6519
+41,017,41,005,OR,"Clackamas County",136,255,4571
+41,017,41,067,OR,"Washington County",124,212,4438
+41,017,41,047,OR,"Marion County",103,181,2499
+41,017,41,029,OR,"Jackson County",74,125,2209
+41,017,41,031,OR,"Jefferson County",74,174,2014
+41,017,53,033,WA,"King County",66,106,2545
+41,017,53,011,WA,"Clark County",58,122,4598
+41,017,04,013,AZ,"Maricopa County",57,105,2573
+41,017,41,035,OR,"Klamath County",55,124,1843
+41,017,41,043,OR,"Linn County",55,109,1167
+41,017,41,003,OR,"Benton County",54,82,1269
+41,017,32,003,NV,"Clark County",50,87,1978
+41,017,06,037,CA,"Los Angeles County",44,70,1210
+41,017,41,041,OR,"Lincoln County",41,82,1515
+41,017,06,073,CA,"San Diego County",38,66,1142
+41,017,41,071,OR,"Yamhill County",38,73,998
+41,017,41,011,OR,"Coos County",32,59,1097
+41,017,41,053,OR,"Polk County",31,52,882
+41,017,04,019,AZ,"Pima County",30,52,864
+41,017,16,001,ID,"Ada County",30,55,883
+41,017,41,019,OR,"Douglas County",28,64,839
+41,017,06,065,CA,"Riverside County",27,36,691
+41,017,53,053,WA,"Pierce County",26,41,725
+41,017,53,063,WA,"Spokane County",26,44,1455
+41,017,41,059,OR,"Umatilla County",24,50,781
+41,017,06,059,CA,"Orange County",23,31,899
+41,017,06,089,CA,"Shasta County",22,38,589
+41,017,06,067,CA,"Sacramento County",21,33,555
+41,017,32,031,NV,"Washoe County",21,37,1055
+41,017,41,065,OR,"Wasco County",21,49,786
+41,017,02,020,AK,"Anchorage Borough",20,25,558
+41,017,57,005,FR,"Foreign - APO/FPO ZIPs",20,30,381
+41,017,41,023,OR,"Grant County",19,34,416
+41,017,41,037,OR,"Lake County",19,45,330
+41,017,53,061,WA,"Snohomish County",19,25,539
+41,017,53,067,WA,"Thurston County",19,35,3449
+41,017,30,063,MT,"Missoula County",17,23,587
+41,017,41,057,OR,"Tillamook County",17,27,453
+41,017,16,027,ID,"Canyon County",16,27,417
+41,017,41,061,OR,"Union County",16,35,529
+41,017,15,009,HI,"Maui County",15,24,488
+41,017,04,015,AZ,"Mohave County",14,31,473
+41,017,06,071,CA,"San Bernardino Count",14,29,366
+41,017,08,069,CO,"Larimer County",14,22,337
+41,017,41,015,OR,"Curry County",14,25,248
+41,017,30,029,MT,"Flathead County",13,22,224
+41,017,30,031,MT,"Gallatin County",13,20,339
+41,017,04,027,AZ,"Yuma County",12,20,378
+41,017,16,055,ID,"Kootenai County",12,20,473
+41,017,48,453,TX,"Travis County",12,22,523
+41,017,49,035,UT,"Salt Lake County",12,25,418
+41,017,53,035,WA,"Kitsap County",12,21,525
+41,017,41,025,OR,"Harney County",11,18,395
+41,017,41,033,OR,"Josephine County",11,21,261
+41,017,06,085,CA,"Santa Clara County",10,11,323
+41,017,41,027,OR,"Hood River County",10,16,352
+41,017,58,000,SS,"Other Flows - Same State",41,85,159
+41,017,59,000,DS,"Other Flows - Diff State",959,1688,31419
+41,017,59,001,DS,"Other Flows - Northeast",64,102,1506
+41,017,59,003,DS,"Other Flows - Midwest",127,222,3488
+41,017,59,005,DS,"Other Flows - South",232,452,7829
+41,017,59,007,DS,"Other Flows - West",536,912,18597
+41,017,57,009,FR,"Foreign - Other flows",17,29,406
+41,019,96,000,OR,"Douglas County Tot Mig-US & For",1965,3606,55497
+41,019,97,000,OR,"Douglas County Tot Mig-US",1939,3578,55082
+41,019,97,001,OR,"Douglas County Tot Mig-Same St",1034,1890,29335
+41,019,97,003,OR,"Douglas County Tot Mig-Diff St",905,1688,25747
+41,019,98,000,OR,"Douglas County Tot Mig-Foreign",26,28,415
+41,019,41,019,OR,"Douglas County Non-Migrants",33281,73275,1318499
+41,019,41,039,OR,"Lane County",270,513,7026
+41,019,41,011,OR,"Coos County",102,207,2944
+41,019,41,051,OR,"Multnomah County",83,117,1813
+41,019,41,067,OR,"Washington County",78,120,2047
+41,019,41,029,OR,"Jackson County",71,127,2745
+41,019,41,005,OR,"Clackamas County",50,92,1400
+41,019,41,047,OR,"Marion County",50,88,1517
+41,019,41,017,OR,"Deschutes County",47,81,1442
+41,019,41,033,OR,"Josephine County",41,80,1255
+41,019,41,003,OR,"Benton County",38,60,1276
+41,019,41,043,OR,"Linn County",37,76,1022
+41,019,53,011,WA,"Clark County",29,64,1169
+41,019,41,035,OR,"Klamath County",28,45,712
+41,019,41,053,OR,"Polk County",26,41,592
+41,019,53,033,WA,"King County",25,40,562
+41,019,06,037,CA,"Los Angeles County",23,37,549
+41,019,04,013,AZ,"Maricopa County",22,40,494
+41,019,06,073,CA,"San Diego County",21,31,415
+41,019,41,041,OR,"Lincoln County",19,36,437
+41,019,06,071,CA,"San Bernardino Count",18,40,282
+41,019,32,031,NV,"Washoe County",16,23,449
+41,019,06,059,CA,"Orange County",15,29,528
+41,019,06,065,CA,"Riverside County",15,26,429
+41,019,06,067,CA,"Sacramento County",15,20,420
+41,019,32,003,NV,"Clark County",15,25,482
+41,019,41,015,OR,"Curry County",15,41,734
+41,019,41,071,OR,"Yamhill County",15,34,479
+41,019,41,059,OR,"Umatilla County",14,28,347
+41,019,04,027,AZ,"Yuma County",12,20,342
+41,019,06,089,CA,"Shasta County",11,22,343
+41,019,53,061,WA,"Snohomish County",11,14,299
+41,019,16,001,ID,"Ada County",10,17,274
+41,019,41,013,OR,"Crook County",10,20,238
+41,019,58,000,SS,"Other Flows - Same State",40,84,1310
+41,019,59,000,DS,"Other Flows - Diff State",647,1240,18710
+41,019,59,001,DS,"Other Flows - Northeast",21,40,484
+41,019,59,003,DS,"Other Flows - Midwest",64,128,2163
+41,019,59,005,DS,"Other Flows - South",149,288,3911
+41,019,59,007,DS,"Other Flows - West",413,784,12153
+41,019,57,009,FR,"Foreign - Other flows",26,28,415
+41,021,96,000,OR,"Gilliam County Tot Mig-US & For",57,119,2122
+41,021,97,000,OR,"Gilliam County Tot Mig-US",57,119,2122
+41,021,97,001,OR,"Gilliam County Tot Mig-Same St",38,77,1396
+41,021,97,003,OR,"Gilliam County Tot Mig-Diff St",19,42,726
+41,021,41,021,OR,"Gilliam County Non-Migrants",598,1299,23335
+41,021,58,000,SS,"Other Flows - Same State",38,77,1396
+41,021,59,000,DS,"Other Flows - Diff State",19,42,726
+41,023,96,000,OR,"Grant County Tot Mig-US & For",211,433,5639
+41,023,97,000,OR,"Grant County Tot Mig-US",211,433,5639
+41,023,97,001,OR,"Grant County Tot Mig-Same St",120,260,3254
+41,023,97,003,OR,"Grant County Tot Mig-Diff St",91,173,2384
+41,023,41,023,OR,"Grant County Non-Migrants",2290,5083,84226
+41,023,41,017,OR,"Deschutes County",18,31,357
+41,023,41,059,OR,"Umatilla County",13,34,242
+41,023,58,000,SS,"Other Flows - Same State",89,195,2655
+41,023,59,000,DS,"Other Flows - Diff State",91,173,2384
+41,025,96,000,OR,"Harney County Tot Mig-US & For",216,449,6797
+41,025,97,000,OR,"Harney County Tot Mig-US",216,449,6797
+41,025,97,001,OR,"Harney County Tot Mig-Same St",123,266,4109
+41,025,97,003,OR,"Harney County Tot Mig-Diff St",93,183,2687
+41,025,41,025,OR,"Harney County Non-Migrants",2221,5129,70019
+41,025,41,017,OR,"Deschutes County",20,47,870
+41,025,58,000,SS,"Other Flows - Same State",103,219,3239
+41,025,59,000,DS,"Other Flows - Diff State",93,183,2687
+41,027,96,000,OR,"Hood River Coun Tot Mig-US & For",570,1061,16234
+41,027,97,000,OR,"Hood River Coun Tot Mig-US",570,1061,16234
+41,027,97,001,OR,"Hood River Coun Tot Mig-Same St",264,472,6626
+41,027,97,003,OR,"Hood River Coun Tot Mig-Diff St",306,589,9608
+41,027,41,027,OR,"Hood River Coun Non-Migrants",6687,16030,277399
+41,027,41,065,OR,"Wasco County",77,150,1890
+41,027,41,051,OR,"Multnomah County",76,118,2042
+41,027,53,039,WA,"Klickitat County",48,90,1634
+41,027,53,059,WA,"Skamania County",29,60,1158
+41,027,41,067,OR,"Washington County",24,41,383
+41,027,41,005,OR,"Clackamas County",23,42,584
+41,027,53,011,WA,"Clark County",23,52,782
+41,027,41,047,OR,"Marion County",14,29,528
+41,027,41,039,OR,"Lane County",12,19,193
+41,027,53,033,WA,"King County",12,20,228
+41,027,58,000,SS,"Other Flows - Same State",38,73,1007
+41,027,59,000,DS,"Other Flows - Diff State",194,367,5806
+41,029,96,000,OR,"Jackson County Tot Mig-US & For",3872,7015,116957
+41,029,97,000,OR,"Jackson County Tot Mig-US",3835,6947,116249
+41,029,97,001,OR,"Jackson County Tot Mig-Same St",1648,3023,49046
+41,029,97,003,OR,"Jackson County Tot Mig-Diff St",2187,3924,67203
+41,029,98,000,OR,"Jackson County Tot Mig-Foreign",37,68,708
+41,029,41,029,OR,"Jackson County Non-Migrants",63572,135735,2765035
+41,029,41,033,OR,"Josephine County",378,746,11294
+41,029,41,039,OR,"Lane County",202,370,5101
+41,029,41,051,OR,"Multnomah County",176,245,4820
+41,029,41,067,OR,"Washington County",142,229,4265
+41,029,41,035,OR,"Klamath County",96,190,2667
+41,029,41,019,OR,"Douglas County",89,174,2822
+41,029,41,005,OR,"Clackamas County",81,125,2970
+41,029,04,013,AZ,"Maricopa County",79,156,2114
+41,029,41,017,OR,"Deschutes County",79,148,3123
+41,029,06,037,CA,"Los Angeles County",76,127,2420
+41,029,41,047,OR,"Marion County",72,133,1996
+41,029,06,073,CA,"San Diego County",67,116,1607
+41,029,53,033,WA,"King County",63,111,1878
+41,029,41,011,OR,"Coos County",62,125,1836
+41,029,32,003,NV,"Clark County",59,102,3274
+41,029,32,031,NV,"Washoe County",49,74,1074
+41,029,41,003,OR,"Benton County",46,84,1313
+41,029,41,015,OR,"Curry County",45,108,1257
+41,029,53,011,WA,"Clark County",44,87,1721
+41,029,06,059,CA,"Orange County",41,71,998
+41,029,06,067,CA,"Sacramento County",41,75,1603
+41,029,41,043,OR,"Linn County",34,63,822
+41,029,06,093,CA,"Siskiyou County",29,50,653
+41,029,06,065,CA,"Riverside County",27,42,668
+41,029,06,071,CA,"San Bernardino Count",27,47,1088
+41,029,06,089,CA,"Shasta County",27,49,791
+41,029,06,085,CA,"Santa Clara County",26,38,814
+41,029,16,001,ID,"Ada County",26,47,700
+41,029,41,071,OR,"Yamhill County",26,53,1110
+41,029,06,097,CA,"Sonoma County",24,43,861
+41,029,41,041,OR,"Lincoln County",24,41,769
+41,029,53,063,WA,"Spokane County",24,53,685
+41,029,53,053,WA,"Pierce County",23,47,725
+41,029,57,005,FR,"Foreign - APO/FPO ZIPs",21,35,325
+41,029,53,061,WA,"Snohomish County",20,36,387
+41,029,06,001,CA,"Alameda County",19,31,405
+41,029,04,019,AZ,"Pima County",18,38,504
+41,029,06,023,CA,"Humboldt County",17,32,530
+41,029,15,003,HI,"Honolulu County",17,26,309
+41,029,04,025,AZ,"Yavapai County",16,31,460
+41,029,06,061,CA,"Placer County",16,31,611
+41,029,08,041,CO,"El Paso County",16,32,388
+41,029,06,007,CA,"Butte County",15,31,401
+41,029,06,113,CA,"Yolo County",15,21,56
+41,029,02,020,AK,"Anchorage Borough",14,19,384
+41,029,08,069,CO,"Larimer County",14,25,525
+41,029,15,001,HI,"Hawaii County",14,28,620
+41,029,53,067,WA,"Thurston County",14,24,394
+41,029,06,019,CA,"Fresno County",13,23,304
+41,029,06,053,CA,"Monterey County",13,20,384
+41,029,06,081,CA,"San Mateo County",13,19,327
+41,029,06,111,CA,"Ventura County",13,21,308
+41,029,06,015,CA,"Del Norte County",12,27,302
+41,029,06,045,CA,"Mendocino County",12,21,275
+41,029,06,075,CA,"San Francisco County",12,15,153
+41,029,06,077,CA,"San Joaquin County",12,21,207
+41,029,06,079,CA,"San Luis Obispo Coun",12,19,313
+41,029,15,009,HI,"Maui County",12,20,180
+41,029,41,053,OR,"Polk County",12,24,317
+41,029,49,049,UT,"Utah County",12,27,1338
+41,029,04,015,AZ,"Mohave County",11,23,177
+41,029,06,029,CA,"Kern County",11,23,265
+41,029,41,007,OR,"Clatsop County",11,23,248
+41,029,49,035,UT,"Salt Lake County",11,14,248
+41,029,06,013,CA,"Contra Costa County",10,11,242
+41,029,06,083,CA,"Santa Barbara County",10,15,481
+41,029,41,009,OR,"Columbia County",10,12,401
+41,029,41,013,OR,"Crook County",10,18,275
+41,029,41,059,OR,"Umatilla County",10,31,362
+41,029,48,439,TX,"Tarrant County",10,18,442
+41,029,58,000,SS,"Other Flows - Same State",43,81,1278
+41,029,59,000,DS,"Other Flows - Diff State",1011,1847,31611
+41,029,59,001,DS,"Other Flows - Northeast",96,143,2588
+41,029,59,003,DS,"Other Flows - Midwest",155,282,5658
+41,029,59,005,DS,"Other Flows - South",323,587,10523
+41,029,59,007,DS,"Other Flows - West",437,835,12842
+41,029,57,009,FR,"Foreign - Other flows",16,33,383
+41,031,96,000,OR,"Jefferson County Tot Mig-US & For",419,855,11316
+41,031,97,000,OR,"Jefferson County Tot Mig-US",419,855,11316
+41,031,97,001,OR,"Jefferson County Tot Mig-Same St",283,570,7842
+41,031,97,003,OR,"Jefferson County Tot Mig-Diff St",136,285,3474
+41,031,41,031,OR,"Jefferson County Non-Migrants",4844,12319,184327
+41,031,41,017,OR,"Deschutes County",117,257,3653
+41,031,41,013,OR,"Crook County",27,50,684
+41,031,41,051,OR,"Multnomah County",18,30,344
+41,031,41,005,OR,"Clackamas County",14,23,472
+41,031,41,067,OR,"Washington County",14,17,474
+41,031,41,039,OR,"Lane County",13,21,293
+41,031,58,000,SS,"Other Flows - Same State",80,172,1921
+41,031,59,000,DS,"Other Flows - Diff State",136,285,3474
+41,033,96,000,OR,"Josephine County Tot Mig-US & For",1688,3175,45913
+41,033,97,000,OR,"Josephine County Tot Mig-US",1668,3144,45475
+41,033,97,001,OR,"Josephine County Tot Mig-Same St",875,1662,23972
+41,033,97,003,OR,"Josephine County Tot Mig-Diff St",793,1482,21503
+41,033,98,000,OR,"Josephine County Tot Mig-Foreign",20,31,439
+41,033,41,033,OR,"Josephine County Non-Migrants",24504,52640,914704
+41,033,41,029,OR,"Jackson County",383,728,10436
+41,033,41,039,OR,"Lane County",82,129,2164
+41,033,41,019,OR,"Douglas County",75,153,1809
+41,033,41,005,OR,"Clackamas County",48,99,1369
+41,033,41,067,OR,"Washington County",44,83,1512
+41,033,41,047,OR,"Marion County",35,74,1059
+41,033,41,051,OR,"Multnomah County",35,53,974
+41,033,06,037,CA,"Los Angeles County",34,53,812
+41,033,41,015,OR,"Curry County",30,63,719
+41,033,04,013,AZ,"Maricopa County",27,45,644
+41,033,06,073,CA,"San Diego County",27,52,763
+41,033,32,003,NV,"Clark County",26,53,814
+41,033,41,011,OR,"Coos County",23,48,455
+41,033,41,017,OR,"Deschutes County",22,52,877
+41,033,53,033,WA,"King County",22,35,585
+41,033,41,035,OR,"Klamath County",19,41,508
+41,033,06,065,CA,"Riverside County",18,31,464
+41,033,06,059,CA,"Orange County",17,32,479
+41,033,53,011,WA,"Clark County",17,47,648
+41,033,41,003,OR,"Benton County",16,28,263
+41,033,41,053,OR,"Polk County",14,22,337
+41,033,06,067,CA,"Sacramento County",13,28,399
+41,033,53,061,WA,"Snohomish County",13,26,432
+41,033,32,031,NV,"Washoe County",12,20,346
+41,033,06,097,CA,"Sonoma County",11,19,298
+41,033,41,043,OR,"Linn County",11,24,260
+41,033,04,015,AZ,"Mohave County",10,23,363
+41,033,06,093,CA,"Siskiyou County",10,15,261
+41,033,41,071,OR,"Yamhill County",10,17,386
+41,033,58,000,SS,"Other Flows - Same State",28,48,845
+41,033,59,000,DS,"Other Flows - Diff State",536,1003,14196
+41,033,59,001,DS,"Other Flows - Northeast",25,39,470
+41,033,59,003,DS,"Other Flows - Midwest",50,90,1238
+41,033,59,005,DS,"Other Flows - South",141,260,3307
+41,033,59,007,DS,"Other Flows - West",320,614,9181
+41,033,57,009,FR,"Foreign - Other flows",20,31,439
+41,035,96,000,OR,"Klamath County Tot Mig-US & For",1422,2897,47108
+41,035,97,000,OR,"Klamath County Tot Mig-US",1405,2871,46680
+41,035,97,001,OR,"Klamath County Tot Mig-Same St",610,1174,17850
+41,035,97,003,OR,"Klamath County Tot Mig-Diff St",795,1697,28830
+41,035,98,000,OR,"Klamath County Tot Mig-Foreign",17,26,428
+41,035,41,035,OR,"Klamath County Non-Migrants",19659,44187,786162
+41,035,41,029,OR,"Jackson County",137,266,4471
+41,035,41,017,OR,"Deschutes County",71,160,2523
+41,035,41,039,OR,"Lane County",62,125,1569
+41,035,41,051,OR,"Multnomah County",42,59,1005
+41,035,41,067,OR,"Washington County",39,72,1151
+41,035,41,043,OR,"Linn County",32,55,702
+41,035,41,019,OR,"Douglas County",31,66,1057
+41,035,32,031,NV,"Washoe County",27,52,787
+41,035,41,005,OR,"Clackamas County",26,42,925
+41,035,06,093,CA,"Siskiyou County",24,58,498
+41,035,06,089,CA,"Shasta County",23,52,569
+41,035,41,033,OR,"Josephine County",22,44,547
+41,035,41,011,OR,"Coos County",21,41,369
+41,035,53,063,WA,"Spokane County",21,63,2597
+41,035,41,047,OR,"Marion County",20,48,396
+41,035,53,033,WA,"King County",20,42,763
+41,035,06,037,CA,"Los Angeles County",18,38,580
+41,035,06,067,CA,"Sacramento County",18,35,519
+41,035,41,003,OR,"Benton County",17,20,318
+41,035,41,037,OR,"Lake County",17,40,621
+41,035,32,003,NV,"Clark County",16,30,374
+41,035,53,011,WA,"Clark County",16,36,953
+41,035,06,049,CA,"Modoc County",14,32,252
+41,035,04,013,AZ,"Maricopa County",13,26,1317
+41,035,06,065,CA,"Riverside County",11,24,428
+41,035,06,073,CA,"San Diego County",11,16,363
+41,035,41,053,OR,"Polk County",11,20,312
+41,035,53,053,WA,"Pierce County",10,22,256
+41,035,58,000,SS,"Other Flows - Same State",62,116,1883
+41,035,59,000,DS,"Other Flows - Diff State",553,1171,18575
+41,035,59,001,DS,"Other Flows - Northeast",13,30,284
+41,035,59,003,DS,"Other Flows - Midwest",53,102,1387
+41,035,59,005,DS,"Other Flows - South",105,211,3743
+41,035,59,007,DS,"Other Flows - West",382,828,13160
+41,035,57,009,FR,"Foreign - Other flows",17,26,428
+41,037,96,000,OR,"Lake County Tot Mig-US & For",232,480,5776
+41,037,97,000,OR,"Lake County Tot Mig-US",232,480,5776
+41,037,97,001,OR,"Lake County Tot Mig-Same St",129,257,3506
+41,037,97,003,OR,"Lake County Tot Mig-Diff St",103,223,2270
+41,037,41,037,OR,"Lake County Non-Migrants",2240,5022,74632
+41,037,41,035,OR,"Klamath County",25,45,852
+41,037,41,017,OR,"Deschutes County",18,36,319
+41,037,41,039,OR,"Lane County",18,36,442
+41,037,58,000,SS,"Other Flows - Same State",68,140,1894
+41,037,59,000,DS,"Other Flows - Diff State",103,223,2270
+41,039,96,000,OR,"Lane County Tot Mig-US & For",7406,12514,223948
+41,039,97,000,OR,"Lane County Tot Mig-US",7300,12371,221911
+41,039,97,001,OR,"Lane County Tot Mig-Same St",3261,5457,92878
+41,039,97,003,OR,"Lane County Tot Mig-Diff St",4039,6914,129033
+41,039,98,000,OR,"Lane County Tot Mig-Foreign",106,143,2037
+41,039,41,039,OR,"Lane County Non-Migrants",109487,227233,4858148
+41,039,41,051,OR,"Multnomah County",642,828,14782
+41,039,41,067,OR,"Washington County",339,524,9214
+41,039,41,017,OR,"Deschutes County",271,500,8814
+41,039,41,043,OR,"Linn County",269,586,8813
+41,039,41,003,OR,"Benton County",255,402,6947
+41,039,41,005,OR,"Clackamas County",220,349,7410
+41,039,41,019,OR,"Douglas County",218,405,6382
+41,039,41,047,OR,"Marion County",211,374,6736
+41,039,53,033,WA,"King County",199,272,5899
+41,039,41,029,OR,"Jackson County",179,302,4824
+41,039,04,013,AZ,"Maricopa County",144,252,4614
+41,039,41,011,OR,"Coos County",128,220,4066
+41,039,53,011,WA,"Clark County",124,230,4942
+41,039,06,073,CA,"San Diego County",117,176,2808
+41,039,32,003,NV,"Clark County",110,185,2977
+41,039,06,037,CA,"Los Angeles County",99,149,2344
+41,039,41,041,OR,"Lincoln County",87,161,2187
+41,039,06,059,CA,"Orange County",64,108,2083
+41,039,41,033,OR,"Josephine County",63,108,1604
+41,039,41,035,OR,"Klamath County",60,118,1687
+41,039,53,053,WA,"Pierce County",59,111,1979
+41,039,06,065,CA,"Riverside County",52,89,7777
+41,039,06,067,CA,"Sacramento County",52,87,1538
+41,039,53,061,WA,"Snohomish County",52,102,1958
+41,039,41,053,OR,"Polk County",51,84,1686
+41,039,41,071,OR,"Yamhill County",44,87,1306
+41,039,53,063,WA,"Spokane County",42,67,2066
+41,039,16,001,ID,"Ada County",41,81,1603
+41,039,06,071,CA,"San Bernardino Count",39,73,777
+41,039,32,031,NV,"Washoe County",39,72,961
+41,039,04,019,AZ,"Pima County",38,63,1474
+41,039,15,003,HI,"Honolulu County",37,62,849
+41,039,06,001,CA,"Alameda County",36,59,930
+41,039,49,035,UT,"Salt Lake County",34,60,1117
+41,039,02,020,AK,"Anchorage Borough",32,49,936
+41,039,41,015,OR,"Curry County",32,56,856
+41,039,06,085,CA,"Santa Clara County",31,47,1019
+41,039,57,005,FR,"Foreign - APO/FPO ZIPs",31,45,588
+41,039,06,013,CA,"Contra Costa County",30,49,802
+41,039,17,031,IL,"Cook County",29,35,650
+41,039,53,015,WA,"Cowlitz County",29,67,931
+41,039,06,075,CA,"San Francisco County",28,30,588
+41,039,41,013,OR,"Crook County",27,48,1204
+41,039,41,059,OR,"Umatilla County",27,45,840
+41,039,53,005,WA,"Benton County",27,66,892
+41,039,53,035,WA,"Kitsap County",25,48,949
+41,039,04,015,AZ,"Mohave County",24,44,862
+41,039,06,097,CA,"Sonoma County",24,36,617
+41,039,06,087,CA,"Santa Cruz County",23,32,363
+41,039,41,007,OR,"Clatsop County",23,35,443
+41,039,06,083,CA,"Santa Barbara County",22,37,1205
+41,039,41,009,OR,"Columbia County",22,39,723
+41,039,06,081,CA,"San Mateo County",21,26,813
+41,039,06,089,CA,"Shasta County",21,40,488
+41,039,08,031,CO,"Denver County",21,31,444
+41,039,16,027,ID,"Canyon County",21,35,362
+41,039,41,057,OR,"Tillamook County",21,40,580
+41,039,53,073,WA,"Whatcom County",21,37,720
+41,039,08,013,CO,"Boulder County",20,24,322
+41,039,25,017,MA,"Middlesex County",20,22,320
+41,039,53,067,WA,"Thurston County",20,40,572
+41,039,30,031,MT,"Gallatin County",19,30,455
+41,039,06,023,CA,"Humboldt County",18,33,529
+41,039,04,027,AZ,"Yuma County",17,30,659
+41,039,08,041,CO,"El Paso County",17,34,690
+41,039,35,001,NM,"Bernalillo County",17,32,612
+41,039,02,110,AK,"Juneau Borough",16,22,427
+41,039,06,029,CA,"Kern County",16,36,1008
+41,039,06,111,CA,"Ventura County",16,27,278
+41,039,16,055,ID,"Kootenai County",16,42,1067
+41,039,06,019,CA,"Fresno County",15,34,596
+41,039,08,059,CO,"Jefferson County",15,31,524
+41,039,02,090,AK,"Fairbanks North Star",14,15,355
+41,039,04,025,AZ,"Yavapai County",14,23,529
+41,039,11,001,DC,"District Of Columbia",14,14,411
+41,039,30,063,MT,"Missoula County",14,18,332
+41,039,36,061,NY,"New York County",14,14,267
+41,039,06,099,CA,"Stanislaus County",13,33,378
+41,039,15,001,HI,"Hawaii County",13,24,308
+41,039,30,029,MT,"Flathead County",13,20,206
+41,039,06,061,CA,"Placer County",12,28,433
+41,039,15,009,HI,"Maui County",12,18,705
+41,039,26,161,MI,"Washtenaw County",12,19,332
+41,039,37,183,NC,"Wake County",12,21,874
+41,039,49,049,UT,"Utah County",12,23,352
+41,039,49,057,UT,"Weber County",12,18,190
+41,039,53,009,WA,"Clallam County",12,20,398
+41,039,53,029,WA,"Island County",12,16,229
+41,039,53,041,WA,"Lewis County",12,23,417
+41,039,02,170,AK,"Matanuska Susitna Bo",11,25,183
+41,039,06,077,CA,"San Joaquin County",11,27,602
+41,039,25,025,MA,"Suffolk County",11,14,320
+41,039,48,201,TX,"Harris County",11,19,352
+41,039,48,453,TX,"Travis County",11,14,149
+41,039,53,057,WA,"Skagit County",11,16,359
+41,039,53,077,WA,"Yakima County",11,16,166
+41,039,06,007,CA,"Butte County",10,19,190
+41,039,06,095,CA,"Solano County",10,16,217
+41,039,41,037,OR,"Lake County",10,32,221
+41,039,41,061,OR,"Union County",10,13,210
+41,039,47,037,TN,"Davidson County",10,11,511
+41,039,48,029,TX,"Bexar County",10,19,502
+41,039,48,113,TX,"Dallas County",10,16,259
+41,039,53,071,WA,"Walla Walla County",10,19,232
+41,039,58,000,SS,"Other Flows - Same State",52,101,1346
+41,039,59,000,DS,"Other Flows - Diff State",1636,2892,48879
+41,039,59,001,DS,"Other Flows - Northeast",207,320,4987
+41,039,59,003,DS,"Other Flows - Midwest",380,682,11031
+41,039,59,005,DS,"Other Flows - South",523,916,15957
+41,039,59,007,DS,"Other Flows - West",526,974,16904
+41,039,57,009,FR,"Foreign - Other flows",75,98,1449
+41,041,96,000,OR,"Lincoln County Tot Mig-US & For",1381,2488,41378
+41,041,97,000,OR,"Lincoln County Tot Mig-US",1381,2488,41378
+41,041,97,001,OR,"Lincoln County Tot Mig-Same St",766,1389,22939
+41,041,97,003,OR,"Lincoln County Tot Mig-Diff St",615,1099,18439
+41,041,41,041,OR,"Lincoln County Non-Migrants",14185,28410,561599
+41,041,41,047,OR,"Marion County",95,171,3005
+41,041,41,039,OR,"Lane County",85,131,2938
+41,041,41,051,OR,"Multnomah County",75,118,1938
+41,041,41,003,OR,"Benton County",67,117,1942
+41,041,41,067,OR,"Washington County",60,87,1785
+41,041,41,017,OR,"Deschutes County",53,102,1735
+41,041,41,005,OR,"Clackamas County",49,91,1363
+41,041,41,043,OR,"Linn County",46,97,1159
+41,041,41,053,OR,"Polk County",44,102,1185
+41,041,53,011,WA,"Clark County",34,69,1019
+41,041,41,057,OR,"Tillamook County",33,70,981
+41,041,53,033,WA,"King County",30,49,778
+41,041,41,011,OR,"Coos County",24,50,603
+41,041,41,071,OR,"Yamhill County",21,41,740
+41,041,53,053,WA,"Pierce County",21,34,505
+41,041,41,007,OR,"Clatsop County",19,40,540
+41,041,04,013,AZ,"Maricopa County",16,31,429
+41,041,41,019,OR,"Douglas County",16,27,455
+41,041,41,029,OR,"Jackson County",14,23,460
+41,041,06,037,CA,"Los Angeles County",13,14,839
+41,041,06,065,CA,"Riverside County",13,24,498
+41,041,32,003,NV,"Clark County",13,22,570
+41,041,53,063,WA,"Spokane County",12,13,206
+41,041,53,067,WA,"Thurston County",12,27,367
+41,041,16,001,ID,"Ada County",11,16,189
+41,041,06,073,CA,"San Diego County",10,15,231
+41,041,58,000,SS,"Other Flows - Same State",65,122,2109
+41,041,59,000,DS,"Other Flows - Diff State",430,785,12808
+41,041,59,001,DS,"Other Flows - Northeast",23,41,575
+41,041,59,003,DS,"Other Flows - Midwest",50,90,1215
+41,041,59,005,DS,"Other Flows - South",74,153,2604
+41,041,59,007,DS,"Other Flows - West",283,501,8414
+41,043,96,000,OR,"Linn County Tot Mig-US & For",2601,5080,80489
+41,043,97,000,OR,"Linn County Tot Mig-US",2573,5035,79969
+41,043,97,001,OR,"Linn County Tot Mig-Same St",1760,3368,56168
+41,043,97,003,OR,"Linn County Tot Mig-Diff St",813,1667,23801
+41,043,98,000,OR,"Linn County Tot Mig-Foreign",28,45,521
+41,043,41,043,OR,"Linn County Non-Migrants",33213,75608,1373867
+41,043,41,047,OR,"Marion County",426,865,13815
+41,043,41,003,OR,"Benton County",414,817,14941
+41,043,41,039,OR,"Lane County",242,465,7783
+41,043,41,017,OR,"Deschutes County",94,186,2830
+41,043,41,053,OR,"Polk County",80,164,2934
+41,043,41,005,OR,"Clackamas County",75,127,2085
+41,043,41,067,OR,"Washington County",72,113,1779
+41,043,41,051,OR,"Multnomah County",69,99,2002
+41,043,41,041,OR,"Lincoln County",38,61,1248
+41,043,41,029,OR,"Jackson County",36,70,1341
+41,043,53,033,WA,"King County",30,50,871
+41,043,53,011,WA,"Clark County",29,53,1461
+41,043,41,019,OR,"Douglas County",26,41,575
+41,043,41,071,OR,"Yamhill County",26,49,672
+41,043,06,073,CA,"San Diego County",25,41,629
+41,043,04,013,AZ,"Maricopa County",21,45,551
+41,043,41,059,OR,"Umatilla County",20,42,430
+41,043,41,057,OR,"Tillamook County",18,33,424
+41,043,57,005,FR,"Foreign - APO/FPO ZIPs",18,26,333
+41,043,41,035,OR,"Klamath County",17,25,338
+41,043,53,053,WA,"Pierce County",16,31,583
+41,043,32,003,NV,"Clark County",15,35,401
+41,043,06,037,CA,"Los Angeles County",14,25,277
+41,043,41,011,OR,"Coos County",14,29,506
+41,043,53,035,WA,"Kitsap County",14,33,375
+41,043,41,013,OR,"Crook County",13,22,339
+41,043,02,020,AK,"Anchorage Borough",12,19,214
+41,043,06,071,CA,"San Bernardino Count",12,20,150
+41,043,32,031,NV,"Washoe County",12,23,512
+41,043,53,063,WA,"Spokane County",12,31,256
+41,043,53,067,WA,"Thurston County",12,25,360
+41,043,41,033,OR,"Josephine County",11,21,268
+41,043,06,089,CA,"Shasta County",10,25,212
+41,043,41,001,OR,"Baker County",10,28,348
+41,043,58,000,SS,"Other Flows - Same State",59,111,1512
+41,043,59,000,DS,"Other Flows - Diff State",579,1211,16946
+41,043,59,001,DS,"Other Flows - Northeast",29,52,883
+41,043,59,003,DS,"Other Flows - Midwest",88,178,2059
+41,043,59,005,DS,"Other Flows - South",148,335,4371
+41,043,59,007,DS,"Other Flows - West",314,646,9633
+41,043,57,009,FR,"Foreign - Other flows",10,19,188
+41,045,96,000,OR,"Malheur County Tot Mig-US & For",714,1536,18442
+41,045,97,000,OR,"Malheur County Tot Mig-US",714,1536,18442
+41,045,97,001,OR,"Malheur County Tot Mig-Same St",149,291,3909
+41,045,97,003,OR,"Malheur County Tot Mig-Diff St",565,1245,14533
+41,045,41,045,OR,"Malheur County Non-Migrants",7962,19678,269193
+41,045,16,075,ID,"Payette County",141,313,4153
+41,045,16,027,ID,"Canyon County",88,228,2168
+41,045,16,001,ID,"Ada County",70,130,1745
+41,045,16,087,ID,"Washington County",24,56,537
+41,045,41,059,OR,"Umatilla County",15,26,287
+41,045,41,001,OR,"Baker County",13,23,288
+41,045,41,061,OR,"Union County",13,29,311
+41,045,04,013,AZ,"Maricopa County",12,27,312
+41,045,41,039,OR,"Lane County",12,24,334
+41,045,41,047,OR,"Marion County",11,22,241
+41,045,41,025,OR,"Harney County",10,26,305
+41,045,58,000,SS,"Other Flows - Same State",75,141,2143
+41,045,59,000,DS,"Other Flows - Diff State",230,491,5618
+41,047,96,000,OR,"Marion County Tot Mig-US & For",6580,12907,226808
+41,047,97,000,OR,"Marion County Tot Mig-US",6498,12787,223989
+41,047,97,001,OR,"Marion County Tot Mig-Same St",4075,7934,143905
+41,047,97,003,OR,"Marion County Tot Mig-Diff St",2423,4853,80084
+41,047,98,000,OR,"Marion County Tot Mig-Foreign",82,120,2819
+41,047,41,047,OR,"Marion County Non-Migrants",88851,206595,3990511
+41,047,41,053,OR,"Polk County",963,2048,39300
+41,047,41,005,OR,"Clackamas County",639,1299,26983
+41,047,41,051,OR,"Multnomah County",423,650,12009
+41,047,41,067,OR,"Washington County",417,712,12849
+41,047,41,043,OR,"Linn County",404,822,12651
+41,047,41,039,OR,"Lane County",204,366,5550
+41,047,41,017,OR,"Deschutes County",190,389,8480
+41,047,41,071,OR,"Yamhill County",178,396,5256
+41,047,53,011,WA,"Clark County",142,284,5069
+41,047,41,003,OR,"Benton County",139,223,4087
+41,047,04,013,AZ,"Maricopa County",94,207,4220
+41,047,53,033,WA,"King County",91,152,2834
+41,047,32,003,NV,"Clark County",86,149,5195
+41,047,41,029,OR,"Jackson County",75,143,2416
+41,047,06,037,CA,"Los Angeles County",71,128,1563
+41,047,41,041,OR,"Lincoln County",68,133,2282
+41,047,53,053,WA,"Pierce County",51,92,1629
+41,047,06,065,CA,"Riverside County",50,111,2047
+41,047,06,073,CA,"San Diego County",43,74,891
+41,047,41,019,OR,"Douglas County",42,67,1410
+41,047,57,005,FR,"Foreign - APO/FPO ZIPs",39,50,759
+41,047,06,067,CA,"Sacramento County",37,86,1192
+41,047,41,059,OR,"Umatilla County",37,98,1285
+41,047,41,033,OR,"Josephine County",34,67,977
+41,047,41,011,OR,"Coos County",33,55,681
+41,047,53,063,WA,"Spokane County",31,76,946
+41,047,06,071,CA,"San Bernardino Count",29,62,658
+41,047,41,035,OR,"Klamath County",27,51,950
+41,047,53,067,WA,"Thurston County",27,48,828
+41,047,06,059,CA,"Orange County",26,53,808
+41,047,16,001,ID,"Ada County",26,53,983
+41,047,02,020,AK,"Anchorage Borough",23,33,415
+41,047,41,007,OR,"Clatsop County",23,56,755
+41,047,53,061,WA,"Snohomish County",23,45,835
+41,047,04,019,AZ,"Pima County",22,45,493
+41,047,32,031,NV,"Washoe County",20,29,516
+41,047,41,009,OR,"Columbia County",20,28,731
+41,047,41,057,OR,"Tillamook County",20,43,556
+41,047,53,035,WA,"Kitsap County",18,34,447
+41,047,53,073,WA,"Whatcom County",18,26,332
+41,047,41,061,OR,"Union County",17,28,626
+41,047,06,085,CA,"Santa Clara County",16,34,1206
+41,047,15,003,HI,"Honolulu County",16,31,459
+41,047,41,013,OR,"Crook County",16,33,495
+41,047,49,035,UT,"Salt Lake County",16,33,323
+41,047,53,015,WA,"Cowlitz County",16,52,562
+41,047,16,027,ID,"Canyon County",15,30,709
+41,047,49,049,UT,"Utah County",15,29,188
+41,047,04,015,AZ,"Mohave County",14,31,498
+41,047,41,015,OR,"Curry County",14,31,694
+41,047,53,005,WA,"Benton County",14,28,422
+41,047,04,021,AZ,"Pinal County",13,24,378
+41,047,06,013,CA,"Contra Costa County",13,30,362
+41,047,41,001,OR,"Baker County",13,25,393
+41,047,41,037,OR,"Lake County",13,36,427
+41,047,06,029,CA,"Kern County",12,26,134
+41,047,30,029,MT,"Flathead County",12,29,337
+41,047,41,027,OR,"Hood River County",12,27,442
+41,047,06,061,CA,"Placer County",11,22,1054
+41,047,06,089,CA,"Shasta County",11,21,231
+41,047,06,099,CA,"Stanislaus County",11,24,329
+41,047,15,001,HI,"Hawaii County",11,25,580
+41,047,41,045,OR,"Malheur County",11,21,371
+41,047,51,059,VA,"Fairfax County",11,18,499
+41,047,06,077,CA,"San Joaquin County",10,26,477
+41,047,24,031,MD,"Montgomery County",10,13,464
+41,047,41,031,OR,"Jefferson County",10,28,367
+41,047,48,201,TX,"Harris County",10,20,210
+41,047,49,011,UT,"Davis County",10,25,301
+41,047,53,057,WA,"Skagit County",10,19,472
+41,047,53,077,WA,"Yakima County",10,24,369
+41,047,58,000,SS,"Other Flows - Same State",33,59,883
+41,047,59,000,DS,"Other Flows - Diff State",1208,2452,37618
+41,047,59,001,DS,"Other Flows - Northeast",93,161,2800
+41,047,59,003,DS,"Other Flows - Midwest",222,475,5948
+41,047,59,005,DS,"Other Flows - South",354,715,11961
+41,047,59,007,DS,"Other Flows - West",539,1101,16909
+41,047,57,009,FR,"Foreign - Other flows",43,70,2059
+41,049,96,000,OR,"Morrow County Tot Mig-US & For",353,767,9612
+41,049,97,000,OR,"Morrow County Tot Mig-US",353,767,9612
+41,049,97,001,OR,"Morrow County Tot Mig-Same St",223,504,6447
+41,049,97,003,OR,"Morrow County Tot Mig-Diff St",130,263,3164
+41,049,41,049,OR,"Morrow County Non-Migrants",3049,7941,117618
+41,049,41,059,OR,"Umatilla County",139,338,3902
+41,049,53,005,WA,"Benton County",16,32,609
+41,049,41,039,OR,"Lane County",11,21,180
+41,049,41,005,OR,"Clackamas County",10,16,210
+41,049,58,000,SS,"Other Flows - Same State",63,129,2155
+41,049,59,000,DS,"Other Flows - Diff State",114,231,2555
+41,051,96,000,OR,"Multnomah County Tot Mig-US & For",24495,42338,979644
+41,051,97,000,OR,"Multnomah County Tot Mig-US",24210,41903,971010
+41,051,97,001,OR,"Multnomah County Tot Mig-Same St",12790,22689,525530
+41,051,97,003,OR,"Multnomah County Tot Mig-Diff St",11420,19214,445481
+41,051,98,000,OR,"Multnomah County Tot Mig-Foreign",285,435,8633
+41,051,41,051,OR,"Multnomah County Non-Migrants",229472,451514,11477671
+41,051,41,005,OR,"Clackamas County",5315,10196,220229
+41,051,41,067,OR,"Washington County",4403,7381,178626
+41,051,53,011,WA,"Clark County",2518,4974,123027
+41,051,53,033,WA,"King County",630,910,25453
+41,051,41,047,OR,"Marion County",442,763,14430
+41,051,41,039,OR,"Lane County",376,516,10616
+41,051,06,037,CA,"Los Angeles County",364,515,12916
+41,051,41,017,OR,"Deschutes County",347,613,28777
+41,051,41,009,OR,"Columbia County",306,627,13317
+41,051,04,013,AZ,"Maricopa County",269,495,11640
+41,051,06,073,CA,"San Diego County",221,325,8375
+41,051,32,003,NV,"Clark County",189,350,5911
+41,051,41,003,OR,"Benton County",170,208,5189
+41,051,41,071,OR,"Yamhill County",158,291,5620
+41,051,06,075,CA,"San Francisco County",152,173,5547
+41,051,17,031,IL,"Cook County",141,178,4644
+41,051,53,053,WA,"Pierce County",133,235,4300
+41,051,41,029,OR,"Jackson County",129,178,3604
+41,051,41,007,OR,"Clatsop County",122,207,6068
+41,051,41,041,OR,"Lincoln County",122,190,5624
+41,051,36,061,NY,"New York County",120,135,5863
+41,051,06,059,CA,"Orange County",114,181,4431
+41,051,41,057,OR,"Tillamook County",108,177,7334
+41,051,53,015,WA,"Cowlitz County",107,195,3685
+41,051,06,067,CA,"Sacramento County",102,197,2868
+41,051,41,053,OR,"Polk County",98,181,3542
+41,051,06,001,CA,"Alameda County",96,134,3317
+41,051,06,085,CA,"Santa Clara County",94,148,9314
+41,051,41,043,OR,"Linn County",89,124,2419
+41,051,16,001,ID,"Ada County",88,150,2770
+41,051,41,027,OR,"Hood River County",80,140,4183
+41,051,53,063,WA,"Spokane County",79,132,2317
+41,051,49,035,UT,"Salt Lake County",73,127,2011
+41,051,57,005,FR,"Foreign - APO/FPO ZIPs",73,101,1400
+41,051,27,053,MN,"Hennepin County",72,113,3514
+41,051,53,067,WA,"Thurston County",72,98,3110
+41,051,41,065,OR,"Wasco County",71,122,2801
+41,051,35,001,NM,"Bernalillo County",69,103,1936
+41,051,36,047,NY,"Kings County",69,82,1361
+41,051,48,453,TX,"Travis County",68,99,1994
+41,051,02,020,AK,"Anchorage Borough",67,96,2172
+41,051,53,061,WA,"Snohomish County",65,128,2458
+41,051,06,065,CA,"Riverside County",63,126,3370
+41,051,15,003,HI,"Honolulu County",62,96,2543
+41,051,04,019,AZ,"Pima County",61,105,1778
+41,051,11,001,DC,"District Of Columbia",60,68,2175
+41,051,41,019,OR,"Douglas County",58,89,1453
+41,051,41,059,OR,"Umatilla County",58,100,1457
+41,051,08,031,CO,"Denver County",57,85,2064
+41,051,41,011,OR,"Coos County",54,93,1465
+41,051,06,081,CA,"San Mateo County",50,67,2381
+41,051,25,017,MA,"Middlesex County",49,67,1624
+41,051,53,073,WA,"Whatcom County",48,81,2067
+41,051,06,013,CA,"Contra Costa County",47,80,1953
+41,051,08,013,CO,"Boulder County",47,59,1518
+41,051,32,031,NV,"Washoe County",47,88,2111
+41,051,41,035,OR,"Klamath County",47,83,1132
+41,051,41,033,OR,"Josephine County",43,70,1193
+41,051,06,083,CA,"Santa Barbara County",42,49,1360
+41,051,48,201,TX,"Harris County",41,69,1271
+41,051,53,005,WA,"Benton County",41,76,1596
+41,051,06,071,CA,"San Bernardino Count",40,67,1098
+41,051,06,097,CA,"Sonoma County",40,54,1660
+41,051,53,039,WA,"Klickitat County",40,81,1776
+41,051,53,077,WA,"Yakima County",40,61,1342
+41,051,30,063,MT,"Missoula County",39,47,955
+41,051,48,113,TX,"Dallas County",39,59,1636
+41,051,55,025,WI,"Dane County",39,49,1346
+41,051,42,101,PA,"Philadelphia County",38,49,678
+41,051,53,035,WA,"Kitsap County",38,59,1147
+41,051,08,041,CO,"El Paso County",36,61,1790
+41,051,15,001,HI,"Hawaii County",36,58,1178
+41,051,08,005,CO,"Arapahoe County",35,55,1280
+41,051,41,013,OR,"Crook County",35,71,964
+41,051,24,031,MD,"Montgomery County",33,53,1242
+41,051,36,081,NY,"Queens County",33,43,931
+41,051,41,031,OR,"Jefferson County",33,65,1649
+41,051,06,087,CA,"Santa Cruz County",32,44,744
+41,051,25,025,MA,"Suffolk County",32,34,683
+41,051,39,049,OH,"Franklin County",31,42,1467
+41,051,12,011,FL,"Broward County",30,36,740
+41,051,12,103,FL,"Pinellas County",29,50,1237
+41,051,16,055,ID,"Kootenai County",29,49,4125
+41,051,51,059,VA,"Fairfax County",29,41,1174
+41,051,04,005,AZ,"Coconino County",28,43,495
+41,051,06,019,CA,"Fresno County",28,57,653
+41,051,41,061,OR,"Union County",28,49,777
+41,051,42,003,PA,"Allegheny County",28,43,1728
+41,051,53,059,WA,"Skamania County",28,69,1642
+41,051,12,086,FL,"Miami Dade County",27,40,757
+41,051,06,053,CA,"Monterey County",26,44,520
+41,051,06,061,CA,"Placer County",26,56,1237
+41,051,13,121,GA,"Fulton County",26,41,1448
+41,051,15,009,HI,"Maui County",26,36,1068
+41,051,30,031,MT,"Gallatin County",26,46,739
+41,051,37,183,NC,"Wake County",26,54,1177
+41,051,53,049,WA,"Pacific County",26,38,1021
+41,051,48,439,TX,"Tarrant County",25,42,741
+41,051,06,079,CA,"San Luis Obispo Coun",23,33,591
+41,051,26,161,MI,"Washtenaw County",23,30,785
+41,051,27,123,MN,"Ramsey County",23,40,926
+41,051,41,001,OR,"Baker County",23,41,820
+41,051,48,029,TX,"Bexar County",23,44,1097
+41,051,53,071,WA,"Walla Walla County",23,40,707
+41,051,04,015,AZ,"Mohave County",22,49,725
+41,051,06,041,CA,"Marin County",22,29,1054
+41,051,08,069,CO,"Larimer County",22,30,464
+41,051,12,095,FL,"Orange County",22,46,1244
+41,051,22,071,LA,"Orleans Parish",22,32,691
+41,051,39,035,OH,"Cuyahoga County",22,29,825
+41,051,47,037,TN,"Davidson County",22,33,768
+41,051,06,077,CA,"San Joaquin County",21,34,534
+41,051,13,089,GA,"De Kalb County",21,34,634
+41,051,16,027,ID,"Canyon County",21,33,535
+41,051,55,079,WI,"Milwaukee County",21,30,719
+41,051,06,111,CA,"Ventura County",20,33,559
+41,051,12,057,FL,"Hillsborough County",20,49,1238
+41,051,18,097,IN,"Marion County",20,22,601
+41,051,29,189,MO,"St Louis County",20,28,828
+41,051,53,027,WA,"Grays Harbor County",20,38,633
+41,051,12,031,FL,"Duval County",19,31,609
+41,051,12,115,FL,"Sarasota County",19,43,604
+41,051,30,029,MT,"Flathead County",19,24,299
+41,051,26,125,MI,"Oakland County",18,35,1185
+41,051,51,013,VA,"Arlington County",18,27,948
+41,051,04,025,AZ,"Yavapai County",17,27,623
+41,051,06,007,CA,"Butte County",17,29,381
+41,051,08,001,CO,"Adams County",17,27,641
+41,051,20,091,KS,"Johnson County",17,34,698
+41,051,24,510,MD,Baltimore,17,23,687
+41,051,44,007,RI,"Providence County",17,23,623
+41,051,02,110,AK,"Juneau Borough",16,28,375
+41,051,02,122,AK,"Kenai Peninsula Boro",16,26,357
+41,051,06,029,CA,"Kern County",16,28,640
+41,051,06,113,CA,"Yolo County",16,23,526
+41,051,19,153,IA,"Polk County",16,23,384
+41,051,35,049,NM,"Santa Fe County",16,18,235
+41,051,53,007,WA,"Chelan County",16,27,339
+41,051,08,059,CO,"Jefferson County",15,29,761
+41,051,13,135,GA,"Gwinnett County",15,32,472
+41,051,23,005,ME,"Cumberland County",15,23,952
+41,051,29,095,MO,"Jackson County",15,19,392
+41,051,31,055,NE,"Douglas County",15,26,1178
+41,051,36,029,NY,"Erie County",15,23,339
+41,051,36,119,NY,"Westchester County",15,22,457
+41,051,37,021,NC,"Buncombe County",15,26,316
+41,051,39,061,OH,"Hamilton County",15,26,723
+41,051,41,015,OR,"Curry County",15,27,454
+41,051,51,510,VA,Alexandria,15,23,742
+41,051,51,760,VA,Richmond,15,17,495
+41,051,53,009,WA,"Clallam County",15,23,989
+41,051,53,031,WA,"Jefferson County",15,25,474
+41,051,06,089,CA,"Shasta County",14,20,321
+41,051,08,035,CO,"Douglas County",14,20,607
+41,051,16,019,ID,"Bonneville County",14,29,286
+41,051,48,027,TX,"Bell County",14,27,326
+41,051,50,007,VT,"Chittenden County",14,24,761
+41,051,53,041,WA,"Lewis County",14,29,489
+41,051,53,057,WA,"Skagit County",14,29,586
+41,051,06,023,CA,"Humboldt County",13,15,282
+41,051,09,001,CT,"Fairfield County",13,21,1026
+41,051,09,003,CT,"Hartford County",13,23,381
+41,051,09,009,CT,"New Haven County",13,18,312
+41,051,12,033,FL,"Escambia County",13,21,246
+41,051,12,071,FL,"Lee County",13,25,371
+41,051,17,043,IL,"Du Page County",13,21,352
+41,051,17,097,IL,"Lake County",13,23,679
+41,051,25,015,MA,"Hampshire County",13,20,295
+41,051,25,021,MA,"Norfolk County",13,20,789
+41,051,37,063,NC,"Durham County",13,19,495
+41,051,41,023,OR,"Grant County",13,20,347
+41,051,47,157,TN,"Shelby County",13,20,379
+41,051,49,049,UT,"Utah County",13,34,356
+41,051,53,037,WA,"Kittitas County",13,22,336
+41,051,19,103,IA,"Johnson County",12,13,213
+41,051,24,005,MD,"Baltimore County",12,21,616
+41,051,29,510,MO,"St Louis",12,26,348
+41,051,33,015,NH,"Rockingham County",12,20,1352
+41,051,41,045,OR,"Malheur County",12,15,192
+41,051,53,029,WA,"Island County",12,18,1032
+41,051,53,055,WA,"San Juan County",12,21,719
+41,051,56,039,WY,"Teton County",12,12,212
+41,051,02,090,AK,"Fairbanks North Star",11,15,403
+41,051,04,021,AZ,"Pinal County",11,22,287
+41,051,04,027,AZ,"Yuma County",11,17,496
+41,051,12,081,FL,"Manatee County",11,18,224
+41,051,12,099,FL,"Palm Beach County",11,24,347
+41,051,13,067,GA,"Cobb County",11,22,512
+41,051,30,111,MT,"Yellowstone County",11,18,260
+41,051,35,043,NM,"Sandoval County",11,19,516
+41,051,36,109,NY,"Tompkins County",11,16,191
+41,051,48,085,TX,"Collin County",11,21,891
+41,051,06,017,CA,"El Dorado County",10,14,267
+41,051,06,045,CA,"Mendocino County",10,19,172
+41,051,12,009,FL,"Brevard County",10,16,339
+41,051,13,059,GA,"Clarke County",10,13,199
+41,051,16,013,ID,"Blaine County",10,11,356
+41,051,18,105,IN,"Monroe County",10,17,264
+41,051,37,133,NC,"Onslow County",10,15,124
+41,051,47,093,TN,"Knox County",10,17,196
+41,051,53,045,WA,"Mason County",10,19,509
+41,051,53,075,WA,"Whitman County",10,14,214
+41,051,58,000,SS,"Other Flows - Same State",35,52,1244
+41,051,59,000,DS,"Other Flows - Diff State",2120,3620,65745
+41,051,59,001,DS,"Other Flows - Northeast",337,525,12984
+41,051,59,003,DS,"Other Flows - Midwest",565,957,15958
+41,051,59,005,DS,"Other Flows - South",707,1240,23260
+41,051,59,007,DS,"Other Flows - West",511,898,13542
+41,051,57,009,FR,"Foreign - Other flows",212,334,7233
+41,053,96,000,OR,"Polk County Tot Mig-US & For",2171,4099,72774
+41,053,97,000,OR,"Polk County Tot Mig-US",2155,4065,72400
+41,053,97,001,OR,"Polk County Tot Mig-Same St",1624,3050,55399
+41,053,97,003,OR,"Polk County Tot Mig-Diff St",531,1015,17001
+41,053,98,000,OR,"Polk County Tot Mig-Foreign",16,34,374
+41,053,41,053,OR,"Polk County Non-Migrants",19654,45857,970111
+41,053,41,047,OR,"Marion County",890,1680,30350
+41,053,41,071,OR,"Yamhill County",121,279,5092
+41,053,41,067,OR,"Washington County",92,155,2979
+41,053,41,051,OR,"Multnomah County",89,139,2686
+41,053,41,043,OR,"Linn County",70,150,2658
+41,053,41,003,OR,"Benton County",62,117,1909
+41,053,41,005,OR,"Clackamas County",61,102,2362
+41,053,41,039,OR,"Lane County",51,73,1423
+41,053,41,041,OR,"Lincoln County",34,68,1204
+41,053,41,017,OR,"Deschutes County",33,62,1009
+41,053,53,033,WA,"King County",25,54,1024
+41,053,41,029,OR,"Jackson County",23,41,612
+41,053,04,013,AZ,"Maricopa County",20,46,511
+41,053,53,011,WA,"Clark County",20,47,795
+41,053,06,037,CA,"Los Angeles County",18,41,841
+41,053,32,003,NV,"Clark County",14,27,351
+41,053,06,073,CA,"San Diego County",12,21,263
+41,053,41,013,OR,"Crook County",12,27,640
+41,053,06,065,CA,"Riverside County",11,27,436
+41,053,53,053,WA,"Pierce County",11,21,396
+41,053,41,019,OR,"Douglas County",10,18,275
+41,053,49,049,UT,"Utah County",10,19,171
+41,053,58,000,SS,"Other Flows - Same State",76,139,2200
+41,053,59,000,DS,"Other Flows - Diff State",390,712,12213
+41,053,59,001,DS,"Other Flows - Northeast",20,33,658
+41,053,59,003,DS,"Other Flows - Midwest",51,104,1331
+41,053,59,005,DS,"Other Flows - South",91,153,2498
+41,053,59,007,DS,"Other Flows - West",228,422,7725
+41,053,57,009,FR,"Foreign - Other flows",16,34,374
+41,055,96,000,OR,"Sherman County Tot Mig-US & For",57,129,1625
+41,055,97,000,OR,"Sherman County Tot Mig-US",57,129,1625
+41,055,97,001,OR,"Sherman County Tot Mig-Same St",38,93,1108
+41,055,97,003,OR,"Sherman County Tot Mig-Diff St",19,36,516
+41,055,41,055,OR,"Sherman County Non-Migrants",547,1252,20302
+41,055,41,065,OR,"Wasco County",20,48,644
+41,055,58,000,SS,"Other Flows - Same State",18,45,464
+41,055,59,000,DS,"Other Flows - Diff State",19,36,516
+41,057,96,000,OR,"Tillamook County Tot Mig-US & For",657,1210,20331
+41,057,97,000,OR,"Tillamook County Tot Mig-US",657,1210,20331
+41,057,97,001,OR,"Tillamook County Tot Mig-Same St",388,697,11989
+41,057,97,003,OR,"Tillamook County Tot Mig-Diff St",269,513,8341
+41,057,41,057,OR,"Tillamook County Non-Migrants",7994,16913,314437
+41,057,41,067,OR,"Washington County",68,123,2159
+41,057,41,051,OR,"Multnomah County",52,70,1526
+41,057,41,005,OR,"Clackamas County",30,57,813
+41,057,41,039,OR,"Lane County",28,46,1246
+41,057,41,047,OR,"Marion County",27,55,920
+41,057,41,017,OR,"Deschutes County",23,39,661
+41,057,41,071,OR,"Yamhill County",21,51,512
+41,057,41,007,OR,"Clatsop County",19,31,501
+41,057,41,041,OR,"Lincoln County",19,35,339
+41,057,41,053,OR,"Polk County",14,27,611
+41,057,53,011,WA,"Clark County",13,25,429
+41,057,41,003,OR,"Benton County",10,10,189
+41,057,58,000,SS,"Other Flows - Same State",77,153,2511
+41,057,59,000,DS,"Other Flows - Diff State",256,488,7912
+41,057,59,001,DS,"Other Flows - Northeast",12,31,300
+41,057,59,003,DS,"Other Flows - Midwest",18,33,635
+41,057,59,005,DS,"Other Flows - South",39,72,992
+41,057,59,007,DS,"Other Flows - West",187,352,5984
+41,059,96,000,OR,"Umatilla County Tot Mig-US & For",1686,3411,47964
+41,059,97,000,OR,"Umatilla County Tot Mig-US",1666,3382,47309
+41,059,97,001,OR,"Umatilla County Tot Mig-Same St",620,1181,16809
+41,059,97,003,OR,"Umatilla County Tot Mig-Diff St",1046,2201,30500
+41,059,98,000,OR,"Umatilla County Tot Mig-Foreign",20,29,655
+41,059,41,059,OR,"Umatilla County Non-Migrants",21523,51449,861615
+41,059,53,071,WA,"Walla Walla County",171,386,4533
+41,059,41,049,OR,"Morrow County",128,304,3687
+41,059,53,005,WA,"Benton County",86,172,2568
+41,059,41,061,OR,"Union County",65,120,1714
+41,059,41,051,OR,"Multnomah County",54,81,1361
+41,059,41,047,OR,"Marion County",50,107,1678
+41,059,41,067,OR,"Washington County",43,61,882
+41,059,41,005,OR,"Clackamas County",40,73,1379
+41,059,53,063,WA,"Spokane County",35,68,1057
+41,059,53,021,WA,"Franklin County",31,79,897
+41,059,04,013,AZ,"Maricopa County",27,61,794
+41,059,16,001,ID,"Ada County",27,51,841
+41,059,41,017,OR,"Deschutes County",27,53,731
+41,059,53,033,WA,"King County",27,38,653
+41,059,53,077,WA,"Yakima County",27,53,582
+41,059,41,039,OR,"Lane County",25,46,662
+41,059,53,011,WA,"Clark County",22,44,678
+41,059,41,003,OR,"Benton County",19,24,325
+41,059,32,003,NV,"Clark County",18,30,511
+41,059,41,001,OR,"Baker County",17,30,533
+41,059,41,041,OR,"Lincoln County",17,27,405
+41,059,41,045,OR,"Malheur County",17,25,285
+41,059,16,027,ID,"Canyon County",15,30,487
+41,059,53,061,WA,"Snohomish County",14,26,434
+41,059,16,083,ID,"Twin Falls County",11,21,249
+41,059,41,029,OR,"Jackson County",11,16,346
+41,059,41,065,OR,"Wasco County",11,20,264
+41,059,41,023,OR,"Grant County",10,14,281
+41,059,58,000,SS,"Other Flows - Same State",86,180,2277
+41,059,59,000,DS,"Other Flows - Diff State",535,1142,16215
+41,059,59,001,DS,"Other Flows - Northeast",10,24,257
+41,059,59,003,DS,"Other Flows - Midwest",39,90,1273
+41,059,59,005,DS,"Other Flows - South",130,287,3856
+41,059,59,007,DS,"Other Flows - West",356,741,10829
+41,059,57,009,FR,"Foreign - Other flows",20,29,655
+41,061,96,000,OR,"Union County Tot Mig-US & For",712,1383,21824
+41,061,97,000,OR,"Union County Tot Mig-US",712,1383,21824
+41,061,97,001,OR,"Union County Tot Mig-Same St",366,699,10532
+41,061,97,003,OR,"Union County Tot Mig-Diff St",346,684,11292
+41,061,41,061,OR,"Union County Non-Migrants",7992,17925,324336
+41,061,41,059,OR,"Umatilla County",71,131,2098
+41,061,41,001,OR,"Baker County",36,81,882
+41,061,41,051,OR,"Multnomah County",33,44,671
+41,061,16,001,ID,"Ada County",31,55,819
+41,061,41,005,OR,"Clackamas County",21,42,594
+41,061,41,017,OR,"Deschutes County",21,45,943
+41,061,41,047,OR,"Marion County",21,48,712
+41,061,41,063,OR,"Wallowa County",18,37,349
+41,061,41,067,OR,"Washington County",17,24,568
+41,061,16,027,ID,"Canyon County",16,32,302
+41,061,53,071,WA,"Walla Walla County",15,35,1383
+41,061,41,039,OR,"Lane County",14,31,437
+41,061,53,063,WA,"Spokane County",13,27,388
+41,061,41,043,OR,"Linn County",11,20,766
+41,061,53,005,WA,"Benton County",11,22,233
+41,061,41,003,OR,"Benton County",10,10,190
+41,061,58,000,SS,"Other Flows - Same State",93,186,2323
+41,061,59,000,DS,"Other Flows - Diff State",260,513,8168
+41,063,96,000,OR,"Wallowa County Tot Mig-US & For",203,378,7744
+41,063,97,000,OR,"Wallowa County Tot Mig-US",203,378,7744
+41,063,97,001,OR,"Wallowa County Tot Mig-Same St",98,177,2881
+41,063,97,003,OR,"Wallowa County Tot Mig-Diff St",105,201,4864
+41,063,41,063,OR,"Wallowa County Non-Migrants",2404,5212,83098
+41,063,41,061,OR,"Union County",13,23,291
+41,063,41,017,OR,"Deschutes County",10,18,163
+41,063,41,059,OR,"Umatilla County",10,14,204
+41,063,58,000,SS,"Other Flows - Same State",65,122,2222
+41,063,59,000,DS,"Other Flows - Diff State",105,201,4864
+41,065,96,000,OR,"Wasco County Tot Mig-US & For",580,1190,17227
+41,065,97,000,OR,"Wasco County Tot Mig-US",580,1190,17227
+41,065,97,001,OR,"Wasco County Tot Mig-Same St",300,592,9032
+41,065,97,003,OR,"Wasco County Tot Mig-Diff St",280,598,8196
+41,065,41,065,OR,"Wasco County Non-Migrants",7426,16425,290039
+41,065,41,027,OR,"Hood River County",46,106,1542
+41,065,53,039,WA,"Klickitat County",44,104,1660
+41,065,41,051,OR,"Multnomah County",35,57,774
+41,065,41,005,OR,"Clackamas County",30,60,878
+41,065,41,067,OR,"Washington County",30,59,768
+41,065,53,011,WA,"Clark County",26,48,629
+41,065,41,017,OR,"Deschutes County",24,42,754
+41,065,41,047,OR,"Marion County",19,36,523
+41,065,41,039,OR,"Lane County",10,15,283
+41,065,58,000,SS,"Other Flows - Same State",106,217,3509
+41,065,59,000,DS,"Other Flows - Diff State",210,446,5907
+41,067,96,000,OR,"Washington Coun Tot Mig-US & For",14819,27481,673101
+41,067,97,000,OR,"Washington Coun Tot Mig-US",14653,27148,666681
+41,067,97,001,OR,"Washington Coun Tot Mig-Same St",8115,14136,350859
+41,067,97,003,OR,"Washington Coun Tot Mig-Diff St",6538,13012,315822
+41,067,98,000,OR,"Washington Coun Tot Mig-Foreign",166,333,6420
+41,067,41,067,OR,"Washington Coun Non-Migrants",149524,341983,8972883
+41,067,41,051,OR,"Multnomah County",3622,5682,152501
+41,067,41,005,OR,"Clackamas County",1810,3238,85976
+41,067,53,011,WA,"Clark County",788,1623,42155
+41,067,41,071,OR,"Yamhill County",525,1080,21925
+41,067,41,047,OR,"Marion County",378,741,14471
+41,067,53,033,WA,"King County",367,682,21374
+41,067,41,009,OR,"Columbia County",317,712,15114
+41,067,04,013,AZ,"Maricopa County",315,672,19179
+41,067,41,039,OR,"Lane County",268,424,8255
+41,067,41,017,OR,"Deschutes County",245,500,16629
+41,067,06,037,CA,"Los Angeles County",221,387,8536
+41,067,32,003,NV,"Clark County",157,296,5689
+41,067,06,073,CA,"San Diego County",150,255,6545
+41,067,41,003,OR,"Benton County",144,244,4223
+41,067,06,085,CA,"Santa Clara County",136,269,8564
+41,067,06,059,CA,"Orange County",133,292,6226
+41,067,41,029,OR,"Jackson County",102,182,5309
+41,067,53,053,WA,"Pierce County",90,192,3802
+41,067,41,053,OR,"Polk County",89,154,3093
+41,067,41,007,OR,"Clatsop County",80,141,3478
+41,067,41,041,OR,"Lincoln County",76,147,3200
+41,067,41,057,OR,"Tillamook County",74,122,3528
+41,067,53,061,WA,"Snohomish County",74,135,2612
+41,067,53,063,WA,"Spokane County",70,128,2393
+41,067,16,001,ID,"Ada County",69,144,3821
+41,067,06,001,CA,"Alameda County",68,111,3859
+41,067,06,065,CA,"Riverside County",68,133,2992
+41,067,04,019,AZ,"Pima County",66,143,3105
+41,067,06,067,CA,"Sacramento County",64,125,2699
+41,067,15,003,HI,"Honolulu County",64,103,2373
+41,067,41,043,OR,"Linn County",54,125,1984
+41,067,32,031,NV,"Washoe County",52,102,2233
+41,067,17,031,IL,"Cook County",48,99,1838
+41,067,48,453,TX,"Travis County",47,107,4403
+41,067,49,035,UT,"Salt Lake County",46,92,1600
+41,067,41,019,OR,"Douglas County",45,88,1219
+41,067,57,005,FR,"Foreign - APO/FPO ZIPs",45,54,904
+41,067,49,049,UT,"Utah County",44,102,1505
+41,067,06,071,CA,"San Bernardino Count",43,78,1432
+41,067,35,001,NM,"Bernalillo County",43,94,2471
+41,067,37,183,NC,"Wake County",42,117,3496
+41,067,53,015,WA,"Cowlitz County",41,89,1549
+41,067,41,059,OR,"Umatilla County",37,75,1201
+41,067,06,075,CA,"San Francisco County",36,38,1226
+41,067,48,201,TX,"Harris County",36,93,1801
+41,067,53,067,WA,"Thurston County",36,63,1617
+41,067,02,020,AK,"Anchorage Borough",35,64,1693
+41,067,41,033,OR,"Josephine County",35,73,1172
+41,067,53,005,WA,"Benton County",32,84,1962
+41,067,53,035,WA,"Kitsap County",32,74,1345
+41,067,41,035,OR,"Klamath County",31,57,1410
+41,067,41,011,OR,"Coos County",30,55,813
+41,067,41,027,OR,"Hood River County",30,48,1154
+41,067,06,013,CA,"Contra Costa County",27,65,1274
+41,067,36,061,NY,"New York County",26,33,1030
+41,067,41,013,OR,"Crook County",26,55,1183
+41,067,48,113,TX,"Dallas County",26,52,1243
+41,067,51,059,VA,"Fairfax County",26,46,913
+41,067,06,019,CA,"Fresno County",25,56,912
+41,067,06,061,CA,"Placer County",25,54,1854
+41,067,06,077,CA,"San Joaquin County",25,52,939
+41,067,08,005,CO,"Arapahoe County",25,45,945
+41,067,48,439,TX,"Tarrant County",25,52,1238
+41,067,27,053,MN,"Hennepin County",24,47,1458
+41,067,35,043,NM,"Sandoval County",24,61,2224
+41,067,15,009,HI,"Maui County",23,34,239
+41,067,16,055,ID,"Kootenai County",23,56,1332
+41,067,48,085,TX,"Collin County",23,54,1420
+41,067,30,031,MT,"Gallatin County",22,34,867
+41,067,06,081,CA,"San Mateo County",21,31,1093
+41,067,08,041,CO,"El Paso County",21,44,1899
+41,067,15,001,HI,"Hawaii County",21,41,1027
+41,067,16,027,ID,"Canyon County",21,39,712
+41,067,53,077,WA,"Yakima County",21,48,569
+41,067,06,095,CA,"Solano County",20,43,846
+41,067,06,111,CA,"Ventura County",20,40,1351
+41,067,08,069,CO,"Larimer County",20,40,1147
+41,067,12,095,FL,"Orange County",20,31,706
+41,067,06,083,CA,"Santa Barbara County",19,31,901
+41,067,06,097,CA,"Sonoma County",19,47,732
+41,067,12,103,FL,"Pinellas County",19,31,611
+41,067,48,029,TX,"Bexar County",19,44,949
+41,067,08,031,CO,"Denver County",18,28,708
+41,067,08,059,CO,"Jefferson County",18,39,883
+41,067,30,063,MT,"Missoula County",18,29,478
+41,067,53,073,WA,"Whatcom County",18,32,447
+41,067,06,053,CA,"Monterey County",17,29,683
+41,067,06,099,CA,"Stanislaus County",17,47,797
+41,067,12,057,FL,"Hillsborough County",17,44,838
+41,067,17,043,IL,"Du Page County",16,31,763
+41,067,25,017,MA,"Middlesex County",16,28,919
+41,067,41,015,OR,"Curry County",16,30,597
+41,067,41,065,OR,"Wasco County",16,30,541
+41,067,49,011,UT,"Davis County",16,47,645
+41,067,55,025,WI,"Dane County",16,31,557
+41,067,06,023,CA,"Humboldt County",15,17,437
+41,067,08,013,CO,"Boulder County",15,23,959
+41,067,20,091,KS,"Johnson County",15,34,706
+41,067,36,047,NY,"Kings County",15,17,333
+41,067,15,007,HI,"Kauai County",14,21,335
+41,067,18,097,IN,"Marion County",14,23,455
+41,067,24,031,MD,"Montgomery County",14,19,745
+41,067,29,189,MO,"St Louis County",14,31,531
+41,067,53,071,WA,"Walla Walla County",14,24,351
+41,067,02,090,AK,"Fairbanks North Star",13,23,427
+41,067,04,025,AZ,"Yavapai County",13,24,368
+41,067,06,029,CA,"Kern County",13,28,635
+41,067,08,035,CO,"Douglas County",13,31,1141
+41,067,11,001,DC,"District Of Columbia",13,14,341
+41,067,30,029,MT,"Flathead County",13,19,596
+41,067,48,141,TX,"El Paso County",13,34,558
+41,067,48,491,TX,"Williamson County",13,27,818
+41,067,53,041,WA,"Lewis County",13,29,584
+41,067,08,001,CO,"Adams County",12,18,401
+41,067,12,086,FL,"Miami Dade County",12,21,555
+41,067,13,121,GA,"Fulton County",12,29,1138
+41,067,16,005,ID,"Bannock County",12,37,389
+41,067,25,027,MA,"Worcester County",12,28,930
+41,067,30,111,MT,"Yellowstone County",12,22,459
+41,067,42,003,PA,"Allegheny County",12,26,528
+41,067,42,101,PA,"Philadelphia County",12,13,176
+41,067,53,027,WA,"Grays Harbor County",12,16,301
+41,067,53,029,WA,"Island County",12,28,355
+41,067,53,049,WA,"Pacific County",12,19,564
+41,067,04,003,AZ,"Cochise County",11,22,561
+41,067,04,005,AZ,"Coconino County",11,19,426
+41,067,06,079,CA,"San Luis Obispo Coun",11,23,366
+41,067,06,089,CA,"Shasta County",11,31,481
+41,067,12,011,FL,"Broward County",11,29,576
+41,067,25,021,MA,"Norfolk County",11,21,681
+41,067,26,125,MI,"Oakland County",11,28,858
+41,067,27,123,MN,"Ramsey County",11,25,295
+41,067,48,027,TX,"Bell County",11,23,201
+41,067,48,121,TX,"Denton County",11,26,593
+41,067,53,039,WA,"Klickitat County",11,17,373
+41,067,04,015,AZ,"Mohave County",10,21,3028
+41,067,06,017,CA,"El Dorado County",10,28,682
+41,067,12,099,FL,"Palm Beach County",10,21,446
+41,067,27,037,MN,"Dakota County",10,18,645
+41,067,39,061,OH,"Hamilton County",10,18,296
+41,067,40,143,OK,"Tulsa County",10,14,304
+41,067,41,001,OR,"Baker County",10,17,413
+41,067,41,031,OR,"Jefferson County",10,15,283
+41,067,41,061,OR,"Union County",10,25,341
+41,067,48,215,TX,"Hidalgo County",10,25,270
+41,067,51,510,VA,Alexandria,10,12,457
+41,067,58,000,SS,"Other Flows - Same State",35,76,845
+41,067,59,000,DS,"Other Flows - Diff State",1628,3274,73921
+41,067,59,001,DS,"Other Flows - Northeast",239,460,13356
+41,067,59,003,DS,"Other Flows - Midwest",377,729,15978
+41,067,59,005,DS,"Other Flows - South",567,1209,28214
+41,067,59,007,DS,"Other Flows - West",445,876,16372
+41,067,57,009,FR,"Foreign - Other flows",121,279,5516
+41,069,96,000,OR,"Wheeler County Tot Mig-US & For",48,103,966
+41,069,97,000,OR,"Wheeler County Tot Mig-US",48,103,966
+41,069,97,001,OR,"Wheeler County Tot Mig-Same St",36,77,796
+41,069,97,003,OR,"Wheeler County Tot Mig-Diff St",12,26,170
+41,069,41,069,OR,"Wheeler County Non-Migrants",431,931,13367
+41,069,58,000,SS,"Other Flows - Same State",36,77,796
+41,069,59,000,DS,"Other Flows - Diff State",12,26,170
+41,071,96,000,OR,"Yamhill County Tot Mig-US & For",2113,4198,68810
+41,071,97,000,OR,"Yamhill County Tot Mig-US",2092,4169,68406
+41,071,97,001,OR,"Yamhill County Tot Mig-Same St",1390,2701,45062
+41,071,97,003,OR,"Yamhill County Tot Mig-Diff St",702,1468,23344
+41,071,98,000,OR,"Yamhill County Tot Mig-Foreign",21,29,404
+41,071,41,071,OR,"Yamhill County Non-Migrants",24870,59330,1196636
+41,071,41,067,OR,"Washington County",403,775,15113
+41,071,41,047,OR,"Marion County",202,411,7836
+41,071,41,005,OR,"Clackamas County",171,320,3404
+41,071,41,051,OR,"Multnomah County",168,253,4763
+41,071,41,053,OR,"Polk County",150,354,5490
+41,071,53,011,WA,"Clark County",48,102,1636
+41,071,41,003,OR,"Benton County",46,61,901
+41,071,41,017,OR,"Deschutes County",32,65,1037
+41,071,41,039,OR,"Lane County",30,65,1031
+41,071,04,013,AZ,"Maricopa County",27,62,762
+41,071,41,041,OR,"Lincoln County",25,35,663
+41,071,53,033,WA,"King County",25,36,844
+41,071,41,043,OR,"Linn County",23,65,923
+41,071,06,037,CA,"Los Angeles County",17,27,373
+41,071,06,073,CA,"San Diego County",16,26,676
+41,071,41,029,OR,"Jackson County",16,31,358
+41,071,41,009,OR,"Columbia County",15,38,502
+41,071,53,053,WA,"Pierce County",15,27,373
+41,071,41,007,OR,"Clatsop County",14,32,515
+41,071,41,057,OR,"Tillamook County",14,27,328
+41,071,32,003,NV,"Clark County",13,32,649
+41,071,04,019,AZ,"Pima County",12,24,335
+41,071,41,059,OR,"Umatilla County",12,27,294
+41,071,53,063,WA,"Spokane County",12,28,383
+41,071,06,071,CA,"San Bernardino Count",10,19,384
+41,071,16,001,ID,"Ada County",10,14,238
+41,071,32,031,NV,"Washoe County",10,22,361
+41,071,53,061,WA,"Snohomish County",10,26,456
+41,071,58,000,SS,"Other Flows - Same State",69,142,1903
+41,071,59,000,DS,"Other Flows - Diff State",477,1023,15874
+41,071,59,001,DS,"Other Flows - Northeast",20,39,444
+41,071,59,003,DS,"Other Flows - Midwest",59,125,1818
+41,071,59,005,DS,"Other Flows - South",106,212,3097
+41,071,59,007,DS,"Other Flows - West",292,647,10515
+41,071,57,009,FR,"Foreign - Other flows",21,29,404
