@@ -1,0 +1,55 @@
+#!/usr/bin/perl
+
+$pi = 4 * atan2(1, 1);
+$foot = .00000274;
+
+open(IN, "tl_2016_us_county.json");
+while (<IN>) {
+	if (/"STATEFP": "([^"]+)", "COUNTYFP": "([^"]*)".*"INTPTLAT": "([^"]+)", "INTPTLON": "([^"]+)"/) {
+		$lat{"$1,$2"} = $3 + 0;
+		$lon{"$1,$2"} = $4 + 0;
+	}
+}
+close(IN);
+
+while (<>) {
+	chomp;
+	push @lines, $_;
+
+	($s1, $c1, $s2, $c2, $state, $name, $flow, $hh, $inc) = split(/,/, $_);
+
+	if (($s2 eq "96" && $c2 eq "000") || ($s1 eq $s2 && $c1 eq $c2)) {
+		$total{"$s1,$c1"} += $flow;
+		$hhtotal{"$s1,$c1"} += $hh;
+		$inctotal{"$s1,$c1"} += $inc;
+	}
+}
+
+for (@lines) {
+	($s1, $c1, $s2, $c2, $rest) = split(/,/, $_, 5);
+
+	$k1 = "$s1,$c1";
+	$k2 = "$s2,$c2";
+
+	$lat1 = $lat{"$s1,$c1"};
+	$lon1 = $lon{"$s1,$c1"};
+
+	$lat2 = $lat{"$s2,$c2"};
+	$lon2 = $lon{"$s2,$c2"};
+
+	$rat = cos(($lat1 + $lat2) / 2 * $pi / 180);
+	$latd = $lat2 - $lat1;
+	$lond = ($lon2 - $lon1) * $rat;
+	$d = sqrt($latd * $latd + $lond * $lond) / $foot / 5280;
+
+	if ($lat1 eq "" || $lat2 eq "") {
+		next;
+		$d = "x";
+	}
+
+	if ($d == 0) {
+		next;
+	}
+
+	print "$s1,$c1,$s2,$c2,$rest,$lat1,$lon1,$lat2,$lon2,$d,$total{$k1},$total{$k2},$hhtotal{$k1},$hhtotal{$k2},$inctotal{$k1},$inctotal{$k2}\n";
+}
